@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.857 du 23 avril 2001 rendant exécutoire l'amendement à l'accord relatif à la conservation des chauves-souris en Europe (dit accord Eurobats) signé lors de la réunion des Parties à Bristol entre le 24 et le 26 juillet 2000
