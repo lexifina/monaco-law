@@ -1,0 +1,3 @@
+# Article 14
+
+Le stockage de pièces et feux d'artifices est strictement limité au délai d'installation du chantier de tir. Le responsable du tir doit mettre en place des moyens d'extinctions appropriés. Il s'assure de la surveillance permanente des pièces et du respect des distances de sécurité telles que définies à l'article 15. Il prend toute disposition pour évacuer immédiatement les pièces présentant des anomalies et qui ne seront pas tirées. Si, à l'issue du feu, des pièces défectueuses n'ont pas été tirées, il prévient le représentant de la Direction de la Sûreté Publique et conserve les mesures de sécurité imposées jusqu'à l'évacuation de ces pièces.
