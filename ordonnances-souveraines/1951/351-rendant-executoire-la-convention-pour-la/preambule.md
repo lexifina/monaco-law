@@ -1,0 +1,1 @@
+Une Convention pour la prévention et la répression du crime de génocide, à laquelle Nous avons adhéré le 30 mars 1950, ayant été signée à Lake Success le 9 décembre 1948, ladite Convention, dont la teneur suit, recevra sa pleine et entière exécution à dater de la promulgation de la présente Ordonnance.
