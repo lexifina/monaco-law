@@ -1,0 +1,13 @@
+# Article 42
+
+Le porteur doit donner avis du défaut de paiement à son endosseur et au tireur dans les quatre jours ouvrables qui suivent le jour du protêt ou de la constatation équivalente, et, en cas de clause de retour sans frais, le jour de la présentation. Chaque endosseur doit, dans les deux jours ouvrables qui suivent le jour où il a reçu l'avis, faire connaître à son endosseur l'avis qu'il a reçu, en indiquant les noms et les adresses de ceux qui ont donné les avis précédents, et ainsi de suite, en remontant jusqu'au tireur. Les délais ci-dessus indiqués courent de la réception de l'avis précédent.
+
+Lorsque, en conformité de l'alinéa précédent, un avis est donné à un signataire du chèque, le même avis doit être donné, dans le même délai, à son avaliseur,
+
+Dans le cas où un endosseur n'a pas indiqué son adresse ou l'a indiquée d'une façon illisible, il suffit que l'avis soit donné à l'endosseur qui le précède.
+
+Celui qui a un avis à donner peut le faire sous une forme quelconque, même par un simple renvoi du chèque.
+
+Il doit prouver qu'il a donné l'avis dans le délai imparti. Ce délai sera considéré comme observé, si une lettre-missive donnant l'avis à été mise à la poste dans ledit délai.
+
+Celui qui ne donne pas l'avis dans le délai ci-dessus indiqué, n'encourt pas de déchéance ; il est responsable, s'il y a lieu du préjudice causé par sa négligence, sans que les dommages-intérêts puissent dépasser le montant du chèque.
