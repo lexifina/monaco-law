@@ -1,0 +1,1 @@
+Arrêté ministériel n° 99-327 du 23 juillet 1999 fixant le taux des allocations d'aide publique en faveur des travailleurs privés momentanément et involontairement d'emploi et des plafonds de ressources pour en bénéficier
