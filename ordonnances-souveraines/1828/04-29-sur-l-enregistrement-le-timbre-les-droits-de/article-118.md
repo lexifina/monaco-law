@@ -1,0 +1,3 @@
+# Article 118
+
+Au moyen de la responsabilité prononcée par l'article précédent, l'immeuble à l'égard duquel le conservateur aurait omis une ou plusieurs des charges inscrites, en demeure affranchi dans les mains du nouveau possesseur, pourvu qu'il ait remis ce certificat depuis la transcription de l'acte de mutation ; les créanciers ont le droit néanmoins de faire colloquer leurs créances suivant le rang qui lui appartient, tant que le prix n'a point été payé au vendeur, ou que l'ordre de distribution n'a point été fait entre les autres créanciers. Le conservateur sera subrogé de droit aux actions que les créanciers qu'il aurait été obligé de payer avaient contre le débiteur originaire.

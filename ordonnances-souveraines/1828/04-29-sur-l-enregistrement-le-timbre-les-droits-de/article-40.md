@@ -1,0 +1,5 @@
+# Article 40
+
+Aucun notaire ou huissier ne pourra faire ou rédiger un acte en vertu d'un acte sous signature privée ou passé en pays étranger, l'annexer à ses minutes ou l'y mentionner, ni le recevoir en dépôt, ni en délivrer extrait, copie ou expédition, s'il n'a été préalablement enregistré, à peine de dix euros d'amende et de répondre personnellement du droit.
+
+Toutefois, les notaires et les huissiers pourront faire des actes en vertu et par suite d'actes sous signature privée ou passés en pays étranger, non enregistrés et non timbrés, et les énoncer dans leurs actes, à la condition que chacun de ces actes sous seing privé ou passés en pays étranger demeurera annexé à celui dans lequel il se trouvera mentionné et qu'il sera soumis avant lui ou en même temps que lui à la formalité de l'enregistrement et du timbre. Les notaires et les huissiers seront personnellement responsables des droits d'enregistrement et de timbre, ainsi que des amendes dont lesdits actes sous seing privé ou passés en pays étranger seront passibles.
