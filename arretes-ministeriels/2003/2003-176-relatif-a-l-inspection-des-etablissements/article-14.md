@@ -1,0 +1,3 @@
+# Article 14
+
+Lorsqu'en raison de la qualité ou de la quantité d'un produit, la division en deux échantillons est impossible, l'inspecteur qui effectue le prélèvement place sous scellés, en un échantillon unique, la totalité du produit.
