@@ -1,0 +1,5 @@
+# Article 5
+
+Sa Majesté l'Empereur des Français s'engage à entretenir en bon état et à ses frais, en l'élargissant et la rectifiant sur les points qui seront convenus entre les administrations respectives, dans son parcours sur le territoire de Roquebrune, la route déjà construite qui, partant de cette de Nice à Génes, dite de la Corniche, aboutit à la ville de Monaco.
+
+Le Prince de Monaco s'oblige à laisser construire et fonctionner sur le territoire de la Principauté, moyennant entente préalable entre les administrations respectives, en ce qui concerne les détails d'exécution, sans que le Prince soit tenu à aucune subvention ni garantie d'intérêt, la partie du chemin de fer qui serait construit de Nice à Gênes et traverserait ledit territoire. De son côté. Sa Majesté l'Empereur des Français s'engage à établir, dans un délai prochain une route carrossable de Nice à Monaco par le littoral : il est entendu que chacun des deux Gouvernements supportera la dépense de la portion de cette route afférente à son territoire.
