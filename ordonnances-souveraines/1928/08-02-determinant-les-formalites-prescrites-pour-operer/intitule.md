@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 767 du 2 août 1928 déterminant les formalités prescrites pour opérer les prélèvements et les saisies, et les méthodes à suivre pour les analyses des produits et marchandises suspectés de falsification
