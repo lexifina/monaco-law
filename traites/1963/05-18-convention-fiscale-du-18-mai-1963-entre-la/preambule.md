@@ -1,0 +1,1 @@
+Son Altesse Sérénissime le Prince de Monaco et le Gouvernement de la République Française, se référant au Traité du 17 juillet 1918 et plus particulièrement à son article 6, sont convenus des dispositions suivantes :
