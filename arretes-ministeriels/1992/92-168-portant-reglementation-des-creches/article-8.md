@@ -14,6 +14,6 @@ Elle établit et entretient des relations avec les personnes qui assurent la cha
 
 c) La gestion
 
-Elle doit envoyer à la direction de l'action sanitaire et sociale, dans la forme et suivant la périodicité qui lui sont indiquées, les renseignements relatifs à la gestion de l'établissement et, notamment à son taux d'occupation.
+Elle doit envoyer à la direction de l'Action sanitaire et sociale, dans la forme et suivant la périodicité qui lui sont indiquées, les renseignements relatifs à la gestion de l'établissement et, notamment à son taux d'occupation.
 
-Elle est tenue de signaler, au directeur de l'action sanitaire et sociale, tout accident grave survenu dans les locaux de l'établissement ou à l'occasion de son fonctionnement.
+Elle est tenue de signaler, au directeur de l'Action sanitaire et sociale, tout accident grave survenu dans les locaux de l'établissement ou à l'occasion de son fonctionnement.
