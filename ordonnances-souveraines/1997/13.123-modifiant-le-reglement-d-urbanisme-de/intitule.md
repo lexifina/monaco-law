@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.123 du 2 juillet 1997 modifiant le règlement d'urbanisme, de construction et de voirie de la zone Nord du quartier de La Condamine en ce qui concerne l'îlot V de ladite zone
