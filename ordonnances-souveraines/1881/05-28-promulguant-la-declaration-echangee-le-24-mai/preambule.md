@@ -1,0 +1,1 @@
+Une Déclaration ayant été échangée le vingt-quatre mai mil huit cent quatre-vingt-un entre Notre Principauté et la France, concernant la communication réciproque des actes de l'Etat-Civil; ladite Déclaration, dont la teneur suit, recevra sa pleine et entière exécution.
