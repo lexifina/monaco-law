@@ -1,0 +1,3 @@
+# Article 15
+
+Les dispositions du présent accord ne peuvent faire l'objet de réserves générales. Toutefois, une réserve spécifique peut être émise par tout État concernant une partie spécifiquement délimitée de ses eaux intérieures au moment de la signature sans réserve de ratification, d'acceptation ou d'approbation ou, le cas échéant, sur le dépôt de son instrument de ratification, d'acceptation, d'approbation ou d'adhésion. Une telle réserve peut être retirée à tout moment par l'État qui l'a formulée par notification écrite adressée au dépositaire ; un tel État ne devient lié par l'application de l'accord aux eaux qui font l'objet de la réserve que trente jours après la date du retrait de ladite réserve.

@@ -1,0 +1,11 @@
+# Article 10
+
+1. Le présent accord peut être amendé à toute session, ordinaire ou extraordinaire, de la réunion des parties.
+
+2. Toute partie peut formuler des propositions d'amendement à l'accord. Le texte de toute proposition d'amendement accompagné de son exposé des motifs est communiqué au secrétariat de l'accord au moins cent cinquante jours avant l'ouverture de la session. Le secrétariat de l'accord en transmet aussitôt copie aux parties. Tout commentaire fait par les parties sur le texte est communiqué au secrétariat de l'accord au plus tard soixante jours avant l'ouverture de la session. Aussitôt que possible après l'expiration de ce délai, le secrétariat communique aux parties tous les commentaires reçus à ce jour.
+
+3. Toute annexe supplémentaire ou tout amendement à l'accord autre qu'un amendement à ses annexes est adopté à la majorité des deux tiers des parties présente set votantes et entre en vigueur pour celles des parties qui l'ont accepté le trentième jour après la date à laquelle deux tiers des parties à l'accord à la date de l'adoption de l'annexe supplémentaire ou de l'amendement ont déposé leur instrument d'approbation auprès du dépositaire. Pour toute partie qui dépose un instrument d'approbation après la date à laquelle deux tiers des parties ont déposé leur instrument d'approbation, cette annexe supplémentaire ou cet amendement entrera en vigueur le trentième jour après la date à laquelle elle a déposé son instrument d'approbation.
+
+4. Tout amendement à une annexe à l'accord est adopté à la majorité des deux-tiers des parties présentes et votantes, et entre en vigueur à l'égard de toutes les parties le cent cinquantième jour après la date de son adoption par la réunion des parties, sauf pour les parties qui auront émis une réserve conformément au paragraphe 5 du présent article.
+
+5. Au cours du délai de cent cinquante jours prévu au paragraphe 4 du présent article, toute partie peut, par notification écrite au dépositaire, émettre une réserve à l'égard d'un amendement à une annexe à l'accord. Une telle réserve peut être retirée par notification écrite au dépositaire et l'amendement entrera alors en vigueur pour ladite partie le trentième jour après la date du retrait de la réserve.
