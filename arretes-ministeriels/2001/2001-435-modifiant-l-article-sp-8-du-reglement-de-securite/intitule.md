@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2001-435 du 10 août 2001 modifiant l'article SP 8 du règlement de sécurité annexé à l'arrêté ministériel n° 67-264 du 17 octobre 1967, modifié, relatif à la protection contre les risques d'incendie et de panique dans les établissements recevant du public
