@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.730 du 19 décembre 1975 rendant exécutoire à Monaco la convention internationale sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, faite à Bruxelles le 29 novembre 1969
