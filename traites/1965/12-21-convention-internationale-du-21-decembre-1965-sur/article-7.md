@@ -1,0 +1,3 @@
+# Article 7
+
+Les États parties s'engagent à prendre des mesures immédiates et efficaces, notamment dans les domaines de l'enseignement, de l'éducation, de la culture et de l'information, pour lutter contre les préjugés conduisant à la discrimination raciale et favoriser la compréhension, la tolérance et l'amitié entre nations et groupes raciaux ou ethniques, ainsi que pour promouvoir les buts et les principes de la Charte des Nations Unies, de la Déclaration universelle des droits de l'homme, de la Déclaration des Nations Unies sur l'élimination de toutes les formes de discrimination raciale et de la présente Convention.

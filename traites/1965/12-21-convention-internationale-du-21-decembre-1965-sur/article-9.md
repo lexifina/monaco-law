@@ -1,0 +1,5 @@
+# Article 9
+
+1. Les États parties s'engagent à présenter au Secrétaire général de l'Organisation des Nations Unies, pour examen par le Comité, un rapport sur les mesures d'ordre législatif, judiciaire, administratif ou autre qu'ils ont arrêtées et qui donnent effet aux dispositions de la présente Convention : a) dans un délai d'un an à compter de l'entrée en vigueur de la Convention, pour chaque État intéressé en ce qui le concerne et b) par la suite, tous les deux ans et, en outre, chaque fois que le Comité en fera la demande. Le Comité peut demander des renseignements complémentaires aux États parties.
+
+2. Le Comité soumet chaque année à l'Assemblée générale de l'Organisation des Nations Unies, par l'intermédiaire du Secrétaire général, un rapport sur ses activités et peut faire des suggestions et des recommandations d'ordre général fondées sur l'examen des rapports et des renseignements reçus des États parties. Il porte ces suggestions et recommandations d'ordre général à la connaissance de l'Assemblée générale avec, le cas échéant, les observations des États parties.

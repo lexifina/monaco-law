@@ -1,0 +1,3 @@
+# Article 16
+
+Les dispositions de la présente Convention concernant les mesures à prendre pour régler un différend ou liquider une plainte s'appliquent sans préjudice des autres procédures de règlement des différends ou de liquidation des plaintes en matière de discrimination prévues dans des instruments constitutifs de l'Organisation des Nations Unies et de ses institutions spécialisées ou dans des conventions adoptées par ces organisations, et n'empêchent pas les États parties de recourir à d'autres procédures pour le règlement d'un différend conformément aux accords internationaux généraux ou spéciaux qui les lient.
