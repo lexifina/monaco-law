@@ -1,0 +1,3 @@
+# Article 25
+
+Un dispositif témoin de fonctionnement optique ou acoustique est obligatoire quand le conducteur ne peut pas voir directement au moins un appareil pour chaque côté du véhicule.
