@@ -1,0 +1,3 @@
+# Article 1er
+
+Toutes personnes physiques ou morales qui paient directement à leurs membres, associés, actionnaires, commanditaires, porteurs de bons ou de parts, titulaires de comptes courants, obligataires des dividendes, intérêts, arrérages et tous autres produits et revenus de valeurs et capitaux mobiliers ; toutes personnes physiques ou morales qui font, à titre principal ou accessoire, commerce ou profession de payer, sous quelque forme que ce soit, lesdits produits et revenus de valeurs et capitaux mobiliers, créances, dépôts, cautionnements, sont tenus d'en faire la déclaration au directeur des services fiscaux.
