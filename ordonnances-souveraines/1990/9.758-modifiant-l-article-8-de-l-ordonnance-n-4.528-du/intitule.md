@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 9.758 du 26 mars 1990 modifiant l'article 8 de l'ordonnance n° 4.528 du 10 août 1979 portant application de la loi n° 879 du 26 février 1970 relative aux groupements d'intérêt économique
