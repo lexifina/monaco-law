@@ -1,0 +1,3 @@
+# Article 2 G
+
+Pendant la période de douze mois commençant le 1er janvier 1996 et, ensuite, pendant chaque période de douze mois, chacune des parties veille à ce que son niveau calculé de consommation de la substance réglementée du Groupe II de l'annexe C soit réduit à zéro. Chaque partie produisant cette substance veille, pendant ces mêmes périodes, à ce que son niveau calculé de production de la substance soit réduit à zéro. Ce paragraphe s'appliquera sauf si les parties décident d'autoriser le niveau de production ou de consommation qui est nécessaire pour répondre à leurs besoins en utilisations dont elles conviennent qu'elles sont essentielles.

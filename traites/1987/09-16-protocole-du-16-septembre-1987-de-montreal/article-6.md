@@ -1,0 +1,3 @@
+# Article 6
+
+À compter de 1990, et au moins tous les quatre ans par la suite, les parties évaluent l'efficacité des mesures de réglementation énoncées à l'article 2 et aux articles 2 A à 2 1, en se fondant sur les données scientifiques, environnementales, techniques et économiques dont elles disposent. Un an au moins avant chaque évaluation, les parties réunissent les groupes nécessaires d'experts qualifiés dans les domaines mentionnés, dont elles déterminent la composition et le mandat. Dans un délai d'un an à compter de la date de leur réunion, lesdits groupes communiquent leurs conclusions aux parties par l'intermédiaire du secrétariat.
