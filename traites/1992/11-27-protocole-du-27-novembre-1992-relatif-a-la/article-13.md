@@ -1,0 +1,9 @@
+# Article 13
+
+1. Le présent Protocole entre en vigueur douze mois après la date à laquelle dix États, y compris quatre États possédant chacun au moins un million d'unités de jauge brute de navires-citernes, ont déposé un instrument de ratification, d'acceptation, d'approbation ou d'adhésion auprès du Secrétaire général de l'Organisation.
+
+2. Toutefois, tout État contractant à la Convention de 1971 portant création du Fonds peut, au moment du dépôt de son instrument de ratification, d'acceptation, d'approbation ou d'adhésion relatif au présent Protocole, déclarer que cet instrument est réputé sans effet aux fins du présent article jusqu'à l'expiration du délai de six mois prévu à l'art. 31 du Protocole de 1992 modifiant la Convention de 1971 portant création du Fonds. Un État qui n'est pas un État contractant à la Convention de 1971 portant création du Fonds mais qui dépose un instrument de ratification, d'acceptation, d'approbation ou d'adhésion relatif au Protocole de 1992 modifiant la Convention de 1971 portant création du Fonds, peut également faire en même temps une déclaration conformément au présent paragraphe.
+
+3. Tout État qui a fait une déclaration conformément au paragraphe précédent peut la retirer à tout moment au moyen d'une notification adressée au Secrétaire général de l'Organisation. Tout retrait ainsi effectué prend effet à la date de la réception de la notification, à condition que cet État soit considéré comme ayant déposé à cette date son instrument de ratification, d'acceptation, d'approbation ou d'adhésion relatif au présent Protocole.
+
+4. Pour tout État qui le ratifie, l'accepte, l'approuve ou y adhère après que les conditions d'entrée en vigueur prévues au par. 1 ont été remplies, le présent Protocole entre en vigueur douze mois après la date du dépôt par cet État de l'instrument approprié.

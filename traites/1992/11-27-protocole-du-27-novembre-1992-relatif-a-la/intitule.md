@@ -1,0 +1,1 @@
+Protocole du 27 novembre 1992 relatif à la Convention internationale adoptée le 29 novembre 1969 à Bruxelles, sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures (FIPOL)
