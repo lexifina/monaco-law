@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.077 du 18 août 1945 relative aux obligations des administrations, sociétés ou particuliers qui paient des traitements, salaires, allocations, rétributions de toute nature à des personnes domiciliées en France
