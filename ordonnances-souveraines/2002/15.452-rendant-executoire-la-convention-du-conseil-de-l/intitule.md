@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 15.452 du 8 août 2002 rendant exécutoire la Convention du Conseil de l'Europe de 1990 relative au blanchiment, au dépistage, à la saisie et à la confiscation des produits du crime, faite à Strasbourg, le 8 novembre 1990
