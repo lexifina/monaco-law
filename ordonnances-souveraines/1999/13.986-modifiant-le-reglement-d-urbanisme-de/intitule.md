@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.986 du 6 mai 1999 modifiant le règlement d'urbanisme, de construction et de voirie de la zone Nord du quartier de La Condamine en ce qui concerne l'îlot n° 6 de ladite zone
