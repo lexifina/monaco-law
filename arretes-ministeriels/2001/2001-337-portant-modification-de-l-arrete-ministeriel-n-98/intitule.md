@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2001-337 du 25 juin 2001 portant modification de l'arrêté ministériel n° 98-631 au 29 décembre 1998 réglementant l'exercice d'une activité libérale au Centre hospitalier Princesse Grace
