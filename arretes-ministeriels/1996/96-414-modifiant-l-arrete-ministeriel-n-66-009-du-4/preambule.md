@@ -1,0 +1,1 @@
+Vu l'arrêté ministériel n° 66-009 du 4 janvier 1966 portant réglementation des mesures particulières de protection et de salubrité applicables aux établissements dont le personnel exécute des travaux du bâtiment, de travaux publics et tous autres travaux concernant les immeubles ;
