@@ -1,0 +1,1 @@
+Loi n° 902 du 23 février 1971 prononçant la désaffectation aux lieux-dits « Le Portier », « Les Bas-Moulins », « Le Larvotto » et « Le Ténao » de diverses parcelles de terrain provenant de l'ancienne voie ferrée et dépendant du domaine public de l'État
