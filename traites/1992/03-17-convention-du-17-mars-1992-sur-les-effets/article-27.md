@@ -1,0 +1,3 @@
+# Article 27
+
+La présente Convention est ouverte à la signature des États membres de la Commission économique pour l'Europe ainsi que des États dotés du statut consultatif auprès de la Commission économique pour l'Europe en vertu du paragraphe 8 de la résolution 36 (IV) du Conseil économique et social du 28 mars 1947 et des organisations d'intégration économique régionale constituées par des États souverains, membres de la Commission économique pour l'Europe, qui leur ont transféré compétence pour des matières dont traite la présente Convention, y compris la compétence pour conclure des traites sur ces matières, à Helsinki du 17 au 18 mars 1992 inclus, puis au Siège de l'Organisation des Nations Unies à New York jusqu'au 18 septembre 1992.

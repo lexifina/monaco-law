@@ -1,0 +1,9 @@
+# Article 8
+
+1. Les Parties prennent des mesures appropriées pour organiser la préparation aux situations d'urgence et maintenir un État de préparation satisfaisant afin de pouvoir faire face aux accidents industriels. Les Parties veillent à ce que des mesures de préparation soient prises pour atténuer les effets transfrontières de tels accidents, les mesures à prendre sur le site étant du ressort des exploitants. Les mesures qui peuvent être prises comprennent, entre autres, celles mentionnées à l'Annexe VII de la présente Convention. En particulier, les Parties concernées s'informent mutuellement de leurs plans d'urgence.
+
+2. La Partie d'origine veille, en ce qui concerne les activités dangereuses, à l'élaboration et à l'application de plans d'urgence sur le site, y compris de mesures appropriées de lutte et d'autres mesures pour prévenir ou limiter autant que possible les effets transfrontières. La Partie d'origine fournit aux autres Parties concernées les éléments dont elle dispose pour l'élaboration de plans d'urgence.
+
+3. Chaque Partie veille, en ce qui concerne les activités dangereuses, à l'élaboration et à l'application de plans d'urgence à l'extérieur du site prévoyant les mesures à prendre sur son territoire pour prévenir ou limiter autant que possible les effets transfrontières. En élaborant ces plans, il est tenu compte des conclusions de l'analyse et de l'évaluation, notamment des éléments mentionnés à l'Annexe V, paragraphe 2, alinéas 1 à 5. Les Parties concernées s'efforcent de rendre ces plans compatibles. S'il y a lieu, elles établissent en commun des plans d'urgence à l'extérieur du site afin de faciliter l'adoption de mesures de lutte adéquates.
+
+4. Les plans d'urgence devraient être réexaminés périodiquement ou lorsque les circonstances l'exigent, compte tenu de l'expérience acquise en faisant face à des situations d'urgence réelles.

@@ -1,0 +1,5 @@
+# Article 12
+
+1. Si une Partie a besoin d'une assistance en cas d'accident industriel, elle peut la demander à d'autres Parties, en indiquant l'ampleur et la nature de l'assistance nécessaire. La Partie qui reçoit une demande d'assistance prend une décision rapide et fait savoir promptement à la Partie qui a soumis la demande si elle est en mesure de fournir l'assistance nécessaire, en lui indiquant l'ampleur de l'assistance qu'elle pourrait fournir et les conditions d'octroi de cette assistance.
+
+2. Les Parties concernées coopèrent pour faciliter la fourniture rapide de l'assistance convenue en application du paragraphe 1 du présent article, y compris, s'il y a lieu, des mesures visant à limiter autant que possible les conséquences et les effets de l'accident industriel, et pour fournir une assistance de caractère général. Si les arrangements entre les Parties concernant l'octroi d'une assistance mutuelle ne sont pas régis par des accords bilatéraux ou multilatéraux, l'assistance est fournie conformément à l'Annexe X de la présente Convention, à moins que les Parties n'en conviennent autrement.
