@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.336 du 9 juin 1956 approuvant la convention et l'avenant au cahier des charges intervenus entre le gouvernement princier et la société nationale des chemins de fer français, signés à Paris, le 5 avril 1956
