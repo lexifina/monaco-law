@@ -1,0 +1,1 @@
+Arrêté ministériel n° 87-183 du 3 avril 1987 relatif aux règles de publicité des prix pour les prestations d'entretien ou de réparation, de contrôle technique, de dépannage, ou de remorquage ainsi que de garage des véhicules
