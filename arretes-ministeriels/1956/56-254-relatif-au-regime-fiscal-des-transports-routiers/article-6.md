@@ -1,0 +1,3 @@
+# Article 6
+
+Les personnes physiques ou morales et leurs représentants, redevables des taxes instituées par l'article premier de l'ordonnance souveraine n° 1.412 précitée, sont tenues de communiquer aux agents habilités par l'article 17 de la même ordonnance pour le contrôle de la taxe sur les transports publics et privés de marchandises, tant au siège de l'exploitation que dans leurs dépôts et succursales, les documents institués pour le contrôle des transports routiers par l'article II de l'ordonnance souveraine n° 1.302 précitée, ainsi que tous autres documents susceptibles de justifier la régularité de la mise en circulation des véhicules et celle des transports effectués.
