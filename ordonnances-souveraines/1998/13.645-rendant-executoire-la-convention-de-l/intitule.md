@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.645 du 5 octobre 1998 rendant exécutoire la convention de l'Organisation de l'aviation civile internationale (OACI) relative au marquage des explosifs plastiques et en feuilles aux fins de détection
