@@ -1,0 +1,1 @@
+Arrêté municipal n° 2000-52 du 14 juillet 2000 modifiant et complétant l'arrêté municipal n° 83-33 du 4 juillet 1983 fixant les dispositions relatives à la circulation et au stationnement des véhicules en ville (avenue de Fontvieille)
