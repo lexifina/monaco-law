@@ -1,0 +1,3 @@
+# Article 14 bis
+
+Le lieu des services fournis par voie électronique mentionnés au 12° de l'article 13 est réputé se situer à Monaco, lorsqu'ils sont effectués en faveur des personnes non assujetties qui sont établies, ont leur domicile ou leur résidence habituelle à Monaco par un assujetti qui a établi le siège de son activité économique ou dispose d'un établissement stable à partir duquel le service est fourni hors de Monaco et de la Communauté européenne, ou qui, à défaut d'un tel siège ou d'un tel établissement stable, a son domicile ou sa résidence habituelle hors Monaco et de la Communauté européenne.
