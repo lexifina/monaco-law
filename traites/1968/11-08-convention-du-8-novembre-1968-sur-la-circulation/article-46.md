@@ -1,0 +1,7 @@
+# Article 46
+
+1. Tout État pourra, au moment où il signera ou ratifiera la présente Convention ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au Secrétaire général que la Convention devient applicable à tous les territoires ou à l'un quelconque d'entre eux dont il assure les relations internationales. La Convention deviendra applicable au territoire ou aux territoires désigné(s) dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu cette notification ou à la date d'entrée en vigueur de la Convention pour i l'État adressant la notification, si cette date est postérieure à la précédente.
+
+2. Tout État qui aura fait une déclaration en vertu du paragraphe 1 du présent article pourra à toute date ultérieure, par notification adressée au Secrétaire général, déclarer que la Convention cessera d'être applicable au territoire désigné dans la notification et la Convention cessera d'être applicable audit territoire un an après la date de réception de cette notification par le Secrétaire général.
+
+3. Tout État qui adresse une notification en vertu du paragraphe 1 du présent article notifiera au Secrétaire général le ou les signes distinctifs qu'il choisit pour être apposé en circulation internationale sur les véhicules qui ont été immatriculés sur le ou les territoires intéressés conformément aux dispositions de l'annexe 3 de la présente Convention. Par une autre notification adressée au Secrétaire général, tout État peut changer un signe distinctif qu'il avait précédemment choisi.
