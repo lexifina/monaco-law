@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.166 du 14 décembre 1977 modifiant l'ordonnance n° 5583 du 16 mai 1975 portant plan de coordination et règlement particulier d'urbanisme, de construction et de voirie des parcelles du terre-plein de Fontvieille non affectées au domaine publie de l'État
