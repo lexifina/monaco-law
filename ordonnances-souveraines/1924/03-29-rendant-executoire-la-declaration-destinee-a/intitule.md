@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 29 mars 1924 rendant exécutoire la déclaration destinée à supprimer la légalisation des extraits des actes de l'état civil entre la Principauté de Monaco et la République française
