@@ -1,0 +1,1 @@
+Arrêté ministériel n° 74-418 du 23 septembre 1974 relatif à la généralisation du protocole d'accord du 8 mars 1968 instituant un régime d'aide financière aux travailleurs involontairement privés d'emploi
