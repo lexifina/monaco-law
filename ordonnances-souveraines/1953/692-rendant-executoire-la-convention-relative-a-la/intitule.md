@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 692 du 9 janvier 1953 rendant exécutoire la convention relative à la faillite et à la liquidation judiciaire signée à Paris le 13 septembre 1950 entre la Principauté de Monaco et la République française
