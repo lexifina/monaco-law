@@ -1,3 +1,3 @@
 # Article 6
 
-Les délais de l'exercice de l'action en recours sont déterminés, pour tous les signataires, par la loi du lieu de la création du titre.
+Chaque ratification ou adhésion qui interviendra après l'entrée en vigueur de la Convention, conformément à l'article 5, sortira ses effets dès le quatre-vingt-dixième jour qui suivra la date de sa réception par le Secrétaire général de la Société des Nations.

@@ -1,21 +1,7 @@
 # Article 7
 
-La loi du pays où le chèque est payable détermine :
+La présente Convention ne pourra être dénoncée avant l'expiration d'un délai de deux ans à partir de la date à laquelle elle sera entrée en vigueur pour ce Membre de la Société des Nations ou pour cet État non membre ; cette dénonciation produira ses effets dès le quatre-vingt-dixième jour suivant la réception, par le Secrétaire général, de la notification à lui adressée.
 
-- 1° Si le chèque est nécessairement à vue ou s'il peut être tiré à un certain délai de vue et également quels sont les effets d'une postdate ;
+Toute dénonciation sera communiquée immédiatement par le Secrétaire général de la Société des Nations à tous les Membres de la Société des Nations et aux États non membres au nom desquels la présente Convention a été signée ou au nom desquels il y a été adhéré.
 
-- 2° Le délai de présentation ;
-
-- 3° Si le chèque peut être accepté, certifié, confirmé ou visé et quels sont les effets de ces mentions ;
-
-- 4° Si le porteur peut exiger et s'il est tenu de recevoir un paiement partiel ;
-
-- 5° Si le chèque peut être barré ou être revêtu de la clause « à porter en compte » ou d'une expression équivalente et quels sont les effets de ce barrement ou de cette clause ou de cette expression équivalente ;
-
-- 6° Si le porteur a des droits spéciaux sur la provision et quelle est la nature de ceux-ci ;
-
-- 7° Si le tireur peut révoquer le chèque ou faire opposition au paiement de celui-ci ;
-
-- 8° Les mesures à prendre en cas de perte ou de vol du chèque ;
-
-- 9° Si un protêt ou une constatation équivalente est nécessaire pour conserver le droit de recours contre les endosseurs, le tireur et les autres obligés.
+Chaque dénonciation n'aura d'effet qu'en ce qui concerne le Membre de la Société des Nations ou l'État non membre au nom duquel elle aura été faite.

@@ -1,5 +1,5 @@
 # Article 3
 
-La loi du pays où le chèque est payable détermine les personnes sur lesquelles un chèque peut être tiré.
+La présente Convention sera ratifiée.
 
-Si, d'après cette loi, le titre est nul comme chèque, en raison de la personne sur laquelle il a été tiré les obligations résultant des signatures y apposées dans d'autres pays dont les lois ne contiennent pas ladite opposition, sont néanmoins valables.
+Les instruments de ratification seront déposés avant le 1er septembre 1933, auprès du Secrétaire général de la Société des Nations, qui en notifiera immédiatement la réception à tous les Membres de la Société des Nations et aux États non membres au nom desquels la présente Convention a été signée ou au nom desquels il y a été adhéré.
