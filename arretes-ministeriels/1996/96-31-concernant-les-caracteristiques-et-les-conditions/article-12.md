@@ -1,0 +1,3 @@
+# Article 12
+
+Les dimensions des pneumatiques utilisés sur un véhicule automobile doivent être celles prévues par le constructeur du véhicule lors de sa réception. Toutefois, des dimensions de pneumatiques différentes de celles préconisées par le constructeur peuvent être admises sous réserve de correspondre aux préconisations du manufacturier du pneumatique telles que définies, par exemple, dans les tableaux d'équivalence édités par le manufacturier. Dans ce cas, les pneumatiques devront être montés sur des roues appropriées tant en ce qui concerne la largeur de la jante que son déport. Les roues devront être exemptes de déformations, fissures ou éclats par chocs, pouvant compromettre la sécurité.

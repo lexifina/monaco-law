@@ -1,0 +1,11 @@
+# Article 14
+
+Sur les voitures particulières et leurs remorques, il est interdit de monter deux pneumatiques de structures différentes sur le même essieu.
+
+Sur les véhicules automobiles autres que les voitures particulières et leurs remorques, il est interdit de monter deux pneumatiques de structures différentes :
+
+- a) sur un essieu à roues non jumelées,
+
+- b) d'un même côté d'un essieu à roues jumelées.
+
+Toutefois, la disposition " a) ' ci-dessus n'est pas applicable aux essieux non directeurs des véhicules à plus de deux essieux.
