@@ -1,0 +1,1 @@
+Arrêté ministériel n° 85-313 du 31 mai 1985 complétant la liste des substances vénéneuses pouvant entrer dans la composition des produits cosmétiques et des produits d'hygiène corporelle et fixant les conditions d'emploi d'une substance vénéneuse nouvellement autorisée
