@@ -1,0 +1,3 @@
+# Article 12 (2)
+
+Par dérogation à l'article 45 de la Loi uniforme, chacune des Hautes Parties contractantes a la faculté de maintenir ou d'introduire le système d'avis à donner par l'officier public, savoir : qu'en effectuant le protêt faute d'acceptation ou faute de paiement, le notaire ou le fonctionnaire qui, d'après la loi nationale, est autorisé à dresser le protêt est tenu d'en donner avis par écrit à celles des personnes obligées dans la lettre de change dont les adresses sont soit indiquées sur la lettre de change, soit connues par l'officier public dressant le protêt, soit indiquées par les personnes ayant exigé le protêt. Les dépenses résultant d'un tel avis sont à ajouter aux frais de protêt.

@@ -1,0 +1,7 @@
+Le Président du Reich allemand ; le Président Fédéral de la République d'Autriche ; Sa Majesté le Roi des Belges, le Président de la République des États-Unis du Brésil ; le Président de la République de Colombie, Sa Majesté le Roi de Danemark ; le Président de la République de Pologne pour la Ville libre de Dantzig ; le Président de la République de l'Équateur ; Sa Majesté le Roi d'Espagne ; le Président de la République de Finlande ; le Président de la République française ; le Président de la République hellénique ; Son Altesse Sérénissime le Régent du Royaume de Hongrie Sa Majesté le Roi d'Italie ; Sa Majesté l'Empereur du Japon Son Altesse Royale la Grande-Duchesse de Luxembourg ; Sa Majesté le Roi de Norvège ; Sa Majesté la Reine des Pays-Bas ; le Président de la République du Pérou ; le Président de la République de Pologne ; le Président de la République portugaise ; Sa Majesté le Roi de Suède ; le Conseil Fédéral Suisse ; le Président de la République tchécoslovaque ; le Président de la République turque ; Sa Majesté le Roi de Yougoslavie,
+
+Désireux de prévenir les difficultés auxquelles donne lieu la diversité des législations des pays ou les lettres de change sont appelées à circuler, et de donner ainsi plus de sécurité et de rapidité aux relations du commerce international,
+
+Ont désigné leurs plénipotentiaires :
+
+Lesquels, après avoir communiqué leurs pleins pouvoirs, trouvés en bonne et due forme, sont convenus des dispositions suivantes :

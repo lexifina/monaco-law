@@ -1,0 +1,7 @@
+# Article 11
+
+La présente Convention sera enregistrée par le Secrétaire général de la Société des Nations dès son entrée en vigueur. Elle sera ultérieurement publiée aussitôt que possible au Recueil des Traités de la Société des Nations.
+
+En foi de quoi les Plénipotentiaires susnommés ont signé la présente Convention.
+
+Fait à Genève, le sept juin mil neuf cent trente, en simple expédition qui sera déposée dans les archives du Secrétariat de la Société des Nations ; copie conforme en sera transmise à tous les Membres de la Société des Nations et à tous les États non membres représentés à la Conférence.
