@@ -1,0 +1,1 @@
+Une convention sur la sécurité sociale ayant été signée à Paris, le 28 février 1952, entre Notre plénipotentiaire et le plénipotentiaire de M. le Président de la République française et les ratifications de cet acte ayant été échangées à Monaco le 15 mars 1954, ladite convention, dont la teneur suit, recevra sa pleine et entière exécution à dater du 1er avril 1954.
