@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 997 du 2 août 1954 rendant exécutoire un accord international pour l'importation d'objets de caractère éducatif, scientifique ou culturel adopté à Genève au mois de juillet 1950 par la Conférence générale de l'Organisation des Nations Unies
