@@ -1,0 +1,1 @@
+Arrêté ministériel n° 96-438 du 18 septembre 1996 complétant les dispositions des arrêtés ministériels n° 94-71 du 25 janvier 1994 et n° 94-143 du 28 février 1994 relatifs à l'affiliation du personnel des établissements bancaires à la caisse autonome des retraites, à compter du 1er janvier 1994
