@@ -1,7 +1,3 @@
 # Article 157
 
-1. Le présent Règlement sera exécutoire à partir du jour de mise en vigueur de l'Arrangement concernant les mandats de poste et les bons postaux de voyage.
-
-2. Il aura la même durée que cet Arrangement, à moins qu'il ne soit renouvelé d'un commun accord entre les Parties intéressées.
-
-Fait à Lausanne, le 5 juillet 1974.
+Au bureau de chèques postaux domiciliataire, le montant des valeurs encaissées, déduction faite de la taxe de virement donne lieu à l'émission d'un ordre de virement au profit du compte courant postal désigné par le bureau de chèques d'origine.

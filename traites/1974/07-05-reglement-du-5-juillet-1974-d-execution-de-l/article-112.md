@@ -1,3 +1,3 @@
 # Article 112
 
-Les Administrations dont la réglementation ne permet pas l'emploi de la formule jointe par l'Administration d'émission sont autorisées à établir l'avis de paiement sur une formule de leur propre service.
+L'avis d'inscription visé à l'article 109, dûment complété par le bureau de chèques teneur du compte crédité, est transmis directement au tireur.

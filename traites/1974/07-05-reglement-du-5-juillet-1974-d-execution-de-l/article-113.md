@@ -1,3 +1,5 @@
 # Article 113
 
-Le visa pour date doit être inscrit sur le mandat même.
+1. Dès réception des paquets contenant les lettres d'envoi, les listes et les avis de virement, le bureau d'échange destinataire procède à la vérification de l'envoi. S'il constate une irrégularité quelconque ou une omission, il en informe immédiatement par lettre conforme au modèle VP 4 ci-annexé le bureau d'échange expéditeur qui doit répondre par la voie la plus rapide (aérienne ou de surface) et, le cas échéant, faire parvenir un duplicata des pièces manquantes. Les duplicata des pièces manquantes sont également échangés par la voie la plus rapide (aérienne ou de surface).
+
+2. Si l'irrégularité porte sur une différence de sommes entre l'avis de paiement et la liste de virement, le bureau d'échange destinataire est autorisé à donner suite au virement pour la somme la plus faible ; selon le cas, l'avis de virement ou la liste de virement et la lettre d'envoi sont rectifiés en conséquence, à l'encre rouge, et avis de la rectification est donné au bureau d'échange correspondant par lettre VP 4.

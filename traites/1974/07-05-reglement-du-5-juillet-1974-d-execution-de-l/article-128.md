@@ -1,9 +1,7 @@
 # Article 128
 
-1. Sont renvoyés, au bureau d'échange, par voie d'une inscription dans la prochaine liste MP 2, comme s'il s'agissait d'un mandat expédié du pays de paiement vers le pays d'émission :
+1. Les mandats de versement MP 16 en provenance d'un pays déterminé, après leur inscription au crédit du compte du bénéficiaire, sont enregistrés par le bureau de chèques de destination détenteur du compte courant de liaison de l'Administration. d'émission sur une liste VP 2 dont l'intitulé est modifié en conséquence. Cette liste est établie en double exemplaire.
 
-- a) les mandats visés à l'article 19 de l'Arrangement ;
+2. Le montant total de la liste VP 2 est portée au débit du compte courant postal de liaison ouvert au nom de l'Administration d'origine des mandats. La liste VP 2 et les mandats MP 16 correspondants sont joints à l'extrait de compte transmis à l'Administration d'émission des titres. Le mandat est revêtu au verso d'une annotation précisant la date d'inscription du montant au crédit du compte du bénéficiaire et d'une empreinte du timbre à date du bureau de chèques de destination. Le coupon du mandat MP 16 peut être détaché par le centre de chèques de destination et utilisé comme avis de versement.
 
-- b) les mandats ayant fait l'objet d'une demande de retrait.
-
-2. Une mention appropriée, suivie du numéro international et de la description sommaire du mandat primitif, est portée dans la colonne « Observations », en regard de l'inscription.
+3. Lorsque les mandats de versement MP 16 sont originaires d'un pays qui n'a pas encore créé une institution de chèques postaux, le compte relatif aux mandats de versement est établi sur formule MP 8 ; il est adressé, accompagné de la liste VP 2 et des mandats, au service de l'Administration d'émission chargé de procéder à l'échange des comptes de mandats. Le règlement du compte MP 8 est effectué directement par l'Administration d'émission au profit du service des chèques postaux de destination des mandats.

@@ -1,5 +1,5 @@
 # Article 104
 
-1. Les mandats-cartes sont établis sur une formule en carton résistant de couleur rose, conforme au modèle MP 1 ci-annexé.
+1. Les inscriptions sur les formules du service des virements sont faites en caractères latins et en chiffres arabes, d'une manières très claire, de préférence à la machine.
 
-2. Les Administrations qui conviennent d'accorder certaines facilités aux expéditeurs d'un nombre important de mandats peuvent les autoriser à faire usage de la formule conforme au modèle MP 12 ci-annexé.
+2. Les inscriptions au crayon-encre ou au crayon ordinaire ne sont pas admises ; toutefois, les signatures peuvent être données au crayon-encre.

@@ -1,3 +1,3 @@
 # Article 120
 
-L'échange des mandats-listes a lieu exclusivement par l'intermédiaire de bureaux dits « bureaux d'échange » désignés par l'Administration de chacun des pays contractants.
+Lorsque les listes de virements télégraphiques font l'objet de lettres d'envoi VP 3 distinctes, celles-ci reçoivent un numéro d'ordre de la même série que les lettres d'envoi des listes de virements par voie postale.

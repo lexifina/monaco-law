@@ -1,7 +1,13 @@
 # Article 148
 
-1. Toute Administration qui se trouve à découvert, vis-à-vis d'une autre Administration, d'une somme dépassant 30 000 francs par mois a le droit de réclamer pendant le mois où les mandats sont émis le versement automatique d'un acompte mensuel. Le montant de cet acompte est calculé sur la base du montant moyen des trois derniers acomptes mensuels acceptés. L'Administration débitrice doit payer mensuellement l'acompte une fois réclamé, au plus tard le quinzième jour de chaque mois, à moins qu'elle ne puisse invoquer que la moyenne des trois derniers mois révolus ne correspond plus à l'importance réelle du trafic des mandats, auquel cas le montant de l'acompte est réévalué en conséquence. En cas de non-paiement dans le délai précité, l'article 30, paragraphe 4, de l'Arrangement est applicable sauf si l'Administration débitrice est en mesure de prouver que l'Administration créancière ne transmet pas régulièrement ses comptes dans le délai fixé par l'article 145, paragraphe 5.
+1. Les chèques d'assignation télégraphiques donnent lieu à l'établissement d'une liste VP 2 spéciale qui porte en tête la mention « Chèque d'assignation télégraphique ». Cette liste est adressée par le plus prochain courrier au bureau d'échange de l'Administration de destination.
 
-2. L'Administration débitrice qui désire bénéficier de la faculté prévue à l'article 30, paragraphe 2, de l'Arrangement, sans avoir été préalablement saisie d'une demande d'acompte de l'Administration créancière, détermine, à sa convenance, le montant de la fréquence des versements qu'elle estime devoir opérer pour assurer la couverture de ses émissions.
+2. Le total de chaque liste de chèques d'assignation télégraphiques destinée à un même bureau d'échange est reporté sur une lettre d'envoi VP 3 spéciale.
 
-3. Lorsque la somme versée à titre d'acompte est supérieure au solde réel de la période considérée, la différence est reprise dans le compte suivant ou, le cas échéant, portée à l'avoir prévu à l'article 30, paragraphe 2, de l'Arrangement.
+3. Les lettres d'envoi VP 3 des listes de chèques d'assignation télégraphiques reçoivent un numéro d'ordre de la même série que les lettres d'envoi des listes de chèques d'assignation ordinaires.
+
+4. Le bureau d'échange d'origine peut attribuer aux chèques d'assignation télégraphiques, décrits sur la liste spéciale de l'espèce, un numéro international d'une série propre aux chèques d'assignation télégraphiques.
+
+5. Les articles 139 ou 140 sont applicables suivant le cas aux listes spéciales des chèques d'assignation télégraphiques.
+
+6. Lorsque les Administrations conviennent d'utiliser le télex pour la transmission entre leurs bureaux d'échange, elles déterminent les modalités d'exécution.

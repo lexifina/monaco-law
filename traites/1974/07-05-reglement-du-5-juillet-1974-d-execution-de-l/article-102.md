@@ -1,9 +1,15 @@
 # Article 102
 
-Sont applicables aux mandats, pour tout ce qui n'est pas expressément prévu par le présent Règlement, les dispositions du Règlement d'exécution de la Convention et, plus particulièrement, celles qui font l'objet des articles ci-après :
+1. En vue de l'application de l'article 10, paragraphe 3, de la Convention, sont considérées comme étant à l'usage du public les formules ci-après :
 
-- a) Article 131 : « Avis de réception » ;
+- VP 1 (Avis de virement ou de versement) ;
 
-- b) Article 134 : « Envois exprès » ;
+- VP 7 (Réclamation concernant un ordre de virement ou de versement) ;
 
-- c) Articles 140 et 141 : « Retrait. Modification d'adresse », complétés par les articles 109 et 124 du présent Règlement.
+- VP 10 (Avis d'inscription) ;
+
+- VP 13 et VP 13 bis (Chèque d'assignation) ;
+
+- VP 14 et VP 14 bis (Carte de paiement).
+
+2. Les formules du service intérieur utilisées comme avis de virement ou éventuellement comme avis de versement dans les conditions indiquées aux articles 105, paragraphe 1, et 125, paragraphe 2, ne sont pas soumises à ces dispositions.

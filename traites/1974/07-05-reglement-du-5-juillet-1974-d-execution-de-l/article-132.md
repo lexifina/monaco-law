@@ -1,7 +1,5 @@
 # Article 132
 
-1. Les mandats-listes télégraphiques sont transmis directement par le bureau de poste d'émission au bureau de poste de paiement sans passer par l'intermédiaire des bureaux d'échange.
+1. Les chèques d'assignation sont décrits sur une liste VP 2 établie en double exemplaire par le bureau d'échange du service des chèques postaux.
 
-2. Les mandats-listes télégraphiques donnent lieu à l'établissement d'une liste MP 2 spéciale qui porte en tête la mention « Mandats télégraphiques ».
-
-3. Les bureaux d'échange peuvent attribuer aux mandats-listes télégraphiques décrits sur les listes spéciales de l'espèce un numéro international d'une série propre aux mandats télégraphiques.
+2. L'article 106 s'applique aux listes de chèques d'assignation.
