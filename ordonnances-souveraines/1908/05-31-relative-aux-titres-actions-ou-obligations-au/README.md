@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 31 mai 1908 relative aux titres, actions ou obligations au porteur perdus ou volés
 
-Version en vigueur au 24 juin 1908.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1908/05-31-L002788@1908.06.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1908/05-31-L002788@1911.04.19/
 
 | | |
 | --- | --- |
