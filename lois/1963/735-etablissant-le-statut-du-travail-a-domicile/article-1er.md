@@ -1,0 +1,3 @@
+# Article 1er
+
+Sont considérés comme travailleurs à domicile, ceux qui, sans utiliser d'autres concours que ceux de leurs ascendants, conjoints ou enfants à charge au sens de la législation sur les prestations familiales, exécutent isolément un travail moyennant une rétribution forfaitaire convenue, pour le compte d'un ou plusieurs établissements industriels, commerciaux, artisanaux ou non de quelque nature qu'ils soient, même s'ils ont un caractère éducatif ou de bienfaisance, alors même que ces travailleurs se procurent librement les fournitures accessoires, à l'exclusion de tout ou partie des matières premières utilisées.
