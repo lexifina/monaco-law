@@ -1,0 +1,1 @@
+Une Convention relative à l'exercice de la pharmacie ayant été signée à Paris le 28 février 1952 entre Notre Plénipotentiaire et le Plénipotentiaire de M. le Président de la République Française, ladite Convention, dont la teneur suit, recevra sa pleine et entière exécution à dater de la promulgation de la présente Ordonnance.
