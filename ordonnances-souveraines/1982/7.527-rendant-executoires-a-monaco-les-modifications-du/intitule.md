@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.527 du 13 décembre 1982 rendant exécutoires à Monaco les modifications du règlement d'exécution annexé au traité de coopération en matière de brevets, fait à Washington le 19 juin 1970, adoptées par l'assemblée de l'Union internationale de coopération en matière de brevets le 10 septembre 1982
