@@ -6,7 +6,7 @@ Conformément aux dispositions de l'article 3 de la loi n° 822 du 23 juin 1967,
 
 - 2° Hôtels-restaurants et débits de boissons ;
 
-- 3° Commerces de détail de moins de 10 salariés ;
+- 3° 3° (3° annulé) ;
 
 - 4° Hôpitaux, maisons de retraite, dispensaires, maisons d'enfants, pharmacies ;
 
