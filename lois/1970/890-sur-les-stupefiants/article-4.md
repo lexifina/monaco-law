@@ -1,0 +1,3 @@
+# Article 4
+
+Lorsque l'une des infractions prévues par les articles 2, 2-1 et 3 aura été commise dans le dessein ou aura eu pour effet de mettre un mineur en possession de stupéfiants ou de lui en faciliter l'usage, ou de l'impliquer dans la commission d'une telle infraction, ou lorsqu'elle aura été commise dans un établissement pénitentiaire, dans un établissement d'enseignement, dans un centre de services sociaux ou dans leur voisinage immédiat ou en d'autres lieux où des écoliers et des étudiants se livrent à des activités éducatives, sportives ou sociales, les peines prévues aux articles 2 et 3 seront portées au double ; celles visées à l'article 2-1 pourront également être doublées.
