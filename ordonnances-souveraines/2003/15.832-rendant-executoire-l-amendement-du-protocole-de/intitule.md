@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.832 du 17 juin 2003 rendant exécutoire l'amendement du protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone (de 1987), fait à Pékin le 3 décembre 1999
