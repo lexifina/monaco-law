@@ -1,0 +1,1 @@
+Arrêté ministériel n° 92-503 du 4 septembre 1992 fixant les conditions auxquelles est subordonnée l'organisation de spectacles et autres manifestations dans les établissements clos ou de plein air, recevant du public
