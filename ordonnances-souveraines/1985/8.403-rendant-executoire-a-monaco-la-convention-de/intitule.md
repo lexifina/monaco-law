@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 8.403 du 30 septembre 1985 rendant exécutoire à Monaco la convention de délimitation maritime entre le Gouvernement de S.A.S. le Prince de Monaco et le Gouvernement de la République française (ensemble une annexe) signée à Paris le 16 février 1984
