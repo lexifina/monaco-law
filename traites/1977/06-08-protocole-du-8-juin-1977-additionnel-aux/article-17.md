@@ -1,0 +1,5 @@
+# Article 17
+
+- 1. La population civile doit respecter les blessés, malades et naufragés, même s'ils appartiennent à la Partie adverse, et n'exercer contre eux aucun acte de violence. La population civile et les sociétés de secours, telles que les Sociétés nationales de la Croix-Rouge (Croissant Rouge, Lion-et-Soleil-Rouge), seront autorisées, même dans les régions envahies ou occupées, à recueillir ces blessés, malades et naufragés et à leur prodiguer des soins, même de leur propre initiative. Nul ne sera inquiété, poursuivi, condamné ou puni pour de tels actes humanitaires.
+
+- 2. Les Parties au conflit pourront faire appel à la population civile et aux sociétés de secours visées au paragraphe 1 pour recueillir les blessés, malades et naufragés et pour leur prodiguer des soins de même que pour rechercher les morts et rendre compte du lieu où ils se trouvent ; elles accorderont la protection et les facilités nécessaires à ceux qui auront répondu à cet appel. Dans le cas où la Partie adverse viendrait à prendre ou à reprendre le contrôle de la région, elle maintiendra cette protection et ces facilités aussi longtemps qu'elles seront nécessaires.

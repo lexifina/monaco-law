@@ -1,0 +1,9 @@
+# Article 81
+
+- 1. Les Parties au conflit accorderont au Comité international de la Croix-Rouge toutes les facilités en leur pouvoir pour lui permettre d'assumer les tâches humanitaires qui lui sont attribuées par les Conventions et le présent Protocole afin d'assurer protection et assistance aux victimes des conflits ; le Comité international de la Croix-Rouge pourra également exercer toutes autres activités humanitaires en faveur de ces victimes, avec le consentement des Parties au conflit.
+
+- 2. Les Parties au conflit accorderont à leurs organisations respectives de la Croix-Rouge (Croissant-Rouge, Lion-et-Soleil-Rouge) les facilités nécessaires à l'exercice de leurs activités humanitaires en faveur des victimes du conflit, conformément aux dispositions des Conventions et du présent Protocole et aux principes fondamentaux de la Croix-Rouge formulés par les Conférences internationales de la Croix-Rouge.
+
+- 3. Les Hautes Parties contractantes et les Parties au conflit faciliteront, dans toute la mesure du possible, l'aide que des organisations de la Croix-Rouge (Croissant-Rouge, Lion-et-Soleil-Rouge) et la Ligue des Sociétés de la Croix-Rouge apporteront aux victimes des conflits conformément aux dispositions des Conventions et du présent Protocole et aux principes fondamentaux de la Croix-Rouge formulés par les Conférences internationales de la Croix-Rouge.
+
+- 4. Les Hautes Parties contractantes et les Parties au conflit accorderont, autant que possible, des facilités semblables à celles qui sont mentionnées dans les paragraphes 2 et 3 aux autres organisations humanitaires visées par les Conventions et le présent Protocole, qui sont dûment autorisées par les Parties au conflit intéressées et qui exercent leurs activités humanitaires conformément aux dispositions des Conventions et du présent Protocole.

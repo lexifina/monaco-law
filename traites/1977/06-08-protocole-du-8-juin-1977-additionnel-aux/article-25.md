@@ -1,0 +1,3 @@
+# Article 25
+
+Dans des zones terrestres dominées en fait par des forces amies ou dans des zones maritimes qui ne sont pas en fait dominées par une Partie adverse, et dans leur espace aérien, le respect et la protection des aéronefs sanitaires d'une Partie au conflit ne dépendent pas d'un accord avec la Partie adverse. Une partie au conflit qui emploie ainsi ses aéronefs sanitaires dans ces zones pourra cependant, afin de renforcer leur sécurité, donner à la Partie adverse les notifications prévues par l'article 29, en particulier quand ces aéronefs effectuent des vols qui les amènent à portée des systèmes d'armes sol-air de la Partie adverse.
