@@ -1,0 +1,1 @@
+Une déclaration ayant été échangée le 9 novembre 1891, entre Notre gouvernement et celui de la République française, concernant les relations téléphoniques entre la Principauté et la France, ladite déclaration, dont la teneur suit, recevra sa pleine et entière exécution.
