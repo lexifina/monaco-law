@@ -1,0 +1,1 @@
+Échange du 17 janvier 1986 de lettres franco-monégasque modifiant en ce qui concerne la création matérielle des titres émis par les sociétés monégasques par actions le protocole de signature annexé à la convention fiscale du 18 mai 1963
