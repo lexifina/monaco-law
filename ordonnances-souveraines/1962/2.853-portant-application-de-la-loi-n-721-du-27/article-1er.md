@@ -12,7 +12,7 @@ La demande d'inscription au répertoire du commerce et de l'industrie prévue au
 
   - 4° La nationalité d'origine et, au cas où les personnes ont acquis une autre nationalité, le mode et la date d'acquisition ;
 
-  - 5° S'il s'agit d'un mineur, l'autorisation expresse de faire le commerce qui lui a été donnée en vertu de l'article 4 du Code de commerce ;
+  - 5° (5° abrogé);
 
   - 6° S'il s'agit d'une femme mariée dont le statut personnel l'exige, l'autorisation de faire le commerce qui lui a été donnée par son mari ;
 
@@ -58,4 +58,4 @@ La demande d'inscription au répertoire du commerce et de l'industrie prévue au
 
   - 10° La date de constitution de la société et celle de son expiration normale. S'il s'agit d'une société étrangère la date à laquelle elle a été autorisée à Monaco ;
 
-  - 11° La date de dépôt au greffe général des actes constitutifs, ainsi que la date du » Journal de Monaco ' dans lequel a eu lieu la publication et la date d'inscription au répertoire des sociétés.
+  - 11° La date de dépôt au greffe général des actes constitutifs, ainsi que la date du « Journal de Monaco » dans lequel a eu lieu la publication et la date d'inscription au répertoire des sociétés.
