@@ -1,0 +1,9 @@
+# Article 850
+
+Sauf dispositions contraires dans les textes particuliers qui les concernent, les demandes seront soumises aux règles ci-après :
+
+En matière gracieuse ou si la demande n'implique la mise en cause d'aucun défendeur requête sera présentée par le demandeur ou son avocat-défenseur au président du tribunal de première instance, lequel en son ordonnance prescrira la communication du dossier au ministère public, nommera un juge rapporteur et fixera le jour et l'heure de l'audience de la chambre du conseil. Après avoir entendu le juge commis en son rapport, la partie ou son conseil en ses observations et le ministère public en l'exposé des conclusions par lui rédigées à la suite de l'ordonnance sur requête, le tribunal statuera en chambre du conseil.
+
+En matière contentieuse ou s'il y a un ou plusieurs défendeurs en la cause, le défendeur sera cité devant la chambre du conseil par assignation à jour fixe en vertu d'une ordonnance sur requête autorisant la partie à assigner le défendeur aux jour et heure que le président du tribunal indiquera. Si le défendeur comparaît la décision ne pourra intervenir qu'après l'audition des parties ou de leur conseil et sur les conclusions du ministère public. Si, régulièrement cité, le défendeur ne comparaît pas, le tribunal fera application, selon les cas, des dispositions de l'article 210 ou de l'article 214 du présent code ; sa décision sera réputée contradictoire. Si le demandeur ne se présente pas, le tribunal fera application de l'article 209 du présent code. Les débats auront lieu en chambre du conseil et le jugement sera rendu en audience publique.
+
+Appel pourra être relevé, en toutes matières, même gracieuses, dans les quinze jours du prononcé du jugement. Cet appel sera interjeté. instruit et jugé dans les formes ci-dessus établies, les parties ne pouvant toutefois agir devant la cour que par un avocat-défenseur.

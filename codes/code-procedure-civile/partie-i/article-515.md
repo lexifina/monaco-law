@@ -1,0 +1,3 @@
+# Article 515
+
+Si le débiteur est absent et n'est représenté par personne, si les portes sont fermées ou si l'ouverture en est refusée, ou enfin si le débiteur s'oppose à la saisie, l'huissier pourra établir gardien aux portes pour empêcher le détournement ; il requerra sur-le-champ l'assistance du juge de paix et, à son défaut, du commissaire de police de la circonscription, en présence desquels l'ouverture des portes et même celle des meublés fermés sera faite au fur et à mesure de la saisie. L'officier ainsi requis ne dressera pas de procès-verbal ; il signera l'original et la copie du procès-verbal de l'huissier, qui devra mentionner la réquisition.

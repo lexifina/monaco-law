@@ -1,0 +1,3 @@
+# Article 500-5
+
+Le tiers saisi qui, hors le cas de force majeure, ne fait pas les déclarations prescrites par les articles 500-1, 500-3 et 500-4 sera, sur assignation du créancier saisissant, déclaré débiteur de la somme pour laquelle la saisie aura été validée sauf s'il rapporte la preuve, soit qu'il n'est pas débiteur du saisi, soit que sa dette est inférieure à la créance du saisissant. Dans ces deux cas, toutefois, il sera condamné aux frais occasionnés par le défaut de déclaration sans préjudice de tous dommages-intérêts envers le saisissant ; dans le second cas, il sera condamné, en outre, à concurrence du montant de sa dette.

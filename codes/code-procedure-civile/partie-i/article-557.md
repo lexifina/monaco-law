@@ -1,0 +1,3 @@
+# Article 557
+
+Dans les huit jours de la saisie, l'huissier, aux jour et heure indiqués dans le procès-verbal qui vaudra citation à la partie saisie, présentera au président du tribunal l'original du procès-verbal, au bas duquel ce magistrat commettra un notaire pour procéder à la vente, en réglera les conditions ainsi que le mode de publicité et fixera les lieu, jour et heure de l'adjudication ; puis il sera procédé, ainsi qu'il est dit aux articles 562 et suivants, sans préjudice du droit réservé aux huissiers par l'article 4 de l'ordonnance du 9 février 1878, dans le cas où tout ou partie des marchandises seraient vendues séparément.
