@@ -4,4 +4,4 @@ Aucun prélèvement de sang ou de ses composants en vue d'une utilisation théra
 
 Toutefois, un prélèvement peut être effectué, à titre exceptionnel, sur des mineurs, lorsque des motifs tirés de l'urgence thérapeutique et de la comptabilité tissulaire l'exigent.
 
-Le prélèvement ne peut alors être opéré qu'à la condition que le titulaire de la puissance paternelle y consente expressément par écrit. Le refus de la personne mineure fait obstacle au prélèvement.
+Le prélèvement ne peut alors être opéré qu'à la condition que le titulaire de l'autorité parentale y consente expressément par écrit. Le refus de la personne mineure fait obstacle au prélèvement.

@@ -1,8 +1,8 @@
 # Loi n° 1.263 du 23 décembre 2002 sur l'utilisation thérapeutique du sang humain, de ses composants et des produits sanguins labiles
 
-Version en vigueur au 28 décembre 2002.
+Version en vigueur au 3 janvier 2004.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2002/12-23-1.263@2002.12.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2002/12-23-1.263@2004.01.03/
 
 | | |
 | --- | --- |
