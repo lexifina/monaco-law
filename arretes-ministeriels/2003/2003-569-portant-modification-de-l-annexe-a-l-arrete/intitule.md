@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-569 du 10 novembre 2003 portant modification de l'annexe à l'arrêté ministériel n° 2003-125 du 12 février 2003 fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques
