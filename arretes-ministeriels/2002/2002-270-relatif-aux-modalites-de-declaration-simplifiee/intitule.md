@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2002-270 du 23 avril 2002 relatif aux modalités de déclaration simplifiée des traitements automatisés d'informations nominatives portant sur la tenue des comptes de la clientèle et le traitement des informations s'y rattachant par les établissements bancaires et assimilés
