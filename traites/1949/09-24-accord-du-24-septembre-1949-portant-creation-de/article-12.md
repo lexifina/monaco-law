@@ -1,0 +1,7 @@
+# Article 12
+
+1. La Commission générale des pêches pour la Méditerranée peut amender le présent Accord, à la majorité des deux tiers des membres de la Commission. Sous réserve des dispositions du paragraphe 2 ci-après, les amendements entrent en vigueur à la date de leur adoption par la Commission.
+
+2. Les amendements entraînant de nouvelles obligations pour les membres entrent en vigueur après acceptation par les deux tiers des membres de la Commission et pour chacun d'eux seulement à compter de leur acceptation. Les instruments d'acceptation des amendements entraînant de nouvelles obligations sont déposés auprès du Directeur général de l'Organisation qui informe tous les membres de la Commission générale des pêches pour la Méditerranée ainsi que le Secrétaire général de l'Organisation des Nations Unies de la réception des avis d'acceptation et de l'entrée en vigueur des amendements. Les droits et obligations de tout membre de la Commission générale des pêches pour la Méditerranée qui n'a pas accepté un amendement entraînant des obligations supplémentaires continuent à être régis par les dispositions de l'Accord en vigueur avant l'amendement.
+
+3. Les amendements au présent Accord sont soumis au Conseil de l'Organisation qui a le pouvoir de les désavouer s'il estime qu'ils sont incompatibles avec les objectifs et buts de l'Organisation ou les dispositions de son Acte constitutif. Si le Conseil de l'Organisation le juge souhaitable, il peut renvoyer l'amendement à la Conférence de l'Organisation qui a le même pouvoir.

@@ -1,0 +1,3 @@
+# Article 19
+
+Le texte du présent Accord a été initialement rédigé à Rome le 24 septembre mil neuf cent quarante-neuf, en français. Deux exemplaires en anglais, en espagnol et en français dudit Accord et de tous les amendements y relatifs sont authentifiés par apposition des signatures du Président de la Commission et du Directeur général de l'Organisation. L'un de ces exemplaires est déposé aux archives de l'Organisation, l'autre est transmis au Secrétaire général de l'Organisation des Nations Unies pour être enregistré. En outre, le Directeur général certifie des copies de cet Accord et en transmet une à chaque membre de l'Organisation ainsi qu'aux États non membres de l'Organisation qui sont parties à l'Accord ou peuvent le devenir.
