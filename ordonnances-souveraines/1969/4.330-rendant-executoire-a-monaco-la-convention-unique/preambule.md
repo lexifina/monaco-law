@@ -1,0 +1,1 @@
+Nos instruments d'adhésion à la convention unique sur les stupéfiants signée à New York le 30 mars 1969 ayant été déposés auprès du secrétaire général de l'Organisation des Nations Unies, le 14 août 1969, ladite convention recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.
