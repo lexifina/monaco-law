@@ -1,0 +1,1 @@
+Acte de Stockholm du 14 juillet 1967 complémentaire à l'arrangement de La Haye concernant le dépôt international des dessins et modèles industriels du 6 novembre 1925, révisé à Londres le 2 juin 1934 et à La Haye le 28 novembre 1960 et complété par l'acte additionnel de Monaco le 18 novembre 1961
