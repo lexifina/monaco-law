@@ -1,0 +1,3 @@
+# Article 69
+
+Si le Conseil estime que, dans un État contractant, les aéroports ou autres facilités pour la navigation aérienne, y compris les services radio-électriques et météorologiques, ne sont pas raisonnablement suffisants pour assurer la sécurité, la régularité, l'efficacité et l'exploitation économique des services aériens internationaux existants ou projetés, il procède à des consultations avec l'État directement en cause et avec les autres États intéressés en vue de trouver les moyens de remédier à la situation, et il peut formuler des recommandations à cet effet. Aucun État contractant ne sera considéré comme coupable d'infraction à la présente Convention s'il ne met pas à exécution ces recommandations.

@@ -1,0 +1,3 @@
+# Article 25
+
+Chaque État contractant s'engage à fournir toute l'assistance qu'il jugera possible aux aéronefs en détresse sur son territoire et, sous réserve de l'exercice d'un droit de contrôle par ses propres autorités, à permettre aux propriétaires ou aux autorités de l'État dans lequel l'aéronef est immatriculé de fournir les mesures d'assistance que les circonstances pourraient nécessiter. Chaque État contractant, lorsqu'il entreprendra des recherches pour retrouver des aéronefs disparus, participera aux mesures coordonnées qui pourront être recommandées de temps à autre en application de la présente Convention.

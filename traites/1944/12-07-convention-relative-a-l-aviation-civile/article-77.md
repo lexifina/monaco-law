@@ -1,0 +1,3 @@
+# Article 77
+
+Aucune disposition de la présente Convention n'empêche deux ou plusieurs États contractants de constituer, pour les transports aériens, des organisations d'exploitation en commun ou des organismes internationaux d'exploitation, ni de mettre en pool leurs services aériens sur toute route ou dans toute région. Toutefois, ces organisations ou organismes et ces services en pool seront soumis à toutes les dispositions de la présente Convention, y compris celles qui ont trait à l'enregistrement des accords au Conseil. Le Conseil déterminera les modalités d'application des dispositions de la présente Convention concernant la nationalité des aéronefs aux aéronefs exploités par des organismes internationaux d'exploitation.

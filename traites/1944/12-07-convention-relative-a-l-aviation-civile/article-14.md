@@ -1,0 +1,3 @@
+# Article 14
+
+Chaque État contractant s'engage à prendre des mesures efficaces pour prévenir la propagation, par l'intermédiaire de la navigation aérienne, du choléra, du typhus (épidémique), de la variole, de la fièvre jaune, de la peste, ainsi que de toute autre maladie contagieuse qu'il appartiendra aux États contractants, le cas échéant, de désigner. À cette fin, les États contractants se tiendront en étroite consultation avec les organismes chargés des règlements internationaux relatifs aux mesures sanitaires applicables aux aéronefs. Ces consultations n'affecteront en rien l'application de toute convention internationale existante en la matière à laquelle les États contractants pourraient être parties.

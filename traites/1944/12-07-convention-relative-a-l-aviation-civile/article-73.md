@@ -1,0 +1,3 @@
+# Article 73
+
+Dans la limite des fonds qui peuvent être mis par l'Assemblée à la disposition du Conseil en vertu du chapitre XII, le Conseil peut pourvoir aux dépenses courantes nécessaires aux fins du présent chapitre au moyen de prélèvements effectués sur le fonds général de l'Organisation. Le Conseil répartit le montant en capital nécessaire aux fins du présent chapitre, selon des proportions préalablement convenues et sur une période de temps raisonnable entre les États contractants qui y consentent et dont les entreprises de transport aérien utilisent les facilités en question. Si un fonds de roulement s'avère nécessaire, le Conseil peut également en répartir la charge entre les États qui y consentent.

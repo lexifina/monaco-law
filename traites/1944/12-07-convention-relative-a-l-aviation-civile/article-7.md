@@ -1,0 +1,3 @@
+# Article 7
+
+Chaque État contractant a le droit de refuser aux aéronefs d'autres États contractants la permission d'embarquer sur son territoire des passagers, du courrier ou des marchandises pour les transporter à destination d'un autre point situé à l'intérieur de son territoire, moyennant rémunération ou en exécution d'un contrat de location. Chaque État contractant s'engage d'une part à ne conclure aucun arrangement aux termes duquel tout privilège de cette nature serait expressément accordé, sur la base de l'exclusivité, à un autre État ou à une entreprise de transports aériens d'un autre État, et d'autre part à ne pas se faire octroyer un tel privilège exclusif par un autre État.

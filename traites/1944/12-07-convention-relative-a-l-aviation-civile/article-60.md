@@ -1,0 +1,3 @@
+# Article 60
+
+Chaque État contractant s'engage, dans toute la mesure permise par ses règles constitutionnelles, à accorder au Président du Conseil, au Secrétaire général et à tout autre membre du personnel de l'Organisation les privilèges et immunités accordés au personnel correspondant d'autres organisations internationales publiques. Si un accord international général intervient, concernant les immunités et privilèges des fonctionnaires internationaux, les immunités et privilèges accordés au Président du Conseil, au Secrétaire général et aux autres membres du personnel de l'Organisation seront les immunités et privilèges accordés aux termes de cet accord international général.
