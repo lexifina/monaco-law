@@ -1,0 +1,3 @@
+# Article 1
+
+Les appareils radio-électriques servant à l'émission, à la réception ou a l'émission et à la réception de signaux et de correspondances privées ne peuvent être fabriqués, importés, vendus ou acquis, en vue de leur utilisation à Monaco, que s'ils sont conformes à des types agréés par le Ministre d'État (département des travaux publics et des affaires sociales). Cette disposition n'est pas applicable aux appareils constituant les stations d'amateur ni aux stations expérimentales destinées à des essais techniques et à des études scientifiques relatifs à la radioélectricité. Les appareils agréés ou conformes à un type agréé ne peuvent être modifiés qu'avec l'accord du Ministre d'État (département des travaux publics et des affaires sociales).
