@@ -1,0 +1,3 @@
+# Article 609
+
+Lorsque les deniers du débiteur ne peuvent immédiatement suffire à faire face aux frais du prononcé, de la signification et de la publication de la décision constatant l'état de cessation des paiements, d'apposition, de garde et de levée des scellés, d'inscription de l'hypothèque légale de la masse, d'exercice des actions visées aux articles 454 à 457, 560, 565, 574 à 578, l'avance en est faite, sur ordonnance du juge-commissaire, par le Trésor ; celui-ci sera remboursé, comme créancier de la masse, avant tout autre créancier qui aurait tiré profit de ces mesures ou actions, sur les premiers fonds recouvrés, sous réserve toutefois des droits conférés aux salariés et aux créanciers alimentaires par les articles 475 et 478.
