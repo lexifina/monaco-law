@@ -1,0 +1,3 @@
+# Article 7
+
+Il a la surveillance des routes, celle de l'exécution des règlements sur la distribution des eaux d'arrosage, de la salubrité et de la santé publique ; il veille par lui-même et par l'intermédiaire du secrétaire général à la stricte observation de Nos ordonnances ; et si, pendant Nos absences, un ou plusieurs fonctionnaires administratifs ou militaires s'en écartaient, il leur adresserait un avertissement à ce sujet, et si cet avertissement restait sans effet, il convoquerait de suite la commission, afin de prendre provisoirement et en attendant Nos instructions, les mesures qui seraient jugées nécessaires.
