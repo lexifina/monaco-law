@@ -1,0 +1,1 @@
+Un accord relatif aux transports routiers ayant été signé à Monaco, le 20 janvier 1955, entre Notre plénipotentiaire et le plénipotentiaire de M. le Président de la République française, ledit accord, dont la teneur suit, recevra sa pleine et entière exécution à dater de la promulgation de la présente ordonnance.
