@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.529 du 17 juillet 2000 rendant exécutoire le deuxième protocole facultatif se rapportant au pacte international relatif aux droits civils et politiques visant à abolir la peine de mort
