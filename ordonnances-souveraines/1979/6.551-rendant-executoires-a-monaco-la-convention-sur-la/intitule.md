@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.551 du 28 mai 1979 rendant exécutoires à Monaco la convention sur la circulation routière faite à Vienne le 8 novembre 1968 et l'Accord européen complétant ladite convention fait à Genève le 1er mai 1971
