@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 14.052 du 17 juin 1999 rendant exécutoire la convention des Nations Unies sur la lutte contre la désertification dans les pays gravement touchés par la sécheresse et/ou la désertification, en particulier en Afrique
