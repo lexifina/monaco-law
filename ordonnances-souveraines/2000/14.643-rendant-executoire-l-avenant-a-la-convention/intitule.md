@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.643 du 14 novembre 2000 rendant exécutoire l'avenant à la Convention relative aux relations postales, télégraphiques et téléphoniques du 18 mai 1963 entre la Principauté de Monaco et la France, signé à Paris le 18 juin 1996
