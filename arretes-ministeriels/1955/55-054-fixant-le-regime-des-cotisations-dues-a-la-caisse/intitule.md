@@ -1,0 +1,1 @@
+Arrêté ministériel n° 55-054 du 4 mars 1955 fixant le régime des cotisations dues à la caisse de compensation des services sociaux pour le personnel employé dans les cafés et les restaurants et rémunéré au pourboire qui leur est versé directement
