@@ -1,0 +1,1 @@
+Une convention pour assurer l'extradition réciproque des malfaiteurs entre Notre Principauté et le Royaume d'Italie ayant été signée, le 26 mars 1866, par Notre plénipotentiaire et celui de Sa Majesté le Roi d'Italie, et les ratifications de cet acte ayant été échangées à Florence le 19 mai courant, ladite convention, dont la teneur suit, recevra sa pleine et entière exécution.
