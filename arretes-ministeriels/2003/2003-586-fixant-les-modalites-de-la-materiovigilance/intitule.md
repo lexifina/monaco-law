@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-586 du 10 novembre 2003 fixant les modalités de la matériovigilance exercée sur les dispositifs médicaux et de la réactovigilance exercée sur les dispositifs médicaux de diagnostic in vitro

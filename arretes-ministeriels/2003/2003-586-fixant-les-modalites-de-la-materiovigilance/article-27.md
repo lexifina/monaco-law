@@ -1,0 +1,3 @@
+# Article 27
+
+Pour un dispositif nouveau, le directeur de l'action sanitaire et sociale peut à tout moment et durant une période de deux ans suivant la déclaration prévue à l'article 32 de l'arrêté ministériel portant classification des dispositifs médicaux autres que les dispositifs médicaux implantables actifs et les dispositifs médicaux de diagnostic in vitro et fixant les procédures d'évaluation et de certification de conformité des dispositifs médicaux, demander au fabricant ou à son mandataire de fournir un rapport sur l'expérience acquise relative à ce dispositif après la mise sur le marché.
