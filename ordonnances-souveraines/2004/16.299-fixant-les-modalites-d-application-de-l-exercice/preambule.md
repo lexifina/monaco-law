@@ -1,0 +1,1 @@
+Vu la loi n° 975 du 12 juillet 1975 portant statut des fonctionnaires de l'État, modifiée par la loi n° 1.275 du 22 décembre 2003 relative à l'exercice du travail à temps partiel dans la fonction publique ;
