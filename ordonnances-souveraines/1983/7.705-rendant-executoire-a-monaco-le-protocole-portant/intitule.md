@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.705 du 16 mai 1983 rendant exécutoire à Monaco le protocole portant modification de la convention signée à Paris le 22 novembre 1928 concernant les expositions internationales, fait à Paris le 30 novembre 1972
