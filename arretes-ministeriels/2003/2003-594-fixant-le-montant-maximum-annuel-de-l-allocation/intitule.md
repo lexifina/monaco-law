@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-594 du 17 novembre 2003 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse autonome des retraites au titre de l'exercice 2002-2003
