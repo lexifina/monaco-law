@@ -1,0 +1,9 @@
+# Article 65
+
+Chacune des Hautes Parties contractantes peut déclarer, au moment de la signature, de la ratification ou de l'adhésion, que, par son acceptation de la présente Convention, elle n'entend assumer aucune obligation en ce qui concerne l'ensemble ou toute partie de ses colonies, protectorats, territoires d'outre-mer ou territoires placés sous sa suzeraineté ou son mandat ; dans ce cas, la présente Convention ne sera pas applicable aux territoires faisant l'objet d'une telle déclaration.
+
+Chacune des Hautes Parties contractantes pourra ultérieurement notifier au Gouvernement des Pays-Bas qu'elle entend rendre la présente Convention applicable à l'ensemble ou à toute partie de ces territoires ayant fait l'objet de la déclaration prévue à l'alinéa précédent. Dans ce cas, la Convention s'appliquera aux territoires visés dans la notification le cent-vingtième jour à partir de la date du dépôt de cette notification dans les archives du Gouvernement des Pays-Bas.
+
+De même chacune des Hautes Parties contractantes peut, à tout moment, après l'expiration de la période mentionnée à l'article 66, déclarer qu'elle entend voir cesser l'application de la présente Convention à l'ensemble ou à toute partie de ses colonies, protectorats, territoires d'outre-mer ou territoires placés sous sa suzeraineté ou son mandat ; dans ce cas, la Convention cessera d'être applicable aux territoires faisant l'objet d'une telle déclaration un an après la date du dépôt de cette déclaration dans les archives du Gouvernement des Pays-Bas.
+
+Le Gouvernement des Pays-Bas informera les gouvernements de tous les Pays participant à la présente Convention, ainsi que l'Office international d'Hygiène publique, des notifications et déclarations faites par application des dispositions ci-dessus, en leur faisant connaître la date du dépôt de celles-ci dans ses archives.

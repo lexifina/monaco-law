@@ -1,0 +1,5 @@
+# Article 24
+
+Les aéronefs, même venant d'une circonscription atteinte de l'une des maladies auxquelles s'applique le présent chapitre, peuvent atterrir dans tous les aérodromes autorisés. Toutefois, chacune des Hautes Parties contractantes aura la faculté, si les conditions épidémiologiques l'exigent d'imposer aux aéronefs en provenance de certaines circonscriptions, l'obligation d'atterrir sur des aérodromes sanitaires ou autorisés déterminés, compte tenu de la position géographique de ces aérodromes et des trajets suivis par les aéronefs, de manière à ne pas entraver la navigation aérienne.
+
+Les seules mesures éventuellement applicables dans les aérodromes autorisés qui ne sont pas en même temps des aérodromes sanitaires sont la visite médicale de l'équipage et des passagers, le débarquement et l'isolement des malades. Les passagers et l'équipage ne pourront pas franchir les limites fixées par l'autorité de l'aérodrome, sauf autorisation du médecin chargé de la visite. Cette interdiction pourra être imposée dans les escales à l'aéronef jusqu'à ce qu'il atterrisse dans un aérodrome sanitaire, où il subira les mesures prévues au présent chapitre.

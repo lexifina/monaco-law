@@ -1,0 +1,7 @@
+# Article 61
+
+Toute Haute Partie contractante qui désirera voir apporter des modifications à la présente Convention devra communiquer ses propositions au Gouvernement des Pays-Bas. Celui-ci en saisira l'Office international d'Hygiène publique, qui, s'il le juge opportun, rédigera un protocole amendant la Convention et le transmettra au Gouvernement des Pays-Bas.
+
+Le Gouvernement des Pays-Bas soumettra par circulaire datée le texte du dit protocole aux gouvernements des autres Hautes Parties contractantes, en leur demandant s'ils acceptent les modifications proposées. L'adhésion de chacune des Hautes Parties contractantes à ces modifications résultera soit d'une approbation expresse donnée au Gouvernement des Pays-Bas, soit du fait qu'elle se sera abstenue de notifier à celui-ci des objections dans les douze mois à partir de la date de la circulaire susvisée.
+
+Lorsque le nombre des adhésions expresses ou tacites représentera les deux tiers au moins des gouvernements des Hautes Parties contractantes, le Gouvernement des Pays-Bas le constatera au moyen d'un- procès-verbal qu'il communiquera à l'Office international d'Hygiène publique et aux Gouvernements de toutes les Hautes Parties contractantes. Le protocole entrera en vigueur, entre les Hautes Parties contractantes mentionnées audit procès-verbal, à l'expiration d'un délai de six mois à partir de la date de ce procès-verbal. La présente Convention continuera à être appliquée sans modification par les autres Hautes Parties contractantes jusqu'au jour où elles auront adhéré au protocole.

@@ -1,0 +1,3 @@
+# Article 37
+
+Indépendamment de la notification des cas et des circonstances relatives aux cas avérés de fièvre jaune, telle qu'elle est réglée par les articles 1, 2, 3, 4, 5 et 8 de la Convention sanitaire internationale du 21 juin 1926, chacune des Hautes Parties contractantes s'engage à notifier immédiatement aux autres Hautes Parties contractantes et, en même temps, à l'Office international d'Hygiène publique (soit directement soit par l'intermédiaire des Bureaux régionaux avec lesquels il a conclu des accords à cet effet) la découverte, sur son territoire, de l'existence actuelle de la fièvre jaune sous la forme sus-visée.
