@@ -1,0 +1,29 @@
+# Article 1er
+
+Sans préjudice des mentions exigées par d'autres dispositions législatives ou réglementaires, le récipient et l'emballage de chaque unité de produits cosmétiques mis sur le marché à titre gratuit ou onéreux doivent comporter les indications suivantes, inscrites de manière à être facilement lisibles, clairement compréhensibles et indélébiles :
+
+- a) le nom ou la raison sociale et la ou les adresses du fabricant ou du responsable de la mise sur le marché établi en Principauté de Monaco, dans un État membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen ; ces mentions peuvent être abrégées lorsque l'abréviation permet l'identification de l'entreprise ;
+
+- b) pour les produits fabriqués dans un État non membre de la Communauté européenne ou non partie à l'accord sur l'Espace économique européen, l'indication du pays d'origine ;
+
+- c) le contenu nominal au moment du conditionnement, indiqué en masse ou en volume, sauf pour les emballages contenant moins de cinq grammes ou moins de cinq millilitres et pour les échantillons gratuits et les unidoses ; pour les préemballages comprenant un ensemble de pièces, le contenu peut ne pas être indiqué pour autant que le nombre de pièces soit mentionné sur ce préemballage, sauf si ce nombre est facile à déterminer de l'extérieur ;
+
+- d) la date de durabilité minimale définie comme étant la date jusqu'à laquelle ce produit, conservé dans des conditions appropriées, continue à remplir sa fonction initiale et reste notamment conforme aux dispositions de l'article 2 de la loi n° 1.266 du 23 décembre 2002 relative aux produits cosmétiques ; la date de durabilité minimale est indiquée par la mention : « à utiliser de préférence avant fin ... », suivie de la date elle-même, soit de l'indication de l'endroit de l'emballage où elle figure.
+
+- La date est clairement mentionnée et se compose, dans l'ordre, soit du mois et de l'année, soit du jour, du mois et de l'année. En cas de besoin, ces mentions sont complétées par l'indication des conditions qui doivent être remplies pour assurer la durabilité indiquée.
+
+- L'indication de la date et de la durabilité n'est pas obligatoire pour les produits cosmétiques dont la durabilité minimale excède trente mois. Pour ces produits, les mentions sont complétées par l'indication de la durée d'utilisation autorisée après ouverture sans dommages pour le consommateur. Cette information est indiquée par le symbole fixé par arrêté ministériel, suivi de la durée d'utilisation exprimée en mois et/ou années.
+
+- e) les précautions particulières d'emploi, notamment celles prévues par les listes mentionnées au 4° de l'article 9 de la loi n° 1.266 du 23 décembre 2002 relative aux produits cosmétiques, qui doivent figurer sur le récipient et sur l'emballage, ainsi que d'éventuelles indications concernant des précautions particulières à observer pour les produits cosmétiques à usage professionnel, notamment ceux destinés aux coiffeurs ; en cas d'impossibilité pratique, une notice, une étiquette, une bande ou une carte jointe ou attachée doit comporter ces indications auxquelles le consommateur doit être renvoyé soit par une indication abrégée, soit par un symbole fixé par arrêté ministériel, qui doit figurer sur le récipient et l'emballage ;
+
+- f) le numéro de lot de fabrication ou la référence permettant l'identification de la fabrication ; en cas d'impossibilité pratique due aux dimensions réduites du produit cosmétique, une telle mention peut ne figurer que sur l'emballage ;
+
+- g) la fonction du produit, sauf si cela ressort de la présentation du produit ;
+
+- h) la liste des ingrédients dans l'ordre décroissant de leur importance pondérale au moment de leur incorporation, précédée du mot « ingrédients » ; cette liste peut figurer uniquement sur l'emballage ; en cas d'impossibilité pratique, une notice, une étiquette, une bande ou une carte jointe ou attachée doit comporter la liste de ces ingrédients auxquels le consommateur doit être renvoyé soit par une indication abrégée, soit par un symbole fixé par arrêté ministériel, qui doit figurer sur l'emballage ; les parfums et les compositions parfumantes sont mentionnés par le mot « parfum » ou « arôme » ; les ingrédients en concentration inférieure à 1 % peuvent être mentionnés dans le désordre après ceux dont la concentration est supérieure à 1 % ; les colorants peuvent être mentionnés dans le désordre après les autres ingrédients ; ils sont désignés soit par leur numéro, soit par leur dénomination tels qu'ils figurent dans la liste des colorants que peuvent contenir les produits cosmétiques ; pour les produits cosmétiques décoratifs mis sur le marché en plusieurs nuances de couleur, l'ensemble des colorants utilisés dans la gamme peut être mentionné, à condition d'y ajouter les mots : « peut contenir » ou la mention « +/- ».
+
+- Les noms des ingrédients mentionnés au h) doivent être ceux de la nomenclature commune des ingrédients établie par les instances compétentes de la Commission européenne.
+
+En outre, le fabricant ou le responsable de la mise sur le marché du produit cosmétique peut signaler sur l'emballage du produit, ou sur tout document, notice, étiquette, bande ou carte accompagnant ce produit ou s'y référant, l'absence d'expérimentations réalisées sur des animaux que si le fabricant et ces fournisseurs n'ont pas effectué ou commandité de telles expérimentations pour le produit fini, ou son prototype, et n'ont utilisé aucun ingrédient ayant été testé par d'autres sur des animaux en vue du développement de nouveaux produits cosmétiques.
+
+Art. 2. - Dans l'étiquetage, la présentation à la vente et la publicité concernant les produits cosmétiques, toute référence à l'expérimentation sur les animaux doit indiquer clairement si cette référence concerne les ingrédients, le produit fini ou les deux.
