@@ -1,9 +1,7 @@
 # Article 63
 
-Chacune des Hautes Parties contractantes aura la faculté de dénoncer la présente Convention.
+Le Conseil fédéral suisse fera enregistrer la présente Convention au Secrétariat des Nations Unies. Le Conseil fédéral suisse informera également le Secrétariat des Nations Unies de toutes les ratifications, adhésions et dénonciations qu'il pourra recevoir au sujet de la présente Convention.
 
-La dénonciation sera notifiée par écrit au Conseil fédéral suisse. Celui-ci communiquera la notification aux Gouvernements de toutes les Hautes Parties contractantes.
+En foi de quoi les soussignés, ayant déposé leurs pleins pouvoirs respectifs, ont signé la présente Convention.
 
-La dénonciation produira ses effets un an après sa notification au Conseil fédéral suisse. Toutefois la dénonciation notifiée alors que la Puissance dénonçante est impliquée dans un conflit, ne produira aucun effet aussi longtemps que la paix n'aura pas été conclue et, en tout cas, aussi longtemps que les opérations de libération et de rapatriement des personnes protégées par la présente Convention ne seront pas terminées.
-
-La dénonciation vaudra seulement à l'égard de la Puissance dénonçante. Elle n'aura aucun effet sur les obligations que les Parties au conflit demeureront tenues de remplir en vertu des principes du droit des gens tels qu'ils résultent des usages établis entre nations civilisées, des lois de l'humanité et des exigences de la conscience publique.
+Fait à Genève, le 12 août 1949, en langues française et anglaise, l'original devant être déposé dans les archives de la Confédération suisse. Le Conseil fédéral suisse transmettra une copie certifiée conforme de la Convention à chacun des États signataires, ainsi qu'aux États qui auront adhéré à la Convention.

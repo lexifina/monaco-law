@@ -1,3 +1,3 @@
 # Article 54
 
-Les Hautes Parties contractantes, dont la législation ne serait pas dès à présent suffisante, prendront les mesures nécessaires pour empêcher et réprimer en tout temps les abus visés à l'article 53.
+La présente Convention est établie en français et en anglais. Les deux textes sont également authentiques. Le Conseil fédéral suisse fera établir des traductions officielles de la Convention en langue russe et en langue espagnole.

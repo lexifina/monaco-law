@@ -1,3 +1,5 @@
 # Article 60
 
-Dès la date de son entrée en vigueur, la présente Convention sera ouverte à l'adhésion de toute Puissance au nom de laquelle cette Convention n'aura pas été signée.
+Les adhésions seront notifiées par écrit au Conseil fédéral suisse et produiront leurs effets six mois après la date à laquelle elles lui seront parvenues.
+
+Le Conseil fédéral suisse communiquera les adhésions à toutes les Puissances au nom desquelles la Convention aura été signée ou l'adhésion notifiée.

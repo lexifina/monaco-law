@@ -1,3 +1,3 @@
 # Article 51
 
-Aucune Partie contractante ne pourra s'exonérer elle-même, ni exonérer une autre Partie contractante, des responsabilités encourues par elle-même ou par une autre Partie contractante en raison des infractions prévues à l'article précédent.
+Les infractions graves visées à l'article précédent sont celles qui comportent l'un ou l'autre des actes suivants, s'ils sont commis contre des personnes ou des biens protégés par la Convention : l'homicide intentionnel, la torture ou les traitements inhumains, y compris les expériences biologiques, le fait de causer intentionnellement de grandes souffrances ou de porter des atteintes graves à l'intégrité physique ou à la santé, la destruction et l'appropriation de biens, non justifiées par des nécessités militaires et exécutées sur une grande échelle de façon illicite et arbitraire

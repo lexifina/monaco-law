@@ -1,3 +1,3 @@
 # Article 5
 
-Pour les personnes protégées qui sont tombées au pouvoir de la Partie adverse, la présente Convention s'appliquera jusqu'au moment de leur rapatriement définitif.
+Les Puissances neutres appliqueront par analogie les dispositions de la présente Convention aux blessés, malades et naufragés, aux membres du personnel sanitaire et religieux, appartenant aux forces armées des Parties au conflit, qui seront reçus ou internés sur leur territoire, de même qu'aux morts recueillis.

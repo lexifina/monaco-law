@@ -1,5 +1,9 @@
 # Article 31
 
-Le choix du personnel dont le renvoi à la Partie au conflit est prévu aux termes de l'article 30 s'opérera à l'exclusion de toute considération de race, de religion ou d'opinion politique, de préférence selon l'ordre chronologique de leur capture et leur état de santé.
+Les Parties au conflit auront le droit de contrôle et de visite sur les navires et embarcations visés aux articles 22, 24, 25 et 27. Elles pourront refuser le concours de ces navires et embarcations, leur enjoindre de s'éloigner, leur imposer une direction déterminée, régler l'emploi de leur T. S. F. et de tous autres moyens de communication et même les retenir pour une durée maximum de sept jours à partir du moment de l'arraisonnement, si la gravité des circonstances l'exigeait.
 
-Dès le début des hostilités, les Parties au conflit pourront fixer par accords spéciaux le pourcentage du personnel à retenir en fonction du nombre des prisonniers ainsi que sa répartition dans les camps.
+Elles pourront mettre temporairement à bord un commissaire, dont la tâche exclusive consistera à assurer l'exécution des ordres donnés en vertu des dispositions de l'alinéa précédent.
+
+Autant que possible, les Parties au conflit inscriront sur le journal de bord des navires-hôpitaux, dans une langue compréhensible pour le commandant du navire-hôpital, les ordres qu'elles leur donneront.
+
+Les Parties au conflit pourront, soit unilatéralement, soit par accord spécial, placer à bord de leurs navires-hôpitaux des observateurs neutres qui constateront la stricte observance des dispositions de la présente Convention.

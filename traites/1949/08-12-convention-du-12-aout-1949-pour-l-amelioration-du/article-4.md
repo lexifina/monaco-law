@@ -1,3 +1,5 @@
 # Article 4
 
-Les Puissances neutres appliqueront par analogie les dispositions de la présente Convention aux blessés et malades ainsi qu'aux membres du personnel sanitaire et religieux appartenant aux forces armées des Parties au conflit, qui seront reçus ou internés sur leur territoire, de même qu'aux morts recueillis.
+En cas d'opérations de guerre entre les forces de terre et de mer des Parties au conflit, les dispositions de la présente Convention ne seront applicables qu'aux forces embarquées.
+
+Les forces débarquées seront immédiatement soumises aux dispositions de la Convention de Genève du 12 août 1949 pour l'amélioration du sort des blessés et malades dans les forces armées en campagne.

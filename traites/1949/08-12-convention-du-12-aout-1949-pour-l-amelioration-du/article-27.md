@@ -1,9 +1,5 @@
 # Article 27
 
-Une société reconnue d'un pays neutre ne pourra prêter le concours de son personnel et de ses formations sanitaires à une Partie au conflit qu'avec l'assentiment préalable de son propre gouvernement et l'autorisation de la Partie au conflit elle-même. Ce personnel et ces formations seront placées sous le contrôle de cette Partie au conflit.
+Aux mêmes conditions que celles qui sont prévues aux articles 22 et 24, les embarcations utilisées par l'État ou par des Sociétés de secours officiellement reconnues pour les opérations de sauvetage côtières seront également respectées et protégées dans la mesure où les nécessités des opérations le permettront.
 
-Le gouvernement neutre notifiera cet assentiment à la partie adverse de l'État qui accepte ce concours. La Partie au conflit qui aura accepté ce concours est tenue, avant tout emploi, d'en faire la notification à la partie adverse.
-
-En aucune circonstance ce concours ne devra être considéré comme ingérence dans le conflit.
-
-Les membres du personnel visé au premier alinéa devront être dûment munis des pièces d'identité prévues à l'article 40 avant de quitter le pays neutre auquel ils appartiennent.
+Il en sera de même, dans la mesure du possible, pour les installations côtières fixes utilisées exclusivement par ces embarcations pour leurs missions humanitaires.

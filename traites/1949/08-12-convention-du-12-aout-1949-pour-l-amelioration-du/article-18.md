@@ -1,9 +1,5 @@
 # Article 18
 
-L'autorité militaire pourra faire appel au zèle charitable des habitants pour recueillir et soigner bénévolement, sous son contrôle, des blessés et des malades, en accordant aux personnes ayant répondu à cet appel la protection et les facilités nécessaires. Au cas où la Partie adverse viendrait à prendre ou à reprendre le contrôle de la région, elle maintiendra à ces personnes cette protection et ces facilités,
+Après chaque combat, les Parties au conflit prendront sans tarder toutes les mesures possibles pour rechercher et recueillir les naufragés, les blessés et les malades, les protéger contre le pillage et les mauvais traitements et leur assurer les soins nécessaires, ainsi que pour rechercher les morts et empêcher qu'ils ne soient dépouillés.
 
-L'autorité militaire doit autoriser les habitants et les sociétés de secours, même dans les régions envahies ou occupées, à recueillir et à soigner spontanément les blessés ou malades à quelque nationalité qu'ils appartiennent. La population civile doit respecter ces blessés et malades et notamment n'exercer contre eux aucun acte de violence.
-
-Nul ne devra jamais être inquiété ou condamné pour le fait d'avoir donné des soins à des blessés ou à des malades.
-
-Les dispositions du présent article ne dispensent pas la Puissance occupante des obligations qui lui incombent, dans le domaine sanitaire et moral, à l'égard des blessés et malades.
+Toutes les fois que les circonstances le permettront, les Parties au conflit concluront des arrangements locaux pour l'évacuation par mer des blessés et malades d'une zone assiégée ou encerclée et pour le passage de personnel sanitaire et religieux et de matériel sanitaire à destination de cette zone.

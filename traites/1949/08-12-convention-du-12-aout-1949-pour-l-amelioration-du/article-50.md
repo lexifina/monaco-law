@@ -1,3 +1,9 @@
 # Article 50
 
-Les infractions graves visées à l'article précédent sont celles qui comportent l'un ou l'autre des actes suivants, s'ils sont commis contre des personnes ou des biens protégés par la Convention : l'homicide intentionnel, la torture ou les traitements inhumains, y compris les expériences biologiques, le fait de causer intentionnellement de grandes souffrances ou de porter des atteintes graves à l'intégrité physique ou à la santé, la destruction et l'appropriation de biens, non justifiées par des nécessités militaires et exécutées sur une grande échelle de façon illicite et arbitraire.
+Les Hautes Parties contractantes s'engagent à prendre toute mesure législative nécessaire pour fixer les sanctions pénales adéquates à appliquer aux personnes ayant commis, ou donné l'ordre de commettre, l'une ou l'autre des infractions graves à la présente Convention, définies à l'article suivant.
+
+Chaque Partie contractante aura l'obligation de rechercher les personnes prévenues d'avoir commis, ou d'avoir ordonné de commettre, l'une ou l'autre de ces infractions graves, et elle devra les déférer à ses propres tribunaux, quelle que soit leur nationalité. Elle pourra aussi, si elle le préfère, et selon les conditions prévues par sa propre législation, les remettre pour jugement à une autre Partie contractante intéressée à la poursuite, pour autant que cette Partie contractante ait retenu contre lesdites personnes des charges suffisantes.
+
+Chaque Partie contractante prendra les mesures nécessaires pour faire cesser les actes contraires aux dispositions de la présente Convention, autres que les infractions graves définies à l'article suivant.
+
+En toutes circonstances, les inculpés bénéficieront de garanties de procédure et de libre défense qui ne seront pas inférieures à celles prévues par les articles 105 et suivants de la Convention de Genève du 12 août 1949, relative au traitement des prisonniers de guerre.

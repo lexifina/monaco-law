@@ -1,5 +1,5 @@
 # Article 34
 
-Les biens mobiliers et immobiliers des sociétés de secours admises au bénéfice de la Convention seront considérés comme propriété privée.
+La protection due aux navires-hôpitaux et aux infirmeries de vaisseaux ne pourra cesser que s'il en est fait usage pour commettre, en dehors de leurs devoirs humanitaires, des actes nuisibles à l'ennemi. Toutefois, la protection ne cessera qu'après sommation fixant, dans tous les cas opportuns, un délai raisonnable et qui serait demeurée sans effet.
 
-Le droit de réquisition reconnu aux belligérants par les lois et usages de la guerre ne s'exercera qu'en cas de nécessité urgente et une fois le sort des blessés et des malades assuré.
+En particulier, les navires-hôpitaux ne pourront posséder ni utiliser de code secret pour leurs émissions par T. S. F. ou par tout autre moyen de communication.

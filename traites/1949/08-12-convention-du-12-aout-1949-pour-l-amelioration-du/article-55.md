@@ -1,5 +1,3 @@
 # Article 55
 
-La présente Convention est établie en français et en anglais. Les deux textes sont également authentiques.
-
-Le Conseil fédéral suisse fera établir des traductions officielles de la Convention en langue russe et en langue espagnole.
+La présente Convention, qui portera la date de ce jour, pourra, jusqu'au 12 février 1950, être signée au nom des Puissances représentées à la Conférence qui s'est ouverte à Genève le 21 avril 1949, ainsi que des Puissances non représentées à cette Conférence qui participent à la Xe Convention de La Haye du 18 octobre 1907 pour l'adaptation à la guerre maritime des principes de la Convention de Genève de 1906, ou aux Conventions de Genève de 1864, de 1906 ou de 1929, pour l'amélioration du sort des blessés et des malades dans les armées en campagne.

@@ -1,3 +1,3 @@
 # Article 14
 
-Compte tenu des dispositions de l'article précédent, les blessés et les malades d'un belligérant, tombés au pouvoir de l'adversaire, seront prisonniers de guerre et les règles du droit des gens concernant les prisonniers de guerre leur seront applicables.
+Tout vaisseau de guerre d'une Partie belligérante pourra réclamer la remise des blessés, des malades ou des naufragés qui sont à bord de navires-hôpitaux militaires, de navires-hôpitaux de sociétés de secours ou de particuliers ainsi que de navires de commerce, yachts et embarcations, quelle que soit leur nationalité, pour autant que l'état de santé des blessés et malades en permette la remise et que le vaisseau de guerre dispose d'installations permettant d'assurer à ceux-ci un traitement suffisant.

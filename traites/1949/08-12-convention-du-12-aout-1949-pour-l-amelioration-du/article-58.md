@@ -1,5 +1,3 @@
 # Article 58
 
-La présente Convention entrera en vigueur six mois après que deux instruments de ratification au moins auront été déposés.
-
-Ultérieurement, elle entrera en vigueur pour chaque Haute Partie contractante six mois après le dépôt de son instrument de ratification.
+La présente Convention remplace la Xe Convention de La Haye du 18 octobre 1907 pour l'adaptation à la guerre maritime des principes de la Convention de Genève de 1906, dans les rapports entre les Hautes Parties contractantes.

@@ -1,3 +1,3 @@
 # Article 59
 
-La présente Convention remplace les Conventions du 22 août 1864, du 6 juillet 1906 et du 27 juillet 1929 dans les rapports entre les Hautes Parties contractantes.
+Dès la date de son entrée en vigueur, la présente Convention sera ouverte à l'adhésion de toute Puissance au nom de laquelle cette Convention n'aura pas été signée.

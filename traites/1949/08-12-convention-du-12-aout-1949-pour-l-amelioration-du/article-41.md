@@ -1,5 +1,5 @@
 # Article 41
 
-Le personnel désigné à l'article 25 portera, seulement pendant qu'il remplit des fonctions sanitaires, un brassard blanc portant en son milieu le signe distinctif, mais de dimensions réduites, délivré et timbré par l'autorité militaire.
+Sous le contrôle de l'autorité militaire compétente, l'emblème de la Croix-Rouge sur fond blanc figurera sur les drapeaux, les brassards, ainsi que sur tout le matériel se rattachant au service sanitaire.
 
-Les pièces d'identité militaires dont ce personnel sera porteur spécifieront l'instruction sanitaire reçue par le titulaire, le caractère temporaire de ses fonctions et le droit qu'il a au port du brassard.
+Toutefois, pour les pays qui emploient déjà comme signe distinctif à la place de la croix rouge, le croissant rouge ou le lion et le soleil rouges sur fond blanc, ces emblèmes sont également admis dans le sens de la présente Convention.

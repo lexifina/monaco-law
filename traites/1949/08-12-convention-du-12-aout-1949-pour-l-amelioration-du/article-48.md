@@ -1,3 +1,3 @@
 # Article 48
 
-Les Hautes Parties contractantes se communiqueront par l'entremise du Conseil fédéral suisse et, pendant les hostilités, par l'entremise des Puissances protectrices les traductions officielles de la présente Convention, ainsi que les lois et règlements qu'elles pourront être amenées à adopter pour en assurer l'application.
+Les Hautes Parties contractantes s'engagent à diffuser le plus largement possible, en temps de paix et en temps de guerre, le texte de la présente Convention dans leurs pays respectifs, et notamment à en incorporer l'étude dans les programmes d'instruction militaire et, si possible, civile, de telle manière que les principes en soient connus de l'ensemble de la population, notamment des forces armées combattantes, du personnel sanitaire et des aumôniers.

@@ -1,5 +1,3 @@
 # Article 61
 
-Les adhésions seront notifiées par écrit au Conseil fédéral suisse et produiront leurs effets six mois après la date à laquelle elles lui seront parvenues.
-
-Le Conseil fédéral suisse communiquera les adhésions à toutes les Puissances au nom desquelles la Convention aura été signée ou l'adhésion notifiée.
+Les situations prévues aux articles 2 et 3 donneront effet immédiat aux ratifications déposées et aux adhésions notifiées par les Parties au conflit avant ou après le début des hostilités ou de l'occupation. La communication des ratifications ou adhésions reçues des Parties au conflit sera faite par le Conseil fédéral suisse par la voie la plus rapide.

@@ -1,5 +1,5 @@
 # Article 38
 
-Par hommage pour la Suisse le signe héraldique de la croix rouge sur fond blanc, formé par interversion des couleurs fédérales, est maintenu comme emblème et signe distinctif du Service sanitaire des armées.
+Les navires affrétés à cette fin seront autorisés à transporter du matériel exclusivement destiné au traitement des blessés et des malades des forces armées ou à la prévention des maladies, pourvu que les conditions de leur voyage soient signalées à la Puissance adverse et agréées par elle. La Puissance adverse conservera le droit de les arraisonner, mais non de les capturer ni de saisir le matériel transporté.
 
-Toutefois, pour les pays qui emploient déjà comme signe distinctif à la place de la croix rouge, le croissant rouge ou le lion et le soleil rouges sur fond blanc, ces emblèmes sont également admis dans le sens de la présente Convention.
+D'accord entre les Parties au conflit, des observateurs neutres pourront être placés à bord de ces navires pour contrôler le matériel transporté. À cette fin, ce matériel devra être aisément accessible.
