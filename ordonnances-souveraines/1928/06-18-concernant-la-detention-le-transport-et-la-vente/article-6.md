@@ -1,3 +1,3 @@
 # Article 6
 
-Les infractions aux prescriptions de la présente ordonnance, ne tombant pas sous l'application des articles 435 à 440 du Code pénal, sont punies des peines prévues à l'article 8 de la loi n° 89, du 3 janvier 1925.
+Les produits présentés au public comme pouvant servir soit à la fabrication des moûts, soit aux manipulations et pratiques autorisées par l'article 3 de la présente ordonnance, doivent être désignés sous une appellation faisant connaître expressément la nature et la composition de ces produits.

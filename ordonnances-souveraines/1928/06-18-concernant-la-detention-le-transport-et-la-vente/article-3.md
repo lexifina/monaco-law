@@ -1,7 +1,13 @@
 # Article 3
 
-Il est interdit de détenir ou de transporter en vue de la vente, de mettre en vente ou de vendre sous la dénomination « d'huile d'olive » ou « de noix » ou de tout autre fruit ou graine, une huile ne provenant pas exclusivement des olives, des noix ou des fruits ou graines indiqués dans ladite dénomination.
+Ne constituent pas des manipulations et pratiques frauduleuses, aux termes de l'ordonnance du 27 juin 1907, les opérations ci-après énumérées, qui ont pour objet la fabrication régulière ou la conservation de la bière :
 
-Les huiles alimentaires mises en vente sans indication des fruits ou graines dont elles proviennent et les mélanges d'huile destinés à l'alimentation ne peuvent être désignés que sous l'appellation « huile comestible » ou « huile de table ».
+- 1° La clarification, soit en chaudière, soit pendant ou après la fermentation, à l'aide des substances dont l'emploi est déclaré licite par l'usage ;
 
-Les qualificatifs « vierge », « fine », « surfine », « superfine », « extra », « supérieure » sont exclusivement réservés aux huiles dont la dénomination fait connaître les fruits ou graines dont elles proviennent.
+- 2° La pasteurisation ;
+
+- 3° L'addition du tanin dans la mesure indispensable pour effectuer le collage ;
+
+- 4° La coloration au moyen du caramel ou d'extraits obtenus par torréfaction des céréales et substances dont l'emploi est autorisé, dans la fabrication de la bière, par l'article premier de la présente ordonnance ;
+
+- 5° Le traitement par l'anhydride sulfureux pur provenant de la combustion du soufre et par les bisulfites purs, à la double condition que la bière ne retienne pas plus de 50 milligrammes d'anhydride sulfureux, libre et combiné, par litre, et que l'emploi des bisulfites soit limité à 5 grammes par hectolitre.

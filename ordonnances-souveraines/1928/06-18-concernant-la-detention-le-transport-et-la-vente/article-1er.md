@@ -1,9 +1,3 @@
 # Article 1er
 
-Il est interdit de détenir ou de transporter en vue de la vente, de mettre en vente ou de vendre :
-
-- 1° sous la dénomination de « saindoux », tout produit ne provenant pas exclusivement des tissus adipeux du porc ;
-
-- 2° sous le nom de « saindoux pure panne », tout produit ne provenant pas exclusivement de la panne du porc.
-
-Ces produits sont obtenus par extraction à chaud ; ils perdent tout droit à ces appellations lorsqu'ils ont subi ultérieurement une manipulation susceptible de modifier leur composition naturelle ou leur teneur en principes utiles.
+Il est interdit de détenir ou de transporter en vue de la vente, mise en vente ou de vendre sous la dénomination de « bière » un produit autre que la boisson obtenue par la fermentation alcoolique d'un moût fabriqué avec du houblon et du malt d'orge pur ou associé à un poids au plus égal de malt provenant d'autres céréales, de matières amylacées, de sucre interverti ou de glucose.
