@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 11.427 du 16 janvier 1995 rendant exécutoire la Convention relative à la conciliation et à l'arbitrage au sein de la Conférence pour la sécurité et la Coopération en Europe, signée à Stockholm le 15 décembre 1992
