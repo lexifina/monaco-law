@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 2.057 du 21 septembre 1959 portant application de l'ordonnance-loi n° 669 du 17 septembre 1959 modifiant et codifiant la législation relative aux conditions de location des locaux à usage d'habitation
