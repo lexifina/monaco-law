@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.472 du 10 mai 2000 modifiant l'ordonnance souveraine n° 4.010 du 6 avril 1968 relative à la nomination des membres et aux règles de fonctionnement du Comité de l'éducation nationale
