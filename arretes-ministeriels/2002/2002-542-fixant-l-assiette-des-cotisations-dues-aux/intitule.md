@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2002-542 du 16 septembre 2002 fixant l'assiette des cotisations dues aux organismes sociaux pour les gens de maison et certaines catégories de personnels occasionnellement employés par les associations
