@@ -1,0 +1,1 @@
+Amendement du 22 juin 1979 à l'article XI, paragraphe 3, alinéa a), de la convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction faite à Washington le 3 mars 1973
