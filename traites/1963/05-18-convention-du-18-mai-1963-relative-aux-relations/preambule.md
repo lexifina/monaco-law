@@ -1,0 +1,1 @@
+Son Altesse Sérénissime le Prince de Monaco et le Gouvernement de la République Française ont résolu de conclure une Convention relative aux relations postales, télégraphiques et téléphoniques et sont convenus à cet effet des dispositions suivantes ;
