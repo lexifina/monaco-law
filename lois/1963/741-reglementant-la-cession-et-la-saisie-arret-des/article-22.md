@@ -1,0 +1,3 @@
+# Article 22
+
+Les avances sur traitements, appointements ou soldes des fonctionnaires, agents et employés de l'État ou de la commune sont après retenue, s'il y échet, des dettes alimentaires visées aux articles 2 et 21 ci-dessus -imputées d'office, dans les conditions fixées par l'administration au jour où l'avance a été consentie, sur la portion incessible ou insaisissable des traitements, appointements ou soldes du débiteur. En cas de décès de ce dernier avant remboursement complet des avances, l'imputation est opérée, s'il y a lieu, dans les mêmes conditions que ci-dessus, sur les indemnités d'assistance-décès.
