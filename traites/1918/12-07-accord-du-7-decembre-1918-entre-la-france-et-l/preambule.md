@@ -1,0 +1,1 @@
+Le gouvernement de la République Française et le gouvernement de Sa Majesté le Roi d'Italie, animés du désir de resserrer les liens d'amitié et de multiplier les rapports de bon voisinage qui unissent la France et l'Italie, ont décidé, d'un commun accord, de réglementer comme suit la circulation de leurs nationaux respectifs dans les zones frontières.
