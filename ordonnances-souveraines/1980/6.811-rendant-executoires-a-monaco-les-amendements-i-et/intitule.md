@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.811 du 14 avril 1980 rendant exécutoires à Monaco les amendements I et II de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, faite à Washington le 3 mars 1973, adoptés d'une part le 6 novembre 1976 à Berne (Suisse) et d'autre part, le 30 mars 1979 à San José (Costa Rica)
