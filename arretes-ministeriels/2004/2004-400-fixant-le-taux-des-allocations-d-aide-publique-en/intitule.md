@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2004-400 du 5 août 2004 fixant le taux des allocations d'aide publique en faveur des travailleurs privés momentanément et involontairement d'emploi et des plafonds journaliers de ressources pour en bénéficier
