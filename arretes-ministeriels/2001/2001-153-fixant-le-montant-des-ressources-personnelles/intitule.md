@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2001-153 du 23 mars 2001 fixant le montant des ressources personnelles telles que prévues à l'ordonnance n° 14.768 du 13 mars 2001 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
