@@ -1,0 +1,3 @@
+# Article 12
+
+L'extradition n'aura lieu que dans le cas où les preuves fournies auront été trouvées suffisantes d'après les lois de l'État requis, soit pour justifier la mise sous jugement du prisonnier, dans le cas où le crime aurait été commis sur le territoire dudit État soit pour constater l'identité du prisonnier avec l'individu condamné par lés tribunaux de l'État requérant et prouver que le crime dont il a été reconnu coupable aurait pu causer son extradition par l'État requis à l'époque de sa condamnation. L'extradition du fugitif n'aura lieu dans les territoires de Sa Majesté britannique qu'à l'expiration d'un terme de quinze jours à dater de son emprisonnement en vue de l'extradition.
