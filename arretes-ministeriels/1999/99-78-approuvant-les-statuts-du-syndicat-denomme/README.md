@@ -1,8 +1,8 @@
-# Arrêté ministériel n° 99-78 du 17 février 1999 approuvant les statuts du Syndicat dénommé « Chambre Syndicale Monégasque des Entreprises de l'Informatique et des Télécommunications »
+# Arrêté ministériel n° 99-78 du 17 février 1999 approuvant les statuts du Syndicat dénommé « Chambre Monégasque des nouvelles technologies de l'information et de la communication »
 
-Version en vigueur au 27 février 1999.
+Version en vigueur au 29 septembre 2001.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1999/02-17-99-78@1999.02.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1999/02-17-99-78@2001.09.29/
 
 | | |
 | --- | --- |
