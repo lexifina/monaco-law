@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.103 du 12 décembre 1963 réglementant la fabrication et le commerce des glaces
 
-Version en vigueur au 21 décembre 1963.
+Version en vigueur au 4 mars 1966.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1963/12-12-3.103@1963.12.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1963/12-12-3.103@1966.03.04/
 
 | | |
 | --- | --- |

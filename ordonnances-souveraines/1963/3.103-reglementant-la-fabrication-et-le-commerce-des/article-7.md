@@ -12,7 +12,7 @@ Ne constituent pas des falsifications :
 
 - L'emploi d'eau-de-vie de fruits, de rhum ou de liqueurs non saccharinés ;
 
-- La coloration au moyen de colorants dont l'emploi sera autorisé en confiserie après avis du commissaire général à la santé publique et qui seront utilisés à la dose strictement indispensable pour obtenir l'effet de coloration recherchée ;
+- La coloration au moyen de colorants dont l'emploi sera autorisé en confiserie après avis du Directeur de l'Action Sanitaire et Sociale et qui seront utilisés à la dose strictement indispensable pour obtenir l'effet de coloration recherchée ;
 
 - L'emploi, à titre de stabilisateur, dans une proportion ne dépassant pas 1 % du poids du produit fini, de gélatine alimentaire, de blanc d'œuf, d'agar-agar, de poudre de caroube ou de toute autre substance dont l'utilisation aura été autorisée par arrêté ministériel ;
 
