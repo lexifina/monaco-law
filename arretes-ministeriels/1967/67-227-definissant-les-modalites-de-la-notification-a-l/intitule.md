@@ -1,0 +1,1 @@
+Arrêté ministériel n° 67-227 du 12 septembre 1967 définissant les modalités de la notification à l'inspecteur du travail des suspensions du repos hebdomadaire visées aux articles 4 et 5 de la loi n° 822 du 23 juin 1967 sur le repos hebdomadaire
