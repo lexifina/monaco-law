@@ -1,5 +1,7 @@
 # Article 5
 
-1. Chaque Administration détermine la forme dans laquelle l'expéditeur d'un mandat verse les fonds à transférer.
+Les fonds destinés à l'expéditeur des envois lui sont envoyés :
 
-2. Un récépissé portant le numéro du mandat est délivré gratuitement à l'expéditeur au moment du versement des fonds.
+- a) par « mandat de remboursement » dont le montant peut être porté au crédit d'un compte courant postal tenu dans le pays d'origine de l'envoi lorsque la réglementation de l'Administration de ce pays le permet ;
+
+- b) dans le cas où les Administrations intéressées admettent ces procédés : par virement ou versement à un compte courant postal tenu soit dans le pays d'encaissement, soit dans le pays d'origine de l'envoi.

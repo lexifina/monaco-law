@@ -1,13 +1,5 @@
 # Article 17
 
-Peuvent être perçues sur le bénéficiaire :
+1. L'Administration d'origine de l'envoi attribue à l'Administration d'encaissement, sur le montant des taxes qu'elle a perçues en application de l'article 7, une quote-part unitaire dont le montant est fixé à 2 francs.
 
-- a) Une taxe de remise, lorsque le paiement est effectué à domicile ;
-
-- b) La taxe d'autorisation de paiement visée à l'article 20, paragraphe 5 ;
-
-- c) Éventuellement, la taxe de visa pour date prévue à l'article 13, paragraphe 4 ;
-
-- d) La surtaxe aérienne correspondante, lorsque les demandes de visa pour date ou d'autorisation de paiement ainsi que les visas ou autorisations qui en résultent doivent être transmis par voie aérienne à la demande du bénéficiaire.
-
-- e) La taxe visée à l'article 21, lettre c, de la Convention lorsque le mandat est adressé poste restante.
+2. Les envois contre remboursement liquidés au moyen du mandat de versement-remboursement donnent lieu à l'attribution de la même quote-part que celle qui est attribuée lorsque la liquidation est effectuée au moyen du mandat de remboursement.

@@ -1,5 +1,3 @@
 # Article 4
 
-1. Le montant d'un mandat ne peut excéder l'équivalent de 3 000 francs. Chaque Administration a cependant la faculté de fixer un maximum plus faible.
-
-2. Par exception, aucun maximum n'est fixé pour les mandats visés à l'article 7.
+Sauf entente spéciale, le montant du remboursement est exprimé dans la monnaie du pays d'origine de l'envoi ; toutefois, en cas de versement ou de virement du remboursement à un compte courant postal tenu dans le pays d'encaissement, ce montant est exprimé dans la monnaie de ce pays.

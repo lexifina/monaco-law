@@ -1,5 +1,5 @@
 # Article 8
 
-1. Les mandats télégraphiques sont soumis aux dispositions du Règlement télégraphique annexé à la Convention internationale des télécommunications.
+1. L'expéditeur d'un envoi contre remboursement peut, aux conditions fixées à l'article 30 de la Convention, demander soit le dégrèvement total ou partiel, soit l'augmentation du montant du remboursement.
 
-2. En sus de la taxe postale, l'expéditeur d'un mandat télégraphique paie la taxe du télégramme, y compris éventuellement celle d'une communication particulière destinée au bénéficiaire.
+2. En cas d'augmentation du montant du remboursement, l'expéditeur doit payer, pour la majoration la taxe visée à l'article 7, paragraphe 1 ; cette taxe n'est pas perçue lorsque la liquidation se fait par versement ou par virement à un compte courant postal.

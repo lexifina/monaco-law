@@ -1,8 +1,8 @@
-# Arrangement du 5 juillet 1974 concernant les mandats de poste et les bons postaux de voyage
+# Arrangement du 5 juillet 1974 concernant les envois contre remboursement
 
 Version en vigueur au 22 mars 1980.
 
-Source : Legimonaco, https://legimonaco.mc/tai/arrangement/1974/07-05-tai14l000151@1980.03.22/
+Source : Legimonaco, https://legimonaco.mc/tai/arrangement/1974/07-05-tai18l000151@1980.03.22/
 
 | | |
 | --- | --- |
