@@ -1,0 +1,3 @@
+# Article 1er
+
+Les États parties au présent Protocole (dénommés ci-après « les États contractants »), même s'ils ne sont pas parties à l'Arrangement de Madrid concernant l'enregistrement international des marques révisé à Stockholm en 1967 et modifié en 1979 (ci-après dénommé « l'Arrangement de Madrid (Stockholm) »), et les organisations visées à l'article 14.1) b) qui sont parties au présent Protocole (dénommées ci-après « les organisations contractantes ») sont membres de la même Union dont sont membres les pays qui sont parties à l'Arrangement de Madrid (Stockholm). Dans le présent Protocole, l'expression « parties contractantes » désigne aussi bien les États contractants que les organisations contractantes.

@@ -1,0 +1,3 @@
+# Article 9
+
+À la requête de la personne au nom de laquelle est inscrit l'enregistrement international, ou à la requête d'un Office intéressé faite d'office ou sur demande d'une personne intéressée, le Bureau international inscrit au registre international tout changement de titulaire de cet enregistrement, à l'égard de l'ensemble ou de certaines des parties contractantes sur le territoire desquelles ledit enregistrement a effet et à l'égard de tout ou partie des produits et des services énumérés dans l'enregistrement, sous réserve que le nouveau titulaire soit une personne qui, selon l'article 2.1), est habilitée à déposer des demandes internationales.

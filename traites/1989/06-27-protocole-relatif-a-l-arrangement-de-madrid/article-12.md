@@ -1,0 +1,3 @@
+# Article 12
+
+En ce qui concerne les parties contractantes, les finances de l'Union sont régies par les mêmes dispositions que celles qui figurent à l'article 12 de l'Arrangement de Madrid (Stockholm), étant entendu que tout renvoi à l'article 8 dudit Arrangement est considéré comme un renvoi à l'article 8 du présent Protocole. En outre, aux fins de l'article 12.6)b) dudit Arrangement, les organisations contractantes sont, sous réserve d'une décision unanime contraire de l'Assemblée, considérées comme appartenant à la classe de contribution I (un) selon la Convention de Paris pour la protection de la propriété industrielle.

@@ -1,0 +1,13 @@
+# Article 2
+
+1) Lorsqu'une demande d'enregistrement d'une marque a été déposée auprès de l'Office d'une partie contractante, ou lorsqu'une marque a été enregistrée dans le registre de l'Office d'une partie contractante, la personne qui est le déposant de cette demande (ci-après dénommée « la demande de base ») ou le titulaire de cet enregistrement (ci-après dénommé « l'enregistrement de base ») peut, sous réserve des dispositions du présent Protocole, s'assurer la protection de sa marque sur le territoire des parties contractantes, en obtenant l'enregistrement de cette marque dans le registre du Bureau international de l'Organisation Mondiale de la Propriété Intellectuelle (ci-après dénommés respectivement « l'enregistrement international », « le registre international », « le Bureau international » et « l'Organisation »), sous réserve que,
+
+i) lorsque la demande de base a été déposée auprès de l'Office d'un État contractant ou lorsque l'enregistrement de base a été effectué par un tel Office, la personne qui est le déposant de cette demande ou le titulaire de cet enregistrement soit un ressortissant de cet État contractant ou soit domiciliée, ou ait un établissement industriel ou commercial effectif et sérieux, dans ledit État contractant ;
+
+ii) lorsque la demande de base a été déposée auprès de l'Office d'une organisation contractante ou lorsque l'enregistrement de base a été effectué par un tel Office, la personne qui est le déposant de cette demande ou le titulaire de cet enregistrement soit le ressortissant d'un État membre de cette organisation contractante ou soit domiciliée, ou ait un établissement industriel ou commercial effectif et sérieux, sur le territoire de ladite organisation contractante.
+
+2) La demande d'enregistrement international (dénommée ci-après « la demande internationale ») doit être déposée auprès du Bureau international par l'intermédiaire de l'Office auprès duquel la demande de base a été déposée ou par lequel l'enregistrement de base a été effectué (ci-après dénommé « l'Office d'origine »), selon le cas.
+
+3) Dans le présent Protocole, le terme « Office » ou « Office d'une partie contractante » désigne l'office qui est chargé, pour le compte d'une partie contractante, de l'enregistrement des marques, et le terme « marques » désigne aussi bien les marques de produits que les marques de services.
+
+4) Dans le présent Protocole, on entend par « territoire d'une partie contractante », lorsque la partie contractante est un État, le territoire de cet État et, lorsque la partie contractante est une organisation intergouvernementale, le territoire sur lequel s'applique le traité constitutif de cette organisation intergouvernementale.
