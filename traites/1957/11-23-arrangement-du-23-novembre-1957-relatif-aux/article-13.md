@@ -1,0 +1,5 @@
+# Article 13
+
+1) Toute partie contractante pourra, pour des raisons impérieuses de sécurité nationale ou d'ordre public, se considérer comme dégagée des obligations qui lui incombent en vertu du présent arrangement en ce qui concerne un marin réfugié. Le marin réfugié en cause aura la faculté de fournir dans un délai raisonnable aux autorités compétentes les preuves tendant à le disculper, à l'exception des cas où des raisons sérieuses permettraient de considérer le marin réfugié en cause comme un danger pour la sécurité du pays où il se trouve.
+
+2) Toutefois, une décision prise en vertu du paragraphe 1 du présent article ne dégage pas la partie contractante en question des obligations qui lui incombent en vertu de l'article 11 du présent arrangement à l'égard d'un marin réfugié auquel elle a délivré un titre de voyage sauf le cas où la demande d'admettre le marin réfugié en cause sur son territoire lui est adressée par une autre partie contractante plus de 120 jours après l'expiration de ce titre de voyage.
