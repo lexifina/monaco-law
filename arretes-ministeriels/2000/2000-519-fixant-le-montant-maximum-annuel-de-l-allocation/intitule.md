@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2000-519 du 7 novembre 2000 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse autonome des retraites au titre de l'exercice 1999-2000
