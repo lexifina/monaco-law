@@ -1,1 +1,1 @@
-Ordonnance Souveraine n° 15.118 du 23 novembre 2001 portant adaptation en euros des montants exprimés en francs dans certaines ordonnances prises pour l'exécution de dispositions constitutionnelles ou législatives
+Ordonnance souveraine n° 15.118 du 23 novembre 2001 portant adaptation en euros des montants exprimés en francs dans certaines ordonnances prises pour l'exécution de dispositions constitutionnelles ou législatives
