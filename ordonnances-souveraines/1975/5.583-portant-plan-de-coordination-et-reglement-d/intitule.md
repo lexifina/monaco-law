@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.583 du 16 mai 1975 portant plan de coordination et règlement d'urbanisme, de construction et de voirie des parties du terre-plein de Fontvieille non affectées au domaine public de l'État
