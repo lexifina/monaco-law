@@ -1,0 +1,1 @@
+Arrêté municipal n° 2000-63 du 18 septembre 2000 concernant la détention en vue de la transformation, la détention en vue de la vente la mise en vente, la vente et la distribution de denrées à titre gratuit et d'une manière générale toute détention de denrées alimentaires comportant une date limite de consommation
