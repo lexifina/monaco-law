@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.584 du 20 mai 1975 rendant exécutoire à Monaco la convention internationale sur l'intervention en haute mer en cas d'accidents entraînant ou pouvant entraîner une pollution par les hydrocarbures, signée à Bruxelles le 29 novembre 1969
