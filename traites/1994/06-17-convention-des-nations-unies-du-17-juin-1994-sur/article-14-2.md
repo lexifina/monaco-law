@@ -1,0 +1,7 @@
+# Article 14 (2)
+
+1. En application de l'art. 20 de la Convention et du par. 2 de l'art. 4, les pays africains touchés Parties s'efforcent d'assurer un cadre macro-économique propre à faciliter la mobilisation de ressources financières et conçoivent des politiques et mettent en place des procédures permettant d'affecter les ressources de manière plus efficace aux programmes de développement local, y compris par l'intermédiaire d'organisations non gouvernementales, selon qu'il convient.
+
+2. En application des par. 4 et 5 de l'art. 21 de la Convention, les Parties conviennent de dresser un inventaire des sources de financement aux niveaux national, sous-régional, régional et international pour assurer l'utilisation rationnelle des ressources existantes et déterminer les lacunes à combler afin de faciliter la mise en œuvre des programmes d'action. Cet inventaire est régulièrement étudié et mis à jour.
+
+3. Dans le respect des dispositions de l'art. 7 de la Convention, les pays développés Parties continuent d'allouer des ressources importantes et/ou des ressources accrues aux pays africains touchés Parties ainsi que d'autres formes d'aide sur la base des accords et des mécanismes de partenariat visés à l'art. 18, en prêtant dûment attention notamment aux questions relatives à l'endettement, aux échanges internationaux et aux arrangements de commercialisation, conformément au par. 2b) de l'art. 4 de la Convention.

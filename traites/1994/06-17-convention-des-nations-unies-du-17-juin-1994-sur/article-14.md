@@ -1,0 +1,5 @@
+# Article 14
+
+1. Les Parties collaborent étroitement, directement et par l'intermédiaire des organisations intergouvernementales compétentes, pour élaborer et mettre en œuvre les programmes d'action.
+
+2. Les Parties mettent au point, en particulier aux niveaux national et local, des mécanismes opérationnels propres à garantir la coordination la plus poussée possible entre les pays développés Parties, les pays en développement Parties et les organisations intergouvernementales et non gouvernementales compétentes, afin d'éviter les doubles emplois, d'harmoniser les interventions et les approches et de maximiser l'effet de l'aide. Dans les pays en développement Parties, on s'attachera en priorité à coordonner les activités relatives à la coopération internationale afin de parvenir à une efficacité maximale dans l'utilisation des ressources, d'assurer une aide adaptée et de faciliter la mise en œuvre des programmes nationaux et le respect des priorités aux termes de la présente Convention.

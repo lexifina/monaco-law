@@ -1,0 +1,3 @@
+# Article 17 (2)
+
+Dans le cadre de l'application de l'art. 18 de la Convention, relatif au transfert, à l'acquisition, à l'adaptation et à la mise au point de technologies, les Parties s'engagent à donner la priorité aux pays africains Parties et, si nécessaire, à développer avec eux de nouveaux modèles de partenariat et de coopération en vue d'accroître le renforcement des capacités dans les domaines de la recherche et du développement scientifiques ainsi que de la collecte et de la diffusion de l'information pour leur permettre de mettre en œuvre leurs stratégies visant à lutter contre la désertification et à atténuer les effets de la sécheresse.

@@ -1,0 +1,3 @@
+# Article 11
+
+Les pays touchés Parties se consultent et coopèrent pour élaborer, selon qu'il convient, conformément aux annexes pertinentes concernant la mise en œuvre au niveau régional, des programmes d'action sous-régionaux ou régionaux en vue d'harmoniser, de compléter et de rendre plus efficaces les programmes nationaux. Les dispositions de l'art. 10 s'appliquent mutatis mutandis aux programmes sous-régionaux et régionaux. Cette coopération peut s'étendre aussi à l'application de programmes conjoints arrêtés d'un commun accord pour la gestion durable des ressources naturelles transfrontières, la collaboration scientifique et technique et le renforcement des institutions compétentes.

@@ -1,0 +1,5 @@
+# Article 8
+
+1. Les Parties encouragent la coordination des activités menées en vertu de la Convention et, si elles y sont Parties, en vertu d'autres accords internationaux pertinents, notamment la Convention-cadre des Nations Unies sur les changements climatiques et la Convention sur la diversité biologique, afin de tirer le meilleur profit des activités prévues par chaque accord tout en évitant les doubles emplois. Les Parties encouragent l'exécution de programmes communs, en particulier dans les domaines de la recherche, de la formation, de l'observation systématique ainsi que de la collecte et de l'échange d'informations, dans la mesure où ces activités peuvent aider à atteindre les objectifs des accords en question.
+
+2. Les dispositions de la présente Convention ne portent nullement atteinte aux droits et obligations de toute Partie découlant d'un accord bilatéral, régional ou international par lequel celle-ci s'est liée avant l'entrée en vigueur de la présente Convention à l'égard de cette Partie.

@@ -1,0 +1,9 @@
+# Article 2 (4)
+
+Les Parties, conformément aux dispositions de la Convention, prennent en considération les particularités suivantes de la région :
+
+- a) l'existence de vastes étendues vulnérables et gravement touchées par la désertification et/ou la sécheresse qui présentent des caractéristiques hétérogènes dépendant de l'endroit où se produisent ces phénomènes; ce processus cumulatif de plus en plus marqué a des effets sociaux, culturels, économiques et environnementaux négatifs qui sont d'autant plus graves que, du point de vue de la diversité biologique, les ressources de la région comptent parmi les plus importantes du monde;
+
+- b) le recours fréquent dans les zones touchées à des pratiques incompatibles avec un développement durable du fait des interactions complexes entre les facteurs physiques, biologiques, politiques, sociaux, culturels et économiques, y compris des facteurs économiques internationaux tels que l'endettement extérieur, la détérioration des termes de l'échange et les pratiques commerciales qui ont des répercussions sur les marchés des produits de l'agriculture, de la pêche et de la sylviculture, et
+
+- c) une très nette réduction de la productivité des écosystèmes qui est la principale conséquence de la désertification et de la sécheresse et qui se traduit par une baisse de rendement dans l'agriculture, l'élevage et la sylviculture, ainsi que par la diminution de la diversité biologique; du point de vue social, il en résulte des phénomènes d'appauvrissement, des migrations, des déplacements de population internes et une détérioration de la qualité de la vie; la région devra, en conséquence, aborder de manière intégrée les problèmes de la désertification et de la sécheresse en encourageant des modes de développement durable conformes à la réalité environnementale, économique et sociale de chaque pays.

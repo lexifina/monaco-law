@@ -1,0 +1,3 @@
+# Article 8 (4)
+
+Les pays touchés Parties élaborant un programme d'action sous-régional, régional ou conjoint peuvent créer un comité de coordination composé de représentants de chaque pays touché Partie afin d'examiner les progrès de la lutte contre la désertification, d'harmoniser les programmes d'action nationaux, de faire des recommandations aux différents stades de l'élaboration et de la mise en œuvre des programmes sous-régionaux, régionaux ou conjoints, et de servir de centre de liaison pour la coordination et la promotion de la coopération technique en application des art. 16 à 19 de la Convention.
