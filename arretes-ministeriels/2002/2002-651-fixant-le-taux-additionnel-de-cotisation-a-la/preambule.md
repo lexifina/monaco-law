@@ -1,0 +1,9 @@
+Vu la loi n° 455 du 27 juin 1947 sur les retraites des salariés, modifiée ;
+
+Vu l'ordonnance souveraine n° 3.520 du 1er août 1947 fixant les modalités d'application de la loi n° 455 du 27 juin 1947, susvisée, modifiée ;
+
+Vu l'ordonnance souveraine n° 3.731 du 28 juillet 1948 fixant les modalités d'application de la loi n° 455 du 27 juin 1947, susvisée, modifiée ;
+
+Vu les avis émis respectivement les 23 et 25 septembre 2002 par le Comité de Contrôle et le Comité financier de la Caisse Autonome des Retraites ;
+
+Vu la délibération du Conseil de Gouvernement en date du 21 novembre 2002 ;
