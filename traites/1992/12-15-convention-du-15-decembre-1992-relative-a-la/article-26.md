@@ -1,0 +1,9 @@
+# Article 26
+
+1. Une demande d'arbitrage peut être formée à tout moment par voie d'accord entre deux ou plusieurs États parties à la présente convention ou entre un ou plusieurs États parties à la convention et un ou plusieurs autres États participant à la CSCE.
+
+2. Les États parties à la convention peuvent à tout moment, par notification adressée au dépositaire, déclarer reconnaître comme obligatoire de plein droit et sans accord spécial la compétence d'un tribunal arbitral sous réserve de réciprocité. Cette déclaration peut être faite sans limitation de durée ou pour une délai déterminé ; elle peut être faite pour tous les différends ou exclure les différends soulevant des questions concernant l'intégrité territoriale, la défense nationale, un titre de souveraineté sur le territoire national ou des revendications concurrentes en ce qui concerne la juridiction sur d'autres zones.
+
+3. Une demande d'arbitrage ne peut être formée par voie de requête adressée au greffier de la Cour contre un État partie à la convention ayant fait la déclaration prévue au paragraphe 2 qu'une fois qu'un délai de trente jours se sera écoulé après que le rapport de la commission de conciliation chargée d'examiner le différend aura été transmis au Conseil de la CSCE conformément aux dispositions du paragraphe 5 de l'article 25.
+
+4. Lorsqu'un différend est soumis à un tribunal arbitral conformément au présent article, le tribunal peut, de sa propre autorité ou à la demande des parties au différend ou de l'une d'elles, indiquer les mesures conservatoires qui devraient être prises par les parties au différend afin d'empêcher que le différend ne s'aggrave, que sa solution ne soit rendue plus difficile ou qu'une sentence ultérieure du tribunal ne risque d'être inapplicable du fait de l'attitude des parties ou de l'une des parties au différend.
