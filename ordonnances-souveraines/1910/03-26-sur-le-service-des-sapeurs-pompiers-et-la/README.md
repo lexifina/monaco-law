@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 26 mars 1910 sur le service des sapeurs-pompiers et la sécurité des établissements publics
 
-Version en vigueur au 13 avril 1910.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1910/03-26-L001055@1910.04.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1910/03-26-L001055@1911.04.19/
 
 | | |
 | --- | --- |
