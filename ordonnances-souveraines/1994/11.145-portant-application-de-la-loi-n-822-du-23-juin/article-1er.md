@@ -6,7 +6,7 @@ Conformément aux dispositions de l'article 3 de la loi n° 822 du 23 juin 1967,
 
 - 2° Hôtels-restaurants et débits de boissons ;
 
-- 3° 3° (3° annulé) ;
+- 3° (3° annulé) ;
 
 - 4° Hôpitaux, maisons de retraite, dispensaires, maisons d'enfants, pharmacies ;
 
@@ -50,4 +50,6 @@ Conformément aux dispositions de l'article 3 de la loi n° 822 du 23 juin 1967,
 
 - 24° Entreprises de nettoyage qui œuvrent dans des établissements recevant du public ;
 
-- 25° Entreprises de distribution de carburant.
+- 25° Entreprises de distribution de carburant ;
+
+- 26° Opérateur public des télécommunications.
