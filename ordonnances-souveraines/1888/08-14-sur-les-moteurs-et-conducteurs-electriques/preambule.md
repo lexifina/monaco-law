@@ -1,0 +1,1 @@
+Considérant que, d'après les expériences faites dans les États voisins, l'intérêt de la sûreté publique exige que l'installation des moteurs et conducteurs électriques soit entourée de certaines précautions et soumise à une surveillance particulière ;
