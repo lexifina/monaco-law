@@ -1,0 +1,1 @@
+Accord du 12 février 1982 entre la Principauté de Monaco et la République Italienne définissant les conditions d'octroi aux travailleurs temporaires italiens du bénéfice des prestations du régime conventionnel d'aide financière UNEDIC-ASSEDIC
