@@ -1,0 +1,1 @@
+Arrêté ministériel n° 62-352 du 23 novembre 1962 autorisant les opérations de gestion du fonds de réserve de la caisse autonome des retraites et habilitant le directeur de cette dernière à en poursuivre l'exécution
