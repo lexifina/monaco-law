@@ -1,13 +1,9 @@
 # Article 11
 
-1. Les colis avec valeur déclarée donnent lieu à la perception sur l'expéditeur et à l'avance des taxes ci-après :
+1. En cas de changement de résidence du bénéficiaire et dans les limites où fonctionne un service de mandats entre le pays réexpéditeur et le pays de nouvelle destination, tout mandat peut être réexpédié par voie postale ou télégraphique soit à la demande de l'expéditeur, soit à celle du bénéficiaire. Dans ce cas, l'article 31, paragraphes 1 à 3 de la Convention est applicable par analogie.
 
-- a) Taxes autorisées dans le présent titre ;
+2. La réexpédition, par voie postale, des mandats-cartes postaux ou télégraphiques s'effectue sans perception de taxe et sans émission de nouveaux titres lorsque le pays de nouvelle destination entretient avec le pays d'émission un échange de mandats-cartes sur la base du présent Arrangement.
 
-- b) À titre facultatif, taxe d'expédition ne dépassant pas la taxe de recommandation fixée à l'article 21, lettre n, de la Convention ou taxe correspondante du service intérieur si celle-ci est plus élevée ou, exceptionnellement, taxe de 3 francs au maximum ;
+3. Dans tous les cas, la réexpédition est faite au moyen d'un nouveau mandat dont les taxes, y compris, le cas échéant, les taxes télégraphiques, sont prélevées sur le montant du mandat réexpédié.
 
-- c) Taxe ordinaire d'assurance : au maximum 1 franc par 200 francs ou fraction de 200 francs déclarés, ou 1/2 pour cent de l'échelon de valeur déclarée.
-
-2. En outre, est autorisée la perception, par les Administrations qui acceptent de couvrir les risques pouvant découler du cas de force majeure, d'une « taxe pour risques de force majeure » à fixer de manière que la somme totale formée par cette taxe et la taxe ordinaire d'assurance ne dépasse pas le maximum prévu au paragraphe 1, lettre c.
-
-3. Les Administrations peuvent en outre percevoir sur les expéditeurs ou les destinataires les taxes spéciales prévues par leur législation intérieure pour les mesures exceptionnelles de sécurité prises à l'égard des colis avec valeur déclarée.
+4. En cas de réexpédition, l'article 31, paragraphe 6, de la Convention est applicable en ce qui concerne la taxe de poste restante et la taxe complémentaire d'exprès.

@@ -1,7 +1,5 @@
 # Article 8
 
-1. Les Administrations établissent les surtaxes aériennes à percevoir pour l'acheminement des colis par la voie aérienne. Elles ont la faculté d'adopter, pour la fixation des surtaxes, des échelons de poids inférieurs à la première coupure de poids.
+1. Les mandats télégraphiques sont soumis aux dispositions du Règlement télégraphique annexé à la Convention internationale des télécommunications.
 
-2. Les surtaxes doivent être en étroite relation avec les frais de transport et, en règle générale, leur produit ne doit pas dépasser, dans l'ensemble, les frais à payer pour ce transport.
-
-3. Les surtaxes doivent être uniformes pour tout le territoire d'un même pays de destination, quel que soit l'acheminement utilisé.
+2. En sus de la taxe postale, l'expéditeur d'un mandat télégraphique paie la taxe du télégramme, y compris éventuellement celle d'une communication particulière destinée au bénéficiaire.

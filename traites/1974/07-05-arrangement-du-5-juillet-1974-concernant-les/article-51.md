@@ -1,3 +1,11 @@
 # Article 51
 
-Lorsque, pour des raisons de force majeure ou à cause d'un autre événement imprévisible, une Administration est contrainte d'utiliser, pour le transport de ses propres colis, une nouvelle voie d'acheminement qui occasionne des frais supplémentaires de transport territorial ou maritime, elle est tenue d'en informer immédiatement, par la voie télégraphique, toutes les Administrations dont les dépêches de colis ou les colis à découvert sont acheminés en transit par son pays. À partir du cinquième jour suivant le jour de l'expédition de cette information, l'Administration intermédiaire est autorisée à mettre en compte à l'Administration d'origine les quotes-parts territoriales et maritimes qui correspondent au nouveau parcours.
+1. Pour devenir exécutoires, les propositions soumises au Congrès et relatives au présent Arrangement et à son Règlement doivent être approuvées par la majorité des Pays-membres présents et votant qui sont parties à l'Arrangement : La moitié au moins de ces Pays-membres représentés au Congrès doivent être présent au moment du vote.
+
+2. Pour devenir exécutoires, les propositions introduites entre deux Congrès et relatives au présent Arrangement et à son Règlement doivent réunir :
+
+- a) L'unanimité des suffrages, s'il s'agit de l'addition de nouvelles dispositions ou de modifications aux dispositions des articles 1 à 10, 11, paragraphes 4, 12 à 14, 15, paragraphes 1, 2 et 4, 16 à 18, 19, paragraphes 4, 20, paragraphes 5, 22 à 30, 33 et 48 à 52 du présent Arrangement et 102 à 106, 109, 116, 119 à 121, 124, 129 à 133, 136, paragraphe 1, et 157 de son Règlement ;
+
+- b) Les deux tiers des suffrages, s'il s'agit de modifications aux dispositions du présent Arrangement autres que celles qui sont mentionnées sous lettres a et c des articles 107 et 108, 110, 112, 115, 117, 118, 122, 123, 125, 127, 134, 137, et 138, à 144 de son Règlement ;
+
+- c) La majorité des suffrages, s'il s'agit de la modification de l'article 20 paragraphe 3 de l'Arrangement et des autres articles du Règlement ou de l'interprétation des dispositions du présent Arrangement et de son Règlement, hors le cas de différend à soumettre à l'arbitrage prévu à l'article 32 de la Constitution.

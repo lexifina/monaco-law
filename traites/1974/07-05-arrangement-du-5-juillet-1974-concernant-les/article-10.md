@@ -1,5 +1,3 @@
 # Article 10
 
-1. Les colis francs de taxes et de droits sont passibles d'une taxe dite « taxe pour franchise à la livraison » dont le montant est fixé à 2 francs par colis au maximum. Cette taxe s'ajoute à la taxe de présentation à la douane visée à l'article 14, lettre b ; elle est perçue à titre de commission sur l'expéditeur au profit de l'Administration de destination. En outre, l'Administration d'origine a la faculté de percevoir sur l'expéditeur une taxe supplémentaire de 2 francs au maximum, qu'elle garde comme rémunération pour les services fournis dans le pays d'origine.
-
-2. Lorsque la franchise à la livraison est demandée postérieurement au dépôt du colis, une taxe pour demande de franchise à la livraison est perçue sur l'expéditeur au moment de la présentation de la demande. Cette taxe dont le montant est fixé à 3 francs au maximum est perçue au profit de l'Administration d'origine ; elle s'ajoute à la surtaxe aérienne ou à la taxe du télégramme si l'expéditeur a exprimé le désir que sa demande soit transmise par la voie aérienne ou télégraphique.
+L'expéditeur d'un mandat peut, aux conditions fixées à l'article 30 de la Convention, le faire retirer du service ou en faire modifier l'adresse aussi longtemps que le titre ou les fonds n'ont pas été remis au bénéficiaire.

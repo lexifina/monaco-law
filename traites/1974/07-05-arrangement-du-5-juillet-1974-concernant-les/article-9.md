@@ -1,7 +1,13 @@
 # Article 9
 
-1. Les colis exprès sont passibles d'une taxe supplémentaire appelée « taxe d'exprès » et dont le montant fixé à 1,60 francs au maximum est acquitté complètement et à l'avance au moment du dépôt, même si le colis ne peut être distribué par exprès, mais seulement l'avis d'arrivée.
+1. L'expéditeur d'un mandat peut demander à être avisé du paiement. L'article 42, paragraphe 1, de la Convention est applicable aux avis de paiement.
 
-2. Lorsque la remise par exprès entraîne pour l'Administration de destination des sujétions spéciales en ce qui concerne soit la situation du domicile du destinataire, soit le jour ou l'heure d'arrivée au bureau de destination, la remise du colis et la perception éventuelle d'une taxe complémentaire sont réglées par les dispositions relatives aux colis de même nature du régime intérieur. Cette taxe complémentaire reste exigible même si le colis est renvoyé à l'origine ou réexpédié.
+2. Lorsque le premier avis de paiement ne lui est pas parvenu dans les délais normaux, l'expéditeur peut en déposer un second moyennant paiement de la taxe prévue. Si le paiement du mandat a eu lieu avant le dépôt d'une seconde demande d'avis de paiement, la taxe perçue est remboursée à l'expéditeur.
 
-3. Si la réglementation de l'Administration de destination le permet, les destinataires peuvent demander au bureau de distribution, sous réserve de ce qui est prévu au paragraphe 1, que les colis qui leur sont destinés soient livrés par exprès dès leur arrivée. Dans ce cas, l'Administration de destination est autorisée à percevoir, au moment de la distribution, la taxe applicable dans son service intérieur.
+3. Sous réserve de l'article 16, l'expéditeur d'un mandat peut demander que la remise des fonds soit effectuée à domicile par exprès dès l'arrivée du mandat ; dans ce cas, l'article 29 de la Convention est applicable.
+
+4. Dans les relations avec les pays qui admettent le paiement en main propre, l'expéditeur d'un mandat peut demander, par une mention portée sur la formule, que le paiement ait lieu exclusivement entre les mains et sur acquit personnel du bénéficiaire. Dans ce cas, l'expéditeur paie une taxe spéciale égale à celle qui est prévue à l'article 21, lettre q de la Convention.
+
+5. L'expéditeur d'un mandat-carte ou d'un mandat-liste peut en demander la transmission par avion contre paiement de la surtaxe aérienne.
+
+6. l'expéditeur peut inscrire, au verso du coupon, une communication particulière destinée au bénéficiaire du mandat. En ce qui concerne les mandats-listes, seules des références sont admises.

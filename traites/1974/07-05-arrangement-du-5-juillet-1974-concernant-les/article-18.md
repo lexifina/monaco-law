@@ -1,13 +1,7 @@
 # Article 18
 
-Sous réserve que le contenu ne tombe pas sous le coup des interdictions énumérées à l'article 19 ou sous celui des interdictions ou des restrictions applicables dans le territoire d'une ou de plusieurs Administrations appelées à participer au transport, tout colis, pour être admis à l'expédition, doit :
+1. La remise des mandats télégraphiques à toujours lieu dans les formes prévues à l'article 16.
 
-- a) appartenir à une catégorie de colis admise en application de l'article 4 ;
+2. Lorsque les fonds sont remis à domicile par exprès l'Administration de paiement peut percevoir de ce chef une taxe spéciale, en tenant compte, si le télégramme-mandat porte l'indication de service taxée XP, de la taxe d'exprès acquittée par l'expéditeur.
 
-- b) avoir un emballage adapté à la nature du contenu et aux conditions du transport ;
-
-- c) porter les noms et adresses du destinataire et de l'expéditeur ;
-
-- d) répondre aux conditions de poids et de dimensions fixées par les articles 2 et 20 ;
-
-- e) être affranchi de toutes taxes exigibles par le bureau d'origine au moyen de timbres-poste ou de tout autre procédé autorisé par la réglementation de l'Administration d'origine.
+3. La remise d'un avis d'arrivée ou du titre lui-même s'effectue sans frais pour le bénéficiaire ; toutefois, si le domicile de ce dernier se trouve en dehors du rayon de distribution locale du bureau de paiement et si le télégramme-mandat ne porte pas l'indication de service taxée XP, la taxe de remise par exprès peut être perçue sur le bénéficiaire.

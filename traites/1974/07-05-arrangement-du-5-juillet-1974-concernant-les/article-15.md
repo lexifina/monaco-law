@@ -1,15 +1,9 @@
 # Article 15
 
-1. Les Administrations de destination sont autorisées à percevoir, sur les destinataires, tous droits, notamment les droits de douane, dont les envois sont grevés dans le pays de destination.
+I. Le paiement des mandats est effectué selon la réglementation du pays de paiement.
 
-2. Les Administrations s'engagent à intervenir auprès des autorités compétentes de leurs pays pour que les droits (parmi lesquels les droits de douane) soient annulés quand ils concernent un colis :
+2. Le montant des mandats est payé au bénéficiaire en monnaie légale du pays de paiement ; il peut être payé en toute autre monnaie suivant accord particulier entre les Administrations correspondantes.
 
-- a) renvoyé à l'origine ;
+3. Le paiement peut être valablement effectué par versement à un compte courant postal, selon les règles en vigueur dans l'Administration de paiement.
 
-- b) réexpédié sur un tiers pays ;
-
-- c) abandonné par l'expéditeur ;
-
-- d) perdu dans leur service ou détruit pour cause d'avarie totale du contenu ;
-
-- e) spolié ou avarié dans leur service. Dans ces cas, l'annulation des droits n'est demandée que pour la valeur du contenu manquant ou pour la dépréciation subie par le contenu.
+4. Après en avoir avisé les Administrations intéressées, l'Administration de paiement a la faculté, si sa législation l'exige, soit de négliger les fractions d'unité monétaire, soit d'arrondir la somme à l'unité monétaire la plus voisine ou au dixième d'unité le plus voisin.

@@ -1,13 +1,7 @@
 # Article 6
 
-1. Les taxes et les droits que les Administrations sont autorisées à percevoir sur les expéditeurs et les destinataires de colis postaux sont constitués par les taxes principales définies à l'article 7 et, le cas échéant, par :
+1. L'Administration d'émission détermine librement la taxe à percevoir au moment de l'émission. Le montant de cette taxe ne peut excéder 20 francs.
 
-- a) Les surtaxes aériennes visées à l'article 8 ;
+2. À cette taxe principale, elle ajoute, éventuellement, les taxes afférentes à des services spéciaux (demande d'avis de paiement, de paiement par exprès, etc).
 
-- b) Les taxes supplémentaires visées aux articles 9 à 14 ;
-
-- c) Les taxes et droits visés aux articles 29, paragraphe 3, et 31, paragraphe 6 ;
-
-- d) Les droits visés à l'article 15.
-
-2. Sauf les cas prévus par le présent Arrangement, les taxes sont conservées par l'Administration qui les a perçues.
+3. Les mandats échangés, par l'intermédiaire d'un pays partie au présent Arrangement, entre un pays contractant et un pays non contractant, peuvent être soumis, par l'Administration du pays intermédiaire, à une taxe supplémentaire et proportionnelle de 1/4 pour cent mais au minimum de 1 franc et au maximum de 2 francs, prélevée sur le montant du titre ; cette taxe peut toutefois être perçue sur l'expéditeur et attribuée à l'Administration du pays intermédiaire si les Administrations intéressées se sont mises d'accord à cet effet.

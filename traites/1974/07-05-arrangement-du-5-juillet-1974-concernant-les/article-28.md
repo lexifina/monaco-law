@@ -1,19 +1,33 @@
 # Article 28
 
-1. Après réception de l'avis de non-livraison visé à l'article 22, paragraphe 2, lettres a) et b) , il incombe à l'expéditeur ou au tiers y mentionné de donner ses instructions qui peuvent uniquement être celles qu'autorise ledit article, paragraphe 2, lettres c) à g) et, en outre, l'une des suivantes :
+1. L'Administration d'émission attribue à l'Administration de paiement une quote-part unitaire sur le montant des taxes qu'elle a perçues en application de l'article 6.
 
-- a) Aviser une nouvelle fois le destinataire ;
+2. Le taux de la quote-part est fixé, en fonction du montant moyen des mandats-cartes compris dans un même compte mensuel, à :
 
-- b) Rectifier ou compléter l'adresse ;
+- 0,80 franc jusqu'à 100 francs ;
 
-- c) S'il s'agit d'un colis contre remboursement :
+- 1,00 franc au-delà de 100 francs et jusqu'à 200 francs ;
 
-  - 1° Le remettre à une personne autre que le destinataire contre remboursement de la somme indiquée ;
+- 1,20 franc au-delà de 200 francs et jusqu'à 300 francs ;
 
-  - 2° Le remettre au destinataire primitif ou à un autre destinataire, sans remboursement ou contre remboursement d'une somme inférieure à la somme primitive ;
+- 1,50 franc au-delà de 300 francs et jusqu'à 400 francs ;
 
-- d) Remettre le colis franc de taxes et de droits soit au destinataire primitif, soit à un autre destinataire.
+- 1,80 franc au-delà de 400 francs et jusqu'à 500 francs ;
 
-2. Tant qu'elle n'a pas reçu d'instructions de l'expéditeur ou du tiers, l'Administration de destination est autorisée à livrer le colis au destinataire primitivement désigné, soit, le cas échéant, à un autre destinataire ultérieurement désigné, soit à réexpédier le colis à une nouvelle adresse. Après réception des nouvelles instructions, celles-ci seules sont valables et exécutoires. Elles sont transmises par la voie la plus rapide (aérienne ou de surface) ou par la voie télégraphique si l'expéditeur ou le tiers paie la taxe télégraphique correspondante.
+- 2,10 francs au-delà de 500 francs.
 
-3. L'envoi des instructions visées au paragraphe 1 donne lieu à la perception, soit sur l'expéditeur soit sur le tiers, de la taxe visée à l'article 13, lettre d ; quand l'avis concerne plusieurs colis déposés simultanément au même bureau par le même expéditeur à l'adresse du même destinataire, cette taxe n'est perçue qu'une fois.
+3. Toutefois, les Administrations concernées peuvent à la demandé de l'Administration de paiement, convenir d'une quote-part supérieure à celle qui est fixée au paragraphe 2 lorsque la taxe perçue à l'émission est supérieure au montant de la taxe combinée ci-après :
+
+- a) Taxe fixe de :
+
+  - 0,80 franc pour les mandats-cartes ;
+
+  - 1,60 franc pour les mandats-listes ;
+
+- b) Taxe proportionnelle de 3/4 pour cent de la somme versée.
+
+4. Les mandats de versement et les mandats émis en franchise ne donnent lieu à aucune rétribution.
+
+5. Pour les mandats-listes, en sus de la quote-part unitaire prévue au paragraphe 2 du présent article, une quote-part supplémentaire de 50 centimes est attribuée à l'Administration de paiement.
+
+6. En cas de réexpédition, l'Administration du pays de la nouvelle destination reçoit quelles que soient les taxes effectivement perçues par l'Administration d'émission, les quotes-parts qui lui auraient été dues si elle avait été l'Administration du pays de première destination.

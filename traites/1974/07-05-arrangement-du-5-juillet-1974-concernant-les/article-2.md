@@ -1,9 +1,7 @@
 # Article 2
 
-1. Des envois dénommés « colis postaux » dont le poids unitaire' ne peut dépasser 20 kilogrammes peuvent être échangés soit directement, soit par l'intermédiaire d'un ou de plusieurs pays.
+1. Les mandats peuvent être échangés soit par la voie postale, soit si les télégrammes-mandats sont admis dans les relations entre les pays intéressés, par la voie télégraphique.
 
-2. L'échange des colis postaux excédant 10 kilogrammes est facultatif.
+2. L'échange par la voie postale peut, au choix des Administrations, s'opérer au moyen de cartes ou de listes. Dans le premier cas, les titres sont dénommés « mandats-cartes » et, dans le second, « mandats-listes ».
 
-3. Par dérogation aux paragraphes 1 et 2, les colis postaux relatifs au service postal et visés à l'article 16 peuvent atteindre le poids maximal de 30 kilogrammes.
-
-4. Dans le présent Arrangement, dans son Protocole final et dans son Règlement d'exécution, l'abréviation « colis » s'applique à tous les colis postaux.
+3. L'échange par la voie télégraphique peut avoir lieu par mandat-carte télégraphique ou par mandat-liste télégraphique, les deux catégories étant dénommées « mandat télégraphique ».

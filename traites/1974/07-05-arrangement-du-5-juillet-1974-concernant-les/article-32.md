@@ -1,9 +1,5 @@
 # Article 32
 
-1. Tout colis parvenu en fausse direction par suite d'une erreur imputable à l'expéditeur ou à l'Administration expéditrice est réexpédié sur sa véritable destination par la voie la plus directe utilisée par l'Administration à laquelle le colis est parvenu.
+1. Les pays dans lesquels le service des mandats est assuré par des organismes non postaux peuvent participer à l'échange régi par les dispositions du présent Arrangement.
 
-2. Tout colis-avion parvenu en fausse direction doit obligatoirement être réexpédié par la voie aérienne.
-
-3. Tout colis réexpédié par application du présent article est assujetti aux quotes-parts que comporte la transmission sur sa véritable destination et aux taxes et droits mentionnés à l'article 31, paragraphe 6, lettre c.
-
-4. Ces quotes-parts, taxes et droits sont repris sur l'Administration dont dépend le bureau d'échange qui a transmit le colis en fausse direction. Cette Administration les perçoit, le cas échéant, sur l'expéditeur.
+2. Il appartient à ces organismes de s'entendre avec l'Administration postale de leur pays pour assurer la complète exécution de toutes les clauses de l'Arrangement ; l'Administration postale leur sert d'intermédiaire dans leurs relations avec les Administrations postales des autres pays contractants et avec le Bureau international.
