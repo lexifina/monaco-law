@@ -1,0 +1,5 @@
+# Article 4
+
+1. Les parties coopèrent étroitement sur les sujets couverts par cette convention et encouragent une coopération analogue, lorsqu'elle est appropriée, entre les autorités sportives nationales concernées.
+
+2. Avant les matches ou tournois internationaux entre clubs ou équipes représentatives, les parties concernées invitent leurs autorités compétentes, notamment les organisations sportives, à identifier les matches à l'occasion desquels des actes de violence ou des débordements de spectateurs sont à craindre. Si un match de ce type est identifié, les autorités compétentes du pays hôte prennent des dispositions pour une concertation entre les autorités concernées. Cette concertation se tiendra dès que possible ; elle devrait avoir lieu au plus tard deux semaines avant la date prévue pour le match et englobera les dispositions, mesures et précautions à prendre avant, pendant et après le match, y compris, s'il y a lieu, des mesures complémentaires à celles prévues par la présente convention.
