@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 7.191 du 31 août 1981 relative aux règles applicables aux opérations financières et comptables de la caisse de compensation des services sociaux, de la caisse autonome des retraites et de la caisse autonome des retraites des travailleurs indépendants
