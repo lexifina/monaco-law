@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.628 du 28 juillet 1975 déclarant définitivement d'utilité publique et urgents les travaux de construction d'une galerie technique souterraine entre le vallon de Sainte-Dévote et le terre-plein de Fontvieille
