@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 30 mars 1865 sur le serment des fonctionnaires
 
-Version en vigueur au 3 avril 1865.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1865/03-30-L002483@1865.04.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1865/03-30-L002483@1911.04.19/
 
 | | |
 | --- | --- |
