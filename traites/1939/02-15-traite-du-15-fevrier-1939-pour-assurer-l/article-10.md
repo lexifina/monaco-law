@@ -1,0 +1,3 @@
+# Article 10
+
+Si l'individu réclamé par l'une des hautes parties contractantes en vertu du présent traité est aussi réclamé par une ou plusieurs autres puissances, du chef de crimes ou délits commis dans leurs juridictions respectives, son extradition sera accordée à l'État dont la demande aura été reçue la première, à moins que le Gouvernement requis ne soit tenu par traité, dans le cas de demandes concurrentes, d'accorder la préférence à celle qui est la première en date, et alors on se conformera à cette règle, à moins également qu'il n'existe entre les Gouvernements requérants un arrangement qui déciderait de la préférence, soit à raison de la gravité des infractions commises, soit pour tout autre motif.

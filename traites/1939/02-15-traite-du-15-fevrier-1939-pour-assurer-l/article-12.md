@@ -1,0 +1,3 @@
+# Article 12
+
+Les frais occasionnés par l'arrestation, l'interrogatoire et la remise des individus réclamés seront à la charge du gouvernement requérant. Toutefois, ce gouvernement n'aura pas à supporter les frais se rapportant à l'intervention de fonctionnaires ou officiers publics du gouvernement requis dont le ministère ou les services sont rémunérés par un traitement fixe de l'État. Il est entendu que les frais dus aux fonctionnaires ou officiers publics, dont les actes ou services sont rémunérés par des émoluments ou honoraires ne dépasseront pas le chiffre des honoraires réguliers qu'ils auraient touchés pour les services ou actes accomplis où rendus par eux si ces actes ou services avaient concerné une procédure pénale ordinaire suivant les lois du pays requis.
