@@ -1,5 +1,7 @@
 # Article 110
 
-1. Il n'est pas tenu compte des annotations ou notes interdites portées sur le bordereau. Les notes séparées ou les lettres sont traitées comme des lettres non affranchies en provenance du pays d'origine et, en cas de recouvrement des valeurs, remises aux destinataires contre perception de la taxe exigible. En cas de refus de paiement de cette taxe, ces notes ou ces lettres sont considérées comme envois non distribuables et renvoyées au bureau d'origine à l'appui du bordereau.
+1. Toute lettre avec valeur déclarée, dont le destinataire est parti pour un autre pays, peut être réexpédiée si ce pays exécute le service dans ses relations avec celui de la première destination. Si tel n'est pas le cas, l'envoi est renvoyé immédiatement à l'Administration d'origine pour être rendu à l'expéditeur.
 
-2. Lorsque des annotations interdites sont portées sur les valeurs elles-mêmes, celles-ci sont mises en recouvrement et livrées contre paiement de leur montant et de la taxe d'une lettre non affranchie provenant du pays d'origine. En cas de refus de paiement de cette taxe, les valeurs peuvent être remises, mais la taxe exigible est prélevée sur les sommes recouvrées ; une note explicative est annexée au bordereau RP 1 (2e partie).
+2. Les lettres avec valeur déclarée non distribuées doivent être renvoyées dès que possible et au plus tard dans les délais fixés à l'article 32 de la Convention ; ces envois sont inscrits sur la feuille VD 3 et compris dans le paquet, l'enveloppe ou le sac étiqueté « Valeurs déclarées ».
+
+3. Les droits de douane et autres droits dont l'annulation n'a pu être obtenue lors de la réexpédition ou le renvoi à l'origine sont recouvrés sur l'Administration de la nouvelle destination dans les conditions prévues à l'article 137, paragraphe 8, du Règlement d'exécution de la Convention.

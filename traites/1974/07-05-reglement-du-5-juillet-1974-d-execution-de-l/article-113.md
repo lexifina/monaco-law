@@ -1,15 +1,17 @@
 # Article 113
 
-1. Le mandat-carte, revêtu de la mention « Recouvrement », est transmis, sous enveloppe RP 3, au bureau de dépôt des valeurs, accompagné du bordereau RP 1 (2e partie) et des valeurs non recouvrées.
+1. Le présent Règlement sera exécutoire à partir du jour de la mise en vigueur de l'Arrangement concernant les lettres avec valeur déclarée.
 
-2. Lorsque le montant du mandat de recouvrement peut être versé à un compte courant postal dans le pays d'origine de l'envoi et que l'expéditeur a demandé à bénéficier de cette faculté, l'établissement du mandat, le renvoi des valeurs non recouvrées et le renvoi de la formule RP 1 (2e partie) ont lieu conformément à l'article 114, paragraphe 2 et 3.
+2. Il aura la même durée que cet Arrangement, à moins qu'il ne soit renouvelé d'un commun accord entre les Parties intéressées.
 
-3. Dans les relations qui, pour le service des mandats, comportent l'intervention de bureaux d'échange, le pli est adressé au bureau d'échange compétent.
+Fait à Lausanne, le 5 juillet 1974.
 
-4. Si l'expéditeur a demandé le renvoi des documents de liquidation du recouvrement par voie aérienne, le pli, revêtu d'une étiquette « Par avion » et, s'il y a lieu, de l'affranchissement représentant la surtaxe aérienne autorisée par l'article 16, paragraphe 1, lettre d, de l'Arrangement, est expédié par le premier courrier aérien.
+1 | 2 | 3
 
-5. Les plis visés aux paragraphes 1 à 4 sont soumis à la recommandation s'ils contiennent des valeurs non recouvrées. Les indications imprimées sur l'enveloppe RP 3 sont complétées en conséquence.
+VD 1 | Tableau VD 1 ............ | Art. 101 (§ 1)
 
-6. Lorsque les taxes sont à percevoir sur l'expéditeur soit par application de l'article 16, paragraphe 3, de l'Arrangement, soit en vertu de l'article 110 du présent Règlement, l'enveloppe RP 3 est frappée du timbre T est le montant des taxes à percevoir est indiqué en chiffres apparents au recto de l'enveloppe.
+VD 2 | Étiquette « V » combinée avec le nom du bureau d'origine et le numéro de l'envoi ............ | Art. 105 (§ 1, lettre c )
 
-7. Lorsque le nom et l'adresse de l'expéditeur ne figurent ni sur l'enveloppe, ni sur le bordereau, ni sur les valeurs elles-mêmes, le bureau de destination, s'il n'a pu recueillir ces renseignements auprès du ou des débiteurs, prévient du fait le bureau d'origine, opère dans les conditions prévues ci-dessus et mentionne ce dernier bureau comme bénéficiaire sur le mandat de recouvrement.
+VD 3 | Feuille d'envoi des lettres avec valeur déclarée ............ | Art. 107 (§ 1)
+
+VD 4 | Procès-verbal concernant la perte, la spoliation, l'avarie ou des irrégularités d'une lettre avec valeur déclarée ............ | Art. 108 (§ 3)

@@ -1,9 +1,11 @@
 # Article 106
 
-1. Sous réserve des paragraphes 2 à 4, l'article 140 du Règlement d'exécution de la Convention est applicable aux demandes de retrait de valeurs et aux demandes de rectification du bordereau d'envoi.
+1. Au moyen des tableaux VD 1 reçus de ses correspondants, chaque Administration détermine les voies à employer pour la transmission de ses lettres avec valeur déclarée.
 
-2. Toute demande de rectification d'un bordereau doit être accompagnée d'un duplicata de celui-ci.
+2. La transmission des lettres avec valeur déclarée entre pays limitrophes ou reliés entre eux au moyen d'un service maritime ou aérien direct est effectuée par les bureaux d'échange que les deux Administrations intéressées désignent d'un commun accord.
 
-3. Si cette demande est transmise par voie télégraphique, elle doit être confirmée, par le premier courrier, par une demande postale ; le duplicata visé au paragraphe 2 est joint à cette demande. Dès réception du télégramme, le bureau de recouvrement retient l'envoi et attend la confirmation postale pour faire droit à la demande.
+3. Dans les rapports entre pays séparés par un ou plusieurs services intermédiaires, les lettres avec valeur déclarée doivent suivre la voie la plus directe. Toutefois, les Administrations intéressées peuvent également s'entendre pour assurer la transmission à découvert par des voies détournées, au cas où la transmission par la voie la plus directe ne comporterait pas la garantie de responsabilité sur tout le parcours.
 
-4. Toutefois, l'Administration de recouvrement peut, sous sa propre responsabilité, donner suite à une demande télégraphique sans attendre cette confirmation.
+4. Suivant les convenances du service, les envois peuvent être expédiés dans des dépêches closes ou être livrés à découvert à la première Administration intermédiaire, si celle-ci est à même d'assurer la transmission dans les conditions prévues par les tableaux VD 1 ; toutefois, chaque Administration intermédiaire a le droit, lorsqu'elle constate que le nombre des envois à découvert est de nature à entraver ses opérations, d'exiger que les lettres avec valeur déclarée lui soient livrées dans des dépêches closes formées par l'Administration d'origine pour les bureaux d'échange du pays de destination :
+
+5. Est réservée aux Administrations d'origine et de destination la faculté de s'entendre entre elles, pour échanger les lettres avec valeur déclarée en dépêches closes, au moyen des services d'un ou de plusieurs pays intermédiaires participant ou non à l'Arrangement. Les Administrations intermédiaires doivent être prévenues en temps utile.

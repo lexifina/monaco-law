@@ -1,15 +1,7 @@
 # Article 109
 
-1. Le bureau de recouvrement vérifie les valeurs composant l'envoi, rapproche chacune d'elles des inscriptions correspondantes portées sur le bordereau et consigne sur celui-ci le résultat de la vérification.
+1. Dans les cas prévus à l'article 11, paragraphe 1, lettres a) et b) , de l'Arrangement, le bureau effectuant la livraison établit un procès-verbal VD 4 de vérification contradictoire et le fait contresigner, autant que possible, par le destinataire. Une copie du procès-verbal est remise au destinataire ou, en cas de refus de l'envoi ou de réexpédition, annexée à celui-ci. Une copie est conservée par l'Administration qui a établi le procès-verbal.
 
-2. Les valeurs régulières dont la présence est constatée et qui ne figurent pas sur le bordereau y sont inscrites d'office.
+2. La copie du procès-verbal VD 4 établi conformément à l'article 108, paragraphe 4, lettre b) , est annexée à l'envoi et traitée, en cas de livraison, selon la réglementation du pays de destination ; en cas de refus de l'envoi, elle reste annexée à celui-ci.
 
-3 : Si des valeurs inscrites sur le bordereau manquent, le bureau de recouvrement en informe immédiatement le bureau d'origine qui avise l'expéditeur.
-
-4. Si des valeurs sont inscrites sur le bordereau pour un montant inexact ou si elles sont irrégulières, elles sont renvoyées immédiatement à l'expéditeur par l'intermédiaire du bureau d'origine, accompagnées d'une fiche indiquant le motif de la non-présentation et faisant connaître, en outre, que le règlement de compte des valeurs conservées sera effectué ultérieurement ; une fiche rappelant le renvoi antérieur des valeurs non présentées est jointe au bordereau RP 1 (2e partie).
-
-5. Les valeurs autres que celles qui sont visées aux paragraphes 3 et 4 sont mises normalement en recouvrement.
-
-6. Les valeurs d'un envoi sont irrécouvrables, elles sont renvoyées accompagnées d'une note explicative et de la deuxième partie du bordereau.
-
-7. Le renvoi des valeurs qui n'ont pu être mises en recouvrement a lieu sous enveloppe conforme au modèle RP 3 ci-annexé ; le plis est soumis à la recommandation d'office.
+3. Lorsque la réglementation intérieure l'exige, un envoi traité conformément au paragraphe 1 est renvoyé à l'expéditeur si le destinataire refuse de contresigner le procès-verbal VD 4.
