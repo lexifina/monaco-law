@@ -1,0 +1,3 @@
+# Article 10
+
+Sous l'autorité du directeur, l'agent comptable exécute toutes les opérations comptables. Il assume la responsabilité de sa gestion ; à ce titre, il peut suspendre le paiement des dépenses s'il constate des irrégularités, il ne peut toutefois refuser de déférer à la réquisition du directeur que lorsque la suspension de paiement est motivée par l'indisponibilité des crédits, l'absence de justification de service fait, le caractère non libératoire du règlement ou le manque de fonds disponibles ; en cas de suspension de paiement ou de réquisition du directeur, l'agent comptable en informe le ministre d'État.
