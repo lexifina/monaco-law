@@ -1,6 +1,6 @@
 # Article 15
 
-Saisis par le ministère d'État, l'office d'assistance sociale et la direction de l'Action sanitaire et sociale étudient le dossier, et l'allocation est mandatée par les soins de la direction de l'Action sanitaire et sociale, dans le respect des dispositions législatives et réglementaires.
+Saisis par le ministère d'État, l'office d'assistance sociale et la direction de l'action sanitaire et sociale étudient le dossier, et l'allocation est mandatée par les soins de la direction de l'action sanitaire et sociale, dans le respect des dispositions législatives et réglementaires.
 
 Les cas particuliers sont toutefois préalablement soumis à l'examen de la commission.
 
