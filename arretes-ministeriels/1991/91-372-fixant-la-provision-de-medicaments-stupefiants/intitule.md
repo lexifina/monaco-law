@@ -1,0 +1,1 @@
+Arrêté ministériel n° 91-372 du 2 juillet 1991 fixant la provision de médicaments stupéfiants que peuvent détenir, pour usage professionnel, les médecins, docteurs-vétérinaires, chirurgiens-dentistes et sages-femmes
