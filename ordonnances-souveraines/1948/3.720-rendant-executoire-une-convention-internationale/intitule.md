@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.720 du 15 juillet 1948 rendant exécutoire une Convention internationale signée à Genève le 27 juillet 1929 concernant l'amélioration du sort des blessés et des malades dans les armées en campagne
