@@ -1,0 +1,3 @@
+# Article 17
+
+Les mêmes pénalités (amende de cent à mille francs, emprisonnement de quinze jours à six mois) seront également applicables, en cas d'explosion, au propriétaire, au chef d'entreprise ou d'établissement, au directeur, gérant, qui n'auraient pas provoqué la visite annuelle ou la visite spéciale prescrite à l'article 7. Au cas, d'ailleurs, où les susdits se seraient conformés aux prescriptions dudit article 7, leur responsabilité civile n'en resterait pas moins pleine et entière et ne saurait, sous aucun prétexte, ni dans quelque mesure que ce soit, être attribuée au service du contrôle.
