@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.507 du 22 avril 1961 rendant exécutoire un arrangement administratif du 24 mars 1961 fixant les modalités d'application de la Convention franco-monégasque sur la sécurité sociale
