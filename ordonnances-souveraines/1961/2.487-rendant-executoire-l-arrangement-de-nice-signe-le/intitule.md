@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.487 du 4 avril 1961 rendant exécutoire l'arrangement de Nice signé le 15 juin 1957 concernant la classification internationale des produits et des services auxquels s'appliquent les marques de fabrique ou de commerce
