@@ -1,0 +1,3 @@
+Vu la Constitution ;
+
+Notre Instrument d'acceptation à l'Accord portant création de la Commission Générale des Pêches pour la Méditerranée (CGPM) tel qu'amendé par le Conseil Général des Pêches pour la Méditerranée dans sa première session extraordinaire (mai 1963), dans sa treizième session (juillet 1976) et dans sa vingt-deuxième session (octobre 1997) et ayant été approuvé par la Conférence de la FAO à sa douzième session (décembre 1963) et par le Conseil de la FAO à sa soixante-dixième session (décembre 1976) et sa cent treizième session (1997), ayant été déposé le 12 juin 2001 auprès du Directeur Général de l'Organisation des Nations Unies pour l'alimentation et l'agriculture, ledit Accord entrera en vigueur pour Monaco le 29 avril 2004.
