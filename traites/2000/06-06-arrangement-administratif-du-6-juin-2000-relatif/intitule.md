@@ -1,0 +1,1 @@
+Arrangement administratif du 6 juin 2000 relatif aux modalités de remboursement des frais des assurés admis dans le secteur privé des praticiens exerçant leur activité dans les établissements publics de soins français et monégasques
