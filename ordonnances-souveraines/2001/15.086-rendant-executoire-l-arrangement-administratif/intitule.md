@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.086 du 30 octobre 2001 rendant exécutoire l'arrangement administratif relatif aux modalités de remboursement des frais des assurés admis dans le secteur privé des praticiens exerçant leur activité dans les établissements publics de soins français et monégasques, signé à Monaco le 6 juin 2000
