@@ -1,0 +1,3 @@
+# Article 17
+
+Tout État dont la législation nationale, en vigueur au 26 octobre 1961, accorde aux producteurs de phonogrammes une protection établie en fonction du seul critère de la fixation pourra, par une notification déposée auprès du Secrétaire général de l'Organisation des Nations Unies en même temps que son instrument de ratification, d'acceptation ou d'adhésion, déclarer qu'il n'appliquera que ce critère de la fixation aux fins de l'article 5, et ce même critère de la fixation au lieu du critère de la nationalité du producteur aux fins du paragraphe 1, alinéa a), (iii) et (iv) de l'article 16.
