@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-581 du 10 novembre 2003 portant classification des dispositifs médicaux autres que les dispositifs implantables actifs et les dispositifs médicaux de diagnostic in vitro et fixant les procédures d'évaluation et de certification de conformité des dispositifs médicaux
