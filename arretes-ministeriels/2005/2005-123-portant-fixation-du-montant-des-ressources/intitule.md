@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2005-123 du 22 février 2005 portant fixation du montant des ressources personnelles telles que prévues à l'ordonnance n° 16.679 du 22 février 2005 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
