@@ -1,0 +1,1 @@
+Une déclaration, modifiant l'article 14 de la convention d'extradition du 26 mars 1866 conclue entre la Principauté et le Royaume d'Italie, ayant été signée à Paris, le 19 décembre 1896, entre Notre plénipotentiaire et celui de S. M. le Roi d'Italie, ladite déclaration, dont la teneur suit, recevra sa pleine et entière exécution.
