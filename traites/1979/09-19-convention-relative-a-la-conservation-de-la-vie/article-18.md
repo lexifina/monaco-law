@@ -1,0 +1,11 @@
+# Article 18
+
+1. Le Comité permanent facilite autant que de besoin le règlement amiable de toute difficulté à laquelle l'exécution de la Convention donnerait lieu.
+
+2. Tout différend entre Parties contractantes concernant l'interprétation ou l'application de la présente Convention qui n'a pas été réglé sur la base des dispositions du paragraphe précédent ou par voie de négociation entre les parties au différend et sauf si ces parties en conviennent autrement est, à la requête de l'une d'entre elles, soumis à l'arbitrage. Chacune des parties désigne un arbitre et les deux arbitres désignent un troisième arbitre. Si, sous réserve des dispositions du paragraphe 3 du présent article, dans un délai de trois mois à compter de la requête d'arbitrage, l'une des Parties n'a pas désigné son arbitre, le Président de la Cour européenne des Droits de l'Homme procède, à la demande de l'autre Partie, à sa désignation dans un nouveau délai de trois mois. La même procédure s'applique au cas où les deux arbitres ne peuvent pas se mettre d'accord sur le choix du troisième arbitre dans un délai de trois mois à compter de la désignation des deux premiers arbitres.
+
+3. En cas de différend entre deux Parties contractantes dont l'une est un État membre de la Communauté économique européenne, elle-même Partie contractante, l'autre Partie contractante adresse la requête d'arbitrage à la fois à cet État membre et à la Communauté, qui lui notifient conjointement, dans un délai de deux mois après la réception de la requête, si l'État membre ou la Communauté, ou l'État membre et la Communauté conjointement, se constituent partie au différend. À défaut d'une telle notification dans ledit délai, l'État membre et la Communauté sont réputés n'être qu'une seule et même partie au différend pour l'application des dispositions régissant la constitution et la procédure du tribunal arbitral. Il en est de même lorsque l'État membre de la Communauté se constitue conjointement partie au différend.
+
+4. Le tribunal arbitral établit ses propres règles de procédure. Les décisions sont prises à la majorité. Sa sentence est définitive et obligatoire.
+
+5. Chaque Partie au différend supporte les frais de l'arbitre qu'elle a désigné et les parties supportent, à parts égales, les frais du troisième arbitre, ainsi que les autres dépenses entraînées par l'arbitrage.
