@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.621 du 18 juillet 1975 rendant exécutoires à Monaco les amendements aux articles 24 et 25 de la Constitution de l'Organisation Mondiale de la Santé, signée à New York le 22 juillet 1946
