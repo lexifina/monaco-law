@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-133 du 12 février 2003 relatif à l'autorisation d'ouverture et d'exploitation des établissements de fabrication, conditionnement, distribution en gros, importation ou exportation de produits cosmétiques
