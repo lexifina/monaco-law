@@ -1,0 +1,3 @@
+# Article 4
+
+Tous les véhicules effectuant des transports privés de voyageurs dans les conditions prévues et équipés conformément à l'arrêté ministériel n° 58-072 du 19 février 1958, doivent porter, à l'avant et à l'arrière, un disque blanc d'au moins 20 centimètres de diamètre. Le disque doit être entouré d'un filet de couleur rouge d'au moins un centimètre de largeur. À l'avant, le bord inférieur du disque sera à 60 centimètres au moins au-dessus du sol. À l'arrière, son bord inférieur ne doit pas être à moins de 30 centimètres au-dessus du sol. Les disques avant et arrière doivent être bien dégagés et parfaitement visibles à distance.
