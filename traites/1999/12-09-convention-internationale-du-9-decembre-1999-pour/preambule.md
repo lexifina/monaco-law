@@ -1,0 +1,1 @@
+En foi de quoi les soussignés, dûment autorisés à cet effet par leurs gouvernements respectifs, ont signé la présente convention, qui a été ouverte à la signature au siège de l'Organisation des Nations Unies à New York, le 10 janvier 2000.

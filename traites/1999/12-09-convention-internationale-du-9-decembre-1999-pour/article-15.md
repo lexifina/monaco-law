@@ -1,0 +1,3 @@
+# Article 15
+
+Aucune disposition de la présente convention ne doit être interprétée comme énonçant une obligation d'extradition ou d'entraide judiciaire si l'État partie requis a des raisons sérieuses de croire que la demande d'extradition pour les infractions visées à l'article 2 ou la demande d'entraide concernant de telles infractions a été présentée aux fins de poursuivre ou de punir une personne pour des raisons tenant à sa race, sa religion, sa nationalité, son origine ethnique ou ses opinions politiques, ou que faire droit à la demande porterait préjudice à la situation de cette personne pour l'une quelconque de ces raisons.
