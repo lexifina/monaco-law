@@ -1,0 +1,1 @@
+Arrêté ministériel n° 94-143 du 28 février 1994 abrogeant l'autorisation d'adhésion aux caisses de retraites bancaires de certaines banques de la Principauté et leur faisant obligation d'adhérer à la caisse autonome des retraites à compter du 1er janvier 1994
