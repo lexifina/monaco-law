@@ -1,0 +1,12 @@
+# Ordonnance Souveraine n° 901 du 18 février 1954 rendant exécutoire le protocole signé à Paris le 19 novembre 1948, plaçant sous contrôle international certaines drogues non visées par la convention du 13 juillet 1931 pour limiter la fabrication et réglementer la distribution des stupéfiants amendée par le protocole signé à Lake Success le 11 décembre 1946
+
+Version en vigueur au 2 mars 1954.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1954/02-18-901@1954.03.02/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 18 février 1954 |
+| Publication | Journal de Monaco du 1er mars 1954 |
