@@ -1,8 +1,8 @@
 # Article 14
 
-Lesdits acquéreurs déposeront au greffe du tribunal supérieur l'expédition de l'acte, transcrit, translatif de propriété.
+Lesdits acquéreurs déposeront au greffe général l'expédition de l'acte, transcrit, translatif de propriété.
 
-L'extrait dudit acte, contenant sa date, les noms et prénoms, professions, domiciles ou demeures des parties, la désignation de la nature et de la situation des biens, le prix et les autres charges de la vente, sera et restera affiché, pendant un mois, dans la salle d'audience du tribunal supérieur.
+L'extrait dudit acte, contenant sa date, les noms et prénoms, professions, domiciles ou demeures des parties, la désignation de la nature et de la situation des biens, le prix et les autres charges de la vente, sera et restera affiché, pendant un mois, dans la salle d'audience du tribunal de première instance.
 
 Cet extrait portera avertissement aux personnes ayant le droit de prendre, sur l'immeuble vendu, des inscriptions à raison d'hypothèques légales, qu'elles devront requérir cette inscription dans le délai d'un mois, et, qu'à défaut, elles seront déchues de leurs droits sur ledit immeuble.
 

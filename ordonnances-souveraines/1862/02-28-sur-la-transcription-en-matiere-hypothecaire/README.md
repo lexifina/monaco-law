@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 28 février 1862 sur la transcription en matière hypothécaire
 
-Version en vigueur au 21 août 1877.
+Version en vigueur au 31 juillet 1965.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1862/02-28-L001824@1877.08.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1862/02-28-L001824@1965.07.31/
 
 | | |
 | --- | --- |
