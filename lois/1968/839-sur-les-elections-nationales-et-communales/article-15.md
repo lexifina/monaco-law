@@ -1,0 +1,5 @@
+# Article 15
+
+Sont incompatibles avec le mandat de conseiller national, les fonctions de membre de la Maison Souveraine, de conseiller de Gouvernement, d'agent diplomatique ou consulaire, de magistrat de l'ordre judiciaire ainsi que de membre de la Commission Supérieure des Comptes.
+
+La même incompatibilité concerne les collaborateurs directs du Ministre d'État ou d'un Conseiller de Gouvernement, les Commissaires Généraux, le Secrétaire Général du Ministère d'État, le Contrôleur Général des Dépenses, l'Inspecteur Général de l'Administration, l'Administrateur des Domaines, le Directeur des Travaux Publics, le Directeur du Budget et du Trésor, le Directeur du Travail et des Affaires Sociales, le Secrétaire Général de la Direction des Relations Extérieures. le Trésorier ou le Trésorier Général des Finances, le Directeur de la Sûreté Publique et les Commissaires de Police, le Secrétaire Général de la Direction des Services Judiciaires, le Secrétaire Général du Conseil National, le Secrétaire Général de la Mairie, les fonctionnaires des services législatifs de l'État, les agens de la Force Publique, de la Sûreté Publique et de la Police Municipale.
