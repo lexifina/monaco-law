@@ -1,0 +1,15 @@
+# Article 118
+
+1. Avant l'expédition, tous les colis à acheminer par voie de surface sont inscrits, par le bureau d'échange de départ, sur une feuille de route conforme au modèle CP 11 ci-annexé. Pour les colis-avion, dans les relations directes ou dans les relations en transit à découvert, les bureaux d'échange font usage d'une feuille de route spéciale, dite « feuille de route-avion », conforme au modèle CP 20 ci-annexé.
+
+2. En ce qui concerne les colis de service et les colis de prisonniers de guerre et internés, les colis-avion donnent lieu à l'inscription des frais de transport aérien à porter au crédit des Administrations intéressées.
+
+3. À la feuille de route sont joints les documents ci-après : bulletins d'expédition, formules de mandats de remboursement, déclarations en douane, bulletins d'affranchissement, avis de réception et, le cas échéant, tous autres documents exigés (factures, certificats d'origine, de santé etc.). Dans les relations entre les pays dont les Administrations se sont déclarées d'accord à cet égard, la feuille de route ainsi que ses documents sont transmis par avion au pays de destination.
+
+4. S'il s'agit de colis échangés en dépêches directes, les Administrations d'origine et de destination peuvent se mettre préalablement d'accord pour que les documents visés au paragraphe 3 soient joints aux colis correspondants.
+
+5. Sauf entente spéciale, les feuilles de route doivent être numérotées d'après une série annuelle pour chaque bureau d'échange de départ et pour chaque bureau d'échange d'arrivée ainsi que pour chaque voie si plus d'une voie est utilisée ; le dernier numéro de l'année doit être mentionné sur la première feuille de route de l'année suivante. Si une dépêche est supprimée, le bureau expéditeur porte sur la feuille de route, à côté du numéro de la dépêche, la mention « dernière dépêche ». Dans les relations par mer et dans les relations aériennes, le nom du navire transporteur ou, selon le cas, le service aérien emprunté, autant que possible, mentionné sur les feuilles de route.
+
+6. Si les colis-avion sont transmis d'un pays à un autre par les voies de surface en même temps que les autres colis, la présence des colis-avion avec feuille de route-avion doit être indiquée, par une annotation appropriée, sur la feuille de route CP 11.
+
+7. En cas d'échange de dépêches directes entre pays non limitrophes, le bureau d'échange de départ établit, pour chacune des Administrations intermédiaires, une feuille de route spéciale conforme au modèle CP 12 ci-annexé ; ce bureau y inscrit globalement le nombre de colis par coupure de poids ou le nombre total des colis ou le poids brut de la dépêche. La feuille de route CP 12 est numérotée dans une série annuelle pour chaque bureau d'échange de départ et pour chacune des Administrations intermédiaires ; en outre, elle porte le numéro d'ordre de la dépêche correspondante ; le dernier numéro de l'année doit être mentionné sur la première feuille de route de l'année suivante. Dans les relations par mer, la feuille de route CP 12 doit, autant que possible, être complétée par le nom du navire transporteur.

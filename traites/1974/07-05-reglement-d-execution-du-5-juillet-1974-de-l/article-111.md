@@ -1,0 +1,5 @@
+# Article 111
+
+1. Si, postérieurement au dépôt, l'expéditeur d'un colis en demande la livraison en franchise de taxes et de droits, le bureau d'origine en avertit le bureau de destination par une note explicative. Celle-ci, revêtue d'un timbre-poste représentant la taxe due, est transmise sous recommandation au bureau de destination, accompagnée d'un bulletin d'affranchissement dûment rempli. En cas de transmission par voie aérienne, la surtaxe aérienne est également représentée en timbres-poste appliqués sur la note explicative. Le bureau de destination appose sur le colis, près de la suscription, ainsi que sur le bulletin d'expédition l'étiquette prévue à l'article 110, paragraphe 3, lettre a, chiffre 2°.
+
+2. Lorsque cette demande est destinée à être transmise par voie télégraphique, le bureau d'origine en avertit par télégramme le bureau de destination et lui communique en même temps les indications relatives au dépôt de l'envoi. Ce dernier bureau établit d'office un bulletin d'affranchissement.
