@@ -1,0 +1,5 @@
+# Article 13
+
+Le nombre total de vacations susceptibles d'être effectuées par les médecins attachés et nécessaires au fonctionnement des services hospitaliers, ainsi que leur répartition entre les services, est déterminé annuellement par le conseil d'administration, sur proposition du directeur de l'établissement, après avis de la commission médicale d'établissement et au vu des demandes du ou des chef(s) de service intéressé(s).
+
+Le nombre total de vacations ainsi déterminé doit être compatible avec l'effectif des médecins attachés que le conseil d'administration définit annuellement, au vu des besoins de l'établissement.
