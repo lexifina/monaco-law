@@ -1,0 +1,3 @@
+# Article 1
+
+Dans toute société anonyme ou en commandite par actions, lorsqu'un associé fait un apport qui ne consiste pas en numéraire ou stipule à son profit des avantages particuliers, ou lorsque les statuts ou une décision de l'assemblée créent des parts de fondateurs, la première assemblée générale prévue par l'article 3 de l'ordonnance souveraine sur les sociétés anonymes et en commandite par actions du 5 mars 1895, désigne un commissaire qui doit obligatoirement être choisi parmi les experts-comptables inscrits au tableau de l'ordre, institué par la loi du 12 janvier 1945, à l'effet d'apprécier la valeur de l'apport ou la cause des avantages particuliers.
