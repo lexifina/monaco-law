@@ -1,0 +1,1 @@
+Circulaire n° 54-13 du 10 mars 1954 des Services Sociaux rappelant les termes de la convention collective nationale de travail du 5 novembre 1945 et de ses Avenants conclus entre la Fédération Patronale et l'Union des Syndicats
