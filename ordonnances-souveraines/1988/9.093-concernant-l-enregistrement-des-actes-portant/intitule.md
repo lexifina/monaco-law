@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 9.093 du 28 janvier 1988 concernant l'enregistrement des actes portant mutation de propriété ou d'usufruit des biens immeubles ou droits immobiliers et des actes portant mutation de jouissance de biens meubles ou immeubles
