@@ -1,0 +1,11 @@
+# Arrêté ministériel n° 79-345 du 27 juillet 1979 fixant le montant des droits perçus sur les demandes internationales de protection déposées au titre du traité de coopération en matière de brevets fait à Washington le 19 juin 1970
+
+Version en vigueur au 18 août 1979.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1979/07-27-79-345@1979.08.18/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 27 juillet 1979 |
