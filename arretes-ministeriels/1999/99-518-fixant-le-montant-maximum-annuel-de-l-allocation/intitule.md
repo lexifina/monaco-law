@@ -1,0 +1,1 @@
+Arrêté ministériel n° 99-518 du 29 octobre 1999 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la caisse autonome des retraites au titre de l'exercice 1998-1999
