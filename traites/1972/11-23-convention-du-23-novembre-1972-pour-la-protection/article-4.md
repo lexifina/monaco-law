@@ -1,0 +1,3 @@
+# Article 4
+
+Chacun des États parties à la présente convention reconnaît que l'obligation d'assurer l'identification, la protection, la conservation, la mise en valeur et la transmission aux générations futures du patrimoine culturel et naturel visé aux articles 1 et 2 et situé sur son territoire, lui incombe en premier chef. Il s'efforce d'agir à cet effet tant par son propre effort au maximum de ses ressources disponibles que, le cas échéant, au moyen de l'assistance et de la coopération internationales dont il pourra bénéficier, notamment aux plans financier, artistique, scientifique et technique.
