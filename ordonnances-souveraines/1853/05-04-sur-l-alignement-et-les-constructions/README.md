@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 4 mai 1853 sur l'alignement et les constructions
 
-Version en vigueur au 5 mai 1853.
+Version en vigueur au 31 juillet 1965.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1853/05-04-L001712@1853.05.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1853/05-04-L001712@1965.07.31/
 
 | | |
 | --- | --- |
