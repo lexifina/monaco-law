@@ -1,0 +1,1 @@
+Vu les articles 139 et 153, chiffre 1°, du Code de procédure civile, tels qu'ils résultent de la loi n° 989 du 23 novembre 1976, concernant la représentation de l'État et de la Commune dans les exploits.
