@@ -1,0 +1,9 @@
+# Article 23
+
+1. Les États parties reconnaissent que les enfants mentalement ou physiquement handicapés doivent mener une vie pleine et décente, dans des conditions qui garantissent leur dignité, favorisent leur autonomie et facilitent leur participation active à la vie de la collectivité.
+
+2. Les États parties reconnaissent le droit des enfants handicapés de bénéficier de soins spéciaux et encouragent et assurent, dans la mesure des ressources disponibles, l'octroi sur demande, aux enfants handicapés remplissant les conditions requises et à ceux qui en ont la charge, d'une aide adaptée à l'état de l'enfant et à la situation de ses parents ou de ceux à qui il est confié.
+
+3. Eu égard aux besoins particuliers des enfants handicapés, l'aide fournie conformément au paragraphe 2 du présent article est gratuite chaque fois qu'il est possible, compte tenu des ressources financières de leurs parents ou de ceux à qui l'enfant est confié, et elle est conçue de telle sorte que les enfants handicapés aient effectivement accès à l'éducation, à la formation, aux soins de santé, à la rééducation, à la préparation à l'emploi et aux activités récréatives, et bénéficient de ces services de façon propre à assurer une intégration sociale aussi complète que possible et leur épanouissement personnel, y compris dans le domaine culturel et spirituel.
+
+4. Dans un esprit de coopération internationale, les États parties favorisent l'échange d'informations pertinentes dans le domaine des soins de santé préventifs et du traitement médical, psychologique et fonctionnel des enfants handicapés, y compris par la diffusion d'informations concernant les méthodes de rééducation et les services de formation professionnelle, ainsi que l'accès à ces données, en vue de permettre aux États parties d'améliorer leurs capacités et leurs compétences et d'élargir leur expérience dans ces domaines. À cet égard, il est tenu particulièrement compte des besoins des pays en développement.
