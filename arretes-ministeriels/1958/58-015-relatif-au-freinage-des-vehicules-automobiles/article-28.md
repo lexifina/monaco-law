@@ -1,0 +1,3 @@
+# Article 28
+
+Les remorques à timon du type « triqueballe » et les remorques sans timon du type « arrière-train forestier », utilisées pour le transport des bois en grumes ou des pièces de grande longueur ne sont assimilées aux remorques visées au titre II du présent arrêté et soumises en conséquence au point de vue du freinage, aux prescriptions de ce titre, que dans la mesure où elles sont attelées à un véhicule tracteur ne pouvant, par construction, dépasser la vitesse de 27 km/h en palier. Dans tous les cas, l'essieu de la remorque devra être placé dans le tiers arrière des grumes chargées, la moitié au moins de celles-ci reposant sur le tracteur par le gros bout.
