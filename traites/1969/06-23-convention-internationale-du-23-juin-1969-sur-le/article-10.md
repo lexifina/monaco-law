@@ -1,0 +1,7 @@
+# Article 10
+
+1) Sous réserve des exceptions prévues dans les Règles, le certificat international de jaugeage (1969) cesse d'être valable et est annulé par l'Administration si l'aménagement, la construction, la capacité, l'utilisation des espaces, le nombre total de passagers que le navire est autorisé à transporter selon les indications de son certificat de capacité (passagers), le franc-bord réglementaire ou le tirant d'eau autorisé du navire, ont subi des modifications de nature à nécessiter une augmentation de la jauge brute ou de la jauge nette.
+
+2) Tout certificat délivré à un navire par une Administration cesse d'être valable si le navire passe sous le pavillon d'un autre État, sous réserve des dispositions du paragraphe 3 du présent article.
+
+3) Lorsqu'un navire passe sous le pavillon d'un autre État dont le gouvernement est un Gouvernement contractant, le certificat international de jaugeage (1969) demeure valable pendant une période ne dépassant pas trois mois, ou jusqu'à la date à laquelle l'Administration délivre en remplacement un autre certificat international de jaugeage (1969), si cette dernière date est plus rapprochée. Le gouvernement de l'État dont le navire battait précédemment pavillon adresse à l'Administration, dès que possible après le changement de nationalité, copie du certificat dont le navire était pourvu à la date du changement, ainsi que des calculs des jauges correspondants.
