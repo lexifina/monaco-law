@@ -1,0 +1,1 @@
+Arrêté ministériel n° 88-639 du 28 novembre 1988 fixant les prescriptions applicables aux composants, appareils et matériels en exploitation contenant plus de 30 litres de polychlorobiphényles et polychloroterphényles

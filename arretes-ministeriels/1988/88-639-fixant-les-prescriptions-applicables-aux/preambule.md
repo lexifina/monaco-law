@@ -1,0 +1,3 @@
+Vu la loi n° 954 du 19 avril 1974 concernant la lutte contre la pollution de l'eau et de l'air et notamment son article 3, alinéa c) ;
+
+Vu l'ordonnance n° 9.287 du 23 novembre 1988 relative à la mise sur le marché, à l'utilisation et à l'élimination des polychlorobiphényles et polychloroterphényles ;
