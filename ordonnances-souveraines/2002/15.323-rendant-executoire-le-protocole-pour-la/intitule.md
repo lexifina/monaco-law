@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.323 du 8 avril 2002 rendant exécutoire le protocole pour la répression d'actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental fait à Rome le 10 mars 1988
