@@ -1,0 +1,7 @@
+# Article 13
+
+1. Une Partie peut notifier à toutes les autres Parties par l'intermédiaire du Secrétaire général qu'elle interdit l'importation dans son pays ou dans l'une de ses régions d'une ou plusieurs substances du Tableau II, III ou IV, spécifiées dans sa notification. Dans cette notification, elle indiquera le nom donné à la substance dans le tableau II, III ou IV.
+
+2. Si une Partie a reçu une notification d'interdiction comme prévu au paragraphe 1, elle prendra les mesures nécessaires pour qu'aucune des substances spécifiées dans ladite notification ne soit exportée vers le pays ou l'une des régions de la Partie qui a fait la notification.
+
+3. Nonobstant les dispositions des paragraphes précédents, une Partie qui a fait une notification conformément au paragraphe 1 peut, en délivrant dans chaque cas un permis spécial d'importation, autoriser l'importation de quantités déterminées des substances en question ou de préparations qui en contiennent. L'autorité du pays importateur qui aura délivré le permis spécial d'importation l'adressera en deux exemplaires, qui porteront le nom et l'adresse de l'importateur et de l'exportateur, à l'autorité compétente du pays ou de la région exportateurs, qui pourra alors autoriser l'exportateur à faire l'expédition. Celle-ci sera accompagnée d'un exemplaire du permis spécial d'importation dûment visé par l'autorité compétente du pays ou de la région exportateurs.
