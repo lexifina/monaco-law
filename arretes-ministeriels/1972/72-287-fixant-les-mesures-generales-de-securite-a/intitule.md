@@ -1,1 +1,0 @@
-Arrêté ministériel n° 72-287 du 18 octobre 1972 fixant les mesures générales de sécurité à appliquer pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique
