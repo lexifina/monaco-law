@@ -1,0 +1,9 @@
+# Article 57
+
+1. Des dépêches closes peuvent être échangées entre les bureaux de poste de l'un des Pays-membres et les commandants des unités militaires mises à la disposition de l'Organisation des Nations Unies et entre le commandant d'une de ces unités militaires et le commandant d'une autre unité militaire mise à la disposition de l'Organisation des Nations Unies par l'intermédiaire des services territoriaux, maritimes ou aériens d'autres pays.
+
+2. Un échange de dépêches closes peut aussi être effectué entre les bureaux de poste de l'un des Pays-membres et les commandants de divisions navales ou aériennes ou de bâtiments ou avions de guerre de ce même pays en station à l'étranger, ou entre le commandant d'une ce ces divisions navales ou aériennes ou d'un de ces bâtiments ou avions de guerre et le commandant d'une autre division ou d'un autre bâtiment ou avion de guerre du même pays, par l'intermédiaire des services territoriaux, maritimes ou aériens d'autres pays.
+
+3. Les envois de la poste aux lettres compris dans les visées aux paragraphes 1 et 2 doivent être exclusivement à l'adresse ou en provenance des membres des unités militaires ou des états-majors et des équipages des bâtiments ou avions de destination ou expéditeurs de dépêches. Les tarifs et les conditions d'envoi qui leur sont applicables sont déterminés, d'après sa réglementation, par l'Administration postale du pays qui a mis à disposition l'unité militaire ou auquel appartiennent les bâtiments ou les avions.
+
+4. Sauf entente spéciale, l'Administration du pays qui a mis à disposition l'unité militaire ou dont relèvent les bâtiments ou avions de guerre est redevable envers les Administrations intermédiaires des frais de transit des dépêches calculés conformément à l'article 52 et des frais de transport aérien calculés conformément à l'article 71.
