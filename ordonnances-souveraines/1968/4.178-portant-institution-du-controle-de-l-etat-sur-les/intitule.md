@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 4.178 du 12 décembre 1968 portant institution du contrôle de l'État sur les entreprises d'assurances de toute nature et de capitalisation et tendant à l'organisation de l'industrie des assurances

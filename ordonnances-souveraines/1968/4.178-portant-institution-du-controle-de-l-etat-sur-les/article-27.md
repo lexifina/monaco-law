@@ -1,0 +1,3 @@
+# Article 27
+
+La clôture de la liquidation organisée par la présente ordonnance est ordonnée par le tribunal, sur le rapport du juge contrôleur, lorsque tous les créanciers privilégiés tenant leurs droits de l'exécution de contrats d'assurance ou de capitalisation, ou de contrats visés au paragraphe 6° de l'article 3 ont été désintéressés, ou lorsque les opérations sont arrêtées par insuffisance de l'actif. Après la clôture de la liquidation, la faillite peut être déclarée dans les conditions des articles 408 et suivants du Code de commerce nonobstant les dispositions de l'article 19 de la présente ordonnance.

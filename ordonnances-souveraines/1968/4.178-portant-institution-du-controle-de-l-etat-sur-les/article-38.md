@@ -1,0 +1,3 @@
+# Article 38
+
+Les titres de toute nature, prospectus, affiches, circulaires, plaques, imprimés et tous autres documents destinés à être distribués au public ou publiés par une entreprise définie à l'article 4 de la présente ordonnance doivent toujours porter, à la suite du nom ou de la raison sociale, la mention ci-après en caractères uniformes : « entreprise privée régie par l'ordonnance souveraine du... », avec la seule indication de la date de la présente ordonnance. Ils ne doivent contenir aucune allusion au contrôle de l'État, ni aucune assertion susceptible d'induire en erreur sur la véritable nature de l'entreprise ou l'importance réelle de ses engagements.

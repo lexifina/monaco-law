@@ -1,0 +1,3 @@
+# Article 49
+
+Les personnes physiques qui, avant l'entrée en vigueur de la présente ordonnance, présentaient des opérations d'assurance ou de capitalisation en qualité soit de courtier d'assurances, soit d'associé ou tiers ayant pouvoir d'administrer ou de gérer dans une société de courtage d'assurances, soit d'agent général d'assurance soit de salarié ou mandataire non salarié d'une entreprise visée à l'article 3, d'un courtier d'assurances, d'une société de courtage d'assurances ou d'un agent général d'assurances sont dispensées de justifier qu'elles remplissent les conditions d'âge, de nationalité et de capacité professionnelle prescrites à l'article 35 ci-dessus.

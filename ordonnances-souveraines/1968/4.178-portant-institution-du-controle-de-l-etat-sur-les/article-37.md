@@ -1,0 +1,5 @@
+# Article 37
+
+Est considérée, pour l'application de la présente ordonnance, comme présentation d'une opération pratiquée par les entreprises visées à l'article 3, le fait pour toute personne physique ou morale de solliciter ou de recueillir la souscription d'un contrat d'assurance ou de capitalisation ou l'adhésion à un tel contrat ou d'exposer oralement ou par écrit à un souscripteur ou adhérent éventuel, en vue de cette souscription ou adhésion, les conditions de garantie d'un tel contrat.
+
+Les commissions allouées en rémunération de l'apport ou de la gestion d'une opération d'assurance ou de capitalisation ne peuvent être rétrocédées en totalité ou en partie à une personne physique ou morale que si celle-ci appartient à l'une des catégories habilitées à effectuer cette présentation conformément aux articles 33 et 35 ci-dessus. Cette disposition ne fait pas obstacle à une rétribution des indicateurs dont le rôle se borne à mettre en relations l'assuré et l'assureur ou à signaler l'un à l'autre.

@@ -1,0 +1,7 @@
+# Article 29
+
+Après la publication au Journal de Monaco de l'arrêté prononçant le retrait de l'agrément accordé à une entreprise visée aux paragraphes 1°, 2°, 3°, 4° et 6° de l'article 3 de la présente ordonnance les contrats souscrits par l'entreprise demeurent régis par leurs conditions générales et particulières tant que l'arrêté ministériel prévu à l'alinéa suivant n'a pas été publié au Journal de Monaco, mais le liquidateur peut, avec l'approbation du juge contrôleur, surseoir au paiement des sinistres, des échéances et des valeurs de rachat. Les primes encaissées par le liquidateur sont versées à un compte spécial qui fait l'objet d'une liquidation distincte.
+
+Le ministre d'État, à la demande du liquidateur et sur le rapport du juge contrôleur, peut, par arrêté, soit fixer la date à laquelle les contrats cessent d'avoir effet, soit autoriser leur transfert, en tout ou en partie, à une ou plusieurs sociétés, proroger leur échéance, décider la réduction des sommes payables en cas de vie ou de décès ainsi que des bénéfices attribués et des valeurs de rachat, de manière à ramener la valeur des engagements de l'entreprise au montant de la situation que la liquidation permet de couvrir.
+
+Les dispositions des articles 22, 23 et 25 ci-dessus ne sont pas applicables tant qu'un arrêté du ministre d'État n'a pas fixé la date à laquelle les contrats cessent d'avoir effet, et le délai de dix jours, prévu au premier alinéa de l'article 22, ne court qu'à compter de la publication de cet arrêté au Journal de Monaco.
