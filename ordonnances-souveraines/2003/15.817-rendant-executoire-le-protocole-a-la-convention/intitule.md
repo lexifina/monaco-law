@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.817 du 5 juin 2003 rendant exécutoire le protocole à la convention sur la protection des Alpes de 1991 relatif à l'aménagement du territoire et développement durable, conclu à Chambéry le 20 décembre 1994
