@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 16 juin 1933 rendant exécutoire la Convention internationale signée à Rome le 2 juin 1928 relative à la protection des droits des auteurs sur les œuvres littéraires et artistiques
