@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.332 du 16 août 1939 rendant exécutoire un avenant à la convention franco-monégasque relative à la poursuite et à la répression des fraudes fiscales signé à Paris le 10 juin 1939
