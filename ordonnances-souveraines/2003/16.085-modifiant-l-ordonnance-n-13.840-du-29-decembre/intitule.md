@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 16.085 du 5 décembre 2003 modifiant l'ordonnance n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement au Centre hospitalier Princesse Grace
