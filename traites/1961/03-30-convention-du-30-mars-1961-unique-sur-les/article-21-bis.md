@@ -1,0 +1,11 @@
+# Article 21 bis
+
+1. La production d'opium par un pays ou territoire quelconque sera organisée et contrôlée de telle manière que, dans la mesure du possible, la quantité produite au cours de l'année donnée ne soit pas supérieure à l'évaluation, établie conformément au paragraphe f de l'article 19, de la quantité d'opium qu'il est prévu de produire.
+
+2. Si l'Organe constate, d'après les renseignements qui lui auront été fournis conformément aux dispositions de la présente Convention, qu'une Partie qui a fourni une évaluation conformément au paragraphe f de l'article 19 n'a pas limité l'opium produit à l'intérieur de ses frontières à des fins licites conformément aux évaluations pertinentes, et qu'une quantité importante d'opium produite, licitement ou illicitement, à l'intérieur des frontières de cette Partie, a été mise sur le marché illicite, l'Organe peut, après avoir examiné les explications de la Partie intéressée, qui doivent lui être présentées dans un délai d'un mois suivant la notification de ladite constatation, décider de déduire tout ou partie de ce montant de la quantité qui sera produite et du total des évaluations tel qu'il est défini au paragraphe 2 b de l'article 19 pour la première année où une telle déduction sera techniquement applicable, compte tenu de l'époque de l'année et des engagements contractuels auxquels la Partie en cause aura souscrit en vue d'exporter de l'opium. Cette décision devra prendre effet 90 jours après que la Partie intéressée en aura reçu notification.
+
+3. L'Organe, après avoir notifié à la Partie intéressée sa décision relative à une déduction prise conformément au paragraphe 2 ci-dessus, entrera en consultation avec elle afin d'apporter une solution satisfaisante à la situation.
+
+4. Si la situation n'est pas résolue d'une manière satisfaisante, l'Organe peut, s'il y a lieu, appliquer les dispositions de l'article 14.
+
+5. En prenant sa décision relative à la déduction prévue au paragraphe 2 ci-dessus, l'Organe tiendra compte non seulement de toutes les circonstances pertinentes, notamment celles qui donnent naissance au problème du trafic illicite visé au paragraphe 2 ci-dessus, mais aussi de toute nouvelle mesure appropriée de contrôle que la Partie a pu adopter.

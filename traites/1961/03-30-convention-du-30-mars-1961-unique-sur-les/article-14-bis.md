@@ -1,0 +1,3 @@
+# Article 14 bis
+
+Dans les cas où il le juge approprié, l'Organe, agissant en accord avec le gouvernement intéressé, peut, soit parallèlement, soit aux lieu et place des mesures énoncées aux paragraphes 1 et 2 de l'article 14, recommander aux organes compétents des Nations Unies et aux institutions spécialisées qu'une assistance technique ou financière, ou l'une et l'autre à la fois, soit fournie audit gouvernement afin d'appuyer ses efforts pour s'acquitter de ses obligations découlant de la présente Convention, en particulier celles qui sont stipulées ou mentionnées aux articles 2, 35, 38 et 38 bis .
