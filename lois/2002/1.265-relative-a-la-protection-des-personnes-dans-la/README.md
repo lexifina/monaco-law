@@ -1,8 +1,8 @@
 # Loi n° 1.265 du 23 décembre 2002 relative à la protection des personnes dans la recherche biomédicale
 
-Version en vigueur au 11 janvier 2003.
+Version en vigueur au 3 janvier 2004.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2002/12-23-1.265@2003.01.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2002/12-23-1.265@2004.01.03/
 
 | | |
 | --- | --- |
