@@ -1,0 +1,3 @@
+# Article 15
+
+Tous les différends qui pourraient s'élever entre les parties contractantes au sujet de l'interprétation ou de l'application de la présente convention seront, s'ils ne peuvent être réglés par des négociations directes, renvoyés pour décision à la Cour permanente de justice internationale. Si les parties entre lesquelles surgit un différend, ou l'une d'elles, se trouvaient n'avoir pas signé ou accepté le protocole de signature de la Cour permanente de justice internationale, leur différend sera soumis, au gré des parties, soit à la Cour permanente de justice internationale, soit à un arbitrage.
