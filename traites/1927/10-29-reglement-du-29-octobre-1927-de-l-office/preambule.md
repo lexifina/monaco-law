@@ -1,0 +1,1 @@
+Fait à Paris, le 29 octobre 1927, en un seul exemplaire qui restera déposé dans les archives du Gouvernement français dont des copies certifiées conformes seront remises, par la voie diplomatique, aux Puissances contractantes.
