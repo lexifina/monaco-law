@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.625 du 13 août 1979 rendant exécutoire à Monaco le protocole de la Haye du 28 septembre 1955 portant modification de la convention pour l'unification de certaines règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929
