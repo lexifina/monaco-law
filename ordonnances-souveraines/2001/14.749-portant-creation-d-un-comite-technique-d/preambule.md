@@ -1,0 +1,11 @@
+Vu la loi n° 127 du 15 janvier 1930 constituant l'hôpital en établissement public autonome ;
+
+Vu la loi n° 918 du 27 décembre 1971 sur les établissements publics ;
+
+Vu Notre ordonnance n° 5.055 du 8 décembre 1972 sur les conditions d'administration et de gestion administrative et comptable des établissements publics ;
+
+Vu Notre ordonnance n° 5.095 du 14 février 1973 sur l'organisation et le fonctionnement du Centre hospitalier Princesse Grace, modifiée ;
+
+Vu Notre ordonnance n° 7.464 du 28 juillet 1982 portant statut du personnel de service du Centre hospitalier Princesse Grace ;
+
+Vu l'arrêté ministériel n° 86-620 du 10 novembre 1986 portant établissement du Règlement intérieur du Centre hospitalier Princesse Grace ;
