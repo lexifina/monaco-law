@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 8.416 du 16 octobre 1985 rendant exécutoire la convention générale de sécurité sociale entre la Principauté de Monaco et le Gouvernement de la République Italienne et l'arrangement administratif relatif aux modalités de son application, signés à Monaco le 12 février 1982
