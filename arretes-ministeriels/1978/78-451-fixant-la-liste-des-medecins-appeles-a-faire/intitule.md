@@ -1,0 +1,1 @@
+Arrêté ministériel n° 78-451 du 17 octobre 1978 fixant la liste des médecins appelés à faire partie des commissions médicales de la fonction publique ainsi que les conditions dans lesquelles ils sont assermentés
