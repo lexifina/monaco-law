@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 7 juin 1902 sur l'établissement des lignes téléphoniques et télégraphiques
 
-Version en vigueur au 18 juin 1902.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1902/06-07-L002303@1902.06.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1902/06-07-L002303@1911.04.19/
 
 | | |
 | --- | --- |
