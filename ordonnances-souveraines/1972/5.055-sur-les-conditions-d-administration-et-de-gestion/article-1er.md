@@ -1,0 +1,7 @@
+# Article 1er
+
+Conformément aux dispositions de l'article 7 de la loi n° 918 du 27 décembre 1971, l'administration de chaque établissement public est assurée par un conseil d'administration ou une commission administrative : lorsqu'elles ne sont pas prévues par la loi instituant l'établissement public, la composition de cette assemblée et la durée du mandat de ses membres, lequel pourra toujours être renouvelé, seront fixées par une ordonnance souveraine prise après avis du Conseil d'État ; dans ce cas, les modalités d'organisation et de fonctionnement de l'établissement à arrêter, s'il y a lieu, en application de l'article 18 de la loi susvisée. seront déterminées par la même ordonnance.
+
+Sauf dispositions contraires de la loi instituant l'établissement public, les membres titulaires et, s'il y a lieu, les membres suppléants du conseil d'administration, ou de Commission administrative sont nommés par ordonnance souveraine ; celle-ci nomme également le président et. le cas échéant, le vice-président de l'assemblée, qui sont choisis au sein de cette dernière. Toutes ces fonctions sont gratuites.
+
+Sous la même réserve et la même forme, un ou plusieurs fonctionnaires relevant du département qui sera chargé d'assurer le contrôle de chaque établissement sous l'autorité du Ministre d'État pourront être délégués auprès du conseil d'administration ou de la commission administrative en qualité de commissaires du Gouvernement investis d'une mission d'information et d'assistance technique.
