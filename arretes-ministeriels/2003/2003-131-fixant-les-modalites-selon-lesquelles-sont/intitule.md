@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-131 du 12 février 2003 fixant les modalités selon lesquelles sont portées à la connaissance des consommateurs certaines informations relatives aux produits cosmétiques présentés à la vente non préemballés ou emballés sur les lieux de vente à la demande de l'acheteur ou préemballés en vue de leur vente immédiate
