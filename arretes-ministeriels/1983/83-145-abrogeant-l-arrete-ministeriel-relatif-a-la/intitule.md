@@ -1,0 +1,1 @@
+Arrêté ministériel n° 83-145 du 5 avril 1983 abrogeant l'arrêté ministériel relatif à la création des zones ou voies à stationnement limité dans le temps dites « zones blanches » ainsi que les arrêtés ministériels déterminant les voies sur lesquelles le stationnement est ainsi limité

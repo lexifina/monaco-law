@@ -1,0 +1,3 @@
+# Article 2
+
+Les arrêtés ministériels n° 60-078 du 2 mars 1960, n° 63-067 du 15 mars 1963, n° 64-210 du 3 août 1964, n° 65-024 du 9 février 1965, n° 65-025 du 9 février 1965, n° 66-323 du 6 décembre 1966, n° 67-8 du 18 janvier 1967, n° 67-14 du 31 janvier 1967, n° 67-286 du 7 novembre 1967, n° 67-287 du 7 novembre 1967, n° 68-118 du 8 mars 1968, n° 68-368 du 22 novembre 1968, n° 68-369 du 22 novembre 1968, n° 68-370 du 22 novembre 1968, n° 68-371 du 22 novembre 1968, n° 69-108 du 8 avril 1969, définissant les voies dans lesquelles ont été instituées des zones à stationnement limité dans le temps dites « zones blanches » sont abrogés.
