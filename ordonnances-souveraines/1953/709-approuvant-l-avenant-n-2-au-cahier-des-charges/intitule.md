@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 709 du 10 février 1953 approuvant l'avenant n° 2 au cahier des charges intervenu entre le gouvernement princier et la Société monégasque du gaz pour la concession de la distribution du gaz
