@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 4.386 du 22 décembre 1969 prise pour l'application de l'article 9 de la loi n° 839 du 23 février 1968, sur les élections nationales et communales, relatif au recours du Ministre d'État devant le tribunal suprême contre le tableau de révision de la liste électorale
