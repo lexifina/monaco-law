@@ -1,0 +1,3 @@
+# Article 103
+
+Si un dépôt comprend uniquement des liquides inflammables de première catégorie (article 2, paragraphe B), des alcools, des liquides de deuxième catégorie (article 2, paragraphe C), il sera classé comme dépôt de liquides de première catégorie de point d'éclair égal au point d'éclair le plus bas des liquides stockés. Tous les liquides de la première catégorie et les alcools compteront pour la totalité de leur volume. Les liquides de deuxième catégorie seront comptés pour le 1/3 de leur volume. En cas d'emmagasinage en réservoirs souterrains, la règle de réduction au 1/15 s'applique au volume ainsi calculé.
