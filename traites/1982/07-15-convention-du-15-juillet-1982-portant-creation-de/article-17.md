@@ -1,0 +1,9 @@
+# Article 17
+
+a) Le siège d'EUTELSAT est situé à Paris.
+
+b) Dans le cadre des activités autorisées par la Convention, EUTELSAT et ses biens sont exonérés, sur le territoire de toutes les Parties de tout impôt sur le revenu et impôt direct sur les biens et de tous droits de douane sur les satellites de télécommunications, sur les pièces composant lesdits satellites et sur tous les équipements utilisés dans le secteur spatial d'EUTELSAT.
+
+c) Chaque Partie, conformément au Protocole visé au présent paragraphe, accorde les privilèges, exemptions et immunités nécessaires à EUTELSAT, à ses hauts fonctionnaires et aux autres catégories de son personnel spécifiées dans ledit Protocole, aux Parties et aux représentants des Parties, aux Signataires et aux représentants des Signataires ainsi qu'aux personnes participant aux procédures d'arbitrage. En particulier, chaque Partie accorde aux personnes visées ci-dessus, dans la limite et dans les cas qui seront prévus par le Protocole vise au présent paragraphe, l'immunité de juridiction pour les actes accomplis, les écrits ou les propos émis _dans l'exercice de leurs fonctions et dans les limites de leurs attributions. La Partie sur le territoire de laquelle est situé le siège d'EUTELSAT conclut, dès que possible, un Accord de siège avec EUTELSAT portant sur les privilèges, exemptions et immunités.
+
+Ledit Accord comportera une disposition exonérant de tout impôt sur le revenu les sommes versées par EUTELSAT, dans le territoire de ladite Partie, aux Signataires, agissant en cette qualité l'exception du Signataire désigné par la Partie sur le territoire de laquelle le siège d'EUTE AT est situé. Les autres Parties doivent également, dès que possible, conclure un Protocole relatif aux privilèges, exemptions et immunités. L'Accord de siège et le Protocole prévoient chacun les conditions dans lesquelles ils prennent fin ; ils sont indépendants de la Convention

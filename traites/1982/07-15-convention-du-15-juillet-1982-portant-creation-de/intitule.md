@@ -1,0 +1,1 @@
+Convention du 15 juillet 1982 portant création de l'Organisation européenne de télécommunications par satellite « Eutelsat » (ensemble deux annexes) et l'accord d'exploitation relatif à ladite Organisation (ensemble deux annexes), faits à Paris
