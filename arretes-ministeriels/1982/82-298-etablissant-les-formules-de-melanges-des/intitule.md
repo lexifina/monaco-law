@@ -1,0 +1,1 @@
+Arrêté ministériel n° 82-298 du 14 mai 1982 établissant les formules de mélanges des substances toxiques du tableau A à des matières odorantes et colorantes en vue de la destruction des parasites nuisibles à l'agriculture, des rongeurs, des insectes, etc
