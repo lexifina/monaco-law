@@ -1,0 +1,5 @@
+# Article 7 (2)
+
+1. Les données rassemblées par les États du pavillon doivent être mises à la disposition d'autres États du pavillon et des États côtiers concernés par l'intermédiaire des organisations ou arrangements de gestion des pêcheries sous-régionaux ou régionaux compétents. Ces organisations ou arrangements réunissent les données qu'ils communiquent en temps opportun et sous la forme convenue à tous les États intéressés, selon les modalités et dans les conditions qu'ils ont arrêtées, tout en préservant la confidentialité des données non agrégées; ils devraient, dans la mesure du possible, mettre au point des systèmes de gestion des bases de données permettant d'accéder facilement à celles-ci.
+
+2. Au niveau mondial, la collecte et la diffusion des données devraient s'effectuer par l'intermédiaire de l'Organisation des Nations unies pour l'alimentation et l'agriculture (FAO). Là où il n'existe pas d'organisation ou arrangement de gestion des pêcheries sous-régional ou régional, la FAO pourrait également se charger de la collecte et de la diffusion des données au niveau sous-régional ou régional avec l'accord des États intéressés.

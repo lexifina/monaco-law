@@ -1,0 +1,5 @@
+# Article 36
+
+1. Quatre ans après la date d'entrée en vigueur du présent accord, le secrétaire général de l'Organisation des Nations unies convoquera une conférence en vue d'évaluer l'efficacité du présent accord pour assurer la conservation et la gestion des stocks de poissons chevauchants et des stocks de poissons grands migrateurs. Le secrétaire général invitera à la conférence tous les États parties et les États et entités qui ont le droit de devenir parties au présent accord ainsi que les organisations intergouvernementales et les organisations non gouvernementales qui ont le droit de participer en qualité d'observateur.
+
+2. La conférence examinera et évaluera dans quelle mesure les dispositions du présent accord sont bien adaptées et proposera, le cas échéant, les moyens d'en renforcer le contenu et les méthodes d'application afin de mieux s'attaquer aux problèmes qui pourraient continuer de nuire à la conservation et à la gestion des stocks de poissons chevauchants et des stocks de poissons grands migrateurs.

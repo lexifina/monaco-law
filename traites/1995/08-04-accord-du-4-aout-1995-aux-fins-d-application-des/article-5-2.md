@@ -1,0 +1,3 @@
+# Article 5 (2)
+
+Tout État doit veiller à ce que les navires battant son pavillon communiquent à son administration nationale des pêches et, si cela a été convenu, à l'organisation ou arrangement de gestion des pêcheries sous-régional ou régional compétent les données consignées dans leur livre de bord concernant les captures et l'effort de pêche, y compris les données relatives aux opérations de pêche hauturière, à intervalles suffisamment rapprochés pour satisfaire à la réglementation nationale et aux obligations régionales et internationales. Ces données sont communiquées au besoin par radio, télex, télécopie ou liaison satellite ou par d'autres moyens.
