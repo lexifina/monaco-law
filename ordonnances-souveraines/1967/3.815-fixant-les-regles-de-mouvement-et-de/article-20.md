@@ -68,6 +68,6 @@ de 50,00 à 60,00............ | 500 | 9 960 | 19 900 | 13 300 | 6630
 
 * Pour les navires multicoques, le tarif correspondant à la longueur du bateau sera majoré de 60 %.
 
-* Les différentes zones du tarif Grand Prix sont définies sur un plan consultable à la Direction des affaires maritimes.
+* Les différentes zones du tarif Grand Prix sont définies s ur un plan consultable à la Direction des affaires maritimes.
 
 * Pendant la période allant du lundi avant le Grand Prix au lundi suivant, tout stationnement quelle qu'en soit la durée, donnera lieu à la perception du droit de stationnement mentionné dans la colonne Grand Prix.
