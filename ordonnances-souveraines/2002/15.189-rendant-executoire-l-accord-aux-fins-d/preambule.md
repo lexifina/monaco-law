@@ -1,0 +1,3 @@
+Vu la Constitution ;
+
+Nos Instruments d'adhésion à l'accord aux fins d'application des dispositions de la Convention des Nations Unies sur le droit de la mer du 10 décembre 1982 relatives à la conservation et à la gestion des stocks de poissons dont les déplacements s'effectuent tant à l'intérieur qu'au-delà de zones économiques exclusives (stocks chevauchants) et des stocks de poissons grands migrateurs, fait à New York le 4 août 1995, ayant été déposés le 9 juin 1999 auprès du Secrétaire général de l'Organisation des Nations Unies, ledit accord entrera en vigueur pour Monaco le 11 décembre 2001.
