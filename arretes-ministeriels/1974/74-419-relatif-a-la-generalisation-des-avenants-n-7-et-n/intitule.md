@@ -1,0 +1,1 @@
+Arrêté ministériel n° 74-419 du 23 septembre 1974 relatif à la généralisation des avenants n° 7 et n° 7 bis à la convention collective nationale de travail ayant institué un régime de retraite complémentaire des salariés
