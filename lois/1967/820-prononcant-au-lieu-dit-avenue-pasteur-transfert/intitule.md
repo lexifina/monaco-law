@@ -1,0 +1,1 @@
+Loi n° 820 du 23 juin 1967 prononçant au lieu-dit « Avenue Pasteur » transfert de parcelles de terrain du domaine public de la commune au domaine public de l'État et désaffectation de parcelles de terrain relevant du domaine public communal
