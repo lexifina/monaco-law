@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 2 octobre 1880 sur le tir des mines
 
-Version en vigueur au 13 octobre 1880.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1880/10-02-L000649@1880.10.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1880/10-02-L000649@1911.04.19/
 
 | | |
 | --- | --- |
