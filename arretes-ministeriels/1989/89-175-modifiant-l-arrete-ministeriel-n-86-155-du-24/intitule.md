@@ -1,0 +1,1 @@
+Arrêté ministériel n° 89-175 du 22 mars 1989 modifiant l'arrêté ministériel n° 86-155 du 24 mars 1986 qui fixe la liste des substances dont l'emploi dans les produits cosmétiques et les produits d'hygiène corporelle est soumis à restrictions
