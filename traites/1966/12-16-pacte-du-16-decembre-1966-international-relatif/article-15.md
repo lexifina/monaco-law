@@ -1,15 +1,5 @@
 # Article 15
 
-1. Les États parties au présent pacte reconnaissent à chacun le droit :
+1. Nul ne sera condamné pour des actions ou omissions qui ne constituaient pas un acte délictueux d'après le droit national ou international au moment où elles ont été commises. De même, il ne sera infligé aucune peine plus forte que celle qui était applicable au moment où l'infraction a été commise. Si, postérieurement à cette infraction, la loi prévoit l'application d'une peine plus légère, le délinquant doit en bénéficier.
 
-- a) de participer à la vie culturelle ;
-
-- b) de bénéficier du progrès scientifique et de ses applications ;
-
-- c) de bénéficier de la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.
-
-2. Les mesures que les États parties au présent pacte prendront en vue d'assurer le plein exercice de ce droit devront comprendre celles qui sont nécessaires pour assurer le maintien, le développement et la diffusion de la science et de la culture.
-
-3. Les États parties au présent pacte s'engagent à respecter la liberté indispensable à la recherche scientifique et aux activités créatrices.
-
-4. Les États parties au présent pacte reconnaissent les bienfaits qui doivent résulter de l'encouragement et du développement de la coopération et des contacts internationaux dans le domaine de la science et de la culture.
+2. Rien dans le présent article ne s'oppose au jugement ou à la condamnation de tout individu en raison d'actes ou omissions qui, au moment où ils ont été commis, étaient tenus pour criminels, d'après les principes généraux de droit reconnus par l'ensemble des nations.

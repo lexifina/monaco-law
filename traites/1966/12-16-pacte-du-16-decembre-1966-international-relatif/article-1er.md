@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 1. Tous les peuples ont le droit de disposer d'eux-mêmes. En vertu de ce droit, ils déterminent librement leur statut politique et assurent librement leur développement économique, social et culturel.
 

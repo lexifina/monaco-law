@@ -1,3 +1,7 @@
 # Article 22
 
-Le Conseil économique et social peut porter à l'attention des autres organes de l'Organisation des Nations Unies, de leurs organes subsidiaires et des institutions spécialisées intéressées qui s'occupent de fournir une assistance technique toute question que soulèvent les rapports mentionnés dans la présente partie du présent pacte et qui peut aider ces organismes à se prononcer, chacun dans sa propre sphère de compétence, sur l'opportunité de mesures internationales propres à contribuer à la mise en œuvre effective et progressive du présent pacte.
+1. Toute personne a le droit de s'associer librement avec d'autres, y compris le droit de constituer des syndicats et d'y adhérer pour la protection de ses intérêts.
+
+2. L'exercice de ce droit ne peut faire l'objet que des seules restrictions prévues par la loi et qui sont nécessaires dans une société démocratique, dans l'intérêt de la sécurité nationale, de la sûreté publique, de l'ordre public, ou pour protéger la santé ou la moralité publiques ou les droits et les libertés d'autrui. Le présent article n'empêche pas de soumettre à des restrictions légales l'exercice de ce droit par les membres des forces armées et de la police.
+
+3. Aucune disposition du présent article ne permet aux États parties à la Convention de 1948 de l'Organisation internationale du travail concernant la liberté syndicale et la protection du droit syndical de prendre des mesures législatives portant atteinte - ou d'appliquer la loi de façon à porter atteinte - aux garanties prévues dans ladite convention.

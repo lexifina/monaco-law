@@ -1,3 +1,11 @@
 # Article 19
 
-Le Conseil économique et social peut renvoyer à la Commission des droits de l'homme aux fins d'étude et de recommandation d'ordre général ou pour information, s'il y a lieu, les rapports concernant les droits de l'homme que communiquent les États conformément aux articles 16 et 17 et les rapports concernant les droits de l'homme que communiquent les institutions spécialisées conformément à l'article 18.
+1. Nul ne peut être inquiété pour ses opinions.
+
+2. Toute personne a droit à la liberté d'expression ; ce droit comprend la liberté de rechercher, de recevoir et de répandre des informations et des idées de toute espèce, sans considération de frontières, sous une forme orale, écrite, imprimée ou artistique, ou par tout autre moyen de son choix.
+
+3. L'exercice des libertés prévues au paragraphe 2 du présent article comporte des devoirs spéciaux et des responsabilités spéciales. Il peut en conséquence être soumis à certaines restrictions qui doivent toutefois être expressément fixées par la loi et qui sont nécessaires :
+
+- a) au respect des droits ou de la réputation d'autrui ;
+
+- b) à la sauvegarde de la sécurité nationale, de l'ordre public, de la santé ou de la moralité publiques.

@@ -1,13 +1,9 @@
 # Article 12
 
-1. Les États parties au présent pacte reconnaissent le droit qu'a toute personne de jouir du meilleur état de santé physique et mentale qu'elle soit capable d'atteindre.
+1. Quiconque se trouve légalement sur le territoire d'un État a le droit d'y circuler librement et d'y choisir librement sa résidence.
 
-2. Les mesures que les États parties au présent pacte prendront en vue d'assurer le plein exercice de ce droit devront comprendre les mesures nécessaires pour assurer :
+2. Toute personne est libre de quitter n'importe quel pays, y compris le sien.
 
-- a) la diminution de la mortinatalité et de la mortalité infantile, ainsi que le développement sain de l'enfant ;
+3. Les droits mentionnés ci-dessus ne peuvent être l'objet de restrictions que si celles-ci sont prévues par la loi, nécessaires pour protéger la sécurité nationale, l'ordre public, la santé ou la moralité publiques, ou les droits et libertés d'autrui, et compatibles avec les autres droits reconnus par le présent pacte.
 
-- b) l'amélioration de tous les aspects de l'hygiène du milieu et de l'hygiène industrielle ;
-
-- c) la prophylaxie et le traitement des maladies épidémiques, endémiques, professionnelles et autres, ainsi que la lutte contre ces maladies ;
-
-- d) la création de conditions propres à assurer à tous des services médicaux et une aide médicale en cas de maladie.
+4. Nul ne peut être arbitrairement privé du droit d'entrer dans son propre pays.

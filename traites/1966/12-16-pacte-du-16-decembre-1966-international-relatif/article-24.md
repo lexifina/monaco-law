@@ -1,3 +1,7 @@
 # Article 24
 
-Aucune disposition du présent pacte ne doit être interprétée comme portant atteinte aux dispositions de la Charte des Nations Unies et des constitutions des institutions spécialisées qui définissent les responsabilités respectives des divers organes de l'Organisation des Nations Unies et des institutions spécialisées en ce qui concerne les questions traitées dans le présent pacte.
+1. Tout enfant, sans discrimination aucune fondée sur la race, la couleur, le sexe, la langue, la religion, l'origine nationale ou sociale, la fortune ou la naissance, a droit, de la part de sa famille, de la société et de l'État, aux mesures de protection qu'exige sa condition de mineur.
+
+2. Tout enfant doit être enregistré immédiatement après sa naissance et avoir un nom.
+
+3. Tout enfant a le droit d'acquérir une nationalité.

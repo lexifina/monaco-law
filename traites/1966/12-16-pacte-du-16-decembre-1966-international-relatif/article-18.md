@@ -1,3 +1,9 @@
 # Article 18
 
-En vertu des responsabilités qui lui sont conférées par la Charte des Nations Unies dans le domaine des Droits de l'homme et des libertés fondamentales, le Conseil économique et social pourra conclure des arrangements avec les institutions spécialisées, en vue de la présentation par celles-ci de rapports relatifs aux progrès accomplis quant à l'observation des dispositions du présent pacte qui entrent dans le cadre de leurs activités. Ces rapports pourront comprendre des données sur les décisions et recommandations adoptées par les organes compétents des institutions spécialisées au sujet de cette mise en œuvre.
+1. Toute personne a droit à la liberté de pensée, de conscience et de religion ; ce droit implique la liberté d'avoir ou d'adopter une religion ou une conviction de son choix, ainsi que la liberté de manifester sa religion ou sa conviction, individuellement ou en commun, tant en public qu'en privé, par le culte et l'accomplissement des rites, les pratiques et l'enseignement.
+
+2. Nul ne subira de contrainte pouvant porter atteinte à sa liberté d'avoir ou d'adopter une religion ou une conviction de son choix.
+
+3. La liberté de manifester sa religion ou ses convictions ne peut faire l'objet que des seules restrictions prévues par la loi et qui sont nécessaires à la protection de la sécurité, de l'ordre et de la santé publique, ou de la morale ou des libertés et droits fondamentaux d'autrui.
+
+4. Les États parties au présent pacte s'engagent à respecter la liberté des parents et, le cas échéant, des tuteurs légaux de faire assurer l'éducation religieuse et morale de leurs enfants conformément à leurs propres convictions.

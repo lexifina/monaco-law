@@ -1,3 +1,5 @@
 # Article 20
 
-Les États parties au présent pacte et les institutions spécialisées intéressées peuvent présenter au Conseil économique et social des observations sur toute recommandation d'ordre général faite en vertu de l'article 19 ou sur toute mention d'une recommandation d'ordre général figurant dans un rapport de la Commission des droits de l'homme ou dans tout document mentionné dans ledit rapport.
+1. Toute propagande en faveur de la guerre est interdite par la loi.
+
+2. Tout appel à la haine nationale, raciale ou religieuse qui constitue une incitation à la discrimination, à l'hostilité ou à la violence est interdit par la loi.

@@ -1,7 +1,5 @@
 # Article 17
 
-1. Les États parties au présent pacte présentent leurs rapports par étapes, selon un programme qu'établira le Conseil économique et social dans un délai d'un an à compter de la date d'entrée en vigueur du présent pacte, après avoir consulté les États parties et les institutions spécialisées intéressées.
+1. Nul ne sera l'objet d'immixtions arbitraires ou illégales dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d'atteintes illégales à son honneur et à sa réputation.
 
-2. Les rapports peuvent faire connaître les facteurs et les difficultés empêchant ces États de s'acquitter pleinement des obligations prévues au présent pacte.
-
-3. Dans le cas où des renseignements à ce sujet ont été adressés à l'Organisation des Nations Unies ou à une institution spécialisée par un État partie au pacte, il ne sera pas nécessaire de reproduire lesdits renseignements et une référence précise à ces renseignements suffira.
+2. Toute personne a droit à la protection de la loi contre de telles immixtions ou de telles atteintes.

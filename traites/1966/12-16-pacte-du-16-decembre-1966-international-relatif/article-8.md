@@ -1,15 +1,19 @@
 # Article 8
 
-1. Les États parties au présent pacte s'engagent à assurer :
+1. Nul ne sera tenu en esclavage ; l'esclavage et la traite des esclaves, sous toutes leurs formes, sont interdits.
 
-- a) le droit qu'a toute personne de former avec d'autres des syndicats et de s'affilier au syndicat de son choix, sous la seule réserve des règles fixées par l'organisation intéressée, en vue de favoriser et de protéger ses intérêts économiques et sociaux. L'exercice de ce droit ne peut faire l'objet que des seules restrictions prévues par la loi et qui constituent des mesures nécessaires, dans une société démocratique, dans l'intérêt de la sécurité nationale ou de l'ordre public, ou pour protéger les droits et les libertés d'autrui ;
+2. Nul ne sera tenu en servitude.
 
-- b) le droit qu'ont les syndicats de former des fédérations ou des confédérations nationales et le droit qu'ont celles-ci de former des organisations syndicales internationales ou de s'y affilier ;
+3. a) Nul ne sera astreint à accomplir un travail forcé ou obligatoire ;
 
-- c) le droit qu'ont les syndicats d'exercer librement leur activité, sans limitations autres que celles qui sont prévues par la loi et qui constituent des mesures nécessaires dans une société démocratique, dans l'intérêt de la sécurité nationale ou de l'ordre public, ou pour protéger les droits et les libertés d'autrui ;
+b) L'alinéa a du présent paragraphe ne saurait être interprété comme interdisant, dans les pays où certains crimes peuvent être punis de détention accompagnée de travaux forcés, l'accomplissement d'une peine de travaux forcés, infligée par un tribunal compétent ;
 
-- d) le droit de grève, exercé conformément aux lois de chaque pays.
+c) N'est pas considéré comme « travail forcé ou obligatoire » au sens du présent paragraphe :
 
-2. Le présent article n'empêche pas de soumettre à des restrictions légales l'exercice de ces droits par les membres des forces armées, de la police ou de la fonction publique.
+- i) tout travail ou service, non visé à l'alinéa b, normalement requis d'un individu qui est détenu en vertu d'une décision de justice régulière ou qui, ayant fait l'objet d'une telle décision, est libéré conditionnellement ;
 
-3. Aucune disposition du présent article ne permet aux États parties à la Convention de 1948 de l'Organisation internationale du travail concernant la liberté syndicale et la protection du droit syndical de prendre des mesures législatives portant atteinte - ou d'appliquer la loi de façon à porter atteinte - aux garanties prévues dans ladite convention.
+- ii) tout service de caractère militaire et, dans les pays où l'objection de conscience est admise, tout service national exigé des objecteurs de conscience en vertu de la loi ;
+
+- iii) tout service exigé dans les cas de force majeure ou de sinistres qui menacent la vie ou le bien-être de la communauté ;
+
+- iv) tout travail ou tout service formant partie des obligations civiques normales.
