@@ -1,0 +1,1 @@
+Une convention pour assurer l'extradition des malfaiteurs entre Notre Principauté et le Royaume de Belgique ayant été signée, le 29 juin 1874, par Notre plénipotentiaire et celui de Sa Majesté le Roi des Belges, et les ratifications de cet acte ayant été échangées à Paris le 29 juillet dernier, ladite convention, dont la teneur suit, recevra sa pleine et entière exécution.
