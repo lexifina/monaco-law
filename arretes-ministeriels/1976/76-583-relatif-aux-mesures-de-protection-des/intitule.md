@@ -1,0 +1,1 @@
+Arrêté ministériel n° 76-583 du 24 décembre 1976 relatif aux mesures de protection des travailleurs contre les effets nuisibles du bruit applicables aux établissements dans lesquels sont exécutés des travaux en ambiance bruyante
