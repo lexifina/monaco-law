@@ -1,0 +1,3 @@
+# Article 21
+
+Le receveur communal est tenu de faire sous sa responsabilité personnelle toutes les diligences nécessaires pour la perception des revenus, legs et donations et autres ressources affectées au service de la commune ; de faire faire, contre les débiteurs en retard de payer et à la requête du maire, les exploits, significations, poursuites et commandements nécessaires, d'avertir le maire de l'expiration des baux ; d'empêcher les prescriptions, de veiller à la conservation des domaines, des droits, privilèges et hypothèques ; de requérir, à cet effet, l'inscription au bureau des hypothèques de tous les titres qui en sont susceptibles ; enfin, de tenir registre de ces inscriptions et autres poursuites et diligences.
