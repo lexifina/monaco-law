@@ -1,3 +1,3 @@
 # Article 17
 
-Sauf dans le cas prévu à l'article 16, deuxième alinéa (1°), l'assentiment de l'État requis sera nécessaire pour permettre à l'État requérant de livrer à un État tiers l'individu qui lui aura été remis. La partie requise pourra exiger la production des pièces prévues à l'article 10.
+Chaque État informera l'autre État par la voie prévue à l'article 12 de toute décision de condamnation intervenue à l'encontre d'un ressortissant de l'État intéressé. Sur demande expresse, il pourra être envoyé une copie de cette décision.

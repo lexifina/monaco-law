@@ -1,7 +1,3 @@
 # Article 7
 
-L'extradition pourra être refusée :
-
-- 1° Si les infractions, en raison desquelles elle est demandée, ont été commises sur le territoire de l'État requis ;
-
-- 2° Si les infractions font l'objet de poursuites dans l'État requis ou ont été jugées dans un État tiers.
+Le témoin ou l'expert qui n'aura pas déféré à une citation à comparaître, dont la remise a été demandée en application de la présente Convention, ne pourra être soumis à aucune sanction ou mesure de contrainte, alors même que cette citation contiendrait des injonctions, à moins qu'il ne se rende par la suite de son plein gré sur le territoire de l'État requérant et qu'il n'y soit régulièrement cité à nouveau.

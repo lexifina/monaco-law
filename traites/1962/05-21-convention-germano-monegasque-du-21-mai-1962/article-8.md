@@ -1,11 +1,7 @@
 # Article 8
 
-L'extradition sera refusée :
+(1) Des frais de voyage et de séjour, calculés depuis leur résidence, seront accordées au témoin ou à l'expert, d'après les tarifs et règlements en vigueur dans le pays où l'audition doit avoir lieu.
 
-- 1° Si les infractions ont été jugées définitivement par les autorités compétentes de l'État requis ;
+(2) La demande de remise de la citation ou la citation elle-même devra mentionner dans quelle mesure l'autorité compétente de l'État requérant remboursera approximativement au témoin ou à l'expert les frais de voyage et de séjour et versera les indemnités.
 
-- 2° Lorsque les poursuites ne peuvent être exercées, suivant la loi de l'État requérant, qu'à la demande de la partie lésée si pareille demande fait défaut ;
-
-- 3° Si la prescription de l'action ou de la peine est acquise d'après la législation de l'État requérant ou de l'État requis ;
-
-- 4° Lorsqu'une amnistie est intervenue dans l'État requis, alors que l'infraction aurait pu être poursuivie dans cet État.
+(3) L'État requis pourra, suivant les circonstances, à la demande du témoin ou de l'expert, lui consentir une avance de tout ou partie des frais de voyage et de séjour. Celle-ci sera mentionnée sur la citation et ensuite remboursée par l'État requérant.

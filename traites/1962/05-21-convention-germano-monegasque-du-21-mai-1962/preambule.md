@@ -1,4 +1,6 @@
-Désirant régler d'un commun accord les questions relatives à l'extradition des malfaiteurs, ont résolu de conclure une Convention et ont nommé à cet effet, pour leurs Plénipotentiaires, savoir :
+Son Altesse Sérénissime le Prince Souverain de Monaco et le Président de la République Fédérale d'Allemagne,
+
+Désirant régler d'un commun accord les questions relatives à l'entraide judiciaire en matière pénale, ont résolu de conclure une Convention et ont nommé à cet effet, pour leurs Plénipotentiaires, savoir :
 
 Son Altesse Sérénissime le Prince Souverain de Monaco : M. Maurice Lozé, Envoyé Extraordinaire et Ministre Plénipotentiaire,
 

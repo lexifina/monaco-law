@@ -1,9 +1,5 @@
 # Article 10
 
-Il sera produit à l'appui de la requête :
+(1) L'État requis communiquera les renseignements provenant du casier judiciaire, tel qu'il est établi par sa législation qui pourront lui être demandés par les autorités judiciaires de l'État requérant pour les besoins d'une affaire pénale, dans la même mesure que s'ils étaient demandés par une autorité judiciaire de l'État requis.
 
-- a) L'original ou l'expédition authentique soit d'une décision de condamnation exécutoire, soit d'un mandat d'arrêt ou de tout autre acte ayant la même force, délivré dans les formes prescrites par la loi de l'État requérant ;
-
-- b) Un exposé des faits pour lesquels l'extradition est demandée. Le temps et le lieu de leur perpétration, leur qualification légale et les références aux dispositions légales qui leur sont applicables seront indiqués le plus exactement possible ;
-
-- c) Une copie des dispositions légales applicables, ainsi que le signalement aussi précis que possible de l'individu réclamé et tous autres renseignements de nature à déterminer son identité et sa nationalité.
+(2) Dans les autres cas, il sera donné suite à pareille demande dans la mesure des dispositions légales ou réglementaires internes de l'État requis.
