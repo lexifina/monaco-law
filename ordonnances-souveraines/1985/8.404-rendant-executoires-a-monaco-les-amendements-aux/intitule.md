@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 8.404 du 30 septembre 1985 rendant exécutoires à Monaco les amendements aux annexes I et II de la Convention, faite à Washington le 3 mars 1973, sur le commerce international des espèces de faune et flore sauvages menacées d'extinction, adoptés à Buenos Aires (Argentine) le 3 mai 1985
