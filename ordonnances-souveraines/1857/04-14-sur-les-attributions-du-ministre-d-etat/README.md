@@ -1,8 +1,8 @@
-# Ordonnance Souveraine du 14 avril 1857 sur les attributions du gouverneur général
+# Ordonnance Souveraine du 14 avril 1857 sur les attributions du Ministre d'État
 
-Version en vigueur au 15 avril 1857.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1857/04-14-L002422@1857.04.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1857/04-14-L002422@1911.04.19/
 
 | | |
 | --- | --- |
