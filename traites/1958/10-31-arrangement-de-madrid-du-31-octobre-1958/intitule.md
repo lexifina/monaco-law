@@ -1,0 +1,1 @@
+Arrangement de Madrid du 31 octobre 1958 concernant la répression des indications de provenance fausses ou fallacieuses du 14 avril 1891 révisé à Washington le 2 juin 1911, à La Haye le 6 novembre 1925, à Londres le 2 juin 1934 et à Lisbonne le 31 octobre 1958
