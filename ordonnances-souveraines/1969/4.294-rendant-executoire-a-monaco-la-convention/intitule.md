@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 4.294 du 1er juin 1969 rendant exécutoire à Monaco la Convention internationale des télécommunications de Montreux (1965) ainsi que le protocole final et les protocoles additionnels
