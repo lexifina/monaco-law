@@ -1,0 +1,9 @@
+# Article 19
+
+1. Chaque Partie contractante prend les mesures législatives, administratives ou de politique voulues pour assurer la participation effective aux activités de recherche biotechnologique des Parties contractantes, en particulier les pays en développement, qui fournissent les ressources génétiques pour ces activités de recherche, si possible dans ces Parties contractantes.
+
+2. Chaque Partie contractante prend toutes les mesures possibles pour encourager et favoriser l'accès prioritaire, sur une base juste et équitable, des Parties contractantes, en particulier des pays en développement, aux résultats et aux avantages découlant des biotechnologies fondées sur les ressources génétiques fournies par ces Parties. Cet accès se fait à des conditions convenues d'un commun accord.
+
+3. Les Parties examinent s'il convient de prendre des mesures et d'en fixer les modalités, éventuellement sous forme d'un protocole, comprenant notamment un accord préalable donné en connaissance de cause définissant les procédures appropriées dans le domaine du transfert, de la manutention et de l'utilisation en toute sécurité de tout organisme vivant modifié résultant de la biotechnologie qui risquerait d'avoir des effets défavorables sur la conservation et l'utilisation durable de la diversité biologique.
+
+4. Chaque Partie contractante communique directement ou exige que soit communiquée par toute personne physique ou morale relevant de sa juridiction et fournissant des organismes visés au paragraphe 3 ci-dessus toute information disponible relative à l'utilisation et aux règlements de sécurité exigées par ladite Partie contractante en matière de manipulation de tels organismes, ainsi que tout renseignement disponible sur l'impact défavorable potentiel des organismes spécifiques en cause, à la Partie contractante sur le territoire de laquelle ces organismes doivent être introduits.

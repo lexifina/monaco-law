@@ -1,0 +1,3 @@
+# Article 39
+
+Sous réserve qu'il ait été intégralement restructuré, conformément aux dispositions de l'article 21, le Fonds pour l'environnement mondial du Programme des Nations Unies pour le développement, du Programme des Nations Unies pour l'environnement et de la Banque internationale pour la reconstruction et le développement est provisoirement la structure institutionnelle prévue par l'article 21, pour la période allant de l'entrée en vigueur de la présente Convention à la première réunion de la Conférence des Parties ou jusqu'à ce que la Conférence des Parties ait désigné une structure institutionnelle conformément à l'article 21.

@@ -1,0 +1,7 @@
+# Article 34
+
+1. La présente Convention et ses protocoles sont soumis à la ratification, à l'acceptation ou à l'approbation des États et des organisations régionales d'intégration économique. Les instruments de ratification, d'acceptation ou d'approbation seront déposés auprès du Dépositaire.
+
+2. Toute organisation visée au paragraphe 1 ci-dessus qui devient Partie à la présente Convention ou à l'un quelconque de ses protocoles et dont aucun État membre n'est lui-même Partie contractante est liée par toutes les obligations énoncées dans la Convention ou dans le protocole considéré, selon le cas, lorsqu'un ou plusieurs États membres d'une de ces organisations sont Parties à la Convention ou à un protocole, l'organisation et ses États membres conviennent de leurs responsabilités respectives en ce qui concerne l'exécution de leurs obligations en vertu de la Convention ou du protocole, selon le cas. En tel cas l'organisation et ses États membres ne sont pas habilités à exercer concurremment leurs droits au titre de la Convention ou du protocole.
+
+3. Dans leurs instruments de ratification, d'acceptation ou d'approbation, les organisations visées au paragraphe 1 ci-dessus indiquent l'étendue de leurs compétences dans les domaines régis par la Convention ou par le protocole considéré. Elles informent également le Dépositaire de toute modification pertinente de l'étendue de ces compétences.
