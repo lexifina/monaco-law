@@ -1,0 +1,1 @@
+Arrêté ministériel n° 68-157 du 8 avril 1968 fixant les prescriptions d'hygiène applicables aux locaux de fabrication, d'entreposage et de vente ainsi qu'au matériel et aux conditions de manipulation en ce qui concerne les glaces et les crèmes glacées
