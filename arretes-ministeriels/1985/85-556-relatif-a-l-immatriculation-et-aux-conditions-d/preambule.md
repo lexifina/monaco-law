@@ -1,0 +1,3 @@
+Vu l'ordonnance n° 1691 du 17 décembre 1957 portant réglementation de la police de la circulation routière (Code de la route), modifiée par les ordonnances n° 2043 du 20 août 1959, n° 2576 du 11 juillet 1961, n° 2934 du 10 décembre 1962, n° 2973 du 31 mars 1963, n° 3983 du 8 mars 1968, n° 5264 du 14 décembre 1973, n° 5507 du 9 janvier 1975, n° 6279 du 16 mai 1978, n° 6781 du 4 mars 1980 et n° 7952 du 18 avril 1984 ;
+
+Vu l'arrêté ministériel n° 78-5 du 9 janvier 1978 relatif à l'immatriculation des véhicules automobiles, modifié par les arrêtés ministériels n° 78-439 du 9 octobre 1978 et n° 81-453 du 4 septembre 1981 ;
