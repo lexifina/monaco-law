@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.253 du 12 décembre 1997 rendant exécutoire l'arrangement particulier de la Conférence européenne des administrations des postes et des télécommunications (CEPT) fait à Wiesbaden (Allemagne) le 21 juillet 1995
