@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2002-316 du 16 mai 2002 portant modification de l'arrêté ministériel n° 98-631 du 29 décembre 1998 réglementant l'exercice d'une activité libérale au Centre hospitalier Princesse Grace
