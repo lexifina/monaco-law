@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.533 du 17 juillet 2000 rendant exécutoire l'arrangement administratif particulier franco-monégasque concernant l'activité occasionnelle des professionnels de santé sur le territoire de l'autre partie contractante
