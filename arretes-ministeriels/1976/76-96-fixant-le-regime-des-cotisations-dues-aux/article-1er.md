@@ -1,0 +1,9 @@
+# Article 1er
+
+Les cotisations dues à la caisse de compensation des services sociaux ainsi qu'à l'office de la médecine du travail pour les concierges d'immeubles destinés, soit en totalité à l'habitation ou à l'exercice de commerces ou d'industries ou simultanément à ces deux usages sont fixées comme suit :
+
+- 1. concierges logés aux frais de l'employeur dans l'immeuble, et tenus d'assurer sans restriction toutes les tâches que comportent l'entretien et la surveillance de l'immeuble et ne pouvant s'absenter sans autorisation sauf en cas de force majeure ou pour des motifs urgents imputables au service, avec interdiction d'effectuer dans la loge une besogne lucrative : les cotisations sont calculées sur la base du salaire effectivement perçu, majoré de la valeur des avantages en nature, sans que l'assiette de cotisation, pour une heure de travail, puisse être inférieure au 1/169e de la valeur mensuelle du salaire de base de la caisse autonome des retraites ;
+
+- 2. concierges tenus d'assurer de leur loge, sans cesser de vaquer à leurs occupations personnelles, une surveillance de jour et de nuit ; ces préposés, qui peuvent s'absenter deux heures par jour, doivent immédiatement diffuser aux occupants les avis du propriétaire ou du syndic et faire le compte rendu à ce dernier de tous incidents survenus dans l'immeuble : les cotisations sont calculées sur la base du salaire effectivement perçu, majoré de la valeur des avantages en nature, sans que l'assiette de cotisation, pour une heure de travail, puisse être inférieure au 1/169e de la valeur mensuelle du salaire de base de la caisse autonome des retraites ;
+
+- 3. concierges n'entrant pas dans les catégories visées aux paragraphes 1 et 2 ci-dessus : les cotisations sont calculées sur une rémunération forfaitaire égale à 15 % du salaire de base de la caisse autonome des retraites.
