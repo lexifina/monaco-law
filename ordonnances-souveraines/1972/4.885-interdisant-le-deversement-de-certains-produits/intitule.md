@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 4.885 du 7 mars 1972 interdisant le déversement de certains produits dans les cours d'eau traversant la Principauté ainsi que dans les eaux intérieures ou la mer territoriale de Monaco et réglementant la mise en vente et la diffusion de certains détergents dans les produits de lavage et de nettoyage
