@@ -1,0 +1,1 @@
+Arrêté ministériel n° 56-222 du 31 octobre 1956 fixant le régime des cotisations dues à la caisse autonome des retraites pour le personnel employé dans les cafés et restaurants et rémunéré au pourboire qui leur est versé directement
