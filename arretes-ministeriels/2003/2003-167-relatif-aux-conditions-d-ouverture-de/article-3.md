@@ -1,0 +1,5 @@
+# Article 3
+
+Les fabricants, les importateurs, les exploitants, les dépositaires, les grossistes-répartiteurs, les distributeurs en gros de produits pharmaceutiques autres que les médicaments, les distributeurs en gros de médicaments dérivés du sang, de plantes médicinales et de gaz à usage médical, ne peuvent distribuer les médicaments ou produits qu'ils stockent qu'à d'autres entreprises ou organismes autorisés à les distribuer en gros ou à des personnes physiques ou morales habilitées à les dispenser.
+
+Pour les médicaments autres que ceux destinés à être expérimentés sur l'homme, pour les générateurs, trousses et précurseurs et pour les produits mentionnés à l'article 80 de la loi n° 1.029 du 16 juillet 1980 susvisée, lorsque le fabricant ou l'importateur n'assure pas lui-même l'exploitation, il ne peut vendre en gros ni céder à titre gratuit les médicaments ou produits qu'il fabrique ou importe que par l'intermédiaire de l'exploitant qui assure ces opérations de vente ou de cession.
