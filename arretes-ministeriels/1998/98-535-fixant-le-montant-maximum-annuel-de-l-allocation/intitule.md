@@ -1,0 +1,1 @@
+Arrêté ministériel n° 98-535 du 3 novembre 1998 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse autonome des retraites au titre de l'exercice 1997-1998
