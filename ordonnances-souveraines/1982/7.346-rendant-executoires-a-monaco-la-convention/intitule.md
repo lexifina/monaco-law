@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.346 du 18 mai 1982 rendant exécutoires, à Monaco, la Convention internationale pour la réglementation de la chasse à la baleine signée à Washington le 2 décembre 1946 et le Protocole la complétant fait à Washington le 19 novembre 1956
