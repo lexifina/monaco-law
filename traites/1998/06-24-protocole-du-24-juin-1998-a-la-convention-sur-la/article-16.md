@@ -1,0 +1,5 @@
+# Article 16
+
+Dépositaire
+
+Les instruments de ratification, d'acceptation, d'approbation ou d'adhésion sont déposés auprès du secrétaire général de l'Organisation des Nations Unies, qui exerce les fonctions de dépositaire.
