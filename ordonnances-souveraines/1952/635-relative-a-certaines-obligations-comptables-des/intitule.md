@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 635 du 31 octobre 1952 relative à certaines obligations comptables des commerçants et instituant les bulletins de commande pour les opérations de vente, de louage de choses ou de services entre commerçants
