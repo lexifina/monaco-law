@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.631 du 13 janvier 2003 prorogeant le privilège concédé à la Société Hôtelière et de Loisirs de Monaco d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français
