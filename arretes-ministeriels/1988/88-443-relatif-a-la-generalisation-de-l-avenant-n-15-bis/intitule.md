@@ -1,0 +1,1 @@
+Arrêté ministériel n° 88-443 du 10 août 1988 relatif à la généralisation de l'avenant n° 15 bis du 16 avril 1987 à la convention collective nationale de travail, modifiant l'article 5 de l'avenant n° 15 du 13 juin 1978 instituant un régime de garantie de créances de salaires
