@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2002-268 du 23 avril 2002 relatif aux modalités de déclaration simplifiée des traitements automatisés d'informations nominatives portant sur la gestion des crédits et prêts consentis à des personnes physiques par les établissements de crédit
