@@ -1,0 +1,7 @@
+# Article 4
+
+Plans d'urgence et autres moyens visant à prévenir et à combattre les événements de pollution. - 1. Les parties s'efforcent de maintenir et de promouvoir, soit en coopération bilatérale ou multilatérale, des plans d'urgence et autres moyens visant à prévenir et à combattre les événements de pollution. Ces moyens comprennent notamment les équipements, les navires, les aéronefs et les personnels nécessaires aux opérations en cas de situation critique, l'établissement, le cas échéant, de la législation appropriée, le développement ou le renforcement de la capacité à répondre à un événement de pollution et la désignation de l'autorité ou des autorités nationales chargées de la mise en œuvre du présent Protocole.
+
+2. Les parties prennent également des dispositions en conformité avec le droit international pour prévenir la pollution de la zone de la mer Méditerranée par les navires afin d'assurer la mise en œuvre effective dans cette zone des conventions internationales pertinentes en tant qu'État du pavillon, État du port et État côtier, ainsi que leur réglementation applicable en la matière. Elles développent leurs capacités nationales de mise en œuvre de ces conventions internationales et peuvent coopérer à leur mise en œuvre efficace au moyen d'accords bilatéraux ou multilatéraux.
+
+3. Les parties informent tous les deux ans le Centre régional des mesures prises en vue de l'application du présent article. Le Centre régional présente un rapport aux parties sur la base des informations reçues.

@@ -1,0 +1,3 @@
+# Article 8
+
+Communication des informations et rapports concernant les événements de pollution. - Les parties s'engagent à coordonner l'utilisation des moyens de communication dont elles disposent pour assurer, avec la fiabilité et la rapidité nécessaires, la réception, la transmission et la diffusion de tous rapports et informations urgentes concernant des événements de pollution. Le Centre régional est doté des moyens de communication nécessaires pour lui permettre de participer à cet effort coordonné et, notamment, de remplir les fonctions qui lui sont assignées par le paragraphe 2 de l'article 12.
