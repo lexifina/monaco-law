@@ -1,0 +1,1 @@
+Un nouveau traité pour assurer l'extradition des malfaiteurs entre Notre Principauté et le Royaume d'Espagne ayant été signée, le 3 avril 1882, par Notre plénipotentiaire et celui de Sa Majesté le Roi d'Espagne, et les ratifications de cet acte ayant été échangées à Madrid, le 12 novembre 1882, ledit traité, dont la teneur suit, recevra sa pleine et entière exécution.
