@@ -1,0 +1,1 @@
+Vu la loi n° 636 du 11 janvier 1958, tendant à modifier et à codifier la législation sur la déclaration, la réparation et l'assurance des accidents du travail, modifiée et complétée par la loi n° 790 du 18 août 1965 et notamment son article 23 bis ;
