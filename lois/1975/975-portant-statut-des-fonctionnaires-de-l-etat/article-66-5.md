@@ -1,0 +1,9 @@
+# Article 66-5
+
+Le fonctionnaire autorisé à exercer des fonctions à temps partiel conserve les prestations familiales et les avantages sociaux dont il bénéficierait s'il exerçait à temps plein.
+
+Dans tous les cas de congé de maladie prévus aux articles 50, 51, 52 et 53, le fonctionnaire autorisé à assurer un service à temps partiel perçoit une fraction du traitement auquel il aurait eu droit dans cette situation s'il exerçait un service à temps plein. La fraction de traitement est déterminée conformément aux dispositions de l'article 66-2. Si à l'expiration de la période d'exercice des fonctions à temps partiel, il demeure en congé de maladie, il recouvre les droits dont bénéficie le fonctionnaire exerçant des fonctions à temps plein.
+
+L'allocation d'assistance-décès prévue au chiffre 3° de l'article 31 est calculée sur l'intégralité du traitement afférent à l'emploi auquel le fonctionnaire décédé a été nommé ou au grade et à la classe ou échelon auxquels il est parvenu.
+
+La période d'activité à temps partiel est suspendue pendant la durée du congé de maternité. Les bénéficiaires de ce congé sont, en conséquence, rétablies, durant la durée de ce congé, dans les droits des fonctionnaires exerçant leurs fonctions à temps plein.
