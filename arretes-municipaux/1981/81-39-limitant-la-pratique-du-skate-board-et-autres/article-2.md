@@ -1,0 +1,7 @@
+# Article 2
+
+Les skate-boards, patins à roulettes, rolling, planches à roulettes et autres jeux comparables ne pourront être pratiqués que :
+
+- a) sur le Quai Albert 1er dans sa partie comprise entre le droit de la rue Princesse Caroline et le droit du jardin Princesse Stéphanie ;
+
+- b) sur la promenade Princesse Grace dans sa partie comprise entre l'extrémité Est du dernier kiosque et la fontaine.
