@@ -1,0 +1,1 @@
+Arrêté municipal n° 86-2 du 14 janvier 1986 concernant les conditions hygiéniques de congélation ou de surgélation, de conservation, de transport et de décongélation des denrées animales, d'origine animale et des denrées d'origine végétale
