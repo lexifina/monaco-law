@@ -1,0 +1,3 @@
+# Article 1er
+
+Les instruments d'adhésion à l'Arrangement de Madrid concernant la répression des indications de provenance fausses ou fallacieuses sur les produits du 14 avril 1891 (ci-après dénommé « l'Arrangement de Madrid »), tel que révisé à Washington le 2 juin 1911, à La Haye le 6 novembre 1925, à Londres le 2 juin 1934 et à Lisbonne le 31 octobre 1958 (ci-après dénommé « l'Acte de Lisbonne »), seront déposés auprès du Directeur général de l'Organisation Mondiale de la Propriété Intellectuelle (ci-après dénommé « le Directeur général »), qui notifiera ces dépôts aux pays parties à l'Arrangement.
