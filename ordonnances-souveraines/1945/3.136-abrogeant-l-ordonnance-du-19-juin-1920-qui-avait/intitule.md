@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 3.136 du 22 décembre 1945 abrogeant l'ordonnance du 19 juin 1920 qui avait créé une chambre consultative du commerce et créant un Conseil économique et social
