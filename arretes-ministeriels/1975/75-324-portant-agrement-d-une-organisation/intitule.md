@@ -1,0 +1,1 @@
+Arrêté ministériel n° 75-324 du 11 juillet 1975 portant agrément d'une organisation professionnelle de prévoyance sociale par application des dispositions de la loi n° 967 du 21 mars 1975 concernant l'adhésion des médecins à des régimes d'allocation vieillesse et d'assurance pour incapacité, invalidité ou décès
