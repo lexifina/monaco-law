@@ -1,0 +1,7 @@
+# Article 29
+
+1. Tout État Partie à la présente Convention pourra proposer un amendement et déposer sa proposition auprès du Secrétaire général de l'Organisation des Nations Unies. Le Secrétaire général communiquera la proposition d'amendement aux États Parties en leur demandant de lui faire savoir s'ils sont favorables à l'organisation d'une conférence d'États Parties en vue de l'examen de la proposition et de sa mise aux voix. Si, dans les quatre mois qui suivent la date d'une telle communication, le tiers au moins des États Parties se prononcent en faveur de la tenue de ladite conférence, le Secrétaire général organisera la conférence sous les auspices de l'Organisation des Nations Unies. Tout amendement adopté par la majorité des États Parties présents et votants à la conférence sera soumis par le Secrétaire général à l'acceptation de tous les États Parties.
+
+2. Un amendement adopté selon les dispositions du paragraphe 1 du présent article entrera en vigueur lorsque les deux tiers des États Parties à la présente Convention auront informé le Secrétaire général de l'Organisation des Nations Unies qu'ils l'ont accepté conformément à la procédure prévue par leurs constitutions respectives.
+
+3. Lorsque les amendements entreront en vigueur, ils auront force obligatoire pour les États Parties qui les auront acceptés, les autres États Parties demeurant liés par les dispositions de la présente Convention et par tous les amendements antérieurs qu'ils auront acceptés.

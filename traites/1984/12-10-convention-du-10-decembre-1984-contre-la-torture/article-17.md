@@ -1,0 +1,15 @@
+# Article 17
+
+1. Il est institué un Comité contre la torture (ci-après dénommé le Comité) qui a les fonctions définies ci-après. Le Comité est composé de dix experts de haute moralité et possédant une compétence reconnue dans le domaine des droits de l'homme, qui siègent à titre personnel. Les experts sont élus par les États Parties, compte tenu d'une répartition géographique équitable et de l'intérêt que représente la participation aux travaux du Comité de quelques personnes ayant une expérience juridique.
+
+2. Les membres du Comité sont élus au scrutin secret sur une liste de candidats désignés par les États Parties. Chaque État Partie peut désigner un candidat choisi parmi ses ressortissants. Les États Parties tiennent compte de l'intérêt qu'il y a à désigner des candidats qui soient également membres du Comité des droits de l'homme institué en vertu du Pacte international relatif aux droits civils et politiques et qui soient disposés à siéger au Comité contre la torture.
+
+3. Les membres du Comité sont élus au cours des réunions biennales des États Parties convoquées par le Secrétaire général de l'Organisation des Nations Unies. À ces réunions, où le quorum est constitué par les deux tiers des États Parties, sont élus membres du Comité les candidats qui obtiennent le plus grand nombre de voix et la majorité absolue des votes des représentants des États Parties présents et votants.
+
+4. La première élection aura lieu au plus tard six mois après la date d'entrée en vigueur de la présente Convention. Quatre mois au moins avant la date de chaque élection, le Secrétaire général de l'Organisation des Nations Unies envoie une lettre aux États Parties pour les inviter à présenter leurs candidatures dans un délai de trois mois. Le Secrétaire général dresse une liste par ordre alphabétique de tous les candidats ainsi désignés avec indication des États Parties qui les ont désignés, et la communique aux États Parties.
+
+5. Les membres du Comité sont élus pour quatre ans. Ils sont rééligibles s'ils sont présentés à nouveau. Toutefois, le mandat de cinq des membres élus lors de la première élection prendra fin au bout de deux ans ; immédiatement après la première élection, le nom de ces cinq membres sera tiré au sort par le président de réunion mentionnée au paragraphe 3 du présent article.
+
+6. Si un membre du Comité décède, se démet de ses fonctions ou n'est plus en mesure pour quelque autre raison de s'acquitter de ses attributions au Comité, l'État Partie qui l'a désigné nomme parmi ses ressortissants un autre expert qui siège au Comité pour la partie du mandat restant à courir, sous réserve de l'approbation de la majorité des États Parties. Cette approbation est considérée comme acquise à moins que la moitié des États Parties ou davantage, n'émettent une opinion défavorable dans un délai de six semaines à compter du moment où ils ont été informés par le Secrétaire général de l'Organisation des Nations Unies de la nomination proposée.
+
+7. Les États Parties prennent à leur charge les dépenses des membres du Comité pour la période où ceux-ci s acquittent de fonctions au Comité.

@@ -1,0 +1,5 @@
+# Article 1er
+
+1. Aux fins de la présente Convention, le terme « torture » désigne tout acte par lequel une douleur ou des souffrances aiguës, physiques ou mentales, sont intentionnellement infligées à une personne aux fins notamment d'obtenir d'elle ou d'une tierce personne des renseignements ou des aveux, de la punir d'un acte qu'elle ou une tierce personne a commis ou est soupçonnée d'avoir commis, de l'intimider ou de faire pression sur elle ou d'intimider ou de faire pression sur une tierce personne, ou pour tout autre motif fondé sur une forme de discrimination quelle qu'elle soit, lorsqu'une telle douleur ou de telles souffrances sont infligées par un agent de la fonction publique ou toute autre personne agissant à titre officiel ou à son instigation ou avec son consentement exprès ou tacite. Ce terme ne s'étend pas à la douleur ou aux souffrances résultant uniquement de sanctions légitimes, inhérentes à ces sanctions ou occasionnées par elles.
+
+2. Cet article est sans préjudice de tout instrument international ou de toute loi nationale qui contient ou peut contenir des dispositions de portée plus large.
