@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.371 du 2 juillet 2004 fixant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
