@@ -1,0 +1,3 @@
+# Article 7
+
+Les Hautes Parties contractantes conviennent, en ce qui concerne leurs services d'immigration et d'émigration, de prendre des mesures administratives et législatives destinées à combattre la traite des femmes et des enfants. Elles conviennent notamment d'édicter les règlements nécessaires pour la protection des femmes et des enfants voyageant à bord des navires d'émigrants, non seulement au départ et à l'arrivée, mais aussi en cours de route, et à prendre des dispositions en vue de l'affichage, dans les gares et dans les ports, d'avis mettant en garde les femmes et les enfants contre les dangers de la traite et indiquant les lieux où ils peuvent trouver logement, aide et assistance.
