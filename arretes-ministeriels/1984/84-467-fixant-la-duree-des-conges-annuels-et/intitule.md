@@ -1,0 +1,1 @@
+Arrêté ministériel n° 84-467 du 2 août 1984 fixant la durée des congés annuels et exceptionnels accordés aux membres du personnel médical du Centre hospitalier Princesse Grace, chefs de service et adjoints
