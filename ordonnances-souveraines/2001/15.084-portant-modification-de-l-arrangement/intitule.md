@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.084 du 30 octobre 2001 portant modification de l'arrangement administratif particulier du 20 juillet 1998 concernant les modalités de remboursement des frais exposés dans les établissements de soins français et monégasques, signé à Monaco le 7 avril 2000
