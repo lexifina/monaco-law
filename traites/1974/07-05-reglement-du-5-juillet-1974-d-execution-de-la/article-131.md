@@ -1,0 +1,11 @@
+# Article 131
+
+1. Les envois pour lesquels l'expéditeur demande un avis de réception doivent porter au recto, en caractères très apparents, la mention « Avis de réception » ou l'empreinte du timbre « A.R. ». L'expéditeur doit indiquer à l'extérieur de l'envoi son nom et son adresse en caractères latins. Toutefois, pour ce qui concerne les envois sous enveloppe normalisés, la mention « Avis de réception » ou l'empreinte du timbre « A.R. » doit être placée conformément à l'article 19, paragraphe 8, lettre a), chiffre 3°, de la Convention.
+
+2. Les envois visés au paragraphe 1 sont accompagnés d'une formule de la consistance d'une carte postale, de couleur rouge clair, conforme au modèle C5 ci-annexé. Après indication par l'expéditeur de son nom et de son adresse en caractères latins au recto de la formule et autrement qu'au crayon ordinaire, la formule est complétée par le bureau d'origine ou par tout autre bureau à désigner par l'Administration expéditrice puis fixée solidement à l'envoi ; si la formule ne parvient pas au bureau de destination, celui-ci établit d'office un nouvel avis de réception.
+
+3. Pour le calcul de l'affranchissement d'un envoi avec avis de réception, y compris le cas échéant le calcul de la surtaxe aérienne, il est tenu compte du poids de la formule C5. La taxe d'avis de réception est représentée sur l'envoi avec les autres taxes.
+
+4. Le bureau de destination renvoie la formule C5, dûment complétée, à l'adresse indiquée par l'expéditeur ; cette formule est transmise à découvert et en franchise de port par la voie la plus rapide (aérienne ou de surface). Une étiquette ou une empreinte de couleur bleue « Par avion » est apposée sur les avis de réception renvoyés par avion.
+
+5. À la demande de l'expéditeur, un avis de réception qui n'a pas été renvoyé dans les délais normaux est réclamé gratuitement au moyen de la formule C9 prévue à l'article 143. Un duplicata de l'avis de réception, portant au recto en caractères très apparents la mention « Duplicata », est joint à la réclamation C9. Cette dernière est traitée selon l'article 143. La formule C5 reste attachée à la réclamation C9, à moins que l'envoi n'ai été régulièrement distribué, auquel cas le bureau de destination retire cette formule pour la renvoyer comme il est prescrit au paragraphe 4.

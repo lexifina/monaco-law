@@ -1,0 +1,23 @@
+# Article 150
+
+1. Une feuille d'avis, conforme au modèle C12 ci-annexé, accompagne chaque dépêche. Elle est placée sous enveloppe de couleur bleue portant, en caractères très apparents, la mention « feuille d'avis ». Cette enveloppe est fixée extérieurement au paquet ou au sac d'envois recommandés ; s'il n'y a pas d'envois recommandés, l'enveloppe est, dans la mesure du possible, attachée sur une liasse d'envois ordinaires. Dans les relations entre pays dont les Administrations se sont entendues à ce sujet, le bureau d'échange d'expédition transmet par avion un exemplaire de la formule C12 au bureau d'échange de destination. Les Administrations peuvent, par des arrangements spéciaux, convenir que les dépêches contenant exclusivement des envois ordinaires de la poste aux lettres ou des sacs vides ne soient pas accompagnées d'une feuille d'avis.
+
+2. Le bureau expéditeur remplit la feuille d'avis avec tous les détails qu'en comporte la contexture et en tenant compte de cet article et des articles 151, 153 et 161 :
+
+- a) En-tête : sauf entente spéciale, les bureaux expéditeurs ne numérotent pas les feuilles d'avis lorsque les dépêches sont formées une seule fois tous les jours. Ils les numérotent dans tous les autres cas d'après une série annuelle pour chaque bureau de destination. Chaque dépêche doit alors porter un numéro distinct. À la première expédition de chaque année, la feuille doit porter, outre le numéro d'ordre de la dépêche, celui de la dernière dépêche de l'année précédente. Si une dépêche est supprimée, le bureau expéditeur porte, à côté du numéro de la dépêche, la mention « dernière dépêche ». Le nom du navire qui transporte la dépêche ou l'abréviation officielle correspondant à la ligne aérienne à emprunter sont indiqués lorsque le bureau expéditeur est à même de les connaître ;
+
+- b) Tableau 1 : la présence d'envois ordinaires exprès ou avion est signalée par une croix (X) dans la case correspondante ;
+
+- c) Tableau II : le nombre de sacs, ventilés par catégories, est porté dans ce tableau. Les Administrations peuvent s'entendre pour que seuls les sacs munis d'étiquettes rouges soient inscrits sur les feuilles d'avis ;
+
+- d) Tableau III : le nombre de sacs et de paquets d'envois recommandés ou avec valeur déclarée est consigné dans ce tableau qui comporte, en outre, l'indication du nombre de listes spéciales de recommandés (art. 151), de feuilles d'envoi VD3 (art. 107 du Règlement d'exécution de l'arrangement concernant les lettres avec valeur déclarée) et de bordereaux AV2 (art. 196) ;
+
+- e) Tableau IV : ce tableau est destiné à l'inscription des dépêches en transit peu importantes qui sont placées dans le sac du bureau d'échange réexpédiant le courrier ;
+
+- f) Tableau V : le nombre de sacs utilisés par l'Administration expéditrice, d'une part, et le nombre de sacs vides renvoyés à l'Administration destinataire, d'autre part, sont indiqués dans ce tableau ; le cas échéant, le nombre des sacs vides appartenant à une Administration autre que celle à laquelle la dépêche est adressée doit être mentionné séparément avec indication de cette Administration. Lorsque deux Administrations se sont mises d'accord pour la seule inscription des sacs munis d'étiquettes rouges (lettre c), le nombre des sacs employés pour la confection de la dépêche et le nombre des sacs vides appartenant à l'Administration de destination ne doivent pas être indiqués au tableau V. Sont, en outre, mentionnées dans ce tableau les lettres de service ouvertes et les communications ou recommandations diverses du bureau expéditeur ayant trait au service d'échange ;
+
+- g) Tableau VI : ce tableau est destiné à l'inscription des envois recommandés lorsqu'il n'est pas exclusivement fait usage de listes spéciales. Si les Administrations correspondantes se sont entendues pour l'inscription globale des envois recommandés, le nombre de ces envois insérés dans le sac contenant la feuille d'avis doit être indiqué en toutes lettres et en chiffres (art. 151, par. 2). Lorsque la dépêche ne contient pas d'envois recommandés, la mention « Néant » est portée au tableau VI.
+
+3. Les Administrations peuvent s'entendre pour créer des tableaux ou rubriques supplémentaires sur la feuille d'avis ou pour modifier les tableaux conformément à leurs besoins lorsqu'elles le jugent nécessaire.
+
+4. Lorsqu'un bureau d'échange n'a aucun envoi à livrer à un bureau correspondant et que, dans les relations entre les Administrations intéressées, les feuilles d'avis ne sont pas numérotées, par application du paragraphe 2, lettre a) , ce bureau se borne à envoyer une feuille d'avis. négative dans la prochaine dépêche.

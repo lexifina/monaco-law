@@ -1,0 +1,11 @@
+# Article 141
+
+1. Tout bureau qui reçoit une demande de retrait ou de modification d'adresse introduite conformément à l'article 30, paragraphe 3, de la Convention vérifie l'identité de l'expéditeur de l'envoi. Il transmet la formule C7, accompagnée s'il y a lieu du récépissé de dépôt, au bureau d'origine ou de destination de l'envoi, suivant que ce dernier est un envoi recommandé ou un envoi ordinaire. Il s'assure notamment que l'adresse de l'expéditeur figure bien à l'endroit prévu à cette fin sur la formule C7 afin de pouvoir, le moment venu, communiquer à cet expéditeur la suite donnée à sa demande ou, selon le cas, lui restituer l'envoi faisant l'objet du retrait.
+
+2. Si, pour des raisons particulières, le récépissé produit ne peut être joint à la formule C7, cette dernière doit être revêtue de la mention : « Vu récépissé de dépôt n°... délivré le... par le bureau de... ». Le récépissé de dépôt est muni de la mention suivante : « Demande de retrait (ou de modification d'adresse) déposée le... au bureau de... ». Cette indication est appuyée de l'empreinte du timbre à date du bureau qui reçoit la demande.
+
+3. Toute demande télégraphique introduite dans les conditions prévues au paragraphe 1 est adressée directement au bureau de destination de l'envoi. Si, toutefois, elle se rapporte à un envoi recommandé, une formule C7 accompagnée si possible du récépissé de dépôt et portant de façon apparente la mention « Demande télégraphique déposée le... au bureau de... » doit, en outre, être envoyée au bureau d'origine de l'envoi, Après en avoir vérifié les indications, le bureau d'origine inscrit en tête de la formule C7, au crayon de couleur, la mention « Confirmation de la demande télégraphique du... » et la transmet au bureau de destination. Le bureau de destination retient l'envoi recommandé jusqu'à la réception de cette confirmation.
+
+4. Pour permettre de prévenir l'expéditeur, le bureau de destination de l'envoi informe le bureau qui reçoit la demande de la suite qui lui a été donnée. Toutefois, lorsqu'il s'agit d'un envoi recommandé, cette information doit passer par le bureau d'origine de l'envoi. En cas de retrait, l'envoi retiré est annexé à cette information.
+
+5. L'article 140 est applicable, par analogie, au bureau qui reçoit la demande et à son Administration.

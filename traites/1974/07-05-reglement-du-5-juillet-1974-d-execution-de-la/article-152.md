@@ -1,0 +1,3 @@
+# Article 152
+
+Les mandats de poste expédiés à découvert sont réunis en une liasse distincte qui doit être insérée dans un paquet ou un sac contenant des envois recommandés ou éventuellement dans le paquet ou le sac avec valeurs déclarées. Il en est de même des envois contre remboursement non recommandés échangés selon l'article 2, paragraphe 1, de l'Arrangement concernant les envois contre remboursement. Si la dépêche ne comprend ni envois recommandés ni valeurs déclarées, les mandats et, le cas échéant, les envois contre remboursement non recommandés sont placés dans l'enveloppe contenant la feuille d'avis ou enliassés avec celle-ci.

@@ -1,0 +1,3 @@
+# Article 134
+
+Les envois à remettre par exprès sont pourvus, à côté de l'indication du lieu de destination, soit d'une étiquette spéciale imprimée de couleur rouge clair, soit d'une empreinte de timbre de la même couleur portant, en caractères très apparents, la mention « Exprès ». À défaut d'étiquette ou d'empreinte de timbre, le mot « Exprès » doit être inscrit de façon très apparente, en lettres majuscules, à l'encre rouge ou au crayon de couleur rouge. Toutefois, pour ce qui concerne les envois sous enveloppe normalisés, cette étiquette ou la mention « Exprès » doit être placée conformément à l'article 19, paragraphe 8, lettre a) , chiffre 3°, de la Convention.

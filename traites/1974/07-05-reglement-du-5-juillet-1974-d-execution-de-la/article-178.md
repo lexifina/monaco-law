@@ -1,0 +1,11 @@
+# Article 178
+
+1. Les empreintes produites par les machines à affranchir doivent être de couleur rouge vif, quelle que soit la valeur qu'elles représentent.
+
+2. Les timbres-poste et les empreintes des machines à affranchir utilisés par des particuliers possédant un permis de l'Administration postale du pays d'origine doivent porter, en caractères latins, l'indication du pays d'origine et mentionner leur valeur d'affranchissement d'après le Recueil des équivalents. L'indication du nombre d'unités ou de fractions de l'unité monétaire servant à exprimer cette valeur est faite en chiffres arabes. Les empreintes d'affranchissement utilisées par les Administrations elles-mêmes doivent porter les mêmes indications que celles des particuliers possédant un permis de l'Administration ou, en lieu et place, l'indication du pays d'origine et la mention « Taxe perçue », « Port payé » ou une expression analogue. Cette mention peut être libellée en français ou dans la langue du pays d'origine ; elle peut aussi revêtir une forme abrégée, par exemple « T.P. » ou « P.P. ».
+
+3. En ce qui concerne les envois affranchis au moyen d'empreintes obtenues à la presse d'imprimerie ou par un autre procédé d'impression ou de timbrage (art. 25 de la Convention), les indications du pays d'origine et de la valeur d'affranchissement peuvent être remplacées par le nom du bureau d'origine et la mention « Taxe perçue », « Port payé » ou une expression analogue. Cette mention peut être libellée en français ou dans la langue du pays d'origine ; elle peut aussi revêtir une forme abrégée, par exemple « T.P. » ou « P.P. ». Dans tous les cas, l'indication adoptée doit figurer, en lettres très apparentes, dans un cadre particulier nettement tracé, dont la surface ne doit pas être inférieure à 300 mm2.
+
+4. Les timbres-poste commémoratifs ou philanthropiques, pour lesquels une surtaxe est à payer indépendamment de la valeur d'affranchissement, doivent être confectionnés de façon à éviter tout doute au sujet de cette valeur.
+
+5. Les timbres-poste peuvent être distinctement marqués de perforations à l'emporte-pièce ou d'impressions en relief obtenues au moyen du repoussoir, selon les conditions fixées par l'Administration qui les a émis, pourvu que ces opérations ne nuisent pas à la clarté des indications prévues au paragraphe 2.
