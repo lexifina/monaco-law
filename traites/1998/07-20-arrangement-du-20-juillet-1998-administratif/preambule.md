@@ -1,4 +1,4 @@
-Conformément à l'article 13 de la convention sur la sécurité sociale modifiée conclue le 28 février 1952 entre la Principauté de Monaco et la France, les autorités administratives compétentes des États contractants représentées par :
+Conformément aux articles 11 § 1er c) et d) et 12 § 1er c) et d) de la convention sur la sécurité sociale modifiée conclue le 28 février 1952 entre la Principauté de Monaco et la France, les autorités administratives compétentes des États contractants représentées par :
 
 Du côté monégasque,
 
@@ -11,3 +11,5 @@ M. Jean-Louis Rey, Chef de la division des affaires européennes et internationa
 M. Louis Ranvier, chargé des questions internationales, Direction des exploitations, de la politique sociale et de l'emploi, Ministère de l'agriculture et de la pêche,
 
 ont arrêté d'un commun accord les dispositions suivantes :
+
+Fait à Paris, le 20 juillet 1998, en double exemplaire.

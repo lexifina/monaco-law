@@ -1,7 +1,3 @@
 # Article 7
 
-1. Le présent arrangement administratif particulier prend effet le même jour que celui de l'entrée en vigueur de l'avenant n° 5 à la convention.
-
-Il est conclu pour une durée indéterminée. Il est révisable ou résiliable à la demande d'une des deux Parties sous réserve d'un préavis minimum de trois mois.
-
-2. Le présent arrangement administratif particulier est appliqué provisoirement à compter du 1er octobre 1998.
+En cas de création de nouvelles disciplines médico-tarifaires dans un établissement, de modification des disciplines médico-tarifaires existantes, d'extension des activités des établissements existants par création de nouveaux services ou de création de nouveaux établissements, les Parties signataires se réuniront à la demande de l'une d'elles, et au plus tard dans les trois mois suivant la demande, pour déterminer d'un commun accord les adaptations nécessaires du présent arrangement administratif particulier.

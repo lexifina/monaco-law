@@ -1,8 +1,8 @@
-# Arrangement du 20 juillet 1998 administratif particulier concernant l'activité occasionnelle des professionnels de santé sur le territoire de l'autre partie contractante
+# Arrangement du 20 juillet 1998 administratif particulier concernant les modalités de remboursement des frais exposés dans les établissements de soins français et monégasques
 
-Version en vigueur au 22 juillet 2000.
+Version en vigueur au 10 novembre 2001.
 
-Source : Legimonaco, https://legimonaco.mc/tai/arrangement/1998/07-20-tai1l000749@2000.07.22/
+Source : Legimonaco, https://legimonaco.mc/tai/arrangement/1998/07-20-tai1l000748@2001.11.10/
 
 | | |
 | --- | --- |
