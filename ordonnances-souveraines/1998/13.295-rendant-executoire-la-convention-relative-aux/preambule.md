@@ -1,0 +1,3 @@
+Vu la Constitution du 17 décembre 1962 ;
+
+Nos instruments d'adhésion à la convention relative aux zones humides d'importance internationale particulièrement comme habitats des oiseaux d'eau (dite Convention Ramsar), faite à Ramsar (Iran) le 2 février 1971, et telle que modifiée par le protocole de Paris du 3 décembre 1982 et les amendements du 28 mai 1987 aux articles 6 et 7 de la convention, ayant été déposés le 20 août 1997 auprès de l'Office des normes internationales et des affaires juridiques de l'UNESCO, ladite convention recevra sa pleine et entière exécution à compter du 20 décembre 1997.

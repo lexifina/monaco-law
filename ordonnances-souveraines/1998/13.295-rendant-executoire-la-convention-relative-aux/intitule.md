@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.295 du 23 janvier 1998 rendant exécutoire la convention relative aux zones humides d'importance internationale particulièrement comme habitats des oiseaux d'eau (dite Convention Ramsar), faite à Ramsar (Iran) le 2 février 1971
