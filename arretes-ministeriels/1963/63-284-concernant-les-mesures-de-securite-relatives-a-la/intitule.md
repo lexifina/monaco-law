@@ -1,0 +1,1 @@
+Arrêté ministériel n° 63-284 du 21 novembre 1963 concernant les mesures de sécurité relatives à la construction, l'emploi et le contrôle des échelles en bois d'usage courant dans les professions du bâtiment et des travaux publics
