@@ -1,0 +1,3 @@
+# Article 2
+
+Le niveau de pression acoustique du bruit transmis dans les pièces principales (séjour, chambre à coucher), ainsi que dans les cuisines, salles d'eau, w.-c., ne doit pas dépasser 32 dB (A), lorsque le niveau de pression acoustique du bruit, régnant à l'intérieur des autres locaux du bâtiment, pris séparément, ne dépasse pas 80 dB si ce local est un logement, 85 dB si ce local est à usage commercial, artisanal ou industriel, 70 dB s'il s'agit d'une circulation commune intérieure au bâtiment. Ces limites sont supposées avoir un spectre continu couvrant les octaves centrées sur 125, 250, 500, 1 000, 2 000 et 4 000 hertz.
