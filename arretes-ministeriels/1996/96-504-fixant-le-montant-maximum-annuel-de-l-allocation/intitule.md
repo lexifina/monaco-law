@@ -1,0 +1,1 @@
+Arrêté ministériel n° 96-504 du 11 novembre 1996 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la caisse autonome des retraites au titre de l'exercice 1995-1996
