@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsque le corps d'une personne décédée sur le territoire français métropolitain doit être transporté sur le territoire de la Principauté de Monaco ou lorsque le corps d'une personne décédée sur le territoire de la Principauté de Monaco doit être transporté sur le territoire français métropolitain, l'autorisation de transport est respectivement donnée en France, par le maire de la commune où le décès a eu lieu - sous réserve d'en rendre compte dans les 24 heures au préfet compétent - ou par le préfet de police dans le ressort du département de la Seine et dans la Principauté de Monaco, par le ministre d'Etat.
