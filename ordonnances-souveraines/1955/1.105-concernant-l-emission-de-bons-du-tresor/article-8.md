@@ -1,0 +1,3 @@
+# Article 8
+
+Les émetteurs de bons doivent, avant la délivrance des bons aux souscripteurs, inscrire soit à la main, soit au moyen d'une griffe à l'encre grasse, la date d'émission des bons placés par leurs soins. Cette date doit comporter l'indication en toutes lettres du jour, du mois et du millésime de l'année ; elle doit être apposée sur le corps du bon et sur la souche en dehors du numéro des vignettes. En outre, au moment de la souscription, les émetteurs doivent revêtir les bons délivrés à leur caisse du cachet ou du sceau de leur établissement. Le cachet ou le sceau doit être apposé sur le titre lui-même et sur la souche, en ayant soin de laisser entièrement libre l'emplacement de la figure filigranée.
