@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 18 juin 1928 concernant l'addition de produits chimiques ou de matières colorantes, l'emballage des denrées alimentaires et les dispositions spéciales aux viandes, charcuteries, fruits, légumes, poissons et conserves alimentaires
