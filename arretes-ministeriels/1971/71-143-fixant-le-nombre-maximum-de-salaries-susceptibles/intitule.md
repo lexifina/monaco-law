@@ -1,0 +1,1 @@
+Arrêté ministériel n° 71-143 du 27 avril 1971 fixant le nombre maximum de salariés susceptibles de bénéficier au cours d'une année des congés non rémunérés prévus par la loi n° 898 du 15 décembre 1970
