@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 10 février 1884 promulguant la convention conclue le 5 septembre 1883 avec la Russie relativement à l'extradition des malfaiteurs
 
-Version en vigueur au 5 mars 1884.
+Version en vigueur au 9 février 1910.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1884/02-10-L000773@1884.03.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1884/02-10-L000773@1910.02.09/
 
 | | |
 | --- | --- |
