@@ -1,0 +1,1 @@
+Arrêté ministériel n° 92-688 du 25 novembre 1992 fixant le montant des indemnités à offrir aux propriétaires expropriés pour la réalisation des travaux de construction d'un tunnel ferroviaire, d'une gare souterraine et de deux galeries annexes
