@@ -10,6 +10,6 @@ S'il a été reconnu physiquement apte, le candidat doit, pour passer les épreu
 
 - deux photographies d'identité.
 
-Si le candidat est mineur sa demande doit être visée pour autorisation par le parent investi de la puissance paternelle ou le tuteur.
+Si le candidat est mineur sa demande doit être visée pour autorisation par le parent investi de l'autorité parentale ou le tuteur.
 
 Le mineur émancipé doit en produire la preuve qui sera annexée à la demande.
