@@ -1,0 +1,3 @@
+# Article 264
+
+Si les coupables sont les ascendants de la personne sur laquelle a été commis l'attentat, s'ils sont de la classe de ceux qui ont autorité sur elle, s'ils sont ses instituteurs ou ses serviteurs à gages, ou serviteurs à gages de personnes ci-dessus désignées, s'ils sont fonctionnaires ou ministres d'un culte ou si le coupable, quel qu'il soit a été aidé dans son crime par une ou plusieurs personnes, la peine sera la réclusion de dix à vingt ans dans les cas prévus aux articles 261 (1er alinéa) et 263 (1er alinéa) et du maximum de la réclusion à temps dans les cas prévus aux articles 262 (1er alinéa) et 263 (2e alinéa).

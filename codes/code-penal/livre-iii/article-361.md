@@ -1,0 +1,3 @@
+# Article 361
+
+Seront punis d'un emprisonnement de six mois à trois ans et de l'amende prévue au chiffre 3 de l'article 26, ceux qui, par des faits calomnieux ou faux propagés à dessein dans le public, par des sur-offres aux prix que demandaient les vendeurs eux-mêmes, par réunion ou coalition contre les principaux détenteurs d'une même marchandise ou denrée pour ne pas la vendre ou ne la vendre qu'à un certain prix ou qui, par des voies ou des moyens frauduleux quelconques, auront opéré ou tenté d'opérer la hausse ou la baisse du prix des denrées ou marchandises ou des effets publics ou privés au-dessus ou au-dessous des prix qu'auraient déterminés la libre concurrence.

@@ -1,0 +1,3 @@
+# Article 359
+
+Seront punis d'un emprisonnement de six jours à un mois et de l'amende prévue au chiffre 1 de l'article 26, ou de l'une de ces deux peines seulement, les employeurs, chefs de service, entrepreneurs ou les ouvriers et employés qui, de concert, auront prononcé des amendes autres que celles qui ont pour objet la discipline intérieure, des défenses, des interdictions ou proscriptions, soit de la part des employeurs, chefs de service ou entrepreneurs contre les ouvriers ou employés, soit de la part de ceux-ci contre les employeurs, chefs de service ou entrepreneurs, soit les uns contre les autres.
