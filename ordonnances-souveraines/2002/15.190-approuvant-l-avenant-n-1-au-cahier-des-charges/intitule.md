@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.190 du 17 janvier 2002 approuvant l'avenant n° 1 au cahier des charges pour la concession de transport de gaz combustible dans la Principauté de Monaco passé avec Gaz de France
