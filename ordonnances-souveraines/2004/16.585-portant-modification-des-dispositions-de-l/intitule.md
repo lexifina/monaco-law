@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.585 du 22 décembre 2004 portant modification des dispositions de l'article 10 de l'ordonnance n° 3.647 du 9 septembre 1966 concernant l'urbanisme, la construction et la voirie
