@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.277 du 2 avril 2004 rendant exécutoire la convention concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, faite à La Haye le 19 octobre 1996
