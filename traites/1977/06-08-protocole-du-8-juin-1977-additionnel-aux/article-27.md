@@ -1,5 +1,5 @@
 # Article 27
 
-- 1. Les aéronefs sanitaires d'une Partie au conflit resteront protégés pendant qu'ils survolent des zones terrestres ou maritimes dominées en fait par une Partie adverse, à condition d'avoir préalablement obtenu, pour de tels vols, l'accord de l'autorité compétente de cette Partie adverse.
+- 1. Après son entrée en vigueur, le présent Protocole sera transmis par le dépositaire au Secrétariat des Nations Unies aux fins d'enregistrement et de publication, conformément à l'article 102 de la Charte des Nations Unies.
 
-- 2. Un aéronef sanitaire qui survole une zone dominée en fait par une Partie adverse, en l'absence de l'accord prévu par le paragraphe 1 ou en contrevenant à un tel accord, par suite d'une erreur de navigation ou d'une situation d'urgence affectant la sécurité du vol, doit faire son possible pour se faire identifier et pour en informer la Partie adverse. Dès que la Partie adverse aura reconnu un tel aéronef sanitaire, elle devra faire tous les efforts raisonnables pour donner l'ordre d'atterrir ou d'amerrir visé à l'article 30, paragraphe 1, ou pour prendre d'autres mesures afin de sauvegarder les intérêts de cette Partie et pour donner à l'aéronef dans les deux cas le temps d'obtempérer, avant de recourir à une attaque.
+- 2. Le dépositaire informera également le Secrétariat des Nations Unies de toutes les ratifications et adhésions qu'il pourra recevoir au sujet du présent Protocole.

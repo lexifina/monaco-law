@@ -1,11 +1,5 @@
 # Article 2
 
-Aux fins du présent Protocole :
+- 1. Le présent Protocole s'applique sans aucune distinction de caractère défavorable fondée sur la race, la couleur, le sexe, la langue, la religion ou la croyance, les opinions politiques ou autres, l'origine nationale ou sociale, la fortune, la naissance ou une autre situation, ou tous autres critères analogues (ci-après appelés « distinction de caractère défavorable ») à toutes les personnes affectées par un conflit armé au sens de l'article premier.
 
-- a) Les expressions « Ire Convention », « Ie Conventionn » « IIe Convention » «t t » Convention 'n «entendent, respectivement, de la Convention de Genève pour l'amélioration du sort des blessés et des malades dans les forces armées en campagne, du 12 août 1949 ; de la Convention de Genève pour l'amélioration du sort des blessés, des malades et des naufragés des forces armées sur mer, du 12 août 1949 ; de la Convention de Genève relative au traitement des prisonniers de guerre, du 12 août 1949 ; de la Convention de Genève relative à la protection des personnes civiles en temps de guerre, du 12 août 1949 ; l'expressionion » Conventions ' s «ntend des quatre Conventions de Genève du 12 août 1949 pour la protection des victimes de la guerre ;
-
-- b) l'expression » règles du droit international applicable dans les conflits armés « s'entend des règles énoncées dans les accords internationaux auxquels participent les Parties au conflit ainsi que des principes et règles du droit international généralement reconnus qui sont applicables aux conflits armés ;
-
-- c) l'expression » Puissance protectrice « s'entend d'un État neutre ou d'un autre État non Partie au conflit qui, désigné par une Partie au conflit et accepté par la Partie adverse, est disposé à exercer les fonctions assignées à la Puissance protectrice aux termes des conventions et du présent Protocole ;
-
-- d) l'expression » substitut « s'entend d'une organisation qui remplace la Puissance protectrice conformément à l'article 5.
+- 2. À la fin du conflit armé, toutes les personnes qui auront été l'objet d'une privation ou d'une restriction de liberté pour des motifs en relation avec ce conflit, ainsi que celles qui seraient l'objet de telles mesures après le conflit pour les mêmes motifs, bénéficieront des dispositions des articles 5 et 6 jusqu'au terme de cette privation ou de cette restriction de liberté.

@@ -1,9 +1,5 @@
 # Article 1er
 
-- 1. Les Hautes Parties contractantes s'engagent à respecter et à faire respecter le présent Protocole en toutes circonstances.
+- 1. Le présent Protocole, qui développe et complète l'article 3 commun aux Conventions de Genève du 12 août 1949 sans modifier ses conditions d'application actuelles, s'applique à tous les conflits armés qui ne sont pas couverts par l'article premier du Protocole additionnel aux Conventions de Genève du 12 août 1949 relatif à la protection des victimes des conflits armés internationaux (Protocole I), et qui se déroulent sur le territoire d'une Haute Partie contractante entre ses forces armées et des forces armées dissidentes ou des groupes armés organisés qui, sous la conduite d'un commandement responsable, exercent sur une partie de son territoire un contrôle tel qu'il leur permette de mener des opérations militaires continues et concertées et d'appliquer le présent Protocole.
 
-- 2. Dans les cas non prévus par le présent Protocole ou par d'autres accords internationaux, les personnes civiles et les combattants restent sous la sauvegarde et sous l'empire des principes du droit des gens, tels qu'ils résultent des usages établis, des principes de l'humanité et des exigences de la conscience publique.
-
-- 3. Le présent Protocole, qui complète les Conventions de Genève du 12 août 1949 pour la protection des victimes de la guerre, s'applique dans les situations prévues par l'article 2 commun à ces Conventions.
-
-- 4. Dans les situations visées au paragraphe précédent sont compris les conflits armés dans lesquels les peuples luttent contre la domination coloniale et l'occupation étrangère et contre les régimes racistes dans l'exercice du droit des peuples à disposer d'eux-mêmes, consacré dans la Charte des Nations Unies et dans la Déclaration relative aux principes du droit international touchant les relations amicales et la coopération entre les États conformément à la Charte des Nations Unies.
+- 2. Le présent Protocole ne s'applique pas aux situations de tensions internes, de troubles intérieurs, comme les émeutes, les actes isolés et sporadiques de violence et autres actes analogues, qui ne sont pas considérés comme des conflits armés.

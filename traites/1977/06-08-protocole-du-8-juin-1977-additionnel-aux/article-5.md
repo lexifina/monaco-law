@@ -1,15 +1,29 @@
 # Article 5
 
-Il est du devoir des Parties à un conflit, dès le début de ce conflit, d'assurer le respect et la mise en œuvre des Conventions et du présent Protocole par l'application du système des Puissances protectrices, y compris notamment la désignation et l'acceptation de ces Puissances conformément aux paragraphes ci-après. Les Puissances protectrices seront chargées de sauvegarder les intérêts des Parties au conflit.
+- 1. Outre les dispositions de l'article 4, les dispositions suivantes seront au minimum respectées à l'égard des personnes privées de liberté pour des motifs en relation avec le conflit armé, qu'elles soient internées ou détenues :
 
-2. Dès le début d'une situation visée à l'article premier, chacune des Parties au conflit désignera sans délai une Puissance protectrice aux fins d'application des Conventions et du présent Protocole et autorisera, également sans délai et aux mêmes fins, l'activité d'une Puissance protectrice que la partie adverse aura désignée et qu'elle-même aura acceptée comme telle.
+  - a) les blessés et les malades seront traités conformément à l'article 7 ;
 
-3. Si une Puissance protectrice n'a pas été désignée ou acceptée dès le début d'une situation visée à l'article premier, le Comité international de la Croix-Rouge, sans préjudice du droit de toute autre organisation humanitaire impartiale de faire de même, offrira ses bons offices aux Parties au conflit en vue de la désignation sans délai d'une Puissance protectrice agréée par les Parties au conflit. À cet effet, il pourra notamment demander à chaque Partie de lui remettre une liste d'au moins cinq États que cette Partie estime acceptables pour agir en son nom en qualité de Puissance protectrice vis-à-vis d'une Partie adverse et demander à chacune des Parties adverses de remettre une liste d'au moins cinq États qu'elle accepterait comme Puissance protectrice dans l'autre Partie ; ces listes devront être communiquées au Comité dans les deux semaines qui suivront la réception de la demande ; il les comparera et sollicitera l'accord de tout État dont le nom figurera sur les deux listes.
+  - b) les personnes visées au présent paragraphe recevront dans la même mesure que la population civile locale des vivres et de l'eau potable et bénéficieront de garanties de salubrité et d'hygiène et d'une protection contre les rigueurs du climat et les dangers du conflit armé ;
 
-4. Si, en dépit de ce qui précède, il y a défaut de Puissance protectrice, les Parties au conflit devront accepter sans délai l'offre que pourrait faire le Comité international de la Croix-Rouge ou toute autre organisation présentant toutes garanties d'impartialité et d'efficacité, après dues consultations avec lesdites Parties et compte tenu des résultats de ces consultations, d'agir en qualité de substitut. L'exercice de ses fonctions par un tel substitut est subordonné au consentement des Parties au conflit ; les Parties au conflit mettront tout en œuvre pour faciliter la tâche du substitut dans l'accomplissement de sa mission conformément aux Conventions et au présent Protocole.
+  - c) elles seront autorisées à recevoir des secours individuels ou collectifs ;
 
-5. Conformément à l'article 4, la désignation et l'acceptation de Puissance protectrice aux fins d'application des conventions et du présent Protocole n'auront pas d'effet sur le statut juridique des Parties au conflit ni sur celui d'un territoire quelconque, y compris un territoire occupé.
+  - d) elles pourront pratiquer leur religion et recevoir à leur demande, si cela est approprié, une assistance spirituelle de personnes exerçant des fonctions religieuses, telles que les aumôniers ;
 
-6. Le maintien des relations diplomatiques entre les Parties au conflit ou le fait de confier à un État tiers la protection des intérêts d'une Partie et de ceux de ses ressortissants conformément aux règles du droit international concernant les relations diplomatiques ne fait pas obstacle à la désignation de Puissances protectrices aux fins d'application des Conventions et du présent Protocole.
+  - e) elles devront bénéficier, si elles doivent travailler, de conditions de travail et de garanties semblables à celles dont jouit la population civile locale.
 
-7. Toutes les fois qu'il est fait mention ci-après dans le présent Protocole de la Puissance protectrice, cette mention désigne également le substitut.
+- 2. Ceux qui sont responsables de l'internement ou de la détention des personnes visées au paragraphe 1 respecteront dans toute la mesure de leurs moyens les dispositions suivantes à l'égard de ces personnes :
+
+  - a) sauf lorsque les hommes et les femmes d'une même famille sont logés ensemble, les femmes seront gardées dans des locaux séparés de ceux des hommes et seront placées sous la surveillance immédiate de femmes ;
+
+  - b) les personnes visées au paragraphe 1 seront autorisées à expédier et à recevoir des lettres et des cartes dont le nombre pourra être limité par l'autorité compétente si elle l'estime nécessaire ;
+
+  - c) les lieux d'internement et de détention ne seront pas situés à proximité de la zone de combat. Les personnes visées au paragraphe 1 seront évacuées lorsque les lieux où elles sont internées ou détenues deviennent particulièrement exposés aux dangers résultant du conflit armé, si leur évacuation peut s'effectuer dans des conditions suffisantes de sécurité ;
+
+  - d) elles devront bénéficier d'examens médicaux ;
+
+  - e) leur santé et leur intégrité physiques ou mentales ne seront compromises par aucun acte ni par aucune omission injustifiés. En conséquence, il est interdit de soumettre les personnes visées au présent article à un acte médical qui ne serait pas motivé par leur état de santé et ne serait pas conforme aux normes médicales généralement reconnues et appliquées dans des circonstances médicales analogues aux personnes jouissant de leur liberté.
+
+- 3. Les personnes qui ne sont pas couvertes par le paragraphe 1 mais dont la liberté est limitée de quelque façon que ce soit, pour des motifs en relation avec le conflit armé, seront traitées avec humanité conformément à l'article 4 et aux paragraphes 1 a, c, d et 2 b du présent article.
+
+- 4. S'il est décidé de libérer des personnes privées de liberté, les mesures nécessaires pour assurer la sécurité de ces personnes seront prises par ceux qui décideront de les libérer.

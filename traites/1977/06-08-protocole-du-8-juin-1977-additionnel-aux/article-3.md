@@ -1,7 +1,5 @@
 # Article 3
 
-Sans préjudice des dispositions applicables en tout temps :
+- 1. Aucune disposition du présent Protocole ne sera invoquée en vue de porter atteinte à la souveraineté d'un État ou à la responsabilité du gouvernement de maintenir ou de rétablir l'ordre public dans l'État ou de défendre l'unité nationale et l'intégrité territoriale de l'État par tous les moyens légitimes.
 
-- a) les Conventions et le présent Protocole s'appliquent dès le début de toute situation visé à l'article premier du présent Protocole ;
-
-- b) l'application des Conventions et du présent Protocole, cesse, sur le territoire des Parties au conflit, à la fin générale des opérations militaires et, dans le cas des territoires occupés, à la fin de l'occupation, sauf, dans les deux cas, pour les catégories de personnes dont la libération définitive, le rapatriement ou l'établissement ont lieu ultérieurement. Ces personnes continuent à bénéficier des dispositions pertinentes des Conventions et du présent Protocole jusqu'à leur libération définitive, leur rapatriement ou leur établissement.
+- 2. Aucune disposition du présent Protocole ne sera invoquée comme une justification d'une intervention directe ou indirecte, pour quelque raison que ce soit, dans le conflit armé ou dans les affaires intérieures ou extérieures de la Haute Partie contractante sur le territoire de laquelle ce conflit se produit.

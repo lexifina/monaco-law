@@ -1,3 +1,3 @@
 # Article 20
 
-Les représailles contre les personnes et les biens protégés par le présent Titre sont interdites.
+Le présent Protocole sera ouvert à la signature des Parties aux Conventions six mois après la signature de l'Acte final et restera ouvert durant une période de douze mois.

@@ -1,8 +1,8 @@
-# Protocole du 8 juin 1977 additionnel aux conventions de Genève du 12 août 1949 relatif à la protection des victimes des conflits armés internationaux
+# Protocole du 8 juin 1977 additionnel aux conventions de Genève du 12 août 1949 relatif à la protection des victimes des conflits armés non internationaux
 
 Version en vigueur au 22 juillet 2000.
 
-Source : Legimonaco, https://legimonaco.mc/tai/protocole/1977/06-08-tai1l000216@2000.07.22/
+Source : Legimonaco, https://legimonaco.mc/tai/protocole/1977/06-08-tai2l000216@2000.07.22/
 
 | | |
 | --- | --- |

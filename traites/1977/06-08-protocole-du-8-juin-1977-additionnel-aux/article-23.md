@@ -1,13 +1,5 @@
 # Article 23
 
-- 1. Les navires et embarcations sanitaires autres que ceux qui sont visés à l'article 22 du présent Protocole et à l'article 38 de la IIe Convention doivent, que ce soit en mer ou en d'autres eaux, être respectés et protégés de la manière prévue pour les unités sanitaires mobiles par les Conventions et le présent Protocole. La protection de ces bateaux ne pouvant être efficace que s'ils peuvent être identifiés et reconnus comme des navires ou embarcations sanitaires, ils devraient être marqués du signe distinctif et se conformer, dans la mesure du possible, aux dispositions de l'article 43, deuxième alinéa, de la IIe Convention.
+- 1. Le présent Protocole entrera en vigueur six mois après le dépôt de deux instruments de ratification ou d'adhésion.
 
-- 2. Les navires et embarcations visés au paragraphe 1 restent soumis au droit de la guerre. L'ordre de stopper, de s'éloigner ou de prendre une route déterminée pourra leur être donné par tout navire de guerre naviguant en surface qui est en mesure de faire exécuter cet ordre immédiatement et ils devront obéir à tout ordre de cette nature. Ils ne peuvent pas être détournés de leur mission sanitaire d'une autre manière aussi longtemps qu'ils seront nécessaires pour les blessés, les malades et les naufragés se trouvant à leur bord.
-
-- 3. La protection prévue au paragraphe 1 ne cessera que dans les conditions énoncées aux articles 34 et 35 de la IIe Convention. Un refus net d'obéir à un ordre donné conformément au paragraphe 2 constitue un acte nuisible à l'ennemi au sens de l'article 34 de la IIe Convention.
-
-- 4. Une Partie au conflit pourra notifier à une Partie adverse, aussitôt que possible avant le départ, le nom, les caractéristiques, l'heure de départ prévue, la route et la vitesse estimée du navire ou de l'embarcation sanitaires, en particulier s'il s'agit de navires de plus de 2 000 tonnes brutes, et pourra communiquer tous autres renseignements qui faciliteraient l'identification et la reconnaissance. La Partie adverse doit accuser réception de ces renseignements.
-
-- 5. Les dispositions de l'article 37 de la IIe Convention s'appliquent au personnel sanitaire et religieux se trouvant à bord de ces navires et embarcations.
-
-- 6. Les dispositions pertinentes de la IIe Convention s'appliquent aux blessés, aux malades et aux naufragés appartenant aux catégories visées à l'article 13 de la IIe Convention et à l'article 44 du présent Protocole qui se trouvent à bord de ces navires et embarcations sanitaires. Les personnes civiles blessées, malades et naufragées qui n'appartiennent à aucune des catégories mentionnées à l'article 13 de la IIe Convention ne doivent, si elles sont en mer, ni être remises à une Partie qui n'est pas la leur, ni être obligées à quitter le navire ; si, néanmoins, elles se trouvent au pouvoir d'une Partie au conflit qui n'est pas la leur, la IVe Convention et le Présent Protocole leur sont applicables.
+- 2. Pour chacune des Parties aux Conventions qui le ratifiera ou y adhérera ultérieurement, le présent Protocole entrera en vigueur six mois après le dépôt par cette Partie de son instrument de ratification ou d'adhésion.
