@@ -1,0 +1,1 @@
+Arrêté municipal n° 86-3 du 15 janvier 1986 concernant les conditions d'hygiène relatives à la préparation, la conservation, la distribution et la vente de plats cuisinés à l'avance ou contenant des préparations cuisinées à l'avance
