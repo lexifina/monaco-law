@@ -1,8 +1,8 @@
 # Convention du 15 mai 1954 pour la création de l'Union Latine
 
-Version en vigueur au 11 août 1984.
+Version en vigueur au 22 juillet 2000.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/1954/05-15-tai1l000796@1984.08.11/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/1954/05-15-tai1l000796@2000.07.22/
 
 | | |
 | --- | --- |

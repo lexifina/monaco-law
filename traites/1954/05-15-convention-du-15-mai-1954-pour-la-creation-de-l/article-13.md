@@ -1,15 +1,17 @@
 # Article 13
 
-1) Le conseil exécutif se compose de 10 États membres élus pour quatre ans.
+1) Le Conseil Exécutif se compose de douze États membres de l'Union Latine élus pour quatre ans.
 
-2) Le conseil exécutif est renouvelable par moitié tous les deux ans.
+2) Le Conseil Exécutif est renouvelable par moitié tous les deux ans.
 
-3) Le congrès élit les pays qui doivent faire partie du conseil exécutif, en respectant la proportion de quatre pays européens et de six pays américains, et en procédant dans la mesure du possible à une répartition géographique équitable.
+3) Sur proposition du Conseil, le Congrès peut modifier le nombre des membres du Conseil prévu au paragraphe 1, si une modification substantielle du nombre des États membres de l'Union Latine est constatée.
 
-4) Les pays membres du conseil exécutif sont rééligibles.
+4) Le Congrès élit les pays qui doivent faire partie du Conseil Exécutif, en respectant dans la mesure du possible, une répartition géographique et linguistique équitable.
 
-5) Il appartient aux pays élus de désigner leurs représentants au conseil.
+5) Les États membres du Conseil Exécutif sont rééligibles.
 
-6) Le conseil procède tous les deux ans par roulement entre ses membres à l'élection d'un président dont la voix sera décisive en cas de partage égal des voix.
+6) Il appartient aux pays élus de désigner leurs représentants au Conseil.
 
-7) Les fonctions de secrétaire général du conseil sont assumées par le secrétaire général de l'Union.
+7) Le Conseil procède tous les deux ans par roulement entre ses membres à l'élection d'un Président, dont la voix sera décisive en cas de partage égal des voix.
+
+8) Les fonctions de Secrétaire Général du Conseil sont assumées par le Secrétaire Général de l'Union Latine.
