@@ -1,0 +1,1 @@
+Arrêté ministériel n° 62-187 du 25 mai 1962 fixant les conditions de constitution et les règles de fonctionnement de la commission de tarification prévue à l'article 19 de l'ordonnance n° 2.617 du 23 août 1961
