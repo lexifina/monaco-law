@@ -1,0 +1,3 @@
+Vu l'article 21 de l'ordonnance constitutionnelle du 5 novembre 1911 modifiée par l'ordonnance du 18 novembre 1917 ;
+
+Une Convention Universelle sur le droit d'auteur et deux Protocoles annexes n. 1 et 2 à ladite Convention ayant été signés, à Genève, le 6 septembre 1952, par Notre Plénipotentiaire et l'Instrument de Notre Ratification à cette Convention et à ces Protocoles ayant été déposés, le 16 juin 1955, la Convention-Universelle sur le Droit d'Auteur et les Protocoles annexes n. 1 et 2, dont la teneur suit, recevront leur pleine et entière exécution à la date du 16 septembre 1955, soit trois mois après la date susvisée du dépôt de Notre Instrument de Ratification.
