@@ -1,0 +1,9 @@
+# Article 11
+
+- 1. L'Organisation peut coopérer avec d'autres organisations et institutions intergouvernementales spécialisées, dont les tâches et activités sont en harmonie avec les siennes. À cet effet, le Directeur général peut, sous la haute autorité du Conseil exécutif, établir des relations effectives avec ces organisations et institutions et constituer les commissions mixtes jugées nécessaires pour assurer une coopération efficace. Tout accord passé avec ces organisations ou institutions spécialisées sera soumis à l'approbation du Conseil exécutif.
+
+- 2. Toutes les fois que la Conférence générale et les autorités compétentes de toute autre organisation ou institution intergouvernementale spécialisée poursuivant des activités et des objectifs analogues, jugeront souhaitable de transférer à l'Organisation les ressources et fonctions de ladite organisation ou institution, le Directeur général pourra, sous réserve de l'approbation de la Conférence, conclure, à la satisfaction des deux parties, les accords nécessaires.
+
+- 3. L'Organisation peut, d'un commun accord avec d'autres organisations intergouvernementales, prendre des dispositions appropriées pour s'assurer une représentation à leurs réunions respectives.
+
+- 4. L'Organisation des Nations Unies pour l'Éducation, la Science et la Culture peut prendre toutes dispositions utiles pour faciliter les consultations et assurer la coopération avec les organisations internationales privées s'occupant de questions qui entrent dans son domaine. Elle peut les inviter à entreprendre certaines tâches déterminées rentrant dans leur compétence. Cette coopération peut également prendre la forme d'une participation appropriée de représentants desdites organisations aux travaux de comités consultatifs créés par la Conférence générale.
