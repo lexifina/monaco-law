@@ -1,0 +1,1 @@
+Accord intervenu sous forme d'échange de lettres le 18 juillet 1977, entre le gouvernement de S.A.S. le Prince de Monaco et le gouvernement de la République française relatif à l'institution d'une taxe forfaitaire de 4 % sur les ventes de métaux précieux
