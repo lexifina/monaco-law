@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.617 du 12 janvier 2005 fixant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
