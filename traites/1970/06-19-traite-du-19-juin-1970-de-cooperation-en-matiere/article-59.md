@@ -1,0 +1,3 @@
+# Article 59
+
+Sous réserve de l'article 64.5, tout différend entre deux ou plusieurs états contractants concernant l'interprétation ou l'application du présent Traité et du règlement d'exécution qui ne sera pas réglé par voie de négociation peut être porté par l'un quelconque des états en cause devant la Cour internationale de Justice par voie de requête conforme au statut de la Cour, à moins que les états en cause ne conviennent d'un autre mode de règlement. Le bureau international sera informé par l'état contractant requérant du différend soumis à la Cour et en donnera connaissance aux autres états contractants.
