@@ -1,0 +1,1 @@
+Loi n° 911 du 18 juin 1971 modifiant en ce qui concerne les rapports judiciaires entre Monégasques et étrangers, l'article 3, chiffre 2° du Code de procédure civile, créant un article 5 bis dans ledit code et abrogeant les articles 14 à 16 du Code civil
