@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2005-62 du 19 janvier 2005 modifiant l'arrêté ministériel n° 97-216 en date du 23 avril 1997 relatif à certains tests de dépistage effectués sur des prélèvements de sang ou de composants de sang
