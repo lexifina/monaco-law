@@ -1,0 +1,3 @@
+# Article 9
+
+En cas de situation critique ayant un caractère exceptionnel, si une Partie estime que des déchets ou autres matières figurant à l'Annexe I du présent Protocole ne peuvent être éliminés à terre sans risque ou préjudice inacceptable, notamment pour la sécurité de la vie de l'homme, elle consultera immédiatement l'Organisation. L'Organisation, après consultation des Parties au présent Protocole, recommandera des méthodes de stockage ou les moyens de destruction ou d'élimination les plus satisfaisants selon les circonstances. La Partie informera l'Organisation des mesures adoptées en application de ces recommandations. Les Parties s'engagent à se prêter mutuellement assistance dans de telles situations.
