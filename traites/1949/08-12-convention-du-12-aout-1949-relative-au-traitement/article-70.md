@@ -1,0 +1,3 @@
+# Article 70
+
+Chaque prisonnier de guerre sera mis en mesure, dès qu'il aura été fait prisonnier ou, au plus tard une semaine après son arrivée dans un camp, même s'il s'agit d'un camp de transit, et de même en cas de maladie ou de transfert dans un lazaret ou dans un autre camp, d'adresser directement à sa famille, d'une part, et à l'Agence centrale des prisonniers de guerre prévue à l'article 123, d'autre part, une carte établie si possible selon le modèle annexé à la présente Convention, les informant de sa captivité, de son adresse et de son état de santé. Lesdites cartes seront transmises avec toute la rapidité possible et ne pourront être retardées d'aucune manière.

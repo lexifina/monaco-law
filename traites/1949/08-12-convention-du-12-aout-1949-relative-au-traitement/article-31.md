@@ -1,0 +1,3 @@
+# Article 31
+
+Des inspections médicales des prisonniers de guerre seront faites au moins une fois par mois. Elles comprendront le contrôle et l'enregistrement du poids de chaque prisonnier. Elles auront pour objet, en particulier, le contrôle de l'état général de santé et de nutrition, de l'état de propreté ainsi que le dépistage des maladies contagieuses, notamment de la tuberculose, du paludisme et des affections vénériennes. À cet effet, les méthodes les plus efficaces disponibles seront employées, par exemple la radiographie périodique en série sur microfilm pour la détection de la tuberculose dès ses débuts.

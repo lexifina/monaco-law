@@ -1,0 +1,5 @@
+# Article 11
+
+Dans tous les cas où elles le jugeront utile dans l'intérêt des personnes protégées, notamment en cas de désaccord entre les Parties au conflit sur l'application ou l'interprétation des dispositions de la présente Convention, les Puissances protectrices prêteront leurs bons offices aux fins de règlement du différend.
+
+À cet effet, chacune des Puissances protectrices pourra, sur l'invitation d'une Partie ou spontanément, proposer aux Parties au conflit une réunion de leurs représentants et, en particulier, des autorités chargées du sort des prisonniers de guerre, éventuellement sur un territoire neutre convenablement choisi. Les Parties au conflit seront tenues de donner suite aux propositions qui leur seront faites dans ce sens. Les Puissances protectrices pourront, le cas échéant, proposer à l'agrément des Parties au conflit une personnalité appartenant à une puissance neutre, ou une personnalité déléguée par le Comité international de la Croix-Rouge, qui sera appelée à participer à cette réunion.

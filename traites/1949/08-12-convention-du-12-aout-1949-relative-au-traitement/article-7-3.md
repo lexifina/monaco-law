@@ -1,0 +1,3 @@
+# Article 7 (3)
+
+Dans le cas d'envois collectifs de vêtements, chaque prisonnier de guerre conservera la propriété d'un jeu complet d'effets au moins. Si un prisonnier possède plus d'un jeu de vêtements, l'homme de confiance sera autorisé à retirer à ceux qui sont le mieux partagés les effets en excédent ou certains articles en nombre supérieur à l'unité s'il est nécessaire de procéder ainsi pour satisfaire aux besoins des prisonniers moins bien pourvus. Il ne pourra pas toutefois retirer un second jeu de sous-vêtements, de chaussettes, ou de chaussures, à moins qu'il n'y ait pas d'autre moyen d'en fournir à un prisonnier de guerre qui n'en possède pas.

@@ -1,0 +1,3 @@
+# Article 32
+
+Les prisonniers de guerre qui, sans avoir été attachés au Service de santé de leurs forces armées, sont médecins, dentistes, infirmiers ou infirmières, pourront être requis par la Puissance détentrice d'exercer leurs fonctions médicales dans l'intérêt des prisonniers de guerre dépendant de la même Puissance qu'eux-mêmes. Dans ce cas, ils continueront à être prisonniers de guerre, mais ils devront cependant être traités de la même manière que les membres correspondants du personnel médical retenus par la Puissance détentrice. Ils seront exemptés de tout autre travail qui pourrait leur être imposé aux termes de l'article 49.
