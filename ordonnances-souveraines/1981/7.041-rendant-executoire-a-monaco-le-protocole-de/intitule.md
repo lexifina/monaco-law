@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 7.041 du 18 mars 1981 rendant exécutoire à Monaco le Protocole de Genève du 29 août 1975 relatif à l'Arrangement de La Haye concernant le dépôt international des dessins et modèles industriels du 6 novembre 1925
