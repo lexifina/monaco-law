@@ -1,0 +1,3 @@
+# Article 3
+
+Les diplômes, titres ou certificats délivrés par un État membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, ainsi que les diplômes, titres ou certificats délivrés par un État tiers à la Communauté européenne ou non partie à l'accord sur l'Espace économique européen, admis en équivalence par le ministre d'État à l'un des diplômes, titres ou certificats mentionnés aux articles premier et 2 du présent arrêté, attestent qualification des personnes titulaires de ces diplômes, titres ou certificats pour exercer respectivement les activités mentionnées aux articles premier et 2 ci-dessus.

@@ -1,0 +1,3 @@
+# Article 2
+
+Attestent de connaissance scientifiques suffisantes pour faire de l'information par démarchage ou de la prospection pour des médicaments, les autorisations d'exercice de la profession de pédicure-podologue, de masseur-kinésithérapeute, d'orthophoniste, d'orthoptiste, d'ergothérapeute, de psychomotricien, d'audioprothésiste, de manipulateur d'électroradiologie médicale ou de technicien de laboratoire d'analyses de biologie médicale délivrées aux personnes qui ne possèdent pas l'un des diplômes mentionnés à l'article premier du présent arrêté mais qui sont titulaires d'un diplôme, titre ou certificat permettant l'exercice des professions précitées.
