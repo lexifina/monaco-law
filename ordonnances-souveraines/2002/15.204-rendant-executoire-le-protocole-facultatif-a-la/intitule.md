@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 15.204 du 23 janvier 2002 rendant exécutoire le protocole facultatif à la Convention relative aux droits de l'enfant, concernant l'implication d'enfants dans les conflits armés, fait à New York le 25 mai 2000
