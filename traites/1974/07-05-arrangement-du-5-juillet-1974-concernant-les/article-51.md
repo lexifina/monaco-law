@@ -1,0 +1,3 @@
+# Article 51
+
+Lorsque, pour des raisons de force majeure ou à cause d'un autre événement imprévisible, une Administration est contrainte d'utiliser, pour le transport de ses propres colis, une nouvelle voie d'acheminement qui occasionne des frais supplémentaires de transport territorial ou maritime, elle est tenue d'en informer immédiatement, par la voie télégraphique, toutes les Administrations dont les dépêches de colis ou les colis à découvert sont acheminés en transit par son pays. À partir du cinquième jour suivant le jour de l'expédition de cette information, l'Administration intermédiaire est autorisée à mettre en compte à l'Administration d'origine les quotes-parts territoriales et maritimes qui correspondent au nouveau parcours.
