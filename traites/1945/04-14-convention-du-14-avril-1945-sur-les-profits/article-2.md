@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'application des dispositions de l'article précédent, toute personne physique ou morale des catégories définies aux alinéas a) et b) de l'article 1er de la convention sur la répression des fraudes fiscales et le renforcement de l'assistance administrative mutuelle signée en date de ce jour. sera tenue d'effectuer, avant le 1er juillet 1945, la déclaration prévue au 4° alinéa dudit article 1er. Cette déclaration comportera les indications et sera soumise aux sanctions édictées par cet article. Elle s'appliquera aux opérations réalisées pendant la période prévue à l'article 1er de l'ordonnance française du 18 octobre 1944 modifiée le 6 janvier 1945, relative à la confiscation des profits illicites.

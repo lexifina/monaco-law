@@ -1,0 +1,3 @@
+# Article 3
+
+L'administration monégasque (direction des services fiscaux) prêtera, s'il y a lieu, son concours à l'administration française, tant pour le recouvrement de cette créance que pour l'institution préalable, en Principauté, au profit du Trésor français, de toutes mesures conservatoires qui paraîtraient opportunes, notamment la mise sous séquestre : elle agira, sur ces deux derniers points, dans les cadres des dispositions prévues en France, par la réglementation relative à la confiscation des profits illicites. Pour la gestion des biens sous séquestre, seront appliquées les règles posées par les articles 3, 4, 5 et 7 de l'accord franco-monégasque du 24 octobre 1944.
