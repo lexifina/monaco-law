@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 14.846 du 17 avril 2001 portant modification de l'article 2 de l'ordonnance n° 8.001 du 9 mai 1984, modifiée, portant classification des postes diplomatiques et consulaires à l'étranger
