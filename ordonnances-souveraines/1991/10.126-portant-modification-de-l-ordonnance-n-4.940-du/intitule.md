@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.126 du 3 mai 1991 portant modification de l'ordonnance n° 4.940 du 20 juin 1972 modifiant les limites du quartier de la Colle et portant règlement d'urbanisme de construction et de voirie dudit quartier
