@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.440 du 20 septembre 2004 rendant exécutoires les Amendements à la Convention de Barcelone pour la protection de la mer Méditerranée contre la pollution, faits à Barcelone (Espagne) le 10 juin 1995
