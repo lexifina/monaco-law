@@ -1,0 +1,1 @@
+Arrêté ministériel n° 58-302 du 23 septembre 1958 fixant les coefficients de correction pour le calcul du montant minimum du chiffre d'affaires pris en compte pour la liquidation du droit à la retraite uniforme des travailleurs indépendants
