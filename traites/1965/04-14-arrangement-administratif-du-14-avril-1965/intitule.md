@@ -1,0 +1,1 @@
+Arrangement administratif du 14 avril 1965 modifiant et complétant l'arrangement administratif du 5 novembre 1954 relatif aux modalités d'application de la convention entre la France et la Principauté de Monaco sur la sécurité sociale du 28 février 1952
