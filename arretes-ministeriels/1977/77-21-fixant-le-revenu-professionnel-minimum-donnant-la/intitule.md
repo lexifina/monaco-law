@@ -1,0 +1,1 @@
+Arrêté ministériel n° 77-21 du 21 janvier 1977 fixant le revenu professionnel minimum donnant la faculté de choisir la classe la moins élevée de cotisation à la caisse autonome des retraites des travailleurs indépendants
