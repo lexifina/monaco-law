@@ -1,0 +1,1 @@
+Accord international du 22 novembre 1950 pour l'importation d'objets de caractère éducatif, scientifique ou culturel adopté à Genève au mois de juillet 1950 par la Conférence générale de l'Organisation des Nations Unies
