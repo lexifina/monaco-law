@@ -1,0 +1,3 @@
+# Article 78
+
+Tout véhicule automobile ou tout ensemble de véhicules dont la longueur excède 6 mètres ou dont la largeur, chargement compris, excède 2,10 mètres doit être muni à l'avant de deux feux, émettant vers l'avant, lorsqu'ils sont allumés, une lumière blanche ou jaune non éblouissante et à l'arrière, de deux feux émettant vers l'arrière, lorsqu'ils sont allumés, une lumière rouge non éblouissante ; ces feux doivent être situés de part et d'autre, aux extrémités de la largeur hors tout du véhicule. Sous cette condition, ils peuvent être confondus, à l'avant, avec les feux de position, à l'arrière, avec les feux rouges arrière.
