@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.712 du 20 décembre 1961 rendant exécutoire l'avenant du 5 juillet 1961 à la convention du 28 février 1952 entre la Principauté de Monaco et la France sur la sécurité sociale
