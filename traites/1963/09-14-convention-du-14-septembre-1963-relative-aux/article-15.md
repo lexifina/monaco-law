@@ -1,0 +1,5 @@
+# Article 15
+
+1. Sous réserve des dispositions de l'article précédent, toute personne qui a été débarquée conformément aux dispositions de l'article 8, paragraphe 1, ou qui a été remise conformément aux dispositions de l'article 9, paragraphe 1, ou qui a débarqué après avoir accompli un acte visé à l'article 11, paragraphe 1, et qui désire poursuivre son voyage peut le faire aussitôt que possible vers la destination de son choix à moins que sa présence ne soit requise selon la loi de l'État d'atterrissage, aux fins de poursuites pénales et d'extradition.
+
+2. Sous réserve de ses lois relatives à l'entrée et à l'admission, à l'extradition et au refoulement des personnes, tout État contractant dans le territoire duquel une personne a été débarquée conformément aux dispositions de l'article 8, paragraphe 1, ou remise conformément aux dispositions de l'article 9, paragraphe 1, ou qui a débarqué et à laquelle est imputé un acte visé à l'article 11, paragraphe 1, accorde à cette personne un traitement qui, en ce qui concerne sa protection et sa sécurité, n'est pas moins favorable que celui qu'il accorde à ses nationaux dans des cas analogues.

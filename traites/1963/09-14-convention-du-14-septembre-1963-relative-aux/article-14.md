@@ -1,0 +1,5 @@
+# Article 14
+
+1. Si une personne qui a été débarquée conformément aux dispositions de l'article 8, paragraphe 1, ou qui a été remise conformément aux dispositions de l'article 9, paragraphe 1, ou qui a débarqué après avoir accompli un acte visé à l'article 11, paragraphe 1, ne peut ou ne veut pas poursuivre son voyage, l'État d'atterrissage, s'il refuse d'admettre cette personne et que celle-ci n'ait pas la nationalité dudit État ou n'y ait pas établi sa résidence permanente, peut la refouler vers l'État dont elle a la nationalité ou dans lequel elle a établi sa résidence permanente, ou vers l'État sur le territoire duquel elle a commencé son voyage aérien.
+
+2. Ni le débarquement, ni la remise, ni la détention, ni d'autres mesures, visées à l'article 13, paragraphe 2, ni le renvoi de la personne intéressée ne sont considérés comme valant entrée sur le territoire d'un État contractant, au regard des lois de cet État relatives à l'entrée ou à l'admission des personnes. Les dispositions de la présente convention ne peuvent affecter les lois des États contractants relatives au refoulement des personnes.
