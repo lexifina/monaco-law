@@ -1,0 +1,1 @@
+Une convention pour la protection des oiseaux utiles à l'agriculture ayant été signée à Paris, le 19 mars 1902, entre Notre plénipotentiaire et ceux des puissances ci-après dénommées, et les ratifications de cet acte ayant été échangées à Paris, le 6 décembre 1905, ladite convention, dont la teneur suit, recevra sa pleine et entière exécution.
