@@ -2,7 +2,7 @@
 
 Le territoire de la Principauté est divisé en trois secteurs :
 
-- A - Le secteur réservé, dont le caractère actuel doit être conservé, qui comprend le Quartier de Monaco-Ville et le Ravin de Sainte-Dévote.
+- A - Le secteur réservé,dont le caractère actuel doit être conservé, qui comprend le Quartier de Monaco-Ville et le Ravin de Sainte-Dévote.
 
 - B -Le secteur des quartiers ordonnancésqui comprend les quartiers suivants, dont la destination ou le caractère justifie des dispositions particulières et qui sont soumis à des plans de coordination et dont le périmètre est délimité en annexe à la présente ordonnance (annexe n° 3) :
 

@@ -1,19 +1,19 @@
 # Article 10
 
-Une ampliation de l'arrêté d'autorisation doit être affichée au ministère d'État pendant une durée de deux mois.
+Une ampliation de l'arrêté d'autorisation doit être affichée au Ministère d'État pendant une durée de deux mois.
 
-Mention de la délivrance de l'autorisation doit être affichée sur le terrain ou aux entrées du chantier par les soins du permissionnaire dès l'ouverture du chantier et pendant toute la durée de ce dernier.
+Mention de l'autorisation doit être affichée sur le terrain ou aux entrées du chantier, du bâtiment ou du local par les soins du permissionnaire dès notification de la décision d'octroi et pendant toute la durée des travaux. Cette mention doit comporter le nom du permissionnaire, la date et le numéro de l'autorisation ainsi que la nature des travaux.
 
-Il en est de même de l'attestation délivrée dans les conditions prévues à l'alinéa 3 de l'article 9 ci-dessus.
+Il en est de même de l'attestation délivrée dans les conditions prévues par l'alinéa 3 de l'article 9 ci-dessus.
 
-L'accomplissement de cette formalité sera constaté par procès-verbal par les soins du service de l'urbanisme et de la construction à la demande du permissionnaire ou d'office.
+L'accomplissement de cette formalité est constaté par huissier à la demande du permissionnaire, et une copie dudit constat doit être adressée à la direction de l'Environnement, de l'Urbanisme et de la Construction.
 
-Pendant un délai de un an et un mois à dater de l'affichage au ministère d'État, le ministre d'État autorise toute personne justifiant d'un intérêt qui lui en aura présenté la demande, à consulter au service de l'urbanisme et de la construction les pièces suivantes du dossier :
+Pendant un délai de un an et un mois à dater de l'affichage ou du dernier des deux affichages, le Ministre d'État autorise toute personne justifiant d'un intérêt qui lui en aura présenté la demande, à consulter à la direction de l'Environnement, de l'Urbanisme et de la Construction les pièces suivantes du dossier :
 
-- 1. - Arrêté d'autorisation,
+- 1. - autorisation,
 
-- 2. - Devis descriptif,
+- 2. - devis descriptif,
 
-- 3. - Plans d'exécution des travaux,
+- 3. - plans d'exécution des travaux,
 
-- 4. - Plans de propriété.
+- 4. - plans de propriété.
