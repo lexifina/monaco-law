@@ -1,0 +1,3 @@
+# Article 1er
+
+En application du second alinéa de l'article 33 de la Constitution, du dernier alinéa de l'article premier de la Loi n° 124 du 15 janvier 1930 et de l'article 7 de la Loi n° 125 portant la même date, est prononcée la désaffectation au quartier de « La Gare », de parcelles de terrain du domaine public de l'État en nature de bâtiments affectés à l'usage d'habitation ou de services publics, d'une superficie approximative de mille deux cent cinquante-sept, cinquante (1.257,50) mètres carrés, ces parcelles étant désignées sous la lettre « A » au plan, ci-annexé, coté DE-A8-1-2939-C, dressé le 29 juin 1972.
