@@ -1,0 +1,3 @@
+# Article 2
+
+Il ne pourra être dérogé aux dispositions du règlement ci-annexé, que dans le cas où, par suite des conditions locales ou de circonstances exceptionnelles, ces dispositions ne pourraient raisonnablement être mises en application et, notamment, dans les cas où cette application risquerait de mettre en danger la navigation ou entraînerait des dépenses hors de proportion avec le trafic intéressé. Ces dérogations devront, d'ailleurs, être aussi limitées que le permettront les exigences de la situation auxquelles elles seraient destinées à faire face. Les navigateurs devront être dûment informés de ces dérogations. Toutes mesures devraient, autant que possible, être prises pour éviter dans ces cas toute confusion avec les autres signaux prévus au règlement.
