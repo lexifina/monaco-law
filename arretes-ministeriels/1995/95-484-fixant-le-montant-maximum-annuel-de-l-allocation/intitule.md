@@ -1,0 +1,1 @@
+Arrêté ministériel n° 95-484 du 9 novembre 1995 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la caisse autonome des retraites au titre de l'exercice 1994-1995
