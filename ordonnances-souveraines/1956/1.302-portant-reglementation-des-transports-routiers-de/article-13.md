@@ -1,0 +1,3 @@
+# Article 13
+
+Les entreprises françaises dûment autorisées à assurer des transports franco-monégasques exercent leur activité sur le territoire de la Principauté dans le cadre de leur autorisation : elles doivent se plier aux mesures de contrôle prescrites par la réglementation monégasque et déférer aux ordres des agents chargés de l'exercice de ce contrôle. Les documents français qu'elles détiennent, ainsi que les marques distinctives de leurs véhicules, sont valables à l'égard de la réglementation monégasque et tiennent lieu des documents ou des marques distinctives prescrits ou à prescrire par cette réglementation.
