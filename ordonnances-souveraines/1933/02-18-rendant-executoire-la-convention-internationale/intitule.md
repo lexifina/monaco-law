@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 18 février 1933 rendant exécutoire la Convention internationale du 19 mars 1931 portant loi uniforme sur les chèques
