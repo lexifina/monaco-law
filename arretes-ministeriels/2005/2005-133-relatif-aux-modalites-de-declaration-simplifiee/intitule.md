@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2005-133 du 3 mars 2005 relatif aux modalités de déclaration simplifiée des traitements automatisés d'informations nominatives relatifs à la passation, la gestion et l'exécution des contrats mis en œuvre par les organismes d'assurance, de capitalisation, de réassurances et d'assistance dûment habilités
