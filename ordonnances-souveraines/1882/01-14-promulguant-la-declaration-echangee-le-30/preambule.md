@@ -1,0 +1,1 @@
+Une déclaration ayant été échangée le 30 décembre 1881 entre Notre Principauté et le Royaume de Belgique, modifiant en certains points la convention d'extradition signée à Paris le 29 juin 1874, ladite déclaration dont la teneur suit, recevra sa pleine et entière exécution.
