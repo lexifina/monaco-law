@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 9.668 du 8 janvier 1990 rendant exécutoires à Monaco les amendements aux annexes I et II de la Convention faite à Washington le 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, adoptés à Lausanne (Suisse)
