@@ -1,0 +1,1 @@
+Arrêté ministériel n° 86-157 du 24 mars 1986 fixant la liste des substances vénéneuses pouvant entrer dans la composition des produits cosmétiques et les produits d'hygiène corporelle et les avertissements devant figurer sur leurs récipients, emballages ou notices
