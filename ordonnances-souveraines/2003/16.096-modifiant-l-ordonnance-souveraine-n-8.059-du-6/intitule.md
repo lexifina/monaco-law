@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 16.096 du 5 décembre 2003 modifiant l'ordonnance souveraine n° 8.059 du 6 août 1984 fixant les modalités d'application de la loi n° 1.050 du 28 juillet 1982 concernant la pension de retraite supplémentaire des avocats-défenseurs, avocats et huissiers
