@@ -1,0 +1,3 @@
+Vu le rapport de Nos délégués à la conférence internationale contre la tuberculose, tenue à Paris en octobre 1920, et à la conférence tenue à Londres, en juillet 1921, entre les délégués des associations et gouvernements adhérents à l'Union internationale contre la tuberculose ;
+
+Une Union internationale contre la tuberculose ayant été constituée à la suite de la conférence internationale, tenue à Paris en octobre 1920, et les statuts de cette Union ayant été adoptés par la conférence, tenue à Londres en juillet 1921, entre les délégués des associations et gouvernements adhérents à l'Union, lesdits statuts, dont la teneur suit, recevront leur pleine et entière exécution.
