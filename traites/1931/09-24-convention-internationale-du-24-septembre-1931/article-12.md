@@ -1,0 +1,3 @@
+# Article 12
+
+Chacune des Hautes Parties contractantes communiquera les renseignements statistiques relatifs aux opérations, concernant les baleines, qui ont eu lieu dans le ressort de leur juridiction, au Bureau international de statistiques baleinières, à Oslo. Les renseignements fournis devront comprendre au moins les détails mentionnés à l'article 10 et : 1° le nom et le tonnage de chaque usine flottante ; 2° le nombre et le tonnage global des navires baleiniers ; 3° une liste des stations terrestres ayant fonctionné au cours de la période envisagée. Ces renseignements seront fournis à des intervalles appropriés ne dépassant pas une année.

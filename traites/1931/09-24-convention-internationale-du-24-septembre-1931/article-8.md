@@ -1,0 +1,5 @@
+# Article 8
+
+Aucun navire des Hautes Parties contractantes ne pourra se livrer à la capture ou au traitement des baleines sans qu'une licence spéciale ait été concédée à ce navire par la Haute Partie contractante dont il porte le pavillon, ou sans que son propriétaire ou affréteur ait notifié, au gouvernement de cette Haute Partie contractante, son intention d'utiliser ce navire pour la chasse à la baleine et qu'il ait reçu dudit gouvernement une attestation de cette notification.
+
+Le présent article ne porte nullement atteinte au droit, pour l'une quelconque des Hautes Parties contractantes, d'exiger, en outre, une licence émanant de ses propres autorités, pour tout navire désireux d'utiliser son territoire ou ses eaux territoriales en vue de capturer, d'amener à terre ou de traiter des baleines. La délivrance de cette licence pourra être, soit refusée, soit subordonnée aux conditions que la Haute Partie contractante intéressée estimera nécessaires ou opportunes, quelle que soit la nationalité du navire.

@@ -1,0 +1,9 @@
+# Article 20
+
+1. Chacune des Hautes Parties contractantes peut déclarer, au moment de la signature, de la ratification ou de l'adhésion que, par son acceptation de la présente Convention, elle n'entend assumer aucune obligation en ce qui concerne l'ensemble ou toute partie de ses colonies, protectorats, territoires d'outre-mer ou territoires placés sous sa suzeraineté ou son mandat ; dans ce cas, la présente Convention ne sera pas applicable aux territoires faisant l'objet d'une telle déclaration.
+
+2. Chacune des Hautes Parties contractantes pourra ultérieurement notifier au Secrétaire général de la Société des Nations qu'elle entend rendre la présente Convention applicable à l'ensemble ou à toute partie de ses territoires ayant fait l'objet de la déclaration prévue au paragraphe précédent. Dans ce cas, la Convention s'appliquera à tous les territoires visés dans la notification, quatre-vingt-dix jours après la réception de cette notification par le Secrétaire général de la Société des Nations.
+
+3. Chacune des Hautes Parties contractantes peut, à tout moment après l'expiration de la période de trois ans prévue à l'article 19, déclarer qu'elle entend voir cesser l'application de la présente Convention à l'ensemble ou à toute partie de ses colonies, protectorats, territoires d'outre-mer ou territoires placés sous sa suzeraineté ou son mandat ; dans ce cas, la Convention cessera d'être applicable aux territoires faisant l'objet d'une telle déclaration, six mois après la réception de cette déclaration par le Secrétaire général de la Société des Nations.
+
+4. Le Secrétaire général de la Société des Nations communiquera à tous les Membres de la Société des Nations et aux États non membres les déclarations et notifications reçues en vertu du présent article, ainsi que les dates de leur réception.
