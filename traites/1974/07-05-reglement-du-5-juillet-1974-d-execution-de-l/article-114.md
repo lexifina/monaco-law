@@ -1,0 +1,7 @@
+# Article 114
+
+1. Toute réclamation concernant un mandat-carte est établie sur une formule MP 4 et transmise, en règle générale, par le bureau d'émission, directement au bureau de paiement. Une seule formule peut être utilisée pour plusieurs mandats émis simultanément à la demande d'un même expéditeur et au profit du même bénéficiaire. Les réclamations sont transmises d'office et toujours par la voie la plus rapide (aérienne ou de surface) dans les conditions prévues à l'article 39 de la Convention.
+
+2. Lorsque le bureau de paiement est en état de fournir des renseignements définitifs sur le sort du titre, il renvoie la formule complétée suivant le résultat des recherches, au bureau qui a reçu la réclamation. En cas de recherches infructueuses ou de paiement contesté, la formule est transmise à l'Administration d'émission par l'intermédiaire de l'Administration de paiement qui joint, si possible, une déclaration du bénéficiaire attestant qu'il n'a pas reçu le montant du mandat.
+
+3. Lorsqu'une réclamation est déposée dans un pays autre que le pays d'émission ou le pays de paiement, la formule MP 4 est transmise à l'Administration d'émission accompagnée du récépissé de dépôt. Si, pour des raisons particulières, le récépissé produit ne peut être joint à la formule MP 4, celle-ci doit-être revêtue de la mention « Vu récépissé de dépôt n°..., délivré le... par le bureau de... pour un montant de... ». Le délai prescrit à l'article 39, paragraphe 1 de la Convention est applicable.
