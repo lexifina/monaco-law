@@ -1,0 +1,3 @@
+# Article 8
+
+Les sociétés, compagnies et particuliers, visés à l'article précédent, sont tenus de présenter à toute réquisition des agents des services fiscaux les livres dont la tenue est prescrite par le Code de commerce, les polices ou copies de police, concernant les conventions en cours, y compris celles renouvelées par tacite reconduction ou venues à expiration depuis moins de six ans, ainsi que tous autres livres ou documents pouvant servir au contrôle de la taxe. Le refus de présentation ou de communication est constaté dans les formes et soumis aux sanctions prévues par l'ordonnance souveraine n° 3.085, du 25 septembre 1945, relative aux droits et devoirs des agents des services fiscaux.
