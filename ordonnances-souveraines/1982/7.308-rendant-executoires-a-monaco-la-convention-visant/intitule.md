@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.308 du 25 février 1982 rendant exécutoires à Monaco « La Convention visant à faciliter le trafic maritime international », faite à Londres le 9 avril 1965 et l'Amendement de Londres du 17 novembre 1973 modifiant le texte de l'article 7 de ladite Convention
