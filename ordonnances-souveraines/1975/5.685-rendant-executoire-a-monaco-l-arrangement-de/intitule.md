@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.685 du 29 octobre 1975 rendant exécutoire à Monaco l'Arrangement de Madrid, concernant l'enregistrement international des marques du 14 avril 1891 révisé à Bruxelles, Washington, La Haye, Londres, Nice et Stockholm
