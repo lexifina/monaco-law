@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2002-269 du 23 avril 2002 relatif aux modalités de déclaration simplifiée des traitements automatisés d'informations nominatives portant sur les valeurs mobilières et autres instruments financiers
