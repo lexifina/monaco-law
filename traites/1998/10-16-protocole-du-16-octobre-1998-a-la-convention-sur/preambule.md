@@ -1,8 +1,6 @@
 La République fédérale d'Allemagne,
 
-La République d'Autriche,
-
-La République française,
+La République d'Autriche, La République française,
 
 La République italienne,
 
@@ -14,32 +12,48 @@ La République de Slovénie,
 
 La Confédération suisse,
 
-ainsi que la Communauté européenne,
+ainsi que
 
-Conformément à leur mission découlant de la Convention sur la protection des Alpes (Convention alpine) du 7 novembre 1991 d'assurer une politique globale de protection et de développement durable de l'espace alpin ;
+La Communauté européenne,
 
-En application de leurs obligations découlant de l'article 2, paragraphes 2 et 3, de la Convention alpine ;
+Conformément à leur mission découlant de la Convention sur la protection des Alpes (Convention alpine) du 7 novembre 1991 d'assurer une politique globale de protection et de développement durable de l'espace alpin,
 
-Dans le but de réduire les atteintes d'ordre quantitatif et qualitatif causées aux sols, notamment en utilisant des modes de production agricoles et sylvicoles ménageant les sols, en exploitant ceux-ci de façon économe, en freinant l'érosion ainsi qu'en limitant l'imperméabilisation des sols ;
+En application de leurs obligations découlant de l'article 2 paragraphes 2 et 3 de la Convention alpine
 
-Reconnaissant que la protection des sols alpins, leur gestion durable et la restauration de leurs fonctions naturelles dans les lieux altérés sont d'intérêt général ;
+Considérant la volonté des Parties contractantes d'harmoniser les intérêts économiques et les exigences écologiques et d'assurer un développement durable,
 
-Reconnaissant que les Alpes, en tant qu'un des plus grands espaces naturels d'un seul tenant en Europe, possèdent une diversité écologique et des écosystèmes extrêmement sensibles, dont la capacité de fonctionnement est à préserver ;
+Conscientes du fait que les Alpes constituent le cadre de vie et de développement économique de la population locale,
 
-Convaincues que la population locale doit être en mesure de définir son propre projet de développement social, culturel et économique et de participer à sa mise en œuvre dans le cadre institutionnel existant ;
+Convaincues que la population locale doit être en mesure de définir son propre projet de développement social, culturel et économique et de participer à sa mise en œuvre dans le cadre institutionnel existant,
 
-Conscientes que, d'une part, l'espace alpin constitue un cadre de vie et d'activités économiques important pour la population locale et un espace de détente pour les habitants d'autres régions, et que, d'autre part, la préservation des fonctions des sols peut être mise en danger par les différentes exigences d'utilisation se concentrant dans l'espace alpin étroit, et que, pour cette raison, les intérêts économiques devront être harmonisés avec les exigences écologiques ;
+Considérant que notre civilisation urbaine développe un besoin croissant de tourisme et de loisirs diversifiés pour l'homme d'aujourd'hui,
 
-Reconnaissant le fait que les sols occupent une place particulière à l'intérieur des écosystèmes, que leur reconstitution ainsi que la régénération de sols endommagés ne se font que très lentement, qu'en raison des particularités topographiques de l'espace alpin, l'érosion des sols pourrait s'intensifier, que, d'une part, les sols constituent un collecteur de polluants et que, d'autre part, les sols contaminés peuvent être une source d'apports de polluants dans des écosystèmes avoisinants et peuvent représenter un risque pour l'homme, les animaux et les plantes ;
+Considérant que les Alpes demeurent l'un des grands espaces d'accueil pour le tourisme et les loisirs en Europe, par ses immenses possibilités de loisirs, par la richesse de ses paysages et la diversité de ses conditions écologiques et qu'il convient de traiter cet enjeu au-delà des cadres nationaux,
 
-Conscientes que l'utilisation du sol, notamment, par l'urbanisation, le développement de l'industrie et de l'artisanat, des insfrastructures, de l'extraction minière, du tourisme, de l'agriculture et de l'économie forestière ainsi que des transports, peut conduire à une atteinte d'ordre qualitative ou quantitative au sol, et que partant, des mesures appropriées et intégrées de prévention ainsi que de limitation et d'assainissement des dommages devraient être proposées pour la protection des sols ;
+Considérant qu'une part significative de la population de certaines Parties contractantes habite dans les Alpes et que le tourisme alpin est d'intérêt public du fait qu'il contribue à maintenir une population permanente,
 
-Considérant que la protection des sols a de multiples répercussions sur d'autres politiques dans l'espace alpin et qu'elle doit être - par conséquent - coordonnée avec les autres disciplines et secteurs ;
+Considérant que le tourisme de montagne se développe dans un cadre concurrentiel de plus en plus mondialisé et contribue significativement aux performances économiques de l'espace alpin,
 
-Convaincues que certains problèmes ne peuvent être résolus que dans un cadre transfrontalier et exigent des mesures communes de la part des Etats alpins, qui sont à mettre en œuvre par les Parties signataires en fonction des moyens existants,
+Considérant que des tendances récentes semblent aller dans le sens d'une meilleure harmonie entre tourisme et environnement : intérêt de plus en plus marqué de la clientèle pour un cadre naturel attrayant et préservé l'hiver comme l'été, souci de nombreux décideurs locaux d'améliorer la qualité du cadre d'accueil dans le sens de la protection de l'environnement,
+
+Considérant que dans l'espace alpin, les limites d'adaptation des écosystèmes de chaque site doivent être prises en compte tout spécialement et être appréciées en fonction de leurs spécificités propres,
+
+Conscientes de ce que le patrimoine naturel et culturel ainsi que les paysages sont des bases essentielles du tourisme dans les Alpes,
+
+Conscientes de ce que les différences naturelles, culturelles, économiques et institutionnelles caractérisant les États alpins ont été à l'origine de développements autonomes et d'une multitude d'offres touristiques qui, loin de céder la place à une uniformité sur le plan international, devraient être sources d'activités touristiques diversifiées et complémentaires,
+
+Conscientes de ce qu'un développement durable de l'économie touristique axé sur la valorisation du patrimoine naturel et sur la qualité des prestations et des services s'avère nécessaire compte tenu de la dépendance économique de la plupart des régions alpines vis-àvis du tourisme et de la chance de survie qu'il représente pour leurs populations,
+
+Conscientes de ce qu'il convient d'encourager les vacanciers à respecter la nature, de les aider à mieux comprendre les populations qui habitent et travaillent dans les régions fréquentées et de créer les conditions optimales pour une véritable découverte de la nature dans l'espace alpin dans toute sa diversité,
+
+Conscientes qu'il appartient aux organisations professionnelles du tourisme et aux collectivités territoriales de mettre en place dans un cadre concerté au niveau de l'espace alpin, les moyens d'améliorer leurs structures de production ainsi que le fonctionnement de celles-ci,
+
+Désireuses d'assurer le développement durable de l'espace alpin par un tourisme respectueux de l'environnement, qui constitue également une base essentielle des conditions de vie et économiques de la population locale,
+
+Convaincues que certains problèmes ne peuvent être résolus que dans un cadre transfrontalier et exigent des mesures communes de la part des États alpins,
 
 sont convenues de ce qui suit :
 
 En foi de quoi, les soussignés, dûment autorisés à cet effet, ont signé le présent protocole.
 
-Fait à Bled, le 16 octobre 1998, en français, allemand, italien, slovène, les quatre textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives d'Etat de la République d'Autriche. Le dépositaire communique copie certifiée conforme à toutes les Parties signataires.
+Fait à Bled, le 16 octobre 1998, en français, allemand, italien, slovène, les quatre textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives d'État de la République d'Autriche. Le dépositaire communique copie certifiée conforme à toutes les Parties signataires.

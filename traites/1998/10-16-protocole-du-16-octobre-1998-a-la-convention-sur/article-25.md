@@ -1,5 +1,9 @@
 # Article 25
 
-1. Les Parties contractantes examinent et évaluent, de façon régulière, l'efficacité des dispositions du présent protocole. Dans la mesure où cela s'avère nécessaire pour la réalisation des objectifs, elles envisagent l'adoption des amendements appropriés au présent protocole.
+1. Les Parties contractantes font régulièrement rapport au Comité permanent sur les mesures prises en vertu du présent protocole. Les rapports traitent également la question de l'efficacité des mesures prises. La Conférence alpine détermine la périodicité des rapports.
 
-2. Dans le cadre institutionnel existant, les collectivités territoriales sont associées à cette évaluation. Les organisations non gouvernementales actives dans ce domaine peuvent être consultées.
+2. Le Comité permanent examine ces rapports afin de vérifier que les Parties contractantes ont rempli leurs obligations qui découlent du présent protocole. Il peut aussi demander des informations complémentaires aux Parties contractantes concernées ou recourir à d'autres sources d'informations.
+
+3. Le Comité permanent établit un rapport sur le respect, par les Parties contractantes, des obligations qui découlent du présent protocole, à l'attention de la Conférence alpine.
+
+4. La Conférence alpine prend connaissance de ce rapport. Si elle constate un manquement aux obligations, elle peut adopter des recommandations.

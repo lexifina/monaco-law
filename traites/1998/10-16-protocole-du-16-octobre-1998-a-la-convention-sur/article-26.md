@@ -1,7 +1,5 @@
 # Article 26
 
-1. Le présent protocole constitue un protocole de la Convention alpine au sens de l'article 2 et des autres articles pertinents de la convention.
+1. Les Parties contractantes examinent et évaluent, de façon régulière, l'efficacité des dispositions du présent protocole. Dans la mesure où cela s'avère nécessaire pour la réalisation des objectifs, elles envisagent l'adoption des amendements appropriés au présent protocole.
 
-2. Nul ne peut devenir Partie contractante au présent protocole s'il n'est pas Partie contractante à la Convention alpine. Toute dénonciation de la Convention alpine vaut également dénonciation du présent protocole.
-
-3. Lorsque la Conférence alpine délibère de questions relatives au présent protocole, seules les Parties contractantes au présent protocole peuvent prendre part au vote.
+2. Dans le cadre institutionnel existant, les collectivités territoriales sont associées à cette évaluation. Les organisations non gouvernementales actives dans ce domaine peuvent être consultées.

@@ -1,13 +1,7 @@
 # Article 14
 
-1. Les Parties contractantes œuvreront de la façon la plus appropriée pour que :
+1. Les Parties contractantes veillent à ce que l'aménagement, l'entretien et l'exploitation des pistes de ski présentent la meilleure intégration possible au paysage en tenant compte des équilibres naturels et de la sensibilité des biotopes.
 
-- les impacts négatifs des activités touristiques sur les sols dans les Alpes soient évités ;
+2. Les modifications de terrain sont à limiter autant que possible et lorsque les conditions naturelles s'y prêtent, les surfaces réaménagées devront être revégétalisées avec en priorité des espèces d'origine locale.
 
-- les sols altérés par une exploitation touristique intense soient stabilisés, notamment et dans la mesure du possible, par le rétablissement du couvert végétal et par l'utilisation de techniques d'ingénierie proches de la nature. L'utilisation ultérieure devrait être orientée de façon à ce que de telles atteintes ne se reproduisent pas ;
-
-- les permis de construction et de nivellement des pistes de ski ne soient accordés qu'exceptionnellement dans les forêts ayant une fonction de protection et lorsque des mesures de compensation sont entreprises, et qu'aucun permis ne soit accordé dans les zones instables.
-
-2. Les additifs chimiques et biologiques utilisés pour la préparation des pistes ne seront tolérés que si la compatibilité avec l'environnement est certifiée.
-
-3. Au cas où des dommages importants aux sols et à la végétation seraient constatés, les Parties contractantes prendront, dans les meilleurs délais, les mesures nécessaires pour leur remise en état.
+Les législations nationales peuvent autoriser la fabrication de neige pendant les périodes de froid propres à chaque site, notamment pour sécuriser des zones exposées, si les conditions hydrologiques, climatiques et écologiques propres au site concerné le permettent.

@@ -1,5 +1,5 @@
 # Article 15
 
-1. Les Parties contractantes entreprendront tous les efforts afin de réduire autant que possible et préventivement les apports de polluants dans les sols par l'atmosphère, les eaux, les déchets et les substances nuisibles pour l'environnement. Les mesures limitant les émissions à leurs sources seront privilégiées.
+1. Les Parties contractantes s'engagent à définir une politique de maîtrise des pratiques sportives de plein air, particulièrement dans les espaces protégés, de façon à éviter les inconvénients pour l'environnement. Cette maîtrise peut conduire, si besoin est, à prononcer leur interdiction.
 
-2. Afin d'éviter la contamination des sols par l'utilisation de substances dangereuses, les Parties contractantes prennent des dispositions techniques, prévoient des contrôles et mettent en œuvre des programmes de recherche et des actions d'information.
+2. Les Parties contractantes s'engagent à limiter au maximum et si nécessaire à interdire les activités sportives motorisées en dehors des zones déterminées par les autorités compétentes.

@@ -1,7 +1,7 @@
 # Article 2
 
-1. Les Parties contractantes s'engagent à prendre les mesures juridiques et administratives nécessaires pour assurer la protection des sols dans l'espace alpin. La surveillance de ces mesures se fera sous la responsabilité des autorités nationales.
+1. Les Parties contractantes s'engagent à éliminer les obstacles à une coopération internationale entre les collectivités territoriales de l'espace alpin et à promouvoir la solution des problèmes communs grâce à une collaboration au niveau territorial approprié.
 
-2. En cas de risque d'atteintes graves et persistantes à la capacité de fonctionnement des sols, les aspects de protection doivent en règle générale primer les aspects d'utilisation.
+2. Les Parties contractantes encouragent une coopération internationale renforcée entre les organismes compétents respectifs. Elles veillent notamment à la mise en valeur d'espaces transfrontaliers par la coordination d'activités de tourisme et de loisirs respectueuses de l'environnement.
 
-3. Les Parties contractantes examinent les possibilités d'appuyer les mesures visées par le présent protocole pour la protection des sols dans l'espace alpin par des mesures fiscales et/ou financières. Les mesures compatibles avec la protection du sol et avec les objectifs d'une utilisation économe et écologique du sol devraient bénéficier d'un soutien particulier.
+3. Lorsque des collectivités territoriales ne peuvent mettre en œuvre des mesures, parce qu'elles relèvent de compétences nationales ou internationales, il faut leur assurer la possibilité de représenter de façon efficace les intérêts de la population.

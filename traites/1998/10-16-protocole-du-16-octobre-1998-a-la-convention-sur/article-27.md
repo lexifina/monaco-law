@@ -1,7 +1,7 @@
 # Article 27
 
-1. Le présent protocole est ouvert à la signature des Etats signataires de la Convention alpine et de la Communauté européenne le 16 octobre 1998 et auprès de la République d'Autriche, dépositaire, à partir du 16 novembre 1998.
+1. Le présent protocole constitue un protocole de la Convention alpine au sens de l'article 2 et des autres articles pertinents de la convention.
 
-2. Le présent protocole entre en vigueur pour les Parties contractantes qui ont exprimé leur consentement à être liées par ledit protocole trois mois après la date à laquelle trois Etats auront déposé leur instrument de ratification, d'acceptation ou d'approbation.
+2. Nul ne peut devenir Partie contractante au présent protocole s'il n'est pas Partie contractante à la Convention alpine. Toute dénonciation de la Convention alpine vaut également dénonciation du présent protocole.
 
-3. Pour les Parties contractantes qui expriment ultérieurement leur consentement à être liées par le protocole, le protocole entre en vigueur trois mois après la date de dépôt de l'instrument de ratification, d'acceptation ou d'approbation. Après l'entrée en vigueur d'un amendement au protocole, toute nouvelle Partie contractante audit protocole devient Partie contractante au protocole tel qu'amendé.
+3. Lorsque la Conférence alpine délibère de questions relatives au présent protocole, seules les Parties contractantes au présent protocole peuvent prendre part au vote.
