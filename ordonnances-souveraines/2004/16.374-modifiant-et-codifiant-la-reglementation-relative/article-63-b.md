@@ -1,0 +1,3 @@
+# Article 63 B
+
+Pour l'application de l'article 63 A, la fiche d'apport à la marque, conforme à un modèle établi, reprend le nombre d'ouvrages en or, alliage d'or, argent et platine apportés par les opérateurs au Bureau de Garantie de Nice ou à l'organisme de contrôle agréé pour y être essayés et marqués. Ce document est préalablement rempli par l'opérateur. Il est annoté par le Bureau de Garantie ou par l'organisme de contrôle agréé au fur et à mesure des opérations de marquage et de restitution des ouvrages. Lorsque les ouvrages sont poinçonnés par le Bureau de Garantie, une copie de la fiche d'apport, annotée par le service, doit accompagner la déclaration de paiement de la contribution.

@@ -4,4 +4,4 @@ Vu la Convention fiscale franco-monégasque du 18 mai 1963 rendue exécutoire pa
 
 Vu l'avenant à ladite Convention en date du 25 juin 1969 rendu exécutoire par Notre ordonnance n° 4.314 du 8 août 1969 ;
 
-Garantie des matières d'or, d'argent et de platine.
+Garantie des matières d'or, d'argent et de platine
