@@ -1,0 +1,3 @@
+# Article 14
+
+Lorsqu'un tribunal ou toute autre autorité compétente ordonnera qu'un dessin ou modèle secret lui soit communiqué, le Bureau international, régulièrement requis, procédera à l'ouverture du paquet déposé, en extraira le dessin ou modèle demandé et le fera parvenir à l'autorité requérante. La même communication aura lieu sur demande pour un dessin ou modèle ouvert. L'objet ainsi communiqué devra être restitué dans le plus bref délai possible et réincorporé, le cas échéant, dans le pli cacheté ou dans l'enveloppe. Ces opérations pourront être soumises à une taxe qui sera fixée par le Règlement d'exécution.

@@ -1,0 +1,3 @@
+# Article 8 (2)
+
+Au commencement de chaque année, le Bureau international établira le compte des dépenses faites au cours de l'année précédente pour le service du dépôt international, y compris un prélèvement de 5 % sur le montant des recettes brutes du service, à verser à la Caisse de retraite instituée pour le personnel du Bureau international, jusqu'à ce que le total des prélèvements ainsi opérés ait atteint 30 000 francs suisses ; le montant de ce compte sera déduit du total des recettes et l'excédent de celles-ci sera réparti entre tous les pays contractants par parts égales ou d'après un mode de distribution adopté ultérieurement.
