@@ -1,0 +1,3 @@
+# Article 6
+
+Dans le cas où les autorités du pays importateur refusent l'admission en franchise du film en contestant le caractère éducatif du film d'un point de vue national, le gouvernement du pays où est établie l'entreprise ou l'institution productrice du film peut, s'il estime avoir, pour des raisons d'ordre culturel national, un intérêt à la diffusion du film, adresser une demande amicale au pays importateur. Les deux gouvernements examineront ensemble la question et, ce faisant, profiteront, dans toute la mesure possible, de l'avis de l'Institut international du Cinématographe Éducatif.
