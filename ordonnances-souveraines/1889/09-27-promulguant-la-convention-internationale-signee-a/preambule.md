@@ -1,0 +1,1 @@
+Le Prince, par Ordonnance du 27 septembre dernier, a décidé que la Convention Internationale signée à Berne le 9 septembre 1886 concernant la création d'une union internationale pour la protection des œuvres littéraires et artistiques, recevra son exécution dans la Principauté.
