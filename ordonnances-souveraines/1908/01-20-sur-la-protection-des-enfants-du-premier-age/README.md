@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 20 janvier 1908 sur la protection des enfants du premier âge
 
-Version en vigueur au 29 janvier 1908.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1908/01-20-L001006@1908.01.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1908/01-20-L001006@1911.04.19/
 
 | | |
 | --- | --- |
