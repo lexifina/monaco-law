@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 10.791 du 10 février 1993 prorogeant le privilège concédé à la Société Hôtelière et de Loisirs de Monaco d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français
