@@ -1,0 +1,3 @@
+# Article 20
+
+Après qu'elle sera entrée en vigueur, la présente Convention sera ouverte à l'adhésion du Gouvernement de tout État maritime qui en fera la demande au Gouvernement de la Principauté de Monaco en précisant le tonnage de ses flottes et dont l'admission aura été approuvée par les deux tiers des gouvernements membres. Ladite approbation sera notifiée au Gouvernement intéressé par le Gouvernement de la Principauté de Monaco. La Convention prendra effet pour le Gouvernement dudit État à la date à laquelle celui-ci aura déposé son instrument d'adhésion auprès du Gouvernement de la Principauté de Monaco qui en informera tous les Gouvernements membres et le président du comité de direction.
