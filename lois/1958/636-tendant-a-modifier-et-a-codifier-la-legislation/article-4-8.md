@@ -8,4 +8,4 @@ Chacun des ascendants d'une personne dont la mort est causée par un accident du
 
 La condition prévue doit être remplie, au choix du bénéficiaire, soit à la date de l'accident, soit à celle du décès de la victime. Le total des rentes ainsi allouées ne devra pas excéder 30 % du salaire de la victime. Si cette quotité est dépassée, la rente de chacun des ayants droit sera réduite proportionnellement.
 
-Le bénéfice des dispositions qui précèdent ne peut être accordé l'ascendant qui a été reconnu coupable d'abandon de famille ou qui a été privé de la puissance paternelle.
+Le bénéfice des dispositions qui précèdent ne peut être accordé l'ascendant qui a été reconnu coupable d'abandon de famille ou qui a été privé de l'autorité parentale.

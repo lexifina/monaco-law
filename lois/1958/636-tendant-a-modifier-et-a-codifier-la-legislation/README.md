@@ -1,8 +1,8 @@
 # Loi n° 636 du 11 janvier 1958 tendant à modifier et à codifier la législation sur la déclaration, la réparation et l'assurance des accidents du travail
 
-Version en vigueur au 12 juillet 2003.
+Version en vigueur au 3 janvier 2004.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1958/01-11-636@2003.07.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1958/01-11-636@2004.01.03/
 
 | | |
 | --- | --- |
