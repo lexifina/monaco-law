@@ -1,0 +1,11 @@
+# Article 15 (2)
+
+1. Si au terme d'un délai de 60 jours à compter de la désignation du deuxième arbitre, le président du tribunal n'a pas été désigné, le secrétaire général de l'organisation, à la requête de la partie la plus diligente, procède, dans un nouveau délai de 60 jours, à sa désignation en le choisissant sur une liste de personnes qualifiées, établie à l'avance dans les conditions prévues à l'article 4 ci-dessus. Cette liste est distincte de la liste d'experts prévue à l'article IV de la convention et de la liste des conciliateurs prévue à l'article 4 ci-dessus, la même personne pouvant figurer sur la liste de conciliateurs et sur celle d'arbitres. Une personne qui aurait agi en qualité de conciliateur dans un litige ne peut cependant pas être choisie comme arbitre dans la même affaire.
+
+2. Si dans un délai de 60 jours à compter de la date de réception de la requête, l'une des parties n'a pas procédé à la désignation qui lui incombe d'un membre du tribunal, l'autre partie peut saisir directement le secrétaire général de l'organisation, qui pourvoit à la désignation du président du tribunal dans un délai de 60 jours en le choisissant sur la liste visée au paragraphe 1 du présent article.
+
+3. Le président du tribunal, dès sa désignation, demande à la partie qui n'a pas constitué arbitre de le faire dans les mêmes formes et conditions. Si elle ne procède pas à la désignation qui lui est ainsi demandée, le président du tribunal demande au secrétaire général de l'organisation de pourvoir à cette désignation dans les formes et conditions prévues au paragraphe précédent.
+
+4. Le président du tribunal, s'il est désigné en vertu des dispositions du présent article, ne doit pas être ou avoir été de nationalité d'une des parties, sauf consentement de l'autre ou des autres parties.
+
+5. En cas de décès ou de défaut d'un arbitre dont la désignation incombait à une partie, celle-ci désigne son remplacement dans un délai de 60 jours à compter du décès ou du défaut. Faute pour elle de le faire, la procédure se poursuit avec les arbitres restants. En cas de décès ou de défaut du président du tribunal, son remplaçant est désigné dans les conditions prévues à l'article 14 ci-dessus ou, à défaut d'accord entre les membres du tribunal dans les 60 jours du décès ou de défaut, dans les conditions prévues au présent article.
