@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.704 du 15 novembre 1979 rendant exécutoire à Monaco la convention internationale portant création d'un fonds international d'indemnisation pour les dommages dus à la pollution par les hydrocarbures signée à Bruxelles le 18 décembre 1971
