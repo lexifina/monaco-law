@@ -1,0 +1,5 @@
+# Article 9
+
+Les sujétions imposées en vertu de l'article précédent ouvrent droit à une indemnité destinée à compenser la perte matérielle, directe et certaine qu'impose la réquisition ainsi qu'à tenir compte du service effectué par la personne requise. La réquisition d'un matériel, d'un bâtiment ou d'une partie de bâtiment ouvre droit à l'encontre de l'Administration en cas de dommages ou de perte, à une indemnité égale à la valeur de remise en état ou de reconstruction du bien requis. N'est toutefois pas prise en compte la privation du profit qu'aurait pu procurer aux prestataires la continuation de l'exercice de leurs activités ou l'usage des biens requis.
+
+La personne requise est considérée comme un collaborateur occasionnel de l'administration pendant le temps de la réquisition. À ce titre, les frais divers générés par un éventuel accident dont elle serait victime à l'occasion de cette collaboration ainsi que le versement d'indemnités en cas de séquelles seront pris en charge par l'État. De la même manière, le décès d'une personne à l'occasion de cette collaboration entraînera le versement d'une indemnité à sa famille.
