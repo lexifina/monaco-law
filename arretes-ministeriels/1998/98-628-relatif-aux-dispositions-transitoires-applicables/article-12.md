@@ -1,0 +1,3 @@
+# Article 12
+
+Les praticiens contractuels, exerçant dans l'établissement à la date de la publication du présent arrêté ministériel, disposant des qualifications requises pour le grade des praticiens hospitaliers, et définies par l'arrêté ministériel n° 98-629 du 29 décembre 1998 relatif aux conditions de recrutement du personnel médical au Centre hospitalier Princesse Grace, peuvent sur proposition du chef de service ou à défaut du Directeur et après avis de la commission médicale d'établissement, être intégrés sur décision du conseil d'administration, dans le corps des praticiens hospitaliers temps plein, au grade correspondant aux fonctions qu'ils occupent, conformément au tableau figurant à l'article premier.
