@@ -1,0 +1,5 @@
+# Article 29
+
+Les comptes soumis à l'approbation de l'assemblée générale des actionnaires doivent être conformes aux écritures sociales. Toutefois, lorsque les postes du bilan, établi conformément aux prescriptions de la présente ordonnance, diffèrent, soit par leur désignation, soit par leur montant, des comptes arrêtés dans les livres comptables de la société, un état de rapprochement indiquant le détail des reclassifications effectuées doit être dressé et transcrit, avec toutes explications utiles, dans le livre des inventaires dont la tenue est exigée par l'article 11 du Code de commerce.
+
+De même, lorsque les énonciations du compte de pertes et profits ne ressortent pas directement des écritures enregistrées dans la comptabilité sociale, les ventilations et regroupements de ces écritures doivent être résumées au livre des inventaires. Le tout sous réserve que le montant du bénéfice net (ou de la perte nette) de l'exercice, accusé par les comptes, soumis à l'approbation de l'assemblée, doit toujours être conforme au résultat dégagé par les écritures sociales de l'exercice.
