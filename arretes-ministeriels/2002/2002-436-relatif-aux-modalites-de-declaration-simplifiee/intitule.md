@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2002-436 du 16 juillet 2002 relatif aux modalités de déclaration simplifiée des traitements automatisés d'informations nominatives relatifs à la gestion et aux négociations de biens immobiliers
