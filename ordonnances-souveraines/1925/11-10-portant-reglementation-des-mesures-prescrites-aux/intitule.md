@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 10 novembre 1925 portant réglementation des mesures prescrites aux établissements de banque, de change ou de crédit en conformité de la convention franco-monégasque pour la répression des fraudes fiscales
