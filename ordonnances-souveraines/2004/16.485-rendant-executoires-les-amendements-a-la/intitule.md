@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.485 du 2 novembre 2004 rendant exécutoires les amendements à la Constitution et à la Convention de l'Union Internationale des Télécommunications adoptés lors de la Conférence de Plénipotentiaires de Marrakech en 2002
