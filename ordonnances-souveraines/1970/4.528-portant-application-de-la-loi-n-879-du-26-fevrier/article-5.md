@@ -1,0 +1,3 @@
+# Article 5
+
+Doivent être déclarés au répertoire du commerce et de l'industrie dans le délai d'un mois, tous faits et actes entraînant une modification des mentions prescrites à l'article 1er. Les pièces justificatives des faits et actes ci-dessus visés, les actes, délibérations ou décisions modifiant soit le contrat de groupement ou les pièces qui lui sont annexées, soit les actes ou pièces déposés postérieurement, sont remis au service du répertoire du commerce et de l'industrie, dans le délai d'un mois de leur date pour être classés au dossier du groupement. Deux exemplaires du contrat de groupement, tenant compte des actes modificatifs, établis sur papier libre et certifiés conformes par un administrateur sont déposés en même temps pour être classés audit dossier.
