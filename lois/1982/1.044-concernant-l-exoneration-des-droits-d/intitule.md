@@ -1,0 +1,1 @@
+Loi n° 1.044 du 8 juillet 1982 concernant l'exonération des droits d'enregistrement relatifs aux opérations faites par les marchands de biens, aux ventes publiques de certains meubles corporels et aux marchés de travaux, d'approvisionnement ou de fournitures
