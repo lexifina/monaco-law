@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2005-32 du 14 janvier 2005 fixant le taux de la contribution des employeurs et de la Caisse des Congés Payés du Bâtiment au «Fonds complémentaire de réparation des accidents du travail et des maladies professionnelles» au titre de l'année 2005
