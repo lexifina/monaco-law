@@ -1,1 +1,1 @@
-Les Gouvernements contractants, représentés par les soussignés, ayant décidé d'unifier certaines catégories de signaux maritimes, sont convenus des dispositions suivantes :
+Les Gouvernements contractants, représentés par les soussignés, ayant décidé d'unifier les signaux des bateaux-feu gardés se trouvant hors de leur poste normal, sont convenus des dispositions suivantes :

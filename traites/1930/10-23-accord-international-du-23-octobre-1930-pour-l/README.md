@@ -1,8 +1,8 @@
-# Accord international du 23 octobre 1930 pour l'unification de certaines catégories de signaux maritimes
+# Accord international du 23 octobre 1930 pour l'unification des signaux des bateaux-feu
 
 Version en vigueur au 18 décembre 1933.
 
-Source : Legimonaco, https://legimonaco.mc/tai/accord/1930/10-23-tai1l000089@1933.12.18/
+Source : Legimonaco, https://legimonaco.mc/tai/accord/1930/10-23-tai1l000090@1933.12.18/
 
 | | |
 | --- | --- |

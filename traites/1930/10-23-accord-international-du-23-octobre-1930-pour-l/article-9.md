@@ -1,7 +1,3 @@
 # Article 9
 
-Tout Gouvernement contractant peut déclarer, au moment de la signature, de la ratification ou de l'adhésion, que, par son acceptation du présent accord, il n'entend assumer aucune obligation en ce qui concerne toute colonie, tout protectorat ou territoire placé sous suzeraineté ou mandat ; dans ce cas, le présent accord ne sera pas applicable aux territoires faisant l'objet de pareille déclaration.
-
-Tout Gouvernement contractant pourra, à tout moment, dans la suite, notifier au Secrétaire général de la Société des Nations, qu'il entend rendre le présent accord applicable à toute partie des territoires ayant fait l'objet de la déclaration prévue à l'alinéa précédent. Dans ce cas, l'arrangement s'appliquera aux territoires visés dans la notification, quatre-vingt-dix jours après la réception de cette dernière par le Secrétaire général de la Société des Nations.
-
-Tout Gouvernement contractant peut, soit à l'expiration d'un délai de sept ans après la notification prévue au precédent paragraphe, soit lors de la dénonciation prévue à l'article 8, déclarer qu'il entend voir cesser l'application du présent Accord à toute colonie, tout protectorat ou territoire placé sous suzeraineté ou mandat ; dans ce cas, l'Accord cessera d'être applicable aux territoires faisant l'objet de pareille déclaration, une année après la réception de cette déclaration, par le Secrétaire général de la Société des Nations. À défaut de telle déclaration, la dénonciation prévue à l'article 8 ne comportera aucun effet à l'égard des territoires mentionnés au présent article.
+Chacun des Gouvernements contractants peut subordonner son acceptation du présent accord à la participation à celui-ci d'un ou plusieurs des Gouvernements visés à l'article 3.

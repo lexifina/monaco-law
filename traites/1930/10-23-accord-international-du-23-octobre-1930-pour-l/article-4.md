@@ -1,3 +1,7 @@
 # Article 4
 
-Le présent accord, dont les textes français et anglais feront également foi, portera la date de ce jour ; il pourra, jusqu'au 30 avril 1931 inclus, être signé au nom de tout Gouvernement ayant été représenté à la conférence qui a élaboré le présent accord ou ayant été invité à s'y faire représenter.
+L'acceptation du présent accord de la part d'un Gouvernement peut s'effectuer par simple signature, dans le cas où celle-ci est donnée sans réserve de ratification, par ratification ou par adhésion.
+
+Les instruments de ratification seront transmis au Secrétaire général de la Société des Nations, qui en notifiera la réception aux Gouvernements intéressés.
+
+La date de l'entrée en vigueur de l'accord sera le quatre-vingt-dixième jour qui suivra l'acceptation de l'accord par cinq Gouvernements.
