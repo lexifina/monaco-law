@@ -4,4 +4,6 @@
 
 Ce bail, répondant aux dispositions de la présente loi, est consenti aux personnes susvisées et à leur conjoint s'il y a lieu.
 
-Il est établi sur la base des conditions antérieures d'occupation et du dernier loyer échu. Une majoration maximale de 13 % peut être appliquée annuellement jusqu'au terme de ce bail et pour la première fois à dater du 1er janvier 2002.
+Il est établi sur la base des conditions antérieures d'occupation et du dernier loyer échu. En plus de la clause d'indexation éventuellement prévue au bail, une majoration égale à la variation de la moyenne sur quatre trimestres de l'indice des prix à la consommation (hors tabac) pour l'ensemble des ménages (France entière) publié par l'Institut National de la Statistique et des Études Économiques français peut être appliquée annuellement jusqu'au terme du bail.
+
+Les dispositions du chapitre III sont applicables lors du renouvellement.

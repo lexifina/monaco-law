@@ -11,3 +11,5 @@ Le locataire qui entend accepter l'offre de relogement notifie son accord dans l
 Le locataire évincé est tenu de mettre les locaux qu'il occupe à la disposition effective du propriétaire à l'époque indiquée, à moins qu'il ne subsiste une contestation sur les besoins normaux du locataire, l'habitabilité ou l'importance des locaux ; en ce cas, le président du tribunal de première instance statuant en la forme des référés, saisi à la requête de la partie la plus diligente, est compétent pour statuer et ordonner, s'il y a lieu, l'expulsion.
 
 À l'issue des travaux, le locataire qui en fait la demande est réintégré, pour la durée du bail restant à courir et dans les mêmes conditions, dans les locaux dont il a été évincé.
+
+Le droit au renouvellement s'applique au locataire relogé à la suite d'une éviction intervenue en application de l'article 14.

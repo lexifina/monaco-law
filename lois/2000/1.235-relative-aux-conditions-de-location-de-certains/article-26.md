@@ -1,8 +1,8 @@
 # Article 26
 
-Une expertise peut être ordonnée par la commission arbitrale.
+Une expertise peut être ordonnée par la Commission arbitrale.
 
-La commission énonce les chefs de mission, désigne l'expert et fixe une date pour le dépôt du rapport.
+La Commission énonce les chefs de mission, désigne l'expert et fixe une date pour le dépôt du rapport.
 
 S'il accepte sa mission, dans les huit jours de la réception de l'avis de désignation qui lui a été adressé par le Greffe général, l'expert renvoie, par lettre recommandée, la formule de serment dûment signée.
 

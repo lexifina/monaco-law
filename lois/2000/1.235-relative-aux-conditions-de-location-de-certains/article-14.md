@@ -12,6 +12,6 @@ Peut donner congé à son locataire dans les conditions de forme et de délai pr
 
 lorsque, dans ces trois derniers cas, la totalité des locaux que le locataire occupe est rendue inutilisable par l'exécution des travaux.
 
-Dans ces cas, comme dans celui où la totalité des locaux n'est pas rendue inutilisable, les dispositions de l'article 1.564 du Code civil sont applicables.
+Dans ces cas, comme dans celui où la totalité des locaux n'est pas rendue inutilisable, les dispositions de l'article 1564 du Code civil sont applicables.
 
 En outre, le contrat de location en cours est résilié de plein droit dans le cas où la démolition de l'immeuble serait ordonnée dans les conditions fixées par les textes législatifs ou réglementaires en vigueur, soit qu'il ait été déclaré insalubre, soit qu'il menace ruine.

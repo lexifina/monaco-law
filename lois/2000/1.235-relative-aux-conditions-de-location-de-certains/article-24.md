@@ -1,6 +1,6 @@
 # Article 24
 
-La commission arbitrale des loyers est composée de quatre membres, à savoir :
+La Commission arbitrale des loyers est composée de quatre membres, à savoir :
 
 - le président du tribunal de première instance ou le magistrat par lui délégué, qui a voix prépondérante en cas de partage ;
 

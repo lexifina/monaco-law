@@ -10,6 +10,6 @@ Le propriétaire devra justifier à l'appui de sa demande :
 
 - que le loyer qu'il demande a été établi conformément à l'article 18 et après fixation par la commission instituée à l'article 23 saisie spécialement à cet effet par le propriétaire ;
 
-- qu'il n'a trouvé aucun candidat à la location parmi les personnes protégées malgré une publication à trois reprises et à un mois d'intervalle de son offre de location au « Journal de Monaco » ; les personnes intéressées par cette offre doivent en informer le propriétaire au plus tard quinze jours après la dernière insertion et en aviser la direction de l'habitat.
+- qu'il n'a trouvé aucun candidat à la location parmi les personnes protégées malgré une publication à trois reprises et à un mois d'intervalle de son offre de location au Journal de Monaco ; les personnes intéressées par cette offre doivent en informer le propriétaire au plus tard quinze jours après la dernière insertion et en aviser la Direction de l'habitat.
 
 Ces locations, consenties pour une durée de six ans conformément à l'article 11, ne pourront ouvrir droit au versement de l'allocation différentielle de loyer instaurée à l'article 34 de la présente loi. Au terme du bail ou en cas de départ anticipé du locataire, les dispositions de la présente loi sont applicables.
