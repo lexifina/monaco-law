@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 8 septembre 1892 sur le service postal
 
-Version en vigueur au 28 septembre 1892.
+Version en vigueur au 31 juillet 1965.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1892/09-08-L002301@1892.09.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1892/09-08-L002301@1965.07.31/
 
 | | |
 | --- | --- |
