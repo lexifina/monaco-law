@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2001-83 du 20 février 2001 fixant les catégories d'emplois au sein du Centre hospitalier Princesse Grace, en application de l'ordonnance souveraine n° 14.749 du 15 février 2001 portant création d'un Comité technique d'établissement
