@@ -1,3 +1,5 @@
 # Article 12
 
-Les Parties contractantes s'engagent à coopérer aussitôt que possible pour élaborer et adopter des procédures appropriées concernant la détermination des responsabilités et la réparation des dommages résultant de la pollution du milieu marin en violation des dispositions de la présente Convention et des Protocoles applicables.
+1. Les Parties contractantes coopèrent pour prendre les dispositions nécessaires en cas de situation critique génératrice de pollution dans la zone de la mer Méditerranée, quelles que soient les causes de cette situation critique, et pour réduire ou éliminer les dommages qui en résultent.
+
+2. Toute Partie contractante ayant connaissance d'une situation critique génératrice de pollution dans la zone de la mer Méditerranée informe sans délai l'Organisation ainsi que, par l'Organisation ou directement, toute Partie contractante qui pourrait être affectée par une telle situation critique.

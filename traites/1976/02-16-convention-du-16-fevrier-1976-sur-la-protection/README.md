@@ -1,8 +1,8 @@
-# Convention du 16 février 1976 pour la protection de la mer Méditerranée contre la pollution
+# Convention du 16 février 1976 sur la protection du milieu marin et du littoral de la mer Méditerranée
 
-Version en vigueur au 11 octobre 1980.
+Version en vigueur au 2 octobre 2004.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/1976/02-16-tai1l000166@1980.10.11/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/1976/02-16-tai1l000166@2004.10.02/
 
 | | |
 | --- | --- |

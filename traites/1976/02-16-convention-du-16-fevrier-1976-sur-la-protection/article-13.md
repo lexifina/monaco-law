@@ -1,15 +1,7 @@
 # Article 13
 
-Les Parties contractantes désignent le programme des Nations Unies pour l'environnement pour assurer les fonctions de secrétariat ci-après :
+1. Les Parties contractantes s'engagent, dans la mesure du possible, à coopérer directement ou, s'il y a lieu, par l'entremise d'organisations régionales ou autres organisations internationales qualifiées dans les domaines de la science et de la technologie, ainsi qu'à échanger des données et autres renseignements d'ordre scientifique, aux fins de la réalisation des objectifs de la présente Convention.
 
-- i) convoquer et préparer les réunions des Parties contractantes et les conférences prévues aux articles 14, 15 et 16 ;
+2 Les Parties contractantes s'engagent à promouvoir la recherche, l'accès aux technologies écologiquement rationnelles, y compris les technologies de production propre et le transfert de celles-ci, et à coopérer à la formulation, l'instauration et la mise en œuvre de procédés de production propre.
 
-- ii) communiquer aux Parties contractantes les notifications, rapports et autres renseignements reçus en conformité des articles 3, 9 et 20 ;
-
-- iii) examiner les demandes de renseignements et les informations émanant des Parties contractantes et consulter lesdites Parties sur les questions relatives à la présente Convention, à ses Protocoles et à ses Annexes ;
-
-- iv) accomplir les fonctions qui lui sont confiées en vertu des Protocoles à la présente Convention ;
-
-- v) accomplir toutes autres fonctions qui lui sont confiées, le cas échéant, par les Parties contractantes ;
-
-- vi) assurer la coordination nécessaire avec d'autres organismes internationaux que les Parties contractantes considèrent comme qualifiés, et prendre notamment les dispositions administratives requises, le cas échéant, pour s'acquitter efficacement des fonctions de secrétariat.
+3. Les Parties contractantes s'engagent à coopérer pour fournir une assistance technique et d'autres formes possibles d'assistance dans les domaines en rapport avec la pollution du milieu marin, en accordant la priorité aux besoins spéciaux des pays en voie de développement de la région méditerranéenne.

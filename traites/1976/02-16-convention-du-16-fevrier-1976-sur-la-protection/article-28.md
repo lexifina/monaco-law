@@ -1,11 +1,7 @@
 # Article 28
 
-1. A tout moment après l'expiration d'un délai de trois ans à compter de la date à laquelle la présente Convention sera entrée en vigueur, toute Partie contractante pourra dénoncer la Convention en donnant par écrit une notification à cet effet.
+1. Si un différend surgit entre des Parties contractantes à propos de l'interprétation ou de l'application de la présente Convention ou des protocoles, ces Parties s'efforcent de le régler par voie de négociation ou par tout autre moyen pacifique de leur choix.
 
-2. Sauf disposition contraire de l'un quelconque des Protocoles à la présente Convention, toute Partie contractante pourra, à tout moment après l'expiration d'un délai de trois ans à compter de la date d'entrée en vigueur de ce Protocole, dénoncer le Protocole en donnant par écrit une notification à cet effet.
+2. Si les Parties concernées ne peuvent régler leur différend par les moyens mentionnés au paragraphe précédent, le différend est d'un commun accord soumis à l'arbitrage dans les conditions définies dans l'Annexe A à la présente Convention.
 
-3. La dénonciation prendra effet quatre-vingt dix jours après la date à laquelle elle aura été reçue par le dépositaire.
-
-4. Toute Partie contractante qui dénonce la présente Convention sera considérée comme ayant également dénoncé tout Protocole auquel elle était partie.
-
-5. Toute Partie contractante qui, à la suite de sa dénonciation d'un Protocole, n'est plus partie à aucun des protocoles à la présente Convention, sera considérée comme ayant également dénoncé la présente Convention.
+3. Toutefois, les Parties contractantes peuvent à n'importe quel moment déclarer reconnaître comme obligatoire de plein droit et sans convention spéciale, à l'égard de toute autre Partie acceptant la même obligation, l'application de la procédure d'arbitrage conformément aux dispositions de l'Annexe A. Une telle déclaration est notifiée par écrit au dépositaire qui en donne communication aux autres Parties.
