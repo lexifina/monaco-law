@@ -1,0 +1,3 @@
+# Article 16
+
+L'arrêté du maire prononçant reprise de la concession sera porté à la connaissance du public dans les formes prévues par les articles 128 et 129 de la loi municipale du 3 mai 1920, sans toutefois qu'il soit nécessaire d'en faire l'objet d'une notification individuelle. Trente jours francs après la publication de l'arrêté, le maire pourra faire enlever les matériaux des monuments et emblèmes funéraires restés sur la concession. Il fera procéder à l'exhumation des restes des personnes inhumées dans la concession reprise. Pour chaque concession, ces restes seront réunis dans un cercueil de dimensions appropriées.
