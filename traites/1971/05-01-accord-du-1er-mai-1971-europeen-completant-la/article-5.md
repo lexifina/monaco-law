@@ -1,0 +1,3 @@
+# Article 5
+
+A son entrée en vigueur, le présent accord abrogera et remplacera, dans les relations entre les parties contractantes, les dispositions concernant la circulation routière continues dans l'accord européen complétant la convention sur la circulation routière et le protocole relatif à la signalisation routière de 1949, signé à Genève le 16 septembre 1950 et l'accord européen portant application de l'article 23 de la convention de 1949 sur la circulation routière, concernant les dimensions et poids des véhicules admis à circuler sur certaines routes des parties contractantes, en date du 16 septembre 1950.

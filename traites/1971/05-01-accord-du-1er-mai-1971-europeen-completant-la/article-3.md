@@ -1,0 +1,5 @@
+# Article 3
+
+1. Tout état pourra, au moment où il signera ou ratifiera le présent accord ou y adhérera, ou à tout moment ultérieur, déclarer par notification adressée au secrétaire général que l'accord devient applicable à tous les territoires où à l'un quelconque d'entre eux dont il assure les relations internationales. L'accord deviendra applicable au territoire ou aux territoires désigné (s) dans la notification trente jours après la date à laquelle le secrétaire général aura reçu cette notification ou à la date d'entrée en vigueur de l'accord pour l'état adressant la notification, si cette date est postérieure à la précédente.
+
+2. Tout état qui aura fait une déclaration en vertu du paragraphe 1 du présent article pourra à toute date ultérieure, par notification adressée au secrétaire général, déclarer que l'accord cessera d'être applicable au territoire désigné dans la notification et l'accord cessera d'être applicable audit territoire un an après la date de réception de cette notification par le secrétaire général.
