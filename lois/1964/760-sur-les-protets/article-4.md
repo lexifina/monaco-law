@@ -1,0 +1,3 @@
+# Article 4
+
+Pour effectuer les dénonciations visées aux articles 128 du Code de commerce et 57 de l'ordonnance souveraine n° 1.876, du 13 mai 1936, tels que modifiés par la présente loi, les huissiers remettront ou adresseront, dans le délai de quinzaine de l'acte, par lettre recommandée avec avis de réception au chef du service du répertoire du commerce et de l'industrie, deux copies exactes des protêts faute de paiement des traites acceptées et des billets à ordre et trois copies exactes des protêts faute de paiement des chèques par eux dressés. L'une de ces copies, datée et signée par le chef dudit service, sera restituée au déposant, à qui elle vaudra récépissé.
