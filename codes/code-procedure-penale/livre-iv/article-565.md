@@ -1,0 +1,3 @@
+# Article 565
+
+Lorsqu'à l'audience ou dans toute assemblée ou réunion judiciaire, une ou plusieurs personnes apportent du trouble, soit par une attitude incorrecte, soit par des manifestations d'opinion, ou provoquent du tumulte, le président, le juge ou le procureur général, selon le cas, peut les faire expulser. Si elles résistent ou rentrent après leur expulsion, il les fait conduire à la maison d'arrêt où, au vu de l'ordre mentionné dans le procès-verbal, elle seront reçues et retenues pendant vingt-quatre heures, sans préjudice, le cas échéant, de l'application des articles 567 et suivants.
