@@ -1,0 +1,3 @@
+# Article 8
+
+Pour pouvoir bénéficier de la totalisation des périodes d'assurance afin d'ouvrir droit à des prestations autres que celles de l'assurance invalidité, vieillesse et survivants, l'intéressé qui s'est rendu d'un pays à l'autre est tenu de présenter à l'institution du pays où il demande que les prestations lui soient servies un certificat, délivré par l'institution compétente de l'autre pays, dans lequel seront mentionnées les périodes d'assurance accomplies dans ce dernier pays. Si l'intéressé ne présente pas ledit certificat, l'institution à laquelle l'intéressé a demandé le service des prestations s'adresse à l'institution compétente de l'autre pays pour l'obtenir.
