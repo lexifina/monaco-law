@@ -1,0 +1,7 @@
+Vu la loi n° 1.103 du 12 juin 1987 relative aux jeux de hasard et notamment son article premier ;
+
+Vu l'ordonnance n 8.929 du 15 juillet 1987 fixant les modalités d'application de la loi n° 1.103 du 12 juin 1987, précitée ;
+
+Vu l'ordonnance n° 10.390 du 10 décembre 1991 complétant et modifiant l'ordonnance n° 8.929, susvisée ;
+
+Vu l'arrêté ministériel n° 88-384 du 26 juillet 1988 portant réglementation des jeux de hasard ;
