@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2001-738 du 21 décembre 2001 fixant le taux de la contribution des employeurs et de la Caisse de congés payés du bâtiment au « Fonds complémentaire de réparation des accidents du travail et des maladies professionnelles » au titre de l'année 2002
