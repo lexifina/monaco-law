@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.085 du 30 octobre 2001 rendant exécutoire l'arrangement administratif particulier portant diverses dispositions relatives à l'application de la Convention de Sécurité sociale entre la République française et la Principauté de Monaco signé à Monaco le 7 avril 2000
