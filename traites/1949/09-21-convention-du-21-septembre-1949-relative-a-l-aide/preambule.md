@@ -1,0 +1,1 @@
+Le Gouvernement de la République française et le Gouvernement de Son Altesse Sérénissime le Prince de Monaco, désirant régler, d'un commun accord, les questions relatives à l'aide mutuelle judiciaire entre les deux pays, les soussignés, dûment autorisés à cet effet, ont convenu des dispositions suivantes :
