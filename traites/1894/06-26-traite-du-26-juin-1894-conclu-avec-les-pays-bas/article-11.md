@@ -1,0 +1,5 @@
+# Article 11
+
+Lorsque, dans la poursuite d'une affaire pénale non politique, un des gouvernements jugera nécessaire l'audition de témoins se trouvant dans l'autre Etat, une commission rogatoire sera envoyée à cet effet par la voie diplomatique, et il y sera donné suite, en observant les lois du pays ou les témoins seront invités à comparaître. En cas d'urgence, toutefois, une commission rogatoire pourra être directement adressée par l'autorité judiciaire dans l'un des Etats à l'autorité judiciaire de l'autre Etat.
+
+Toute commission rogatoire, ayant pour but de demander une audition de témoins, devra être accompagnée d'une traduction française.

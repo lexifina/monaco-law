@@ -1,0 +1,3 @@
+# Article 4
+
+Si l'individu réclamé est poursuivi ou subit une peine pour une autre infraction que celle qui a donné lieu à la demande d'extradition, son extradition ne sera accordée qu'après la fin de la poursuite dans le pays auquel l'extradition est demandée, et, en cas de condamnation, qu'après qu'il aura subi sa peine ou qu'il aura été gracié. Néanmoins, si d'après les lois du pays qui demande l'extradition la prescription de la poursuite pouvait résulter de ce délai, son extradition sera accordée, si des considérations spéciales ne s'v opposent, et sous l'obligation de renvoyer l'extradé aussitôt que la poursuite dans ce pays sera finie.

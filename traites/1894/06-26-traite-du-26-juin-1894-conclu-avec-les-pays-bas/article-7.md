@@ -1,0 +1,3 @@
+# Article 7
+
+L'extradition sera demandée par la voie diplomatique et ne sera accordée que sur la production de l'original ou d'une expédition authentique, soit d'un jugement de condamnation, soit d'une ordonnance de mise en accusation ou de renvoi devant la justice répressive avec mandat d'arrêt, soit d'un mandat d'arrêt délivré dans les formes prescrites par la législation de l'Etat qui fait la demande, et indiquant suffisamment le fait dont il s'agit, pour mettre l'Etat requis à même de juger qu'il constitue, d'après sa législation, un cas prévu par la présente convention, ainsi que la disposition pénale qui lui est applicable.

@@ -1,0 +1,5 @@
+# Article 5
+
+L'individu extradé ne pourra ni être poursuivi ni puni, dans le pays auquel l'extradition a été accordée, pour un fait punissable quelconque non prévu par la présente convention et antérieur à son extradition, ni extradé à un Etat tiers, sans le consentement de celui qui a accordé l'extradition, à moins qu'il n'ait eu la liberté de quitter de nouveau le pays susdit pendant un mois après avoir été jugé, et, en cas de condamnation, après avoir subi sa peine ou après avoir été gracié.
+
+Il ne pourra pas non plus être poursuivi ni puni du chef d'un crime ou d'un délit prévu par la convention, antérieur à l'extradition, sans le consentement du gouvernement qui a livré l'extradé et qui pourra, s'il le juge convenable, exiger la production de l'un des documents mentionnés dans l'article 7 de la présente convention. Toutefois, ce consentement ne sera pas nécessaire lorsque l'inculpé aura demandé spontanément à être jugé ou à subir sa peine, ou lorsqu'il n'aura pas quitté, dans le délai fixé plus haut, le territoire du pays auquel il a été livré.
