@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2000-135 du 8 mars 2000 modifiant l'article A-128 de l'annexe au Code des taxes relatif au montant de remboursement de la taxe sur la valeur ajoutée aux assujettis établis hors de Monaco et de France
