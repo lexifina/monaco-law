@@ -1,0 +1,3 @@
+Vu la loi n° 455 du 27 juin 1947 sur les retraites des salariés, modifiée et complétée par les lois n° 481 du 17 juillet 1948, n° 568 du 4 juillet 1952, n° 620 du 26 juillet 1956, par les ordonnances-lois n° 651 du 16 février 1959, n° 682 du 15 février 1960 et par les lois n° 720 du 27 décembre 1961, n° 737 du 16 mars 1963, n° 786 du 15 juillet 1965, n° 960 du 24 juillet 1974, n° 981 du 26 mai 1976, n° 1024 du 21 juin 1980 et n° 1059 du 28 juin 1983 ;
+
+Vu l'ordonnance n° 3731 du 28 juillet 1948 fixant les modalités d'application de la loi n° 455 du 27 juin 1947 susvisée, modifiée et complétée par les ordonnances n° 3052 du 24 septembre 1963 et n° 4567 du 23 octobre 1970 ;
