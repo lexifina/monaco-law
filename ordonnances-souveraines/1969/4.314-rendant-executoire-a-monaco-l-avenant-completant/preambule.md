@@ -1,0 +1,1 @@
+L'avenant complétant la convention fiscale entre la Principauté de Monaco et la France du 18 mai 1963, dont la teneur suit, signé à Monaco le 25 juin 1969 entre Notre Plénipotentiaire et le Plénipotentiaire du Gouvernement de la République française recevra sa pleine et entière exécution à compter du 1° août 1969.
