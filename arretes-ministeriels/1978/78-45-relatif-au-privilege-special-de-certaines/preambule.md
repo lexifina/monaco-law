@@ -1,0 +1,1 @@
+Vu la loi n° 1.002 du 26 décembre 1977 modifiant le Code de commerce en ce qui concerne la cessation des paiements, le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, et notamment son article 475.
