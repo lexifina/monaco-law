@@ -1,0 +1,3 @@
+# Article 2
+
+L'objectif ultime de la présente Convention et de tous instruments juridiques connexes que la Conférence des Parties pourrait adopter est de stabiliser, conformément aux dispositions pertinentes de la Convention, les concentrations de gaz à effet de serre dans l'atmosphère à un niveau qui empêche toute perturbation anthropique dangereuse du système climatique. Il conviendra d'atteindre ce niveau dans un délai suffisant pour que les écosystèmes puissent s'adapter naturellement aux changements climatiques, que la production alimentaire ne soit pas menacée et que le développement économique puisse se poursuivre d'une manière durable.
