@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.254 du 12 décembre 1997 prorogeant le privilège concédé à la société hôtelière et de loisirs de Monaco d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français
