@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.203 du 23 janvier 2002 rendant exécutoire la reconnaissance de la compétence du Comité pour l'élimination de la discrimination raciale, en vertu de l'article 14 de la Convention internationale sur l'élimination de toutes les formes de discrimination raciale, faite à New York le 7 mars 1966
