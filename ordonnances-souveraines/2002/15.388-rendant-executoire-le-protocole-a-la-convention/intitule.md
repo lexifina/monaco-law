@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.388 du 17 juin 2002 rendant exécutoire le protocole à la convention sur la pollution atmosphérique transfrontière à longue distance de 1979, relatif à une nouvelle réduction des émissions de soufre, fait à Oslo le 14 juin 1994
