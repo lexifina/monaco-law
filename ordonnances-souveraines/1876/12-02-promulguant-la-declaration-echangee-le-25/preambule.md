@@ -1,0 +1,1 @@
+Un déclaration ayant été échangée le 25 novembre 1876 entre Notre Principauté et le Royaume de Belgique, relativement à la communication réciproque des actes de l'état civil, ladite déclaration, dont la teneur suit, recevra sa pleine et entière exécution.
