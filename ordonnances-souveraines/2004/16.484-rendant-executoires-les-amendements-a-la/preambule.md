@@ -1,0 +1,3 @@
+Nos instruments de ratification aux Amendements de la Constitution et de la Convention de l'Union Internationale des Télécommunications adoptés par la Conférence de Plénipotentiaires à Kyoto en 1994 et par la Conférence de Plénipotentiaires à Minneapolis en 1998, ayant été déposés le 29 juillet 2004 auprès de l'Union Internationale des Télécommunications, lesdits Amendements sont entrés en vigueur pour la Principauté de Monaco le 29 juillet 2004 et recevront leur pleine et entière exécution à dater de la publication de la présente ordonnance.
+
+Notre Secrétaire d'Etat, Notre Directeur des Services Judiciaires et Notre Ministre d'Etat sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.

@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.484 du 2 novembre 2004 rendant exécutoires les Amendements à la Constitution et à la Convention de l'Union Internationale des Télécommunications adoptés par la Conférence de Plénipotentiaires à Kyoto en 1994 et par la Conférence de Plénipotentiaires à Minneapolis en 1998
