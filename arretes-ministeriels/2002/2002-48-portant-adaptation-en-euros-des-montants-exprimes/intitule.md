@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2002-48 du 14 janvier 2002 portant adaptation en euros des montants exprimés en francs dans certains arrêtés ministériels pris pour l'exécution de dispositions législatives ou réglementaires
