@@ -1,0 +1,1 @@
+Arrêté ministériel n° 62-332 du 26 octobre 1962 relatif à la protection des personnes travaillant sur les chantiers de bâtiment et de travaux publics contre les dangers inhérents aux travaux de soudure à l'arc effectués sur ces chantiers
