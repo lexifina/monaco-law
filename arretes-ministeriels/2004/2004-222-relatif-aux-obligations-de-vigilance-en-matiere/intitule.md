@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2004-222 du 27 avril 2004 relatif aux obligations de vigilance en matière de chèques et de monnaie électronique aux fins de lutte contre le blanchiment des capitaux et le financement du terrorisme
