@@ -1,0 +1,3 @@
+# Article 20
+
+Toute fabrication de mistelles, vermouths, vins de liqueur ou d'imitation, effectuée en vue de la vente, doit être précédée d'une déclaration faite à la direction des services fiscaux 4 heures avant le début des opérations. Cette déclaration indique le volume et le degré des vins à viner et de l'alcool à ajouter : l'alcool pur contenu naturellement dans les vins est soumis à la prise en charge ou au paiement des droits propres à l'alcool, les vinages et mutages pour la consommation intérieure monégasque ou française doivent être obligatoirement effectués avec des alcools rétrocédés par le service français des alcools.

@@ -1,0 +1,3 @@
+# Article 216
+
+Tout envoi de sucre ou de glucose fait par quantités de 25 kilos au moins à une personne n'en faisant pas le commerce ou n'exerçant pas une industrie qui en comporte l'emploi, doit être accompagné d'un acquit-à-caution qui est remis à la direction des services fiscaux par le destinataire dans les 48 heures suivant l'expiration du délai de transport. Tout négociant convaincu d'avoir, en violation des dispositions du présent article, livré sans acquit-à-caution du sucre ou du glucose par quantités supérieures à 25 kilos est assujetti pendant la campagne en cours et la campagne suivante à tenir un compte d'entrées et de sorties de sucres et glucoses et à se soumettre aux vérifications des agents de la direction des services fiscaux.

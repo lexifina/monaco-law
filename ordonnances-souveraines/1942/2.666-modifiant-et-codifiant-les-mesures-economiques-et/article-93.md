@@ -1,0 +1,3 @@
+# Article 93
+
+Le conducteur d'un chargement dont le transport est suspendu est tenu d'en faire la déclaration à la direction des services fiscaux dans les 24 heures, et avant le déchargement des alcools. Les congés, acquits-à-caution, passavants ou laissez-passer sont conservés par la direction des services fiscaux jusqu'à la reprise du transport ; ils sont visés et remis au départ, après vérification des alcools, qui doivent être représentés aux agents de la direction des services fiscaux à toute réquisition. Le délai est prolongé de toute la durée pendant laquelle l'interruption de transport a été constatée.
