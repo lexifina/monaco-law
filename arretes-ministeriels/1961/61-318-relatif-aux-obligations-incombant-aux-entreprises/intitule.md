@@ -1,0 +1,1 @@
+Arrêté ministériel n° 61-318 du 12 octobre 1961 relatif aux obligations incombant aux entreprises ou organismes bénéficiaires d'une dérogation à l'obligation d'assurance édictée par l'ordonnance-loi n° 666 du 20 juillet 1959
