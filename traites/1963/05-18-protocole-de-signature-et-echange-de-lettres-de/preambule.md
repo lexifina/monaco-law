@@ -40,7 +40,7 @@ D'autre part, le Gouvernement français prend acte de ce que le Gouvernement mon
 
   - Les administrations fiscales des deux Pays se concerteront pour déterminer les échanges de renseignements qu'il y aura lieu d'instituer à ce sujet ;
 
-- 2° qu'il est disposé à exiger la création matérielle des titres émis par les sociétés monégasques par actions, sauf lorsqu'il s'agit des titres émis par des sociétés monégasques et qui sont admis au marché des titres d'une des Bourses françaises des valeurs, et à réglementer étroitement la cession des titres pendant la période qui précédera leur création matérielle ;
+- 2° Qu'il est disposé à exiger la création matérielle des titres émis par les sociétés monégasques par actions et à réglementer étroitement la cession des titres pendant la période qui précédera leur création matérielle ;
 
 - 3° Qu'il a adopté de nouvelles mesures de contrôle relatives à l'immatriculation des voitures automobiles à Monaco.
 
