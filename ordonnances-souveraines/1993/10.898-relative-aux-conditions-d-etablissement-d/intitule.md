@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 10.898 du 24 mai 1993 relative aux conditions d'établissement, d'utilisation et de validation du document accompagnant les alcools, boissons alcooliques soumis au régime général des accises
