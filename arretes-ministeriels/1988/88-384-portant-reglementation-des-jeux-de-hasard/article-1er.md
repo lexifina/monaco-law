@@ -1,0 +1,39 @@
+# Article 1er
+
+Au Black-jack, au Trente et Quarante, aux jeux de Baccara, au Punto Banco, au Pai Go Poker et au Carribean Gold Poker on utilise des jeux de 52 cartes. Lorsque les jeux sont groupés par six ils constituent un sixain, lorsqu'ils sont groupés par huit ils constituent un huitain ; chaque jeu sixain ou huitain porte le numéro d'ordre attribué par le fabricant. Ce numéro d'ordre doit être reporté par un cartier de la Direction des jeux au moment de la réception sur un registre de prise en charge. Ces registres, cotés et paraphés par le commissaire du Gouvernement, enregistrent tous les mouvements d'entrée et de sortie définitifs des différentes catégories de cartes utilisées. Une comptabilité annexe retrace quotidiennement les mouvements entre un dépôt principal et des dépôts annexes. Les stocks de cartes dégagés de ces opérations, contrôlées sous la responsabilité de la Direction des jeux, peuvent être vérifiés à tout moment par les agents du service de contrôle des jeux, qui viseront les registres concernés ainsi que les bons de commande.
+
+La sabot est un appareil agencé de telle sorte que les cartes qui y sont introduites descendent automatiquement vers son orifice, et n'en peuvent sortir qu'une à une.
+
+Le mélangeur de cartes est un appareil qui effectue automatiquement le mélange des jeux de cartes. Il doit être d'un modèle agréé et être muni d'un système de protection qui empêche l'accès aux cartes pendant les cycles de mélange ainsi que d'un dispositif lumineux ou sonore signalant les dysfonctionnements.
+
+Le mélangeur distributeur de cartes est un appareil qui effectue le mélange automatique et permanent des cartes ainsi que leur distribution, celles-ci se présentant automatiquement et ne pouvant sortir qu'une à une.
+
+Il doit être d'un modèle agréé et pourvu d'un système de protection qui empêche l'accès aux cartes pendant le mélange ainsi que d'un dispositif signalant le dysfonctionnement.
+
+1.1. - Les jeux de cartes neufs ou usagés ainsi que les sabots sont conservés dans les locaux et mobiliers spécialement aménagés à cet effet désignés sous le nom de « dépôts de cartes principaux et annexes ». Les jeux usagés doivent demeurer complets jusqu'à leur destruction ou neutralisation.
+
+Les mélangeurs de cartes sont fixés sur des socles attenant aux tables où ils sont utilisés.
+
+1.2. - Les jeux et les sabots ne sont extraits des dépôts de cartes qu'au moment où il en est fait usage. Les jeux neufs doivent être décachetés à table et vérifiés dans les conditions du deuxième contrôle ci-après définies. Pour les autres jeux, un premier contrôle des cartes doit être assuré par un cartier de la Direction des jeux. À table, en début de séance, un deuxième contrôle a lieu : les cartes sont alors étalées sur la table, les figures en dessus, et le croupier procède à leur contrôle et à leur vérification dans l'ordre de classement dit « du fabricant ».
+
+Les cartes sont ensuite brassées sur le tapis, figures en dessous en un seul tas. Cette opération, qui s'effectue les doigts écartés, porte le nom de « salade ».
+
+Aux jeux de Baccara (Banque ouverte et Chemin de fer), le croupier remonte le jeu en prélevant des petits paquets de cartes du tas de la salade en ayant soin de ne pas les détacher du tapis et de ne pas modifier l'ordre résultant du mélange, aucune carte ne pouvant être déplacée ou piquée.
+
+Aux autres jeux, une seconde opération est effectuée après la salade. Le croupier remonte le jeu en mélangeant des petits paquets de cartes qu'il prélève du tas de la salade.
+
+1.3. - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
+
+Aux jeux de Black-jack et de Punto-Banco, lorsque la partie s'interrompt avant la fin de la taille, un nouveau mélange est effectué pour la reprise de celle-ci.
+
+Aux tables réservés à un seul joueur, la Direction des jeux peut, dans certaines circonstances exceptionnelles, notamment liées à la sécurité des jeux, faire procéder à un nouveau mélange des cartes en cours de taille.
+
+1.4. - Lorsque la partie est terminée, les employés, sous la surveillance de l'inspecteur de service, rangent les cartes dans l'un des « dépôts de cartes » visés à l'article 1.1. ci-dessus. Il en va de même pour les sabots.
+
+Dès que la séance est terminée, et avant tout nouvel usage, les jeux sont contrôlés par les cartiers qui les remettent dans l'ordre indiqué à l'article 1.2. Les jeux sont examinés pour déceler d'éventuelles marques. Toute disparition de carte parmi les jeux contrôlés, constatée à quelque moment que ce soit, doit être immédiatement signalée, avec toutes indications utiles sur les conditions dans lesquelles elle est intervenue, à l'inspecteur de service et au directeur des jeux, qui en informe le service de contrôle des jeux ; il en est de même lorsqu'une ou plusieurs cartes sont trouvées en trop ou lorsque sont découvertes des cartes marquées ou paraissant étrangères au jeu d'origine.
+
+1.5. - Il ne doit être fait usage que de cartes en parfait état. Les jeux hors d'usage, marqués ou détériorés. doivent être placés dans le dépôt de cartes principal visé à l'article 1.1. en vue de leur examen éventuel et de leur destruction ou neutralisation ultérieure. Il en va de même pour les sabots.
+
+1.6. - Lorsqu'il est fait usage de l'appareil mélangeur. les opérations de contrôle et de reconnaissance des cartes sont effectuées selon les modalités prévues par l'article 1.2.
+
+1.7. - Lorsqu'il est fait usage du mélangeur distributeur de cartes, les opérations de contrôle et de reconnaissance des cartes sont effectuées selon les modalités prévues à l'article 1.2.
