@@ -1,0 +1,3 @@
+# Article 4
+
+Si le garage est surmonté d'habitations ou de locaux à usage commercial, il en sera séparé par des planchers en matériaux incombustibles pouvant résister assez longtemps à une assez forte température d'incendie. Les points d'appui, à travers le garage, des locaux supérieurs, auront la même résistance au feu ; à cet effet, toutes les armatures métalliques des cloisons, planchers ou points d'appui devront être recouvertes d'un enduit de 0,06 m d'épaisseur au moins, s'il est en mortier de ciment, ou d'une épaisseur donnant la même résistance au feu, s'il est fait d'autres matériaux. À l'étage supérieur, cet enduit sera aussi appliqué sur un faux plafond distant de 0,20 m au moins du plancher des habitations qui le surmontent.

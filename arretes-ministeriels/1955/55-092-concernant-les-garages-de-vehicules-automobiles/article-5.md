@@ -1,0 +1,3 @@
+# Article 5
+
+La ventilation du garage et de ses annexes devra être assurée par des trémies en matériaux incombustibles pouvant résister assez longtemps à une forte température d'incendie et ayant chacun la section minimum de 1mètre carré avec un côté de 20 centimètres au moins. Elles seront en nombre suffisant pour que l'air du garage et de ses annexes puisse être renouvelé au moins trois fois par heure et seront, au besoin, munies de dispositifs mécaniques pour obtenir ce résultat. Ces dispositifs seront étanches pour éviter toute étincelle pouvant provoquer une explosion. Ces trémies seront élevées de 1 mètre au moins au-dessus de la toiture des locaux supérieurs et disposées de façon à ne pas gêner le voisinage par des vapeurs ou des gaz odorants ou nocifs.
