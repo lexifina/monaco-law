@@ -1,0 +1,1 @@
+Arrêté ministériel n° 97-136 du 18 mars 1997 fixant le taux de la contribution des employeurs et de la caisse des congés du bâtiment au « fonds complémentaire de réparation des accidents du travail et des maladies professionnelles » au titre de l'année 1997
