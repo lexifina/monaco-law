@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 30 juillet 1883 sur les substances explosives
 
-Version en vigueur au 29 août 1883.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1883/07-30-L000650@1883.08.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1883/07-30-L000650@1911.04.19/
 
 | | |
 | --- | --- |
