@@ -1,0 +1,3 @@
+# Article 7
+
+Sera puni d'une amende de cent à cinq cents francs (100 à 500 francs) et d'un emprisonnement de trois jours à trois mois, quiconque, par menaces, don, promesse d'argent, ristourne sur les honoraires médicaux ou fournitures pharmaceutiques faits à des accidentés du travail, à des associations, à des chefs d'entreprise, à des assureurs ou à toute autre personne, aura attiré ou tenté d'attirer les victimes d'accidents du travail, ou des maladies professionnelles, dans une clinique ou cabinet médical, ou officine de pharmacie, et aura ainsi porté atteinte ou tenté de porter atteinte à la liberté de l'ouvrier de choisir son médecin ou son pharmacien.
