@@ -1,0 +1,3 @@
+# Article 1
+
+Les hydrocarbures liquides comprennent deux catégories : 1° ceux qui émettent, à une température inférieure à 35 degrés, des vapeurs susceptibles de prendre feu au contact d'une allumette enflammée : essence minérale, benzine, térébenthine, etc... ; 2° ceux qui n'émettent qu'à une température égale ou supérieure à 35 degrés, des vapeurs susceptibles de prendre feu au contact d'une allumette enflammée : pétroles, huiles lourdes, etc...
