@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.254 du 15 février 2002 modifiant l'ordonnance n° 3.520 du 1er août 1947 fixant les modalités d'application de la loi n° 455 du 27 juin 1947 sur les retraites des salariés, modifiée
