@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 11 septembre 1924 portant promulgation de la convention internationale signée à Genève le 12 septembre 1923 pour la répression de la circulation et du trafic des publications obscènes
