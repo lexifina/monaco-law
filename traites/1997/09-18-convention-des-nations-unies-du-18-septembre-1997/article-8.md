@@ -1,0 +1,49 @@
+# Article 8
+
+1. Les États parties conviennent de se consulter et de coopérer au sujet de l'application des dispositions de la présente Convention, et de travailler dans un esprit de coopération afin de faciliter le respect, par les États parties, des obligations découlant de la présente Convention.
+
+2. Si un ou plusieurs États parties souhaitent éclaircir des questions relatives au respect des dispositions de la présente Convention par un autre État partie, et cherchent à y répondre, ils peuvent soumettre, par l'intermédiaire du Secrétaire général des Nations Unies, une demande d'éclaircissements sur cette question à cet État partie. Cette demande sera accompagnée de tous les renseignements appropriés. Les États parties s'abstiendront de demandes d'éclaircissements sans fondement, en prenant soin d'éviter les abus. L'État partie qui reçoit une demande d'éclaircissements fournira à l'État partie demandeur, par l'intermédiaire du Secrétaire général des Nations Unies, tous les renseignements qui aideraient à éclaircir cette question, dans un délai de 28 jours.
+
+3. Si l'État partie demandeur ne reçoit pas de réponse par l'intermédiaire du Secrétaire général des Nations Unies dans ce délai, ou juge insatisfaisante la réponse à la demande d'éclaircissements, il peut soumettre la question à la prochaine Assemblée des États parties par l'intermédiaire du Secrétaire général des Nations Unies. Le Secrétaire général des Nations Unies transmettra cette requête, accompagnée de tous les renseignements appropriés relatifs à la demande d'éclaircissements, à tous les États parties. Tous ces renseignements devront être transmis à l'État partie sollicité, qui aura le droit de formuler une réponse.
+
+4. En attendant la convocation d'une Assemblée des États parties, tout État partie concerné peut demander au Secrétaire général des Nations Unies d'exercer ses bons offices pour faciliter la présentation des éclaircissements demandés.
+
+5. L'État partie demandeur peut proposer, par l'intermédiaire du Secrétaire général des Nations Unies, la convocation d'une Assemblée extraordinaire des États parties pour examiner la question. Le Secrétaire général des Nations Unies communiquera alors cette proposition et tous les renseignements présentés par les États parties concernés à tous les États parties, en leur demandant d'indiquer s'ils sont favorables à une Assemblée extraordinaire des États parties pour examiner la question. Au cas où, dans un délai de 14 jours après cette communication, au moins un tiers des États parties optent pour une telle Assemblée extraordinaire, le Secrétaire général des Nations Unies convoquera cette Assemblée extraordinaire des États parties dans un nouveau délai de 14 jours. Le quorum est atteint à cette Assemblée si la majorité des États parties y assistent.
+
+6. L'Assemblée des États parties, ou l'Assemblée extraordinaire des États parties, selon le cas, déterminera en premier lieu s'il est nécessaire d'examiner davantage la question, compte tenu de tous les renseignements présentés par les États parties concernés. L'Assemblée des États parties, ou l'Assemblée extraordinaire des États parties, s'efforcera de prendre une décision par consensus. Si, malgré tous ces efforts, aucun accord n'est ainsi trouvé, la question sera mise aux voix et la décision sera prise à la majorité des États parties présents et votants.
+
+7. Tous les États parties coopéreront pleinement avec l'Assemblée des États parties ou avec l'Assemblée extraordinaire des États parties à l'examen de la question, y compris à toute mission d'établissement des faits autorisée conformément au par. 8.
+
+8. Si de plus amples éclaircissements sont nécessaires, l'Assemblée des États parties, ou l'Assemblée extraordinaire des États parties, autorisera l'envoi d'une mission d'établissement des faits et en fixera le mandat à la majorité des États parties présents et votants. À n'importe quel moment, l'État partie sollicité peut inviter une mission d'établissement des faits à venir sur son territoire. Cette mission n'aura pas à être autorisée par une décision de l'Assemblée des États parties ou d'une Assemblée extraordinaire des États parties. La mission, composée d'un maximum de neuf experts, désignés et agréés conformément aux par. 9 et 10, peut recueillir des informations supplémentaires sur place ou en d'autres lieux directement liés au cas de non-respect présumé et se trouvant sous la juridiction ou le contrôle de l'État partie sollicité.
+
+9. Le Secrétaire général des Nations Unies prépare et actualise une liste indiquant, tels que fournis par les États parties, les noms et nationalités d'experts qualifiés ainsi que tout autre renseignement pertinent à leur sujet, et la communique à tous les États parties. L'expert figurant sur la liste sera considéré comme désigné pour toutes les missions d'établissement des faits, à moins qu'un État partie ne s'oppose par écrit à sa désignation. L'expert récusé ne participera à aucune mission d'établissement des faits sur le territoire ou tout autre lieu sous la juridiction ou le contrôle de l'État partie qui s'est opposé à sa désignation, pour autant que la récusation ait été signifiée avant la désignation de l'expert pour une telle mission.
+
+10. Dès la réception d'une demande de la part de l'Assemblée des États parties ou d'une Assemblée extraordinaire des États parties, le Secrétaire général des Nations Unies désignera, après consultation de l'État partie sollicité, les membres de la mission, y compris son chef. Les ressortissants des États parties sollicitant la mission d'établissement des faits, et ceux des États qui en sont directement affectés, ne pourront être désignés comme membres de la mission. Les membres de la mission d'établissement des faits jouiront des privilèges et immunités prévus par l'art. VI de la Convention sur les privilèges et immunités des Nations Unies, adoptée le 13 février 1946.
+
+11. Après un préavis d'au moins 72 heures, les membres de la mission d'établissement des faits se rendront aussitôt que possible sur le territoire de l'État partie sollicité. L'État partie sollicité prendra les mesures administratives nécessaires pour accueillir, transporter et loger la mission. Il lui incombera aussi d'assurer, dans toute la mesure du possible, la sécurité des membres de la mission tant qu'ils seront sur un territoire sous son contrôle.
+
+12. Sans préjudice de la souveraineté de l'État partie sollicité, la mission d'établissement des faits ne peut apporter sur le territoire de l'État partie sollicité que l'équipement qui sera exclusivement utilisé pour la collecte de renseignements sur le cas de non-respect présumé. Avant son arrivée, la mission informera l'État partie sollicité de l'équipement qu'elle entend utiliser au cours de son travail.
+
+13. L'État partie sollicité ne ménagera aucun effort pour donner aux membres de la mission d'établissement des faits la possibilité de s'entretenir avec toutes les personnes susceptibles de fournir des renseignements sur le cas de non-respect présumé.
+
+14. L'État partie sollicité accordera à la mission d'établissement des faits l'accès à toutes les zones et toutes les installations sous son contrôle où il pourrait être possible de recueillir des faits pertinents relatifs au cas de non-respect en question. Cet accès sera assujetti aux mesures que l'État partie sollicité jugera nécessaires pour:
+
+- a) la protection d'équipements, d'informations et de zones sensibles;
+
+- b) la protection des obligations constitutionnelles qui pourraient incomber à l'État partie sollicité en matière de droits de propriété, de fouilles et de saisies, et autres droits constitutionnels; ou
+
+- c) la protection physique et la sécurité des membres de la mission d'établissement des faits.
+
+Au cas où il prendrait de telles mesures, l'État partie sollicité déploiera tous les efforts raisonnables pour démontrer par d'autres moyens qu'il respecte la présente Convention.
+
+15. La mission d'établissement des faits ne peut séjourner sur le territoire de l'État partie concerné plus de 14 jours, et sur un site particulier, plus de sept jours, à moins qu'il n'ait été convenu autrement.
+
+16. Tous les renseignements fournis à titre confidentiel et non liés à l'objet de la mission d'établissement des faits seront traités d'une manière confidentielle.
+
+17. La mission d'établissement des faits communiquera ses conclusions, par l'intermédiaire du Secrétaire général des Nations Unies, à l'Assemblée des États parties ou à l'Assemblée extraordinaire des États parties.
+
+18. L'Assemblée des États parties, ou l'Assemblée extraordinaire des États parties, examinera tous les renseignements pertinents, notamment le rapport présenté par la mission d'établissement des faits, et pourra demander à l'État partie sollicité de prendre des mesures en vue de corriger la situation de non-respect dans un délai fixé. L'État partie sollicité fera un rapport sur les mesures ainsi prises en réponse à cette demande.
+
+19. L'Assemblée des États parties, ou l'Assemblée extraordinaire des États parties, peut recommander aux États parties concernés des mesures et des moyens permettant de clarifier davantage la question examinée ou de la régler, notamment l'ouverture de procédures appropriées, conformément au droit international. Au cas où le non-respect serait imputable à des circonstances échappant au contrôle de l'État partie sollicité, l'Assemblée des États parties, ou l'Assemblée extraordinaire des États parties, pourra recommander des mesures appropriées, notamment le recours aux mesures de coopération visées à l'art. 6.
+
+20. L'Assemblée des États parties, ou l'Assemblée extraordinaire des États parties, s'efforcera de prendre les décisions dont il est question aux par. 18 et 19 par consensus ou, à défaut, à la majorité des deux tiers des États parties présents et votants.
