@@ -1,0 +1,3 @@
+# Article 50
+
+Un passage à niveau ne peut être dépourvu de barrières et de signalisation automatique que si les usagers de la route peuvent aisément voir la voie ferrée de part et d'autre dudit passage, compte tenu notamment de la vitesse maximum des trains, de telle sorte qu'un conducteur s'approchant du chemin de fer, soit d'un côté, soit de l'autre, ait le temps de s'arrêter avant de s'engager sur le passage à niveau lorsqu'un train est en vue, et de telle sorte aussi que les usagers de la route qui se trouveraient déjà engagés sur le passage au moment où le train apparaît aient le temps d'achever la traversée.

@@ -1,0 +1,7 @@
+# Article 57
+
+1. Tout État pourra, lors de la signature, de la ratification ou de l'adhésion ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétaire général des Nations Unies, que les dispositions du présent Protocole seront applicables à tout territoire dont il assure les relations internationales. Ces dispositions deviendront applicables dans le ou les territoires désignés dans la notification trente jours après la date à laquelle le Secrétaire général aura reçu ladite notification ou, si le Protocole n'est pas alors entré en vigueur, au moment de son entrée en vigueur.
+
+2. Lorsque les circonstances le permettront, toute Partie contractante s'engage à prendre, le plus tôt possible, les mesures nécessaires pour étendre l'application du présent Protocole aux territoires dont elle assure les relations internationales, sous réserve, si des raisons constitutionnelles l'exigent, du consentement des gouvernements de ces territoires.
+
+3. Tout État qui a fait une déclaration conformément aux dispositions du paragraphe 1 du présent article concernant l'application du présent Protocole à un territoire dont il assure les relations internationales pourra, par la suite, déclarer, à tout moment, par notification adressée au Secrétaire général, que le présent Protocole cessera d'être applicable aux territoires désignés dans la notification. Un an à partir de la date de la notification, le Protocole cessera d'être applicable au territoire visé.
