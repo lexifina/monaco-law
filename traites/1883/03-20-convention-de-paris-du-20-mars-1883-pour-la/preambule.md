@@ -1,0 +1,1 @@
+Voir ultérieurement la Convention de Paris telle que révisée à Bruxelles le 14 décembre 1900, à Washington le 2 juin 1911, à la Haye le 6 novembre 1925, à Londres le 2 juin 1934, à Lisbonne le 31 octobre 1958 et à Stockholm le 14 juillet 1967, rendue exécutoire par l'ordonnance n° 5.687 du 29 octobre 1975
