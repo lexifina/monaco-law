@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.191 du 25 septembre 1997 modifiant le règlement d'urbanisme, de construction et de voirie de la zone Nord du quartier de la Condamine en ce qui concerne l'îlot 7 de ladite zone
