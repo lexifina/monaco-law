@@ -1,6 +1,6 @@
 # Article 4
 
-Avant de réaliser ou de faire réaliser une recherche biomédicale sur l'être humain, le promoteur de cette recherche déclare son intention au ministre d'État.
+Avant de réaliser ou de faire réaliser une recherche biomédicale sur l'être humain, le promoteur de cette recherche déclare son intention au Ministre d'État.
 
 Dans sa lettre d'intention, le promoteur fait connaître les éléments suivants :
 

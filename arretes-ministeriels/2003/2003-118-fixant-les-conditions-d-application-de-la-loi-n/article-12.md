@@ -1,6 +1,6 @@
 # Article 12
 
-La demande d'autorisation est adressée au ministre d'État par lettre recommandée avec demande d'avis de réception.
+La demande d'autorisation est adressée au Ministre d'État par lettre recommandée avec demande d'avis de réception.
 
 Elle doit comporter les éléments suivants :
 

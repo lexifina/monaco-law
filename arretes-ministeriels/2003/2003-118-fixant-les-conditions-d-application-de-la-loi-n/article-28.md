@@ -12,4 +12,4 @@ Les contrats mentionnés à l'article 27 ne peuvent prévoir de clauses excluant
 
 - 5. Les dispositions de l'article 19 de la même loi ne sont pas respectées dans les conditions fixées par le présent arrêté en ce qui concerne l'autorisation des lieux de recherches biomédicales sans bénéfice individuel direct ;
 
-- 6. La recherche a lieu en dépit d'une décision d'interdiction ou de suspension prise par le ministre d'État en application du dernier alinéa de l'article 28 de la loi n° 1.265 du 23 décembre 2002 relative à la protection des personnes dans la recherche biomédicale.
+- 6. La recherche a lieu en dépit d'une décision d'interdiction ou de suspension prise par le Ministre d'État en application du dernier alinéa de l'article 28 de la loi n° 1.265 du 23 décembre 2002 relative à la protection des personnes dans la recherche biomédicale.

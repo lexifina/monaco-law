@@ -26,7 +26,7 @@ Avant que soit entreprise une recherche biomédicale sur l'être humain, l'inves
 
   - b) les informations qui seront données en application de l'article 9 de la loi n° 1.265 du 23 décembre 2002 relative à la protection des personnes dans la recherche biomédicale, et notamment :
 
-    - 1° l'objectif de la recherche, sa méthologie et sa durée ;
+    - 1° l'objectif de la recherche, sa méthodologie et sa durée ;
 
     - 2° les bénéfices attendus, les contraintes et les risques prévisibles, liés soit à la recherche soit au traitement proposé ;
 
