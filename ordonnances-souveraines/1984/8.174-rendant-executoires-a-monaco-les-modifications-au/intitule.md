@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 8.174 du 24 décembre 1984 rendant exécutoires à Monaco les modifications au barème de taxes annexé au règlement d'exécution du traité de coopération en matière de brevets fait à Washington, le 19 juin 1970 adoptées par l'assemblée de l'Union internationale de coopération en matière de brevets, le 28 septembre 1984
