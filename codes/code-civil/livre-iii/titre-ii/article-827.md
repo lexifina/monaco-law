@@ -1,0 +1,3 @@
+# Article 827
+
+Toutes donations entre vifs faites par des personnes qui n'avaient point d'enfants ou de descendants actuellement vivants dans le temps de la donation, de quelque valeur que ces donations puissent être, et à quelque titre qu'elles aient été faites, et encore qu'elles fussent mutuelles ou rémunératoires, même celles qui auraient été faites en faveur de mariage par d'autres que les ascendants aux conjoints, ou par les conjoints l'un a l'autre, demeureront révoquées de plein droit par la survenance d'un enfant légitime du donateur, même d'un posthume, ou par la légitimation d'un enfant naturel par un mariage subséquent, s'il est né depuis la donation.

@@ -1,0 +1,3 @@
+# Article 1151
+
+Lorsque la chose a péri, est mise hors du commerce ou perdue, sans la faute du débiteur, il est tenu, s'il y a quelques droits ou actions en indemnité par rapport à cette chose, de les céder à son créancier.

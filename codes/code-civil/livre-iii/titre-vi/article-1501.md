@@ -1,0 +1,3 @@
+# Article 1501
+
+La faculté de rachat ou de réméré est un pacte par lequel le vendeur se réserve de reprendre la chose vendue, moyennant la restitution du prix principal, et le remboursement dont il est parlé à l'article 1515.
