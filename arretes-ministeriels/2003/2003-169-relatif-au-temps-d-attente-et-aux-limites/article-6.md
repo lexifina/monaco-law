@@ -1,0 +1,3 @@
+# Article 6
+
+S'il apparaît qu'une limite maximale de résidus ne peut être fixée pour une substance pharmacologiquement active utilisée dans des médicaments vétérinaires parce que les résidus de ladite substance, quelles que soient ses limites dans les denrées alimentaires d'origine animale, constituent un risque pour la santé du consommateur, cette substance est incluse dans la liste faisant l'objet de l'annexe IV du règlement CEE n° 2377/90 du Conseil du 26 juin 1990, modifié, établissant une procédure communautaire pour la fixation des limites maximales de résidus de médicaments vétérinaires dans les aliments d'origine animale.
