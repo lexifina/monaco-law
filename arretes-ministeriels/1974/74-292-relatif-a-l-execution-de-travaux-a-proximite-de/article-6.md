@@ -1,0 +1,3 @@
+# Article 6
+
+Compte tenu des recommandations et indications visées à l'article 5, l'intéressé prendra toutes mesures après consultation éventuelle de l'exploitant des ouvrages gaziers pour sauvegarder la sécurité des personnes et ne pas compromettre, dans l'immédiat ou à terme du fait de la réalisation des travaux, la conservation et la stabilité des ouvrages de gaz. Il portera également à la connaissance des personnes qui travaillent sous sa direction, au moyen d'une consigne écrite, les mesures de protection qui, en application des dispositions du présent arrêté, doivent être mises en œuvre lors de l'exécution des travaux.
