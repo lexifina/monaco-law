@@ -1,0 +1,5 @@
+# Article 13
+
+1. Le présent protocole est ouvert à la signature des États membres de la commission ainsi que des États dotés du statut consultatif auprès de la commission en vertu du paragraphe 8 de la résolution36 (IV) du Conseil économique et social du 28 mars 1947, et des organisations d'intégration économique régionale constituées par des États souverains membres de la Commission, ayant compétence pour négocier, conclure et appliquer des accords internationaux dans les matières visées par le présent protocole, sous réserve que les États et organisations concernés soient parties à la Convention, à Genève du 18 novembre 1991 au 22 novembre 1991 inclus, puis au Siège de l'organisation des Nations Unies à New York, jusqu'au 22 mai 1992.
+
+2. Dans les matières qui relèvent de leur compétence, ces organisations d'intégration économique régionale exercent en propre les droits et s'acquittent en propre des responsabilités que le présent protocole attribue à leurs États membres. En pareil cas, les États membres de ces organisations ne peuvent exercer ces droits individuellement.
