@@ -1,0 +1,1 @@
+Arrêté municipal n° 73-71 du 29 août 1973 prescrivant les mesures de sécurité à respecter dans les enceintes sportives et interdisant la vente des boissons dans des récipients pouvant constituer un danger pour les spectateurs et les joueurs
