@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 4 août 1899 sur le commerce de la banque
 
-Version en vigueur au 27 septembre 1899.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1899/08-04-L002785@1899.09.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1899/08-04-L002785@1911.04.19/
 
 | | |
 | --- | --- |
