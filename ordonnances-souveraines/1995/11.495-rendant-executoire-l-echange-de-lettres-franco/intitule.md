@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.495 du 23 février 1995 rendant exécutoire l'échange de lettres franco-monégasque du 8 novembre 1994 modifiant, en ce qui concerne le statut des navires, la convention douanière du 18 mai 1963
