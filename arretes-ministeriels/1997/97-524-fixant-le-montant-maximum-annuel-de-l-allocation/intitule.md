@@ -1,0 +1,1 @@
+Arrêté ministériel n° 97-524 du 3 novembre 1997 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la caisse autonome des retraites au titre de l'exercice 1996-1997
