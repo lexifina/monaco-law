@@ -1,8 +1,8 @@
 # Arrêté municipal n° 83-33 du 4 juillet 1983 fixant les dispositions relatives à la circulation et au stationnement des véhicules en ville
 
-Version en vigueur au 3 janvier 2004.
+Version en vigueur au 1er janvier 2005.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/1983/07-04-83-33@2004.01.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/1983/07-04-83-33@2005.01.01/
 
 | | |
 | --- | --- |

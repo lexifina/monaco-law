@@ -52,6 +52,4 @@ La circulation des véhicules d'un poids total autorisé en charge supérieur à
 
 - b) La circulation des véhicules d'un poids total autorisé supérieur à 8,5 tonnes est autorisée.
 
-9° Rue de l'Industrie
-
-Un sens unique de circulation est instauré dans le sens Avenue Prince Héréditaire Albert à la frontière.
+9° (9° abrogé).
