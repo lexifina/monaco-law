@@ -1,0 +1,1 @@
+Arrêté ministériel n° 61-395 du 26 décembre 1961 fixant les conditions dans lesquelles les boissons non alcoolisées doivent être mises à la disposition des travailleurs soumis à des conditions particulières résultant de la sécheresse ou de la composition de l'atmosphère, du niveau de la température ambiante, de la chaleur rayonnée ou de l'exposition à des intempéries
