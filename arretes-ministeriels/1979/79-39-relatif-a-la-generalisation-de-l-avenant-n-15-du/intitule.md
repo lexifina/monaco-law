@@ -1,0 +1,1 @@
+Arrêté ministériel n° 79-39 du 19 janvier 1979 relatif à la généralisation de l'avenant n° 15 du 13 juin 1978 à la convention collective nationale de travail, instituant un régime de garantie des créances de salaires
