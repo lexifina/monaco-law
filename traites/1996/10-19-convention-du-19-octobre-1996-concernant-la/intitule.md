@@ -1,0 +1,1 @@
+Convention du 19 octobre 1996 concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants, faite à La Haye
