@@ -1,0 +1,3 @@
+# Article 8
+
+Recouvrement des paiements indus . - Si un bénéficiaire a perçu indûment une prestation servie par une institution compétente néerlandaise et que par ailleurs il a droit à une prestation servie par un organisme de sécurité sociale monégasque, l'institution compétente néerlandaise peut demander que les paiements indus soient compensés par les arriérés ou les montants encore dus en application de la législation monégasque. L'organisme de sécurité sociale monégasque déduit les montants conformément à et dans les limites fixées par la législation à laquelle elle est soumise et remet les sommes en question à l'institution compétente néerlandaise.
