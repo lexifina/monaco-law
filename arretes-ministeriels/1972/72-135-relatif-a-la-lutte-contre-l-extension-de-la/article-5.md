@@ -1,0 +1,3 @@
+# Article 5
+
+Tout responsable des établissements spécialisés pour la fabrication, le commerce de gros et de détail du matériel médico-chirurgical et dentaire concerné par les présentes dispositions, à l'exception des pharmaciens d'officine ou des responsables d'établissements pharmaceutiques, doit, dans le délai de quinze jours à compter de la publication du présent arrêté, adresser une déclaration au ministère d'État précisant son activité et indiquant les objets visés à l'article 1er, qu'il fabrique, importe ou dont il fait le commerce ; le récépissé de déclaration est conservé par l'intéressé pour être présenté à toute réquisition des pharmaciens-inspecteurs de l'action sanitaire et sociale.
