@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 4.486 du 12 juin 1970 rendant exécutoire à Monaco la Convention internationale de 1954 pour la prévention de la pollution des eaux de la mer par les hydrocarbures, modifiée en 1962
