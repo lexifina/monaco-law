@@ -1,0 +1,3 @@
+# Article 4
+
+Il est défendu d'inscrire sciemment qui que ce soit sous des noms faux ou supposés, et de loger sciemment des malfaiteurs, ou des femmes de débauche...
