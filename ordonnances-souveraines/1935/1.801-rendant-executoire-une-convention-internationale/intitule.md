@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.801 du 18 décembre 1935 rendant exécutoire une convention internationale pour assurer l'exécution réciproque des jugements en matière de faillite et de liquidation judiciaire signée à Paris, le 22 juillet 1935 avec la République Française
