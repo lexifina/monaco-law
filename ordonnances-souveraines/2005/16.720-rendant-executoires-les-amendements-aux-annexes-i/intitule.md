@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.720 du 21 mars 2005 rendant exécutoires les Amendements aux Annexes I et II ainsi que la version révisée de l'Annexe III de la Convention faite à Washington le 3 mars 1973, sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, adoptés à Bangkok en octobre 2004
