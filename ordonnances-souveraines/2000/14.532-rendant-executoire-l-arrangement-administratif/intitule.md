@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.532 du 17 juillet 2000 rendant exécutoire l'arrangement administratif particulier franco-monégasque concernant les modalités de remboursement des frais exposés dans les établissements de soins français et monégasques
