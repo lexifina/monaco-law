@@ -1,0 +1,3 @@
+# Article 6
+
+Compte tenu des articles 2 à 5, des recherches en cours, des échanges d'informations et des activités de surveillance et de leurs résultats, du coût et de l'efficacité des mesures correctives prises localement et d'autres mesures, et pour combattre la pollution atmosphérique, en particulier celle qui provient d'installations nouvelles ou transformées, chaque Partie contractante s'engage à élaborer les meilleures politiques et stratégies, y compris des systèmes de gestion de la qualité de l'air et, dans le cadre de ces systèmes, des mesures de contrôle qui soient compatibles avec un développement équilibré, en recourant notamment à la meilleure technologie disponible et économiquement applicable et à des techniques produisant peu ou pas de déchets.

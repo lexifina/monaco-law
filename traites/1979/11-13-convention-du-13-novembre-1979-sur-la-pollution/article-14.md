@@ -1,0 +1,5 @@
+# Article 14
+
+1. La présente Convention sera ouverte à la signature des États membres de la Commission économique pour l'Europe, des États jouissant du statut consultatif auprès de la Commission économique pour l'Europe en vertu du par. 8 de la résolution 36 (IV) du 28 mars 1947 du Conseil économique et social et des organisations d'intégration économique régional constituées par des États souverains membres de la Commission économique pour l'Europe et ayant compétence pour négocier, conclure et appliquer des accords internationaux dans les matières couvertes par la présente Convention, à l'Office des Nations Unies à Genève, du 13 au 16 novembre 1979, à l'occasion de la Réunion à haut niveau, dans le cadre de la Commission économique pour l'Europe, sur la protection de l'environnement.
+
+2. S'agissant de questions qui relèvent de leur compétence, ces organisations d'intégration économique régionale pourront, en leur nom propre, exercer les droits et s'acquitter des responsabilités que la présente Convention confère à leurs États membres. En pareil cas, les États membres de ces organisations ne seront pas habilités à exercer ces droits individuellement.
