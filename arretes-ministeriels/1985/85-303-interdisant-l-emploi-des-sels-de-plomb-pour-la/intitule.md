@@ -1,0 +1,1 @@
+Arrêté ministériel n° 85-303 du 31 mai 1985 interdisant l'emploi des sels de plomb pour la fabrication des revêtements de perles d'imitation ainsi que la commercialisation et l'importation desdites perles ou articles les comportant
