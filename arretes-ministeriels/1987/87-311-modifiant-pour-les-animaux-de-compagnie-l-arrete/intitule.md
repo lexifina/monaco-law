@@ -1,0 +1,1 @@
+Arrêté ministériel n° 87-311 du 12 juin 1987 modifiant pour les animaux de compagnie l'arrêté ministériel n° 83-241 du 27 mai 1983 portant exonération de la réglementation des substances, plantes et produits vénéneux destinés à la médecine vétérinaire
