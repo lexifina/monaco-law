@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 12.094 du 28 novembre 1996 rendant exécutoires les amendements aux annexes I, II et III de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction faite à Washington le 3 mars 1973
