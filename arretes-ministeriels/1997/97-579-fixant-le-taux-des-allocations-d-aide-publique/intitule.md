@@ -1,0 +1,1 @@
+Arrêté ministériel n° 97-579 du 25 novembre 1997 fixant le taux des allocations d'aide publique aux travailleurs privés momentanément et involontairement d'emploi et des plafonds de ressources pour en bénéficier
