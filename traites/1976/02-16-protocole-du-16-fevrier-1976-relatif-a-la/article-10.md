@@ -1,15 +1,5 @@
 # Article 10
 
-1. Chaque Partie désigne une ou plusieurs autorités compétentes pour :
+1. Toute Partie ayant besoin d'assistance pour une opération de lutte contre la pollution par les hydrocarbures ou autres substances nuisibles polluant ou menaçant de polluer ses côtes peut demander soit directement, soit par l'intermédiaire du centre régional visé à l'article 6, le concours d'autres Parties, celles qui sont susceptibles d'être également affectées par la pollution étant sollicitées en premier lieu. Ce concours peut comporter notamment des conseils d'experts et la fourniture ou mise à disposition de produits d'équipement et de moyens nautiques. Les Parties ainsi sollicitées font tous les efforts possibles pour apporter leur concours.
 
-- a) Délivrer les permis spécifiques visés à l'article 5 ;
-
-- b) Délivrer les permis généraux visés à l'article 6 ;
-
-- c) Enregistrer la nature et la quantité de déchets ou autres matières dont l'immersion est autorisée, ainsi que le lieu, la date et la méthode d'immersion.
-
-2. Les autorités compétentes de chaque Partie délivreront les permis visés aux articles 5 et 6 pour les déchets ou autres matiêres destinés à l'immersion :
-
-- a) Chargés sur son territoire ;
-
-- b) Chargés par un navire ou un aéronef enregistré sur son territoire ou battant son pavillon lorsque ce chargement a lieu sur le territoire d'un État non Partie au présent Protocole.
+2. Si les Parties engagées dans l'opération ne peuvent s'entendre sur la conduite même de la lutte, le centre régional peut, avec leur accord, coordonner l'activité des moyens mis en œuvre par ces Parties.
