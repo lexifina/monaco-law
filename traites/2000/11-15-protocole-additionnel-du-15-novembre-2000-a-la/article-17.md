@@ -1,0 +1,5 @@
+# Article 17
+
+1. Le présent protocole entrera en vigueur le quatre-vingt-dixième jour suivant la date de dépôt du quarantième instrument de ratification, d'acceptation, d'approbation ou d'adhésion, étant entendu qu'il n'entrera pas en vigueur avant que la convention n'entre elle-même en vigueur. Aux fins du présent paragraphe, aucun des instruments déposés par une organisation régionale d'intégration économique n'est considéré comme un instrument venant s'ajouter aux instruments déjà déposés par les États membres de cette organisation.
+
+2. Pour chaque État ou organisation régionale d'intégration économique qui ratifiera, acceptera ou approuvera le présent protocole ou y adhérera après le dépôt du quarantième instrument pertinent, le présent protocole entrera en vigueur le trentième jour suivant la date de dépôt de l'instrument pertinent par ledit État ou ladite organisation ou à la date à laquelle il entre en vigueur en application du paragraphe 1 du présent article, si celle-ci est postérieure.
