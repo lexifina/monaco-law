@@ -1,0 +1,12 @@
+# Ordonnance Souveraine n° 3.243 du 16 septembre 1964 rendant exécutoire l'arrangement administratif relatif aux modalités d'application de la convention de sécurité sociale et de l'accord sur les pensions de vieillesse conclus entre la République italienne et la Principauté de Monaco respectivement le 11 octobre 1961 et le 2 avril 1964
+
+Version en vigueur au 26 septembre 1964.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/09-16-3.243@1964.09.26/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 16 septembre 1964 |
+| Publication | Journal de Monaco du 25 septembre 1964 |
