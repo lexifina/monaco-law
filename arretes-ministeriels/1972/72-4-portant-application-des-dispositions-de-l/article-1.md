@@ -1,0 +1,3 @@
+# Article 1
+
+Les mesures de niveau sonore produit par des engins utilisés dans les chantiers de travaux publics ou privés seront effectuées au moyen d'un sonomètre de précision conforme aux normes édictées dans le document dénommé « publication 179 - sonomètres de précisions », publié par la commission électrotechnique internationale, organisme, affilié à l'organisation internationale de normalisation (ISO). La mesure sera effectuée en courbe « A », le sonomètre étant réglé sur la constante de 0,3 (lente). En outre, en cas de vent, le microphone de l'appareil devra être muni d'un écran anti-vent. Dans ce cas, la correction de sensibilité à la présence de l'écran devra être faite.
