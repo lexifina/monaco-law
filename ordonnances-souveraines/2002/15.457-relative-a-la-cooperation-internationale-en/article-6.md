@@ -1,0 +1,9 @@
+# Article 6
+
+La procédure applicable devant le tribunal saisi en application du premier alinéa de l'article 5 est celle déterminée par les dispositions du Code de procédure pénale.
+
+Le tribunal entend, le cas échéant par commission rogatoire, le condamné ainsi que toute personne ayant des droits sur les biens qui ont fait l'objet de la décision étrangère de confiscation.
+
+Les personnes mentionnées à l'alinéa précédent peuvent se faire représenter par un avocat-défenseur.
+
+Le tribunal est lié par les constatations de fait de la décision étrangère. Si ces constatations sont insuffisantes, il peut ordonner un supplément d'information.
