@@ -1,0 +1,3 @@
+# Article 2
+
+Les deux parties s'engagent à appliquer le principe de la reconnaissance mutuelle des titres aux attestations de premiers secours et aux attestations de formation complémentaire aux premiers secours délivrées par l'une ou l'autre partie aux candidats ayant validé chacun des dix modules de la formation de base, tels que définis par l'annexe I du présent accord. Ces attestations sont délivrées à Monaco par la Croix-Rouge Monégasque, en France par des organismes publics habilités ou par des associations agréées à cet effet par le Ministère de l'intérieur. La validité des attestations ainsi délivrées s'étend au territoire des deux États.

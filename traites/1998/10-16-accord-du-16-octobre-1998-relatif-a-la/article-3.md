@@ -1,0 +1,3 @@
+# Article 3
+
+Pour ce qui concerne les certificats et brevets cités à l'article premier, les modalités d'organisation, de déroulement, de validation des examens ainsi que la délivrance des titres sont fixées par un arrangement administratif conclu entre les Autorités compétentes des deux pays. À Monaco, ils le sont par la Croix-Rouge Monégasque après suivi d'une formation identique et la réussite à un examen identique. En France, ces certificats et brevets sont délivrés par les préfets de département après suivi des formations prévues par les Annexes II, III et IV dudit Accord et réussite à un examen. La validité des certificats et brevets ainsi délivrés s'étend au territoire des deux États.
