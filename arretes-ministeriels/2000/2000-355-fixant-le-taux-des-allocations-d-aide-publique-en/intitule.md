@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2000-355 du 27 juillet 2000 fixant le taux des allocations d'aide publique en faveur des travailleurs privés momentanément et involontairement d'emploi et des plafonds de ressources pour en bénéficier
