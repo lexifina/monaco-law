@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.662 du 27 octobre 1961 rendant exécutoire l'arrangement administratif fixant les modalités d'application de l'accord italo-monégasque sur le régime de sécurité sociale applicable aux travailleurs temporaires italiens
