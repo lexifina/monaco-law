@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 15.116 du 23 novembre 2001 portant adaptation en euros des montants exprimés en francs dans certaines ordonnances souveraines prises pour l'application des traités internationaux
