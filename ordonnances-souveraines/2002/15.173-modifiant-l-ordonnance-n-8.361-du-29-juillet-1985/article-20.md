@@ -1,0 +1,3 @@
+# Article 20
+
+En cas d'opposition au jugement par défaut, les droits alloués ci-dessus sont imputés sur les droits de même nature alloués pour le jugement définitif.
