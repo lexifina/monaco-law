@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 8.017 du 1er juin 1984 portant statut des militaires de la force publique
+# Ordonnance souveraine n° 8.017 du 1er juin 1984 portant statut des militaires de la force publique
 
-Version en vigueur au 25 juin 1994.
+Version en vigueur au 20 novembre 2004.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1984/06-01-8.017@1994.06.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1984/06-01-8.017@2004.11.20/
 
 | | |
 | --- | --- |
