@@ -1,0 +1,3 @@
+# Article 9
+
+Les experts-comptables stagiaires qui ne sont pas autorisés à exercer en leur nom personnel et qui n'ont pas par conséquent, la qualité de membre de l'ordre, forment néanmoins, de plein droit un groupement corporatif placé sous la tutelle du conseil de l'ordre. En conséquence, il est interdit aux experts-comptables stagiaires de se grouper en d'autres associations professionnelles, notamment en syndicats régis par l'ordonnance-loi n° 39 du 6 octobre 1944, à l'exception, toutefois, des organismes qui peuvent être créés par le conseil de l'ordre, en vertu des dispositions de l'article 19 de la loi n° 406 du 12 janvier 1945 et auxquels leur adhésion serait déclarée recevable en vertu d'une décision dudit conseil.
