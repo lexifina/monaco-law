@@ -1,0 +1,1 @@
+Arrêté ministériel n° 99-581 du 13 décembre 1999 fixant le taux de la contribution des employeurs et de la Caisse des congés payés du bâtiment au « Fonds complémentaire de réparation des accidents du travail et des maladies professionnelles » au titre de l'année 2000
