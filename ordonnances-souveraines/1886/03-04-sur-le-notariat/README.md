@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 4 mars 1886 sur le notariat
 
-Version en vigueur au 10 juillet 1965.
+Version en vigueur au 31 juillet 1965.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1886/03-04-L002680@1965.07.10/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1886/03-04-L002680@1965.07.31/
 
 | | |
 | --- | --- |
