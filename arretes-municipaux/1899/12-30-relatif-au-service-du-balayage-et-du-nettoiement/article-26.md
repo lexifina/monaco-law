@@ -1,0 +1,3 @@
+# Article 26
+
+Il est également interdit de jeter lesdites matières sur un point quelconque de la Principauté, y compris sur le rivage de la mer. Les habitants de Monaco pourront provisoirement continuer à porter leurs eaux ménagères au déversoir de la Grue, à la condition, toutefois, de ne faire usage pour le transport que d'ustensiles complètement étanches et clos. Les propriétaires des terrains situés loin des habitations et des chemins publics pourront aussi provisoirement continuer à fumer leurs arbres avec les matières provenant de la vidange, pourvu que le transport de ces matières soit fait avec des tinettes bien étanches, dans le délai déterminé par l'article 11.
