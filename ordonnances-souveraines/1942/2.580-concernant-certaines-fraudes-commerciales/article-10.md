@@ -1,0 +1,5 @@
+# Article 10
+
+Il est interdit à toute personne se livrant au commerce des vins de liqueur de faire figurer sur ses étiquettes, marques, factures, papiers de commerce, emballages et récipients, la mention « propriétaire à... », « viticulteur à... », « négociant à... », ou « commerçant à... », suivie d'un nom d'une région ou d'un cru particulier sur le territoire duquel elle ne possède ni propriété, ni vignoble, ni établissement commercial.
+
+Lorsqu'un nom de région ou de localité constitue une appellation d'origine, les propriétaires, viticulteurs, négociants ou commerçants résidant dans cette région ou localité, quand ils mettent en vente ou vendent un produit n'ayant pas droit à ladite appellation, ne peuvent faire figurer sur leurs étiquettes, marques, factures, papiers de commerce, emballages et récipients le nom de ladite région ou localité qu'à la condition de le faire précéder des mots « propriétaire à... », « viticulteur à... », « négociant à... », ou « commerçant à... », suivis de l'indication du département où est située la région ou la localité, le tout imprimé en caractères identiques.
