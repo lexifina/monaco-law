@@ -2,7 +2,7 @@
 
 Les permis de conduire des catégories suivantes :
 
-B, avec la mention « véhicules publics » ;
+B, avec la mention » véhicules publics « ;
 
 B + E, C, C + E, D, D1, D + E ;
 
@@ -10,4 +10,4 @@ Ainsi que les permis délivrés aux personnes handicapées nécessitant un amén
 
 Les permis de conduire les véhicules des catégories C, D1 ou D ne peuvent être délivrés qu'aux conducteurs titulaires du permis B.
 
-Les permis de conduire mentionnant une catégorie de base, et l'extension, désignée par la lettre « E », aux remorques de plus de 750 kilogrammes, ne peuvent être délivrés qu'aux conducteurs titulaires du permis correspondant à la catégorie de base.
+Les permis de conduire mentionnant une catégorie de base, et l'extension, désignée par la lettre » E «, aux remorques de plus de 750 kilogrammes, ne peuvent être délivrés qu'aux conducteurs titulaires du permis correspondant à la catégorie de base.

@@ -1,21 +1,17 @@
 # Article 153
 
-Pour l'application des dispositions de la présente ordonnance, les définitions suivantes sont adoptées :
+Pour l'application des dispositions du présent titre, les définitions suivantes sont adoptées :
 
-Motocyclettes :
+- Motocyclettes :
 
-Tout véhicule à deux roues, avec ou sans side-car, pourvu d'un moteur thermique d'une cylindrée supérieure à 125 cm3 et dont la puissance n'excède pas 73,6 kW (100 CV).
+Véhicules à deux roues à moteur ne répondant pas à la définition du cyclomoteur et dont la puissance n'excède pas 73,6 kilowatts ; l'adjonction d'un side-car à une motocyclette ne modifie pas le classement de celle-ci.
 
-Motocyclette légère (ancienne appellation : vélomoteur) :
+- Motocyclettes légères :
 
-Tout véhicule à deux roues, avant ou sans side-car, dont la cylindrée n'excède pas 125 cm3, et dont la puissance n'excède pas 9,6 kW (13 CV).
+Motocyclette dont la cylindrée n'excède pas 125 cm 3 et dont la puissance n'excède pas 11 kilowatts.
 
-Tricycle ou quadricycle à moteur :
+- Tricycles et quadricycles à moteur :
 
-Tout véhicule à trois ou quatre roues :
+Véhicules à moteur à trois ou quatre roues dont la puissance n'excède pas 15 kilowatts et dont la masse à vide n'excède pas 550 kilogrammes, étant précisé que pour les véhicules électriques la masse des batteries ne doit pas être prise en compte.
 
-- d'une vitesse par construction supérieure à 50 km/h ;
-
-- ou équipé d'un moteur thermique à allumage commandé d'une cylindrée supérieure à 50 cm3, ou de tout autre moteur de puissance équivalente ;
-
-- dont le poids à vide n'excède pas 550 kilogrammes, étant précisé que, pour les véhicules électriques, le poids des batteries ne doit pas être pris en compte.
+Les dispositions des articles 101 à 110 bis, 116 à 118, et 121 à 130 du Code de la route sont applicables aux véhicules de ces catégories.

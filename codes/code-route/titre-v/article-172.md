@@ -1,9 +1,11 @@
 # Article 172
 
-Pour l'application des dispositions du présent titre, le terme « cyclomoteur » désigne tout véhicule pourvu d'un moteur thermique auxiliaire d'une cylindrée n'excédant pas 50 cm3, possédant les caractéristiques normales des cycles quant à leurs possibilités d'emploi et dont la vitesse de marche ne peut excéder, par construction 45 km/h. Un cyclomoteur à deux roues ne doit posséder ni embrayage ni boîte de vitesse non automatiques.
+Pour l'application des dispositions du présent titre, les définitions suivantes sont adoptées :
 
-Tout conducteur de cyclomoteur doit être âgé d'au moins 14 ans et titulaire d'un permis de conduire autorisant l'usage des véhicules de la catégorie des cyclomoteurs.
+Cyclomoteur : véhicule à deux ou trois roues dont la vitesse maximale par construction ne dépasse pas 45 km/h et équipé :
 
-Il est tenu de présenter ces documents à tout agent de l'autorité.
+a) pour un cyclomoteur à deux roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm 3 s'il est à combustion interne ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur ;
 
-Les dispositions des articles 101 à 110, 116, 117 et 121 à 129 sont applicables aux véhicules de cette catégorie.
+b) pour un cyclomoteur à trois roues, d'un moteur d'une cylindrée ne dépassant pas 50 cm 3 s'il est à allumage commandé ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur.
+
+Les dispositions des articles 101 à 110 bis, 116 à 118, et 121 à 130 du Code de la route sont applicables aux véhicules de cette catégorie
