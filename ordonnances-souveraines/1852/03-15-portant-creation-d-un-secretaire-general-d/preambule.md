@@ -1,0 +1,1 @@
+Un secrétariat général d'administration est institué, dont le titulaire exercera, sous la direction de Notre gouverneur général, une surveillance permanente et régulière sur les différents services administratifs et expédiera les affaires qui s'y rattachent.
