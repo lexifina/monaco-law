@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 16.456 du 7 octobre 2004 sur la recherche scientifique dans les zones maritimes monégasques et les dispositions communes aux diverses activités d'exploration, d'exploitation et de recherches
