@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 9.042 du 9 novembre 1987 rendant exécutoires à Monaco les amendements aux annexes I et II de la convention, faite à Washington le 3 mars 1973, sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, adoptés par la conférence des parties lors de sa sixième session à Ottawa, Canada, du 12 au 24 juillet 1987
