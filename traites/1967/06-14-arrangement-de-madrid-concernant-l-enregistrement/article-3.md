@@ -1,0 +1,15 @@
+# Article 3
+
+1. Toute demande d'enregistrement international devra être présentée sur le formulaire prescrit par le Règlement d'exécution ; l'Administration du pays d'origine de la marque certifiera que les indications qui figurent sur cette demande correspondent à celles du registre national et mentionnera les dates et les numéros du dépôt et de l'enregistrement de la marque au pays d'origine ainsi que de la date de la demande d'enregistrement international.
+
+2. Le déposant devra indiquer les produits ou les services pour lesquels la protection de la marque est revendiquée, ainsi que, si possible, la ou les classes correspondantes, d'après la classification établie par l'Arrangement de Nice concernant la classification internationale des produits et services aux fins de l'enregistrement des marques. Si le déposant ne donne pas cette indication, le Bureau international classera les produits ou les services dans les classes correspondantes de ladite classification. Le classement indiqué par le déposant sera soumis au contrôle du Bureau international, qui l'exercera en liaison avec l'Administration nationale. En cas de désaccord entre l'Administration nationale et le Bureau international, l'avis de ce dernier sera déterminant.
+
+3. Si le déposant revendique la couleur à titre d'élément distinctif de sa marque, il sera tenu ;
+
+- 1° De le déclarer et d'accompagner son dépôt d'une mention indiquant la couleur ou la combinaison de couleurs revendiquée ;
+
+- 2° De joindre à sa demande des exemplaires en couleur de ladite marque, qui seront annexés aux notifications faites par le Bureau international. Le nombre de ces exemplaires sera fixé par le Règlement d'exécution.
+
+4. Le Bureau international enregistrera immédiatement les marques déposées conformément à l'article premier. L'enregistrement portera la date de la demande d'enregistrement international au pays d'origine pourvu que la demande ait été reçue par le Bureau international dans le délai de deux mois à compter de cette date. Si la demande n'a pas été reçue dans ce délai, le Bureau international l'inscrira à la date à laquelle il l'a reçue. Le Bureau international notifiera cet enregistrement sans retard aux Administrations intéressées. Les marques enregistrées seront publiées dans une feuille périodique éditée par le Bureau international, au moyen des indications contenues dans la demande d'enregistrement. En ce qui concerne les marques comportant un élément figuratif ou un graphisme spécial, le Règlement d'exécution déterminera si un cliché doit être fourni par le déposant.
+
+5. En vue de la publicité à donner dans les pays contractants aux marques enregistrées, chaque Administration recevra du Bureau international un nombre d'exemplaires gratuits et un nombre d'exemplaires à prix réduit de la susdite publication proportionnels au nombre d'unités mentionné à l'article 16.4 a de la Convention de Paris pour la protection de la propriété industrielle dans les conditions fixées par le Règlement d'exécution. Cette publicité sera considérée dans tous les pays contractants comme pleinement suffisante et aucune autre ne pourra être exigée du déposant.
