@@ -1,0 +1,7 @@
+# Article XII
+
+1. Par référence à l'article 33, les Administrations postales des pays suivants n'acceptent pas les lettres ordinaires et recommandées contenant des objets passibles de droits de douane : République de l'Afghanistan, République populaire d'Albanie, Royaume de l'Arabie Saoudite, République socialiste soviétique de Biélorussie, République fédérative du Brésil, République populaire de Bulgarie, République centrafricaine, Chili, République populaire de Chine, République de Colombie, République de Cuba, République de El Salvador, République de l'Équateur, Éthiopie, Italie, République khmère, Népal, République de Panama, République du Pérou, République démocratique allemande, République socialiste de Roumanie, République de Saint-Marin, République socialiste soviétique d'Ukraine, Union des républiques socialistes soviétiques, République de Vénézuéla, République socialiste fédérative de Yougoslavie.
+
+2. Par référence à l'article 33, les Administrations postales des pays suivants n'acceptent pas les lettres ordinaires contenant des objets passibles de droits de douane : République de Côte-d'Ivoire, République du Dahomey, République de Haute-Volta, République d'Indonésie, République du Mali, République islamique de Mauritanie, République du Niger, Sultanat d'Oman, République du Sénégal, République arabe du Yémen.
+
+3. Nonobstant les paragraphes 1 et 2, les envois de sérums, de vaccins, ainsi que les envois de médicaments d'urgente nécessité qu'il est difficile de se procurer sont admis dans tous les cas.

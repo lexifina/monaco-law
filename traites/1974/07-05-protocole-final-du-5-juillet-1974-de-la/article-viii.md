@@ -1,0 +1,7 @@
+# Article VIII
+
+1. Par dérogation à l'article 19, paragraphe 16, sont autorisées à ne pas admettre dans les lettres recommandées les valeurs mentionnées audit paragraphe 16, les Administrations postales des pays ci-après : Royaume de l'Arabie Saoudite, République argentine, République populaire du Bangladesh, Royaume de Bhoutan, République socialiste soviétique de Biélorussie, République de Bolivie, République fédérative du Brésil, Chili, République de Colombie, République de Costa-Rica, République de Cuba, République arabe d'Égypte, République de El Salvador, République de l'Équateur, République du Honduras, Iran, Italie, États-Unis du Mexique, Népal, Pakistan, République de Panama, République de Paraguay, République du Pérou, République socialiste soviétique d'Ukraine, Union des républiques socialistes soviétiques, République de Vénézuéla.
+
+2. Par dérogation à l'article 19, paragraphe 16, les Administrations postales de la République populaire de Chine, de l'Inde et de la République khmère sont autorisées à ne pas admettre dans les lettres ordinaires ou recommandées les valeurs mentionnées audit paragraphe 16.
+
+3. Par dérogation à l'article 19, paragraphe 16 les Administrations postales de la République de l'Afghanistan et de la République arabe du Yémen sont autorisées à ne pas admettre dans les lettres recommandées du platine, de l'or, de l'argent, manufacturés ou non, des pierreries et des bijoux.
