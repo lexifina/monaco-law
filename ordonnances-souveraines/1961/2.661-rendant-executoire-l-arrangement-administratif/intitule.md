@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.661 du 27 octobre 1961 rendant exécutoire l'arrangement administratif fixant les modalités d'application de la convention italo-monégasque sur l'assurance des accidents du travail et les maladies professionnelles
