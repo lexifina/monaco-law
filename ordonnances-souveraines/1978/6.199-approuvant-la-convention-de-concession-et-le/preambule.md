@@ -1,0 +1,1 @@
+Sont approuvés la convention de concession et le cahier des charges, intervenus le 31 décembre 1977, entre Notre administration des domaines et M. Pierre Rechniewski, Administrateur-Délégué et Directeur de la Compagnie des autobus de Monaco, société anonyme au capital de 1 000 000 F.
