@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 19 mars 1906 sur la vente des effets mobiliers déposés à l'occasion d'infractions à la loi pénale
 
-Version en vigueur au 28 mars 1906.
+Version en vigueur au 31 juillet 1965.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1906/03-19-L002700@1906.03.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1906/03-19-L002700@1965.07.31/
 
 | | |
 | --- | --- |
