@@ -1,0 +1,5 @@
+# Article 9
+
+Les titulaires de licences d'hôtels, d'hôtels meublés, de pensions de famille ou d'autorisations de location visées à l'article 11 de la présente ordonnance, doivent tenir un registre qui sera coté et paraphé par un commissaire de police et sur lequel seront recopiés immédiatement, sans aucun blanc ni interligne : les nom, prénoms, profession, lieu et date de naissance, nationalité, numéro, date et lieu de délivrance de la carte de séjour, de la carte d'identité, du passeport ou du titre de voyage en tenant lieu, dates d'entrée et de sortie de toutes les personnes logeant dans leur établissement. Ce registre devra être présenté à toute réquisition des fonctionnaires ou agents de l'autorité.
+
+Les personnes mentionnées à l'alinéa précédent, à l'exclusion de celles visées à l'article 11, devront, en outre, remettre, chaque matin, à la direction de la sûreté publique, une fiche de modèle réglementaire indiquant notamment, le numéro de la chambre, ou de l'appartement, occupé par tout voyageur.
