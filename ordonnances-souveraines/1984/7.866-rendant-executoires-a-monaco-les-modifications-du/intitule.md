@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 7.866 du 10 janvier 1984 rendant exécutoires à Monaco les modifications du règlement d'exécution annexé au traité de coopération en matière de brevets, fait à Washington le 19 juin 1970, adoptées par l'assemblée de l'union internationale de coopération en matière de brevets le 1er octobre 1983
