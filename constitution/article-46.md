@@ -2,12 +2,14 @@
 
 Sont dispensées de la délibération en Conseil de Gouvernement et de la présentation par le Ministre d'État, les Ordonnances Souveraines :
 
-- concernant les affaires relevant de la direction des services judiciaires,
+- relatives aux statuts de la Famille Souveraine ainsi que celles concernant ses membres ;
 
-- portant nomination des membres de la Maison Souveraine, de ceux des corps diplomatique et consulaire, du Ministre d'État, des Conseillers de Gouvernement et fonctionnaires assimilés, des magistrats de l'ordre judiciaire,
+- concernant les affaires relevant de la Direction des Services Judiciaires ;
 
-- accordant l'exequatur aux consuls,
+- portant nomination des membres de la Maison souveraine, de ceux des corps diplomatique et consulaire, du Ministre d'État, des Conseillers de Gouvernement et fonctionnaires assimilés, des magistrats de l'ordre judiciaire ;
 
-- portant dissolution du Conseil National,
+- accordant l'exequatur aux consuls ;
+
+- portant dissolution du Conseil National ;
 
 - conférant les distinctions honorifiques.

@@ -2,6 +2,6 @@
 
 Le Conseil National vote le budget.
 
-Aucune contribution directe ne peut être établie que sur le voeu ou avec l'assentiment du Conseil National.
+Aucune contribution directe ou indirecte ne peut être établie que par une loi.
 
-Aucune contribution indirecte ne petit être établie que par une loi, sous réserve toutefois de celles découlant d'un traité international.
+Tout traité ou accord international ayant pour effet l'établissement d'une telle contribution ne peut être ratifié qu'en vertu d'une loi.

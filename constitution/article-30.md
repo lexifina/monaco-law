@@ -1,3 +1,3 @@
 # Article 30
 
-Les Monégasques ont le droit de s'associer librement dans le respect des règles constitutionnelles.
+La liberté d'association est garantie dans le cadre des lois qui la réglementent.
