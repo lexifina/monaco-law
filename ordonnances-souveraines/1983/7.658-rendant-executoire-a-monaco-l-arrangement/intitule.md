@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.658 du 6 avril 1983 rendant exécutoire à Monaco l'arrangement administratif, signé à Paris le 1er mars 1983, modifiant l'arrangement du 5 novembre 1954 relatif aux modalités d'application de la convention de sécurité sociale du 28 février 1952 entre la Principauté de Monaco et la France
