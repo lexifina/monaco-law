@@ -1,0 +1,3 @@
+# Article 1er
+
+Les pièces nécessaires au mariage des indigents, à la légitimation de leurs enfants naturels, au placement de ces enfants dans des hospices ou des établissements charitables, ou à leur retrait, seront dispensées du timbre et enregistrées gratis, pourvu que la destination spéciale de ces pièces y soit mentionnée et qu'il soit justifié d'un certificat d'indigence délivré par le maire ou le commissaire de police et approuvé par le juge de paix, constatant que l'intéressé ne possède ni immeuble, ni fonds de commerce, et qu'on ne lui connaît d'autre ressource que son salaire journalier de...
