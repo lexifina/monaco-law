@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.171 du 26 décembre 1977 fixant la date prévue au dernier alinéa de l'article 3 de l'ordonnance-loi n° 669 du 17 septembre 1959 relative aux conditions de location des locaux à usage d'habitation

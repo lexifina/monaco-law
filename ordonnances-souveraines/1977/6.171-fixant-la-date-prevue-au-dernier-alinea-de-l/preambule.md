@@ -1,0 +1,3 @@
+Vu l'ordonnance-loi n° 669 du 17 septembre 1959, modifiant et codifiant la législation relative aux conditions de location des locaux à usage d'habitation, modifiée notamment par la loi n° 970 du 6 juin 1975 ;
+
+La date à compter de laquelle la qualité de prioritaire pourra être reconnue aux personnes entrant dans la catégorie visée au chiffre 4° de l'article 3 modifié de l'ordonnance-loi n° 669 du 17 septembre 1959, c'est-à-dire aux personnes de nationalité étrangère nées à Monaco, y ayant résidé sans interruption durant leur minorité et jusqu'à leur mariage et y exerçant une activité professionnelle depuis au moins deux années, est fixée au 1er février 1978.
