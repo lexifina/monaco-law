@@ -1,0 +1,9 @@
+# Article 10
+
+1. Sauf dans le cas d'un décalage initial de fréquence maximum de 1 kc/s (article 9), toute administration désireuse d'apporter un changement aux caractéristiques telles que fréquence, puissance, position géographique, etc., d'une des stations côtières figurant au Plan, ou d'installer une nouvelle station côtière, devra en informer les autres administrations qu'elle juge directement intéressées.
+
+2. Si un accord intervient entre ces administrations, il est communiqué au Secrétaire général de l'Union qui le porte à la connaissance de toutes autres administrations. Le Secrétaire général s'assurera, en prenant toutes mesures utiles, que la communication est parvenue auxdites administrations.
+
+3. Toute administration qui considère que cet accord peut affecter défavorablement ses propres services devra faire part de ses observations par l'entremise du Secrétaire général de l'Union, dans un délai de six semaines à partir de la date de réception de cette communication. Le changement ne peut être effectué avant l'expiration de ce délai. Toute administration qui n'aura pas répondu dans ce délai sera considérée comme ayant donne son assentiment. Après l'expiration de ce délai, la mesure proposée peut être adoptée si aucune contestation ne s'est élevée ou si toutes les administrations intéressées sont d'accord.
+
+4. À défaut d'une entente intervenue aux termes du paragraphe 3 ci-dessus, les administrations en désaccord peuvent faire appel à un ou des experts agréés par toutes les parties au différend ou avoir recours à tout autre moyen de conciliation qu'elles auront convenu. Si aucune de ces méthodes n'est adoptée, toute administration partie intéressée au différend peut le soumettre à l'arbitrage, conformément à la procédure prévue à l'annexe 3 de la Convention internationale des télécommunications.
