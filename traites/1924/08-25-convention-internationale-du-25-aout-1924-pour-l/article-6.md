@@ -1,0 +1,7 @@
+# Article 6
+
+Nonobstant les dispositions des articles précédents, un transporteur, capitaine ou l'agent du transporteur et un chargeur seront libres, pour des marchandises déterminées, quelles qu'elles soient, de passer un contrat quelconque avec des conditions quelconques concernant la responsabilité et les obligations du transporteur pour ces marchandises, ainsi que les droits et exonérations du transporteur au sujet de ces mêmes marchandises, ou concernant ses obligations, quant à l'état de navigabilité du navire dans la mesure où cette stipulation n'est pas contraire à l'ordre public, ou concernant les soins ou diligence de ses préposés ou agents quant au chargement, à la manutention, l'arrimage, au transport, à la garde, aux soins et au déchargement des marchandises transportées par mer, pourvu qu'en ce cas aucun connaissement n'ait été ou ne soit émis et que les conditions de l'accord intervenu soient insérées dans un récépissé qui sera un document non négociable et portera mention de ce caractère.
+
+Toute convention ainsi conclue aura plein effet légal.
+
+Il est toutefois convenu que cet article ne s'appliquera pas aux cargaisons commerciales ordinaires, faites au cours d'opérations commerciales ordinaires, mais seulement à d'autres chargements où le caractère et la condition des biens à transporter et les circonstances, les termes et les conditions auxquels le transport doit se faire, sont de nature à justifier une convention spéciale.
