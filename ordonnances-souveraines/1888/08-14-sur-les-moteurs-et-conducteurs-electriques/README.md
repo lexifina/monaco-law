@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 14 août 1888 sur les moteurs et conducteurs électriques
 
-Version en vigueur au 5 septembre 1888.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1888/08-14-L000545@1888.09.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1888/08-14-L000545@1911.04.19/
 
 | | |
 | --- | --- |
