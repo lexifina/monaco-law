@@ -1,0 +1,3 @@
+# Article 44
+
+Les établissements mentionnés à l'article 2 du présent arrêté prennent toutes les mesures nécessaires pour que le transport et la livraison des médicaments soient effectués dans des conditions garantissant leur bonne conservation, leur intégrité et leur sécurité. Ils doivent être en mesure d'assurer la livraison de tout médicament vétérinaire effectivement mis sur le marché aux personnes et organismes qui relèvent du secteur de distribution dans lequel ils ont déclaré exercer leur activité. Les livraisons ne peuvent comporter que des produits correspondant aux droits respectifs de détention, d'utilisation ou de délivrance des personnes et organismes auxquels elles sont destinées.
