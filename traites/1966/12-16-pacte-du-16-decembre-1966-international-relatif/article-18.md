@@ -1,0 +1,3 @@
+# Article 18
+
+En vertu des responsabilités qui lui sont conférées par la Charte des Nations Unies dans le domaine des Droits de l'homme et des libertés fondamentales, le Conseil économique et social pourra conclure des arrangements avec les institutions spécialisées, en vue de la présentation par celles-ci de rapports relatifs aux progrès accomplis quant à l'observation des dispositions du présent pacte qui entrent dans le cadre de leurs activités. Ces rapports pourront comprendre des données sur les décisions et recommandations adoptées par les organes compétents des institutions spécialisées au sujet de cette mise en œuvre.
