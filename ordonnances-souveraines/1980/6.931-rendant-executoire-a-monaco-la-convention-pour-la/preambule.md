@@ -1,0 +1,3 @@
+Vu la Constitution du 17 décembre 1962 ;
+
+Nos instruments de ratification de la Convention pour la protection de la mer Méditerranée contre la pollution, ainsi que du Protocole relatif à la prévention de la pollution de la mer Méditerranée par les opérations d'immersion effectuées par les navires et aéronefs et du Protocole relatif à la coopération en matière de lutte contre la pollution de la mer Méditerranée par les hydrocarbures et autres substances nuisibles en cas de situation critique, faite à Barcelone le 16 février 1976 ayant été déposés auprès du Gouvernement de l'Espagne le 19 septembre 1977, ladite Convention et les Protocoles recevront leur pleine et entière exécution à dater de la publication de la présente ordonnance.
