@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.818 du 5 juin 2003 rendant exécutoire le protocole à la convention sur la protection des Alpes de 1991 relatif au règlement des différends, conclu à Lucerne le 31 octobre 2000
