@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 14.892 du 28 mai 2001 rendant exécutoire l'accord sous forme d'échange de lettres concernant la surveillance harmonisée des établissements de crédit de la Principauté de Monaco, sous forme de filiale ou de succursale
