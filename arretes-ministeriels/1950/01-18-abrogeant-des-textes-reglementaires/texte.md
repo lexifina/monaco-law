@@ -2,12 +2,10 @@
 
 Sont et demeurent abrogés les arrêtés ci-après :
 
-- du 23 septembre 1924 désignant les véhicules exonérés de la taxe ;
+- du 6 janvier 1919 réglant le mode de perception de la taxe sur les boissons ;
 
-- du 21 janvier 1925 concernant la délivrance de permis gratuits de circulation pour les voitures automobiles destinées a la vente ;
+- du 14 mars 1924 relatif à l'importation d'acide carbonique liquide ;
 
-- du 17 mai 1930 relatif aux permis de circulation pour automobiles ;
+- du 29 décembre 1925 relatif au remboursement des droits afférents à l'acide carbonique ;
 
-- du 24 juin 1930 relatif à l'application des taxes ;
-
-- du 24 juin 1930 portant exemption de taxes.
+- du 3 mai 1934 fixant la valeur moyenne du trois-six de vin.

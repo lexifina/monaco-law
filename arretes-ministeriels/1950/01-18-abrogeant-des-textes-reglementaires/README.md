@@ -2,7 +2,7 @@
 
 Version en vigueur au 24 janvier 1950.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1950/01-18-L000675@1950.01.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1950/01-18-L002872@1950.01.24/
 
 | | |
 | --- | --- |
