@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.684 du 29 octobre 1975 rendant exécutoire à Monaco l'Arrangement de Nice, concernant la classification internationale des produits et des services aux fins de l'enregistrement des marques du 15 juin 1957, révisé à Stockholm le 14 juillet 1967
