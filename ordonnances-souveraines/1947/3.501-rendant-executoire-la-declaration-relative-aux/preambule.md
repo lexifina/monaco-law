@@ -1,0 +1,1 @@
+Une déclaration relative aux questions de naturalisation et de réintégration ayant été signée à Paris, le 16 juin 1947, par Notre plénipotentiaire et le plénipotentiaire de Son Excellence le Président de la République française, ladite déclaration, dont la teneur suit, recevra sa pleine et entière exécution à dater de la promulgation de la présente ordonnance.
