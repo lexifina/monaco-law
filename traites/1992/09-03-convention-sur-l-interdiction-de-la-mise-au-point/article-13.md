@@ -1,0 +1,3 @@
+# Article 13
+
+Aucune disposition de la présente convention ne doit être interprétée comme restreignant ou amoindrissant de quelque façon que ce soit les obligations contractées par un État en vertu du protocole concernant la prohibition d'emploi à la guerre de gaz asphyxiants, toxiques ou similaires et de moyens bactériologiques, signé à Genève le 17 juin 1925, et en vertu de la convention sur l'interdiction de la mise au point, de la fabrication et du stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction, signée à Londres, Moscou et Washington, le 10 avril 1972.
