@@ -1,0 +1,9 @@
+# Article 8
+
+1. Nonobstant toute disposition contraire de la présente Convention, chaque Gouvernement contractant pourra accorder à ses ressortissants un permis spécial autorisant l'intéressé à tuer, capturer et traiter des baleines en vue de recherches scientifiques, ladite autorisation pouvant être subordonnée aux restrictions, en ce qui concerne le nombre, et à telles autres conditions que le Gouvernement contractant jugera opportunes ; dans ce cas, les baleines pourront être tuées, capturées ou traitées sans qu'il y ait lieu de se conformer aux dispositions de la présente Convention. Chaque Gouvernement contractant devra porter immédiatement à la connaissance de la Commission toutes les autorisations de cette nature qu'il aura accordées. Un Gouvernement contractant pourra annuler à tout moment un permis spécial par lui accordé.
+
+2. Dans toute la mesure du possible, les baleines capturées en vertu de ces permis spéciaux devront être traitées conformément aux directives formulées par le Gouvernement qui aura délivré le permis, lesquelles s'appliqueront également à l'utilisation des produits obtenus.
+
+3. Dans toute la mesure du possible, chaque Gouvernement contractant devra transmettre à l'organisme que la Commission pourra désigner à cet effet, à des intervalles d'un an au maximum, les renseignements de caractère scientifique dont il disposera sur les baleines et la chasse à la baleine, y compris les résultats des recherches effectuées en application du paragraphe 1 du présent article et de l'article 4.
+
+4. Reconnaissant qu'il est indispensable, pour assurer une gestion saine et profitable de l'industrie baleinière, de rassembler et d'analyser constamment les renseignements biologiques recueillis à l'occasion des opérations des usines flottantes et des stations terrestres, les Gouvernements contractants prendront toutes les mesures en leur pouvoir pour se procurer ces renseignements.
