@@ -1,0 +1,1 @@
+Une convention relative à l'aide mutuelle judiciaire ayant été signée à Paris, le 21 septembre 1949, entre Notre plénipotentiaire et le plénipotentiaire de Son Excellence M. Le président de la République française, ladite convention, dont la teneur suit, recevra sa pleine et entière exécution à dater de la promulgation de la présente ordonnance.
