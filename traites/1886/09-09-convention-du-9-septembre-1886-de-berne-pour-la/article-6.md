@@ -1,0 +1,7 @@
+# Article 6
+
+1. Lorsqu'un pays étranger à l'Union ne protège pas d'une manière suffisante les œuvres des auteurs qui sont ressortissants de l'un des pays de l'Union, ce dernier pays pourra restreindre la protection des œuvres dont les auteurs sont, au moment de la première publication de ces œuvres, ressortissants de l'autre pays et n'ont pas leur résidence habituelle dans l'un des pays de l'Union. Si le pays de la première publication fait usage de cette faculté, les autres pays de l'Union ne seront pas tenus d'accorder aux œuvres ainsi soumises à un traitement spécial une protection plus large que celle qui leur est accordée dans le pays de la première publication.
+
+2. Aucune restriction, établie en vertu de l'alinéa précédent, ne devra porter préjudice aux droits qu'un auteur aura acquis sur une œuvre publiée dans un pays de l'Union avant la mise à exécution de cette restriction.
+
+3. Les pays de l'Union qui, en vertu du présent article, restreindront la protection des droits des auteurs, le notifieront au Directeur général de l'Organisation Mondiale de la Propriété Intellectuelle (ci-après désigné « le Directeur général ») par une déclaration écrite, où seront indiqués les pays vis-à-vis desquels la protection est restreinte, de même que les restrictions auxquelles les droits des auteurs ressortissant à ces pays sont soumis. Le Directeur général communiquera aussitôt le fait à tous les pays de l'Union.

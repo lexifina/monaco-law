@@ -1,0 +1,5 @@
+# Article 10 bis
+
+1. Est réservée aux législations des pays de l'Union la faculté de permettre la reproduction par la presse, ou la radiodiffusion ou la transmission par fil au public, des articles d'actualité de discussion économique, politique ou religieuse, publiés dans des journaux ou recueils périodiques, ou des œuvres radiodiffusées ayant le même caractère, dans les cas où la reproduction, la radiodiffusion ou ladite transmission n'en est pas expressément réservée. Toutefois, la source doit toujours être clairement indiquée ; la sanction de cette obligation est déterminée par la législation du pays où la protection est réclamée.
+
+2. Il est également réservé aux législations des pays de l'Union de régler les conditions dans lesquelles, à l'occasion de comptes rendus des événements d'actualité par le moyen de la photographie ou de la cinématographie, ou par voie de radiodiffusion ou de transmission par fil au public, les œuvres littéraires ou artistiques vues ou entendues au cours de l'événement peuvent, dans la mesure justifiée par le but d'information à atteindre, être reproduites et rendues accessibles au public.
