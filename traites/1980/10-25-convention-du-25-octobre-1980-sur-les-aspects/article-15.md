@@ -1,0 +1,3 @@
+# Article 15
+
+Les autorités judiciaires ou administratives d'un État contractant peuvent, avant d'ordonner le retour de l'enfant, demander la production par le demandeur d'une décision ou d'une attestation émanant des autorités de l'État de la résidence habituelle de l'enfant constatant que le déplacement ou le non-retour était illicite au sens de l'article 3 de la Convention, dans la mesure où cette décision ou cette attestation peut être obtenue dans cet État. Les autorités centrales des États contractants assistent dans la mesure du possible le demandeur pour obtenir une telle décision ou attestation.
