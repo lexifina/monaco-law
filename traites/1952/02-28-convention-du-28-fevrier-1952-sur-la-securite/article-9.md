@@ -1,0 +1,7 @@
+# Article 9
+
+§ 1. Les travailleurs salariés ou assimilés soumis à la législation d'un État contractant et satisfaisant aux conditions requises par cette législation, compte tenu, le cas échéant, des dispositions des articles 6 et 7, bénéficient, ainsi que les membres de leur famille, des prestations des assurances maladie et maternité prévues par ladite législation, lorsqu'ils se rendent directement sur le territoire de l'autre État contractant pour y recevoir des soins appropriés à leur état, à condition d'en avoir au préalable reçu l'autorisation de leur institution d'affiliation après avis conforme du contrôle médical. En ce qui concerne les assurés de régimes français, l'échelon local du service médical placé auprès de la Caisse primaire d'assurance maladie du département des Alpes-Maritimes est compétent pour donner cet avis.
+
+L'autorisation préalable n'est pas requise pour les bénéficiaires de la législation française résidant à titre permanent dans le département des Alpes-Maritimes et se rendant sur le territoire de la Principauté, et pour les bénéficiaires de la législation monégasque résidant à titre permanent sur le territoire de la Principauté et se rendant en France dans le département des Alpes-Maritimes.
+
+§ 2. Les prestations en nature, en cas d'application des dispositions du paragraphe 1, sont accordées dans les conditions fixées à l'article 11 ou à l'article 12, selon le cas.
