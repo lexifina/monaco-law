@@ -2,35 +2,35 @@
 
 I.1. L'impôt est exigible :
 
-- 1° Lors de la mise à la consommation. Le produit est mis à la consommation :
+1° Lors de la mise à la consommation. Le produit est mis à la consommation :
 
-  - a) Lorsqu'il cesse de bénéficier du régime suspensif des droits d'accises prévu au II de l'article 7 de la présente ordonnance ;
+- a) Lorsqu'il cesse de bénéficier du régime suspensif des droits d'accises prévu au II de l'article 7 de la présente ordonnance ;
 
-  - a bis) Lorsqu'il est fabriqué hors des régimes suspensifs mentionnés au a, sans bénéficier des exonérations prévues à l'article 4 bis ;
+- a bis) Lorsqu'il est fabriqué hors des régimes suspensifs mentionnés au a, sans bénéficier des exonérations prévues à l'article 4 bis ;
 
-  - b) Lorsqu'il est importé, à l'exclusion des cas où il est placé, au moment de l'importation, sous un régime suspensif des droits d'accises mentionné au a ;
+- b) Lorsqu'il est importé, à l'exclusion des cas où il est placé, au moment de l'importation, sous un régime suspensif des droits d'accises mentionné au a ;
 
-- Est considérée comme une importation :
+Est considérée comme une importation :
 
-  - l'entrée en Principauté de Monaco d'un produit originaire ou en provenance d'un État ou d'un territoire n'appartenant pas à la Communauté Européenne, et qui n'a pas été mis en libre pratique, ou d'un produit en provenance d'un territoire d'un autre État membre exclu du territoire de la Communauté européenne, tel que défini à l'article préliminaire de l'ordonnance souveraine n° 2.666 du 14 août 1942 ;
+- l'entrée en Principauté de Monaco d'un produit originaire ou en provenance d'un État ou d'un territoire n'appartenant pas à la Communauté Européenne, et qui n'a pas été mis en libre pratique, ou d'un produit en provenance d'un territoire d'un autre État membre exclu du territoire de la Communauté européenne, tel que défini à l'article préliminaire de l'ordonnance souveraine n° 2.666 du 14 août 1942 ;
 
-  - pour un bien placé lors de son entrée sur le territoire monégasque sous un régime suspensif douanier, la sortie de ce régime à Monaco ;
+- pour un bien placé lors de son entrée sur le territoire monégasque sous un régime suspensif douanier, la sortie de ce régime à Monaco ;
 
-- 2° Lors de la constatation des manquants, sauf si ces manquants correspondent à des déchets ou des pertes obtenues, dans la limite d'un taux annuel de déchets ou de pertes, en cours de fabrication ou de transformation d'alcools et de boissons alcooliques ou à des pertes, dans la limite d'un taux annuel forfaitaire, en cours de stockage d'alcools et de boissons alcooliques. Le taux annuel de déchets ou de pertes est fixé pour chaque entrepôt suspensif des droits d'accises par l'administration sur proposition de l'entrepositaire agréé. Une ordonnance souveraine détermine les modalités d'application des présentes dispositions et fixe le taux annuel forfaitaire pour les pertes en cours de stockage.
+2° Lors de la constatation des manquants, sauf si ces manquants correspondent à des déchets ou des pertes obtenues, dans la limite d'un taux annuel de déchets ou de pertes, en cours de fabrication ou de transformation d'alcools et de boissons alcooliques ou à des pertes, dans la limite d'un taux annuel forfaitaire, en cours de stockage d'alcools et de boissons alcooliques. Le taux annuel de déchets ou de pertes est fixé pour chaque entrepôt suspensif des droits d'accises par l'administration sur proposition de l'entrepositaire agréé. Une ordonnance souveraine détermine les modalités d'application des présentes dispositions et fixe le taux annuel forfaitaire pour les pertes en cours de stockage.
 
-- Chez les entrepositaires agréés qui détiennent des alcools et boissons alcooliques appartenant à des catégories différemment imposées, les manquants imposables sont soumis au tarif le plus élevé de la catégorie concernée.
+Chez les entrepositaires agréés qui détiennent des alcools et boissons alcooliques appartenant à des catégories différemment imposées, les manquants imposables sont soumis au tarif le plus élevé de la catégorie concernée.
 
-- 3° Dans les cas d'utilisation de capsules, empreintes, vignettes ou autres marques fiscales représentatives des droits indirects, lors de l'apposition desdites capsules, empreintes, vignettes ou autres marques fiscales sur les récipients.
+3° (3° abrogé).
 
-- 4° Sans que cela fasse obstacle aux dispositions du 3° de l'article 101 de l'ordonnance souveraine n° 2.666 du 14 août 1942, lors de la constatation de la détention à Monaco, d'alcools et de boissons alcooliques à des fins commerciales, pour lesquels le détenteur ne peut prouver par la production d'un document d'accompagnement, d'une facture ou d'un ticket de caisse, selon le cas, qu'ils circulent en régime suspensif de l'impôt ou que l'impôt a été acquitté à Monaco ou en France, ou y a été garanti conformément à l'article 22 ci-après. Pour établir que ces produits sont détenus à Monaco à des fins commerciales, l'administration tient compte des éléments suivants :
+4° Sans que cela fasse obstacle aux dispositions du 3° de l'article 101 de l'ordonnance souveraine n° 2.666 du 14 août 1942, lors de la constatation de la détention à Monaco, d'alcools et de boissons alcooliques à des fins commerciales, pour lesquels le détenteur ne peut prouver par la production d'un document d'accompagnement, d'une facture ou d'un ticket de caisse, selon le cas, qu'ils circulent en régime suspensif de l'impôt ou que l'impôt a été acquitté à Monaco ou en France, ou y a été garanti conformément à l'article 22 ci-après. Pour établir que ces produits sont détenus à Monaco à des fins commerciales, l'administration tient compte des éléments suivants :
 
-  - a) L'activité professionnelle du détenteur des produits ;
+- a) L'activité professionnelle du détenteur des produits ;
 
-  - b) Le lieu où ces produits se trouvent, le mode de transport utilisé ou les documents relatifs à ces produits ;
+- b) Le lieu où ces produits se trouvent, le mode de transport utilisé ou les documents relatifs à ces produits ;
 
-  - c) La nature de ces produits ;
+- c) La nature de ces produits ;
 
-  - d) Les quantités de ces produits, notamment lorsque celles-ci sont supérieures aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92/12 CEE du Conseil du 25 février 1992, relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis aux accises ;
+- d) Les quantités de ces produits, notamment lorsque celles-ci sont supérieures aux seuils indicatifs fixés par l'article 9, point 2, de la directive 92/12 CEE du Conseil du 25 février 1992, relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis aux accises ;
 
 2. L'impôt est dû :
 
@@ -38,7 +38,7 @@ I.1. L'impôt est exigible :
 
 - 2° Dans le cas de manquants, par la personne chez laquelle les manquants sont constatés ;
 
-- 3° Dans le cas visé au 3° du 1, par la personne qui appose les capsules, empreintes, vignettes ou autres marques fiscales représentatives des droits indirects sur les récipients ;
+- 3° (3° abrogé).
 
 - 4° Dans le cas mentionné au 4° du I, par la personne qui détient ces produits à des fins commerciales à Monaco ;
 

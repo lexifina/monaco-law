@@ -10,6 +10,6 @@ Lorsque l'impôt est exigible, la Recette des droits de régie procède à la mi
 
 III. - L'Administration dispose d'un délai de trois ans à compter de la date d'expédition figurant sur le document d'accompagnement pour mettre en recouvrement les droits consécutifs à une infraction commise en Principauté.
 
-Si dans un délai de trois ans à compter de la date d'expédition figurant sur le document d'accompagnement, l'État membre de la Communauté économique européenne où l'infraction a été commise procède au recouvrement des droits, les droits perçus à Monaco sont remboursés.
+Si. dans un délai de trois ans à compter de la date d'expédition figurant sur le document d'accompagnement, l'État membre de la Communauté économique européenne où l'infraction a été commise procède au recouvrement des droits, les droits perçus à Monaco sont remboursés.
 
 Les règles fixées en régime intérieur concernant la responsabilité de l'expéditeur s'appliquent sans préjudice des dispositions précédentes.
