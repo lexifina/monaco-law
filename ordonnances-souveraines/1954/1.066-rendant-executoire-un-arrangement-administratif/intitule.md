@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.066 du 14 décembre 1954 rendant exécutoire un arrangement administratif relatif aux modalités d'application de la convention sur la sécurité sociale signée à Paris le 28 février 1952
