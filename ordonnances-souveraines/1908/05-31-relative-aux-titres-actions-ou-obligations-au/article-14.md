@@ -2,7 +2,7 @@
 
 Le porteur d'un titre frappé d'opposition pourra poursuivre la mainlevée de cette opposition de la manière suivante :
 
-Il fera sommation à l'opposant d'introduire, dans le mois, une demande en revendication devant le tribunal supérieur.
+Il fera sommation à l'opposant d'introduire, dans le mois, une demande en revendication devant le tribunal de première instance.
 
 Cette sommation sera signifiée au domicile de l'opposant dans la Principauté, ou, à défaut, au domicile élu dans l'opposition notifiée à l'établissement débiteur.
 
