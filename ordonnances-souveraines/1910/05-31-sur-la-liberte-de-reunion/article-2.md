@@ -6,4 +6,4 @@ La déclaration sera faite par écrit et déposée au secrétariat général du 
 
 Les déclarants devront être majeurs, jouir de leurs droits civils et avoir leur résidence dans la Principauté. Il leur sera donné récépissé de la déclaration.
 
-En cas d'urgence, le délai prescrit par le § 2 du présent article pourra être réduit avec l'autorisation du gouverneur général.
+En cas d'urgence, le délai prescrit par le § 2 du présent article pourra être réduit avec l'autorisation du Ministre d'État.
