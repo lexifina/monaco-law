@@ -18,6 +18,14 @@ A - Pour tous les navires :
 
 - S'il s'agit de navires appartenant à une société, le siège social de celle-ci doit être situe dans le territoire de la Principauté.
 
+- Les navires peuvent également obtenir la nationalité monégasque lorsqu'ils sont destinés à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de crédit-bail :
+
+  - a) Ou pour moitié au moins à des Monégasques ou les Français remplissant les conditions fixées ci-dessus ;
+
+  - b) Ou pour moitié au moins à des sociétés remplissant les conditions prévues ci-dessus ;
+
+  - c) Ou pour moitié au moins à des Monégasques ou des Français et à des sociétés remplissant les conditions prévues ci-dessus.
+
 - 2° Avoir été construits sur le territoire monégasque ou sur le territoire douanier français ou y avoir acquitté les droits et taxes d'importation exigibles.
 
 - 3° Sauf dérogations individuelles octroyées d'un commun accord, avoir un état major et un équipage de nationalité monégasque ou française en ce qui concerne les emplois du pont, de la machine et du service radio-électrique, et de la nationalité monégasque ou française dans la proportion de 3 emplois sur 4 pour chaque navire en ce qui concerne les emplois du service général.
