@@ -1,0 +1,9 @@
+# Article 3
+
+1° L'individu extradé ne pourra être poursuivi ni puni dans le « pays auquel l'extradition a été accordée, ni extradé à un » pays tiers pour un crime ou un délit quelconque non prévu par la Convention du 29 juin 1874 et antérieur à l'extradition, à moins qu'il n'ait eu, dans l'un et l'autre cas, la liberté de quitter de nouveau le pays susdit pendant un mois, après avoir été jugé, et en cas de condamnation, après avoir subi sa peine ou après avoir été gracié.
+
+Il ne pourra pas non plus être poursuivi ou puni du « chef d'un crime ou d'un délit prévu par la Convention, antérieur à l'extradition, mais autre que celui qui a motivé l'extradition, sans le consentement du gouvernement qui a livré l'extradé et qui pourra, s'il le juge convenable, exiger la production de l'un des documents mentionnés dans l'article 8 de ladite convention. Le consentement de ce gouvernement sera de même requis pour permettre l'extradition de l'inculpé à un pays tiers. Toutefois, ce consentement ne sera pas nécessaire lorsque l'inculpé aura demandé spontanément à être jugé ou à subir sa peine, ou lorsqu'il n'aura pas quitté, dans le délai fixé plus haut, le territoire du pays auquel il a été livré,
+
+2° L'extradition ne sera jamais accordée pour les crimes ou délits politiques ou pour des faits connexes à de semblables crimes ou délits. L'individu qui serait livré pour une autre infraction aux lois pénales ne pourra, dans aucun cas, être poursuivi ou condamné pour un crime ou délit politique antérieur à l'extradition, ni pour aucun fait connexe à un semblable crime ou délit, à moins qu'il n'ait eu la liberté de quitter de nouveau le pays dans les » conditions spécifiées ci-dessus.
+
+Ne sera pas réputé politique, ni fait connexe à un semblable délit, l'attentat contre la personne du Chef d'un gouvernement étranger ou contre celle des membres de sa famille, lorsque cet attentat constitue le fait, soit de meurtre, soit d'assassinat, soit d'empoisonnement.

@@ -1,0 +1,3 @@
+# Article 1
+
+Les gouvernements monégasques et belge s'engagent à se livrer réciproquement les individus qui sont poursuivis, mis en prévention ou en accusation ou condamnés, comme auteurs ou complices, pour l'un des crimes ou délits indiqués ci-après à l'article 2, commis sur le territoire de l'un des deux Etats contractants et qui se seraient réfugiés sur le territoire de l'autre. Néanmoins, lorsque le crime ou le délit donnant lieu à l'extradition aura été commis hors du territoire de la partie requérante, il pourra être donné suite à cette demande lorsque la législation du pays requis autorise la poursuite des mêmes infractions commises hors de son territoire.
