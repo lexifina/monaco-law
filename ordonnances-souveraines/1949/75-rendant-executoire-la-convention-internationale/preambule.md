@@ -1,0 +1,1 @@
+La convention internationale signée à Londres, le 16 novembre 1945, créant l'organisation des Nations Unies pour l'éducation, la science et la culture, recevra sa pleine et entière exécution à dater de la promulgation de la présente ordonnance.
