@@ -1,0 +1,1 @@
+Accord du 13 novembre 1952 intervenu entre le gouvernement princier et le gouvernement de la République française pour l'octroi aux crédirentiers de nationalité monégasque de certaines majorations de rentes viagères
