@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-58 du 30 janvier 2003 modifiant l'arrêté ministériel n° 2002-407 du 2 juillet 2002 fixant les modalités de calcul de la reconstitution des périodes d'interruption du travail indemnisées
