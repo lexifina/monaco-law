@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 8.572 du 2 avril 1986 portant relèvement des tarifs du droit de fabrication sur les alcools, extension du droit de circulation sur une nouvelle catégorie de boissons, et du droit de consommation et modification de la réglementation des marchands en gros
