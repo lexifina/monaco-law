@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.983 du 10 décembre 1980 rendant exécutoire à Monaco l'accord relatif à la protection des eaux du littoral méditerranéen, signé à Monaco le 10 mai 1976 entre les gouvernements de la République française, de la République italienne et de S.A.S. le Prince de Monaco
