@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 8.006 du 16 mai 1984 rendant exécutoire à Monaco les amendements aux annexes I et II de la convention, faite à Washington le 3 mars 1973, sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, adoptés à New-Delhi (Inde) le 8 mars 1981 et à Gaborone (Bostswana) le 30 avril 1983
