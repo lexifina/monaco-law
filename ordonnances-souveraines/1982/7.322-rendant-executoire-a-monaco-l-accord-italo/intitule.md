@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.322 du 19 mars 1982 rendant exécutoire à Monaco l'accord italo-monégasque définissant les conditions d'octroi aux travailleurs temporaires italiens du bénéfice des prestations du régime conventionnel d'aide financière UNEDIC-ASSEDIC, signé à Monaco le 12 février 1982
