@@ -1,0 +1,3 @@
+# Article 5
+
+Pour l'application des dispositions de l'article 4, les périodes pendant lesquelles l'exécution du contrat de travail a été suspendue sans que le contrat ait été résilié, notamment pour cause de maladie, d'accident du travail, sont assimilées à des périodes de travail effectif. La durée des services ouvrant droit au congé complémentaire d'ancienneté est appréciée soit à l'expiration de la période de référence afférente au congé normal, soit à la date d'expiration du contrat lorsque la résiliation de ce contrat ouvre droit à l'attribution de l'indemnité de congé payé prévue à l'article 16.
