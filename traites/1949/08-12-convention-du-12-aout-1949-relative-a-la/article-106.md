@@ -1,0 +1,3 @@
+# Article 106
+
+Chaque interné sera mis en mesure, dès son internement, ou au plus tard une semaine après son arrivée dans un lieu d'internement et de même en cas de maladie ou de transfert dans un autre lieu d'internement ou dans un hôpital, d'adresser directement à sa famille, d'une part, et à l'Agence centrale prévue à l'article 140, d'autre part, une carte d'internement établie si possible selon le modèle annexé à la présente Convention, les informant de son internement, de son adresse et de son état de santé. Lesdites cartes seront transmises avec toute la rapidité possible et ne pourront être retardées d'aucune manière.

@@ -1,0 +1,5 @@
+# Article 64
+
+La législation pénale du territoire occupé demeurera en vigueur, sauf dans la mesure où elle pourra être abrogée ou suspendue par la Puissance occupante si cette législation constitue une menace pour la sécurité de cette Puissance ou un obstacle à l'application de la présente Convention. Sous réserve de cette dernière considération et de la nécessité d'assurer l'administration effective de la justice, les tribunaux du territoire occupé continueront à fonctionner pour toutes les infractions prévues par cette législation.
+
+La Puissance occupante pourra toutefois soumettre la population du territoire occupé à des dispositions qui sont indispensables pour lui permettre de remplir ses obligations découlant de la présente Convention, et d'assurer l'administration régulière du territoire ainsi que la sécurité soit de la Puissance occupante, soit des membres et biens des forces ou de l'administration d'occupation, ainsi que des établissements et des lignes de communication utilisés par elle.

@@ -1,0 +1,7 @@
+# Article 5
+
+Si, sur le territoire d'une Partie au conflit, celle-ci a de sérieuses raisons de considérer qu'une personne protégée par la présente Convention fait individuellement l'objet d'une suspicion légitime de se livrer à une activité préjudiciable à la sécurité de l'État ou s'il est établi qu'elle se livre en fait à cette activité, ladite personne ne pourra se prévaloir des droits et privilèges conférés par la présente Convention qui, s'ils étaient exercés en sa faveur, pourraient porter préjudice à la sécurité de l'État.
+
+Si, dans un territoire occupé, une personne protégée par la Convention est appréhendée en tant qu'espion ou saboteur ou parce qu'elle fait individuellement l'objet d'une suspicion légitime de se livrer à une activité préjudiciable à la sécurité de la Puissance occupante, ladite personne pourra, dans les cas où la sécurité militaire l'exige absolument, être privée des droits de communication prévus par la présente Convention.
+
+Dans chacun de ces cas, les personnes visées par les alinéas précédents seront toutefois traitées avec humanité et, en cas de poursuites, ne seront pas privées de leur droit à un procès équitable et régulier tel qu'il est prévu par la présente Convention. Elles recouvreront également le bénéfice de tous les droits et privilèges d'une personne protégée, au sens de la présente Convention, à la date la plus proche possible eu égard à la sécurité de l'État ou de la Puissance occupante, suivant le cas.
