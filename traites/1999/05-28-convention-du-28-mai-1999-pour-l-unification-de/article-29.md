@@ -1,0 +1,3 @@
+# Article 29
+
+Dans le transport de passagers, de bagages et de marchandises, toute action en dommages-intérêts, à quelque titre que ce soit, en vertu de la présente convention, en raison d'un contrat ou d'un acte illicite ou pour toute autre cause, ne peut être exercée que dans les conditions et limites de responsabilité prévues par la présente convention, sans préjudice de la détermination des personnes qui ont le droit d'agir et de leurs droits respectifs. Dans toute action de ce genre, on ne pourra pas obtenir de dommages-intérêts punitifs ou exemplaires ni de dommages à un titre autre que la réparation.

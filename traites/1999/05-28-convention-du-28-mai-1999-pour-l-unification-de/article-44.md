@@ -1,0 +1,3 @@
+# Article 44
+
+En ce qui concerne le transport effectué par le transporteur de fait, le montant total de la réparation qui peut être obtenu de ce transporteur, du transporteur contractuel et de leurs préposés et mandataires quand ils ont agi dans l'exercice de leurs fonctions, ne peut pas dépasser l'indemnité la plus élevée qui peut être mise à charge soit du transporteur contractuel, soit du transporteur de fait, en vertu de la présente convention, sous réserve qu'aucune des personnes mentionnées dans le présent article ne puisse être tenue pour responsable au-delà de la limite applicable à cette personne.

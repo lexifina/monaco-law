@@ -1,0 +1,3 @@
+# Article 39
+
+Les dispositions du présent chapitre s'appliquent lorsqu'une personne (ci-après dénommée « transporteur contractuel ») conclut un contrat de transport régi par la présente convention avec un passager ou un expéditeur ou avec une personne agissant pour le compte du passager ou de l'expéditeur, et qu'une autre personne (ci-après dénommée « transporteur de fait ») effectue, en vertu d'une autorisation donnée par le transporteur contractuel, tout ou partie du transport, mais n'est pas, en ce qui concerne cette partie, un transporteur successif au sens de la présente convention. Cette autorisation est présumée, sauf preuve contraire.

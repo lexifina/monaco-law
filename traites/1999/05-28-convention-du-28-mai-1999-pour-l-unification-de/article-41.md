@@ -1,0 +1,5 @@
+# Article 41
+
+1. Les actes et omissions du transporteur de fait ou de ses préposés et mandataires agissant dans l'exercice de leurs fonctions, relatifs au transport effectué par le transporteur de fait, sont réputés être également ceux du transporteur contractuel.
+
+2. Les actes et omissions du transporteur contractuel ou de ses préposés et mandataires agissant dans l'exercice de leurs fonctions, relatifs au transport effectué par le transporteur de fait, sont réputés être également ceux du transporteur de fait. Toutefois, aucun de ces actes ou omissions ne pourra soumettre le transporteur de fait à une responsabilité dépassant les montants prévus aux articles 21, 22, 23 et 24. Aucun accord spécial aux termes duquel le transporteur contractuel assume des obligations que n'impose pas la présente convention, aucune renonciation à des droits ou moyens de défense prévus par la présente convention ou aucune déclaration spéciale d'intérêt à la livraison, visée à l'article 22 de la présente convention, n'auront d'effet à l'égard du transporteur de fait, sauf consentement de ce dernier.
