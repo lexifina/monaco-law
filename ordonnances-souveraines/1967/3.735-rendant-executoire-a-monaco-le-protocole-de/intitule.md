@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.735 du 11 février 1967 rendant exécutoire à Monaco le protocole de Genève du 17 juin 1925 concernant le prohibition d'emploi à la guerre de gaz asphyxiants, toxiques ou similaires et de moyens bactériologiques
