@@ -1,0 +1,1 @@
+Arrêté ministériel n° 84-471 du 2 août 1984 fixant la composition de la commission chargée de régler les contestations relatives au montant des pensions de retraites dues aux membres du personnel médical du Centre hospitalier Princesse Grace
