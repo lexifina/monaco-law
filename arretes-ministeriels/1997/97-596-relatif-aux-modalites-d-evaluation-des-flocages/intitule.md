@@ -1,0 +1,1 @@
+Arrêté ministériel n° 97-596 du 12 décembre 1997 relatif aux modalités d'évaluation des flocages, calorifugeages, matériaux divers, produits et dispositifs contenant de l'amiante et aux mesures d'empoussièrement dans les immeubles bâtis
