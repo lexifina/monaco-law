@@ -1,0 +1,27 @@
+# Article 8
+
+1. Une Partie peut présenter au Secrétariat une proposition d'inscription d'une substance chimique aux annexes A, B et/ou C. Cette proposition doit comporter les informations requises à l'annexe D. Une Partie peut être aidée par d'autres Parties et/ou le Secrétariat dans l'élaboration de sa proposition.
+
+2. Le Secrétariat vérifie si la proposition comporte les informations requises à l'annexe D. Si le Secrétariat estime que la proposition comporte bien ces informations, il la transmet au Comité d'étude des polluants organiques persistants.
+
+3. Le Comité examine la proposition et applique les critères de sélection énoncés à l'annexe D d'une manière souple et transparente, en tenant compte de façon intégrée et équilibrée de toutes les informations fournies.
+
+4. Si le Comité décide que :
+
+- a) La proposition répond aux critères de sélection, il communique, par l'intermédiaire du Secrétariat, la proposition et l'évaluation du Comité à toutes les Parties et aux observateurs et les invite à présenter les informations requises à l'annexe E ;
+
+- b) La proposition ne répond pas aux critères de sélection, il en informe, par l'intermédiaire du Secrétariat, toutes les Parties et les observateurs et communique la proposition et l'évaluation du Comité à toutes les Parties et la proposition est rejetée.
+
+5. Toute Partie peut présenter de nouveau au Comité une proposition que le Comité a rejetée conformément au paragraphe 4. La proposition ainsi présentée de nouveau peut faire état des préoccupations de la Partie en question, ainsi que des raisons justifiant un nouvel examen par le Comité. Si, à la suite de cette procédure, le Comité rejette à nouveau la proposition, la Partie peut contester la décision du Comité, et la Conférence des Parties examine la question à sa session suivante. La Conférence des Parties peut décider, sur la base des critères de sélection de l'annexe D et compte tenu de l'évaluation du Comité et de toute information supplémentaire fournie par une Partie ou un observateur, qu'il doit être donné suite à la proposition.
+
+6. Lorsque le Comité a décidé que la proposition répond aux critères de sélection, ou que la Conférence des Parties a décidé de donner suite à la proposition, le Comité procède à un nouvel examen de la proposition, en tenant compte de toute information supplémentaire pertinente qui a été reçue, et établit un projet de descriptif des risques conformément à l'annexe E. Il communique ce projet, par l'intermédiaire du Secrétariat, à toutes les Parties et aux observateurs, recueille leurs observations techniques et, compte tenu de ces observations, complète le descriptif des risques.
+
+7. Si, sur la base du descriptif des risques établi conformément à l'annexe E, le Comité décide :
+
+- a) Que la substance chimique est susceptible, du fait de sa propagation à longue distance dans l'environnement, d'avoir des effets nocifs importants sur la santé humaine et/ou l'environnement justifiant l'adoption de mesures au niveau mondial, il est donné suite à la proposition. L'absence de certitude scientifique absolue n'empêche pas de donner suite à la proposition. Le Comité, par l'intermédiaire du Secrétariat, demande à toutes les Parties et aux observateurs de fournir des informations se rapportant aux considérations énoncées à l'annexe F. Il établit alors une évaluation de la gestion des risques qui comprend une analyse des éventuelles mesures de réglementation de la substance chimique ; conformément à ladite annexe ;
+
+- b) Qu'il ne doit pas être donné suite à la proposition, il communique, par l'intermédiaire du Secrétariat, le descriptif des risques à toutes les Parties et aux observateurs et rejette la proposition.
+
+8. Pour toute proposition rejetée conformément à l'alinéa b) du paragraphe 7, une Partie peut demander à la Conférence des Parties d'examiner la possibilité de charger le Comité de demander des informations supplémentaires à la Partie ayant présenté la proposition et à d'autres Parties pendant une période ne dépassant pas un an. Une fois cette période écoulée, et sur la base de toutes informations reçues, le Comité réexamine la proposition conformément au paragraphe 6 avec un rang de priorité à décider par la Conférence des Parties. Si, à la suite de cette procédure, le Comité rejette à nouveau la proposition, la Partie peut contester la décision du Comité, et la Conférence des Parties examine la question à sa session suivante. La Conférence des Parties peut décider, sur la base du descriptif des risques établi conformément à l'annexe E et compte tenu de l'évaluation du Comité et de toute information supplémentaire fournie par une Partie ou un observateur, qu'il doit être donné suite à la proposition. Si la Conférence des Parties décide qu'il doit être donné suite à la proposition, le Comité établit l'évaluation de la gestion des risques.
+
+9. Sur la base du descriptif des risques mentionné au paragraphe 6 et de l'évaluation de la gestion des risques mentionnée à l'alinéa a) du paragraphe 7 et au paragraphe 8, le Comité recommande à la Conférence des Parties d'envisager ou non l'inscription de la substance chimique aux annexes A, B et/ou C. La Conférence des Parties, tenant dûment compte des recommandations du Comité, y compris toute incertitude scientifique, décide, de manière précautionneuse, d'inscrire ou non la substance chimique aux annexes A, B et/ou C, en spécifiant les mesures de réglementation de cette substance.
