@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.644 du 14 novembre 2000 rendant exécutoire l'accord entre la Principauté de Monaco et la République française relatif à la reconnaissance mutuelle des diplômes de premiers secours
