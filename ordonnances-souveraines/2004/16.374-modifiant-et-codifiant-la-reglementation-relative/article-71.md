@@ -1,3 +1,3 @@
 # Article 71
 
-Le fabricant habilité tient une comptabilité des ouvrages produits et marqués et adresse mensuellement un relevé de sa production aux services compétents.
+Le professionnel habilité tient une comptabilité des ouvrages produits, importés, introduits en provenance d'un autre Etat membre de l'Union européenne autre que la France, vendus ou confiés. Il adresse au Bureau de Garantie de Nice, selon une périodicité fixée dans la convention et au moins une fois par an, un état comportant le nombre des ouvrages essayés, le nombre des ouvrages marqués par type de métal et le nombre des ouvrages reconnus aux titres non légaux. Ces éléments d'information sont tenus à jour en permanence et doivent être accessibles aux services compétents qui peuvent les consulter à tout moment.

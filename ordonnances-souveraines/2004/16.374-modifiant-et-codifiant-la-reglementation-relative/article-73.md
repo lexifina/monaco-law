@@ -1,7 +1,5 @@
 # Article 73
 
-La convention peut être résiliée à tout moment par les services compétents en cas de manquement par le fabricant habilité aux engagements souscrits ou aux obligations résultant des articles 64 à 74 ou en cas de disparition d'un ou plusieurs poinçons de titre.
+Il est mis fin à la convention d'habilitation à la demande du professionnel sous réserve de respecter un préavis d'un mois à compter de la réception de l'avis par les services compétents.
 
-Sans préjudice des dispositions du premier alinéa, il peut être mis fin à la convention par le fabricant ou par les services compétents sous réserve de respecter un préavis de trois mois à compter de l'envoi de l'avis à l'autre partie.
-
-Le fabricant habilité remet alors immédiatement les poinçons de titre qu'il détient au Service de la garantie de Nice, sur simple demande de celle-ci.
+Les services compétents peuvent résilier d'office la convention d'habilitation si le professionnel ne remplit plus les conditions auxquelles était subordonnée sa conclusion ou s'il a manqué aux obligations résultant des articles 64 à 74. Le professionnel est préalablement informé des motifs susceptibles d'entraîner la résiliation de la convention et est mis à même de présenter ses observations dans un délai de quinze jours. La décision de résiliation est motivée. La résiliation prend effet à l'expiration d'un délai d'un mois à compter de la notification de la décision de résiliation. À l'expiration de ce délai, le professionnel remet immédiatement les poinçons de titre qu'il détient au Bureau de Garantie de Nice et ne peut plus apposer le poinçon de garantie sur les ouvrages qu'il détient.
