@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.545 du 1er août 2000 rendant exécutoire l'adhésion au Protocole concernant un amendement de la Convention relative à l'aviation civile internationale [clause finale texte russe] adopté à Montréal le 30 septembre 1977
