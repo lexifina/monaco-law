@@ -1,0 +1,5 @@
+# Article 6
+
+Éducation . - 1 - Les parties s'engagent à élaborer et à mettre en œuvre, le cas échéant en collaboration avec les organisations sportives concernées et avec les moyens de communication de masse, des programmes éducatifs et des campagnes d'information mettant en relief les dangers pour la santé inhérents au dopage et l'atteinte aux valeurs éthiques du sport. Ces programmes et campagnes s'adressent à la fois aux jeunes dans les établissements scolaires et les clubs sportifs et à leurs parents, ainsi qu'aux athlètes adultes, aux responsables et directeurs sportifs, et aux entraîneurs. Pour les personnes travaillant dans le domaine médical, ces programmes éducatifs soulignent l'importance du respect de la déontologie médicale.
+
+2 - Les parties s'engagent à encourager et à promouvoir, en collaboration avec les organisations sportives régionales, nationales et internationales concernées, des recherches relatives à l'élaboration de programmes d'entraînement physiologique et psychologique fondés sur des bases scientifiques et respectueux de l'intégrité de la personne humaine.
