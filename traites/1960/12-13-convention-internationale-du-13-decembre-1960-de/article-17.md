@@ -1,0 +1,3 @@
+# Article 17
+
+Dans le cas où l'Organisation exercerait les tâches prévues au (b) du paragraphe 2 de l'article 2, les infractions à la réglementation de la navigation aérienne commises dans l'espace où la fourniture des services de la circulation aérienne est confiée à l'Agence sont constatées dans les procès‑verbaux par des agents spécialement commissionnés par elle à cet effet, sans préjudice du droit reconnu par les législations nationales aux agents des Parties contractantes de constater les infractions de même nature. Les procès‑verbaux visés ci‑dessus ont devant les tribunaux nationaux la même valeur que ceux dressés par les agents nationaux qualifiés pour constater les infractions de même nature.

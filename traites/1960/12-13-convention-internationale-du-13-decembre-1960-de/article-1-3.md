@@ -1,0 +1,9 @@
+# Article 1 (3)
+
+1. Une redevance est perçue pour chaque vol effectué conformément aux règles de vol aux instruments (vol IFR), en conformité avec les procédures prises en application des Normes et Pratiques recommandées par l'Organisation de l'Aviation civile internationale dans l'espace aérien des Régions d'information de vol relevant de la compétence des États contractants, telles qu'elles sont énumérées dans l'annexe 1. En outre, dans les Régions d'information de vol relevant de sa compétence, un État contractant peut décider qu'une redevance soit perçue pour chaque vol effectué conformément aux règles de vol à vue (vol VFR). Les vols effectués en partie conformément aux règles de vol à vue et en partie conformément aux règles de vol aux instruments (vols mixtes VFR/IFR) dans les Régions d'information de vol relevant de la compétence d'un État contractant donné sont soumis, pour la totalité de la distance parcourue dans lesdites Régions d'information de vol, à la redevance perçue dans cet État pour les vols IFR.
+
+2. La redevance constitue la rémunération des coûts encourus par les États contractants au titre des installations et services de navigation aérienne de route et de l'exploitation du système, ainsi que des coûts encourus par EUROCONTROL pour l'exploitation du système.
+
+3. Les redevances engendrées dans l'espace aérien des Régions d'information de vol relevant de la compétence d'un État contractant peuvent être soumises à la taxe à la valeur ajoutée. EUROCONTROL peut, dans ce cas, percevoir ladite taxe dans les conditions et selon les modalités convenues avec l'État concerné.
+
+4. La redevance est due par la personne qui exploitait l'aéronef au moment où le vol a eu lieu. Au cas où l'identité de l'exploitant n'est pas connue, le propriétaire de l'aéronef est réputé être l'exploitant jusqu'à ce qu'il ait établi quelle autre personne avait cette qualité.
