@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.061 du 13 juin 1977 rendant exécutoire à Monaco la convention sur la prévention de la pollution des mers résultant de l'immersion de déchets et autres matières, signée à Londres le 29 décembre 1972
