@@ -1,3 +1,5 @@
 # Article 1er
 
-Il est interdit de détenir ou de transporter en vue de la vente, mise en vente ou de vendre sous la dénomination de « bière » un produit autre que la boisson obtenue par la fermentation alcoolique d'un moût fabriqué avec du houblon et du malt d'orge pur ou associé à un poids au plus égal de malt provenant d'autres céréales, de matières amylacées, de sucre interverti ou de glucose.
+La dénomination de « liqueur » est réservée aux eaux-de-vie ou aux alcools aromatisés, soit par macération de substances, soit par addition des produits de la distillation desdites substances en présence de l'alcool ou de l'eau, soit par l'emploi combiné de ces divers procédés.
+
+Les préparations ainsi obtenues peuvent être édulcorées au moyen de sucre, de glucose ou de miel.

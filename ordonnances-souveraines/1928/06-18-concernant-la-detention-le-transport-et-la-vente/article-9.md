@@ -1,3 +1,9 @@
 # Article 9
 
-Les infractions aux prescriptions de la présente ordonnance, ne tombant pas sous l'application des articles 435 à 440 du Code pénal, sont punies des peines prévues aux articles 8 et 9, paragraphe 1er, de la loi n° 89, du 3 janvier 1925.
+L'emploi de toute indication ou signe susceptible de créer dans l'esprit de l'acheteur une confusion sur la nature ou sur l'origine des produits visés à la présente ordonnance, lorsque, d'après la convention ou les usages, la désignation de l'origine attribuée à ces produits devra être considérée comme la cause principale de la vente, est interdit, en toutes circonstances et sous quelque forme que ce soit, notamment :
+
+- 1° Sur les récipients et emballages ;
+
+- 2° Sur les étiquettes, capsules, bouchons, cachets ou tout autre appareil de fermeture ;
+
+- 3° Dans les papiers de commerce, factures, catalogues, prospectus, prix courants, enseignes, affiches, tableaux-réclames, annonces ou tout autre moyen de publicité.

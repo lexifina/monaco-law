@@ -1,13 +1,9 @@
 # Article 3
 
-Ne constituent pas des manipulations et pratiques frauduleuses, aux termes de l'ordonnance du 27 juin 1907, les opérations ci-après énumérées, qui ont pour objet la fabrication régulière ou la conservation de la bière :
+Doivent être désignés sous leur nom spécifique suivi du terme « fantaisie » ou de tout autre qualificatif différenciant le produit de ceux visés à l'article précédent :
 
-- 1° La clarification, soit en chaudière, soit pendant ou après la fermentation, à l'aide des substances dont l'emploi est déclaré licite par l'usage ;
+- 1° Les sirops dans la préparation desquels le glucose est substitué, même partiellement, au sucre (saccharose) ;
 
-- 2° La pasteurisation ;
+- 2° Les sirops additionnés d'acide tartrique autres que le sirop de grenadine ;
 
-- 3° L'addition du tanin dans la mesure indispensable pour effectuer le collage ;
-
-- 4° La coloration au moyen du caramel ou d'extraits obtenus par torréfaction des céréales et substances dont l'emploi est autorisé, dans la fabrication de la bière, par l'article premier de la présente ordonnance ;
-
-- 5° Le traitement par l'anhydride sulfureux pur provenant de la combustion du soufre et par les bisulfites purs, à la double condition que la bière ne retienne pas plus de 50 milligrammes d'anhydride sulfureux, libre et combiné, par litre, et que l'emploi des bisulfites soit limité à 5 grammes par hectolitre.
+- 3° Les sirops additionnés d'acide citrique autres que les sirops de citron, de limon, d'orange ou de grenadine.

@@ -1,3 +1,3 @@
 # Article 6
 
-Les produits présentés au public comme pouvant servir soit à la fabrication des moûts, soit aux manipulations et pratiques autorisées par l'article 3 de la présente ordonnance, doivent être désignés sous une appellation faisant connaître expressément la nature et la composition de ces produits.
+Dans les inscriptions et marques servant à désigner les produits visés à la présente ordonnance, la dénomination du produit et le qualificatif qui l'accompagne ou les termes « fantaisie », « coloré » ou « artificiel » doivent être imprimés en caractères identiques.
