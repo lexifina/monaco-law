@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services judiciaires n° 2005-3 du 24 janvier 2005 fixant les conditions d'application de l'ordonnance n° 16.617 du 12 janvier 2005 relative à l'indemnisation de l'assistance judiciaire et des commissions d'office
