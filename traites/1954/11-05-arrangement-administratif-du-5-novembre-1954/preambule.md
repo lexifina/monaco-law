@@ -1,0 +1,1 @@
+Conformément aux dispositions de l'article 37 de la convention sur la sécurité sociale conclue le 28 février 1952 entre la France et la Principauté de Monaco, les autorités administratives compétentes des pays contractants ont arrêté, d'un commun accord, les modalités d'application suivantes des dispositions de la convention susvisée :

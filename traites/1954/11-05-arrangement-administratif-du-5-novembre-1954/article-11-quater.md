@@ -1,0 +1,7 @@
+# Article 11 quater
+
+En application des dispositions de l'article 16 de la convention, le contrôle médical des bénéficiaires de prestations est effectué sur le territoire de l'État de séjour ou de résidence, soit directement par le service du contrôle médical de l'institution compétente chargée du service des prestations, soit par l'intermédiaire du service du contrôle médical de l'institution du lieu de séjour ou de résidence, selon, dans ce dernier cas, les modalités prévues par la législation que cette institution applique.
+
+Ce contrôle lorsqu'il s'exerce dans les établissements hospitaliers porte sur les durées de séjour, la bonne affectation du malade dans les services et sur les facturations. À cette fin, le médecin qui exerce le contrôle, y compris dans l'autre État contractant, doit pouvoir avoir accès au dossier du patient et à tout document utile à sa mission. Les services du contrôle médical sont fondés à vérifier le caractère d'urgence ou le caractère d'immédiate nécessité des soins délivrés dans l'autre État.
+
+Les accords complémentaires mentionnés aux articles 11, paragraphe 2, et 12, paragraphe 2, de la convention peuvent fixer à cet effet les modalités d'intervention des services du contrôle médical de l'institution compétente d'un État dans les établissements de soins établis sur le territoire de l'autre État et de coopération aux mêmes fins des services du contrôle médical des deux Etats contractants.
