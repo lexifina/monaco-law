@@ -1,0 +1,3 @@
+# Article unique
+
+Est prononcée, en application respectivement du second alinéa de l'article 33 de la Constitution, du dernier alinéa de l'article premier de la Loi n° 124 du 15 janvier 1930 et de l'article 7 de la Loi n° 125 portant la même date, la désaffectation au lieudit « Les Spélugues », de parcelles de terrain du domaine public de l'État en nature d'ancienne ligne de chemin de fer, d'ancienne gare et de leurs dépendances, d'une superficie approximative de onze mille sept cent quatre-vingt-quatorze (11.794) mètres carrés, ces parcelles étant désignées sous la lettre A au plan F.L. - 7.1.71 - 7090 ci-annexé.
