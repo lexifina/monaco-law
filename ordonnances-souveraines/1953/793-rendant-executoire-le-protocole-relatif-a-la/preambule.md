@@ -1,0 +1,1 @@
+Un protocole relatif à la signalisation routière ayant été signé à Genève le 19 septembre 1949 auquel Nous avons adhéré le 25 septembre 1951, ledit protocole, dont la teneur suit, recevra sa pleine et entière exécution à partir de la date de la promulgation de la présente ordonnance.
