@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.330 du 12 février 1998 rendant exécutoire le pacte international relatif aux droits économiques, sociaux et culturels et pacte international relatif aux droits civils et politiques
