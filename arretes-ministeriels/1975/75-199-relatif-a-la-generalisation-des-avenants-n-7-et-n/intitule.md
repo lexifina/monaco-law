@@ -1,0 +1,1 @@
+Arrêté ministériel n° 75-199 du 12 mai 1975 relatif à la généralisation des avenants n° 7 et n° 7 bis à la convention collective nationale de travail ayant institué un régime de retraite complémentaire des salariés
