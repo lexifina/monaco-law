@@ -1,6 +1,6 @@
 # Article 1er
 
-Préalablement à son affectation, puis selon une périodicité annuelle, tout travailleur intervenant en milieu hyperbare doit subir un examen clinique général et des examens et analyses complémentaires spécialisés pratiqués selon les règles figurant en annexe au présent arrêté, dans des structures sanitaires désignées par le Ministre d'État sur proposition de la commission instituée à l'article 5 de l'arrêté ministériel n° 2001-70 du 13 février 2001 relatif à la protection des travailleurs intervenant en milieu hyperbare.
+Préalablement à son affectation, puis selon une périodicité annuelle, tout travailleur intervenant en milieu hyperbare doit subir un examen clinique général et des examens et analyses complémentaires spécialisés pratiqués selon les règles figurant en annexe au présent arrêté.
 
 Au vu des résultats des analyses et des examens mentionnés à l'alinéa précédent, le médecin du travail établit une fiche attestant que le travailleur ne présente pas de contre-indication aux interventions en hyperbarie.
 
