@@ -1,3 +1,3 @@
 # Article 4
 
-Sauf entente spéciale, le montant des valeurs à recouvrer est exprimé dans la monnaie du pays de recouvrement.
+Les lettres avec valeur déclarée sont soumises aux conditions de poids et de dimensions applicables aux lettres ordinaires. Celles dont les dimensions sont inférieures aux minimums fixés pour les lettres à l'article 19, paragraphe 6, de la Convention ne sont pas admises.

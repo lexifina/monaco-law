@@ -1,3 +1,3 @@
 # Article 15
 
-L'article 11, paragraphe 2, de l'Arrangement concernant les envois contre remboursement est applicable aux mandats de recouvrement et aux versements ou virements à des comptes courants postaux du montant des valeurs recouvrées.
+La Convention est applicable, le cas échéant, par analogie, en tout ce qui n'est pas expressément réglé par le présent Arrangement. Toutefois, par dérogation à l'article 29 de la Convention précitée, l'Administration de destination a la faculté, lorsque sa réglementation le prévoit, de faire remettre par exprès un avis d'arrivée de l'envoi et non l'envoi lui-même.

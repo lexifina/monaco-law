@@ -1,7 +1,7 @@
 # Article 12
 
-Les fonds se rapportant à un même envoi et destinés à l'expéditeur des valeurs lui sont envoyés :
+1. L'expéditeur d'une lettre avec valeur déclarée est responsable, dans les mêmes limites que les Administrations elles-mêmes, de tous les dommages causés aux autres envois postaux par suite de l'expédition d'objets non admis au transport ou de la non-observation des conditions d'admission, pourvu qu'il n'y ait eu ni faute ni négligence des Administrations ou des transporteurs.
 
-- a) Soit par mandat de recouvrement ;
+2. L'acceptation par le bureau de dépôt d'une telle lettre avec valeur déclarée ne dégage pas l'expéditeur de sa responsabilité.
 
-- b) Soit, dans le cas où les Administrations intéressées admettent ces procédés, par versement ou virement à un compte courant postal tenu soit dans le pays de recouvrement, soit dans le pays d'origine des valeurs.
+3. L'Administration qui constate un dommage dû à la faute de l'expéditeur en informe l'Administration d'origine à laquelle il appartient d'intenter, le cas échéant, l'action contre l'expéditeur.
