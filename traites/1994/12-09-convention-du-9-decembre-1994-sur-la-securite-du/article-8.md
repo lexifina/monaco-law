@@ -1,0 +1,3 @@
+# Article 8
+
+Sauf disposition contraire d'un éventuel accord sur le statut des forces, si des membres du personnel des Nations Unies ou du personnel associé sont capturés ou détenus dans le cadre de l'exercice de leurs fonctions et si leur identité a été établie, ils ne peuvent être soumis à un interrogatoire et ils doivent être promptement relâchés et rendus à l'Organisation des Nations Unies ou à une autre autorité appropriée. Dans l'intervalle, ils doivent être traités conformément aux normes universellement reconnues en matière de droits de l'homme ainsi qu'aux principes et à l'esprit des Conventions de Genève de 1949.
