@@ -18,7 +18,7 @@ Véhicules dont le déclarant remplit les conditions fixées par l'article 102 d
 
 - Pour les motocycles et assimilés y compris les cyclomoteurs :
 
-  - deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99) ;
+  - deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99 et VE01 à VE99) ;
 
 Les lettres étant choisies dans la liste :
 
@@ -54,7 +54,7 @@ Le numéro d'immatriculation est composé d'un symbole TT suivi d'un groupe de d
 
 Ces immatriculations spéciales sont réservées strictement aux personnes ci-dessus désignées, dont les véhicules se trouvent dans l'un des cas énumérés ci-après :
 
-- a) véhicules neufs, de marques étrangères autres que françaises, livrés dans la Principauté à ces personnes et destinés à être réexportés à l'expiration de leur séjour ;
+- a ) véhicules neufs, de marques étrangères autres que françaises, livrés dans la Principauté à ces personnes et destinés à être réexportés à l'expiration de leur séjour ;
 
 - b) véhicules neufs, de marque française, livrés dans la Principauté en exemption des taxes aux personnes susvisées et destinés à être exportés à l'expiration de leur séjour ;
 
@@ -313,3 +313,15 @@ Les véhicules automobiles ou remorqués de plus de 25 ans d'âge jusqu'alors im
 La location des véhicules immatriculés dans cette série doit, lorsqu'elle excède une durée de 15 jours, faire l'objet de l'agrément du service de la circulation.
 
 Cet agrément ne peut être accordé qu'à condition que les locataires des véhicules justifient d'une résidence à Monaco.
+
+Véhicules disposant d'une source d'énergie principale électrique et dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1691 du 17 décembre 1957, susvisée :
+
+- couleur de caractère : bleu
+
+Pour les véhicules automobiles :
+
+- un groupe de trois chiffres suivi de la lettre E, soit du n° 001E au n° 999E.
+
+Pour les motocycles et assimilés y compris les cyclomoteurs :
+
+- les deux lettres VE suivies d'un groupe de deux chiffres, soit du n° VE01 au n° VE99, ou un groupe de deux chiffres suivi des deux lettres VE, soit du n° 01VE au n° 99VE.
