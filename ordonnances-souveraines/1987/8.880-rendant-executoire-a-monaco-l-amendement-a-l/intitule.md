@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 8.880 du 15 mai 1987 rendant exécutoire à Monaco l'amendement à l'article XI, paragraphe 3, alinéa a), de la convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction faite à Washington le 3 mars 1973
