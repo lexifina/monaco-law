@@ -1,0 +1,1 @@
+Arrêté ministériel n° 79-508 du 7 décembre 1979 étendant aux gens de maison le bénéfice du protocole d'accord du 8 mars 1968 instituant un régime d'aide financière aux travailleurs involontairement privés d'emploi
