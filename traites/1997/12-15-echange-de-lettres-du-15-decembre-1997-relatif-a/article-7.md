@@ -1,17 +1,17 @@
 # Article 7
 
-Un arrangement administratif entre les autorités françaises et monégasques compétentes règle les modalités pratiques de mise en œuvre du présent accord.
+Lorsqu'un étranger visé à l'article 3, paragraphe 1 de la Convention dépose une demande d'autorisation de long séjour auprès des Autorités monégasques et que celles-ci émettent un avis favorable, le Conseiller de Gouvernement pour l'Intérieur de la Principauté de Monaco communique au Consul général de France à Monaco, une notice de renseignements indiquant précisément l'état civil de la personne, sa nationalité, son activité professionnelle ainsi que son dernier domicile.
 
-L'arrangement administratif précise notamment :
+Le Consul général de France procède aux consultations nécessaires. Il communique en retour au Conseiller de Gouvernement pour l'Intérieur l'avis des Autorités françaises qui peut consister :
 
-- le périmètre des zones de contrôle affectées aux autorités françaises :
+- soit en l'absence totale de remarques ;
 
-- les conditions de fonctionnement de ces zones ;
+- soit en la formulation d'observations tenant aux activités ou au comportement passés ou présents du demandeur ;
 
-- les itinéraires de transit entre le territoire français et les zones de contrôle affectées aux autorités françaises.
+- soit en une opposition à la demande, fondée sur les activités ou le comportement passés ou présents du demandeur.
 
-Je vous serais obligé de bien vouloir me faire savoir si ces propositions recueillent l'agrément de votre Gouvernement. Dans ce cas, la présente lettre et votre réponse constitueront, sur ces points, un accord entre nos deux Gouvernements. Cet accord entrera en vigueur à la même date que l'échange de lettres auquel il se réfère.
+Dans les deux premiers cas, les Autorités monégasques apprécient l'opportunité de délivrer le titre de séjour et informent le Consul général de France de leur décision.
 
-Veuillez agréer, Monsieur le Ministre d'État, l'expression de mes sentiments les meilleurs.
+Dans le dernier cas, les Autorités monégasques notifient sans délai au demandeur le refus d'autorisation de séjour et informent le Consul général de France de leur décision.
 
-Hubert VÉDRINE
+Toutefois, en l'absence de réponse de la Partie française dans un délai d'un mois à compter de la saisine du Consul général de France par le Conseiller de Gouvernement pour l'Intérieur, le dossier est réputé ne pas soulever d'observations ni d'objections de la part des Autorités françaises. Ce délai peut cependant être prolongé à la demande de la Partie Française.
