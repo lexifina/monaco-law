@@ -1,0 +1,3 @@
+# Article 3
+
+À titre de mesures accessoires destinées à assurer l'application du présent arrêté, les directeurs de laboratoires d'analyses médicales sont tenus de mentionner sur la feuille de maladie, outre la désignation du laboratoire, le nom et l'adresse du malade, la date d'exécution des analyses, les coefficients exprimés en B et la référence codée figurant à la nomenclature des actes de biologie médicale, pour chacune des analyses effectuées, ainsi éventuellement que les suppléments pour services d'urgence qui devront être précédés de la mention « supplément » et, également, la somme totale payée.
