@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 2.819 du 27 avril 1962 instituant auprès du département des finances et des affaires économiques un comité technique chargé d'étudier une réforme de la réglementation sur les sociétés anonymes
