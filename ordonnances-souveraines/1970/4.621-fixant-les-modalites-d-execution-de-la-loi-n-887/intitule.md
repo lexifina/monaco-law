@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 4.621 du 29 décembre 1970 fixant les modalités d'exécution de la loi n° 887 du 25 juin 1970 portant limitation du champ d'application de l'ordonnance-loi n° 669 du 17 septembre 1959 modifiant et codifiant la législation relative aux conditions de location des locaux à usage d'habitation

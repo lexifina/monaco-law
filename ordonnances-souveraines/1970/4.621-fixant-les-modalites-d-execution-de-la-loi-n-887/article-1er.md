@@ -1,0 +1,3 @@
+# Article 1er
+
+Lorsqu'ils sont assujettis aux dispositions de l'ordonnance-loi n° 669 du 17 septembre 1959, telles que modifiées par la loi n° 888 du 25 juin 1970, les locaux à usage d'habitation s'étant trouvés classés, à la date du 26 juin 1970, dans la première catégorie prévue à l'article 2 de l'ordonnance souveraine n° 77 du 22 septembre 1949, seront déclarés et pourront être loués dans les conditions déterminées ci-après, s'ils deviennent vacants par suite soit du décès ou du départ volontaire du locataire ou de l'occupant, soit de son expulsion en raison du non-paiement régulier du loyer ou de l'inobservation d'autres obligations légales ou conventionnelles.
