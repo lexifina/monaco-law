@@ -1,0 +1,3 @@
+# Article 12
+
+Les dispositions de la présente convention s'étendent ou s'appliquent, dans les mêmes conditions, aux territoires non autonomes, sous tutelle ou à tout territoire dont une partie contractante assure les relations internationales, à moins que ladite partie contractante, en ratifiant la présente convention ou en y adhérant, ne déclare que la convention ne s'appliquera pas à tel ou tel de ces territoires. Toute partie contractante qui aura fait cette déclaration pourra ultérieurement, à tout moment, par notification adressée au secrétaire général, étendre l'application de la convention aux territoires ainsi exclus ou à l'un quelconque d'entre eux.
