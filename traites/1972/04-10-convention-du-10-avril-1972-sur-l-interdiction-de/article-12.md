@@ -1,0 +1,3 @@
+# Article 12
+
+Cinq ans après l'entrée en vigueur de la présente Convention, ou avant cette date si une majorité des parties à la Convention le demande en soumettant une proposition à cet effet aux gouvernements dépositaires, une conférence des États parties à la Convention aura lieu à Genève (Suisse), afin d'examiner le fonctionnement de la Convention, en vue de s'assurer que les objectifs énoncés dans le préambule et les dispositions de la Convention, y compris celles relatives aux négociations sur les armes chimiques, sont en voie de réalisation. À l'occasion de cet examen, il sera tenu compte de toutes les nouvelles réalisations scientifiques et techniques qui ont un rapport avec la Convention.

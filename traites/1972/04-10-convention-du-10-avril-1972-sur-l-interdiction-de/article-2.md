@@ -1,0 +1,3 @@
+# Article 2
+
+Chaque État partie à la présente Convention s'engage à détruire ou à convertir à des fins pacifiques, aussi rapidement que possible et en tout cas pas plus tard que neuf mois après l'entrée en vigueur de la Convention, tous les agents, toxines, armes, équipements et vecteurs dont il est question dans l'article premier de la Convention qui se trouvent en sa possession ou sous sa juridiction ou son contrôle. Lors de l'exécution des dispositions du présent article, il y aura lieu de prendre toutes les mesures de précaution nécessaires pour protéger les populations et l'environnement.
