@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.038 du 3 avril 1997 rendant exécutoire le Protocole modifiant la Convention internationale adoptée le 18 décembre 1971 à Bruxelles, portant création d'un fonds international d'indemnisation pour les dommages dus à la pollution par les hydrocarbures (FIPOL)
