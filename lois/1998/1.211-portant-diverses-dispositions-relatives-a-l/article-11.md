@@ -1,0 +1,3 @@
+# Article 11
+
+Par dérogation à l'article 4, alinéas 4 et 5, de la loi n° 1.130 du 8 janvier 1990 relative aux fonds communs de placement, la modification du règlement d'un fonds commun visant exclusivement à instituer l'euro comme référence monétaire dudit fonds en remplacement d'une des unités monétaires énumérées par l'arrêté ministériel relatif à l'introduction de l'euro, donne lieu à une déclaration au ministre d'État précisant sa date de prise d'effet. Cette modification est portée à la connaissance des porteurs de parts par une communication au " Journal de Monaco ', au plus tard dans les quinze jours suivant la date de la prise d'effet.
