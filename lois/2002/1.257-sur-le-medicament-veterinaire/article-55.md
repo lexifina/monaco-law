@@ -1,0 +1,5 @@
+# Article 55
+
+Est passible de l'amende prévue au chiffre 2 de l'article 26 du Code pénal, quiconque méconnaît les conditions fixées par l'autorisation de mise sur le marché, l'autorisation temporaire d'utilisation ou l'enregistrement prévus respectivement aux articles 9, 12 et 15.
+
+La récidive de cette infraction est punie de trois mois d'emprisonnement et de l'amende prévue au chiffre 3 de l'article 26 du Code pénal.
