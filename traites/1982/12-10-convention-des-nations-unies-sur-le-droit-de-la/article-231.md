@@ -1,0 +1,3 @@
+# Article 231
+
+Les États notifient sans retard à l'État du pavillon et à tout autre État concerné toutes les mesures prises à l'encontre de navires étrangers en application de la section 6, et soumettent à l'État du pavillon tous les rapports officiels concernant ces mesures. Toutefois, dans le cas d'infractions commises dans la mer territoriale, l'État côtier n'est tenu de ces obligations qu'en ce qui concerne les mesures prises dans le cadre de poursuites. Les agents diplomatiques ou les fonctionnaires consulaires et, dans la mesure du possible, l'autorité maritime de l'État du pavillon sont immédiatement informés de toutes mesures de cet ordre.

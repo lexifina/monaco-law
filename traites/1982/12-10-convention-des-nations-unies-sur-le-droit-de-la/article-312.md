@@ -1,0 +1,5 @@
+# Article 312
+
+1. À l'expiration d'une période de dix ans à compter de la date d'entrée en vigueur de la Convention, tout État Partie peut proposer, par voie de communication écrite adressée au Secrétaire général de l'Organisation des Nations Unies, des amendements à la Convention sur des points précis, pour autant qu'ils ne portent pas sur les activités menées dans la zone, et demander la convocation d'une conférence chargée d'examiner les amendements ainsi proposés. Le Secrétaire général transmet cette communication à tous les États Parties. Il convoque la conférence si, dans les douze mois qui suivent la date de transmission de la communication, la moitié au moins des États Parties répondent favorablement à cette demande.
+
+2. À moins qu'elle n'en décide autrement, la conférence d'amendement applique la procédure de prise de décisions suivie par la troisième Conférence des Nations Unies sur le droit de la mer. Elle ne devrait ménager aucun effort pour aboutir à un accord sur les amendements par voie de consensus et il ne devrait pas y avoir de vote sur ces amendements tant que tous les efforts en vue d'aboutir à un consensus n'auront pas été épuisés.

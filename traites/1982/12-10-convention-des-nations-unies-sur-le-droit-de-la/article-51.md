@@ -1,0 +1,5 @@
+# Article 51
+
+1. Sans préjudice de l'article 49, les États archipels respectent les accords existants conclus avec d'autres États et reconnaissent les droits de pêche traditionnels et les activités légitimes des États limitrophes dans certaines zones faisant partie de leurs eaux archipélagiques. Les conditions et modalités de l'exercice de ces droits et activités, y compris leur nature, leur étendue et les zones dans lesquelles ils s'exercent, sont, à la demande de l'un quelconque des États concernés, définies par voie d'accords bilatéraux conclus entre ces États. Ces droits ne peuvent faire l'objet d'un transfert ou d'un partage au bénéfice d'États tiers ou de leurs ressortissants.
+
+2. Les États archipels respectent les câbles sous-marins déjà en place qui ont été posés par d'autres États et passent dans leurs eaux sans toucher le rivage. Ils autorisent l'entretien et le remplacement de ces câbles après avoir été avisés de leur emplacement et des travaux d'entretien ou de remplacement envisagés.

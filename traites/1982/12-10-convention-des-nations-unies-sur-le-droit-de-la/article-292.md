@@ -1,0 +1,9 @@
+# Article 292
+
+1. Lorsque les autorités d'un État Partie ont immobilisé un navire battant pavillon d'un autre État Partie et qu'il est allégué que l'État qui a immobilisé le navire n'a pas observé les dispositions de la Convention prévoyant la prompte mainlevée de l'immobilisation du navire ou la mise en liberté de son équipage dès le dépôt d'une caution raisonnable ou d'une autre garantie financière, la question de la mainlevée ou de la mise en liberté peut être portée devant une cour ou un tribunal désigné d'un commun accord par les parties; à défaut d'accord dans un délai de dix jours à compter du moment de l'immobilisation du navire ou de l'arrestation de l'équipage, cette question peut être portée devant une cour ou un tribunal accepté conformément à l'article 287 par l'État qui a procédé à l'immobilisation ou à l'arrestation, ou devant le Tribunal international du droit de la mer, à moins que les parties n'en conviennent autrement.
+
+2. La demande de mainlevée ou de mise en liberté ne peut être faite que par l'État du pavillon ou en son nom.
+
+3. La cour ou le tribunal examine promptement cette demande et n'a à connaître que de la question de la mainlevée ou de la mise en liberté, sans préjudice de la suite qui sera donnée à toute action dont le navire, son propriétaire ou son équipage peuvent être l'objet devant la juridiction nationale appropriée. Les autorités de l'État qui a procédé à l'immobilisation ou à l'arrestation demeurent habilitées à ordonner à tout moment la mainlevée de l'immobilisation du navire ou la mise en liberté de son équipage.
+
+4. Dès le dépôt de la caution ou de l'autre garantie financière déterminée par la cour ou le tribunal, les autorités de l'État qui a immobilisé le navire se conforment à la décision de la cour ou du tribunal concernant la mainlevée de l'immobilisation du navire ou de la mise en liberté de son équipage.

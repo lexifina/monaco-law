@@ -1,0 +1,7 @@
+# Article 183
+
+1. L'Autorité, dans l'exercice de ses fonctions, ainsi que ses biens, avoirs et revenus, de même que ses activités et transactions autorisées par la Convention, sont exempts de tout impôt direct, et les biens qu'elle importe ou exporte pour son usage officiel sont exempts de tous droits de douane. L'Autorité ne peut demander aucune exemption de droits perçus en rémunération de services rendus.
+
+2. Si des achats de biens ou de services d'une valeur substantielle, nécessaires à l'exercice des fonctions de l'Autorité, sont effectués par elle ou pour son compte et si le prix de ces biens ou services inclut des impôts, taxes ou droits, les États Parties prennent, autant que possible, les mesures appropriées pour accorder l'exemption de ces impôts, taxes ou droits ou pour en assurer le remboursement. Les biens importés ou achetés sous le régime d'exemption prévu au présent article ne doivent être ni vendus ni aliénés d'une autre manière sur le territoire de l'État Partie qui a accordé l'exemption, à moins que ce ne soit à des conditions convenues avec cet État.
+
+3. Les États Parties ne perçoivent aucun impôt prenant directement ou indirectement pour base les traitements, émoluments et autres sommes versés par l'Autorité au Secrétaire général et aux membres du personnel de l'Autorité, ainsi qu'aux experts qui accomplissent des missions pour l'Autorité, à moins qu'ils ne soient leurs ressortissants.

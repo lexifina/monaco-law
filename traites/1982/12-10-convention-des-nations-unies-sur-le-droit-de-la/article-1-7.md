@@ -1,0 +1,3 @@
+# Article 1 (7)
+
+Sous réserve de la partie XV, toute partie à un différend relatif à l'interprétation ou à l'application des articles de la Convention concernant: 1) la pêche, 2) la protection et la préservation du milieu marin, 3) la recherche scientifique marine ou 4) la navigation, y compris la pollution par les navires ou par immersion, peut soumettre ce différend à la procédure d'arbitrage spécial prévue dans la présente annexe par notification écrite adressée à l'autre ou aux autres parties au différend. La notification est accompagnée de l'exposé des conclusions et des motifs sur lesquels elles se fondent.

@@ -1,0 +1,5 @@
+# Article 314
+
+1. Tout État Partie peut présenter, par voie de communication écrite adressée au Secrétaire général de l'Autorité, une proposition d'amendement aux dispositions de la Convention portant exclusivement sur les activités menées dans la Zone, y compris les dispositions de la section 4 de l'annexe VI. Le Secrétaire général transmet cette communication à tous les États Parties. Une fois approuvé par le Conseil, l'amendement proposé doit être approuvé par l'Assemblée. Les représentants des États Parties sont munis des pleins pouvoirs pour examiner et approuver l'amendement proposé. La proposition d'amendement, telle qu'elle a été approuvée par le Conseil et l'Assemblée, est considérée comme adoptée.
+
+2. Avant d'approuver un amendement conformément au paragraphe 1, le Conseil et l'Assemblée s'assurent qu'il ne porte pas atteinte au système d'exploration et d'exploitation des ressources de la Zone, en attendant la convocation de la Conférence de révision conformément à l'article 155.

@@ -1,0 +1,3 @@
+# Article 219
+
+Sous réserve de la section 7, les États, lorsqu'ils ont déterminé, sur demande ou de leur propre initiative, qu'un navire se trouvant dans un de leurs ports ou à une de leurs installations terminales au large a enfreint les règles et normes internationales applicables concernant la navigabilité des navires et risque de ce fait de causer des dommages au milieu marin, prennent, autant que faire se peut, des mesures administratives pour empêcher ce navire d'appareiller. Ils ne l'autorisent qu'à se rendre au chantier de réparation approprié le plus proche et, une fois éliminées les causes de l'infraction, ils lui permettent de poursuivre sa route sans délai.

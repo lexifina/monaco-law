@@ -1,0 +1,3 @@
+# Article 236
+
+Les dispositions de la Convention relatives à la protection et à la préservation du milieu marin ne s'appliquent ni aux navires de guerre ou navires auxiliaires, ni aux autres navires ou aux aéronefs appartenant à un État ou exploités par lui lorsque celui-ci les utilise, au moment considéré, exclusivement à des fins de service public non commerciales. Cependant, chaque État prend les mesures appropriées n'affectant pas les opérations ou la capacité opérationnelle des navires ou aéronefs lui appartenant ou exploités par lui de façon à ce que ceux-ci agissent, autant que faire se peut, d'une manière compatible avec la Convention.

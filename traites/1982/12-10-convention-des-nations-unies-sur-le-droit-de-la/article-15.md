@@ -1,0 +1,3 @@
+# Article 15
+
+Lorsque les côtes de deux États sont adjacentes ou se font face, ni l'un ni l'autre de ces États n'est en droit, sauf accord contraire entre eux, d'étendre sa mer territoriale au-delà de la ligne médiane dont tous les points sont équidistants des points les plus proches des lignes de base à partir desquelles est mesurée la largeur de la mer territoriale de chacun des deux États. Cette disposition ne s'applique cependant pas dans le cas où, en raison de l'existence de titres historiques ou d'autres circonstances spéciales, il est nécessaire de délimiter autrement la mer territoriale des deux États.

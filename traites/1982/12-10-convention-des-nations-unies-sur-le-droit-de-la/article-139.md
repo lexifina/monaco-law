@@ -1,0 +1,7 @@
+# Article 139
+
+1. Il incombe aux États Parties de veiller à ce que les activités menées dans la Zone, que ce soit par eux-mêmes, par leurs entreprises d'État ou par des personnes physiques ou morales possédant leur nationalité ou effectivement contrôlées par eux ou leurs ressortissants, le soient conformément à la présente partie. La même obligation incombe aux organisations internationales pour les activités menées dans la Zone par elles.
+
+2. Sans préjudice des règles du droit international et de l'article 22 de l'annexe III, un État Partie ou une organisation internationale est responsable des dommages résultant d'un manquement de sa part aux obligations qui lui incombent en vertu de la présente partie; des États Parties ou organisations internationales agissant de concert assument conjointement et solidairement cette responsabilité. Toutefois, l'État Partie n'est pas responsable des dommages résultant d'un tel manquement de la part d'une personne patronnée par lui en vertu de l'article 153, paragraphe 2, lettre b), s'il a pris toutes les mesures nécessaires et appropriées pour assurer le respect effectif de la présente partie et des annexes qui s'y rapportent, comme le prévoient l'article 153, paragraphe 4, et l'article 4, paragraphe 4, de l'annexe III.
+
+3. Les États Parties qui sont membres d'organisations internationales prennent les mesures appropriées pour assurer l'application du présent article en ce qui concerne ces organisations.

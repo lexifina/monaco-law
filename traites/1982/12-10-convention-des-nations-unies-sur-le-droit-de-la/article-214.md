@@ -1,0 +1,3 @@
+# Article 214
+
+Les États assurent l'application des lois et règlements adoptés conformément à l'article 208; ils adoptent les lois et règlements et prennent les autres mesures nécessaires pour donner effet aux règles et normes internationales applicables, établies par l'intermédiaire des organisations internationales compétentes ou d'une conférence diplomatique, afin de prévenir, réduire et maîtriser la pollution du milieu marin qui résulte directement ou indirectement des activités relatives aux fonds marins et relevant de leur juridiction, ou qui provient d'îles artificielles, d'installations et d'ouvrages relevant de leur juridiction en vertu des articles 60 et 80.

@@ -1,0 +1,3 @@
+# Article 247
+
+Un État côtier qui est membre d'une organisation internationale ou lié à une telle organisation par un accord bilatéral et dans la zone économique exclusive ou sur le plateau continental duquel cette organisation veut exécuter directement ou faire exécuter sous ses auspices un projet de recherche scientifique marine, est réputé avoir autorisé l'exécution du projet conformément aux spécifications convenues s'il a approuvé le projet détaillé lorsque l'organisation a pris la décision de l'entreprendre ou s'il est disposé à y participer et n'a émis aucune objection à l'expiration d'un délai de quatre mois à compter du moment où notification du projet lui a été faite par l'organisation.
