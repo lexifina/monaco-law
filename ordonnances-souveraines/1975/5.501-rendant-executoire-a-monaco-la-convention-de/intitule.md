@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.501 du 9 janvier 1975 rendant exécutoire à Monaco la convention de Berne pour la protection des œuvres littéraires et artistiques du 9 septembre 1886, telle que révisée à Paris le 24 juillet 1971
