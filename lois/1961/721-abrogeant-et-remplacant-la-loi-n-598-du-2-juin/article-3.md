@@ -1,0 +1,3 @@
+# Article 3
+
+Une ordonnance souveraine fixe les formes que doit revêtir la demande. Celle-ci comportera toutes les énonciations statistiques utiles ainsi que tous renseignements sur l'identité, la nationalité, l'état civil, la capacité, le régime matrimonial, le nom commercial, les fonds exploités, l'origine et la réalité de l'existence de l'établissement commercial ou industriel, ainsi que tous autres éléments de la situation juridique et de l'activité commerciale de l'assujetti dont les tiers peuvent avoir besoin pour traiter avec lui en pleine sécurité, ou dont la publicité est utile à l'intérêt général.

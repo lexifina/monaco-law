@@ -1,0 +1,5 @@
+# Article 13
+
+Les personnes physiques ou morales assujetties à l'inscription au répertoire qui ne se sont pas fait inscrire à l'expiration du délai prévu à l'article 2, ne peuvent se prévaloir avant leur inscription de leur qualité de commerçant, tant vis-à-vis des tiers qu'à l'égard des administrations publiques. Toutefois, elles ne peuvent invoquer leur défaut d'inscription au répertoire pour se soustraire aux responsabilités et aux obligations inhérentes à cette qualité.
+
+Le commerçant inscrit, qui cède son fonds de commerce ou qui en afferme l'exploitation conformément aux dispositions de la loi n° 546 du 26 juin 1951, ne peut opposer la cessation de son activité commerciale pour se soustraire aux actions en responsabilité dont il est l'objet du fait des obligations contractées par son cessionnaire ou par son locataire dans l'exploitation du fonds qu'à partir du jour où a été portée au répertoire soit la radiation ou la mention correspondante, soit la mention de mise en location-gérance.
