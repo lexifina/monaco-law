@@ -1,0 +1,3 @@
+# Article 5
+
+Les États contractants qui constituent pour le transport aérien des organisations d'exploitation en commun ou des organismes internationaux d'exploitation et qui exploitent des aéronefs faisant l'objet d'une immatriculation commune ou internationale désignent, pour chaque aéronef, suivant les modalités appropriées, l'État qui exerce la compétence et aura les attributions de l'État d'immatriculation aux fins de la présente convention. Ils aviseront de cette désignation l'Organisation de l'Aviation civile internationale, qui en informera tous les États Parties à la présente convention.
