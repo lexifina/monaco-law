@@ -1,0 +1,1 @@
+Arrêté ministériel n° 92-420 du 22 juillet 1992 portant modification à la composition des listes I et II des substances vénéneuses et interdisant l'exécution et la délivrance de certaines préparations
