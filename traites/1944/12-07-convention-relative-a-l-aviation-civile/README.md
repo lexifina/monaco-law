@@ -1,8 +1,8 @@
 # Convention relative à l'aviation civile internationale, signée à Chicago le 7 décembre 1944
 
-Version en vigueur au 1er octobre 1998.
+Version en vigueur au 17 août 1999.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/1944/12-07-tai1l000152@1998.10.01/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/1944/12-07-tai1l000152@1999.08.17/
 
 | | |
 | --- | --- |
