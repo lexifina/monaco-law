@@ -1,0 +1,1 @@
+Les soussignés, Plénipotentiaires des Gouvernements représentés à la Conférence diplomatique qui s'est réunie à Genève du 21 avril au 12 août 1949 en vue de réviser la Convention de Genève pour l'amélioration du sort des blessés et des malades dans les armées en campagne du 27 juillet 1929, sont convenues de ce qui suit :
