@@ -1,0 +1,7 @@
+# Article 1
+
+1) La présente convention s'applique à tout transport international de personnes, bagages ou marchandises, effectué par aéronef contre rémunération. Elle s'applique également aux transports gratuits effectués par aéronef par une entreprise de transport aérien.
+
+2) Est qualifié transport international, au sens de la présente convention, tout transport dans lequel, d'après les stipulations des parties, le point de départ et le point de destination, qu'il y ait ou interruption de transport ou transbordement, sont situés soit sur le territoire de deux hautes parties contractantes, soit sur le territoire d'une seule haute partie contractante si une escale est prévue sur le territoire d'un autre État, même si cet État n'est pas une haute partie contractante. Le transport sans une telle escale entre deux points du territoire d'une seule haute partie contractante n'est pas considéré comme international au sens de la présente convention.
+
+3) Le transport à exécuter par plusieurs transporteurs par air successifs est censé constituer pour l'application de la présente convention un transport unique lorsqu'il a été envisagé par les parties comme une seule opération, qu'il ait été conclu sous la forme d'un seul contrat ou d'une série de contrats, et il ne perd pas son caractère international par le fait qu'un seul contrat ou une série de contrats doivent être exécutés intégralement dans le territoire d'un même État.
