@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.210 du 4 février 1978 rendant exécutoire à Monaco les amendements à la convention internationale de 1954 pour la prévention de la pollution des eaux de la mer par les hydrocarbures, adoptés par la résolution A. 175 (VI) de l'assemblée de l'organisation intergouvernementale consultative de la navigation maritime le 21 octobre 1969
