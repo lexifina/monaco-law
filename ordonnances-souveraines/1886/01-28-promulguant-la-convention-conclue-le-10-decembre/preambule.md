@@ -1,0 +1,1 @@
+Une convention pour assurer l'extradition réciproque des malfaiteurs entre Notre Principauté et la Suisse ayant été signée, le 10 décembre 1885, par Notre plénipotentiaire et celui du Conseil fédéral suisse, et les ratifications de cet acte ayant été échangées à Paris le 26 janvier 1886, ladite convention, dont la teneur suit, recevra sa pleine et entière exécution.
