@@ -1,0 +1,1 @@
+Amendements du 30 avril 1983 aux annexes I et II de la Convention de Washington sur le commerce international des espèces de faune et de flore menacées d'extinction, adoptés par la Conférence des Parties lors de sa quatrième session à Gaborone, Botswana
