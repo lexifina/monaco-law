@@ -1,0 +1,3 @@
+# Article III
+
+Chacun des États contractants reconnaîtra l'autorité d'une sentence arbitrale et accordera l'exécution de cette sentence conformément aux règles de procédure suivies dans le territoire où la sentence est invoquée, aux conditions établies dans les articles suivants. Il ne sera pas imposé, pour la reconnaissance ou l'exécution des sentences arbitrales auxquelles s'applique la présente Convention, de conditions sensiblement plus rigoureuses, ni de frais de justice sensiblement plus élevés, que ceux qui sont imposés pour la reconnaissance ou l'exécution des sentences arbitrales nationales.
