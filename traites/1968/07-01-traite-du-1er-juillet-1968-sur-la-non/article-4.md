@@ -1,0 +1,5 @@
+# Article 4
+
+1. Aucune disposition du présent Traité ne sera interprétée comme portant atteinte au droit inaliénable de toutes les Parties au Traité de développer la recherche, la production et l'utilisation de l'énergie nucléaire à des fins pacifiques, sans discrimination et conformément aux dispositions des articles 1er et 2 du présent Traité.
+
+2. Toutes les Parties au Traité s'engagent à faciliter un échange aussi large que possible d'équipement, de matières et de renseignements scientifiques et technologiques en vue des utilisations de l'énergie nucléaire à des fins pacifiques, et ont le droit d'y participer. Les Parties au Traité en mesure de le faire devront aussi coopérer en contribuant, à titre individuel ou conjointement avec d'autres États ou des organisations internationales, au développement plus poussé des applications de l'énergie nucléaire à des fins pacifiques, en particulier sur les territoires des États non dotés d'armes nucléaires qui sont Parties au Traité, compte dûment tenu des besoins des régions du monde qui sont en voie de développement.
