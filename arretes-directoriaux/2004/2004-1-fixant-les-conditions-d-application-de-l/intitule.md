@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services judiciaires n° 2004-1 du 12 janvier 2004 fixant les conditions d'application de l'ordonnance n° 16.123 du 6 janvier 2004 relative à l'indemnisation de l'assistance judiciaire et des commissions d'office
