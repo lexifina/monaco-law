@@ -1,0 +1,3 @@
+# Article 14
+
+Au cas où la cour annule une sentence arbitrale et évoque le fond par application de l'article 13 de la loi susvisée, elle renvoie la cause et les parties à une audience ultérieure qui devra avoir lieu au plus tard un mois après la date de l'arrêt prononçant l'annulation et contenant la désignation d'un rapporteur pour instruction complémentaire. Dans ce cas, la cour supérieure d'arbitrage aura les pouvoirs prévus par les articles 300 à 373 du Code de procédure civile en tant qu'ils ne sont pas contraires aux dispositions de la loi n° 473 du 4 mars 1948 modifiée et complétée et à celles de la présente ordonnance.
