@@ -16,7 +16,7 @@ I. - Les analyses biologiques et tests de dépistage suivants sont effectués su
 
 - 5. Les tests et analyses biologiques suivants en vue du dépistage de maladies transmissibles :
 
-  - a) Le dépistage sérologique de la syphilis ;
+  - a) Le dépistage sérologique de la syphilis ; la recherche de l'infection par l'agent de la syphilis peut être réalisée en différé, dans les heures ouvrables suivant le prélèvement de cellules souches hématopoïétiques ou de cellules somatiques mononucléées destinées à la réalisation de préparations cellulaires
 
   - b) La détection de l'antigène HBs ;
 
@@ -28,11 +28,9 @@ I. - Les analyses biologiques et tests de dépistage suivants sont effectués su
 
   - f) La détection des anticorps antipaludéens chez les donneurs ayant séjourné dans une zone d'endémie telle que définie par l'Organisation mondiale de la santé lorsque le prélèvement est effectué plus de quatre mois et moins de trois ans après la date de leur retour de la zone d'endémie ;
 
-  - g) La détection des anticorps anti-HBc ;
+  - g) La détection des anticorps anti-HBc.
 
-  - h) Le dosage des alanine-aminotransférases (ALAT).
-
-II. - Le sang ou ses composants ne peuvent être utilisés en vue de préparer des produits sanguins labiles destinés à un usage thérapeutique direct que si les résultats des tests de dépistage prévus au 5 ci-dessus sont négatifs et si les résultats du dosage des alanine-aminotransférases (ALAT) sont conformes aux normes fixées par arrêté ministériel.
+II. - Le sang ou ses composants ne peuvent être utilisés en vue de préparer des produits sanguins labiles destinés à un usage thérapeutique direct que si les résultats des tests de dépistage prévus au 5 ci-dessus sont négatifs.
 
 III. - Toutefois, des dérogations aux dispositions des alinéas précédents peuvent être prévues par arrêté ministériel, lorsque le sang ou ses composants sont prélevés en vue de préparer des produits sanguins labiles destinés à la transfusion autologue.
 
@@ -42,7 +40,7 @@ IV. - Un arrêté ministériel :
 
 - prévoit les conditions d'utilisation de ces prélèvements au vu des résultats des tests et analyses obligatoires, en fonction du caractère allogénique ou autologue des greffes.
 
-V. - Un arrêté ministériel peut prévoir :
+V.- Un arrêté ministériel peut prévoir :
 
 - 1. Des analyses biologiques et tests de dépistage à effectuer pour la sélection des donneurs d'hématies destinées à stimuler la synthèse d'anticorps anti-D chez des donneurs de plasma Rh-immunisés en vue de la préparation d'immunoglobulines anti-D ;
 
