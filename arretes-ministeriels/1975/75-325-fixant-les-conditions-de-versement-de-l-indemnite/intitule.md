@@ -1,0 +1,1 @@
+Arrêté ministériel n° 75-325 du 11 juillet 1975 fixant les conditions de versement de l'indemnité compensatoire instituée par l'article 5 de la loi n° 967 du 21 mars 1975 concernant l'adhésion des médecins à des régimes d'allocation vieillesse et d'assurance pour incapacité, invalidité ou décès
