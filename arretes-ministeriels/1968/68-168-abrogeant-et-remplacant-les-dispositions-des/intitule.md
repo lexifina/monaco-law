@@ -1,0 +1,1 @@
+Arrêté ministériel n° 68-168 du 30 avril 1968 abrogeant et remplaçant les dispositions des arrêtés ministériels n° 57-305 du 28 novembre 1957 et n° 62-331 du 26 octobre 1962 relatifs à la prévention des accidents provoqués par les fours à mazout de boulangerie
