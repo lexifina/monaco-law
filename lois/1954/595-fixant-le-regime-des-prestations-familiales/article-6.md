@@ -6,7 +6,7 @@ Le tribunal de première instance connaîtra en chambre du conseil, et suivant l
 
 L'ordonnance prévue à l'article 25 déterminera notamment les conditions d'application du présent article, dans les cas ci-après :
 
-- a) Lorsque les parents ne peuvent exercer la puissance paternelle ;
+- a) Lorsque les parents ne peuvent exercer l'autorité parentale ;
 
 - b) Lorsqu'il y a séparation de fait ;
 
