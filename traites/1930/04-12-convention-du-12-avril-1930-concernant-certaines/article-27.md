@@ -1,0 +1,5 @@
+# Article 27
+
+À partir du 1er janvier 1936, tout Membre de la Société des Nations et tout État non Membre à l'égard duquel la présente Convention est à ce moment en vigueur pourra adresser au Secrétaire général de la Société des Nations une demande tendant à la révision de certaines ou de toutes les dispositions de cette Convention. Si une telle demande, communiquée aux autres Membres ou États non Membres à l'égard desquels la Convention est à ce moment en vigueur, est appuyée dans un délai d'un an par au moins neuf d'entre eux, le Conseil de la Société des Nations décidera, après consultation des Membres et des États non Membres visés à l'article 22, s'il y a lieu de convoquer une conférence spéciale à cet effet, ou de mettre cette révision à l'ordre du jour d'une prochaine conférence pour la codification du droit international.
+
+Les Hautes Parties Contractantes conviennent qu'en cas de révision de la présente Convention, la Convention nouvelle pourra prévoir que son entrée en vigueur entraînera l'abrogation à l'égard de toutes les Parties à la présente Convention de toutes les dispositions de celle-ci ou de certaines d'entre elles.

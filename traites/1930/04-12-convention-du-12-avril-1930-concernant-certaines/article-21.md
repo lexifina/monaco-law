@@ -1,0 +1,5 @@
+# Article 21
+
+S'il s'élève entre les Hautes Parties Contractantes un différend quelconque relatif à l'interprétation ou à l'application de la présente Convention, et si ce différend n'a pu être résolu de façon satisfaisante par voie diplomatique, il sera réglé conformément aux dispositions, en vigueur entre les parties, concernant le règlement des différends internationaux.
+
+Au cas où de telles dispositions n'existeraient pas entre les parties au différend, elles les soumettront à une procédure arbitrale ou judiciaire, en se conformant aux lois constitutionnelles de chacune d'elles. À défaut d'accord sur le choix d'un autre tribunal, elles soumettront le différend à la Cour permanente de Justice internationale, si elles sont toutes Parties au Protocole du 16 décembre 1920, relatif à ladite Cour, et, si elles n'y sont pas toutes Parties, à un tribunal d'arbitrage constitué conformément à la Convention de La Haye du 18 octobre 1907, relative au règlement pacifique des conflits internationaux.
