@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 10.885 du 12 mai 1993 fixant les conditions d'application de l'article 1er de la loi n° 834 du 8 décembre 1967 en ce qui concerne les limites d'intensité des bruits de voisinage
