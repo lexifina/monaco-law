@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2003-573 du 10 novembre 2003 interdisant la fabrication, l'importation, l'exportation, la distribution en gros, le conditionnement, la mise sur le marché à titre gratuit ou onéreux, la détention en vue de la vente ou la distribution à titre gratuit ou onéreux et l'utilisation de produits cosmétiques contenant certains éthers de glycol
