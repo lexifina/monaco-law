@@ -1,0 +1,3 @@
+# Article 13
+
+La présente Convention sera approuvée conformément aux dispositions constitutionnelles en vigueur dans chacun des deux Pays. Elle entrera en vigueur le premier jour du mois qui suivra l'échange des notifications constatant que, de part et d'autre, il a été satisfait à ces dispositions et le demeurera aussi longtemps qu'elle n'aura pas été dénoncée par l'une ou l'autre des Parties contractantes, avec un préavis de six mois. Elle produira ses effets rétroactivement à la date du 13 octobre 1962 de telle manière qu'il n'existe aucune solution de continuité pour le règlement des questions douanières faisant l'objet du Titre 1er de la précédente Convention du 23 décembre 1951.

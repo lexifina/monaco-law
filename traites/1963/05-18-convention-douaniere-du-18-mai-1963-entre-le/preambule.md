@@ -1,0 +1,1 @@
+Son Altesse Sérénissime le Prince de Monaco et le Gouvernement de la République Française, se référant aux Traités du 2 février 1861 et du 17 juillet 1918 et plus particulièrement à l'article 6 de ce dernier, sont convenus des dispositions suivantes :
