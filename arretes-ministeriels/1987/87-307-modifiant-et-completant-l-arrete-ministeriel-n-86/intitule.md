@@ -1,0 +1,1 @@
+Arrêté ministériel n° 87-307 du 12 juin 1987 modifiant et complétant l'arrêté ministériel n° 86-155 du 24 mars 1986 fixant la liste des substances dont l'emploi dans les produits cosmétiques et les produits d'hygiène corporelle est soumis à restrictions
