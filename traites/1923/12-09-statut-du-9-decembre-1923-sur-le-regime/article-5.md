@@ -1,0 +1,3 @@
+# Article 5
+
+Pour la détermination et l'application des droits de douane ou assimilés, des droits d'octroi local ou de consommation, ainsi que des frais accessoires perçus à l'occasion de l'importation ou de l'exportation des marchandises par les ports maritimes placés sous la souveraineté ou l'autorité des États contractants, il ne pourra être aucunement tenu compte du pavillon du navire, de telle sorte qu'aucune distinction ne sera faite au détriment du pavillon d'un État contractant quelconque entre celui-ci et le pavillon de l'État sous la souveraineté ou l'autorité duquel le port est placé, ou celui de n'importe quel autre État.
