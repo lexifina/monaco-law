@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 92 du 7 novembre 1949 modifiant et codifiant les ordonnances d'application de l'ordonnance-loi n° 397 du 27 septembre 1944 portant création d'une caisse de compensation des services sociaux
