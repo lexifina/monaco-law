@@ -1,3 +1,5 @@
 # Article 5
 
-Le Gouvernement Princier saisira les Chambres de discipline monégasques des infractions qui lui seraient signalées par le Gouvernement français et qui auraient été commises sur le territoire français par des pharmaciens soumis à la juridiction de ces Chambres.
+La présente Convention sera approuvée conformément aux dispositions constitutionnelles en vigueur dans chacun des deux Pays.
+
+Elle entrera en vigueur le premier jour du mois qui suivra l'échange des notifications constatant que de part et d'autre il a été satisfait à ces dispositions et le demeurera aussi longtemps qu'elle n'aura pas été dénoncée par l'une ou l'autre des Parties contractantes avec un préavis de six mois.

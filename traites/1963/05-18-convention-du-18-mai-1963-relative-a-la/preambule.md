@@ -1,1 +1,1 @@
-Son Altesse Sérénissime le Prince de Monaco et le Gouvernement de la République Française, désireux de conclure une convention réglementant l'exercice de la pharmacie, sont convenus des dispositions suivantes :
+Son Altesse Sérénissime le Prince de Monaco et le Gouvernement de la République Française, désireux de conclure une convention relative à la réglementation des assurances sont convenus des dispositions suivantes :
