@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 283 du 19 septembre 1950 rendant exécutoire la Convention pour l'amélioration du sort des blessés et des malades dans les forces armées en campagne signée à Genève le 12 août 1949
