@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.476 du 30 janvier 1957 relative aux modalités d'application des dispositions de la loi n° 606 du 20 juin 1955 modifiée par la loi n° 625 du 5 novembre 1956 sur les brevets d'invention
