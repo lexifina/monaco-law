@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.513 du 20 juin 2000 rendant exécutoire l'échange de lettres relatif à l'application de l'article 7 modifié de la convention de voisinage entre la France et la Principauté de Monaco, signée à Paris le 18 mai 1963
