@@ -1,45 +1,57 @@
 # Article 16
 
-Par application du principe énoncé à l'article précédent doivent, notamment, être comprises dans le salaire déclaré :
-
-- 1) les indemnités pour charges de famille autres que les allocations familiales,
-
-- 2) les primes d'ancienneté, d'assiduité, de propreté, de rendement,
-
-- 3) les primes à la production,
-
-- 4) les participations aux bénéfices,
-
-- 5) les indemnités pour travaux dangereux ou insalubres,
-
-- 6) les indemnités de préavis, que l'intéressé continue ou non à travailler perdant la durée du préavis,
-
-- 7) les majorations pour heures supplémentaires, travail de nuit, de dimanche et jours fériés,
-
-- 8) les gratifications à la seule exception de celles énumérées limitativement sous le n° 1 de l'alinéa suivant,
-
-- 9) les indemnités de congés payés qu'elles aient ou non un caractère compensatoire et soient ou non versées à l'occasion d'un congédiement ou d'une démission.
-
-- 10) les indemnités d'intempéries.
-
-Par contre, ne sont pas comprises dans le salaire à déclarer :
+Ne sont pas compris dans le salaire à déclarer :
 
 - 1) les gratifications accordées à l'occasion d'une naissance, d'un mariage, d'un décès,
 
-- 2) les indemnités de congédiement et de licenciement prévues par la loi, ou une convention collective, ainsi que les dommages et intérêts pour rupture abusive du contrat de travail lorsque ceux-ci sont fixés par une décision de justice.
+- 2) les indemnités versées à l'occasion d'un congédiement ou d'un licenciement, ainsi que les dommages et intérêts pour rupture abusive du contrat de travail lorsque ceux-ci sont fixés par une décision de justice,
 
-- 3) les indemnités dite "de départ à la retraite" dans la limite de leur montant légal ou conventionnel,
+- 3) les indemnités dites "de départ à la retraite" dans la limite de leur montant légal ou conventionnel,
 
 - 4) les primes versées à l'occasion de la remise de la médaille du travail dans la limite du salaire mensuel habituel,
 
-- 5) les primes de salissure,
+- 5) les primes de salissures,
 
-- 6) les indemnités compensatrices de frais exceptionnels de déplacement et de représentation,
+- 6) les indemnités de transport servies en raison de l'éloignement du domicile par rapport au lieu habituel de travail dans la limite des montants ci-dessous :
 
-- 7) les indemnités de transport servies au personnel en raison, soit de l'éloigneinent de son domicile du lieu de travail, soit des conditions particulières d'exécution du travail,
+  - * pour les salariés résidant en Principauté ou sur le territoire des communes de Beausoleil, Cap d'Ail, Roquebrune Cap-Martin, et exerçant habituellement leur activité en Principauté : dix fois le montant de la base d'évaluation fixée par arrêté ministériel, par mois d'activité,
 
-- 8) les indemnités de panier,
+  - * dans les autres cas vingt fois le prix d'un billet aller-retour du moyen de transport public le plus économique desservant le lieu le plus proche de la résidence du salarié, par mois d'activité,
 
-- 9) les indemnités de cantine ou participation de l'employeur au financement de la cantine,
+- 7) les indemnités de repas ne correspondant pas à des remboursements de frais professionnels versés sous forme :
 
-  - à condition toutefois que le montant des indemnités prévues aux numéros 6, 7, 8 et 9 du présent alinéa n'excède pas celui des frais auxquels elles sont censées correspondre.
+  - * d'indemnité de cantine organisée au sein de l'entreprise ou dans le cadre d'un groupement d'entreprises ou de participation de l'employeur au fonctionnement de la cantine,
+
+  - * de participation de l'employeur à l'acquisition de tickets-restaurant,
+
+  - dans la limite d'un montant égal à deux fois la base d'évaluation fixée par arrêté ministériel, par jour de travail.
+
+- 8) les remboursements de frais professionnels qui s'entendent des dépenses engagées par le salarié dans le cadre de sa fonction ou de son emploi et inhérentes à l'accomplissement de son activité professionnelle ou aux conditions particulières d'exercice de celle-ci :
+
+  - * lorsque ces remboursements sont effectués sur justification des dépenses réellement engagées, ils sont intégralement exclus de l'assiette de cotisation,
+
+  - * lorsqu'ils sont calculés sur une base forfaitaire, il est fait application des limites d'exonération suivantes :
+
+    - a) pour les indemnités de panier :
+
+      - - le montant de l'indemnité de panier prévue par la convention collective en vigueur dans le secteur professionnel concerné,
+
+      - - ou, à défaut, trois fois la valeur de base d'évaluation fixée par arrêté ministériel, par repas,
+
+    - b) pour les indemnités de repas :
+
+      - - le montant de l'indemnité de repas prévue par la convention collective en vigueur, dans le secteur concerné,
+
+      - - ou, à défaut, cinq fois la valeur de la base d'évaluation fixée par arrêté ministériel, par repas.
+
+    - c) pour les indemnités de grand déplacement servies pour couvrir les frais de nourriture et d'hôtellerie des salariés en déplacement professionnel, qui, du fait de l'éloignement de leur lieu de travail habituel, de leur domicile ne peuvent regagner celui-ci chaque jour :
+
+      - - le montant de l'indemnité de grand déplacement prévue par la convention collective en vigueur dans le secteur professionnel concerné,
+
+      - - ou, à défaut, à condition que le lieu de séjour professionnel soit distant de plus de cinquante kilomètres, tant du lieu de travail habituel que du domicile, trente cinq fois la valeur de la base d'évaluation fixée par arrêté ministériel, par nuitée de déplacement.
+
+    - d) pour les indemnités de voiture, servies pour couvrir les frais d'utilisation à des fins strictement professionnelles d'un véhicule personnel :
+
+      - - 1/6e de la base d'évaluation fixée par arrêté ministériel par kilomètre.
+
+L'employeur est tenu de présenter à toute demande les pièces justificatives utiles au contrôle du montant des indemnités servies.
