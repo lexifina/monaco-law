@@ -1,0 +1,3 @@
+Vu la Constitution du 17 décembre 1962 ;
+
+Nos instruments de ratification de l'Acte de Stockholm du 14 juillet 1967 additionnel à l'Arrangement de Madrid concernant la répression des indications de provenance fausses ou fallacieuses sur les produits, du 14 avril 1891, révisé à Washington le 2 juin 1911, à La Haye le 6 novembre 1925, à Londres le 2 juin 1934 et à Lisbonne le 31 octobre 1958, ayant été déposés auprès du directeur général de l'organisation mondiale de la propriété intellectuelle le 27 juin 1975, ledit Acte recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.

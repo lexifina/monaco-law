@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.686 du 29 octobre 1975 rendant exécutoire à Monaco l'Acte de Stockholm du 14 juillet 1967 additionnel à l'Arrangement de Madrid concernant la répression des indications de provenance fausses ou fallacieuses sur les produits, du 14 avril 1891
