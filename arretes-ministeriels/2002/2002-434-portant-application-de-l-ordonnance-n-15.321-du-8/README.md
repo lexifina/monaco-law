@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2002-434 du 16 juillet 2002 portant application de l'ordonnance n° 15.321 du 8 avril 2002 relative aux procédures de gel des fonds aux fins de lutte contre le terrorisme
 
-Version en vigueur au 29 janvier 2005.
+Version en vigueur au 26 février 2005.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2002/07-16-2002-434@2005.01.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2002/07-16-2002-434@2005.02.26/
 
 | | |
 | --- | --- |
