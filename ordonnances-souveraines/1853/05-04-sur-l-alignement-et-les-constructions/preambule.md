@@ -1,0 +1,3 @@
+Considérant que les constructions et les travaux de réparation qu'on exécute dans les villes intéressent la sécurité des habitants et doivent être l'objet de mesures de précaution et d'utilité publique ;
+
+Considérant en outre, que, d'après l'article 3 de Notre ordonnance du 1er juillet 1846, l'alignement des rues doit être réglé par un plan général, et que le plan d'alignement de la ville de Monaco a été déposé au bureau du secrétariat général d'administration, pendant le délai fixé par l'avis qui a été affiché, afin que les propriétaires intéressés pussent en prendre connaissance, et qu'il n'a donné lieu à aucune réclamation ;
