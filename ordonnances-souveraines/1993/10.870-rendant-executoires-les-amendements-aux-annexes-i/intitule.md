@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 10.870 du 20 avril 1993 rendant exécutoires les amendements aux annexes I et II de la convention faite à Washington le 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, adoptés à Lausanne (Suisse)
