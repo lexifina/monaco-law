@@ -1,0 +1,5 @@
+# Article 27
+
+Lorsqu'une commission paritaire est appelés à exercer l'une des attributions prévues par les articles 35, 38 et 72 de la loi n° 975 du 12 juillet 1975 et que l'un de ses membres élus est soumis, dans son service, à l'autorité hiérarchique du fonctionnaire dont le cas figure à l'ordre du jour de la commission, ce membre élu ne peut prendre par aux délibérations. Son suppléant est alors convoqué pour siéger à sa place.
+
+Si ce dernier se trouve dans la même situation de subordination, est alors appelé à siéger, soit, dans le cas d'une réunion plénière, le représentant suppléant des fonctionnaires dans la section hiérarchiquement supérieure à celle à laquelle appartient le membre élu visé ci-dessus soit, dans le cas d'une réunion de section, le représentant titulaire ou, à défaut, suppléant, de la section supérieure à cette dernière. Dans l'hypothèse où la situation susvisée ne pourrait être évitée, est appelé à siéger le représentant titulaire ou suppléant de la section supérieure à la précédente. À défaut, le siège vacant est attribué à un représentant de l'Administration après consultation des organisations syndicales concernées.
