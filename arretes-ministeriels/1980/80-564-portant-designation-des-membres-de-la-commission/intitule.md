@@ -1,0 +1,1 @@
+Arrêté ministériel n° 80-564 du 17 novembre 1980 portant désignation des membres de la commission spéciale instituée par l'article 16 de l'ordonnance n° 6947 du 16 octobre 1980 et déterminant les conditions de la délivrance par cette commission du certificat d'aptitude au maniement des armes à feu soumises à autorisation
