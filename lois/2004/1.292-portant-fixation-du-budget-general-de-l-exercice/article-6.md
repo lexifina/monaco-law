@@ -1,0 +1,3 @@
+# Article 6
+
+Les modifications qui devront être apportées à la nomenclature budgétaire (section 3 - Moyens des services) afin de l'adapter à la nouvelle organisation des services consécutive à la restructuration du Gouvernement Princier sont présentées dans un tableau annexé à la présente loi. L'application de la nouvelle nomenclature modifiée devra permettre au Gouvernement Princier de procéder sans délai aux virements et ouvertures nécessaires, sans modification de l'équilibre financier prévu par la présente loi, suivant les procédures instituées par la loi n° 841 relative aux lois de budget.
