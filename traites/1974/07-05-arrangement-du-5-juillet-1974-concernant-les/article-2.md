@@ -1,5 +1,5 @@
 # Article 2
 
-1. Peuvent être expédiés contre remboursement les envois de la poste aux lettres non recommandés dont le montant du remboursement ne dépasse pas 50 francs, les envois recommandés, les lettres avec valeur déclarée ainsi que les colis postaux qui satisfont respectivement aux conditions prévues par la Convention, l'Arrangement concernant les lettres avec valeur déclarée ou l'Arrangement concernant les colis postaux.
+1. Sont admis à l'encaissement les quittances, factures, billets à ordre, traites, coupons d'intérêt et de dividende, titres amortis et, généralement, toutes valeurs commerciales ou autres, payables sans frais.
 
-2. Les Administrations ont la faculté de n'admettre au service des envois contre remboursement que certaines des catégories d'envois mentionnées ci-dessus.
+2. Les Administrations ont la faculté de n'admettre à l'encaissement que certaines des catégories de valeurs mentionnées au paragraphe 1.

@@ -1,3 +1,3 @@
 # Article 6
 
-L'échange des mandats de remboursement peut, au choix des Administrations, s'opérer au moyen de cartes ou de listes. Dans le premier cas, les titres sont dénommés « mandats-cartes de remboursement » et dans le second cas « mandats-listes de remboursement ».
+Le nombre des valeurs susceptibles d'être insérées dans un même envoi n'est pas limité. Les valeurs peuvent être recouvrables sur des débiteurs différents, sous réserve qu'ils soient desservis par un même bureau de poste et que les recouvrements soient effectués au profit ou pour le compte d'une même personne. En outre, les valeurs insérées dans le même envoi doivent être encaissables à vue ou à la même échéance.

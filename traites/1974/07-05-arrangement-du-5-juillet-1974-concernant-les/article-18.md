@@ -1,3 +1,7 @@
 # Article 18
 
-La Convention, l'Arrangement concernant les mandats de poste et les bons postaux de voyage et l'Arrangement concernant le service des chèques postaux ainsi que l'Arrangement concernant les lettres avec valeur déclarée et l'Arrangement concernant les colis postaux sont applicables, le cas échéant, en tout ce qui n'est pas contraire au présent Arrangement.
+1. À moins qu'elles ne puissent être réexpédiées en vertu de l'article 10 et qu'elles ne doivent être remises à un tiers désigné, les valeurs non recouvrées pour un motif quelconque sont renvoyées à l'expéditeur par l'intermédiaire du bureau d'origine.
+
+2. Le renvoi a lieu en franchise de port, dans la forme et les délais prescrits par le Règlement.
+
+3. L'Administration de recouvrement n'est tenue à aucune mesure conservatoire ni à aucun acte établissant le non-paiement des valeurs.

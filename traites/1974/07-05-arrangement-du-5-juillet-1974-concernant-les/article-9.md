@@ -1,5 +1,3 @@
 # Article 9
 
-1. Les mandats de remboursement sont admis jusqu'au montant maximal adopté en vertu de l'article 3.
-
-2. Sous les réserves prévues au Règlement, les mandats de remboursement sont soumis aux dispositions fixées par l'Arrangement concernant les mandats de poste et les bons postaux de voyage.
+L'expéditeur peut, aux conditions fixées à l'article 30 de la Convention, soit retirer l'envoi, soit retirer les valeurs en totalité ou en partie, soit, en cas d'erreur, faire rectifier le bordereau d'expédition.

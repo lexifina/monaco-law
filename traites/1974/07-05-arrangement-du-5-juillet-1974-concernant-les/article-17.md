@@ -1,5 +1,5 @@
 # Article 17
 
-1. L'Administration d'origine de l'envoi attribue à l'Administration d'encaissement, sur le montant des taxes qu'elle a perçues en application de l'article 7, une quote-part unitaire dont le montant est fixé à 2 francs.
+1. Les taxes visées à l'article 16, paragraphe 1, lettre c , sont calculées sur la base des sommes restant après déduction des taxes d'encaissement et de présentation, de la surtaxe aérienne visée à l'article 16, paragraphe 1, lettre d, et des droits fiscaux.
 
-2. Les envois contre remboursement liquidés au moyen du mandat de versement-remboursement donnent lieu à l'attribution de la même quote-part que celle qui est attribuée lorsque la liquidation est effectuée au moyen du mandat de remboursement.
+2. Le montant des fonds à envoyer à l'expéditeur des valeurs résulte de la différence entre les sommes encaissées et les taxes et droits prélevés.

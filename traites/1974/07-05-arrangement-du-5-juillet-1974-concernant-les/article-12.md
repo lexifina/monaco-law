@@ -1,7 +1,7 @@
 # Article 12
 
-1. Les Administrations sont responsables des fonds encaissés jusqu'à ce que le mandat de remboursement soit régulièrement payé ou jusqu'à inscription régulière au crédit d'un compte courant postal.
+Les fonds se rapportant à un même envoi et destinés à l'expéditeur des valeurs lui sont envoyés :
 
-2. En outre, les Administrations sont responsables, jusqu'à concurrence du montant du remboursement, de la livraison des envois sans encaissement des fonds ou contre perception d'une somme inférieure au montant du remboursement.
+- a) Soit par mandat de recouvrement ;
 
-3. Les Administrations n'assument aucune responsabilité du chef des retards qui peuvent se produire dans l'encaissement et l'envoi des fonds.
+- b) Soit, dans le cas où les Administrations intéressées admettent ces procédés, par versement ou virement à un compte courant postal tenu soit dans le pays de recouvrement, soit dans le pays d'origine des valeurs.
