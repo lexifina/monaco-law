@@ -1,0 +1,5 @@
+# Article 6
+
+Les dispositions du présent traité ne sont point applicables aux criminels politiques. La personne qui a été extradée à raison de l'un des faits de droit commun mentionnés dans l'article 1er, ne peut par conséquent, en aucun cas, être poursuivie et punie dans l'Etat auquel l'extradition a été accordée, à raison d'un délit politique commis par elle avant l'extradition, ni à raison d'un fait connexe à un semblable délit politique, à moins qu'elle n'ait eu la liberté de quitter de nouveau le pays pendant un mois après avoir été jugée et en cas de condamnation après avoir subi sa peine ou après avoir été graciée.
+
+La question de savoir si un délit doit être regardé comme politique ou non politique, sera résolue d'une façon définitive par les autorités du gouvernement auquel l'extradition aura été demandée ou qui l'aura accordée.
