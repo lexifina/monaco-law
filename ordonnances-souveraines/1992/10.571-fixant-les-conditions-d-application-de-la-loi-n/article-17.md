@@ -1,0 +1,3 @@
+# Article 17
+
+Sur demande qui lui est adressée, Notre Ministre d'État, peut, après avis de la commission technique pour la lutte contre la pollution et pour la sauvegarde de la sécurité, de l'hygiène, de la salubrité et de la tranquillité publique, dispenser l'exploitant d'une installation de l'obligation de mettre celle-ci en conformité avec la présente réglementation, lorsqu'il est démontré que l'incidence financière des travaux nécessaires excède le seuil critique du coût d'investissement ou le seuil critique de coût d'exploitation, telles que ces notions sont définies à l'article 1er de la présente ordonnance.
