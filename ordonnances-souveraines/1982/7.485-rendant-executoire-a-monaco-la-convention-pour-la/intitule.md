@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.485 du 14 septembre 1982 rendant exécutoire à Monaco la Convention pour la reconnaissance et l'exécution des sentences arbitrales étrangères, faite à New York le 10 juin 1958
