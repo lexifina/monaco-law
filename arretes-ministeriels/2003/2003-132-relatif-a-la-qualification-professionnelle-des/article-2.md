@@ -1,0 +1,3 @@
+# Article 2
+
+Les personnes mentionnées à l'article 11 de la loi n° 1.266 du 23 décembre 2002 relative aux produits cosmétiques, responsables de l'importation de produits cosmétiques provenant d'un État non membre de la Communauté européenne ou non partie à l'accord sur l'Espace économique européen, de la détention ou de la surveillance des stocks de matières premières et de produits cosmétiques, doivent être titulaires de l'un des diplômes, titres ou certificats français mentionnés aux annexes I et II du présent arrêté ou de l'un des diplômes, titres ou certificats délivrés par un État membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, admis en équivalence par le ministre d'État.
