@@ -1,0 +1,3 @@
+# Article 1
+
+Dans Notre ordonnance n° 5.357 du 2 mai 1974, susvisée, les intitulés « Section I - Des taxes applicables aux stations radio-électriques privées » et « Section II - De la taxe radio-électrique » sont remplacés par ceux ci-après : « Section préliminaire - Des taxes applicables aux stations radio-électriques privées » et « Section I - De la taxe radio-électrique ». ............
