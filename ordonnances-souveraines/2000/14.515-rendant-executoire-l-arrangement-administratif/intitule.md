@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.515 du 20 juin 2000 rendant exécutoire l'arrangement administratif relatif aux modalités d'exercice des contrôles conjoints aux points de passage des frontières aériennes et maritimes de la Principauté de Monaco signé le 21 avril 2000
