@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 766 du 2 août 1928 déterminant les fonctionnaires et agents qualifiés pour procéder aux recherches relatives à la constatation et à la répression des fraudes alimentaires, opérer des prélèvements d'échantillons, et, s'il y a lieu, procéder à des saisies
