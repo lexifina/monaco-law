@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.348 du 26 mai 1982 modifiant le règlement d'urbanisme de construction et de voirie de la zone nord du quartier de la Condamine, en ce qui concerne l'îlot n° IV de ladite zone
