@@ -1,0 +1,1 @@
+Arrêté ministériel n° 84-605 du 12 octobre 1984 fixant la liste des pièces justificatives à produire à l'appui des demandes de liquidation de pension de retraite supplémentaire ou de réversion des avocats-défenseurs, avocats et huissiers
