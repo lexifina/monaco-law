@@ -1,0 +1,1 @@
+Loi n° 948 du 19 avril 1974 complétant et modifiant en ce qui concerne l'égalité de rémunération entre les hommes et les femmes, la loi n° 739 du 16 mars 1963 sur le salaire
