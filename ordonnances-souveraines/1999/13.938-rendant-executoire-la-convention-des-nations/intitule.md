@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 13.938 du 15 mars 1999 rendant exécutoire la convention des Nations Unies sur l'interdiction de l'emploi, du stockage, de la production et du transfert des mines antipersonnel et sur leur destruction, faite à Oslo le 18 septembre 1997
