@@ -1,0 +1,3 @@
+# Article 11
+
+Les fausses monnaies, ainsi que les instruments et les autres objets désignés à l'article 3, n° 5, doivent être saisis et confisqués. Ces monnaies, ces instruments et ces objets doivent, après confiscation, être remis sur sa demande, soit au gouvernement, soit à la banque d'émission dont les monnaies sont en cause, à l'exception des pièces à conviction dont la conservation dans les archives criminelles est imposée par la loi du pays où la poursuite a eu lieu, et des spécimens dont la transmission à l'office central dont il est question à l'article 12, paraîtrait utile. En tout cas, tous ces objets doivent être mis hors d'usage.
