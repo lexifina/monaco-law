@@ -1,0 +1,11 @@
+# Article 2
+
+Toute immatriculation de véhicule donne lieu à la délivrance d'une plaque d'immatriculation avant et d'une plaque d'immatriculation arrière, à l'exception des remorques, semi-remorques, motocycles, cyclomoteurs et assimilés dont l'immatriculation ne comporte qu'une plaque arrière. Les plaques d'immatriculation sont remises par le service de la circulation aux titulaires des immatriculations moyennant le paiement d'un droit dont le montant est fixé par arrêté ministériel. Elles doivent être restituées au service de la circulation lorsque les véhicules auxquels elles sont affectées font l'objet du dépôt d'une demande de radiation par leurs propriétaires.
+
+La plaque avant porte un écusson fuselé rouge et blanc à gauche du numéro d'immatriculation.
+
+La plaque arrière porte :
+
+- pour les véhicules automobiles, remorques et semi-remorques : la mention " Principauté de Monaco " inscrite sur une meme horizontale au-dessous du numéro d'immatriculation et sur la partie gauche, un rectangle en relief de 90 mm sur 52 mm de même couleur que le fond,
+
+- pour les motocycles, cyclomoteurs et assimilés : la mention " Principauté de Monaco " au-dessous du numéro d'immatriculation et sur la partie gauche un rectangle en relief de 40 mm sur 22 mm de même couleur que le fond pour les cyclomoteurs, et de 60 mm sur 35 mm de meme couleur que le fond pour les motocycles et assimilés.
