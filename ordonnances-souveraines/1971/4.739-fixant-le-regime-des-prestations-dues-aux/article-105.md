@@ -1,0 +1,3 @@
+# Article 105
+
+Les dispositions de la présente ordonnance souveraine entreront en vigueur le 1er juillet 1971.
