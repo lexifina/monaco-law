@@ -31,5 +31,3 @@ La liste des principales activités associées à chacune de ces mentions est d�
 Les personnes dont le certificat d'aptitude à l'hyperbarie comporte la mention A peuvent en outre prétendre, sous réserve qu'elles se limitent aux classes de travaux hyperbares auxquelles elles ont accès, exercer une activité correspondant aux mentions B, C et D.
 
 Les personnes dont le certificat d'aptitude à l'hyperbarie comporte la mention B peuvent exercer une activité correspondant à la mention C et D.
-
-Ne peuvent postuler au certificat d'aptitude à l'hyperbarie que les personnes âgées de dix-huit ans au moins et de quarante ans au plus. La limite d'âge pour postuler la première fois au certificat d'aptitude à l'hyperbarie de classe 1 et 2 pour les mentions : C et D est, sous réserve de l'aptitude médicale des demandeurs, portée à 55 ans, ainsi que pour la mention B sur dérogation accordée par le Ministre d'État après avis de la Commission instituée à l'article suivant.
