@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2001-506 du 19 septembre 2001 portant adaptation en euros des montants exprimés en francs dans certains arrêtés ministériels pris pour l'exécution de dispositions législatives ou réglementaires
