@@ -1,0 +1,1 @@
+Arrêté ministériel n° 98-441 du 21 août 1998 fixant le taux des allocations d'aide publique en faveur des travailleurs privés momentanément et involontairement d'emploi et des plafonds de ressources pour en bénéficier
