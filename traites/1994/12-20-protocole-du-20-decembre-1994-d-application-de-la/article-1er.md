@@ -1,0 +1,3 @@
+# Article 1er
+
+L'objectif du présent protocole est, en application de la Convention alpine et en prenant également en compte les intérêts de la population locale, de convenir de règles internationales en vue d'assurer la protection, la gestion et si nécessaire, la restauration de la nature et des paysages de telle manière que le fonctionnement des écosystèmes, la conservation des éléments du paysage et des espèces animales et végétales sauvages, y compris de leurs habitats naturels, la capacité de régénération et de production à long terme du patrimoine naturel, la diversité, l'originalité et la beauté des paysages naturels et ruraux dans leur ensemble soient garantis durablement, ainsi que de promouvoir la coopération des Parties contractantes nécessaire à cette fin.

@@ -1,0 +1,7 @@
+# Article 10
+
+1) Les Parties contractantes s'efforcent, dans l'ensemble de l'espace alpin, en tenant compte également des intérêts de la population locale, de réduire les nuisances et détériorations subies par la nature et les paysages. Elles font en sorte que toute utilisation ayant un effet sur l'espace, ménage la nature et les paysages. Elles prennent en outre toute mesure appropriée à la conservation et si besoin est, à la restauration d'éléments caractéristiques des paysages naturels et proches de leur état naturel, de biotopes, d'écosystèmes et de paysages ruraux traditionnels.
+
+2) Étant donné que l'agriculture et l'économie forestière jouent un rôle décisif dans la réalisation de mesures de protection de la nature et d'entretien des paysages, la protection, la conservation et l'entretien de biotopes proches de leur état naturel méritant d'être protégés devraient être assurés partout où cela convient, sur la base d'accords conclus avec les propriétaires ou exploitants en vue d'un mode d'exploitation agricole et forestière approprié. Dans ce but les instruments d'orientation conformes aux règles du marché, telles les incitations économiques ou les compensations, sont particulièrement adaptés.
+
+3) À titre de complément des moyens accordés à la protection de la nature, les mesures de promotion et de soutien pour l'agriculture et l'économie forestière ainsi que pour d'autres utilisations de l'espace sont à engager de manière renforcée, afin d'atteindre ces objectifs.

@@ -1,0 +1,3 @@
+# Article 4
+
+Les Parties contractantes s'engagent à prendre également en considération les objectifs du présent protocole dans leurs autres politiques, en particulier dans les secteurs de l'aménagement du territoire et de l'urbanisme, de la qualité de l'air, de la protection des sols, de la gestion des ressources en eau et de la qualité des eaux, du tourisme, de l'agriculture, de l'économie forestière, des transports, de l'énergie, de l'artisanat et de l'industrie, de la gestion des déchets, ainsi que dans les secteurs de la formation, de l'éducation, de la recherche et de l'information, y compris lors de l'harmonisation transfrontalière des mesures.

@@ -1,0 +1,5 @@
+# Article 9
+
+1) Les Parties contractantes établissent les conditions nécessaires à l'examen des impacts directs et indirects sur l'équilibre naturel et sur les paysages des mesures et projets, de nature privée ou publique, susceptibles d'entraîner des atteintes importantes ou durables à la nature et aux paysages. Le résultat de cet examen est à prendre en considération lors de l'autorisation ou de la réalisation de ces mesures et projets. Dans ce cadre, on fera notamment en sorte que les atteintes qui peuvent être évitées ne se produisent pas.
+
+2) Selon les dispositions du droit national, les atteintes inévitables sont à compenser par des mesures de protection de la nature et d'entretien des paysages et les atteintes impossibles à compenser ne peuvent être autorisées que si, dans le cadre d'une pondération de tous les intérêts, les impératifs de la protection de la nature et de l'entretien des paysages ne priment pas ; dans ce cas aussi, des mesures de protection de la nature et d'entretien des paysages sont à prendre.
