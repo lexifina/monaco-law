@@ -1,0 +1,3 @@
+Vu la loi n° 445 du 16 mai 1946 modifiant la loi n° 141 du 24 février 1930 sur la déclaration, la réparation et l'assurance des accidents du travail ;
+
+Vu l'arrêté ministériel du 19 mai 1938 fixant le tarif applicable aux frais pharmaceutiques en matière d'accidents du travail :
