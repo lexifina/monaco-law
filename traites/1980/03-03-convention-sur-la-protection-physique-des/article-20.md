@@ -1,0 +1,5 @@
+# Article 20
+
+1. Sans préjudice de l'article 16, un État partie peut proposer des amendements à la présente convention. L'amendement proposé est soumis au dépositaire qui le communique immédiatement à tous les États parties. Si la majorité des États parties demande au dépositaire de réunir une conférence pour étudier les amendements proposés, le dépositaire invite tous les États parties à assister à une telle conférence, qui s'ouvrira 30 jours au moins après l'envoi des invitations. Tout amendement adopté à la conférence par une majorité des deux tiers de tous les États parties est communiqué sans retard par le dépositaire à tous les États parties.
+
+2. L'amendement entre en vigueur pour chaque État partie qui dépose son instrument de ratification, d'acceptation ou d'approbation de l'amendement le trentième jour après la date à laquelle les deux tiers des États parties ont déposé leurs instruments de ratification, d'acceptation ou d'approbation auprès du dépositaire. Par la suite, l'amendement entre en vigueur pour tout autre État partie le jour auquel cet État partie dépose son instrument de ratification, d'acceptation ou d'approbation de l'amendement.
