@@ -1,0 +1,5 @@
+# Article 2
+
+1. La Principauté de Monaco donne, à compter du 1er janvier 2002, cours légal aux billets et pièces libellés en euros. La Principauté de Monaco s'engage d'une part à prendre les mesures juridiques internes pour que soient appliquées sur son territoire les dispositions communautaires concernant les billets et pièces libellés en euros, et, d'autre part, à adopter un calendrier identique à celui prévu par la France pour l'introduction des billets et pièces en euros.
+
+2. Il sera procédé au retrait de la monnaie circulant en Principauté de Monaco selon des modalités arrêtées entre le Gouvernement de la République française et le Gouvernement de Son Altesse Sérénissime le Prince de Monaco et selon un calendrier identique à celui prévu par la France pour le retrait de la monnaie circulant sur son territoire. La France procédera au retrait de la monnaie de la Principauté de Monaco en circulation sur son territoire, selon des modalités arrêtées en accord avec le Gouvernement de Son Altesse Sérénissime le Prince de Monaco.
