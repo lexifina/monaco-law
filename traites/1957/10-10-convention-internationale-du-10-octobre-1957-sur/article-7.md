@@ -1,0 +1,5 @@
+# Article 7
+
+La présente Convention s'appliquera chaque fois que le propriétaire d'un navire ou toute autre personne ayant le même droit en vertu de l'article 6, limite ou cherche à limiter sa responsabilité devant les tribunaux de l'un des États contractants ou tente de faire libérer un navire ou tout autre bien saisi ou une caution ou toute autre garantie, dans le territoire de l'un de ces États.
+
+Néanmoins, tout État contractant aura le droit d'exclure totalement ou partiellement du bénéfice de cette Convention tout État non contractant ou toute personne qui n'a pas, au moment où elle prend des mesures pour limiter sa responsabilité ou pour obtenir, conformément à l'article 5, la libération d'un navire, ou tout autre bien saisi ou d'une caution ou de toute autre garantie, sa résidence habituelle ou son siège principal d'exploitation dans l'un des États contractants ou dont le navire à raison duquel elle veut limiter sa responsabilité ou dont elle veut obtenir la libération, ne bat pas, à la date ci-dessus prévue, le pavillon de l'un des États contractants.
