@@ -1,0 +1,3 @@
+# Article 2
+
+L'expression « œuvres litéraires ou artistiques » comprend les livres, brochures ou tous autres écrits ; les œuvres drmatiques ou dramatico-musicales, les compositions musicales avec ou sans paroles ; les œuvres dedessins, de peinture, de sculpture, de gravure ; les lithographies, les photographies, les illustrations, les cartes géographiques ; les plans, croquis et ouvrages plastiques relatifs à la géographie, à la topographie, à l'architecture ou aux sciences en général ; enfin, toute production quelconque du domaine littéraire, scientifique ou artistique qui pourrait être publiée par n'importe quel mode d'impression ou de reproduction.
