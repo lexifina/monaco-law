@@ -1,0 +1,3 @@
+# Article 5
+
+Sera exempt de la peine qu'il aura personnellement encourue, le coupable qui, avant la consommation de l'un desdits délits prévus à la présente ordonnance, en aurait donné connaissance aux autorités administratives ou de police judiciaire. L'exemption de la peine sera seulement facultative si la dénonciation est intervenue après la consommation du délit, mais avant toute poursuite commencée. Pourra également être exempté de la peine qu'il aura personnellement encourue, le coupable de l'un des délits prévus par la présente ordonnance qui, même après les poursuites commencées, aura procuré l'arrestation d'autres coupables, coauteurs ou complices.

@@ -1,0 +1,3 @@
+# Article 4
+
+Sera punie comme complice et passible des mêmes pénalités toute personne qui, connaissant les intentions des auteurs des délits prévus par la présente ordonnance, leur aura fourni subsides moyens d'existence, logement, lieu de retraite ou de réunion ou qui aura sciemment recelé les objets ou les instruments ayant servi ou devant servir à commettre ces délits, ou qui aura sciemment porté leur correspondance ou facilité sciemment, d'une manière quelconque, aux auteurs des délits la recherche, le recel, le transport ou la transmission des objets, matériel, plans, cartes, écrits, documents ou renseignements visés au paragraphe premier de l'article 2 ou des copies, levés, photographies ou reproductions quelconques visés aux paragraphes 2, 4 et 6 dudit article.
