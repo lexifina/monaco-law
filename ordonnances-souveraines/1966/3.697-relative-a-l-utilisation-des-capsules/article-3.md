@@ -1,0 +1,3 @@
+# Article 3
+
+Les capsules représentatives du droit de régie sur les vins et le cidre doivent être en métal ou en matière plastique ; elles peuvent être apposées sur les bouteilles ou faire partie du récipient lui-même ; elles comportent sur fond blanc, un timbre circulaire d'un diamètre au moins égal à 13 mm, conforme au modèle annexé à la présente ordonnance, à l'intérieur duquel sont mentionnés les mots « Principauté de Monaco » le sigle « DSF » (Direction des services fiscaux) et la capacité de la bouteille, exprimée en nombre de centilitres, sur laquelle est apposée la capsule. Le remplacement de la couleur blanche par la teinte naturelle de la capsule peut être autorisé par le Directeur des services fiscaux.
