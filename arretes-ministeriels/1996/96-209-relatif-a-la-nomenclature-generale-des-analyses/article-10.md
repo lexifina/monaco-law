@@ -10,7 +10,7 @@ Une indemnité de déplacement s'ajoute à la cotation du prélèvement lorsque 
 
   - 9073 - Indemnité de déplacement.
 
-- b) Indemnité kilométrique (IK).
+- b ) Indemnité kilométrique (IK).
 
 - Le montant de cette indemnité est fixé dans les mêmes conditions que celle des lettres-clés prévues à l'article 2.
 
