@@ -1,0 +1,3 @@
+# Article 1°
+
+Les Parties contractantes au présent Protocole (ci-après dénommées « Les Parties ») coopèrent pour prendre les dispositions nécessaires au cas où la présence massive, d'origine accidentelle ou résultant d'un effet cumulatif, d'hydrocarbures ou d'autres substances nuisibles polluant ou risquant de polluer les eaux de la zone définie à l'article 1er de la Convention pour la protection de la mer Méditerranée contre la pollution (ci-après dénommée « La Convention »), constitue un danger grave et imminent pour le milieu marin, les côtes ou les intérêts connexes d'une ou plusieurs Parties.
