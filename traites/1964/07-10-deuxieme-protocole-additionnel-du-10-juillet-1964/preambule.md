@@ -1,0 +1,1 @@
+Les Plénipotentiaires des Gouvernements des Pays-membres de l'Union postale universelle, réunis en Congrès à Lausanne, vu l'article 30, paragraphe 2, de la Constitution de l'Union postale universelle conclue à Vienne le 10 juillet 1964, ont adopté, sous réserve de ratification, les modifications suivantes à ladite Constitution.
