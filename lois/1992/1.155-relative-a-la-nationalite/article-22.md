@@ -1,0 +1,3 @@
+# Article 22
+
+Sont abrogés, les articles 8 à 10 bis, 12, 17 à 21 du Code civil, les ordonnances sur la nationalité du 1er avril 1822, du 8 juillet 1877 et du 20 mai 1909, la loi n° 754 du 9 août 1963 sur le retrait de la nationalité acquise par la naturalisation, les articles 1, 2, 3 et 7 de la loi n° 572 du 18 novembre 1952 relative à l'acquisition de la nationalité monégasque, la loi n° 865 du 1er juillet 1969 concernant l'acquisition de la nationalité monégasque, l'article 2 de la loi n° 974 du 8 juillet 1975 concernant l'acquisition de la nationalité monégasque, la loi n° 1139 du 22 décembre 1990 modifiant et complétant la loi n° 572 du 18 novembre 1952 relative à l'acquisition de la nationalité monégasque, ainsi que toutes dispositions contraires à la présente loi.
