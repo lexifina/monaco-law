@@ -1,0 +1,9 @@
+# Article 30
+
+Les fabricants d'orfèvrerie, joaillerie, bijouterie sont seuls autorisés à fabriquer des objets d'or ou contenant de l'or, d'argent ou de platine à tous autres titres non légaux exclusivement destinés à l'expédition vers les États membres de la Communauté européenne autres que la France ou à l'exportation vers les pays tiers.
+
+Les objets ainsi fabriqués ne peuvent, en aucun cas, sous peine de saisie, être livrés à la consommation intérieure et ils ne sont jamais revêtus des poinçons de la garantie.
+
+Ils doivent être marqués, aussitôt après l'achèvement, avec un poinçon de maître.
+
+Il n'en est autrement que si le fabricant dépose, quarante-huit heures avant, au Bureau de garantie une déclaration préalable de mise en fabrication de ces objets, les inscrit dès leur achèvement sur un registre spécial et les exporte ou les livre à destination d'un État membre de l'Union européenne autre que la France dans un délai n'excédant pas trente jours.

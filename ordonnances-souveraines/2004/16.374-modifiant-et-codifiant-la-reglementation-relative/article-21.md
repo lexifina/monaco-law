@@ -1,0 +1,5 @@
+# Article 21
+
+Les fabricants et les marchands d'or, d'argent et de platine ouvrés ou non ouvrés ou d'alliage de ces métaux, et, d'une manière générale, toutes les personnes qui détiennent des matières de l'espèce pour l'exercice de leur profession, doivent tenir un registre de leurs achats, ventes, réceptions et livraisons, même si ces réceptions et ces livraisons ne sont pas consécutives à des achats ou à des ventes, dont la forme et le contenu sont déterminés aux articles 23 à 27 de la présente ordonnance. Ce registre doit être présenté à toute réquisition des agents chargés des contrôles visés à l'article 62.
+
+Toutefois, pour les transactions d'un montant égal ou supérieur à 15 000 euros qui portent sur l'or d'investissement tel que défini au 2 de l'article 100 bis A du Code des taxes, le registre visé au premier alinéa doit comporter l'identité des parties. Il en est de même lorsque ces transactions sont réalisées au cours de ventes publiques ou lorsque le client en fait la demande.

@@ -1,0 +1,3 @@
+# Article 57
+
+Indépendamment des pénalités prévues aux articles 51 et 52, les infractions visées ci-après sont punies des peines prévues aux articles 85 et 86 du Code pénal, et les moyens de transport sont saisis, ainsi que les récipients, emballages, ustensiles, mécaniques, machines ou appareils, en cas de détention ou vente frauduleuse par un fabricant ou marchand d'ouvrages d'or contenant de l'or, d'argent ou de platine revêtus, soit de l'empreinte de faux poinçons, contrefaisant les poinçons anciens ou en vigueur soit de marques anciennes entées, soudées ou contre-tirées, soit de l'empreinte de poinçons de fantaisie imitant les poinçons anciens ou les poinçons en vigueur, soit de l'empreinte de poinçons volés.
