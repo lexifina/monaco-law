@@ -1,0 +1,1 @@
+Arrêté ministériel n° 81-83 du 25 février 1981 fixant le montant du salaire minimum prévu par l'article 4-2 de la loi n° 636 du 11 janvier 1958 tendant à modifier et à codifier la législation sur la déclaration, la réparation et l'assurance des accidents du travail
