@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.038 du 26 septembre 2001 rendant exécutoire l'Accord International de 1986 sur l'huile d'olive et les olives de table, tel qu'amendé et reconduit en 1993 et prorogé en dernier lieu en 2000
