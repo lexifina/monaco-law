@@ -1,0 +1,3 @@
+Vu la Constitution du 17 décembre 1962 ;
+
+Nos instruments de ratification de l'Acte de Stockholm du 14 juillet 1967, complémentaire à l'Arrangement de La Haye concernant le dépôt international des dessins et modèles industriels, du 6 novembre 1925, révisé à Londres le 2 juin 1934 et à La Haye le 28 novembre 1960 et complété par l'Acte additionnel de Monaco le 18 novembre 1961, ayant été déposés auprès du directeur général de l'organisation mondiale de la propriété intellectuelle le 27 juin 1975, ledit Acte de Stockholm recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.

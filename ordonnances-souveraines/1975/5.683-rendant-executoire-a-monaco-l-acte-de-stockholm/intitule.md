@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.683 du 29 octobre 1975 rendant exécutoire à Monaco l'Acte de Stockholm du 14 juillet 1967 complémentaire à l'Arrangement de La Haye concernant le dépôt international des dessins et modèles industriels du 6 novembre 1925
