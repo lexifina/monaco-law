@@ -1,0 +1,3 @@
+# Article 2
+
+Les dispositions résultant de la présente ordonnance-loi complètent, en ce qui concerne les intérêts et majorations réglementaires de cotisations, les prescriptions des articles 42 de la loi n° 455 du 27 juin 1947, 23 de la loi n° 595 du 15 juillet 1954, 8 de la loi n° 463 du 6 août1947 complétée par la loi n° 611 du 11 avril 1956, 7 de la loi n° 637du 11 janvier 1958 ; elles abrogent et remplacent, quant au rang des créances privilégiées sur la généralité des meubles, les stipulations contraires contenues dans ces mêmes articles ainsi qu'à l'article 33 de la loi n° 636 du 11 janvier 1958.
