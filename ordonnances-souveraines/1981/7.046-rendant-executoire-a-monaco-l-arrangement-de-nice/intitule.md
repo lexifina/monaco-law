@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.046 du 20 mars 1981 rendant exécutoire à Monaco l'Arrangement de Nice concernant la classification internationale des produits et des services aux fins de l'enregistrement des marques du 15 juin 1957, tel que révisé à Stockholm le 14 juillet 1967 et à Genève le 13 mai 1977
