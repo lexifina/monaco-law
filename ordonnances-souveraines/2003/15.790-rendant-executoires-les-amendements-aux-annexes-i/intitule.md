@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.790 du 14 mai 2003 rendant exécutoires les amendements aux annexes I et II de la convention sur la conservation des espèces migratrices appartenant à la faune sauvage, faite à Bonn le 23 juin 1979
