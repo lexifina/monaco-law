@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 29 février 1932 rendant exécutoire la Convention additionnelle du 30 septembre 1921 à l'arrangement et à la Convention pour la répression de la traite des femmes et des enfants
