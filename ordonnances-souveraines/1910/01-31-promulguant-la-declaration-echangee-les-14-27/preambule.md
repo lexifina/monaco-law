@@ -1,0 +1,1 @@
+Une déclaration complétant la convention conclue le 5 septembre 1883 entre la Principauté et la Russie pour assurer l'extradition des malfaiteurs ayant été signée à Paris, le 27 janvier 1910, entre Notre plénipotentiaire et celui de Sa Majesté l'Empereur de toutes les Russies, ladite déclaration dont la teneur suit, recevra sa pleine et entière exécution.
