@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 7.309 du 25 février 1982 rendant exécutoires à Monaco les modifications du Règlement d'exécution annexé au Traité de Coopération en matière de brevets fait à Washington le 19 juin 1970, adoptées par l'Assemblée de l'Union Internationale de coopération en matière de brevets le 3 juillet 1981
