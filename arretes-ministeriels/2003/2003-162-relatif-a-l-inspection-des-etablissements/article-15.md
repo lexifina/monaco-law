@@ -1,0 +1,3 @@
+# Article 15
+
+Si le rapport d'analyses fait apparaître des faits susceptibles d'entraîner des poursuites pénales, il est transmis, accompagné du rapport ou du procès-verbal de prélèvement et du troisième échantillon conservé par l'inspecteur ayant effectué le prélèvement, au procureur général.
