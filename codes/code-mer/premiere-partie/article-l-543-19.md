@@ -1,0 +1,3 @@
+# Article L. 543-19
+
+Les marchandises sont assurées sans interruption, en quelque endroit qu'elles se trouvent, dans les limites du voyage défini par la police.

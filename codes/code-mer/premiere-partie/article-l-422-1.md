@@ -1,0 +1,3 @@
+# Article L. 422-1
+
+Sans préjudice des pouvoirs que les officiers et agents de police judiciaire exercent conformément aux dispositions du Code de procédure pénale, les infractions aux ordonnances souveraines rendues pour l'application des traités ou accords internationaux, à la présente loi et aux ordonnances souveraines prises pour son application sont constatées, par le Directeur des affaires maritimes, par le Directeur de la Sûreté publique, chef de la police maritime, chacun en ce qui le concerne, ou par ceux de leurs agents habilités régulièrement commissionnés et assermentés à cet effet.

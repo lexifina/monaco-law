@@ -1,0 +1,3 @@
+# Article L. 522-11
+
+Si le connaissement contient des indications particulières concernant la nature, les marques principales, le nombre de colis ou de pièces ou le poids ou la quantité des marchandises, dont le transporteur ou la personne qui émet le connaissement en son nom sait, ou a des raisons de soupçonner, qu'elles ne représentent pas exactement les marchandises qu'il a effectivement prises en charge, ou s'il n'a pas eu des moyens suffisants de contrôler ces indications, le transporteur ou ladite personne doit faire dans le connaissement une réserve précisant ces inexactitudes, la raison de ses soupçons ou l'absence de moyens de contrôle suffisants.

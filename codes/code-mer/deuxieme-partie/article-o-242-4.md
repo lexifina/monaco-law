@@ -1,0 +1,3 @@
+# Article O. 242-4
+
+Lorsque le type d'autorisation visée à l'article O. 242-3 concerne la mise en place d'une installation au sens de l'article 1er f ) du protocole relatif à la protection de la mer Méditerranée contre la pollution résultant de l'exploration et de l'exploitation du plateau continental, du fond de la mer et de son sous-sol adopté le 14 octobre 1994, elle ne peut être délivrée avant que la direction des Affaires maritimes en charge de l'instruction du dossier ne se soit assurée que l'installation est construite conformément aux normes et pratiques internationales et que le demandeur dispose des capacités techniques et des moyens financiers pour entreprendre les activités postulées.

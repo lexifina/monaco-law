@@ -1,0 +1,3 @@
+# Article L. 633-37
+
+Est puni d'un emprisonnement de un mois à deux ans et de l'amende prévue au chiffre 4 de l'article 26 du Code pénal, les taux de celle-ci étant multipliés par le coefficient 50, le capitaine de tout navire monégasque ou étranger transportant une cargaison d'hydrocarbures ou d'autres substances dangereuses définies par ordonnance souveraine, qui a pénétré dans les eaux territoriales ou intérieures monégasques sans avoir signalé à l'autorité maritime la date et l'heure d'entrée, la position, la destination, la route et la vitesse du navire, ainsi que la nature et l'importance du chargement et, le cas échéant, tout accident de mer au sens des dispositions de la Convention de Bruxelles du 29 novembre 1969 dont il a été victime.

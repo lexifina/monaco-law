@@ -1,0 +1,3 @@
+# Article O. 241-6
+
+Toute modification du statut juridique, de l'objet social pour ce qui est des personnes morales, ou des programmes d'activité du bénéficiaire de l'habilitation doit être signalée au Ministre d'État sous peine de déchéance de l'habilitation. Cette dernière peut également être prononcée par le Ministre d'État s'il estime que les programmes scientifiques menés par le bénéficiaire dans les zones maritimes monégasques compromettent ou risquent de compromettre dans lesdites zones, la sécurité, l'ordre public ou la diversité biologique au sens de l'article 1er alinéa b) du protocole relatif aux aires spécialement protégées et à la diversité biologique en Méditerranée du 10 juin 1995.

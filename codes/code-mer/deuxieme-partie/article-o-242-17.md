@@ -1,0 +1,5 @@
+# Article O. 242-17
+
+Si le service administratif chargé du contrôle estime que l'exécution des programmes présentés à son examen, en vertu du second alinéa de l'article O. 242-12 ou des dispositions de l'article O. 242-15, peut porter atteinte à la création, au développement ou à l'extension des ports, nuire à la stabilité des rivages, comporter des risques de pollution, entraver la pose, l'entretien ou le fonctionnement des câbles de télécommunications sous-marins, des câbles d'énergie ou des pipe-lines sous-marins, ou est susceptible de gêner de manière injustifiable la navigation, la pêche, la défense nationale, les liaisons de télécommunications, la conservation des ressources biologiques de la mer ou les recherches océanographiques fondamentales, il saisit le Ministre d'État qui peut suspendre ou interdire les travaux en tout ou en partie ou les soumettre à des conditions particulières.
+
+La décision du Ministre d'État est notifiée au titulaire de l'autorisation qui dispose des voies de recours dans les conditions du droit commun.
