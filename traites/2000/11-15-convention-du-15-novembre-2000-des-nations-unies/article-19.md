@@ -1,0 +1,3 @@
+# Article 19
+
+Les États parties envisagent de conclure des accords ou arrangements bilatéraux ou multilatéraux en vertu desquels, pour les affaires qui font l'objet d'enquêtes, de poursuites ou de procédures judiciaires dans un ou plusieurs États, les autorités compétentes concernées peuvent établir des instances d'enquêtes conjointes. En l'absence de tels accords ou arrangements, des enquêtes conjointes peuvent être décidées au cas par cas. Les États parties concernés veillent à ce que la souveraineté de l'État partie sur le territoire duquel l'enquête doit se dérouler soit pleinement respectée.

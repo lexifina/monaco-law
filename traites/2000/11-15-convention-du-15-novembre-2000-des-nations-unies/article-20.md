@@ -1,0 +1,9 @@
+# Article 20
+
+1. Si les principes fondamentaux de son système juridique national le permettent, chaque État partie, compte tenu de ses possibilités et conformément aux conditions prescrites dans son droit interne, prend les mesures nécessaires pour permettre le recours approprié aux livraisons surveillées et, lorsqu'il le juge approprié, le recours à d'autres techniques d'enquête spéciales, telles que la surveillance électronique ou d'autres formes de surveillance et les opérations d'infiltration, par ses autorités compétentes sur son territoire en vue de combattre efficacement la criminalité organisée.
+
+2. Aux fins des enquêtes sur les infractions visées par la présente convention, les États parties sont encouragés à conclure, si nécessaire, des accords ou arrangements bilatéraux ou multilatéraux appropriés pour recourir aux techniques d'enquête spéciales dans le cadre de la coopération internationale. Ces accords ou arrangements sont conclus et appliqués dans le plein respect du principe de l'égalité souveraine des États et ils sont mis en œuvre dans le strict respect des dispositions qu'ils contiennent.
+
+3. En l'absence d'accords ou d'arrangements visés au paragraphe 2 du présent article, les décisions de recourir à des techniques d'enquête spéciales au niveau international sont prises au cas par cas et peuvent, si nécessaire, tenir compte d'ententes et d'arrangements financiers quant à l'exercice de leur compétence par les États parties intéressés.
+
+4. Les livraisons surveillées auxquelles il est décidé de recourir au niveau international peuvent inclure, avec le consentement des États parties concernés, des méthodes telles que l'interception des marchandises et l'autorisation de la poursuite de leur acheminement, sans altération ou après soustraction ou remplacement de la totalité ou d'une partie de ces marchandises.
