@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 35 du 4 juillet 1949 abrogeant les ordonnances des 8 avril 1903 et 11 mars 1909 sur l'assistance médicale gratuite et la surveillance de l'hygiène publique par les médecins de la ville
