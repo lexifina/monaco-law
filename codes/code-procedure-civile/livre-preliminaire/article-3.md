@@ -20,4 +20,6 @@ Ils connaissent, en outre, quel que soit le domicile du défendeur :
 
 - 9° De demandes en validité ou en mainlevée de saisies-arrêts formées dans la Principauté, et généralement de toutes demandes ayant pour objet des mesures provisoires ou conservatoires ;
 
+- 9° bis De toutes les actions ayant pour objet le fond du litige, dans les cas visés au chiffre précédent, sauf clause conventionnelle licite attribuant compétence à une autre juridiction ;
+
 - 10° Des demandes tendant à faire déclarer exécutoires dans la Principauté des jugements ou actes étrangers.
