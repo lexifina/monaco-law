@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.067 du 12 octobre 2001 modifiant l'ordonnance n° 13.184 du 16 septembre 1997 modifiée portant application de la loi n° 1.194 du 9 juillet 1997 sur la gestion de portefeuilles et les activités boursières assimilées
