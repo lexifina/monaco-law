@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.231 du 8 novembre 1973 déclarant définitivement d'utilité publique et urgents les travaux à entreprendre au quartier de « La Gare » en vue de désenclaver une voie publique, de construire un parc à voitures public et d'édifier un immeuble à usage privé dit « d'intérêt social »
