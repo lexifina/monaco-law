@@ -1,0 +1,5 @@
+# Article 4
+
+L'individu extradé ne sera ni poursuivi ni puni dans le pays auquel l'extradition a été accordée pour un fait punissable quelconque non visé par la présente convention et commis antérieurement à son extradition, ni extradé dans un troisième Etat sans le consentement de celui accordant l'extradition, à moins qu'il n'ait eu l'occasion de quitter à nouveau le pays susdit au cours des trois mois suivant son jugement, et, en cas de condamnation, après qu'il a purgé sa peine ou qu'il a été grâcié.
+
+Egalement, il ne sera ni poursuivi ni puni pour un fait punissable visé par cette convention et commis antérieurement à son extradition, sans le consentement du gouvernement qui l'a livré et qui, si cela est reconnu désirable, peut exiger la présentation d'un dès documents mentionnés à l'article 11 de la présente convention. Toutefois, ce consentement ne sera pas nécessaire si l'individu a demandé lui-même à être jugé ou à purger sa peine, ou si, dans le délai susmentionné, il n'a quitté le territoire de l'Etat auquel il a été livré.
