@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 284 du 19 septembre 1950 rendant exécutoire la Convention pour l'amélioration du sort des blessés, des malades et des naufragés des forces armées sur mer signée à Genève le 12 août 1949
