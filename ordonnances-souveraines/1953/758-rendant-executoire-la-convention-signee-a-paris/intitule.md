@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 758 du 1er juin 1953 rendant exécutoire la convention signée à Paris le 1er avril 1950 tendant à éviter les doubles impositions et à codifier les règles d'assistance en matière successorale
