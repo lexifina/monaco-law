@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 14.544 du 1er août 2000 rendant exécutoire l'adhésion de Monaco à la Convention internationale de 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures
