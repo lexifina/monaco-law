@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.003 du 30 septembre 1954 rendant exécutoire l'accord intervenu entre le gouvernement princier et le gouvernement de la République française pour l'octroi aux crédirentiers de nationalité monégasque de certaines majorations de rentes viagères
