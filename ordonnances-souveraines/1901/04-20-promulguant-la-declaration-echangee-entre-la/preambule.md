@@ -1,0 +1,1 @@
+Une déclaration ayant été signée à Rome, le 31 mars 1901, entre Notre plénipotentiaire et celui de Sa Majesté le Roi d'Italie, relativement à la communication réciproque des actes de l'état civil, ladite déclaration, dont la teneur suit, recevra sa pleine et entière exécution.
