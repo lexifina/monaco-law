@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.816 du 5 juin 2003 rendant exécutoires les amendements aux annexes I, II et III de la convention faite à Washington le 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction adoptés à Santiago du Chili en novembre 2002
