@@ -1,0 +1,5 @@
+# Article 6
+
+Le prélèvement ne peut être fait qu'avec le consentement du donneur.
+
+Aucune rémunération ne peut être allouée au donneur, sans préjudice du remboursement des frais exposés, dans les conditions fixées par arrêté ministériel.

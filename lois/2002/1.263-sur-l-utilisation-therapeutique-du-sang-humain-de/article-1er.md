@@ -1,0 +1,3 @@
+# Article 1er
+
+La transfusion sanguine s'effectue dans l'intérêt du receveur et relève des principes éthiques du bénévolat et de l'anonymat du don, et de l'absence de profit, dans les conditions définies par la présente loi.
