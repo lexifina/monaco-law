@@ -1,0 +1,3 @@
+# Article 19
+
+La présente Convention n'infirme pas les conventions ou accords multilatéraux ou bilatéraux sur le droit d'auteur en vigueur entre deux ou plusieurs États contractants. En cas de divergences entre les dispositions de l'une de ces conventions ou accords et les dispositions de la présente Convention, les dispositions de la présente Convention prévaudront. Ne seront pas affectés les droits acquis sur une œuvre en vertu de conventions ou accords en vigueur dans l'un des États contractants antérieurement à la date de l'entrée en vigueur de la présente Convention dans ledit État. Le présent article ne déroge en rien aux dispositions des articles XVII et XVIII de la présente Convention.

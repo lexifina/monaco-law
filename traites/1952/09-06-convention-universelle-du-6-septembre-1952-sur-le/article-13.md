@@ -1,0 +1,3 @@
+# Article 13
+
+Tout État contractant peut, au moment du dépôt de l'instrument de ratification, d'acceptation ou d'adhésion, ou par la suite,.déclarer, par une notification adressée au Directeur général de l'Organisation des Nations Unies pour l'Éducation, la Science et la Culture, que la présente Convention est applicable à tout ou partie des pays ou territoires dont il assure les relations extérieures ; la Convention s'appliquera alors aux pays ou territoires désignés dans la notification à partir de l'expiration du délai de trois mois prévu à l'article IX. À défaut de cette notification, la présente Convention ne s'appliquera pas à ces pays ou territoires.
