@@ -1,0 +1,1 @@
+Arrêté ministériel n° 79-236 du 29 mai 1979 relatif à l'extension de l'avenant n° 11 ter du 27 novembre 1978 à la convention collective nationale de travail sur l'indemnisation collective nationale de travail sur l'indemnisation du chômage partiel
