@@ -1,0 +1,5 @@
+# Article 1er
+
+Tout navire, embarcation ou engin flottant laissé dans les eaux du port hors d'état de naviguer ou à l'abandon doit être enlevé à la première injonction du service de la marine qui, hormis les cas d'urgence ou de danger pour la navigation, les autres navires ou embarcations ou les ouvrages portuaires, peut accorder un délai n'excédant pas deux semaines.
+
+Il en est de même pour les navires, embarcations ou engins flottants pour la navigation, les autres navires ou embarcations qui ont coulé ; leurs propriétaires ou gardiens seront tenus, sans délai, d'aviser le service de la marine et de prendre toutes dispositions utiles notamment de signalisation si, avant que les opérations d'enlèvement puissent être exécutées, ces navires, embarcations ou engins constituent un danger pour la navigation, les autres navires ou embarcations ou les ouvrages portuaires ; à défaut, le service de la marine pourra, aux frais, risques et périls des propriétaires, prendre les mesures qu'il jugera utiles.
