@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.687 du 29 octobre 1975 rendant exécutoire à Monaco la Convention de Paris pour la protection de la propriété industrielle du 20 mars 1883, révisée à Bruxelles, Washington, La Haye, Londres, Lisbonne et Stockholm
