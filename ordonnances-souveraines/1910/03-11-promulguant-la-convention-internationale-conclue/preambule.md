@@ -1,0 +1,1 @@
+Une Convention internationale relative à la circulation des automobiles ayant été signée à Paris, le 11 octobre 1909, entre Notre Plénipotentiaire et ceux des Puissances ci-après dénommées, et les ratifications de cet acte ayant été échangées à Paris, le 1er mars 1910, la dite Convention, dont la teneur suit, recevra sa pleine et entière exécution.
