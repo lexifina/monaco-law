@@ -1,0 +1,1 @@
+Loi n° 995 du 24 juin 1977 concernant les obligations des établissements bancaires et des établissements financiers, dépositaires ou débiteurs de titres, sommes ou valeurs soumis aux droits de mutation par décès

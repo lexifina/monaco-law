@@ -1,0 +1,3 @@
+# Article 2
+
+Pour la perception des droits de mutation par décès et l'application de l'article premier, tous les titres, sommes ou valeurs faisant l'objet de comptes indivis ou collectifs avec solidarité sont considérés comme appartenant conjointement aux déposants et dépendant de la succession de chacun d'eux pour une part virile, sauf preuve contraire réservée tant à l'Administration qu'aux intéressés et résultant pour ces derniers, soit des énonciations du contrat de dépôt, soit d'un acte authentique ou d'un acte sous seing privé ayant acquis date certaine avant l'ouverture de la succession.
