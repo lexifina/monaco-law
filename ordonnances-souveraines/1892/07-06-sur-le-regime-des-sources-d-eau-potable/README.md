@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 6 juillet 1892 sur le régime des sources d'eau potable
 
-Version en vigueur au 20 juillet 1892.
+Version en vigueur au 19 avril 1911.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1892/07-06-L002331@1892.07.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1892/07-06-L002331@1911.04.19/
 
 | | |
 | --- | --- |
