@@ -1,0 +1,11 @@
+# Article 6
+
+L'établissement assujetti qui offre à des établissements étrangers un service d'encaissement ou d'escompte de chèques conclut à cet effet des conventions écrites. L'établissement étranger avec lequel la convention a été conclue est considéré pour l'application du présent arrêté comme le client de l'établissement assujetti.
+
+Aucun service d'encaissement ou d'escompte de chèques n'est offert en l'absence de conclusion d'une telle convention. Ces conventions prévoient l'engagement, par l'établissement étranger :
+
+- a) de procéder, avant transmission des chèques, d'une part, à l'ensemble des vérifications sur sa clientèle prévues par les recommandations de l'instance internationale de concertation et de coordination en matière de lutte contre le blanchiment d'argent et le financement du terrorisme, d'autre part, aux vérifications complémentaires de prévention du blanchiment qui peuvent lui être demandées par l'établissement assujetti à la suite de ses propres contrôles ;
+
+- b) de procéder à des remises distinctes pour les chèques qu'il aurait lui-même reçus des établissements situés dans les États ou territoires dont la législation est reconnue insuffisante ou dont les pratiques sont considérées comme faisant obstacle à la lutte contre le blanchiment des capitaux par l'instance internationale de concertation et de coordination en matière de lutte contre le blanchiment d'argent et le financement du terrorisme dont la liste figure en annexe au présent arrêté ;
+
+- c) de communiquer à l'établissement assujetti, à sa demande, l'ensemble des éléments lui permettant de juger la conformité des procédures et contrôles mis en œuvre aux engagements contractuels. Dans le cas de conventions conclues avec des établissements étrangers situés sur le territoire des membres de l'instance internationale précitée, l'établissement assujetti demande en outre à son co-contractant de procéder à une remise distincte des chèques reçus d'établissements situés dans des pays étrangers non visés au b) et non-membres de cette instance internationale. Si le co-contractant n'est pas en mesure de procéder à cette remise, l'établissement assujetti renforce les contrôles prévus au c) de l'article 7.
