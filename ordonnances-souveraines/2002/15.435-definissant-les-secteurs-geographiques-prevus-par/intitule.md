@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 15.435 du 12 juillet 2002 définissant les secteurs géographiques prévus par l'article 38 de la loi n° 1.235 du 28 décembre 2000 relative aux locaux à usage d'habitation, modifiée
