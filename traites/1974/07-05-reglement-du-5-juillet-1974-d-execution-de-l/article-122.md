@@ -1,3 +1,7 @@
 # Article 122
 
-Le bureau de chèques destinataire inscrit les virements télégraphiques au crédit du compte du bénéficiaire sans attendre la liste correspondante.
+1. Le présent Règlement sera exécutoire à partir du jour de la mise en vigueur de l'Arrangement concernant les envois contre remboursement.
+
+2. Il aura la même durée que cet Arrangement, à moins qu'il ne soit renouvelé d'un commun accord entre les Parties intéressées.
+
+Fait à Lausanne, le 5 juillet 1974.

@@ -1,7 +1,0 @@
-# Article 159
-
-1. Toute demande d'ouverture d'un compte courant postal à l'étranger est libellée par le requérant à l'adresse de l'Administration appelée à tenir le compte. Elle est transmise à ladite Administration soit directement par le demandeur, soit par l'intermédiaire du bureau de chèques dans le ressort duquel se trouve sa résidence. Lorsque le demandeur dispose déjà d'un compte courant postal national, il peut passer par l'intermédiaire du bureau de chèques qui gère le compte.
-
-2. Ce bureau, en se conformant aux règles établies pour l'ouverture d'un compte dans son propre pays, procède à la vérification tant des demandes faites par son intermédiaire que de celles qui lui sont communiquées par l'Administration étrangère directement saisie.
-
-3. En cas de besoin, le bureau précité rectifie, après avoir consulté le requérant, les indications erronées de la demande et joint à celle-ci une attestation conforme au modèle VP 9 ci-annexé dûment remplie. Dans certains cas particuliers, non prévus par la contexture de cette formule, il la complète ou la rectifie, s'il y a lieu, au moyen d'une lettre explicative ; il transmet tout au bureau d'échange du pays de destination, par l'intermédiaire du bureau d'échange de son propre pays. Les attestations sont frappées d'une empreinte du timbre en relief du bureau d'échange du pays intervenant et signées par le ou les fonctionnaires accrédités pour la certification des lettres d'envoi.

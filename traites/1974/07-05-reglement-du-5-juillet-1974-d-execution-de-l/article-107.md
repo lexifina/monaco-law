@@ -1,9 +1,9 @@
 # Article 107
 
-1. Le total de chacune des listes destinées à un même bureau d'échange est reporté sur une lettre d'envoi établie en double exemplaire conforme au modèle VP 3 ci-annexé dont le total général est arrêté en toutes lettres ou imprimé en chiffres au moyen d'une machine à protéger les chèques.
+1. Toute demande d'annulation ou de modification du montant du remboursement est soumise à l'article 140 du règlement d'exécution de la Convention.
 
-2. Le numéro d'inscription sur la lettre d'envoi est reporté sur chaque liste de virements.
+2. S'il s'agit d'une demande télégraphique, celle-ci est confirmée, par le premier courrier, par une demande postale accompagnée du fac-similé dont il est question à l'article 140, paragraphe 1, susvisé. Le bureau d'encaissement retient l'envoi jusqu'à la réception de cette confirmation ; l'Administration d'encaissement peut, toutefois, sous sa propre responsabilité, donner suite à une demande télégraphique sans attendre la confirmation postale.
 
-3. Les lettres d'envoi sont frappées d'une empreinte du timbre du bureau qui les a établies et signées par le ou les fonctionnaires accrédités à cet effet. Chacune de ces lettres reçoit un numéro d'ordre dont la série se renouvelle chaque mois pour chacun des bureaux d'échange.
+3. Si le montant du remboursement est à liquider par mandat, la demande de modification par voie postale est accompagnée d'une nouvelle formule R 3, R 4, R 6, R 7, R 8 ou R 9, selon le cas indiquant le montant rectifié. Lorsqu'il s'agit d'une demande par voie télégraphique, le mandat de remboursement est remplacé par le bureau d'encaissement dans les conditions déterminées à l'article 112, paragraphe 3.
 
-4. La lettre d'envoi est expédiée en double exemplaire. La dernière lettre d'envoi expédiée à la fin de chaque mois doit porter la mention « Dernière lettre d'envoi N°... ». Lorsqu'un bureau d'échange n'a aucun virement à transmettre au bureau correspondant le dernier jour ouvrable d'un mois, il lui adresse néanmoins une lettre d'envoi négative désignée également comme « Dernière lettre d'envoi N°... ».
+4. Si, au moment du dépôt de l'envoi, l'expéditeur a demandé le renvoi par avion du mandat de remboursement, la nouvelle formule de mandat porte au recto la mention « Renvoi par avion » de même que l'étiquette ou l'empreinte de couleur bleue « Par avion ».

@@ -1,23 +1,9 @@
 # Article 103
 
-1. Sont portés notamment au crédit du compte courant postal de liaison :
+1. Les envois recommandés ou non, les lettres avec valeur déclarée, les colis postaux grevés de remboursement et les bulletins d'expédition correspondants doivent porter, d'une manière très apparente, du côté de la suscription, en ce qui concerne les envois, l'en tête « Remboursement » suivi de l'indication du montant du remboursement en caractères latins et en chiffres arabes, sans rature ni surcharge, même approuvées. L'indication relative au montant du remboursement ne peut être faite ni au crayon ni au crayon-encre ; toutefois, les indications de service peuvent être inscrites au crayon-encre.
 
-- a) Les sommes transférées pour constituer ou alimenter un avoir. Les transferts correspondants sont opérés soit au moyen de chèques bancaires ou de traites payables à vue sur la capitale ou sur une place commerciale du pays créancier, soit par virement sur un établissement bancaire de cette capitale ou de cette place ;
+2. Dans l'indication en lettres du montant du remboursement, le nom des unités monétaires est écrit sans abréviation ; lorsque cette indication se réfère à une monnaie qui est fondée sur le système décimal, les fractions d'unité monétaire peuvent être exprimées en chiffres seulement, mais obligatoirement en centièmes (ou millièmes) au moyen d'un nombre de deux (ou trois) chiffres dont, au besoin, un zéro (ou deux zéros). Lorsque la monnaie utilisée n'est pas fondée sur le système décimal, le nombre et le nom des unités monétaires ou fractions d'unité monétaire sont intégralement écrits en toutes lettres ; dans l'indication du montant en chiffres, les unités ou fractions d'unité monétaire non mentionnées dans la somme en lettres sont remplacées par des zéros.
 
-- b) les virements, versements et paiements qui n'ont pu être exécutés.
+3. Si l'expéditeur demande le renvoi par avion du mandat de remboursement visé à l'article 105, la mention très apparente « Renvoi du mandat de remboursement par avion » est portée sur l'envoi ainsi que sur le bulletin d'expédition s'il s'agit d'un colis.
 
-2. Sont portés notamment au débit du compte courant postal de liaison :
-
-- a) Le montant des listes de virements ou de versements visées aux articles 106 et 125 et dont l'Administration de destination doit assurer l'inscription au crédit des comptes courants postaux des bénéficiaires ;
-
-- b) Le montant des listes de chèques d'assignation visées à l'article 132 et dont elle doit effectuer la mise en paiement ;
-
-- c) Le montant des listes des cartes de paiement effectivement payées visées à l'article 151 ;
-
-- d) Le montant des quotes-parts et de la rémunération visées aux articles 38 et 44 de l'Arrangement et qui lui sont bonifiées par l'Administration d'origine des chèques d'assignation et des cartes de paiement ;
-
-- e) Les sommes dont le rapatriement est demandé par l'Administration titulaire du compte courant postal de liaison en vue du nivellement éventuel de l'avoir de ce dernier.
-
-3. Les Administrations peuvent convenir d'utiliser les comptes courants postaux de liaison pour liquider toutes les opérations autres que celles ayant trait au fonctionnement du service de chèques postaux. Elles déterminent, le cas échéant, la procédure applicable.
-
-4. Les frais éventuels sont supportés par l'Administration d'origine, à l'exception des frais extraordinaires, tels que les frais de clearing imposés par le pays créancier.
+4. L'expéditeur doit indiquer du côté de la suscription de l'envoi et, s'il s'agit d'un colis, au recto du bulletin d'expédition, son nom et son adresse en caractères latins. Lorsque la somme encaissée est à porter au crédit d'un compte courant postal, l'envoi et, le cas échéant, le bulletin d'expédition portent, en outre, du côté de la suscription, la mention suivante libellée en français ou dans une autre langue connue dans le pays de destination : « À porter au crédit du compte courant postal n°... de M... à... tenu par le bureau de chèques de... ».

@@ -1,5 +1,5 @@
 # Article 113
 
-1. Dès réception des paquets contenant les lettres d'envoi, les listes et les avis de virement, le bureau d'échange destinataire procède à la vérification de l'envoi. S'il constate une irrégularité quelconque ou une omission, il en informe immédiatement par lettre conforme au modèle VP 4 ci-annexé le bureau d'échange expéditeur qui doit répondre par la voie la plus rapide (aérienne ou de surface) et, le cas échéant, faire parvenir un duplicata des pièces manquantes. Les duplicata des pièces manquantes sont également échangés par la voie la plus rapide (aérienne ou de surface).
+1. Les mandats de remboursement qui n'ont pu être remis aux bénéficiaires sont, après avoir été éventuellement soumis à la formalité du visa pour date, quittancés par l'Administration d'origine des envois que ces titres concernent et portés en compte à l'Administration qui les a émis.
 
-2. Si l'irrégularité porte sur une différence de sommes entre l'avis de paiement et la liste de virement, le bureau d'échange destinataire est autorisé à donner suite au virement pour la somme la plus faible ; selon le cas, l'avis de virement ou la liste de virement et la lettre d'envoi sont rectifiés en conséquence, à l'encre rouge, et avis de la rectification est donné au bureau d'échange correspondant par lettre VP 4.
+2. Il en est de même des mandats de remboursement qui ont été remis aux ayants droit, mais dont le montant n'a pas été encaissé. Ces titres doivent préalablement être remplacés par des autorisations de paiement établies par l'Administration d'origine des mandats.
