@@ -1,0 +1,1 @@
+Arrêté ministériel n° 99-383 du 30 août 1999 modifiant l'arrêté ministériel n° 82-567 du 22 novembre 1982 portant exonération à la réglementation des substances, plantes et produits vénéneux destinés à la médecine humaine, modifié
