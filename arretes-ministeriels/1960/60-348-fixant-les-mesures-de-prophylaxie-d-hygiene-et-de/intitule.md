@@ -1,0 +1,1 @@
+Arrêté ministériel n° 60-348 du 26 novembre 1960 fixant les mesures de prophylaxie, d'hygiène et de sécurité en vue de la protection médicale du personnel hospitalier et du personnel de crèches, de pouponnières ou de foyers de l'enfance
