@@ -1,0 +1,1 @@
+Ordonnance Souveraine du 2 avril 1924 rendant exécutoire la déclaration destinée à supprimer la légalisation des extraits des actes de l'état civil entre la Principauté de Monaco et le Royaume de Belgique

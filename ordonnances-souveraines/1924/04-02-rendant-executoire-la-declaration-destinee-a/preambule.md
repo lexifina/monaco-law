@@ -1,0 +1,1 @@
+Une déclaration, tendant à supprimer la légalisation des extraits des actes de l'état civil délivrés dans l'un des deux pays et destinés à être produits dans l'autre, ayant été signée à Paris le 28 mars 1924 entre Notre plénipotentiaire et celui de Sa Majesté le Roi des Belges, ladite déclaration, dont la teneur suit, recevra sa pleine et entière application.
