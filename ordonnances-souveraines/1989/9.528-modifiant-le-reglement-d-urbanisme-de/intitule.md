@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 9.528 du 25 juillet 1989 modifiant le règlement d'urbanisme, de construction et de voirie du quartier des Bas-Moulins et du Larvotto en ce qui concerne la zone verte des Bas-Moulins
