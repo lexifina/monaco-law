@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.502 du 9 janvier 1975 rendant exécutoire à Monaco la convention pour la protection des producteurs de phonogrammes contre la reproduction non autorisée de leurs phonogrammes, signée à Genève le 29 octobre 1971
