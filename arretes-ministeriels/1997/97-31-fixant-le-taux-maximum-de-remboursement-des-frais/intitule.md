@@ -1,0 +1,1 @@
+Arrêté ministériel n° 97-31 du 24 janvier 1997 fixant le taux maximum de remboursement des frais funéraires en matière d'accidents du travail et de maladies professionnelles survenus après le 31 décembre 1996
