@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 3.186 du 11 mai 1964 relative au certificat de décès
 
-Version en vigueur au 23 mai 1964.
+Version en vigueur au 26 mars 1994.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/05-11-3.186@1964.05.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/05-11-3.186@1994.03.26/
 
 | | |
 | --- | --- |
