@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 10.627 du 30 juillet 1992 portant prorogation du délai prévu par l'article 1er de l'ordonnance n° 9.243 du 16 septembre 1988 octroyant à la Société Hôtelière et de Loisirs de Monaco le privilège d'enregistrer en Principauté les paris sur les lotos organisés en France
