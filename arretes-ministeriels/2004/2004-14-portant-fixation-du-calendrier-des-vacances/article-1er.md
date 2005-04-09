@@ -38,6 +38,10 @@ Le calendrier des vacances de l'année 2004/2005 est fixé comme suit :
 
 - du vendredi 8 avril 2005 après la classe au lundi 25 avril 2005 au matin
 
+- Lendemain de la fête du travail
+
+- lundi 2 mai 2005
+
 - Ascension
 
 - jeudi 5 mai 2005
