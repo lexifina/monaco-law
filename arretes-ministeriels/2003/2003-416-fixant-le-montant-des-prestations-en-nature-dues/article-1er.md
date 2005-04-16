@@ -188,8 +188,6 @@ MÉDECINS : | Tarifs d'autorité en euro(s)
 
 IFD | Indemnité forfaitaire de déplacement | 3,81
 
-* le tarif minimum appliqué en secteur d'hospitalisation public à l'hôpital de Monaco ;
-
 * le montant de l'ordonnance médicale pour les préparations magistrales et les médicaments spécialisés contre remise de la vignette délivrée en même temps que le produit par le pharmacien.
 
 Toutefois les médicaments officinaux mentionnés à l'article 38 de la loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie et les préparations magistrales délivrés sur prescription médicale ne sont pas remboursés, sauf autorisation exceptionnelle accordée par le service médical de la Caisse de compensation des services sociaux lorsqu'ils appartiennent à l'une des catégories ci-après :
@@ -207,5 +205,3 @@ Toutefois les médicaments officinaux mentionnés à l'article 38 de la loi n° 
 - les dimanches et jours fériés légaux (jour) ............ | 1,98 euro(s)
 
 - la nuit ............ | 3,96 euro(s)
-
-* le tarif homologué.
