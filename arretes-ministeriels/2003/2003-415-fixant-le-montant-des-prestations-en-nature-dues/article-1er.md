@@ -4,7 +4,7 @@ Les valeurs de base des prestations en nature servant à la détermination du ta
 
 A - Honoraires
 
-MÉDECINS : | Tarifs d'autorité en euro(s)
+MÉDECINS : | Tarifs d'autorité en euro(s) |
 
 C | Consultation omnipraticien | 6,3
 
@@ -28,7 +28,7 @@ VS | Visite spécialiste | 9,81
 
 Vpsy [Vnp] | Visite neuropsychiatre | 11,7
 
-Majorations pour dimanche/nuit :
+Majorations pour dimanche/nuit : |
 
 [ID] | Indemnité de dimanche ou jour férié | 7,77
 
@@ -40,7 +40,7 @@ MDD | Majoration de déplacement dimanche/jour férié | 10,92
 
 MDN | Majoration de déplacement nuit | 14,07
 
-Accouchement :
+Accouchement : |
 
 MG | Majoration de garde | 228,68
 
@@ -64,9 +64,9 @@ K non agressif [K] | Actes d'investigation et de spécialité | 1,04
 
 KE | Actes d'échographie et de doppler | 1,04
 
-AUXILIALRES MÉDICAUX :
+AUXILIALRES MÉDICAUX : |
 
-* Infirmiers
+* Infirmiers | |
 
 AMI | Actes pratiqués par l'infirmier | 0,83
 
@@ -80,7 +80,7 @@ AIS | Actes infirmiers de soins | 0,70
 
 [AMIS] | Majoration de samedi A.M. p/actes infirmiers | 2,30
 
-* Autres auxiliaires
+* Autres auxiliaires |
 
 AMC [AMM] | Actes pratiqués par le kinésithérapeute | 0,72
 
@@ -102,7 +102,7 @@ AMO | Actes pratiqués par l'orthophoniste | 0,84
 
 [DAMY] | Indemnité de déplacement orthoptiste | 0,52
 
-Majorations pour dimanche et nuit :
+Majorations pour dimanche et nuit : |
 
 AMN | Majoration de nuit | 1,26
 
@@ -110,7 +110,7 @@ AMD | Majoration de dimanche | 1,01
 
 MÉDECINS : | Tarifs d'autorité en euro(s)
 
-DENTISTES :
+DENTISTES : |
 
 C [CCD] | Consultation | 5,67
 
@@ -128,13 +128,13 @@ SCP [D] | Soins conservateurs et prothèses | 1,29
 
 Z | Actes avec radiations ionisantes | 0,74
 
-Majorations pour dimanche et nuit :
+Majorations pour dimanche et nuit : |
 
 [ID] | Indemnité de dimanche | 7,77
 
 [IN] | Indemnité de nuit | 10,92
 
-SAGES-FEMMES :
+SAGES-FEMMES : |
 
 C(SF) | Consultation par sage-femme | 4,35
 
@@ -156,11 +156,11 @@ Accouchement simple | 152,45
 
 Accouchement gémellaire | 167,69
 
-BIOLOGISTES :
+BIOLOGISTES : |
 
 B, actes pratiqués : | en ville | 0,27
 
-en clinique privée | 0,13
+en clinique privée | 0,13 |
 
 PB | Prélèvement sanguin par directeur de laboratoire non médecin | 2,52
 
@@ -176,13 +176,13 @@ AMI | Prélèvement par auxiliaire de laboratoire infirmier | 2,52
 
 TB | Prélèvement par technicien de laboratoire | 2,52
 
-Majoration pour prélèvement pratiqué par un directeur de laboratoire non médecin
+Majoration pour prélèvement pratiqué par un directeur de laboratoire non médecin |
 
 Samedi après 12 h ou dimanche | 16,77
 
 de 20 h à 8 h | 22,87
 
-Majoration pour prélèvement pratiqué par un directeur de laboratoire médecin
+Majoration pour prélèvement pratiqué par un directeur de laboratoire médecin |
 
 Samedi après 12 h ou dimanche | 19,06
 
@@ -192,15 +192,13 @@ IFD | Indemnité forfaitaire de déplacement | 3,81
 
 B - Frais d'hospitalisation ou de séjour en clinique (par jour)
 
-* le tarif minimum appliqué en secteur d'hospitalisation public à l'hôpital de Monaco ;
-
 C - Frais pharmaceutiques
 
 * le montant de l'ordonnance médicale pour les préparations magistrales et les médicaments spécialisés contre remise de la vignette délivrée en même temps que le produit par le pharmacien.
 
 Toutefois les médicaments officinaux mentionnés à l'article 38 de la loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie et les préparations magistrales délivrés sur prescription médicale ne sont pas remboursés, sauf autorisation exceptionnelle accordée par le service médical de la Caisse de compensation des services sociaux lorsqu'ils appartiennent à l'une des catégories ci-après :
 
-- médicaments officinaux et préparations magistrales contenant au moins une substance ou au moins une composition ne figurant pas sur une liste que l'on peut consulter auprès de la Direction de l'action sanitaire et sociale ;
+- médicaments officinaux et préparations magistrales contenant au moins une substance ou au moins une composition ne figurant pas sur une liste que l'on peut consulter auprès de la direction de l'Action sanitaire et sociale ;
 
 - préparations magistrales présentées sous une autre forme pharmaceutique que celles énumérées dans la liste ci-dessus visée ;
 
@@ -215,5 +213,3 @@ Toutefois les médicaments officinaux mentionnés à l'article 38 de la loi n° 
 - la nuit ............ | 3,96 euro(s)
 
 D - Frais d'orthopédie
-
-* le tarif homologué.
