@@ -30,7 +30,7 @@ La liste des affections comportant un traitement prolongé et une thérapeutique
 
 - insuffisance respiratoire chronique grave ;
 
-- lèpre ;
+- maladie d'Alzheimer et autres démences ;
 
 - maladie de Parkinson ;
 
@@ -46,7 +46,7 @@ La liste des affections comportant un traitement prolongé et une thérapeutique
 
 - polyarthrite rhumatoïde évolutive grave ;
 
-- psychose, troubles graves de la personnalité, arriération mentale ;
+- affections psychiatriques de longue durée ;
 
 - rectocolite hémorragique et maladie de Crohn évolutives ;
 
@@ -58,6 +58,6 @@ La liste des affections comportant un traitement prolongé et une thérapeutique
 
 - suite de transplantation d'organe ;
 
-- tuberculose active ;
+- tuberculose active, lèpre ;
 
 - tumeur maligne, affection maligne du tissu lymphatique ou hématopoïétique.

@@ -2,33 +2,21 @@
 
 La suppression de la participation du bénéficiaire de prestations aux frais de traitement peut être accordée :
 
-- 1°) En cas d'hospitalisation continue d'une durée supérieure à 30 jours et à compter du 31e jour d'hospitalisation .
+- 1°) En cas d'hospitalisation continue supérieure à trente jours et à compter du trente et unième jour d'hospitalisation pour les séjours facturés aux prix de journées.
 
-- Est considéré comme hospitalisation le séjour du malade dans l'un des établissements ci-après énumérés limitativement :
+- Est considéré comme hospitalisation le séjour du malade dans l'un des établissements agréés ci-après énumérés limitativement :
 
-  - a) hôpitaux publics et privés ;
+  - a ) Hôpitaux publics et privés ;
 
-  - b) maisons de santé chirurgicales et obstétrico-chirurgicales ;
+  - b ) Cliniques chirurgicales et médicales ;
 
-  - c) maisons de santé médicales ;
+  - c ) Établissements de suite et de réadaptation ;
 
-  - d) maisons de rééducation motrice ;
+  - d ) Établissements de long séjour ;
 
-  - e) établissements de lutte antituberculeuse publics et privés (sanatoriums, préventoriums, aériums, hôtels de cure, établissements de post-cure sanatoriale) ;
+  - e ) Établissements pour adultes et enfants handicapés.
 
-  - f) hôpitaux psychiatriques publics et privés ;
-
-  - g) centres anticancéreux ;
-
-  - h) maisons d'enfants à caractère sanitaire spécialisées ;
-
-  - i) pouponnières pour enfants débiles ;
-
-  - j) maisons de repos et de convalescence recevant ensemble la mère et l'enfant :
-
-  - k) maisons de repos, de convalescence et de régime autres que celles visées ci-dessus et maisons d'enfants à caractère sanitaire non spécialisées, lorsque l'entrée du malade dans l'établissement a été immédiatement précédée, sauf difficultés de placement, d'un séjour dans un des établissements visés aux alinéas a), b), c), d), f) ci-dessus.
-
-- 2° À l'occasion de tout acte, ou série d'actes, de dingnostic ou de soins, affectés à la nomenclature générale des actes professionnels d'un coefficient global égal ou supérieur à 50, à l'exclusion toutefois de la prothèse dentaire visée à l'article 11 de la nomenclature des actes professionnels des chirurgiens dentistes .
+- 2° À l'occasion de tout acte, ou série d'actes, de diagnostic ou de soins, affectés à la nomenclature générale des actes professionnels d'un coefficient global égal ou supérieur à 50, à l'exclusion toutefois de la prothèse dentaire visée à l'article 11 de la nomenclature des actes professionnels des chirurgiens dentistes .
 
 - 1 - La suppression de la participation accordée à l'occasion d'une intervention chirurgicale s'applique tant aux frais chirurgicaux qu'aux frais médicaux, pharmaceutiques et d'hospitalisation engagés pendant la période des vingt jours qui suivent l'intervention et, éventuellement, pendant les quelques jours qui la précèdent immédiatement.
 
@@ -79,3 +67,19 @@ La suppression de la participation du bénéficiaire de prestations aux frais de
 - 11°) Pour l'assuré ou l'ayant droit de l'assuré en état de grossesse, pendant une période qui débute quatre mois avant la date présumée de l'accouchement et se termine à la date de l'accouchement.
 
 - 12°) Pour l'hospitalisation des nouveaux-nés, lorsqu'elle se produit dans les trente jours qui suivent la naissance.
+
+- 13°) Dans le cadre de l'assurance maternité pour les frais médicaux correspondant aux actes, examens et fournitures suivants :
+
+  - consultation relative à la première constatation de la grossesse ;
+
+  - examens obligatoires, dans les conditions fixées par arrêté ministériel, au cours des périodes prénatale et postnatale,
+
+  - séances préparatoires à l'accouchement psychoprophylactique, dont le nombre est fixé par arrêté ministériel,
+
+  - visites de surveillance du nourrisson prévues par la réglementation,
+
+  - fournitures orthopédiques nécessitées par la grossesse,
+
+  - actes médicaux ou chirurgicaux afférents à l'accouchement.
+
+- 14°) Pour les frais de séjour relatifs à l'accouchement à l'hôpital ou en clinique, à concurrence du prix de journée ou des éléments de tarification à l'activité homologués pour l'établissement.
