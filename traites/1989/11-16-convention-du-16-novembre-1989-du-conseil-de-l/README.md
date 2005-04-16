@@ -1,8 +1,8 @@
 # Convention du 16 novembre 1989 du Conseil de l'Europe contre le dopage faite à Strasbourg
 
-Version en vigueur au 6 mars 2004.
+Version en vigueur au 16 avril 2005.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/1989/11-16-tai1l000722@2004.03.06/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/1989/11-16-tai1l000722@2005.04.16/
 
 | | |
 | --- | --- |
