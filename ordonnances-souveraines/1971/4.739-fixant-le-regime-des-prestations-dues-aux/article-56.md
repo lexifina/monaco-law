@@ -2,20 +2,18 @@
 
 Les prestations en nature prévues en cas de maternité sont servies sous forme :
 
-- 1° de remboursement des honoraires afférents :
+- 1°) de remboursement des honoraires afférents :
 
-  - a) à la première constatation de la grossesse,
+  - a ) à la première constatation de la grossesse ;
 
-  - b) aux examens médicaux, radiologiques et de laboratoire rendus obligatoires au cours des périodes prénatale et postnatale,
+  - b ) aux examens obligatoires au cours des périodes prénatale et postnatale ;
 
-  - c) aux séances préparatoires à l'accouchement psychoprophylaclique, dont le nombre est fixé par arrêté ministériel,
+  - c ) aux séances préparatoires à l'accouchement psychoprophylactique, dont le nombre est fixé par arrêté ministériel ;
 
-  - d) aux visites de surveillance du nourrisson ;
+  - d ) aux visites de surveillance du nourrisson prévues à l'article 58 ;
 
-- 2° de remboursement des fournitures orthopédiques nécessitées par la grossesse ;
+  - e ) aux actes médicaux ou chirurgicaux afférents à l'accouchement ;
 
-- 3° d'une allocation forfaitaire pour les honoraires médicaux ou chirurgicaux afférents à l'accouchement ;
+- 2°) de remboursement des fournitures orthopédiques nécessitées par la grossesse ;
 
-- 4° de remboursement des frais de séjour à l'hôpital ou en clinique calculé par application, sans minoration du prix de journée prévu pour la salle commune, en tenant compte du nombre effectif de jours d'hospitalisation à concurrence de 12 journées ;
-
-- 5° d'un forfait complémentaire pour frais de pharmacie lorsque l'accouchement a lieu à domicile.
+- 3°) de remboursement des frais de séjour, à l'hôpital ou à la clinique, relatifs à l'accouchement.
