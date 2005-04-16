@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2005-207 du 5 avril 2005 modifiant l'arrêté ministériel n° 2003-415 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse de compensation des services sociaux
