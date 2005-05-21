@@ -1,0 +1,1 @@
+Est approuvée, en application de l'article 70, alinéa 3 de la Constitution, la ratification de l'accord conclu entre la Principauté de Monaco et la Communauté européenne, le 7 décembre 2004, prévoyant des mesures équivalentes à celles prévues par la directive du conseil 2003/48/CE du 3 juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de paiements d'intérêts.
