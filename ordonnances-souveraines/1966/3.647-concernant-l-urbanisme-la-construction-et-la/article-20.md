@@ -10,7 +10,7 @@ Il est permis d'élever au-dessus de la cage d'escalier un édicule d'accès à 
 
 L'ensemble des installations nécessaires aux besoins de l'immeuble devra être groupé au mieux et masqué par des plantations. En outre, quand la couverture est aménagée en terrasse-jardin, il est permis de construire des locaux à usage d'abri pour le matériel utilisé sur la terrasse sous réserve des conditions suivantes :
 
-- 1° La surface de chacun de ces locaux ne peut excéder 9 m² sans que leur surface cumulée dépasse le dixième de la surface de la terrasse. La hauteur doit être limitée à 2,10 m hors-tout ;
+- 1° La surface de chacun de ces locaux ne peut excéder 9 m2 sans que leur surface cumulée dépasse le dixième de la surface de la terrasse. La hauteur doit être limitée à 2,10 m hors-tout ;
 
 - 2° Ces locaux doivent être masqués et disposés de manière à gêner le moins possible la vue depuis les immeubles voisins ;
 

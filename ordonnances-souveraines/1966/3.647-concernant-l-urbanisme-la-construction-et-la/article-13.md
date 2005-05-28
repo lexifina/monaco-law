@@ -34,25 +34,25 @@
 
 - a) Par rapport à la voie publique
 
-  - Sur toute voie publique, les constructions doivent être établies à sept mètres au moins de l'axe de la voie publique définie par ses alignements.
+- Sur toute voie publique, les constructions doivent être établies à sept mètres au moins de l'axe de la voie publique définie par ses alignements.
 
-  - Cette obligation peut également être imposée aux constructions édifiées en bordure d'une voie privée, si l'importance et le nombre de constructions y prenant accès la justifient.
+- Cette obligation peut également être imposée aux constructions édifiées en bordure d'une voie privée, si l'importance et le nombre de constructions y prenant accès la justifient.
 
 - b) Par rapport aux autres limites de propriété
 
-  - Dans la zone à gabarit moyen, les constructions doivent être tenues à quatre mètres au moins des limites de propriétés.
+- Dans la zone à gabarit moyen, les constructions doivent être tenues à quatre mètres au moins des limites de propriétés.
 
-  - Dans la zone à gabarit élevé, les constructions doivent être tenues à six mètres au moins des limites de propriété.
+- Dans la zone à gabarit élevé, les constructions doivent être tenues à six mètres au moins des limites de propriété.
 
-  - Dans la zone frontière, les constructions doivent être tenues à huit mètres au moins des limites de propriété.
+- Dans la zone frontière, les constructions doivent être tenues à huit mètres au moins des limites de propriété.
 
-  - Des constructions établies sur une même propriété doivent être tenues à huit mètres, douze mètres et seize mètres au moins les unes des autres, respectivement dans les zones à gabarit moyen, élevé et frontière.
+- Des constructions établies sur une même propriété doivent être tenues à huit mètres, douze mètres et seize mètres au moins les unes des autres, respectivement dans les zones à gabarit moyen, élevé et frontière.
 
-  - Des constructions dans ces espaces de recul pourront être admises après avis du comité consultatif pour la construction.
+- Des constructions dans ces espaces de recul pourront être admises après avis du comité consultatif pour la construction.
 
-  - Les limites bâtissables ci-dessus définies ne s'appliquent pas toutefois aux constructions en sous-sol, à usage de garages, caves et locaux techniques qui pourront être réalisées jusqu'en limite de propriété.
+- Les limites bâtissables ci-dessus définies ne s'appliquent pas toutefois aux constructions en sous-sol, à usage de garages, caves et locaux techniques qui pourront être réalisées jusqu'en limite de propriété.
 
-  - Le niveau supérieur de ces ouvrages doit se tenir à un mètre cinquante au moins sous le niveau de la voie publique la plus basse bordant l'opération pour permettre l'aménagement d'espaces plantés, conformément à l'article 56 ci-après.
+- Le niveau supérieur de ces ouvrages doit se tenir à un mètre cinquante au moins sous le niveau de la voie publique la plus basse bordant l'opération pour permettre l'aménagement d'espaces plantés, conformément à l'article 56 ci-après.
 
 5° De l'occupation au sol :
 
