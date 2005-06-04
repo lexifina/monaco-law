@@ -20,6 +20,8 @@ Les postes consulaires sont les suivants :
 
 - Brésil : Sao Paulo ;
 
+- Burkina Faso : Ouagadougou ;
+
 - Cameroun : Douala ;
 
 - Canada : Montréal, Vancouver, Toronto ;
@@ -119,6 +121,8 @@ Les postes consulaires sont les suivants :
 - Seychelles : Port Victoria ;
 
 - Singapour : Singapour ;
+
+- Slovénie : Ljubljana ;
 
 - Suède : Göteborg, Stockolm ;
 
