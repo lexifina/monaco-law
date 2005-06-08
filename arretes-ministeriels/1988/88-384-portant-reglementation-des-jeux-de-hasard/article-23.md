@@ -1,10 +1,14 @@
 # Article 23
 
-Le personnel affecté aux jeux dits automatiques comprend :
+Le personnel concourant à l'exploitation des jeux dits automatiques comprend :
 
-- des agents d'exploitations placés sous l'autorité du directeur des jeux accessoires ;
+- des agents d'exploitation placés sous l'autorité du directeur des Jeux accessoires ;
 
-- des surveillants placés sous l'autorité du directeur responsables de la sécurité.
+- des surveillants placés sous l'autorité du directeur responsables de la Sécurité.
+
+- des opérateurs Temps Réel (O.T.R.) placés sous l'autorité de la Direction générale des Jeux dans l'hypothèse de l'utilisation d'un système automatisé de collecte et de traitement des données ;
+
+- des personnels du service du contrôle opérationnel placés sous l'autorité de la Direction générale des Jeux
 
 23-1 - Le personnel d'exploitation comprend :
 

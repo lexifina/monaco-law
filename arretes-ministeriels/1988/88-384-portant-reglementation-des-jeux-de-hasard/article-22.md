@@ -1,3 +1,3 @@
 # Article 22
 
-Le change à la clientèle s'effectue uniquement en monnaie ayant cours légal dans la Principauté ou monégasque, ou bien en jetons de machine.
+Le change à la clientèle peut s'effectuer en monnaie ayant cours légal en Principauté, en jetons de machine ou par le chargement de crédits sur des cartes fournies par la maison de jeux.

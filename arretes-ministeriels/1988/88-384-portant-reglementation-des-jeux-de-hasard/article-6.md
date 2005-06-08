@@ -66,7 +66,7 @@ Les numéros 3, 4, 9, 10 et 11 sont payés une fois la mise ; le 2 et le 12 sont
 
 Cette chance gagne avec un 6 formé de n'importe quelle façon ou perd si le 7 sort. La mise peut rester ou être retirée sur les coups non décisifs.
 
-7° Le « big 8 » qui se joue à n'importe quel moment de la partie.
+7° Le « big 8 »qui se joue à n'importe quel moment de la partie.
 
 Cette chance gagne avec un 8 formé de n'importe quelle façon ou perd si le 7 sort. La mise peut rester ou être retirée sur les coups non décisifs.
 
@@ -126,7 +126,7 @@ Le 12 et le 2 sont payés 6.5 fois la mise ; le 3 et le 11 sont payés 2,75 fois
 
 16° Le « horn high aces », où l'on joue le 2, le 3, le 11 et le 12, avec une mise double sur le 2. Le 2 est payé onze fois la mise : le 3 et le 11 sont payés deux fois la mise ; le 12 est payé cinq fois la mise.
 
-17° Le « world bet », où l'on mise sur le 12, le 2, le 3, le 7 et le 11. Si le 7 sort, la mise déposée sur ce numéro y reste ; le 3 et le 11 sont payés deux fois ; le 2 et le 12 sont payés cinq fois.
+17° Le « world bet »«, où l'on mise sur le 12, le 2, le 3, le 7 et le 11. Si le 7 sort, la mise déposée sur ce numéro y reste ; le 3 et le 11 sont payés deux fois ; le 2 et le 12 sont payés cinq fois.
 
 C - Les chances associées ou variables qui ne peuvent être jouées que si la chance simple correspondante, dont le point doit être connu, a déjà été engagée par le joueur lui-même, suivent le sort de celle-ci, mais peuvent toujours être retirées après un jet non décisif, à savoir :
 

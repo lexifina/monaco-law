@@ -1,6 +1,6 @@
 # Article 3
 
-3.1 - Pour la roulette dite «européenne », les seuls appareils autorisés sont les roulettes à 36 numéros et un zéro.
+3.1 - Pour la roulette dite « européenne », les seuls appareils autorisés sont les roulettes à 36 numéros et un zéro.
 
 Le matériel de la roulette se compose d'un cylindre en bois, à l'intérieur duquel se trouve un plateau mobile soutenu par un pivot métallique. Ce plateau, dont la partie supérieure présente une surface lisse légèrement concave, est divisé en 37 cases séparées par de petites cloisons en cuivre et comporte sept obstacles métalliques. Les cases, alternativement rouges et noires, sont munies, chacune, d'un des numéros compris entre le 1 et le 36, et d'un zéro qui n'est ni rouge ni noir.
 
