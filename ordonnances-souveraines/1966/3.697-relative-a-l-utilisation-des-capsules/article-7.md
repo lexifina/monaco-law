@@ -1,6 +1,6 @@
 # Article 7
 
-Les capsules métalliques doivent être déchirables ou présenter des points de moindre résistance disposés de telle manière que 'ouverture de la bouteille entraîne obligatoirement leur détérioration.
+Les capsules métalliques doivent être déchirables ou présenter des points de moindre résistance disposés de telle manière que l'ouverture de la bouteille entraîne obligatoirement leur détérioration.
 
 Sur les capsules de surbouchage, le directeur des services fiscaux peut autoriser le remplacement des points de moindre résistance par un encollage donnant des garanties suffisantes de non-réutilisation des capsules.
 

@@ -8,4 +8,4 @@ Pour les vins mousseux à appellation d'origine contrôlée « champagne » et l
 
 En bleu (étalon T de la norme AF nor NF-X 08-002 homologuée le 31 août 1963) pour tous les autres vins.
 
-Er violet (étalon V de la norme AF nor NF-X 08-002 homologuée le 31 août 1963) pour les cidres.
+En violet (étalon V de la norme AF nor NF-X 08-002 homologuée le 31 août 1963) pour les cidres.
