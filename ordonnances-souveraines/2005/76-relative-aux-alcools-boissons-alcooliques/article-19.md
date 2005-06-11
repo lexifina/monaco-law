@@ -1,0 +1,3 @@
+# Article 19
+
+Les dispositions de la présente ordonnance s'appliquent à compter du 1er janvier 2005.
