@@ -1,11 +1,5 @@
 # Article 31
 
-a) par pesée :
+Un état de relève récapitulant, machine par machine, le montant de la relève des pièces ou des jetons déterminé lors de la pesée des seaux ou par aspiration, le montant reconstitué à partir du compteur dudit système, le résultat de la comptée des boîtes à billets, le solde des opérations réalisées par cartes, les ajoutés et les gains payés par bons est établi.
 
-La Comptabilité générale établit un état de relève sur lequel apparaît, machine par machine, le montant de la pesée, des ajoutés, des jackpots et des compléments.
-
-La Comptabilité générale enregistre dans un compte de produit la recette déterminée après les opérations d'encartouchage ou d'ensachage. La différence constatée avec l'état de relève établi à partir de la pesée est enregistrée soit dans un compte de « manquant », soit dans un compte d' « excédent ». Le solde de ces comptes, à la clôture de chaque exercice, est imputé au compte « produit des appareils automatiques ».
-
-b) par aspiration :
-
-La Comptabilité générale enregistre le produit défini lors de l'opération d'encartouchage.
+La comptabilité générale enregistre, dans un compte de produit, la recette déterminée après ces différentes opérations. La différence constatée à l'issue des opérations d'encartouchage ou d'ensachage est enregistrée soit dans un « compte de manquant », soit dans un « compte d'excédent ». Le solde de ces comptes est imputé au compte " produit des appareils automatiques.
