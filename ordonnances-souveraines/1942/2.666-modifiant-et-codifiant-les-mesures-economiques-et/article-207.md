@@ -1,3 +1,3 @@
 # Article 207
 
-La circulation de ces boissons en vue de la vente est interdite.
+Sont interdites la fabrication, la circulation et la détention des piquettes ou des vins de sucre.

@@ -1,3 +1,3 @@
 # Article 51
 
-Toute personne qui veut faire le commerce des alcools est tenue de prendre la position de débitant de boissons ou de marchand en gros.
+Quiconque veut exercer le commerce des produits mentionnés au 1º de l'article 7 de l'ordonnance souveraine n° 10.739 du 14 décembre 1992 est tenu de prendre la position de débitant ou d'entrepositaire agréé.
