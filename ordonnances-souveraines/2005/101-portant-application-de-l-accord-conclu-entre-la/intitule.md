@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 101 du 20 juin 2005 portant application de l'Accord conclu entre la Principauté de Monaco et la Communauté Européenne prévoyant des mesures équivalentes à celles que porte la directive 2003/48/CE du Conseil en matière de fiscalité des revenus de l'épargne sous forme de paiements d'intérêts, signé à Bruxelles le 7 décembre 2004
