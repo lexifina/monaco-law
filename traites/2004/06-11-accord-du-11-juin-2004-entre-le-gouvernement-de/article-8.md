@@ -1,0 +1,7 @@
+# Article 8
+
+Chacune des Parties contractantes notifie à l'autre l'accomplissement des procédures constitutionnelles requises en ce qui la concerne pour l'entrée en vigueur du présent Accord qui prend effet le 1er jour du second mois suivant le jour de réception de la seconde notification.
+
+Les effets du présent Accord cessent au terme de l'année scolaire au cours de laquelle il a été expressément dénoncé par l'une ou l'autre des Parties contractantes.
+
+Toutefois, les droits acquis par les personnes ayant obtenu leur diplôme durant la période de validité du présent Accord continuent à produire leurs effets même après sa dénonciation.

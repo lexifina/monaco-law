@@ -1,0 +1,1 @@
+Accord du 11 juin 2004 entre le Gouvernement de la Principauté de Monaco et le Gouvernement de la République Française relatif à la reconnaissance mutuelle des formations d'enseignement supérieur artistique (spécialité : Arts Plastiques)
