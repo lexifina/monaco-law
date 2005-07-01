@@ -1,0 +1,9 @@
+# Article 10
+
+1. L'État membre de la Communauté européenne dont le bénéficiaire effectif est un résident fiscal veille à éliminer toute double imposition qui pourrait résulter de la perception de la retenue à la source visée à l'article 7, conformément aux dispositions des paragraphes 2 et 3.
+
+2. Si des paiements d'intérêts perçus par un bénéficiaire effectif ont fait l'objet de la retenue à la source visée à l'article 7 appliquée par un agent payeur en Principauté de Monaco, l'État membre de la Communauté européenne, où le bénéficiaire effectif a sa résidence fiscale, accorde à ce dernier un crédit d'impôt égal au montant de cette retenue à la source. Si ce montant est supérieur à celui de l'impôt dû conformément à son droit interne sur le montant total des intérêts passibles de cette retenue à la source, l'État membre de la Communauté européenne dont le bénéficiaire effectif est le résident fiscal rembourse effectivement à ce dernier le montant de la retenue prélevée en trop, nonobstant tout mécanisme d'imputation ou toute pratique administrative différente.
+
+3. Lorsque, en plus de la retenue à la source visée à l'article 7, les paiements d'intérêts reçus par un bénéficiaire effectif ont été grevés de toute autre retenue à la source et que l'État membre de la Communauté européenne de résidence fiscale accorde ou accorderait un crédit d'impôt pour cette retenue à la source conformément à son droit interne ou à des conventions relatives à la double imposition, cette autre retenue à la source est créditée avant l'application de la procédure visée au paragraphe 2.
+
+4. L'État membre de la Communauté européenne de résidence fiscale du bénéficiaire effectif peut remplacer le mécanisme de crédit d'impôt visé aux paragraphes 2 et 3 ci-dessus par un remboursement direct et intégral de la retenue à la source visée à l'article 7.

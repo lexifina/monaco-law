@@ -1,0 +1,5 @@
+# Article 1er
+
+1. À l'effet de permettre que les revenus de l'épargne sous forme de paiement d'intérêts effectués sur le territoire de la Principauté de Monaco, en faveur de personnes physiques ayant la qualité de bénéficiaires effectifs au sens de l'article 2, résidentes d'un État membre de la Communauté européenne, puissent être effectivement pris en compte pour l'assujettissement à un prélèvement obligatoire qualifié d'impôt par le droit de cet État, une retenue à la source est appliquée par les agents payeurs établis sur le territoire de la Principauté de Monaco au montant du paiement desdits intérêts, dans les conditions précisées aux articles 7 et 8 de cet accord, ce sous réserve des mesures de communication volontaire prévues à l'article 9 de cet accord.
+
+2. La Principauté de Monaco prend les mesures nécessaires afin de s'assurer de l'exécution des tâches requises pour la mise en œuvre du présent accord par les agents payeurs établis sur son territoire indépendamment du lieu d'établissement du débiteur de la créance produisant les intérêts.
