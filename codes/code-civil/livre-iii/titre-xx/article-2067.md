@@ -8,4 +8,4 @@ Si l'assignation est nulle par défaut de forme,
 
 - Ou si sa demande est rejetée,
 
-- L'interruption est regardée comme non avenue.
+L'interruption est regardée comme non avenue.

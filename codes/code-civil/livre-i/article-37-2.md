@@ -1,0 +1,3 @@
+# Article 37-2
+
+L'acte de l'état civil établi par une autorité étrangère ne pourra être transcrit que s'il a été préalablement légalisé, sauf conventions internationales plus favorables. S'il est établi en langue étrangère, il devra préalablement être traduit en langue française, soit par un traducteur agréé par l'autorité judiciaire, soit par l'agent diplomatique ou le consul de Monaco qui exerce les fonctions d'officier de l'état civil dans le pays où l'acte a été dressé, soit par un consul ou un agent diplomatique étranger à Monaco lorsque la traduction concerne un acte dressé par une autorité du pays qui l'a régulièrement accrédité.
