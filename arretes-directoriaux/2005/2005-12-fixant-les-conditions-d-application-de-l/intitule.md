@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services judiciaires n° 2005-12 du 18 juillet 2005 fixant les conditions d'application de l'ordonnance n°112 du 11 juillet 2005 relative à l'indemnisation de l'assistance judiciaire et des commissions d'office
