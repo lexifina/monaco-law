@@ -1,0 +1,3 @@
+# Article 19
+
+Est puni des mêmes peines quiconque a commis le délit d'outrage aux bonnes mœurs, par l'exposition, l'affichage ou la distribution sur la voie publique ou dans les lieux publics, d'enregistrements sonores, visuels ou audiovisuels, d'écrits, d'imprimés, d'affiches, dessins, gravures, peintures, emblèmes, objets ou images obscènes ou contraires aux bonnes mœurs ; par la vente ou l'offre, même non publique, à un mineur des mêmes enregistrements, écrits, imprimés, affiches, dessins, gravures, peintures, objets ou images ; par leur remise sous bande ou sous enveloppe non fermée à la poste ou à tout agent de distribution ou de transport ; par des annonces ou correspondances publiques contraires aux bonnes mœurs.
