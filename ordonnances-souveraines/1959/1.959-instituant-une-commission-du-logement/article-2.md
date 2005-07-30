@@ -6,17 +6,17 @@ La Commission mixte d'étude du problème du logement est composée comme suit :
 
 - le Conseiller de Gouvernement pour les Finances et l'Économie, ou son représentant ;
 
-- le Conseiller de Gouvernement pour les Travaux Publics et les Affaires Sociales, ou son représentant ;
+- le Conseiller de Gouvernement pour les Travaux publics et les Affaires sociales, ou son représentant ;
 
 - le Maire, ou son représentant ;
 
-- trois membres du Conseil National ;
+- trois membres du Conseil national ;
 
 - un membre du Conseil d'État ;
 
 - deux membres du Conseil économique provisoire ;
 
-- le directeur des affaires législatives ;
+- le directeur des Affaires juridiques ;
 
 - l'Ingénieur en chef des Travaux Publics ;
 
