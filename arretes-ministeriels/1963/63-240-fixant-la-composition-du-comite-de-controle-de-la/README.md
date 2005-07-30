@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 63-240 du 1er octobre 1963 fixant la composition du comité de contrôle de la caisse autonome des retraites des travailleurs indépendants
 
-Version en vigueur au 13 décembre 2003.
+Version en vigueur au 30 juillet 2005.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1963/10-01-63-240@2003.12.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1963/10-01-63-240@2005.07.30/
 
 | | |
 | --- | --- |

@@ -6,9 +6,9 @@ La composition du comité de contrôle de la caisse autonome des retraites des t
 
 - Le contrôleur général des dépenses ;
 
-- Le directeur des affaires législatives ;
+- Le directeur des affaires juridiques ;
 
-- Le directeur du travail et des affaires sociales ;
+- Le directeur du Travail et des Affaires sociales ;
 
 - Le directeur du budget et du trésor, représentant le Gouvernement ;
 
