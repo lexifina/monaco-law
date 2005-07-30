@@ -8,7 +8,7 @@ La Commission consultative des marchés est composée comme suit :
 
 - un membre du Conseil d'État, désigné par arrêté du ministre d'État sur la proposition du président du Conseil d'État ;
 
-- le Directeur du contentieux, ou son représentant ;
+- le Directeur des Affaires juridiques, ou son représentant ;
 
 - le Directeur du budget et du trésor, ou son représentant ;
 
