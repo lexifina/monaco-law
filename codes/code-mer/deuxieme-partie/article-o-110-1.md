@@ -1,4 +1,4 @@
-# Article O. 110-1
+# Article O.110-1
 
 Conformément à l'article L. 110-2, le Conseil de la Mer est composé de neuf membres au moins et de onze membres au plus comprenant :
 
@@ -12,7 +12,7 @@ Conformément à l'article L. 110-2, le Conseil de la Mer est composé de neuf m
 
   - du département des travaux publics et des affaires sociales ;
 
-- le directeur des affaires législatives ou son représentant ;
+- le directeur des Affaires juridiques ou son représentant ;
 
 - le directeur des affaires maritimes ou son représentant ;
 

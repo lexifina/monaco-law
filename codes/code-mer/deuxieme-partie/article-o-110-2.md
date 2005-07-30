@@ -1,4 +1,4 @@
-# Article O. 110-2
+# Article O.110-2
 
 Conformément à l'article L. 110-2, les membres du conseil de la mer sont nommés pour trois ans par ordonnance souveraine. Leur mandat est renouvelable.
 
