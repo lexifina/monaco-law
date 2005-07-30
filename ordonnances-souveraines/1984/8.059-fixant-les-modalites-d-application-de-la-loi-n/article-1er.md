@@ -2,7 +2,7 @@
 
 La caisse de retraite supplémentaire des auxiliaires de justice est administrée par un conseil d'administration composé de cinq membres :
 
-- le directeur des affaires législatives qui le préside ;
+- le directeur des Affaires juridiques qui le préside ;
 
 - un avocat-défenseur ou un avocat ;
 
