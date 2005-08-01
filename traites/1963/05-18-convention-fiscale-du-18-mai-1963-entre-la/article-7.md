@@ -9,3 +9,5 @@ Toutefois, sont exclus de l'application des dispositions de l'alinéa qui préc�
 - b) Les fonctionnaires, agents et employés des services publics de la Principauté qui ont établi leur résidence habituelle à Monaco antérieurement au 13 octobre 1962.
 
 2. - Par dérogation aux dispositions du paragraphe 1 ci-dessus, les personnes physiques de nationalité française précédemment domiciliées hors de la France métropolitaine et ayant leur résidence habituelle à Monaco depuis moins de cinq ans au 13 octobre 1962, ne seront imposables pour la première fois en France à l'impôt sur le revenu des personnes physiques et - le cas échéant - à la taxe complémentaire que sur leurs revenus de 1965.
+
+3. Les personnes physiques de nationalité française qui ont transporté à Monaco leur domicile ou leur résidence à compter du 1er janvier 1989 sont assujetties à l'impôt sur la fortune à compter du 1er janvier 2002 dans les mêmes conditions que si elles avaient leur domicile ou leur résidence en France.

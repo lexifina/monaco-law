@@ -1,8 +1,8 @@
 # Article 21
 
-En exécution de l'article précédent et pour faciliter à l'Administration française le contrôle des déclarations souscrites en ce qui concerne les impôts sur le revenu des personnes physiques et sur les sociétés par des personnes physiques ou morales domiciliées en France, le Gouvernement Princier s'engage à renseigner d'office cette Administration :
+En exécution de l'article précédent et pour faciliter à l'Administration française le contrôle des déclarations souscrites en ce qui concerne les impôts sur la fortune, sur le revenu des personnes physiques et sur les sociétés par des personnes physiques ou morales domiciliées en France, le Gouvernement Princier s'engage à renseigner d'office cette Administration :
 
-- 1° D'après les comptes ouverts au répertoire général sur les immeubles possédés à Monaco par les personnes en cause, tant en ce qui concerne la valeur vénale résultant du prix d'acquisition qu'en ce qui concerne le revenu locatif résultant de baux enregistrés ainsi que sur les biens meubles, corporels ou incorporels possédés par les mêmes personnes ;
+- 1° D'après les comptes ouverts au répertoire général sur les immeubles possédés à Monaco par les personnes en cause, tant en ce qui concerne la valeur vénale résultant du prix d'acquisition qu'en ce qui concerne le revenu locatif résultant de baux enregistrés ainsi que sur les droits réels immobiliers et sur les biens meubles, corporels ou incorporels possédés par les mêmes personnes ;
 
 - 2° Sur le montant du chiffre d'affaires déclaré par les personnes susvisées ou constaté par les Services fiscaux de la Principauté ;
 
