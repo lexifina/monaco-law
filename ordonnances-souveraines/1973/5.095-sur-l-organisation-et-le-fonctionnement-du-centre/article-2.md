@@ -1,25 +1,27 @@
 # Article 2
 
-Le Centre hospitalier Princesse Grace est administré par un Conseil d'administration composé de 15 membres désignés dans les conditions ci-après et nommés conformément aux dispositions de l'article-premier de Notre ordonnance n° 5.055 du 8 décembre 1972 :
+Le Centre Hospitalier Princesse Grace est administré par un Conseil d'Administration composé de 17 membres désignés dans les conditions ci-après et nommés conformément aux dispositions de l'article premier de l'ordonnance souveraine n° 5.055 du 8 décembre 1972 :
 
-- le président de l'Ordre des médecins ou son représentant désigné au sein de l'Ordre,
+- Le Président de l'Ordre des médecins ou son représentant désigné au sein de l'Ordre ;
 
-- le président de la Commission médicale d'Établissement ou son représentant désigné au sein de la Commission,
+- Le Président de la Commission médicale d'établissement ou son représentant désigné au sein de la Commission ;
 
-- un professeur agrégé de médecine ou de chirurgie,
+- Un Professeur agrégé de médecine ou de chirurgie, exerçant au Centre hospitalier Princesse Grace, proposé par la Commission médicale d'établissement ;
 
-- le président du Conseil économique et social ou son représentant désigné au sein du Conseil,
+- Un représentant élu des praticiens hospitaliers selon les modalités fixées par arrêté ministériel ;
 
-- trois fonctionnaires appartenant respectivement au Département de l'intérieur, au Département des finances et de l'économie et au Département des travaux publics et des affaires sociales,
+- Trois fonctionnaires désignés par le Ministre d'État ;
 
-- cinq personnalités choisies en raison de leur compétence,
+- Le Président du Conseil économique et social ou son représentant désigné au sein du Conseil ;
 
-- deux représentants des personnels titulaires élus selon les modalités fixées par arrêté ministériel,
+- Deux représentants élus par les personnels titulaires selon les modalités fixées par arrêté ministériel ;
 
-- le secrétaire du Comité technique d'Établissement.
+- Le Secrétaire du Comité technique d'établissement ;
 
-La durée du mandat des membres du Conseil d'administration est fixée à trois ans.
+- Six personnalités proposées en raison de leurs compétences dont trois par le Ministre d'État, deux par le Conseil national et une par le Conseil communal, ces deux assemblées pouvant les proposer indifféremment en leur sein ou en dehors de celui-ci.
 
-L'ordonnance souveraine portant nomination des membres du Conseil d'administration nommera également le président et le vice-président de l'assemblée, choisis au sein de cette dernière.
+La durée du mandat des membres du conseil d'administration est fixée à trois ans.
 
-Dans les conditions et en la forme prévues par l'article premier de Notre ordonnance n° 5.055 du 8 décembre 1972, un Commissaire du gouvernement ainsi qu'un Commissaire du gouvernement suppléant seront délégués auprès du Conseil d'administration du Centre hospitalier Princesse Grace.
+L'ordonnance souveraine portant nomination des membres du Conseil d'administration nommera également le Président et le Vice-Président de l'assemblée, choisis au sein de cette dernière.
+
+Dans les conditions et en la forme prévues par l'article premier de l'ordonnance souveraine n° 5.055 du 8 décembre 1972, un Commissaire du Gouvernement ainsi qu'un Commissaire du Gouvernement suppléant seront délégués auprès du conseil d'administration du Centre hospitalier Princesse Grace.
