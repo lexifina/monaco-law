@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 129 du 2 août 2005 rendant exécutoire le Protocole portant amendement de l'article 56 de la Convention de Chicago relative à l'aviation civile internationale, signé à Montréal le 6 octobre 1989
