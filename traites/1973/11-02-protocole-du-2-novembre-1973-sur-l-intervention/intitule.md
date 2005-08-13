@@ -1,0 +1,1 @@
+Protocole du 2 novembre 1973 sur l'intervention en haute mer en cas de pollution par des substances autres que les hydrocarbures relatif à la Convention de 1969 sur l'intervention en haute mer en cas d'accident entraînant ou pouvant entraîner une pollution par les hydrocarbures
