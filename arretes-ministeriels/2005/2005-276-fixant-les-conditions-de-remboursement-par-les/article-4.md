@@ -8,9 +8,9 @@ Par ailleurs, un acte ou une prestation ne peut être pris en charge que si sa r
 
 Pour les actes qualifiés de remboursables sous conditions, le médecin porte le code remboursement exceptionnel «X» sur la feuille de soins. Ce code indique que l'acte a été réalisé dans les conditions précisées dans la Section II. Si l'acte n'est pas réalisé dans les conditions exigées, il ne peut pas être présenté au remboursement.
 
-Certains de ces actes remboursables sous conditions doivent faire l'objet d'un accord préalable du contrôle médical et ne sont pris en charge qu'à la condition d'avoir reçu l'avis favorable du contrôle médical, sous réserve que l'assuré remplisse les conditions légales d'attribution des prestations.
+Certains actes font l'objet d'un accord préalable du contrôle médical et ne sont pris en charge qu'à la condition d'avoir reçu l'avis favorable du contrôle médical, sous réserve que l'assuré remplisse les conditions légales d'attribution des prestations.
 
-La liste de ces actes est établie par la Direction des Caisses Sociales de Monaco qui en assure la publication.
+La liste de ces actes est établie par la Direction des caisses sociales de Monaco qui en assure la publication.
 
 - 1. Quand l'acte est soumis à cette formalité, le patient est tenu, préalablement à l'exécution de cet acte, d'adresser au contrôle médical une demande d'accord préalable remplie et signée par le médecin qui doit dispenser l'acte.
 

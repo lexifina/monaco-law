@@ -8,11 +8,11 @@ Lorsque les conditions de prise en charge prévoient que l'acte peut être réal
 
 Lorsque les conditions de prise en charge ne prévoient pas la présence de plusieurs médecins, l'acte ne peut être codé et facturé qu'une seule fois, même si plusieurs médecins participent à sa réalisation.
 
-Lorsqu'une procédure spécifique est identifiée dans la liste, elle est codée et tarifée et non les actes isolés qui la composent, même s'ils sont réalisés par des médecins différents et à des moments différents de la journée.
+Lorsqu'une procédure spécifique est identifiée dans la liste, elle est codée et tarifée et non les actes isolés qui la composent, même s'ils sont réalisés par des médecins différents.
 
 La liste prévoit que des actes peuvent être réalisés en plusieurs phases distinctes dans le temps. Dans ce cas, chaque phase est décrite. A chacune d'entre elles correspondent un code phase de traitement et un tarif qui doit être facturé le jour de sa réalisation.
 
-Les gestes complémentaires et les suppléments de rémunération ne peuvent être tarifés isolément. Les codes des gestes complémentaires ou des suppléments autorisés sont mentionnés en regard de chacun des actes concernés. Les gestes complémentaires et les suppléments sont regroupés dans des chapitres spécifiques.
+Les gestes complémentaires, les actes de guidage et les suppléments de rémunération ne peuvent être tarifés que si les actes qu'ils complètent sont réalisés. Les codes des gestes complémentaires ou des suppléments autorisés sont mentionnés en regard de chacun des actes concernés. Les gestes complémentaires et les suppléments sont regroupés dans des chapitres spécifiques.
 
 Pour un acte chirurgical sanglant non répétitif réalisé en équipe sur un plateau technique lourd ou un acte interventionnel, dont la réalisation en établissement de santé est nécessaire à la sécurité des soins, le tarif recouvre, pour le médecin qui le réalise :
 
