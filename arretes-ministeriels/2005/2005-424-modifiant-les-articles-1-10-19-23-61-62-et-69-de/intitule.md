@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2005-424 du 30 août 2005 modifiant les articles 1, 10, 19, 23, 61, 62 et 69 de l'arrêté ministériel n° 2002-647 du 21 novembre 2002 fixant les mesures générales à appliquer pour la construction et l'exploitation des parcs à stationnement couverts et des parcs de stationnement à rangement automatisé de véhicules à moteurs
