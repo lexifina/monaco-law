@@ -10,4 +10,4 @@ La source de sécurité, constituée par un ou plusieurs groupes moteurs thermiq
 
 - le retour des ascenseurs et monte-véhicules au niveau de référence.
 
-Les câbles de l'alimentation des équipements de sécurité devront être de type résistant au feu.
+Les câbles d'alimentation des équipements de sécurité devront être de type résistant au feu depuis la source de sécurité.

@@ -1,5 +1,9 @@
 # Article 62
 
-Un interrupteur général multipolaire assurant la coupure du courant secteur par niveau devra être installé à proximité du tableau de commandes prioritaires visé à l'article 60 ci-dessus. Ce dispositif devra être placé dans un coffret et être clairement identifié.
+À proximité du tableau de commandes prioritaires visées à l'article 60, un coffret accueillera l'installation des interrupteurs assurant la coupure multipolaire :
 
-Si un local d'exploitation existe, ces coupures devront être également manoeuvrables depuis celui-ci.
+- du courant de secteur par niveau,
+
+- des installations secourues à l'exception des installations de sécurité.
+
+La coupure susmentionnée concerne les installations secourues dont les câbles cheminent dans le parc de stationnement, sauf si ces derniers sont de type résistant au feu.

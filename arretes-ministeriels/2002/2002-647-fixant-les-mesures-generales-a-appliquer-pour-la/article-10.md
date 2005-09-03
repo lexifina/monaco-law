@@ -13,3 +13,5 @@ Un parc de stationnement doit être exclusivement affecté au remisage des véhi
 - de faire cheminer sans isolement, des canalisations électriques desservant d'autres activités, des conduits de vapeurs à une pression supérieure à 0,5 bar ou d'eau surchauffée à plus de 110° C et des gaz combustibles ou toxiques ;
 
 - de fumer ou d'apporter des feux nus.
+
+- de faire cheminer les réseaux de distribution publique d'énergie électrique.
