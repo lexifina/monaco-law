@@ -12,7 +12,7 @@ Le règlement d'un fonds commun de placement est établi par les fondateurs. Il 
 
 - 5° le montant des commissions perçues à l'occasion des opérations de souscription ou de rachat des parts ; ce montant ne peut être supérieur à un taux fixé par arrêté ministériel ;
 
-- 6° le montant et les modalités de calcul des frais de gestion à la charge du souscripteur ;
+- 6°le montant et les modalités de calcul des frais de gestion à la charge du souscripteur ;
 
 - 7° le montant minimal de l'actif net au-dessous duquel il ne peut être procédé au rachat des parts ; ce montant ne peut être inférieur à celui fixé à l'article 17 de la présente ordonnance ;
 
@@ -22,7 +22,7 @@ Le règlement d'un fonds commun de placement est établi par les fondateurs. Il 
 
 - 10° les modalités de souscription et de rachat des parts ;
 
-- 11° les modalités et la périodicité du calcul de la valeur de la part :
+- 11°les modalités et la périodicité du calcul de la valeur de la part :
 
   - le calcul doit être effectué et la valeur publiée et affichée au moins deux fois par mois et à intervalles réguliers pour les fonds dont l'actif est inférieur à cent cinquante millions d'euros ; pour les autres fonds, la valeur liquidative est calculée et affichée chaque jour ouvrable, la publication n'étant elle qu'hebdomadaire ;
 
@@ -42,4 +42,4 @@ Le règlement d'un fonds commun de placement est établi par les fondateurs. Il 
 
 - 16° le règlement doit également prévoir la possibilité pour les porteurs d'obtenir le rachat de leurs parts sans frais dans certaines circonstances et, notamment, en cas de changement du dépositaire, de la société de gestion ou de modification de l'orientation des placements.
 
-- 17° - Une représentation synthétique de ce règlement, sous forme de notice d'information, décrivant les caractéristiques du fonds concerné, doit être mise à la disposition du public. Cette notice est présentée conformément à un modèle fixé par arrêté ministériel.
+- 17°Une représentation synthétique de ce règlement, sous forme de notice d'information, décrivant les caractéristiques du fonds concerné, doit être mise à la disposition du public. Cette notice est présentée conformément à un modèle fixé par arrêté ministériel.
