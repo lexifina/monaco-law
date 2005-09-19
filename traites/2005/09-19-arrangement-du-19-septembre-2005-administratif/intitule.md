@@ -1,0 +1,1 @@
+Arrangement du 19 septembre 2005 administratif entre le Ministre d'État de la Principauté de Monaco et le Ministre de la Défense de la République Française, relatif à la coopération en matière d'hydrographie, de cartographie marine et d'océanographie
