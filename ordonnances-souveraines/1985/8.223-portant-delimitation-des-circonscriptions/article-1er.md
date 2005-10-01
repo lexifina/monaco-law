@@ -14,7 +14,7 @@ Il est formé en Italie, sous l'autorité de Notre Ambassadeur auprès de M. le 
 
 - Livourne : provinces de Livourne, Grossetto, Lucques, Massa et Carrare, Pise ;
 
-- Milan : provinces de Milan, Bergame, Brescia, Côme, Crémone, Lecco, Lodi, Mantoue, Pavie, Sondrio, Varèse ;
+- Milan : provinces de Milan, Bergame, Brescia, Côme, Crémone, Lecco, Lodi, Mantoue, Monza, Pavie, Sondrio, Varèse ;
 
 - Naples : provinces de Naples, Avellino, Bénévent, Caserte, Salerne, Potenza, Matera, Reggio de Calabre, Catanzaro, Cosenza, Crotone, Vibo, Valentia, Campobasso, Isernia ;
 
