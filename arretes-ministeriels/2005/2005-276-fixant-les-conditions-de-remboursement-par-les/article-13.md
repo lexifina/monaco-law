@@ -8,15 +8,23 @@ B) Emploi de «un» comme adjectif numéral :
 
 Le terme «un» est employé comme adjectif numéral et non comme article indéfini : il a le sens de un seul.
 
-C) Indication numérique : Quand le libellé d'un acte comporte une indication numérique tel qu'un nombre, une dimension, une surface ou les termes «plusieurs» ou «multiples», le médecin doit utiliser le code du libellé décrivant le plus exactement la totalité des gestes effectués au cours de son acte.
+C) Indication numérique :
 
-D) La conjonction «et» : Dans certains libellés, la conjonction «et» remplace la préposition «avec». Elle en garde le sens inclusif obligatoire.
+Quand le libellé d'un acte comporte une indication numérique tel qu'un nombre, une dimension, une surface ou les termes «plusieurs» ou «multiples», le médecin doit utiliser le code du libellé décrivant le plus exactement la totalité des gestes effectués au cours de son acte.
 
-E) La conjonction «ou» : La conjonction «ou» introduit une proposition alternative : elle est employée avec un sens exclusif.
+D) La conjonction «et» :
+
+Dans certains libellés, la conjonction «et» remplace la préposition «avec». Elle en garde le sens inclusif obligatoire.
+
+E) La conjonction «ou» :
+
+La conjonction «ou» introduit une proposition alternative : elle est employée avec un sens exclusif.
 
 F) L'expression «et/ou» permet de coder une ou plusieurs actions avec le même libellé.
 
-G) Ponctuation : La virgule placée entre les termes d'une énumération remplace «et, ou, et/ou» employé entre les deux derniers termes de cette énumération.
+G) Ponctuation :
+
+La virgule placée entre les termes d'une énumération remplace «et, ou, et/ou» employé entre les deux derniers termes de cette énumération.
 
 H) Notes d'utilisation :
 

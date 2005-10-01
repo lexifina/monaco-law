@@ -1,6 +1,6 @@
 # Article 17
 
-Les tarifs d'autorité des actes codés en Classification Commune des Actes Médicaux sont égaux :
+Les tarifs d'autorité des actes codés en classification commune des actes médicaux sont égaux :
 
 - pour ceux réalisés en établissement privé, dans le secteur d'exercice libéral des praticiens hospitaliers ou en cabinet de ville à 30 % de la base de remboursement déterminée en appliquant aux tarifs figurant à l'article 16, les règles mentionnées aux Sections I et III du présent arrêté ministériel ;
 

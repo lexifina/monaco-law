@@ -14,7 +14,7 @@ Deux types d'anesthésie-réanimation sont distingués :
 
 - 2. Celles pour lesquelles le médecin anesthésiste peut prendre en charge l'anesthésie de deux patients simultanément. Si toutefois pour ces actes, le médecin anesthésiste se consacre exclusivement à un seul patient, il peut appliquer une majoration, sous forme de modificateur, appelé «présence permanente de l'anesthésiste» mentionné à l'article 19 de la Section III.
 
-.Celui-ci est indiqué en regard des actes concernés.
+Celui-ci est indiqué en regard des actes concernés.
 
 La présence permanente du médecin anesthésiste pendant la phase perinterventionnelle doit être attestée explicitement sur la fiche d'anesthésie.
 

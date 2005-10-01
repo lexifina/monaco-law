@@ -44,7 +44,7 @@ g . Dans les cas suivants, les actes associés sont tarifés à taux plein :
 
 - les actes de médecine nucléaire sont associés à taux plein ; deux actes au plus peuvent être tarifés ;
 
-- les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note « facturation : éventuellement en supplément ».
+- les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note » facturation : éventuellement en supplément «.
 
 h . Si pour des raisons médicales ou dans l'intérêt du patient, un médecin réalise des actes à des moments différents et discontinus de la même journée, à l'exclusion de ceux effectués dans une unité de réanimation ou dans une unité de soins intensifs de cardiologie, sur un même patient et qu'il facture ces actes à taux plein, il doit le justifier dans le dossier médical du patient qui est tenu à la disposition du contrôle médical.
 
