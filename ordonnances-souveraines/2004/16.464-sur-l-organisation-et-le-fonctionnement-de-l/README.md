@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 16.464 du 25 octobre 2004 sur l'organisation et le fonctionnement de l'Office de protection sociale
 
-Version en vigueur au 6 novembre 2004.
+Version en vigueur au 1er octobre 2005.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2004/10-25-16.464@2004.11.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2004/10-25-16.464@2005.10.01/
 
 | | |
 | --- | --- |
