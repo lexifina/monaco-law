@@ -1,0 +1,9 @@
+# Article 37
+
+1. Les membres de la famille de l'agent diplomatique qui font partie de son ménage bénéficient des privilèges et immunités mentionnés dans les articles 29 à 36, pourvu qu'ils ne soient pas ressortissants de l'État accréditaire.
+
+2. Les membres du personnel administratif et technique de la mission, ainsi que les membres de leurs familles qui font partie de leurs ménages respectifs, bénéficient, pourvu qu'ils ne soient pas ressortissants de l'État accréditaire ou n'y aient pas leur résidence permanente, des privilèges et immunités mentionnés dans les articles 29 à 35, sauf que l'immunité de la juridiction civile et administrative de l'État accréditaire mentionnée au paragraphe 1 de l'article 31 ne s'applique pas aux actes accomplis en dehors de l'exercice de leurs fonctions. Ils bénéficient aussi des privilèges mentionnés au paragraphe 1 de l'article 36 pour ce qui est des objets importés lors de leur première installation.
+
+3. Les membres du personnel de service de la mission qui ne sont pas ressortissants de l'État accréditaire ou n'y ont pas leur résidence permanente bénéficient de l'immunité pour les actes accomplis dans l'exercice de leurs fonctions et de l'exemption des impôts et taxes sur les salaires qu'ils reçoivent du fait de leurs services ainsi que de l'exemption prévue à l'article 33.
+
+4. Les domestiques privés des membres de la mission qui ne sont pas ressortissants de l'État accréditaire ou n'y ont pas leur résidence permanente sont exemptés des impôts et taxes sur les salaires qu'ils reçoivent du fait de leurs services. À tous autres égards, ils ne bénéficient des privilèges et immunités que dans la mesure admise par l'État accréditaire. Toutefois, l'État accréditaire doit exercer sa juridiction sur ces personnes de façon à ne pas entraver d'une manière excessive l'accomplissement des fonctions de la mission.
