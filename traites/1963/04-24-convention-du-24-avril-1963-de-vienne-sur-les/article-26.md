@@ -1,0 +1,3 @@
+# Article 26
+
+L'État de résidence doit, même en cas de conflit armé, accorder aux membres du poste consulaire et aux membres du personnel privé autres que les ressortissants de l'État de résidence, ainsi qu'aux membres de leur famille vivant à leur foyer, quelle que soit leur nationalité, le temps et les facilités nécessaires pour préparer leur départ et quitter son territoire dans les meilleurs délais après la cessation de leurs fonctions. Il doit en particulier, si besoin est, mettre à leur disposition les moyens de transport nécessaires pour eux-mêmes et pour leurs biens, à l'exception des biens acquis dans l'État de résidence dont l'exportation est interdite au moment du départ.

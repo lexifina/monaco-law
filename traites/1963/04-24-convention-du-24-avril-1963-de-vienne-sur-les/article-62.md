@@ -1,0 +1,3 @@
+# Article 62
+
+Suivant les dispositions législatives et réglementaires qu'il peut adopter, l'État de résidence accorde l'entrée ainsi que l'exemption de tous droits de douane, taxes et autres redevances connexes autres que frais d'entrepôt, de transport et frais afférents à des services analogues, pour les objets suivants, à condition qu'ils soient destinés exclusivement à l'usage officiel d'un poste consulaire dirigé par un fonctionnaire consulaire honoraire : les écussons, pavillons, enseignes, sceaux et cachets, livres, imprimés officiels, le mobilier de bureau, le matériel et les fournitures de bureau et les objets analogues fournis au poste consulaire par l'État d'envoi ou sur sa demande.

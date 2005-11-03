@@ -1,0 +1,5 @@
+# Article 17
+
+1. Dans un État où l'État d'envoi n'a pas de mission diplomatique et n'est pas représenté par la mission diplomatique et n'est pas représenté par la mission diplomatique d'un État tiers, un fonctionnaire consulaire peut, avec le consentement de l'État de résidence, et sans que son statut consulaire en soit affecté, être chargé d'accomplir des actes diplomatiques. L'accomplissement de ces actes par un fonctionnaire consulaire ne lui confère aucun droit aux privilèges et immunités diplomatiques.
+
+2. Un fonctionnaire consulaire peut, après notification à l'État de résidence, être chargé de représenter l'État d'envoi auprès de toute organisation intergouvernementale. Agissant en cette qualité, il a droit à tous les privilèges et immunités accordés par le droit international coutumier ou par des accords internationaux à un représentant auprès d'une organisation intergouvernementale ; toutefois, en ce qui concerne toute fonction consulaire exercée par lui, il n'a pas droit à une immunité de juridiction plus étendue que celle dont un fonctionnaire consulaire bénéficie en vertu de la présente Convention.

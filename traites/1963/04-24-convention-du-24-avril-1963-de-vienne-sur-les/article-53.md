@@ -1,0 +1,11 @@
+# Article 53
+
+1. Tout membre du poste consulaire bénéficie des privilèges et immunités prévus par la présente Convention dès son entrée sur le territoire de l'État de résidence pour gagner son poste ou, s'il se trouve déjà sur ce territoire, dès son entrée en fonctions au poste consulaire.
+
+2. Les membres de la famille d'un membre du poste consulaire vivant à son foyer, ainsi que les membres de son personnel privé, bénéficiant des privilèges et immunités prévus dans la présente Convention à partir de la dernière des dates suivantes : celle à partir de laquelle ledit membre du poste consulaire jouit des privilèges et immunités conformément au paragraphe 1 du présent article, celle de leur entrée sur le territoire de l'État de résidence ou celle à laquelle ils sont devenus membres de ladite famille ou dudit personnel privé.
+
+3. Lorsque les fonctions d'un membre du poste consulaire prennent fin, ses privilèges et immunités, ainsi que ceux des membres de sa famille vivant à son foyer ou des membres de son personnel privé, cessent normalement à la première des dates suivantes : au moment où la personne en question quitte le territoire de l'État de résidence, ou à l'expiration d'un délai raisonnable qui lui aura été accordé à cette fin, mais ils subsistent jusqu'à ce moment, même en cas de conflit armé. Quant aux personnes visées au paragraphe 2 du présent article, leurs privilèges et immunités cessent dès qu'elles-mêmes cessent d'appartenir au foyer ou d'être au service d'un membre du poste consulaire, étant toutefois entendu que, si ces personnes ont l'intention de quitter le territoire de l'État de résidence dans un délai raisonnable, leurs privilèges et immunités subsistent jusqu'au moment de leur départ.
+
+4. Toutefois, en ce qui concerne les actes accomplis par un fonctionnaire consulaire ou un employé consulaire dans l'exercice de ses fonctions, l'immunité de juridiction subsiste sans limitation de durée.
+
+5. En cas de décès d'un membre du poste consulaire, les membres de sa famille vivant à son foyer continuent de jouir des privilèges et immunités dont ils bénéficient, jusqu'à la première des dates suivantes : celle où ils quittent le territoire de l'État de résidence, ou à l'expiration d'un délai raisonnable qui leur aura été accordé à cette fin.

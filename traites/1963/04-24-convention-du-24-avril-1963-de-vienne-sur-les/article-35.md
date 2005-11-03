@@ -1,0 +1,15 @@
+# Article 35
+
+1. L'État de résidence permet et protège la liberté de communication du poste consulaire pour toutes fins officielles. En communiquant avec le Gouvernement, les missions diplomatiques et les autres postes consulaires de l'État d'envoi, où qu'ils se trouvent, le poste consulaire peut employer tous les moyens de communication appropriés, y compris les courriers diplomatiques ou consulaires, la valise diplomatique ou consulaire et les messages en code ou en chiffre. Toutefois, le poste consulaire ne peut installer et utiliser un poste émetteur de radio qu'avec l'assentiment de l'État de résidence.
+
+2. La correspondance officielle du poste consulaire est inviolable. L'expression « correspondance officielle » s'entend de toute la correspondance relative au poste consulaire et à ses fonctions.
+
+3. La valise consulaire ne doit être ni ouverte ni retenue. Toutefois, si les autorités compétentes de l'État de résidence ont de sérieux motifs de croire que la valise contient d'autres objets que la correspondance, les documents et les objets visés au paragraphe 4 du présent article, elles peuvent demander que la valise soit ouverte en leur présence par un représentant autorisé de l'État d'envoi. Si les autorités dudit État opposent un refus à la demande, la valise est renvoyée à son lieu d'origine.
+
+4. Les colis constituant la valise consulaire doivent porter des marques extérieures visibles de leur caractère et ne peuvent contenir que la correspondance officielle, ainsi que des documents ou objets destinés exclusivement à un usage officiel.
+
+5. Le courrier consulaire doit être porteur d'un document officiel attestant sa qualité et précisant le nombre de colis constituant la valise consulaire. À moins que l'État de résidence n'y consente, il ne doit être ni un ressortissant de l'État de résidence, ni, sauf s'il est ressortissant de l'État d'envoi, un résident permanent de l'État de résidence. Dans l'exercice de ses fonctions, ce courrier est protégé par l'État de résidence. Il jouit de l'inviolabilité de sa personne et ne peut être soumis à aucune forme d'arrestation ou de détention.
+
+6. L'État d'envoi, ses missions diplomatiques et ses postes consulaires peuvent désigner des courriers consulaires ad hoc. Dans ce cas, les dispositions du paragraphe 5 du présent article sont également applicables, sous réserve que les immunités qui y sont mentionnées cesseront de s'appliquer dès que le courrier aura remis au destinataire la valise consulaire dont il a la charge.
+
+7. La valise consulaire peut être confiée au commandant d'un navire ou d'un aéronef commercial qui doit arriver à un point d'entrée autorisé. Ce commandant doit être porteur d'un document officiel indiquant le nombre de colis constituant la valise, mais il n'est pas considéré comme un courrier consulaire. À la suite d'un arrangement avec les autorités locales compétentes, le poste consulaire peut envoyer un de ses membres prendre, directement et librement, possession de la valise des mains du commandant du navire ou de l'aéronef.

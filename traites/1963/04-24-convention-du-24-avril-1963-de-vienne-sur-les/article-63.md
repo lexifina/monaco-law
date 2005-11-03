@@ -1,0 +1,3 @@
+# Article 63
+
+Lorsqu'une procédure pénale est engagée contre un fonctionnaire consulaire honoraire, celui-ci est tenu de se présenter devant les autorités compétentes. Toutefois, la procédure doit être conduite avec les égards qui sont dus au fonctionnaire consulaire honoraire en raison de sa position officielle et, sauf si l'intéressé est en état d'arrestation ou de détention, de manière à gêner le moins possible l'exercice des fonctions consulaires. Lorsqu'il est devenu nécessaire de mettre un fonctionnaire consulaire honoraire en état de détention préventive, la procédure dirigée contre lui doit être ouverte dans le délai le plus bref.

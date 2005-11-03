@@ -1,0 +1,9 @@
+# Article 54
+
+1. Si le fonctionnaire consulaire traverse le territoire ou se trouve sur le territoire d'un État tiers qui lui a accordé un visa au cas où ce visa est requis, pour aller assumer ses fonctions ou rejoindre son poste, ou pour rentrer dans l'État d'envoi, l'État tiers lui accordera les immunités prévues dans les autres articles de la présente Convention, qui peuvent être nécessaires pour permettre son passage ou son retour. L'État tiers fera de même pour les membres de la famille vivant à son foyer et bénéficiant des privilèges et immunités qui accompagnent le fonctionnaire consulaire ou qui voyagent séparément pour le rejoindre ou pour rentrer dans l'État d'envoi.
+
+2. Dans les conditions similaires à celles qui sont prévues au paragraphe 1 du présent article, les États tiers ne doivent pas entraver le passage sur leur territoire des autres membres du poste consulaire et des membres de leur famille vivant à leur foyer.
+
+3. Les États tiers accorderont à la correspondance officielle et aux autres communications officielles en transit, y compris les messages en code ou en chiffre, la même liberté et la même protection que l'État de résidence est tenu d'accorder en vertu de la présente Convention. Ils accorderont aux courriers consulaires, auxquels un visa a été accordé s'il était requis, et aux valises consulaires en transit, la même inviolabilité et la même protection que l'État de résidence est tenu d'accorder en vertu de la présente Convention.
+
+4. Les obligations des États tiers en vertu des paragraphes 1, 2 et 3 du présent article s'appliquent également aux personnes mentionnées respectivement dans ces paragraphes, ainsi qu'aux communications officielles et aux valises consulaires, lorsque leur présence sur le territoire de l'État tiers est due à un cas de force majeure.
