@@ -110,7 +110,7 @@ Les postes consulaires sont les suivants :
 
 - Portugal : Lisbonne, Ponta Delgada, Porto ;
 
-- Russie (Fédération de) : Saint-Pétersbourg ;
+- R ussie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
 - Saint-Marin : Saint-Marin ;
 
