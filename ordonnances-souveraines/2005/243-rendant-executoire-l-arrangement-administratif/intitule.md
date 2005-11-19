@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 243 du 24 octobre 2005 rendant exécutoire l'Arrangement administratif entre le Ministre d'État de la Principauté de Monaco et le Ministre de la Défense de la République Française, relatif à la coopération en matière d'hydrographie, de cartographie marine et d'océanographie
