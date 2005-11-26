@@ -1,17 +1,13 @@
 # Article 15
 
-La commission de contrôle, prévue à l'article 16 de la loi n° 1.194 du 9 juillet 1997 relative à la gestion de portefeuilles et aux activités boursières assimilées comprend :
+La Commission de contrôle, prévue à l'article 16 de la loi n° 1.194 du 9 juillet 1997 relative à la gestion de portefeuilles et aux activités boursières assimilées est composée :
 
-- le directeur du budget et du trésor ou son représentant ;
+- du Président de l'Association monégasque des banques ou son représentant ;
 
-- le représentant de l'Association monégasque des banques ou son représentant ;
+- du Président de l'Ordre des experts-comptables ou son représentant ;
 
-- le président de l'Ordre des experts comptables ou son représentant ;
+- de sept membres choisis en raison de leur compétence, nommés pour une période de cinq ans renouvelable, par une ordonnance souveraine qui désigne également, parmi ceux-ci, le Président et le Vice-Président.
 
-- quatre membres choisis en raison de leurs compétences et nommés par Ordonnance Souveraine pour une période de trois ans renouvelable.
+Un magistrat désigné par le Directeur des Services Judiciaires assiste aux réunions de la Commission de contrôle en qualité d'observateur, sans voix délibérative.
 
-La commission de contrôle désigne en son sein son président.
-
-Un magistrat désigné par le directeur des services judiciaires assiste aux réunions de la commission de contrôle en qualité d'observateur.
-
-Le secrétariat est assuré par le département des finances et de l'économie.
+Le secrétariat est assuré par la Direction du Budget et du Trésor.
