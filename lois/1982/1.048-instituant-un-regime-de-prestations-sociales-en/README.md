@@ -1,8 +1,8 @@
 # Loi n° 1.048 du 28 juillet 1982 instituant un régime de prestations sociales en faveur des travailleurs indépendants
 
-Version en vigueur au 20 juillet 2002.
+Version en vigueur au 24 décembre 2005.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1982/07-28-1.048@2002.07.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1982/07-28-1.048@2005.12.24/
 
 | | |
 | --- | --- |

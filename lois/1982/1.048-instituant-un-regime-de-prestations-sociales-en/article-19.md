@@ -6,4 +6,4 @@ Les prestations maternité s'entendent du remboursement :
 
 - 2° des frais de fournitures orthopédiques nécessitées par la grossesse ;
 
-- 3° des frais afférents au séjour dans un établissement de soins pendant une durée maximale de douze jours.
+- 3° des frais afférents au séjour dans un établissement de soins.
