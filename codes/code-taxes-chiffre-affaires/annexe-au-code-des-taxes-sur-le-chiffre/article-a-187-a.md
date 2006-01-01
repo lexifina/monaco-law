@@ -25,3 +25,5 @@ III. - Sont considérés comme objets de collection les biens suivants, à l'exc
 - 2° Collections et spécimens pour collections de zoologie, de botanique, de minéralogie, d'anatomie, ou présentant un intérêt historique, archéologique, paléontologique, ethnographique ou numismatique.
 
 IV. - Les objets d'antiquité sont les biens meubles, autres que des œuvres d'art et des objets de collection, ayant plus de cent ans d'âge.
+
+III. - Régime applicable à l'or d'investissement

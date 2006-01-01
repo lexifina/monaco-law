@@ -28,7 +28,7 @@ Les factures délivrées par les assujettis désignés au II de l'article 94 du 
 
   - j) numéro ou marque d'immatriculation ;
 
-  - 4° La date de la livraison ;
+- 4° La date de la livraison ;
 
 - 5° La distance parcourue (véhicules terrestres), le nombre d'heures de vol effectuées (aéronefs), le nombre d'heures de navigation effectuées (bateaux) entre la date de première mise en circulation et celle de la livraison ou, lorsque le moyen de transport n'a pas déjà été mis en circulation, une mention selon laquelle le bien n'a fait l'objet d'aucune utilisation ;
 

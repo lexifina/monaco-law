@@ -10,17 +10,17 @@ I. - 1° Tout assujetti est tenu de s'assurer qu'une facture est émise, par lui
 
 - d) Pour les livraisons aux enchères publiques de biens d'occasion, d'œuvres d'art, d'objets de collection ou d'antiquité.
 
-- 2° Les factures peuvent être matériellement émises, au nom et pour le compte de l'assujetti, par le client ou par un tiers lorsque cet assujetti leur donne expressément mandat à cet effet.
+2° Les factures peuvent être matériellement émises, au nom et pour le compte de l'assujetti, par le client ou par un tiers lorsque cet assujetti leur donne expressément mandat à cet effet.
 
-- Le mandat de facturation ainsi établi doit notamment prévoir que l'assujetti conserve l'entière responsabilité de ses conséquences au regard de la TVA.
+Le mandat de facturation ainsi établi doit notamment prévoir que l'assujetti conserve l'entière responsabilité de ses conséquences au regard de la TVA.
 
-- 3° La facture est, en principe, émise dès la réalisation de la livraison ou de la prestation de services.
+3° La facture est, en principe, émise dès la réalisation de la livraison ou de la prestation de services.
 
-- Elle peut toutefois être établie de manière périodique pour plusieurs livraisons de biens ou prestations de services distinctes réalisées entre l'assujetti et son client au titre du même mois civil. Cette facture est établie au plus tard à la fin de ce même mois. Le différé de facturation ne peut en aucun cas avoir pour effet de retarder la déclaration de la taxe exigible au titre des opérations facturées.
+Elle peut toutefois être établie de manière périodique pour plusieurs livraisons de biens ou prestations de services distinctes réalisées entre l'assujetti et son client au titre du même mois civil. Cette facture est établie au plus tard à la fin de ce même mois. Le différé de facturation ne peut en aucun cas avoir pour effet de retarder la déclaration de la taxe exigible au titre des opérations facturées.
 
-- 4° L'assujetti doit conserver un double de toutes les factures émises.
+4° L'assujetti doit conserver un double de toutes les factures émises.
 
-- 5° Tout document ou message qui modifie la facture initiale, émise en application de cet article ou de l'article 71 bis et qui fait référence à la facture initiale de façon spécifique et non équivoque est assimilé à une facture. Il doit comporter l'ensemble des mentions prévues au II.
+5° Tout document ou message qui modifie la facture initiale, émise en application de cet article ou de l'article 71 bis et qui fait référence à la facture initiale de façon spécifique et non équivoque est assimilé à une facture. Il doit comporter l'ensemble des mentions prévues au II.
 
 Une ordonnance souveraine détermine et fixe les conditions et modalités d'application du présent I.
 

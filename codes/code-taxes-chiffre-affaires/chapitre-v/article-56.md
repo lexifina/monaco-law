@@ -30,9 +30,9 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
 - d bis) 1° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans les établissements où il est servi facultativement des consommations ;
 
-  - 2° Les dispositions du 1° s'appliquent aux établissements autorisés à vendre des spiritueux et qui justifient avoir organisé au minimum vingt concerts l'année précédente ;
+- 2° Les dispositions du 1° s'appliquent aux établissements autorisés à vendre des spiritueux et qui justifient avoir organisé au minimum vingt concerts l'année précédente ;
 
-  - 3° Une ordonnance souveraine fixe les modalités d'application des 1° et 2° ;
+- 3° Une ordonnance souveraine fixe les modalités d'application des 1° et 2° ;
 
 - e) les droits d'entrée pour la visite des parcs zoologiques et botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 

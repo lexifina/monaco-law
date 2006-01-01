@@ -18,15 +18,15 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 
 1 - Sont notamment visés :
 
-a) les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article A-18 de l'annexe au code, ainsi que les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de jouissance, ou qui les occupent en droit ou en fait.
+- a) les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article A-18 de l'annexe au code, ainsi que les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de jouissance, ou qui les occupent en droit ou en fait.
 
-Sont notamment visés par l'alinéa précédent les terrains pour lesquels, dans un délai de quatre ans à compter de la date de l'acte qui constate l'opération, l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou commence les travaux nécessaires pour édifier un immeuble ou un groupe d'immeubles ou pour construire de nouveaux locaux en surélévation ;
+- Sont notamment visés par l'alinéa précédent les terrains pour lesquels, dans un délai de quatre ans à compter de la date de l'acte qui constate l'opération, l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou commence les travaux nécessaires pour édifier un immeuble ou un groupe d'immeubles ou pour construire de nouveaux locaux en surélévation ;
 
-b) les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
+- b) les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
 
-c) les livraisons à soi-même d'immeubles.
+- c) les livraisons à soi-même d'immeubles.
 
-Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
+- Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
 
 2 - Les dispositions qui précèdent ne sont pas applicables :
 

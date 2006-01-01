@@ -34,6 +34,6 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
   - c) soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 % de cuivre ;
 
-- d) produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une homologation, soit d'une autorisation de vente ;
+  - d) produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une homologation, soit d'une autorisation de vente ;
 
 - 6° Livres, y compris leur location.

@@ -2,7 +2,7 @@
 
 Par dérogation aux dispositions de l'article 11, le lieu des prestations suivantes est réputé se situer à Monaco :
 
-- 1° Les locations de moyens de transport :
+- 1° Les locations de moyens de transport (Voir l'article A-24 de l'annexe au code) :
 
   - lorsque le prestataire est établi en Principauté et le bien utilisé en Principauté ou en France ou dans un État membre de la Communauté économique européenne autre que la France ;
 
@@ -26,11 +26,11 @@ Par dérogation aux dispositions de l'article 11, le lieu des prestations suivan
 
   - b) lorsque le lieu de départ se trouve dans un État membre de la Communauté économique européenne autre que la France et que le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée.
 
-  - Sont considérés comme transports intracommunautaires de biens les transports dont le lieu de départ et le lieu d'arrivée se trouvent respectivement en Principauté ou en France et dans un État membre de la Communauté économique européenne autre que la France.
+- Sont considérés comme transports intracommunautaires de biens les transports dont le lieu de départ et le lieu d'arrivée se trouvent respectivement en Principauté ou en France et dans un État membre de la Communauté économique européenne autre que la France.
 
-  - Sont assimilés à des transports intracommunautaires de biens les transports de biens, dont le lieu de départ et le lieu d'arrivée se trouvent à Monaco ou en France, lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
+- Sont assimilés à des transports intracommunautaires de biens les transports de biens, dont le lieu de départ et le lieu d'arrivée se trouvent à Monaco ou en France, lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
 
-- 5° Les prestations de transports, autres que les transports intracommunautaires de biens meubles corporels, pour la distance parcourue à Monaco et en France ;
+- 5° Les prestations de transports, autres que les transports intracommunautaires de biens meubles corporels, pour la distance parcourue à Monaco et en France (Voir l'article A-25 de l'annexe au code) ;
 
 - 6° Les prestations ci-après lorsqu'elles sont matériellement exécutées en Principauté ou en France :
 
