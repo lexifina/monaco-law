@@ -68,9 +68,9 @@ Estampille annuelle des cyclomoteurs, motocycles, tricycles, quadricycles et rem
 
 - Cyclomoteurs, motocycles, tricycles et quadricycles électriques ............ | 0,00 euro(s)
 
-Motocycles, tricycles, quadricycles de puissance inférieure ou égale à 8 chevaux immatriculés au nom de commerces ou de sociétés | 25,00 euro(s)
+Motocycles, tricycles, quadricycles de puissance inférieure ou égale à 8 chevaux immatriculés au nom de commerces ou de sociétés | 100,00 euro(s)
 
-Motocycles, tricycles, quadricycles de puissance supérieure à 8 chevaux immatriculés au nom de commerces ou de sociétés ............ | 100,00 euro(s)
+Motocycles, tricycles, quadricycles de puissance supérieure à 8 chevaux immatriculés au nom de commerces ou de sociétés ............ | 400,00 euro(s)
 
 Cyclomoteurs, motocycles, tricycles et quadricycles immatriculés en série « Z » ou « TT » ............ | 336,00 euro(s)
 
