@@ -1,17 +1,17 @@
 # Article 9
 
-Pour être autorisés à stationner aux emplacements fixés par l'article premier, les véhicules de transport en commun seront soumis à un droit d'occupation annuel du domaine public, fixé comme suit :
+Pour être autorisés à stationner aux emplacements fixés par l'article 1er, les véhicules de transport en commun seront soumis à un droit d'occupation annuel du domaine public, fixé comme suit :
 
-- véhicules de 10 places au plus............ | 40 euro(s)
+- véhicules de 10 places au plus............ | 41,00 euro(s)
 
-- véhicules de 11 à 20 places ............ | 79,50 euro(s)
+- véhicules de 11 à 20 places ............ | 81,00 euro(s)
 
-- véhicules de 21 à 30 places ............ | 116 euro(s)
+- véhicules de 21 à 30 places ............ | 118,50 euro(s)
 
-- véhicules de 31 à 40 places ............ | 157 euro(s)
+- véhicules de 31 à 40 places ............ | 160,00 euro(s)
 
-- véhicules de 41 à 50 places ............ | 221 euro(s)
+- véhicules de 41 à 50 places ............ | 225,50 euro(s)
 
-- véhicules de plus de 50 places............ | 245 euro(s)
+- véhicules de plus de 50 places............ | 250,00 euro(s)
 
 Le paiement de ces droits sera constaté par un récépissé délivré par la Recette municipale. Ce récépissé devra être présenté par le conducteur à toute réquisition des représentants de l'Autorité.
