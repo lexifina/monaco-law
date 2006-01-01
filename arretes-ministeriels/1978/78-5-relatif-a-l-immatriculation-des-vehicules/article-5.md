@@ -14,4 +14,4 @@ L'estampille validant l'immatriculation des véhicules est attribuée dans les c
 
 Après le 10 janvier de chaque année si aucun renouvellement de l'immatriculation d'un véhicule n'a été sollicité, toute immatriculation est, après mise en demeure de l'Administration restée sans effet dans un délai de 10 jours, considérée comme nulle et l'utilisation de la plaque périmée punie, conformément aux dispositions des articles 101 et 207 de l'ordonnance n° 1691 du 17 décembre 1957 modifiée.
 
-Dans le cas d'une mise en demeure suivie d'effet dans le délai imparti, toute personne qui ne pourrait justifier le retard est tenue de régler en sus des droits normaux à percevoir, une somme correspondant au montant de l'estampille de l'année considérée.
+Dans le cas d'une mise en demeure suivie d'effet dans le délai imparti, toute personne qui ne pourrait justifier le retard est tenue de régler en sus des droits normaux à percevoir, une somme forfaitaire fixée par arrêté ministériel.

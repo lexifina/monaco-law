@@ -16,9 +16,9 @@ Véhicules dont le déclarant remplit les conditions fixées par l'article 102 d
 
 - couleur des caractères : bleu.
 
-- Pour les motocycles et assimilés y compris les cyclomoteurs :
+Pour les motocycles et assimilés y compris les cyclomoteurs :
 
-  - deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99 et VE01 à VE99) ;
+- deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99 et VE01 à VE99) ;
 
 Les lettres étant choisies dans la liste :
 
@@ -314,7 +314,7 @@ La location des véhicules immatriculés dans cette série doit, lorsqu'elle exc
 
 Cet agrément ne peut être accordé qu'à condition que les locataires des véhicules justifient d'une résidence à Monaco.
 
-Véhicules disposant d'une source d'énergie principale électrique et dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1691 du 17 décembre 1957, susvisée :
+Véhicules disposant d'une source d'énergie principale électrique et dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, susvisée :
 
 - couleur de caractère : bleu
 
