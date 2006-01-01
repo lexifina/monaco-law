@@ -1,0 +1,12 @@
+# Arrêté ministériel n° 2005-426 du 30 août 2005 modifiant l'arrêté ministériel n° 90-137 du 23 mars 1990 fixant le montant des droits sur les pièces administratives établies ou délivrées par application des dispositions du Code de la Route
+
+Version en vigueur au 1er janvier 2006.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/08-30-2005-426@2006.01.01/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 30 août 2005 |
+| Publication | Journal de Monaco du 2 septembre 2005 |
