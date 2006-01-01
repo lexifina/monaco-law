@@ -1,3 +1,3 @@
 # Article 18
 
-Le Conseil consultatif des études postales (C.C.E.P.) est chargé d'effectuer des études et d'émettre des avis sur des questions techniques, d'exploitation et économiques intéressant le service postal (1).
+Le Conseil d'exploitation postale (CEP) est chargé des questions d'exploitation, commerciales, techniques et économiques intéressant le service postal.
