@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2006-139 du 7 mars 2006 portant fixation du montant des ressources personnelles telles que prévues à l'ordonnance n° 449 du 7 mars 2006 fixant les portions saisissables ou cessibles des rémunérations, traitement et arrérages annuels
