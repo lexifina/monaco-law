@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services judiciaires n° 2006-3 du 23 janvier 2006 fixant les conditions d'application de l'ordonnance n°352 du 10 janvier 2006 relative à l'indemnisation de l'assistance judiciaire et des commissions d'office
