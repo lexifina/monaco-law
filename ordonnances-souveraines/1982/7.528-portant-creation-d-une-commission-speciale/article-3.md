@@ -1,6 +1,6 @@
 # Article 3
 
-Placée sous la présidence de S.E.M. le Ministre d'État, la Commission spéciale consultative pour le commerce et l'industrie est composée comme suit :
+Placée sous la présidence de S.E.M. le Ministre d'État, la Commission Spéciale Consultative pour le Commerce et l'Industrie est composée comme suit :
 
 - le Conseiller de Gouvernement pour les Finances et l'Économie, Vice-Président ;
 
@@ -8,25 +8,27 @@ Placée sous la présidence de S.E.M. le Ministre d'État, la Commission spécia
 
 - un représentant du Département de l'Équipement, de l'Environnement et de l'Urbanisme ;
 
-- un représentant du Département des Affaires sociales et de la Santé ;
+- un représentant du Département des Affaires Sociales et de la Santé ;
 
 - un représentant du Département de l'Intérieur ;
 
-- un représentant du Conseil national ;
+- un représentant du Conseil National ;
 
-- un représentant du Conseil économique et social;
+- un représentant du Conseil Économique et Social ;
 
-- le directeur de l'Expansion économique ;
+- le Maire ou son représentant ;
 
-- un représentant de la direction du Tourisme et des Congrès ;
+- le Directeur de l'Expansion Économique ;
 
-- un représentant de la Fédération patronale monégasque ;
+- un représentant de la Direction du Tourisme et des Congrès ;
 
-- un représentant de l'Union des commerçants et artisans de Monaco ;
+- un représentant de la Fédération Patronale Monégasque ;
 
-- un représentant de l'Association des industries hôtelières monégasques ;
+- un représentant de l'Union des Commerçants et Artisans de Monaco ;
 
-- un représentant du Groupement d'étude des industries de transformation ;
+- un représentant de l'Association des Industries Hôtelières Monégasques ;
+
+- un représentant du Groupement d'Étude des Industries de Transformation ;
 
 - deux personnes choisies en fonction de leur compétence dans le domaine commercial ou industriel.
 
