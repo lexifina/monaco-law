@@ -1,7 +1,5 @@
 # Article 5
 
-L'amende encourue pour refus de communication, dans les conditions prévues par les articles 3 et 4, est de 10 000 à 50 000 euros
+Les agents de la Direction des Services Fiscaux ayant au moins le grade d'inspecteur sont habilités à procéder à l'examen sur place des livres dont la tenue est prescrite par le Code de Commerce ainsi que tous livres annexes, pièces de recettes et de dépenses et documents généralement quelconques de nature à justifier le montant des bénéfices commerciaux ou non commerciaux déclarés en France par les personnes fiscalement domiciliées dans ce pays qui exercent une activité professionnelle sur le territoire de la Principauté.
 
-Indépendamment de cette amende, les contrevenants doivent, en cas d'instance, être condamnés à représenter les pièces ou documents non communiqués, sous une astreinte de 20 euros, au minimum par chaque jour de retard. Cette astreinte, non soumise aux décimes, commence à courir de la date de la signature par les parties ou de la notification du procès-verbal qui est dressé pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne cesse que du jour où il est constaté, au moyen d'une mention inscrite, par un agent de contrôle de la direction des services fiscaux, sur un des principaux livres de la société ou de l'établissement, que l'administration a été mise à même d'obtenir la communication ordonnée.
-
-Le recouvrement de l'astreinte est suivi comme en matière d'enregistrement.
+Tout refus de communication des documents précités est constaté par un procès-verbal, lequel, après notification est transmis au Parquet Général qui renvoie aux fins de poursuites devant le tribunal correctionnel.
