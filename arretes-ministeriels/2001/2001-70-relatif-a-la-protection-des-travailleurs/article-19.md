@@ -1,6 +1,6 @@
 # Article 19
 
-Appareils à pression . - I. - L'utilisation de disques de rupture pour la protection des enceintes pressurisées habitables est interdite. Cette protection doit être assurée au moyen d'une soupape de sécurité tarée.
+I. - L'utilisation de disques de rupture pour la protection des enceintes pressurisées habitables est interdite. Cette protection doit être assurée au moyen d'une soupape de sécurité tarée.
 
 En outre, une vanne à fermeture rapide, placée entre la soupape tarée et l'enceinte concernée, facilement accessible, maintenue ouverte et scellée par un fil plombé, doit être utilisée pour isoler cette soupape.
 

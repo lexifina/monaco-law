@@ -1,6 +1,6 @@
 # Article 11
 
-L'Oxygène . - I. - La respiration d'oxygène pur sous pression avec un appareil respiratoire individuel est réservée aux périodes de décompression conformément à des tables approuvées par le Ministre d'État sur proposition de la Commission instituée à l'article 5 ou aux périodes de traitement des accidents liés à l'hyperbarie.
+I. - La respiration d'oxygène pur sous pression avec un appareil respiratoire individuel est réservée aux périodes de décompression conformément à des tables approuvées par le Ministre d'État sur proposition de la Commission instituée à l'article 5 ou aux périodes de traitement des accidents liés à l'hyperbarie.
 
 II. - La pression partielle d'oxygène d'un mélange respiré ne doit pas être inférieure à 160 hectopascals (160 millibars).
 

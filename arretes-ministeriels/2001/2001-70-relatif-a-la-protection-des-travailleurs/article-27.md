@@ -1,6 +1,6 @@
 # Article 27
 
-Risques d'incendie . - L'employeur doit veiller à ce que toutes dispositions de prévention contre l'incendie soient prises à l'intérieur et à l'extérieur des enceintes.
+L'employeur doit veiller à ce que toutes dispositions de prévention contre l'incendie soient prises à l'intérieur et à l'extérieur des enceintes.
 
 Les moyens d'extinction intérieurs aux enceintes habitées doivent être efficaces en atmosphère pressurisée.
 

@@ -1,6 +1,6 @@
 # Article 13
 
-Air et mélanges respiratoires préparés dans l'établissement ou sur le chantier . - L'air et les mélanges fournis par des compresseurs et destinés à la respiration hyperbare doivent être analysés après tout montage d'une installation nouvelle, puis au moins une fois par an, ainsi qu'après constatation d'une anomalie ou après toute réparation de l'installation.
+L'air et les mélanges fournis par des compresseurs et destinés à la respiration hyperbare doivent être analysés après tout montage d'une installation nouvelle, puis au moins une fois par an, ainsi qu'après constatation d'une anomalie ou après toute réparation de l'installation.
 
 Ces analyses doivent permettre de vérifier, le cas échéant, le respect des dispositions de l'article 9.
 
