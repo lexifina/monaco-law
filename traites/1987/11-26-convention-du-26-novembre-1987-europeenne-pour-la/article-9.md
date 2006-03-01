@@ -1,0 +1,5 @@
+# Article 9
+
+1. Dans des circonstances exceptionnelles, les autorités compétentes de la Partie concernée peuvent faire connaître au Comité leurs objections à la visite au moment envisagé par le Comité ou au lieu déterminé que ce Comité a l'intention de visiter. De telles objections ne peuvent être faites que pour des motifs de défense nationale ou de sûreté publique ou en raison de troubles graves dans les lieux où des personnes sont privées de liberté, de l'état de santé d'une personne ou d'un interrogatoire urgent, dans une enquête en cours, en relation avec une infraction pénale grave.
+
+2. Suite à de telles objections, le Comité et la Partie se consultent immédiatement afin de clarifier la situation et pour parvenir à un accord sur des dispositions permettant au Comité d'exercer ses fonctions aussi rapidement que possible. Ces dispositions peuvent comprendre le transfert dans un autre endroit de toute personne que le Comité a l'intention de visiter. En attendant que la visite puisse avoir lieu, la Partie fournit au Comité des informations sur toute personne concernée.
