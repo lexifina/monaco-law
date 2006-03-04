@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 361 du 10 janvier 2006 rendant exécutoire le Protocole additionnel à l'Accord général sur les privilèges et immunités du Conseil de l'Europe, conclu à Strasbourg le 6 novembre 1952
