@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 410 du 15 février 2006 rendant exécutoire le Protocole n° 6 à la Convention Européenne de sauvegarde des Droits de l'Homme et des Libertés fondamentales concernant l'abolition de la peine de mort, ouvert à la signature le 28 avril 1983
