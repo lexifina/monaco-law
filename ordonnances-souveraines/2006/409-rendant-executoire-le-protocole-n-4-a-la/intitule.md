@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 409 du 15 février 2006 rendant exécutoire le Protocole n° 4 à la Convention Européenne de sauvegarde des Droits de l'Homme et des Libertés fondamentales, reconnaissant certains droits et libertés autres que ceux figurant déjà dans la Convention et dans le premier Protocole additionnel
