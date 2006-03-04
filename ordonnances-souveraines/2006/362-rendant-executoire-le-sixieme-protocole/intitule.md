@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 362 du 10 janvier 2006 rendant exécutoire le Sixième Protocole additionnel à l'Accord général sur les privilèges et immunités du Conseil de l'Europe, conclu à Strasbourg le 5 mars 1996
