@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 407 du 15 février 2006 rendant exécutoire le Traité destiné à adapter et à confirmer les rapports d'amitié et de coopération entre la Principauté de Monaco et la République française, signé à Paris le 24 octobre 2002
