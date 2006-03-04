@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 408 du 15 février 2006 rendant exécutoire la Convention Européenne de sauvegarde des Droits de l'Homme et des Libertés fondamentales, ouverte à la signature le 4 novembre 1950 et telle qu'amendée par le Protocole n° 11
