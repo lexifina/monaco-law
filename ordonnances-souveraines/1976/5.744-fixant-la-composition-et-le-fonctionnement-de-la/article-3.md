@@ -1,6 +1,6 @@
 # Article 3
 
-La commission de la fonction publique se réunit aux dates fixées par son président. Celui-ci la convoque au moins une fois par semestre et chaque fois qu'elle est saisie à la requête de la majorité des membres représentant les syndicats. Dans ce dernier cas, la commission doit être réunie dans le mois qui suit l'enregistrement de la requête à son secrétariat.
+La Commission de la fonction publique se réunit aux dates fixées par son président. Celui-ci la convoque au moins une fois par semestre et chaque fois qu'elle est saisie à la requête de la majorité des membres représentant les syndicats. Dans ce dernier cas, la commission doit être réunie dans le mois qui suit l'enregistrement de la requête à son secrétariat.
 
 Le président arrête l'ordre du jour et désigne un rapporteur pour chacune des questions qui y sont inscrites.
 

@@ -1,12 +1,12 @@
 # Article 1er
 
-La commission de la fonction publique, instituée par l'article 26 de la loi n° 975, du 12 juillet 1975 et présidée par le ministre d'État ou un conseiller de Gouvernement désigné par lui, est composée :
+La Commission de la fonction publique, instituée par l'article 26 de la loi n° 975, du 12 juillet 1975 et présidée par le Ministre d'État ou un conseiller de Gouvernement désigné par lui, est composée :
 
-1° de fonctionnaires représentant l'administration, choisis comme suit :
+1° de fonctionnaires représentant l'Administration, choisis comme suit :
 
-- trois au moins sont désignés, ainsi que leurs suppléants, par le ministre d'État ;
+- trois au moins sont désignés, ainsi que leurs suppléants, par le Ministre d'État,
 
-- trois, représentant respectivement chacun des départements, sont désignés, ainsi que leurs suppléants, par les chefs de ces départements ;
+- cinq, représentant respectivement chacun des départements, sont désignés, ainsi que leurs suppléants, par les chefs de ces départements.
 
 2° de fonctionnaires représentant les divers syndicats et désignés par ceux-ci à raison d'un délégué et de son suppléant par organisation syndicale de fonctionnaires régulièrement constituée.
 
