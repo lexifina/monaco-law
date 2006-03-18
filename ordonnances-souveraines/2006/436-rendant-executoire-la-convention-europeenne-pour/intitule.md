@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 436 du 27 février 2006 rendant exécutoire la Convention européenne pour la prévention de la torture et des peines ou traitements inhumains ou dégradants, conclue à Strasbourg le 26 novembre 1987
