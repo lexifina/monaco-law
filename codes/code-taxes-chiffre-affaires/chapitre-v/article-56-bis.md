@@ -2,12 +2,18 @@
 
 1. La TVA est perçue au taux réduit sur les travaux d'amélioration, de transformation, d'aménagement et d'entretien portant sur des locaux à usage d'habitation, achevés depuis plus de deux ans à l'exception de la fourniture d'équipements ménagers ou mobiliers.
 
-2. Cette disposition n'est pas applicable :
+2. Cette disposition n'est pas applicable aux travaux réalisés sur une période de deux ans au plus:
 
-- a) Aux travaux qui concourent à la production ou à la livraison d'immeubles au sens du 5° de l'article 5.
+- a) qui concourent à la production d'un immeuble au sens des deuxième à sixième alinéa du c du 1 du 5° de l'article 5 ;
 
-- b) Aux travaux de nettoyage ainsi qu'aux travaux d'aménagement et d'entretien des espaces verts.
+- b) à l'issue desquels la surface de plancher hors ouvre nette des locaux existants est majorée de plus de 10 %.
 
-3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou le cas échéant au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux an. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
+2 bis. La disposition mentionnée au 1 n'est pas applicable aux travaux de nettoyage ainsi qu'aux travaux d'aménagement et d'entretien des espaces verts.
+
+3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou le cas échéant au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux an et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
+
+Le preneur doit conserver copie de cette attestation ainsi que les factures ou notes émises par les entreprises ayant réalisé des travaux jusqu'au 31 décembre de la cinquième année suivant la réalisation de ces travaux.
+
+Le preneur est solidairement tenu au paiement du complément de taxe si les mentions portées sur l'attestation s'avèrent inexactes de son fait.
 
 4. Ces dispositions s'appliquent aux opérations pour lesquelles une facture a été émise à compter du 15 septembre 1999.

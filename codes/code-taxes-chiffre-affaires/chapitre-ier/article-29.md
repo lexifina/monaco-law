@@ -10,7 +10,7 @@ Lorsque la livraison porte sur des biens à emporter dans les bagages personnels
 
 - a) Le voyageur n'a pas son domicile ou sa résidence habituelle à Monaco, en France ou dans un autre État membre de la Communauté européenne.
 
-- b) La livraison ne porte pas sur les produits alimentaires solides et liquides, les tabacs manufacturés, les pierres précieuses non montées, les marchandises qui correspondent par leur nature ou leur qualité à un approvisionnement commercial ainsi que celles qui sont frappées d'une prohibition de sortie.
+- b) La livraison ne porte pas sur les tabacs manufacturés les marchandises qui correspondent par leur nature ou leur qualité à un approvisionnement commercial ainsi que celles qui sont frappées d'une prohibition de sortie.
 
 - c) Les biens sont transportés en dehors de la Principauté et de la Communauté européenne avant la fin du troisième mois suivant celui au cours duquel la livraison est effectuée.
 
@@ -28,7 +28,7 @@ II. - Sont également exonérés de la taxe sur la valeur ajoutée :
 
   - les bateaux affectés à la pêche professionnelle maritime, les bateaux de sauvetage et d'assistance en mer ;
 
-- 3° Les opérations de livraison, de location, de réparation et d'entretien portant sur des objets destinés à être incorporés dans ces bateaux ou utilisés pour leur exploitation en mer ou sur les fleuves internationaux, ainsi que sur les engins et filets pour la pêche maritime ;
+- 3° Les opérations de livraison, de location, de réparation et d'entretien portant sur des objets destinés à être incorporés dans ces bateaux ou utilisés pour leur exploitation en mer ou sur les fleuves internationaux, ainsi que sur les engins et filets pour la pêche maritime (Voir les articles A-163 à A-166 de l'annexe au code) ;
 
 - 4° Les opérations de livraison, de transformation, de réparation, d'entretien, d'affrètement et de location portant sur les aéronefs utilisés par des compagnies de navigation aérienne dont les services à destination ou en provenance d'un pays étranger autre que la France ou des territoires et départements français d'outre-mer, à l'exclusion de la France métropolitaine, représentent au moins 80 % des services qu'elles exploitent ;
 

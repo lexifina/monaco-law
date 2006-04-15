@@ -16,6 +16,6 @@ L'option mentionnée à l'article 16 ne s'applique pas :
 
 - 6° Aux opérations visées aux d) et g) du 1° de l'article 25 ;
 
-- 7° Aux commissions perçues lors de l'émission et du placement d'emprunts obligataires.
+- 7° Aux commissions perçues lors de l'émission et du placement d'emprunts obligataires et d'actions..
 
 - 8° Aux opérations portant sur les produits de capitalisation relevant de la réglementation relative aux assurances telle qu'elle résulte de la Convention franco-monégasque du 18 mai 1963.

@@ -12,7 +12,7 @@ Lorsque le client ou le tiers mandaté par l'assujetti pour émettre les facture
 
 - b) les factures concernées sont émises dès la réalisation de la livraison ou de la prestation de services sans que puisse être utilisée la possibilité de délivrer des factures périodiques dans les conditions prévues au deuxième alinéa du 3 du I de l'article 71 du Code des taxes.
 
-II - Les factures périodiques visées au 3 du I de l'article 71 du Code des taxes ne peuvent être émises que lorsque l'assujetti réalise, au cours du même mois civil, plusieurs opérations au profit d'un même client.
+- II - Les factures périodiques visées au 3 du I de l'article 71 du Code des taxes ne peuvent être émises que lorsque l'assujetti réalise, au cours du même mois civil, plusieurs opérations au profit d'un même client.
 
 Pour chaque livraison de biens ou prestation de services réalisée, un bon de livraison, ou un document en tenant lieu, numéroté et comportant l'identité et l'adresse du client, la date de l'opération ainsi que la quantité et la dénomination précise des biens livrés ou services rendus est émis en double exemplaire.
 

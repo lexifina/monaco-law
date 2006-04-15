@@ -2,6 +2,10 @@
 
 1. La taxe sur la valeur ajoutée doit être acquittée par les personnes qui réalisent les opérations imposables, sous réserve des cas visés aux articles 48 à 50 A où le versement de la taxe peut être suspendu.
 
+Toutefois, lorsque la livraison de biens ou la prestation de services est effectuée par un assujetti établi hors de Monaco et de la France, la taxe est acquittée par l'acquéreur, le destinataire ou le preneur qui dispose, sous couvert du représentant fiscal tel que prévu par l'article 72, d'un numéro d'identification à la TVA en Principauté.
+
+Le montant dû est identifié sur la déclaration mentionnée à l'article 70.
+
 2. Pour les opérations imposables mentionnées aux 4°, 6° bis, 7° et 8° de l'article 12 et réalisées par un prestataire établi hors de Monaco et de la France, ainsi que pour celles qui sont mentionnées à l'article 13, la taxe doit être acquittée par le preneur. Toutefois, le prestataire est solidairement tenu avec ce dernier au paiement de la taxe.
 
 3. Pour les acquisitions intracommunautaires de biens imposables mentionnées à l'article 9, la taxe doit être acquittée par l'acquéreur. Toutefois, le vendeur est solidairement tenu avec ce dernier au paiement de la taxe, lorsque l'acquéreur est établi hors de la Principauté et de la France.

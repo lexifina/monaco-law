@@ -8,7 +8,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
   - a) des produits de confiserie ;
 
-  - b) des chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage, le chocolat de ménage au lait, les fèves de cacao et le beurre de cacao sont admis au taux réduit ;
+  - b) des chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons au chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit ;
 
   - c) des margarines et graisses végétales ;
 

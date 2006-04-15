@@ -4,7 +4,7 @@ Sans préjudice des dispositions particulières relatées dans le présent code,
 
 Toutefois, cette disposition n'est applicable, en cas de dissimulation, que si celle-ci excède le dixième de la somme imposable ou le chiffre de 150 €.
 
-Le tribunal correctionnel ordonnera dans tous les cas la publication intégrale ou par extraits des jugements dans le « Journal de Monaco », ainsi que dans les journaux désignés par lui, et leur affichage intégral ou par extraits pendant trois mois sur les panneaux réservés à l'affichage des publications officielles, ainsi que sur la partie extérieure de l'immeuble du ou des établissements professionnels de ces redevables.
+Le tribunal correctionnel ordonnera dans tous les cas la publication intégrale ou par extraits des jugements dans le » Journal de Monaco «, ainsi que dans les journaux désignés par lui, et leur affichage intégral ou par extraits pendant trois mois sur les panneaux réservés à l'affichage des publications officielles, ainsi que sur la partie extérieure de l'immeuble du ou des établissements professionnels de ces redevables.
 
 En cas de récidive, dans le délai de cinq ans, le redevable est puni d'une amende de 2 250 € à 100 000 € et d'un emprisonnement de quatre à dix ans. L'affichage et la publicité du jugement sont ordonnés dans les conditions de l'alinéa précédent.
 
