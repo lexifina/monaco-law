@@ -8,7 +8,9 @@ Par dérogation aux dispositions qui précèdent, chaque établissement émet sa
 
 2) Dans le cas où la durée du séjour dans l'établissement de repli est supérieure à 48 heures, chaque établissement facture séparément sa prestation aux régimes d'assurance maladie.
 
-Dans l'hypothèse d'un retour du patient de l'établissement de repli vers l'établissement d'origine, ce dernier facture un GHS correspondant à ce nouveau séjour en appliquant la règle de minoration du montant du forfait prévue au chiffre 2 de l'article 4.
+Dans l'hypothèse d'un retour du patient de l'établissement de repli vers l'établissement d'origine, ce dernier facture un GHS correspondant à ce nouveau séjour, sur la base de 50 % de son tarif, dès lors que les prestations délivrées au cours des deux séjours réalisés dans l'établissement donnent lieu à la production du même GHM.
+
+L'abattement tarifaire visé à l'alinéa précédent n'est pas appliqué lorsque la prise en charge " du patient relève d'un traitement itératif.
 
 3) Dans tous les cas, la justification du transfert d'établissement est soumise à l'appréciation du Contrôle Médical de la CCSS ou de la CAMTI.
 
