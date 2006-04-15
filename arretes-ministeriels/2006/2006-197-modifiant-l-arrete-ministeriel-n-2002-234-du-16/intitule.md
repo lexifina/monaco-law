@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2006-197 du 7 avril 2006 modifiant l'arrêté ministériel n° 2002-234 du 16 juillet 2002 portant application de l'ordonnance n° 15.321 du 8 avril 2002 relative aux procédures de gel de fonds aux fins de lutte contre le terrorisme

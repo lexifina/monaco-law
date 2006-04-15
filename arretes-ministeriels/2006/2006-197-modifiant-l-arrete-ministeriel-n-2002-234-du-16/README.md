@@ -1,0 +1,12 @@
+# Arrêté ministériel n° 2006-197 du 7 avril 2006 modifiant l'arrêté ministériel n° 2002-234 du 16 juillet 2002 portant application de l'ordonnance n° 15.321 du 8 avril 2002 relative aux procédures de gel de fonds aux fins de lutte contre le terrorisme
+
+Version en vigueur au 15 avril 2006.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2006/04-07-2006-197@2006.04.15/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 7 avril 2006 |
+| Publication | Journal de Monaco du 14 avril 2006 |
