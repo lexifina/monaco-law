@@ -1,0 +1,1 @@
+Sont approuvés la convention, le cahier des charges et leurs annexes de la concession du service public du nettoiement des voies publiques de la Principauté, signés le 19 décembre 2005 entre Notre Administrateur des Domaines et M. Guy MAGNAN, Président Délégué de la Société Monégasque d'Assainissement.
