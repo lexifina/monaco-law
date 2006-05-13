@@ -90,6 +90,8 @@ Les postes consulaires sont les suivants :
 
 - Maroc : Rabat ;
 
+- Mauritanie : Nouakchott ;
+
 - Mexique : Mexico ; Casablanca ;
 
 - Niger : Niamey ;
@@ -110,7 +112,7 @@ Les postes consulaires sont les suivants :
 
 - Portugal : Lisbonne, Ponta Delgada, Porto ;
 
-- R ussie (Fédération de) : Moscou, Saint-Pétersbourg ;
+- Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
 - Saint-Marin : Saint-Marin ;
 
