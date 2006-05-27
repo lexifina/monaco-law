@@ -1,6 +1,6 @@
 # Article 18
 
-Lorsque dans les emplacements équipés d'appareils de type « horodateur », le temps de stationnement acquis par avance est expiré, l'usager devra acquitter une redevance de 3 euros dans un délai de 5 jours.
+Lorsque dans les emplacements équipés d'appareils de type « horodateur », le temps de stationnement acquis par avance est expiré, l'usager devra acquitter une redevance de 3 eurosdans un délai de 5 jours.
 
 Cette redevance l'autorisera à demeurer sur son emplacement pendant une demi-heure.
 

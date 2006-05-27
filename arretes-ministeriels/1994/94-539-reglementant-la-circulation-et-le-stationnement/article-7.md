@@ -8,7 +8,9 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - le quai Antoine 1er dans sa partie comprise entre la route de la Piscine et le virage dit de la Rascasse,
 
-- l'enracinement de l'appontement central du port jusqu'à la barrière délimitant la zone d'accès réglementé.
+- l'enracinement de l'appontement central du port jusqu'à la barrière délimitant la zone d'accès réglementé,
+
+- l'esplanade de la darse Sud.
 
 Ces emplacements sont équipés d'appareils de type « horodateur ». L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
 
