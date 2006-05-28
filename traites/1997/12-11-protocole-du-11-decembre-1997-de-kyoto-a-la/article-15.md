@@ -1,0 +1,7 @@
+# Article 15
+
+1. L'Organe subsidiaire de conseil scientifique et technologique et l'Organe subsidiaire de mise en œuvre de la Convention créés par les articles 9 et 10 de la Convention font office, respectivement, d'Organe subsidiaire de conseil scientifique et technologique et d'Organe subsidiaire de mise en œuvre du présent Protocole. Les dispositions de la Convention relatives au fonctionnement de ces deux organes s'appliquent mutatis mutandis au présent Protocole. Les réunions de l'Organe subsidiaire de conseil scientifique et technologique et de l'Organe subsidiaire de mise en œuvre du présent Protocole coïncident avec celles de l'Organe subsidiaire de conseil scientifique et technologique et de l'Organe subsidiaire de mise en œuvre de la Convention.
+
+2. Les Parties à la Convention qui ne sont pas parties au présent Protocole peuvent participer en qualité d'observateurs aux travaux de toute session des organes subsidiaires. Lorsque les organes subsidiaires agissent en tant qu'organes subsidiaires du présent Protocole, les décisions relevant dudit Protocole sont prises uniquement par celles des Parties à la Convention qui sont Parties à cet instrument.
+
+3. Lorsque les organes subsidiaires créés par les articles 9 et 10 de la Convention exercent leurs fonctions dans un domaine qui relève du présent Protocole, tout membre de leur bureau représentant une Partie à la Convention qui, à ce moment-là, n'est pas partie au présent Protocole est remplacé par un nouveau membre élu par les Parties au Protocole et parmi celles-ci.

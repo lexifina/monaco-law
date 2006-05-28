@@ -1,0 +1,3 @@
+# Article 17
+
+La Conférence des Parties définit les principes, les modalités, les règles et les lignes directrices à appliquer en ce qui concerne notamment la vérification, l'établissement de rapports et l'obligation redditionnelle en matière d'échange de droits d'émission. Les Parties visées à l'annexe B peuvent participer à des échanges de droits d'émission aux fins de remplir leurs engagements au titre de l'article 3. Tout échange de ce type vient en complément des mesures prises au niveau national pour remplir les engagements chiffrés de limitation et de réduction des émissions prévu dans cet article.
