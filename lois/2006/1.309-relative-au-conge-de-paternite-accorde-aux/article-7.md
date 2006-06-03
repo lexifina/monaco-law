@@ -1,0 +1,5 @@
+# Article 7
+
+Pendant la durée légale du congé de paternité, le salarié conserve ses droits d'ancienneté dans l'entreprise.
+
+Cette période est assimilée à du temps de travail effectif pour la détermination de la durée des congés payés annuels.
