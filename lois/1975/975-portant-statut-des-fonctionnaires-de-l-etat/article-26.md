@@ -6,4 +6,4 @@ Sans préjudice des dispositions du présent statut, la commission est saisie pa
 
 La commission de la fonction publique émet des avis motivés.
 
-Sa composition et son fonctionnement sont fixés par une ordonnance souveraine prise après avis du Conseil d'Etat.
+Sa composition et son fonctionnement sont fixés par une ordonnance souveraine prise après avis du Conseil d'État.

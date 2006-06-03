@@ -6,4 +6,4 @@ Dans tous les cas de congé de maladie prévus aux articles 50, 51, 52 et 53, le
 
 L'allocation d'assistance-décès prévue au chiffre 3° de l'article 31 est calculée sur l'intégralité du traitement afférent à l'emploi auquel le fonctionnaire décédé a été nommé ou au grade et à la classe ou échelon auxquels il est parvenu.
 
-La période d'activité à temps partiel est suspendue pendant la durée du congé de maternité. Les bénéficiaires de ce congé sont, en conséquence, rétablies, durant la durée de ce congé, dans les droits des fonctionnaires exerçant leurs fonctions à temps plein.
+La période d'activité à temps partiel est suspendue pendant la durée d'un congé de maternité, de paternité ou d'adoption. Les bénéficiaires de tels congés sont, en conséquence, rétablis, durant la durée de ces congés, dans les droits des fonctionnaires exerçant leurs fonctions à temps plein.
