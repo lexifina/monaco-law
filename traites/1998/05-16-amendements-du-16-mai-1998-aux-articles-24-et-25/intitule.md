@@ -1,0 +1,1 @@
+Amendements du 16 mai 1998 aux articles 24 et 25 de la Constitution de l'Organisation Mondiale de la Santé, adoptés à Genève par la résolution WHA 51.23 de la Cinquante-et-Unième Assemblée Mondiale de la Santé
