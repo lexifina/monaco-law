@@ -8,4 +8,4 @@ La désaffectation des biens du domaine public ne peut être prononcée que par 
 
 Le transfert de biens du domaine public communal au domaine public ou privé de l'État ne peut être opéré que par la loi ; il en est de même pour le transfert au domaine public ou privé de la commune de biens du domaine public de l'État.
 
-Le conseil communal doit formuler ses propositions ou être consulté par le Ministre d'État préalablement à l'incorporation de biens par la loi au domaine public de la commune, à la désaffectation de ces biens ou à leur transfert au domaine de l'État.
+Le Conseil communal doit formuler ses propositions ou être consulté par le Ministre d'État préalablement à l'incorporation de biens par la loi au domaine public de la commune, à la désaffectation de ces biens ou à leur transfert au domaine de l'État.

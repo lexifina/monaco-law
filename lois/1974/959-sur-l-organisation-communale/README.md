@@ -1,8 +1,8 @@
 # Loi n° 959 du 24 juillet 1974 sur l'organisation communale
 
-Version en vigueur au 26 décembre 1987.
+Version en vigueur au 29 juin 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1974/07-24-959@1987.12.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1974/07-24-959@2006.06.29/
 
 | | |
 | --- | --- |

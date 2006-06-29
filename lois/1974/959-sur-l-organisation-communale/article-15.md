@@ -1,6 +1,6 @@
 # Article 15
 
-Au sein du conseil communal, les conseillers prennent rang selon l'ordre du tableau, après le maire et les adjoints.
+Au sein du Conseil communal, les conseillers prennent rang selon l'ordre du tableau, après le Maire et les adjoints.
 
 L'ordre du tableau est déterminé :
 
@@ -10,6 +10,6 @@ L'ordre du tableau est déterminé :
 
 - 3° par la priorité d'âge, lorsqu'il y a égalité de suffrages obtenus.
 
-Les adjoints prennent rang immédiatement après le maire et leur ordre est déterminé au moment de leur élection.
+Les adjoints prennent rang immédiatement après le Maire et leur ordre est déterminé au moment de leur élection.
 
-Un exemplaire du tableau, dressé comme indiqué ci-dessus, est affiché a la mairie ; il y demeure avec, le cas échéant, les modifications nécessaires, jusqu'à l'expiration des pouvoirs du conseil communal en exercice.
+Un exemplaire du tableau, dressé comme indiqué ci-dessus, est affiché a la mairie ; il y demeure avec, le cas échéant, les modifications nécessaires, jusqu'à l'expiration des pouvoirs du Conseil communal en exercice.

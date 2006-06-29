@@ -1,5 +1,13 @@
 # Article 62
 
-La répartition des dotations entre les articles du budget de la commune peut être modifiée par arrêté municipal, opérant virement de crédits, pris après délibération du conseil communal en séance publique, sous réserve que ce virement intervienne à l'intérieur d'un même chapitre et qu'il soit maintenu dans la limite du dixième de la dotation de chacun des articles intéressés.
+La répartition des crédits au sein d'un même article du budget de la commune peut être modifiée par décision du Maire.
 
-Aucun virement de crédit ne peut avoir pour effet de couvrir des dépenses concernant des organismes ou des services nouveaux ou des dépenses dont la nature ou la destination n'est pas prévue par le budget.
+La répartition des dotations entre deux articles d'un même chapitre budgétaire peut être modifiée par délibération du Conseil communal.
+
+La répartition des crédits entre les articles de deux chapitres budgétaires peut être modifiée par arrêté municipal, opérant virement de crédits, pris après délibération du Conseil communal.
+
+Il ne peut être procédé à des virements de crédits entre les sections I et II du budget communal.
+
+Il ne peut être procédé à des virements de crédits entre les chapitres budgétaires de la section II.
+
+Aucun virement de crédits ne peut avoir pour effet de couvrir des dépenses concernant des organismes ou des services nouveaux ou des dépenses dont la nature ou la destination n'est pas prévue au budget.
