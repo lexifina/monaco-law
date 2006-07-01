@@ -4,7 +4,7 @@ Il est institué une commission de contrôle de la gestion de portefeuilles et d
 
 Elle peut, dans le strict respect de la mission qui lui est confiée, sans que le secret professionnel puisse lui être opposé, si ce n'est par les notaires et autres auxiliaires de justice :
 
-- 1° - se faire communiquer tous documents diffusés par les sociétés agréées ainsi que toutes les pièces qu'elle estime utiles et, notamment, tous contrats, livres, documents comptables et registres de procès-verbaux ;
+- 1° - se faire communiquer tous documents diffusés par les sociétés agréées ainsi que toutes les pièces qu'elle estime utiles et, notamment, tous contrats, livres, documents comptables et registres de procès-verbaux, ainsi que tous documents et toutes informations relatifs au bénéficiaire final des opérations effectuées par ces sociétés dont elles doivent connaître l'identité conformément à l'article 10 de la loi n° 1.162 du 7 juillet 1993 modifiée ;
 
 - 2° - recueillir les informations utiles à l'exercice de sa mission auprès des tiers ayant accompli des travaux ou des opérations pour le compte des sociétés agréées ;
 
