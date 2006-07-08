@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2006-308 du 28 juin 2006 modifiant l'annexe I de l'arrêté ministériel n° 2003-167 du 3 mars 2003 relatif aux conditions d'ouverture, de modification et de fonctionnement des établissements pharmaceutiques
