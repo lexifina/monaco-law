@@ -6,4 +6,4 @@ Ne sont pas considérés comme ingrédients :
 
 - 2° Les substances techniques subsidiaires utilisées lors de la fabrication mais ne se retrouvant pas dans la composition du produit fini ;
 
-- 3° Les substances utilisées dans des quantités indispensables en tant que solvants ou vecteurs de parfums et compositions parfumantes.
+- 3° Les substances utilisées dans des quantités indispensables en tant que solvants ou vecteurs de parfums et compositions parfumantes et aromatiques.
