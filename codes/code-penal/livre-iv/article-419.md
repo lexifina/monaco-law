@@ -4,7 +4,7 @@ Seront punis de l'amende prévue au chiffre 3 de l'article 29 :
 
 - 1° ceux qui, en dehors des cas prévus par un texte spécial, auront volontairement causé un dommage aux propriétés mobilières d'autrui ;
 
-- 2°ceux qui auront négligé d'entretenir, réparer ou nettoyer les fours, cheminées ou tous autres dispositifs où il est fait usage de feu ;
+- 2° ceux qui auront négligé d'entretenir, réparer ou nettoyer les fours, cheminées ou tous autres dispositifs où il est fait usage de feu ;
 
 - 3° ceux qui, hors le cas de l'article 31, auront enlevé ou déchiré des affiches apposées par ordre de l'autorité ;
 

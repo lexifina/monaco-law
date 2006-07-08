@@ -4,4 +4,4 @@ Dans les conditions prévues à l'article 12, peut être prononcée, pour tous l
 
 La confiscation des pièces de monnaie et des billets de banque contrefaits ou falsifiés ainsi que des matières, instruments, programmes informatiques et éléments divers destinés à servir à leur fabrication est obligatoire.
 
-le tribunal ordonne en outre la remise desdits billets ou pièces à l'autorité qui sera désignée par ordonnance souveraine aux fins de destruction éventuelle.
+Le tribunal ordonne en outre la remise desdits billets ou pièces à l'autorité qui sera désignée par ordonnance souveraine aux fins de destruction éventuelle.

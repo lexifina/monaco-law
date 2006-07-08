@@ -1,6 +1,6 @@
 # Article 303
 
-Le faux témoin, en matière criminelle, qui aura reçu de l'argent, une récompense quelconque ou des promesses, sera puni de la réclusion de dix à vingt ans, sans préjudice de l'application du deuxième alinéa de 1 article 300.
+Le faux témoin, en matière criminelle, qui aura reçu de l'argent, une récompense quelconque ou des promesses, sera puni de la réclusion de dix à vingt ans, sans préjudice de l'application du deuxième alinéa de l'article 300.
 
 En matière correctionnelle ou civile, il sera puni de la réclusion de cinq à dix ans.
 

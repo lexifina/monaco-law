@@ -4,7 +4,7 @@ Seront punis de l'amende prévue au chiffre 2 de l'article 29 :
 
 - 1° Ceux qui, hors les cas prévus à l'article 364, exposeront en vente des comestibles gâtes, corrompus ou nuisibles, lesquels seront confisqués ou détruits ;
 
-- 2° (2° abrogé) ;
+- 2° (2° abrogé) :
 
 - 3° Ceux qui auront jeté des pierres ou d'autres corps durs ou des immondices contre les maisons, édifices et clôtures d'autrui, ou dans les jardins ou enclos ;
 
