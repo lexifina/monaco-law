@@ -8,7 +8,7 @@ Peuvent seules exercer cette fonction les personnes qui satisfont aux conditions
 
 - 2 - Capacité en technologie transfusionnelle ;
 
-- 3 - Diplôme universitaire de transfusion sanguine, s'il est complété par une expérience de six mois dans un établissement de transfusion sanguine ;
+- 3 -Diplôme universitaire de transfusion sanguine, s'il est complété par une expérience de six mois dans un établissement de transfusion sanguine ;
 
 - 4 - Diplôme d'études spécialisées d'hématologie ;
 
