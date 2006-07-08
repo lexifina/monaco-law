@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-578 du 10 novembre 2003 fixant la liste et les caractéristiques des produits sanguins labiles
 
-Version en vigueur au 15 novembre 2003.
+Version en vigueur au 8 juillet 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/11-10-2003-578@2003.11.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/11-10-2003-578@2006.07.08/
 
 | | |
 | --- | --- |
