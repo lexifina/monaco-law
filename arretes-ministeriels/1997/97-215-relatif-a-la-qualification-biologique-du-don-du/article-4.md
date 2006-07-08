@@ -1,5 +1,5 @@
 # Article 4
 
-Le centre de transfusion sanguine collectant le sang et ses composants, qui prépare, outre des produits sanguins labiles à usage thérapeutique direct, des produits sanguins labiles destinés à la préparation de médicaments dérivés du sang, est tenu d'appliquer à tous les prélèvements correspondants l'ensemble des dispositions du I ainsi que du II de l'article premier du présent arrêté.
+Le sang ou ses composants ne peuvent être utilisés en vue de préparer des produits intermédiaires et des médicaments dérivés du sang que si les résultats des tests mentionnés aux b), c) et d) du 5 du I de l'article premier du présent arrêté, sont négatifs et, quand il a été effectué, si le résultat du dépistage génomique viral du VIH I et du VHC est négatif.
 
-Toutefois, par dérogation aux dispositions de l'alinéa précédent, un arrêté ministériel peut autoriser l'utilisation de prélèvements pour lesquels le résultat du test de détection des anticorps anti-HBc est positif, en vue de la préparation de produits intermédiaires et de médicaments, à condition que ces anticorps soient associés à des anticorps anti-HBs.
+Toutefois, lorsque les composants du sang prélevés pour préparer des produits intermédiaires ou des médicaments sont des composants cellulaires, un arrêté ministériel peut prévoir des tests et analyses supplémentaires, ces composants cellulaires ne pouvant alors être utilisés pour préparer des produits intermédiaires ou des médicaments que si les résultats de ces tests supplémentaires sont négatifs.
