@@ -1,0 +1,7 @@
+# Article 23-1
+
+L'autorité compétente désignée par l'ordonnance souveraine n° 15.712 du 3 mars 2003 relative à la mise sur le marché des médicaments à usage humain, soumet à son contrôle un échantillon de chaque lot de la substance qui, si elle est utilisée séparément du dispositif médical dans lequel elle est incorporée comme partie intégrante, est susceptible d'être considérée comme un médicament dérivé du sang, sauf dans le cas d'un lot provenant d'un État membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen et ayant fait l'objet d'un contrôle par un laboratoire désigné à cet effet par cet État. Ce contrôle peut porter soit sur le produit en vrac et le produit fini, soit sur l'un d'eux seulement.
+
+Le contrôle doit être effectué dans un délai de soixante jours à compter de la réception de l'échantillon.
+
+Chaque lot de la substance mentionnée au premier alinéa doit avoir obtenu un certificat de libération établi par l'autorité compétente ou un laboratoire désigné à cet effet par un État membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
