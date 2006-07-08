@@ -4,4 +4,4 @@ L'ouverture du droit aux prestations en nature prévues à la section III du pr�
 
 - 1° d'une immatriculation produisant effet,
 
-- 2° D'une durée minimale de travail soit de 200 heures accomplies au cours du trimestre civil ou des trois derniers mois ou de 120 heures effectuées pendant le mois civil précédent ou les trente derniers jours.
+- 2° d'une durée minimale de travail soit de 200 heures accomplies au cours du trimestre civil ou des trois derniers mois ou de 120 heures effectuées pendant le mois civil précédent ou les trente derniers jours.
