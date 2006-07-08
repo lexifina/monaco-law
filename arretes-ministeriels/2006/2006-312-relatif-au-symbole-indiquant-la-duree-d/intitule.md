@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2006-312 du 28 juin 2006 relatif au symbole indiquant la durée d'utilisation après ouverture à utiliser sur les récipients et les emballages des produits cosmétiques dans les conditions prévues à l'article premier (d) de l'arrêté ministériel n° 2003-124 du 12 février 2003 relatif à l'étiquetage des produits cosmétiques, modifié
