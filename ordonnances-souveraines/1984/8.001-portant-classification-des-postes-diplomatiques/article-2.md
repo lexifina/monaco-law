@@ -76,6 +76,8 @@ Les postes consulaires sont les suivants :
 
 - Italie : Bari, Bologne, Cagliari, Florence, Gênes, Livourne, Milan, Naples, Palerme, Rome, Trieste, Turin, Venise, Vintimille ;
 
+- Jamaïque : Kingston ;
+
 - Japon : Tokyo ;
 
 - Liban : Beyrouth, Tripoli ;
