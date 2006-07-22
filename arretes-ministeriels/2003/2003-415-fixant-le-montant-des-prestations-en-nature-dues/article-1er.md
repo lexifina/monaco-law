@@ -190,7 +190,51 @@ de 20 h à 8 h | 25,15
 
 IFD | Indemnité forfaitaire de déplacement | 3,81
 
-B - Frais d'hospitalisation ou de séjour en clinique (par jour)
+B - Soins externes hospitaliers - établissements publics
+
+Lettre-clé | Acte | Tarifs d'autorité
+
+Honoraires des médecins | |
+
+C | Consultation médecin généraliste | 21,00 euro(s)
+
+CS | Consultation spécialiste | 28,51euro(s)
+
+CPSY | Consultation neuropsychiatre | 35,83 euro(s)
+
+CSC | Consultation approfondie en cardiologie | 73,18 euro(s)
+
+Actes dispensés par les auxiliraires médicaux | |
+
+AMC | Actes pratiqués par le kinésithérapeute | 2,29 euro(s)
+
+AMI | Actes pratiqués par l'infirmier | 2,90 euro(s)
+
+AMY | Actes pratiqués par l'orthoptiste | 2,38 euro(s)
+
+Actes dispensés par les sages-femmes | |
+
+CSF | Consultation sage-femme | 15,30 euro(s)
+
+SF | Actes pratiqués par la sage-femme | 2,73 euro(s)
+
+SFI | Soins infirmiers pratiqués par la sage-femme | 2,73 euro(s)
+
+CSF2 | Séance de préparation à l'accouchement | 30,60 euro(s)
+
+Autres actes | |
+
+K | Actes de spécialité | 3,31euro(s)
+
+KA | Actes de chirurgie et de spécialité | 3,60 euro(s)
+
+D | Soins dentaires | 3,99 euro(s)
+
+B, BR, BM | Actes de biologie | 0,27 euro(s)
+
+BP | Actes d'anatomo-cytho-pathologie | 0,29 euro(s)
+
+PRA | Forfait produit de contraste | 0,44 euro(s)
 
 C - Frais pharmaceutiques
 
@@ -206,10 +250,10 @@ Toutefois les médicaments officinaux mentionnés à l'article 38 de la loi n° 
 
 * le montant de l'indemnité de garde, selon les barèmes suivants :
 
-- les jours ouvrables ............ | 0.99 euro(s)
+- les jours ouvrables | 0.99 euro(s)
 
-- les dimanches et jours fériés légaux (jour)............ | 1,98 euro(s)
+- les dimanches et jours fériés légaux (jour) | 1,98 euro(s)
 
-- la nuit ............ | 3,96 euro(s)
+- la nuit | 3,96 euro(s)
 
 D - Frais d'orthopédie
