@@ -1,3 +1,3 @@
 # Article 2
 
-Le plafond de ressources prévu à l'article 3 de la loi n° 1.113 du 27 juin 1988, susvisée, est fixé à 735,70 euro(s) par mois à compter du 1er juillet 2005.
+Le plafond de ressources prévu à l'article 3 de la loi n° 1.113 est fixé à 750,41 euro(s) par mois à compter du 1er juillet 2006.
