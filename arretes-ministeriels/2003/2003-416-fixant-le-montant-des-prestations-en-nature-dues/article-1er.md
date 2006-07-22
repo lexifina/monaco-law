@@ -188,6 +188,50 @@ MÉDECINS : | Tarifs d'autorité en euro(s)
 
 IFD | Indemnité forfaitaire de déplacement | 3,81
 
+Lettre-clé | Acte | Tarifs d'autorité
+
+Honoraires des médecins | |
+
+C | Consultation Médecin généraliste | 21,00 euro(s)
+
+CS | Consultation Spécialiste | 28,51 euro(s)
+
+CPSY | Consultation Neuropsychiatre | 35,83 euro(s)
+
+CSC | Consultation approfondie en cardiologie | 73,18euro(s)
+
+Actes dispensés par les auxiliaires médicaux | |
+
+AMC | Actes pratiqués par le Kinésithérapeute | 2,29euro(s)
+
+AMI | Actes pratiqués par l'infirmier | 2,90 euro(s)
+
+AMY | Actes pratiqués par l'Orthoptiste | ,38 euro(s)
+
+Actes dispensés par les sages-femmes | |
+
+CSF | Consultation Sage-femme | 15,30 euro(s)
+
+SF | Actes pratiqués par la sage-femme | 2,73euro(s)
+
+SFI | Soins infirmiers pratiqués par la sage-femme | 2,73euro(s)
+
+CSF2 | Séance de préparation à l'accouchement | 30,60 euro(s)
+
+Autres actes | |
+
+K | Actes de spécialité | 3,31 euro(s)
+
+KA | Actes de chirurgie et de spécialité | 3,60 euro(s)
+
+D | Soins dentaires | 3,99euro(s)
+
+B, BR, BM | Actes de biologie | 0,27 euro(s)
+
+BP | Actes d'anatomo-cytho-pathologie | 0,29 euro(s)
+
+PRA | Forfait produit de contraste | 0,44 euro(s)
+
 * le montant de l'ordonnance médicale pour les préparations magistrales et les médicaments spécialisés contre remise de la vignette délivrée en même temps que le produit par le pharmacien.
 
 Toutefois les médicaments officinaux mentionnés à l'article 38 de la loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie et les préparations magistrales délivrés sur prescription médicale ne sont pas remboursés, sauf autorisation exceptionnelle accordée par le service médical de la Caisse de compensation des services sociaux lorsqu'ils appartiennent à l'une des catégories ci-après :
