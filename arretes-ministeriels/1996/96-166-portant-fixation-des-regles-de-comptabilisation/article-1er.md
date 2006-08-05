@@ -2,34 +2,38 @@
 
 Sont soumis aux règles de comptabilisation des recettes brutes, les jeux ci-après énumérés :
 
-1° Jeux de cercle
+1°) Jeux de cercle
 
 - Baccara Chemin de fer
 
-2° Jeux de contrepartie
+2°) Jeux de contrepartie
 
-- Jeux dits « Européens » ou « Américains » ;
+- Jeux dits « européens » ou « américains »
 
-- Banque à Tout Va ;
+- Banque à tout va
 
-- Roulette ;
+- Roulette
 
-- Trente et Quarante ;
+- Trente et quarante
 
-- Black Jack ;
+- Black-jack
 
-- Carribean Gold Poker ;
+- Carribean gold poker
 
-- Craps ;
+- Craps
 
-- Pai Gow Poker ;
+- Pai gow poker
 
-- Punto Banco ;
+- Punto banco
 
-- Roulette Américaine ;
+- Roulette américaine
 
-- Roulette Anglaise ;
+- Roulette anglaise
 
-- Stud Poker de Casino.
+- Stud poker de casino
 
-3° Appareils automatiques
+- Poker trois cartes
+
+- Bataille
+
+3°) Appareils automatiques

@@ -1,6 +1,6 @@
 # Article 12
 
-12.1. - Lorsque la fermeture de la table de jeux a été décidée par la Direction des Jeux, la relève de la table est réalisée par les cadres, employés de jeux et les représentants de la Direction Administrative (caisses des jeux), tels que prévus par le règlement intérieur de la maison de jeux.
+12.1. - Lorsque la fermeture d'une table de jeux a été décidée par la Direction des Jeux, la relève de la table est réalisée par les cadres, employés de jeux et représentants de la Direction Administrative tels que prévus par le règlement intérieur de la maison de jeux.
 
 12.2. - Pour faciliter les opérations de comptée, un échange de jetons, remboursement d'ajouté, ou un versement de billets, peut être fait au change central suivant l'importance des jetons et espèces détenus à table, et ceci, sur instructions de l'inspecteur général.
 
@@ -8,10 +8,10 @@ Ainsi, en cas de versement de billets de banque, la comptée des billets sera ef
 
 12.3. - Ces opérations réalisées, la relève proprement dite peut commencer et se dérouler de la façon suivante :
 
-- les plaques et jetons étalés sur la table de jeu et leurs montants par valeur sont inscrits sur le bordereau de relève et sur le bordereau « mouvement de la partie », ainsi que les éventuels ajoutés et versements ;
+- les plaques et jetons sont étalés sur la table de jeu et leurs montants par valeur sont inscrits sur le bordereau de relève et sur le bordereau «mouvement de la partie», ainsi que les éventuels ajoutés et versements ;
 
-- le cadre des jeux et le représentant de la Direction Administrative (caisses des jeux) établissent contradictoirement la comptée de la table sur leur carton respectif ;
+- le cadre des jeux et le représentant de la Direction Administrative établissent contradictoirement la comptée de la table sur leur carton respectif ;
 
 - quand le résultat est approuvé par les deux parties, les plaques et jetons étalés sur la table de jeu sont reconnus à haute voix.
 
-12.4. - Lorsque l'ensemble des tables a été relevé, le cadre des jeux et le représentant de la Direction Administrative (caisses des jeux) établissent respectivement un état récapitulatif de la relève de l'ensemble des tables.
+12.4. - Lorsque l'ensemble des tables a été relevé, le cadre des Jeux et le représentant de la Direction administrative établissent respectivement un état récapitulatif de la relève de l'ensemble des tables.

@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 96-166 du 17 avril 1996 portant fixation des règles de comptabilisation des recettes brutes des jeux
 
-Version en vigueur au 11 juin 2005.
+Version en vigueur au 5 août 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1996/04-17-96-166@2005.06.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1996/04-17-96-166@2006.08.05/
 
 | | |
 | --- | --- |
