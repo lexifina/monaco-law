@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 5 juin 1858 sur le port des décorations étrangères
 
-Version en vigueur au 5 juillet 1858.
+Version en vigueur au 5 août 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1858/06-05-L002586@1858.07.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1858/06-05-L002586@2006.08.05/
 
 | | |
 | --- | --- |
