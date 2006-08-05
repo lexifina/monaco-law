@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 609 du 1er août 2006 modifiant l'ordonnance n° 352 du 10 janvier 2006 prorogeant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
