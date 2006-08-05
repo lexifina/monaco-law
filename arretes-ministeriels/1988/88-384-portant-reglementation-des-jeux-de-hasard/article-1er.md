@@ -1,14 +1,12 @@
 # Article 1er
 
-Au Black-jack, au Trente et Quarante, aux jeux de Baccara, au Punto Banco, au Pai Go Poker et au Carribean Gold Poker on utilise des jeux de 52 cartes. Lorsque les jeux sont groupés par six ils constituent un sixain, lorsqu'ils sont groupés par huit ils constituent un huitain ; chaque jeu sixain ou huitain porte le numéro d'ordre attribué par le fabricant. Ce numéro d'ordre doit être reporté par un cartier de la Direction des jeux au moment de la réception sur un registre de prise en charge. Ces registres, cotés et paraphés par le commissaire du Gouvernement, enregistrent tous les mouvements d'entrée et de sortie définitifs des différentes catégories de cartes utilisées. Une comptabilité annexe retrace quotidiennement les mouvements entre un dépôt principal et des dépôts annexes. Les stocks de cartes dégagés de ces opérations, contrôlées sous la responsabilité de la Direction des jeux, peuvent être vérifiés à tout moment par les agents du service de contrôle des jeux, qui viseront les registres concernés ainsi que les bons de commande.
+Au black-jack, au trente et quarante, aux jeux de baccara, au punto banco, au pai gow poker, au carribean gold poker et au stud poker de casino, au poker trois cartes et à la bataille, on utilise des jeux de 52 cartes. Lorsque les jeux sont groupés par six ils constituent un sixain, lorsqu'ils sont groupés par huit ils constituent un huitain ; chaque jeu sixain ou huitain porte le numéro d'ordre attribué par le fabricant. Ce numéro d'ordre doit être reporté par le cartier de la Direction des Jeux au moment de la réception sur un registre de prise en charge. Ces registres, cotés et paraphés par le Commissaire du Gouvernement, enregistrent tous les mouvements d'entrée et de sortie définitifs des différentes catégories de cartes utilisées. Une comptabilité annexe retrace quotidiennement les mouvements entre un dépôt principal et des dépôts annexes. Les stocks de cartes dégagés de ces opérations, contrôlés sous la responsabilité de la Direction des Jeux, peuvent être vérifiés à tout moment par les agents du Service de Contrôle des Jeux, qui viseront les registres concernés ainsi que les bons de commande.
 
-La sabot est un appareil agencé de telle sorte que les cartes qui y sont introduites descendent automatiquement vers son orifice, et n'en peuvent sortir qu'une à une.
+Le sabot est un appareil agencé de telle sorte que les cartes qui y sont introduites descendent automatiquement vers son orifice, et n'en peuvent sortir qu'une à une.
 
 Le mélangeur de cartes est un appareil qui effectue automatiquement le mélange des jeux de cartes. Il doit être d'un modèle agréé et être muni d'un système de protection qui empêche l'accès aux cartes pendant les cycles de mélange ainsi que d'un dispositif lumineux ou sonore signalant les dysfonctionnements.
 
-Le mélangeur distributeur de cartes est un appareil qui effectue le mélange automatique et permanent des cartes ainsi que leur distribution, celles-ci se présentant automatiquement et ne pouvant sortir qu'une à une.
-
-Il doit être d'un modèle agréé et pourvu d'un système de protection qui empêche l'accès aux cartes pendant le mélange ainsi que d'un dispositif signalant le dysfonctionnement.
+Le mélangeur distributeur de cartes est un appareil qui effectue le mélange automatique et permanent des cartes ainsi que leur distribution, celles-ci se présentant automatiquement et pouvant sortir une à une ou par paquets.
 
 1.1. - Les jeux de cartes neufs ou usagés ainsi que les sabots sont conservés dans les locaux et mobiliers spécialement aménagés à cet effet désignés sous le nom de « dépôts de cartes principaux et annexes ». Les jeux usagés doivent demeurer complets jusqu'à leur destruction ou neutralisation.
 
@@ -36,4 +34,4 @@ Dès que la séance est terminée, et avant tout nouvel usage, les jeux sont con
 
 1.6. - Lorsqu'il est fait usage de l'appareil mélangeur. les opérations de contrôle et de reconnaissance des cartes sont effectuées selon les modalités prévues par l'article 1.2.
 
-1.7. - Lorsqu'il est fait usage du mélangeur distributeur de cartes, les opérations de contrôle et de reconnaissance des cartes sont effectuées selon les modalités prévues à l'article 1.2.
+1.7. - Lorsqu'il est fait usage du mélangeur distributeur de cartes, les opérations de contrôle « et de reconnaissance des cartes sont effectuées selon les modalités prévues à l'article 1.2.

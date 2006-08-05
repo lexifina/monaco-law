@@ -8,7 +8,7 @@
 
 - les clés ouvrant les appareils sont disposées dans un coffre d'exploitation prévu à cet effet.
 
-20.2. - Lors de la sortie de l'exploitation d'un « socle », pour des raisons techniques, sa serrure et sa clé doivent être remises au caissier principal de la caisse centrale.
+20.2. - Lors de la sortie de l'exploitation d'un » socle «, pour des raisons techniques, sa serrure et sa clé doivent être remises au caissier principal de la caisse centrale.
 
 20-3. L'ouverture des portes des appareils doit être effectuée en présence d'un surveillant assermenté ; par dérogation à ce mode opératoire, dans le cadre d'une exploitation assistée par un système informatique de suivi en temps réel, le mécanicien pourra intervenir seul après s'être préalablement identifié sur ledit système.
 

@@ -42,25 +42,25 @@ Le croupier, après avoir déterminé et annoncé son point, procède au ramassa
 
 Si le croupier a plus de 21 points, il paie toutes les mises encore sur le tapis ; s'il n'a pas atteint 21, il ramasse les mises des mains qui ont un point inférieur au sien et paie celles qui ont un point supérieur au sien. Les mains qui ont obtenu un nombre de points égal à celui du croupier sont nulles. Leurs titulaires peuvent retirer leurs mises et leurs cartes sont brûlées.
 
-Les paiements se font à égalité, mais si un joueur fait un « black-jack », c'est-à-dire 21 points avec deux cartes, il est payé à raison de 3 pour 2.
+Les paiements se font à égalité, mais si un joueur fait un » black-jack «, c'est-à-dire 21 points avec deux cartes, il est payé à raison de 3 pour 2.
 
-Le « black-jack » l'emporte toujours sur 21 points obtenus avec plus de deux cartes.
+Le » black-jack « l'emporte toujours sur 21 points obtenus avec plus de deux cartes.
 
 2° L'assurance :
 
-Lorsque la première carte du croupier est un as, les joueurs peuvent s'assurer contre un éventuel « black-jack » du croupier.
+Lorsque la première carte du croupier est un as, les joueurs peuvent s'assurer contre un éventuel » black-jack « du croupier.
 
 Le croupier propose cette assurance lorsqu'il a donné deux cartes aux joueurs, qui ne peuvent s'assurer qu'à ce moment de la partie et avant que le croupier n'ait sorti la carte suivante.
 
-Le joueur qui s'assure dépose sur la ligne « assurance » face à son enjeu. une mise égale au maximum à la moitié de sa propre mise.
+Le joueur qui s'assure dépose sur la ligne » assurance « face à son enjeu. une mise égale au maximum à la moitié de sa propre mise.
 
-Après que la situation de chaque joueur ait été déterminée, si le croupier tire un dix ou une figure, il ramasse les mises perdantes et paie les assurances à raison de 2 pour 1. S'il n'a pas réalisé un « black-jack », il ramasse les assurances et encaisse ou paie les autres mises comme dans le jeu simple.
+Après que la situation de chaque joueur ait été déterminée, si le croupier tire un dix ou une figure, il ramasse les mises perdantes et paie les assurances à raison de 2 pour 1. S'il n'a pas réalisé un » black-jack «, il ramasse les assurances et encaisse ou paie les autres mises comme dans le jeu simple.
 
 3° La mise à égalité :
 
-Lorsque, sur deux cartes, un joueur fait « black-jack » et que le croupier tire un as pour sa première carte, ce joueur peut demander la « mise à égalité » : il est payé à égalité.
+Lorsque, sur deux cartes, un joueur fait » black-jack « et que le croupier tire un as pour sa première carte, ce joueur peut demander la » mise à égalité « : il est payé à égalité.
 
-4° Les paires ou « split-pair » :
+4° Les paires ou » split-pair « :
 
 Lorsqu'un joueur reçoit, aux deux premiers coups, deux cartes de même valeur, il peut considérer qu'il a deux mains séparées. S'il utilise cette possibilité, il doit engager une mise égale à sa mise initiale sur l'une des cartes. Ces deux cartes et ces deux mises sont alors considérées comme des mains séparées et indépendantes ayant toujours chacune sa valeur et sa destinée propres. Après avoir reçu une deuxième carte, le joueur reste, tire et joue dans les conditions du jeu simple, déterminant la situation de la main la plus à sa droite avant de passer à la suivante.
 
@@ -68,14 +68,14 @@ Si, pour l'une de ces mains, il obtient, lors de la distribution qui suit la sec
 
 Lorsqu'un joueur partage une paire d'as, il ne doit tirer qu'une seule carte pour chaque as.
 
-Si un joueur partage une paire d'as ou une paire de cartes valant 10 points et s'il totalise 21 points avec la deuxième carte tirée, ce point n'est pas considéré comme un « black-jack » et n'est payé qu'à égalité.
+Si un joueur partage une paire d'as ou une paire de cartes valant 10 points et s'il totalise 21 points avec la deuxième carte tirée, ce point n'est pas considéré comme un » black-jack « et n'est payé qu'à égalité.
 
 La Direction des jeux peut limiter les paires aux cartes similaires, excluant ainsi les cartes différentes mais de valeur identique. Le nombre de jeux, à partir de cartes de même valeur, que peut constituer un même joueur est limité à trois, et à deux dans le cas d'une paire d'as.
 
-5° La double mise ou « double down » :
+5° La double mise ou » double down « :
 
 Un joueur a la possibilité de doubler sa mise quel que soit le total obtenu avec ses deux premières cartes. Dans ce cas, il n'a droit qu'à une seule carte supplémentaire.
 
 La double mise est autorisée pour toutes les mains, y compris les paires.
 
-Dans le cas où le joueur s'est assuré contre un « black-jack » du croupier et qu'il double sa mise ou qu'il forme plusieurs mains, seule la mise initiale est assurée.
+Dans le cas où le joueur s'est assuré contre un » black-jack « du croupier et qu'il double sa mise ou qu'il forme plusieurs mains, seule la mise initiale est assurée.

@@ -4,7 +4,7 @@
 
 - soit par des jetons à valeur faciale ;
 
-- soit par des jetons particuliers, sans valeur faciale, de couleur différente pour chaque joueur, et portant un sigle qui les affecte à une table de roulette et à elle seule. La valeur de ces jetons est déterminée par le joueur lui-même, dans le respect des règles afférentes aux maxima et minima des mises ; cette valeur est indiquée au moyen de « marqueurs » disposés par le chef de table, d'une manière visible, sur des dispositifs ou matériels agréés.
+- soit par des jetons particuliers, sans valeur faciale, de couleur différente pour chaque joueur, et portant un sigle qui les affecte à une table de roulette et à elle seule. La valeur de ces jetons est déterminée par le joueur lui-même, dans le respect des règles afférentes aux maxima et minima des mises ; cette valeur est indiquée au moyen de » marqueurs « disposés par le chef de table, d'une manière visible, sur des dispositifs ou matériels agréés.
 
 4 2 - Le personnel affecté à chaque appareil comprend : un chef de table assisté soit de deux croupiers, soit d'un croupier disposant d'une machine trieuse.
 
@@ -24,7 +24,7 @@ A - Chances multiples :
 
 - mise sur un carré (quatre numéros) qui rapporte huit fois la mise,
 
-- mise sur « les cinq premiers » (rectangle 0,00,1,2,3) qui rapporte six fois la mise,
+- mise sur » les cinq premiers « (rectangle 0,00,1,2,3) qui rapporte six fois la mise,
 
 - mise sur un sixain ou transversale simple qui rapporte cinq fois la mise,
 

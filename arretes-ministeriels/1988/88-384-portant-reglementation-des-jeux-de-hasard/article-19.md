@@ -24,15 +24,15 @@ Un fichier sera tenu à jour par la Direction.
 
 - rendement théorique certifié par le fabricant, avec mention de la date de mise à jour.
 
-19.4 - Chaque poste de jeu doit être équipé par le fabricant des compteurs suivants :
+19.4. - Chaque poste de jeu doit être équipé par le fabricant des compteurs suivants :
 
-- compteur « in » qui automatiquement enregistre le nombre des crédits joués sur la machine par les clients ;
+- compteur » in « qui automatiquement enregistre le nombre des crédits joués sur la machine par les clients ;
 
-- compteur « cash box » qui automatiquement enregistre le nombre de pièces ou jetons introduits dans la machine tombant directement dans le seau ou cash « box » ;
+- compteur » cash box « qui automatiquement enregistre le nombre de pièces ou jetons introduits dans la machine tombant directement dans le seau ou cash » box « ;
 
-- compteur « out » qui automatiquement enregistre le nombre de pièces ou jetons payés par la machine aux clients ;
+- compteur » out « qui automatiquement enregistre le nombre de pièces ou jetons payés par la machine aux clients ;
 
-- compteur des « jackpots et lots cumulés » qui automatiquement enregistre le nombre des crédits payés manuellement aux clients.
+- compteur des » jackpots et lots cumulés « qui automatiquement enregistre le nombre des crédits payés manuellement aux clients.
 
 L'exploitant devra, pour chacun des appareils mis en exploitation, enregistrer l'ensemble des compteurs, y compris ceux non énumérés ci-dessus, qui sont nécessaires pour la reconstitution et le contrôle de leur fonctionnement.
 
@@ -40,11 +40,11 @@ Pour chaque machine, une fiche technique indiquant ses caractéristiques et le p
 
 Le fichier sera conservé chez le Directeur de l'exploitation. Un double de ce fichier devra être déposé au Secrétariat général de la société.
 
-19.5. - Chaque appareil possède une réserve de pièces, appelée « hopper », qui se trouve à l'intérieur même de l'appareil et dans laquelle les pièces sont retenues en vue du paiement des gains aux clients.
+19.5. - Chaque appareil possède une réserve de pièces, appelée » hopper «, qui se trouve à l'intérieur même de l'appareil et dans laquelle les pièces sont retenues en vue du paiement des gains aux clients.
 
-Tous les « hoppers » des machines en service sont impérativement munis d'un couvercle fixé.
+Tous les » hoppers « des machines en service sont impérativement munis d'un couvercle fixé.
 
-Les pièces de monnaie ou jetons non orientés vers le « hopper » tombent dans un seau ou cash box situé dans le socle de la machine. Un système de convoyage pneumatique destiné à la récupération des pièces ou des jetons peut être utilisé. Il assure le transport des pièces et (ou) jetons, du socle de chaque machine à sous jusqu'à la salle de comptée, par aspiration, dans des tubes réputés inviolables.
+Les pièces de monnaie ou jetons non orientés vers le » hopper « tombent dans un seau ou cash box situé dans le socle de la machine. Un système de convoyage pneumatique destiné à la récupération des pièces ou des jetons peut être utilisé. Il assure le transport des pièces et (ou) jetons, du socle de chaque machine à sous jusqu'à la salle de comptée, par aspiration, dans des tubes réputés inviolables.
 
 Les pièces et (ou) jetons seront comptés électroniquement au départ de chaque appareil automatique et seront ensuite comptabilisés à leur extraction des containers installés dans la salle de comptée. Ce système de convoyage sera relié à un ordinateur sur lequel seront instantanément enregistrées les données de comptage.
 

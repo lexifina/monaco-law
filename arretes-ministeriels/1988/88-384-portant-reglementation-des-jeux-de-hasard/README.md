@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 88-384 du 26 juillet 1988 portant réglementation des jeux de hasard
 
-Version en vigueur au 8 juin 2005.
+Version en vigueur au 5 août 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1988/07-26-88-384@2005.06.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1988/07-26-88-384@2006.08.05/
 
 | | |
 | --- | --- |
