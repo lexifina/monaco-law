@@ -1,0 +1,1 @@
+Sont approuvés l'avenant à la convention et ses annexes de la concession du service public de la distribution d'énergie électrique et de gaz, signés le 9 juin 2006 entre Notre Administrateur des Domaines et M. Bernard PRADES, Président du Conseil d'administration de la Société Monégasque de l'Électricité et du Gaz.
