@@ -1,0 +1,3 @@
+# Article 1er
+
+Les dispositions de l'avenant n° 15 ter du 11 avril 2006, annexé au présent arrêté, à la Convention collective nationale de travail, abrogeant et remplaçant l'article 5 de l'avenant n° 15 du 13 juin 1978, tel que modifié par l'avenant n°15 bis en date du 16 avril.1987, instituant une Caisse de garantie des créances de salaires en cas de faillite ou de liquidation judiciaire, sont, nonobstant leur champ d'application professionnel, rendues obligatoires pour tous les employeurs auxquels sont applicables les procédures collectives de règlement du passif en cas de cessation des paiements au sens et aux effets de l'article 408 du Code de commerce.
