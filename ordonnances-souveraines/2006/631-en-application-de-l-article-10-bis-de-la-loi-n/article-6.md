@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsque un organisme financier reçoit des virements et transferts de fonds comportant des mentions incomplètes et que les vérifications complémentaires auxquelles il a procédé ne se sont pas avérées satisfaisantes, ce défaut d'information peut constituer un élément d'appréciation du caractère suspect des opérations et, de ce fait, entraîner une déclaration de soupçon conformément à l'article 3 de la loi n° 1.162 du 7 juillet 1993, modifiée, sans préjudice de l'éventuelle non-acceptation des fonds et de la cessation des relations avec l'organisme financier émetteur des virements et transferts de fonds non suffisamment renseignés.
