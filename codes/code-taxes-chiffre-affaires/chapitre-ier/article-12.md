@@ -26,9 +26,9 @@ Par dérogation aux dispositions de l'article 11, le lieu des prestations suivan
 
   - b) lorsque le lieu de départ se trouve dans un État membre de la Communauté économique européenne autre que la France et que le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée.
 
-  - Sont considérés comme transports intracommunautaires de biens les transports dont le lieu de départ et le lieu d'arrivée se trouvent respectivement en Principauté ou en France et dans un État membre de la Communauté économique européenne autre que la France.
+- Sont considérés comme transports intracommunautaires de biens les transports dont le lieu de départ et le lieu d'arrivée se trouvent respectivement en Principauté ou en France et dans un État membre de la Communauté économique européenne autre que la France.
 
-  - Sont assimilés à des transports intracommunautaires de biens les transports de biens, dont le lieu de départ et le lieu d'arrivée se trouvent à Monaco ou en France, lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
+- Sont assimilés à des transports intracommunautaires de biens les transports de biens, dont le lieu de départ et le lieu d'arrivée se trouvent à Monaco ou en France, lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
 
 - 5° Les prestations de transports, autres que les transports intracommunautaires de biens meubles corporels, pour la distance parcourue à Monaco et en France ;
 

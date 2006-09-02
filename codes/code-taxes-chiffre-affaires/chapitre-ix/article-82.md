@@ -22,7 +22,7 @@ II. - Sont assimilés à une importation d'un bien au sens du a) du 2 de l'artic
 
   - b) Le bien n'a pas été importé à Monaco ou en France avant le 1er janvier 1993 pour un bien mentionné au 1 du I ou avant le 1er janvier 1995 pour un bien mentionné au 2 du I.
 
-- III. - Par dérogation aux dispositions de l'article 85, l'importation d'un bien, au sens du II ci-dessus, n'entraîne pas fait générateur de la taxe dans les cas suivants :
+III. - Par dérogation aux dispositions de l'article 85, l'importation d'un bien, au sens du II ci-dessus, n'entraîne pas fait générateur de la taxe dans les cas suivants :
 
 - 1° Le bien importé est expédié ou transporté en dehors de Monaco et de la Communauté économique européenne ;
 

@@ -12,9 +12,9 @@ I. - Par dérogation aux dispositions du I de l'article 6, est réputé ne pas s
 
 - 2° Le montant des livraisons effectuées par le vendeur à destination du territoire de cet État membre excède, pendant l'année civile en cours au moment de la livraison, ou a excédé pendant l'année civile précédente, le seuil fixé par cet État.
 
-- Cette condition de seuil ne s'applique pas lorsque le vendeur a opté pour que le lieu des livraisons prévues au présent article se situe sur le territoire de l'État membre autre que la France où est arrivé le bien expédié ou transporté.
+Cette condition de seuil ne s'applique pas lorsque le vendeur a opté pour que le lieu des livraisons prévues au présent article se situe sur le territoire de l'État membre autre que la France où est arrivé le bien expédié ou transporté.
 
-- Cette option prend effet au premier jour du mois au cours duquel elle est exercée. Elle couvre obligatoirement une période expirant le 31 décembre de la deuxième année qui suit celle au cours de laquelle elle a été exercée. Elle est renouvelée par tacite reconduction, par périodes de deux années civiles, sauf dénonciation formulée deux mois au moins avant l'expiration de chaque période.
+Cette option prend effet au premier jour du mois au cours duquel elle est exercée. Elle couvre obligatoirement une période expirant le 31 décembre de la deuxième année qui suit celle au cours de laquelle elle a été exercée. Elle est renouvelée par tacite reconduction, par périodes de deux années civiles, sauf dénonciation formulée deux mois au moins avant l'expiration de chaque période.
 
 II. - Par dérogation aux dispositions du I de l'article 6, est réputé ne pas se situer à Monaco le lieu de la livraison des alcools, boissons alcooliques, huiles minérales et tabacs manufacturés expédiés ou transportés sur le territoire d'un État membre de la Communauté économique européenne autre que la France, par le vendeur ou pour son compte, lorsque la livraison est effectuée à destination d'une personne physique non assujettie.
 
