@@ -4,7 +4,7 @@
 
 - 1° Les frais généraux de toute nature, les dépenses de personnel et de main-d'œuvre, le loyer des immeubles dont l'entreprise est locataire ;
 
-- 2° Les amortissements réellement effectués par l'entreprise, dans la limite de ceux qui sont généralement admis d'après les usages de chaque nature d'industrie, de commerce ou d'exploitation,....
+- 2° Les amortissements réellement effectués par l'entreprise, dans la limite de ceux qui sont généralement admis d'après les usages de chaque nature d'industrie, de commerce ou d'exploitation.
 
 - L'amortissement des biens d'équipements autres que les immeubles d'habitation, les chantiers et les locaux servant à l'exercice de la profession, acquis ou fabriqués à compter du 1er janvier 1960 par les entreprises industrielles, peut être calculé suivant un système d'amortissement dégressif compte tenu de la durée d'amortissement en usage dans chaque nature d'industrie. Une ordonnance ultérieure fixera les règles relatives à ce système d'amortissement ainsi que son champ d'application ;
 

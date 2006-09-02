@@ -1,8 +1,8 @@
 # Article 24
 
-Sous réserve des dispositions de la présente ordonnance les comptes d'exploitation, de pertes et profits et les bilans extraits des livres comptables dont la tenue est prescrite par les articles 10 et 18 du Code de commerce, sont établis conformément aux dispositions de l'ordonnance souveraine n° 3167, du 29 janvier 1946.
+Sous réserve des dispositions de la présente ordonnance les comptes d'exploitation, de pertes et profits et les bilans extraits des livres comptables dont la tenue est prescrite par les articles 10 et 18 du Code de commerce, sont établis conformément aux dispositions de l'ordonnance souveraine n° 3.167, du 29 janvier 1946.
 
-Ces livres, ainsi que les registres de délibérations et de transferts des sociétés et tous documents et pièces annexes, sont soumis au droit de communication de l'administration fiscale dans les conditions prévues par l'ordonnance souveraine n° 3085 du 25 septembre 1945.
+Ces livres, ainsi que les registres de délibérations et de transferts des sociétés et tous documents et pièces annexes, sont soumis au droit de communication de l'administration fiscale dans les conditions prévues par l'ordonnance souveraine n° 3.085 du 25 septembre 1945.
 
 Si la comptabilité est tenue en langue étrangère une traduction certifiée par un traducteur assermenté doit être représentée à toute réquisition de l'inspecteur.
 

@@ -2,7 +2,7 @@
 
 1. - En cas de déficit subi pendant un exercice, ce déficit est considéré comme une charge de l'exercice suivant et déduit du bénéfice réalisé pendant ledit exercice.
 
-Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté sur les exercices suivants
+Si ce bénéfice n'est pas suffisant pour que la déduction puisse être intégralement opérée, l'excédent du déficit est reporté sur les exercices suivants.
 
 2. - Les dispositions de l'alinéa 1 ne sont pas applicables en ce qui concerne les déficits se rapportant aux exercices ou fractions d'exercice antérieurs au 1er janvier 1963.
 
