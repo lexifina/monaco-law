@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 709 du 3 octobre 2006 modifiant l'ordonnance n° 16.611 du 10 janvier 2005 fixant les conditions d'application dela loi n° 1.096 du 7 août 1986 portant statut des fonctionnaires de la Commune
