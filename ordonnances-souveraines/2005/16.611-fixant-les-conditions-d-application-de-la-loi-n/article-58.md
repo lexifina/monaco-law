@@ -1,0 +1,3 @@
+# Article 58
+
+Les fonctionnaires à qui une rente temporaire d'invalidité a été allouée ou ceux qui sont titulaires d'une rente ayant fait l'objet d'une révision continuent d'en bénéficier et les articles 44 et 45 leur sont applicables.
