@@ -22,7 +22,7 @@ Par dérogation aux dispositions précédentes et en cas :
 
     - la mère non remariée,
 
-    - le père, en cas de divorce ou de séparation de corps pendant un an à compter du prononcé du jugement, lorsque la mère non remariée n'exerce aucune activité professionnelle et ne peut faire valoir de droit direct auprès d'un autre organisme,
+    - le mari en cas de séparation de corps ou l'ex-mari en cas de divorce, pendant un an à compter du prononcé du jugement, lorsque la mère non remariée n'exerce aucune activité professionnelle et ne peut faire valoir de droit direct auprès d'un autre organisme,
 
     - le nouveau mari de la mère et subsidiairement la mère.
 
