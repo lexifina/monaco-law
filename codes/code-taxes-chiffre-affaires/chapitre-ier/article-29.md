@@ -42,7 +42,7 @@ II. - Sont également exonérés de la taxe sur la valeur ajoutée :
 
 - 9° Les transports ferroviaires de voyageurs en provenance et à destination d'un pays étranger autre que la France, ainsi que les transports de voyageurs effectués par les trains internationaux et sur les relations dont la liste est fixée par l'autorité compétente ;
 
-- 10° Les transports par route de voyageurs étrangers en provenance et à destination d'un pays étranger autre que la France, circulant en groupe d'au moins dix personnes ;
+- 10° Les transports par route de voyageurs étrangers en provenance et à destination d'un pays étranger autre que la France, circulant en groupe d'au moins dix personnes (Voir l'article A-49 de l'annexe au code) ;
 
 - 11° Les transports entre la Principauté ou la France et les départements français de la Corse pour la partie du trajet située en dehors du territoire continental ;
 

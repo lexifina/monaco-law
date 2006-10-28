@@ -70,7 +70,7 @@ Sont également soumis à la taxe sur la valeur ajoutée :
 
     - b) les prestations de services à titre gratuit effectuées par l'assujetti pour ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise.
 
-    - Les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible sont fixés par les articles A-20 à A-22 de l'annexe au code.
+  - Les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible sont fixés par les articles A-20 à A-22 de l'annexe au code.
 
 - 7° Les livraisons qu'un non-redevable de la taxe sur la valeur ajoutée se fait lui-même et qui portent sur les viandes des animaux de boucherie et de charcuterie tels qu'ils sont définis par l'article A-23 de l'annexe au code.
 

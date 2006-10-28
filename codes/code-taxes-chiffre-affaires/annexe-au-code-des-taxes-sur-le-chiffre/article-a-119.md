@@ -10,4 +10,6 @@
 
 - c) les livraisons mentionnées au 2° du I de l'article 10 du Code des taxes pour lesquelles la taxe est due par le destinataire en application du 4 de l'article 62 du même code ;
 
-- d) les livraisons et les prestations mentionnées aux 1 °, 2°, 5°, 6° et 7° du I de l'article 50 A du Code des taxes.
+- d) les livraisons et les prestations mentionnées aux 1 °, 2°, 5°, 6° et 7° du I de l'article 50 A du Code des taxes
+
+- e) les livraisons et les prestations pour lesquelles la taxe est acquittée par l'acquéreur, le destinataire ou le preneur dans les conditions mentionnées au second alinéa de l'article 62 du Code des taxes.
