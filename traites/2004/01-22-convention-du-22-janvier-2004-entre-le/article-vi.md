@@ -1,0 +1,7 @@
+# Article VI
+
+1. Prenant en compte le fait que la plus grande partie du tunnel se développe dans les tréfonds du territoire français, le Gouvernement monégasque s'engage à ce que le dossier de construction du tunnel, accompagné de l'ensemble des études nécessaires, soit soumis aux autorités françaises compétentes préalablement à l'engagement de la procédure de déclaration d'utilité publique.
+
+2. Le Gouvernement monégasque s'engage également à procéder à l'étude de risques permettant de justifier les équipements d'exploitation et les mesures de sécurité qui seront adoptées et de communiquer l'ensemble des informations relatives à ces équipements, ces mesures et le plan d'intervention des secours aux autorités françaises compétentes, préalablement à l'engagement de la procédure de déclaration d'utilité publique, nonobstant l'établissement des conventions prévues au paragraphe 3 du présent article.
+
+3. Les deux Gouvernements conviennent que le présent accord pourra être complété, notamment en matière de prévention des risques et d'exercice de la sécurité et de gestion des secours au sein du tunnel, par des conventions inter-services précisant les conditions selon lesquelles les services compétents de l'Etat français pourraient apporter, si cela s'avérait utile, le concours de leurs services aux autorités de la Principauté. Sauf précisions contraires énoncées dans les conventions précitées, ces interventions seront effectuées sous la responsabilité de la Principauté de Monaco.
