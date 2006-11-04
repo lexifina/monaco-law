@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 7.784 du 29 août 1983 concernant la réglementation des véhicules publics
 
-Version en vigueur au 1er juin 2002.
+Version en vigueur au 4 novembre 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1983/08-29-7.784@2002.06.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1983/08-29-7.784@2006.11.04/
 
 | | |
 | --- | --- |
