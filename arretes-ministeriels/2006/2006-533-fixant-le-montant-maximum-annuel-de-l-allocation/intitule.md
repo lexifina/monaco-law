@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2006-533 du 27 octobre 2006 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse autonome des retraites au titre de l'exercice 2005-2006
