@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 67 du 23 mai 2005 portant application de la Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction, adoptée à Washington le 3 mars 1973
