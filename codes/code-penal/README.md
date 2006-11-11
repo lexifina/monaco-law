@@ -1,11 +1,11 @@
 # Code pénal
 
-Version en vigueur au 8 juillet 2006.
+Version en vigueur au 11 novembre 2006.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-penal@2006.07.08/
+Source : Legimonaco, https://legimonaco.mc/code/code-penal@2006.11.11/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code pénal |
-| Dernière modification | 8 juillet 2006 |
+| Dernière modification | 11 novembre 2006 |
