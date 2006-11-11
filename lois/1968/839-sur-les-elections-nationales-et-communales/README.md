@@ -1,8 +1,8 @@
 # Loi n° 839 du 23 février 1968 sur les élections nationales et communales
 
-Version en vigueur au 28 décembre 2002.
+Version en vigueur au 11 novembre 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1968/02-23-839@2002.12.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1968/02-23-839@2006.11.11/
 
 | | |
 | --- | --- |
