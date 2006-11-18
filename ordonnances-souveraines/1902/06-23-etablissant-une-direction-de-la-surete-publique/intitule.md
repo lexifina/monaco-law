@@ -1,1 +1,1 @@
-Ordonnance Souveraine du 23 juin 1902 établissant une direction de la sûreté publique
+Ordonnance Souveraine du 23 juin 1902 établissant une direction de la Sûreté publique

@@ -1,8 +1,8 @@
-# Ordonnance Souveraine du 23 juin 1902 établissant une direction de la sûreté publique
+# Ordonnance Souveraine du 23 juin 1902 établissant une direction de la Sûreté publique
 
-Version en vigueur au 16 août 1929.
+Version en vigueur au 18 novembre 2006.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1902/06-23-L000638@1929.08.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1902/06-23-L000638@2006.11.18/
 
 | | |
 | --- | --- |
