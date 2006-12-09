@@ -6,29 +6,31 @@ Le territoire de la Principauté est divisé en trois secteurs :
 
 - B - Le secteur des quartiers ordonnancés qui comprend les quartiers suivants, dont la destination ou le caractère justifie des dispositions particulières et qui sont soumis à des plans de coordination et dont le périmètre est délimité en annexe à la présente ordonnance (annexe n° 3) :
 
-  - Quartier de Fontvieille ;
+  - - Quartier de Fontvieille ;
 
-  - Quartier de la Gare ;
+  - - Quartier de la Gare ;
 
-  - Quartier de la Condamine ;
+  - - Quartier de la Condamine ;
 
-  - Quartier du Port Hercule ;
+  - - Quartier du Port Hercule ;
 
-  - Quartier des Spélugues ;
+  - - Quartier des Spélugues ;
 
-  - Quartier des Bas-Moulins et du Larvotto ;
+  - - Quartier des Bas-Moulins et du Larvotto ;
 
-  - Quartier dit de « La Colle » ;
+  - - Quartier de « La Colle » ;
 
-  - Quartier de Malbousquet ;
+  - - Quartier de Malbousquet ;
 
-  - Quartier de « La Source » ;
+  - - Quartier de « La Source » ;
 
-  - Quartier des Moneghetti ;
+  - - Quartier des Moneghetti ;
 
-  - Quartier des Moulins.
+  - - Quartier des Moulins ;
 
-  - Quartier du Vallon de La Rousse.
+  - - Quartier du Vallon de La Rousse ;
+
+  - - Quartier du Jardin Exotique.
 
 - Les ordonnances souveraines portant règlement particulier d'urbanisme, de construction et de voirie des quartiers ordonnancés, rappellent les limites des quartiers ordonnancés, définissent, si nécessaire, la division en zones de chacun des quartiers ordonnancés et, éventuellement, la subdivision en îlots de ces zones.
 
@@ -36,12 +38,12 @@ Le territoire de la Principauté est divisé en trois secteurs :
 
 - C - Le secteur des opérations urbanisées qui comporte :
 
-  - une zone à gabarit moyen,
+  - - une zone à gabarit moyen,
 
-  - une zone à gabarit élevé,
+  - - une zone à gabarit élevé,
 
-  - une zone frontière.
+  - - une zone frontière.
 
-Le plan de zonage PU-ZG-PTE-D4, annexé à la présente ordonnance, en fixe les limites.
+Le plan de zonage PU-ZG-PTE-D5, annexé à la présente ordonnance, en fixe les limites.
 
 Toutes les constructions à édifier sur le territoire de la Principauté doivent être établies en conformité des dispositions définies par les articles ci-après, sauf dispositions contraires des règlements et des plans de coordination relatifs aux quartiers compris dans le secteur des quartiers ordonnancés.
