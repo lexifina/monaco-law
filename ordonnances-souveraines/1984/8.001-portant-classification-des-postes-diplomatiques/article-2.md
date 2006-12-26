@@ -139,3 +139,5 @@ Les postes consulaires sont les suivants :
 - Turquie : Istanbul ;
 
 - Venezuela : Caracas.
+
+- République de Bulgarie : Sofia ;
