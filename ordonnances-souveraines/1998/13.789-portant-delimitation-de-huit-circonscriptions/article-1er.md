@@ -1,6 +1,6 @@
 # Article 1er
 
-Il est formé aux États-Unis d'Amérique, sous l'autorité de Notre Consul Général à New York, huit circonscriptions consulaires, délimitées comme suit :
+Il est formé aux Etats-Unis d'Amérique, sous l'autorité de Notre Ambassadeur à Washington, huit circonscriptions consulaires, délimitées comme suit :
 
 - Atlanta (Géorgie) :
 
