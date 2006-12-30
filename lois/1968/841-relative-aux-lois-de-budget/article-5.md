@@ -1,7 +1,11 @@
 # Article 5
 
-Le vote du budget emporte adoption du programme d'équipement public qui lui est annexé, sauf le cas où l'examen dudit programme est expressément renvoyé à la plus prochaine session ordinaire du Conseil national.
+Le vote du budget emporte l'adoption du programme triennal d'équipement public qui lui est annexé.
 
-Le budget fixe, sous forme de crédits d'engagement, la limite supérieure des dépenses pouvant être engagées, dans l'année considérée, pour l'exécution des opérations arrêtées par le programme d'équipement public.
+Pour les opérations arrêtées par le programme triennal d'équipement public, les crédits ouverts au budget sont constitués de crédits d'engagement et de crédits de paiement.
 
-Il fixe également, sous forme de crédits de paiement, la limite supérieure des dépenses pouvant être ordonnancées et payées, pendant l'année considérée, pour la couverture des engagements contractés dans le cadre des crédits correspondants visés au précédent alinéa.
+Les crédits d'engagements constituent la limite supérieure des dépenses pouvant être engagées. Pour une opération donnée, les crédits d'engagement doivent couvrir un ensemble cohérent de nature à pouvoir être mis en service ou exécutés sans dépense complémentaire.
+
+Chaque programme triennal annexé à la loi de budget présente, pour chaque opération en cours, le total des crédits d'engagement nécessaire à sa réalisation ainsi que le montant total des engagements autorisés par les budgets précédents.
+
+Les crédits de paiement constituent la limite supérieure des dépenses pouvant être ordonnancées et payées pendant l'exercice budgétaire considéré pour la couverture des engagements ayant fait l'objet d'une inscription au triennal de l'exercice ou aux programmes triennaux précédents.
