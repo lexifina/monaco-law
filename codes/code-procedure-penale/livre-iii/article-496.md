@@ -1,3 +1,3 @@
 # Article 496
 
-Hors les cas prévus aux articles précédents, l'arrêt d'annulation renvoie l'affaire devant la juridiction qui a statué, laquelle sera, sauf impossibilité constatée, composée d'autres juges.
+Hors les cas prévus aux articles précédents, l'arrêt d'annulation renvoie l'affaire, s'il s'agit d'une affaire criminelle, devant le Tribunal Criminel autrement composé, et dans tous les autres cas, à la première session utile de la Cour de Révision autrement composée.
