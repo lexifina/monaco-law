@@ -18,10 +18,8 @@ Le tout avec le maximum de perception égal à 48 euro(s).
 
 4°) pour la délivrance d'un extrait au registre des protêts :
 
-- si l'extrait est positif, |
+- si l'extrait est positif, pour le premier protêt révélé, la somme de ............ | 5 euro(s)
 
-- pour le premier protêt révélé, la somme de............ | 4 euro(s)
-
-- et pour chaque protêt supplémentaire, la somme de ............ | 2 euro(s)
+- et pour chaque protêt supplémentaire, la moitié de cette somme. |
 
 - si l'extrait est négatif, la somme de............ | 5 euro(s)

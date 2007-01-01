@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 3.251 du 12 octobre 1964 portant application de la loi n° 760 du 26 mai 1964 sur les protêts
 
-Version en vigueur au 22 février 2003.
+Version en vigueur au 1er janvier 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/10-12-3.251@2003.02.22/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/10-12-3.251@2007.01.01/
 
 | | |
 | --- | --- |
