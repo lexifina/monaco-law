@@ -4,11 +4,11 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 1 - Affaires ou opérations soumises à un autre impôt :
 
-- les opérations assujetties en France à l'impôt sur les opérations de bourse de commerce, à l'exclusion de celles qui déterminent l'arrêt de la filière ;
+  - les opérations assujetties en France à l'impôt sur les opérations de bourse de commerce, à l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
 - 2 - Pêche :
 
-- les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui concerne la vente des produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
+  - les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui concerne la vente des produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
 
 - 3 - Biens usagés. Déchets neufs d'industrie et matières de récupération :
 

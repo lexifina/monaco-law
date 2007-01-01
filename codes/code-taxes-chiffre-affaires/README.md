@@ -1,11 +1,11 @@
 # Code des taxes sur le chiffre d'affaires
 
-Version en vigueur au 28 octobre 2006.
+Version en vigueur au 1er janvier 2007.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2006.10.28/
+Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2007.01.01/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code des taxes sur le chiffre d'affaires |
-| Dernière modification | 28 octobre 2006 |
+| Dernière modification | 1 janvier 2007 |

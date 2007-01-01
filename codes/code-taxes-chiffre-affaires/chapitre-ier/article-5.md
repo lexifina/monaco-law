@@ -10,47 +10,47 @@ Sont également soumis à la taxe sur la valeur ajoutée :
 
 - 4° Les opérations qui portent sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières lorsqu'elles sont réalisées par les marchands de biens, les lotisseurs et les constructeurs.
 
-- Sont considérées comme marchands de biens les personnes qui, habituellement, achètent en leur nom en vue de les revendre les biens mentionnés ci-dessus ;
+Sont considérées comme marchands de biens les personnes qui, habituellement, achètent en leur nom en vue de les revendre les biens mentionnés ci-dessus ;
 
 - 5° Les opérations concourant à la production ou à la livraison d'immeubles.
 
-- Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
+Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
 
-  - 1 - Sont notamment visés :
+- 1 - Sont notamment visés :
 
-    - a) les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article A-18 de l'annexe au code, ainsi que les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de jouissance, ou qui les occupent en droit ou en fait.
+  - a) les ventes et les apports en société de terrains à bâtir, des biens assimilés à ces terrains par l'article A-18 de l'annexe au code, ainsi que les indemnités de toute nature perçues par les personnes qui exercent sur ces immeubles un droit de propriété ou de jouissance, ou qui les occupent en droit ou en fait.
 
-    - Sont notamment visés par l'alinéa précédent les terrains pour lesquels, dans un délai de quatre ans à compter de la date de l'acte qui constate l'opération, l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou commence les travaux nécessaires pour édifier un immeuble ou un groupe d'immeubles ou pour construire de nouveaux locaux en surélévation ;
+  - Sont notamment visés par l'alinéa précédent les terrains pour lesquels, dans un délai de quatre ans à compter de la date de l'acte qui constate l'opération, l'acquéreur ou le bénéficiaire de l'apport obtient le permis de construire ou commence les travaux nécessaires pour édifier un immeuble ou un groupe d'immeubles ou pour construire de nouveaux locaux en surélévation ;
 
-    - b) les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
+  - b) les ventes d'immeubles et les cessions, sous forme de vente ou d'apport en société, de parts d'intérêt ou d'actions dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble ;
 
-    - c) les livraisons à soi-même d'immeubles.
+  - c) les livraisons à soi-même d'immeubles.
 
-    - Constituent notamment des livraisons à soi-même d'immeubles les travaux portant sur des immeubles existants qui consistent en une surélévation, ou qui rendent à l'état neuf :
+- Constituent notamment des livraisons à soi-même d'immeubles les travaux portant sur des immeubles existants qui consistent en une surélévation, ou qui rendent à l'état neuf :
 
-      - 1° soit la majorité des fondations ;
+  - 1° soit la majorité des fondations ;
 
-      - 2° soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
+  - 2° soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
 
-      - 3° soit la majorité de la consistance des façades hors ravalement ;
+  - 3° soit la majorité de la consistance des façades hors ravalement ;
 
-      - 4° soit l'ensemble des éléments de second ouvre tels que fixés par ordonnance souveraine dans une proportion qui ne peut pas être inférieure à la moitié pour chacun d'entre eux.
+  - 4° soit l'ensemble des éléments de second ouvre tels que fixés par ordonnance souveraine dans une proportion qui ne peut pas être inférieure à la moitié pour chacun d'entre eux.
 
-    - Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
+- Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
 
-  - 2 - Les dispositions qui précèdent ne sont pas applicables :
+- 2 - Les dispositions qui précèdent ne sont pas applicables :
 
-    - aux opérations portant sur des immeubles ou parties d'immeubles qui sont achevés depuis plus de cinq ans ou qui, dans les cinq ans de cet achèvement, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens ;
+  - aux opérations portant sur des immeubles ou parties d'immeubles qui sont achevés depuis plus de cinq ans ou qui, dans les cinq ans de cet achèvement, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens ;
 
-    - aux opérations portant sur les droits sociaux qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus de cinq ans ou qui, dans les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens.
+  - aux opérations portant sur les droits sociaux qui sont afférents à des immeubles ou parties d'immeubles achevés depuis plus de cinq ans ou qui, dans les cinq ans de l'achèvement de ces immeubles ou parties d'immeubles, ont déjà fait l'objet d'une cession à titre onéreux à une personne n'intervenant pas en qualité de marchand de biens.
 
-  - 3 - Les acquisitions de terrains attenant à ceux qui ont été acquis précédemment en vue de la construction de maisons individuelles par des personnes physiques pour leur propre usage et à titre d'habitation principale peuvent, à la demande de l'acquéreur mentionnée dans l'acte, être soumises à la taxe sur la valeur ajoutée.
+- 3 - Les acquisitions de terrains attenant à ceux qui ont été acquis précédemment en vue de la construction de maisons individuelles par des personnes physiques pour leur propre usage et à titre d'habitation principale peuvent, à la demande de l'acquéreur mentionnée dans l'acte, être soumises à la taxe sur la valeur ajoutée.
 
-  - Toutefois, cette disposition :
+- Toutefois, cette disposition :
 
-    - a) n'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la superficie du terrain antérieurement acquis, n'excède pas 2.500 m² par maison ou la superficie minimale exigée par la législation sur le permis de construire lorsqu'elle est supérieure ;
+  - a) n'est applicable qu'à la fraction du terrain attenant qui, compte tenu de la superficie du terrain antérieurement acquis, n'excède pas 2.500 m² par maison ou la superficie minimale exigée par la législation sur le permis de construire lorsqu'elle est supérieure ;
 
-    - b) est subordonnée à la condition que l'acquisition nouvelle soit effectuée moins de deux ans après l'achèvement de la construction.
+  - b) est subordonnée à la condition que l'acquisition nouvelle soit effectuée moins de deux ans après l'achèvement de la construction.
 
 - 6° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens ou à des prestations de services effectuées à titre onéreux.
 
