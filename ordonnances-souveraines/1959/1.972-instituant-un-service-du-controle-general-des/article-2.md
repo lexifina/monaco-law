@@ -1,6 +1,6 @@
 # Article 2
 
-Le contrôleur général des dépenses a pour attributions :
+Le Contrôleur général des dépenses a pour attributions :
 
 - a) le contrôle de l'engagement, de l'ordonnancement et du paiement des dépenses publiques ;
 
@@ -10,4 +10,4 @@ Le contrôleur général des dépenses a pour attributions :
 
 - d) le contrôle du placement des fonds publics et des opérations de trésorerie.
 
-Le contrôleur général des dépenses formule, en outre, un avis motivé sur tout projet de loi, d'ordonnance ou d'arrêté, tout projet de concession ou de contrat et d'une manière générale, sur toute mesure pouvant avoir une répercussion financière.
+Le Contrôleur général des dépenses formule, en outre, un avis motivé sur tout projet de loi, d'ordonnance ou d'arrêté, tout projet de concession ou de contrat et d'une manière générale, sur toute mesure pouvant avoir une répercussion financière.
