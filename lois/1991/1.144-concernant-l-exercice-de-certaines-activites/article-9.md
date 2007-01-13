@@ -12,4 +12,8 @@ Par décision du Ministre d'État, la déclaration visée aux articles 2, 3 et 4
 
 - 5° s'il advient qu'il ne présente plus toutes les garanties de moralité :
 
-- 6° si, sous quelque forme et à quelque titre que ce soit, il a admis que soient exercées ou domiciliées dans ses locaux des activités ou des entreprises non déclarées ou non autorisées ou les a sciemment laissées s'exercer ou y être domiciliées.
+- 6° si, sous quelque forme et à quelque titre que ce soit, il a admis que soient exercées ou domiciliées dans ses locaux des activités ou des entreprises non déclarées ou non autorisées ou les a sciemment laissées s'exercer ou y être domiciliées ;
+
+- 7° si, dans l'exercice de son activité, autorisée ou déclarée, il a méconnu les prescriptions légales ou réglementaires qui lui sont applicables.
+
+Le prononcé d'une mesure de suspension ou de révocation à l'encontre de l'une des personnes mentionnées à l'article 4 n'entraîne pas la dissolution de la société.

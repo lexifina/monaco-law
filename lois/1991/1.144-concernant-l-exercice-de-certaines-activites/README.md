@@ -1,8 +1,8 @@
 # Loi n° 1.144 du 26 juillet 1991 concernant l'exercice de certaines activités économiques et juridiques
 
-Version en vigueur au 20 juillet 2002.
+Version en vigueur au 13 janvier 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1991/07-26-1.144@2002.07.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1991/07-26-1.144@2007.01.13/
 
 | | |
 | --- | --- |
