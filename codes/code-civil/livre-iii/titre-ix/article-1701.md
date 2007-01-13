@@ -1,3 +1,3 @@
 # Article 1701
 
-Les associés sont tenus envers le créancier avec lequel ils ont contracté, chacun pour une somme et part égales, encore que la part de l'un d'eux dans la société fût moindre, si l'acte n'a pas spécialement restreint l'obligation de celui-ci sur le pied de cette dernière part.
+À l'égard des tiers, les associés répondent indéfiniment des dettes sociales à proportion de leur part dans le capital social à la date de l'exigibilité ou au jour de la cessation des paiements.

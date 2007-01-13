@@ -1,5 +1,5 @@
 # Article 1708
 
-La renonciation n'est pas de bonne foi, lorsque l'associé renonce pour s'approprier à lui seul le profit que les associés s'étaient proposé de retirer en commun.
+La transformation régulière d'une société en une société d'une autre forme n'entraîne pas la création d'une personne morale nouvelle.
 
-Elle est faite à contretemps, lorsque les choses ne sont plus entières, et qu'il importe à la société que sa dissolution soit différée.
+Il en est de même de la prorogation ou de toute autre modification statutaire.

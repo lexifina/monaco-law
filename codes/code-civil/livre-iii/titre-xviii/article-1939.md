@@ -20,9 +20,7 @@ Les créances privilégiées sur certains meubles sont :
 
 - Si la vente a été faite sans terme, le vendeur peut même revendiquer ces effets tant qu'ils sont en la possession de l'acheteur et en empêcher la revente, pourvu que la revendication soit faite dans la huitaine de la livraison, et que les effets se trouvent dans le même état dans lequel cette livraison a été faite.
 
-- Le privilège du vendeur ne s'exerce toutefois qu'après celui du propriétaire de la maison, à moins qu'il ne soit prouvé que le propriétaire
-
-- avait connaissance que les meubles et autres objets garnissant sa maison n'appartenaient pas au locataire.
+- Le privilège du vendeur ne s'exerce toutefois qu'après celui du propriétaire de la maison, à moins qu'il ne soit prouvé que le propriétaire avait connaissance que les meubles et autres objets garnissant sa maison n'appartenaient pas au locataire.
 
 - Il n'est rien innové aux lois et usages du commerce sur la revendication ;
 

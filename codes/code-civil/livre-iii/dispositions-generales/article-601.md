@@ -4,7 +4,7 @@
 
 Les produits de l'industrie humaine que la mer recèle ou rejette ne cessent pas d'appartenir à leur légitime propriétaire, s'il est connu.
 
-Les épaves doivent être consignées à l'administration publique qui, selon les cas, peut les abandonner, en tout ou en partie, à l'inventeur, après en avoir recherché sans succès le propriétaire.
+Les épaves doivent être consignées à l'administration publique qui, selon les cas, peut les abandonner, en tout ou en partie, à 1 inventeur, après en avoir recherché sans succès le propriétaire.
 
 Il en est de même des objets trouvés à terre et dont le maître est inconnu.
 
