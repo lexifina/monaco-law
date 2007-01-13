@@ -1,8 +1,8 @@
 # Loi n° 408 du 20 janvier 1945 complétant l'ordonnance sur les sociétés anonymes et en commandite par actions, du 5 mars 1895, notamment en ce qui concerne la nomination, les attributions et la responsabilité des commissaires
 
-Version en vigueur au 2 janvier 1999.
+Version en vigueur au 13 janvier 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1945/01-20-408@1999.01.02/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1945/01-20-408@2007.01.13/
 
 | | |
 | --- | --- |
