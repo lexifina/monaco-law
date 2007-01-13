@@ -1,0 +1,3 @@
+# Article 46
+
+Sans préjudice des dispositions des articles 362 à 368 du Code pénal, sont punis d'un emprisonnement de un à six mois et de l'amende prévue à l'article précédent, ou de l'une de ces deux peines seulement, ceux qui mettent ou tentent de mettre sur le marché des denrées alimentaires ou des aliments pour animaux considérés comme dangereux au sens des articles 2 à 4 et des arrêtés ministériels pris pour leur application, ou bien saisis, consignés ou confisqués en application des articles 36 ou 45. La peine d'emprisonnement peut être portée à trois ans si l'auteur a tenté de dissimuler la dangerosité de la denrée ou de l'aliment par des manœuvres frauduleuses ou falsificatrices.
