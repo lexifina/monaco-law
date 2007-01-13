@@ -1,0 +1,12 @@
+# Arrêté de la direction des Services judiciaires n° 2007-1 du 2 janvier 2007 fixant les conditions d'application de l'ordonnance souveraine n° 885 du 22 décembre 2006 reconduisant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats-stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
+
+Version en vigueur au 13 janvier 2007.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-directorial/2007/01-02-2007-1@2007.01.13/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté directorial |
+| Date du texte | 2 janvier 2007 |
+| Publication | Journal de Monaco du 12 janvier 2007 |

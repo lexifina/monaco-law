@@ -1,0 +1,1 @@
+Arrêté de la direction des Services judiciaires n° 2007-1 du 2 janvier 2007 fixant les conditions d'application de l'ordonnance souveraine n° 885 du 22 décembre 2006 reconduisant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats-stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
