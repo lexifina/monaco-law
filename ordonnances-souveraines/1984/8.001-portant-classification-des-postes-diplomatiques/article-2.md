@@ -114,6 +114,8 @@ Les postes consulaires sont les suivants :
 
 - Portugal : Lisbonne, Ponta Delgada, Porto ;
 
+- République de Bulgarie : Sofia ;
+
 - Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
 - Saint-Marin : Saint-Marin ;
@@ -139,5 +141,3 @@ Les postes consulaires sont les suivants :
 - Turquie : Istanbul ;
 
 - Venezuela : Caracas.
-
-- République de Bulgarie : Sofia ;

@@ -20,4 +20,6 @@ Les postes diplomatiques sont les suivants :
 
 - Ambassade au Saint-Siège : Vatican,
 
-- Ambassade en Suisse (Confédération suisse) : Berne.
+- Ambassade en Suisse (Confédération suisse) : Berne,
+
+- Ambassade aux Etats-Unis d'Amérique : Washington.
