@@ -1,7 +1,5 @@
 # Article 53
 
-Toute continuation de société, après son terme expiré, sera constatée par une déclaration des co-associés.
+Toute modification statutaire portant sur l'une des mentions prévues à l'article 50 est soumise aux formalités des articles 49 et 51. Toutefois, les changements de domicile ne sont pas soumis à publication au Journal de Monaco.
 
-Cette déclaration et tous actes portant dissolution de société avant le terme fixé pour sa durée par l'acte qui l'établit, tout changement ou retraite d'associes, toutes nouvelles stipulations ou clauses, tout changement à la raison de société, sont soumis aux formalités prescrites par les articles 49, 50 et 51.
-
-En cas d'omission de ces formalités, il y aura lieu à l'application des dispositions pénales de l'article 49, dernier alinéa.
+En cas d'omission de ces formalités, toute personne ayant intérêt à la régularisation des formalités peut mettre la société en demeure d'y procéder dans un délai de six mois. À défaut de régularisation dans ce délai, tout intéressé peut demander la désignation d'un mandataire chargé d'accomplir ladite formalité par le Président du Tribunal de Première Instance statuant sur requête.

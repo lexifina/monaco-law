@@ -1,13 +1,17 @@
 # Article 50
 
-L'extrait doit contenir :
+L'extrait des actes constitutifs mentionné à l'article précédent doit contenir :
 
-Les nom, prénoms, qualités et demeures des associés autres que les actionnaires ou commanditaires,
+- - la date des statuts,
 
-La raison de commerce de la société,
+- - la forme de la société et son objet social,
 
-La désignation de ceux des associés autorisés à gérer, administrer et signer pour la société,
+- - les noms, prénoms et domicile des associés indéfiniment responsables des dettes sociales,
 
-Le montant des valeurs fournies ou à fournir par actions ou en commandite,
+- - le siège social,
 
-L'époque où la société doit commencer, et celle où elle doit finir.
+- - le montant du capital social,
+
+- - la durée,
+
+- - la désignation des personnes autorisées à gérer et administrer la société.

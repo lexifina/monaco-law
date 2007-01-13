@@ -1,9 +1,11 @@
 # Article 26
 
-La loi reconnaît trois espèces de sociétés commerciales :
+La loi reconnaît quatre espèces de sociétés commerciales :
 
-- La société en nom collectif ;
+- la société en nom collectif,
 
-- La société en commandite ;
+- la société en commandite,
 
-- La société anonyme.
+- la société à responsabilité limitée,
+
+- la société anonyme.

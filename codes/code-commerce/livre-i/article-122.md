@@ -12,6 +12,6 @@ Après l'expiration des délais fixés :
 
 Toutefois, la déchéance n'a lieu à l'égard du tireur que s'il justifie qu'il a fait provision à l'échéance. Le porteur, en ce cas, ne conserve d'action que contre celui sur qui la lettre de change était tirée.
 
-À défaut de présentation à l'acceptation dans le délai stipulé par le tireur, le porteur est déchu de ses droits de recours, tant pour défaut de paiement que pour défaut d'acceptation, à moins qu'il ne résulte des termes de la stipulation que le tireur n'a entendu s'exonérer que de la garantie de 1 acceptation.
+À défaut de présentation à l'acceptation dans le délai stipulé par le tireur, le porteur est déchu de ses droits de recours, tant pour défaut de paiement que pour défaut d'acceptation, à moins qu'il ne résulte des termes de la stipulation que le tireur n'a entendu s'exonérer que de la garantie de l'acceptation.
 
 Si la stipulation d'un délai pour la présentation est contenue dans un endossement, l'endosseur, seul, peut s'en prévaloir.
