@@ -8,4 +8,4 @@ Les pharmaciens admis à exercer la profession peuvent seuls se livrer aux opér
 
 - 3° la vente en gros ou en détail et la délivrance au public des médicaments, objets, articles et produits cités ci-dessus ;
 
-- 4° la vente des plantes médicinales inscrites à la pharmacopée, sous réserve des dérogations déterminées par un arrêté ministériel pris après avis du comité supérieur de la Santé publique.
+- 4° la vente des plantes médicinales inscrites à la pharmacopée, sous réserve des dérogations déterminées par un arrêté ministériel pris après avis du comité supérieur de la Santé publique
