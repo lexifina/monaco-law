@@ -116,6 +116,8 @@ Les postes consulaires sont les suivants :
 
 - République de Bulgarie : Sofia ;
 
+- République de Maurice : Port Louis.
+
 - Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
 - Saint-Marin : Saint-Marin ;
