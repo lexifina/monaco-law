@@ -1,5 +1,0 @@
-# Article 1er
-
-Les dispositions de l'article premier de l'arrêté ministériel n° 88-679 du 20 décembre 1988 sont supprimées et remplacées par les dispositions suivantes :
-
-Voir l'article 1er de l'arrêté ministériel n° 88-679 du 20 décembre 1988.
