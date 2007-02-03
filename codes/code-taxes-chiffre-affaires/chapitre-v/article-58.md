@@ -8,4 +8,4 @@ Les dispositions ne s'appliquent pas aux recettes provenant :
 
 - a) Des représentations théâtrales à caractère pornographique,
 
-- b) De la vente de billets imposée au taux réduit dans les conditions prévues au d bis) de l'article 56.
+- b) (b abrogé).

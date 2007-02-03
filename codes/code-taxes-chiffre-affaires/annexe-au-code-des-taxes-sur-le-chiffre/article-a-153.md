@@ -6,11 +6,11 @@ Les factures émises dans le cadre de ce mandat peuvent ne pas être authentifi�
 
 Lorsque le client ou le tiers mandaté par l'assujetti pour émettre les factures, en son nom et pour son compte, est établi dans un pays avec lequel il n'existe aucun instrument juridique relatif à l'assistance mutuelle ayant une portée similaire à celle prévue par la directive 76/308/CEE du Conseil du 15mars 1976 concernant l'assistance mutuelle en matière de recouvrement des créances relatives à certaines cotisations, droits, taxes et autres mesures et par la directive 77/799/CEE du Conseil du 19 décembre 1977 concernant l'assistance mutuelle des autorités compétentes des Etats membres de l'Union Européenne dans le domaine des impôts directs et indirects et le règlement (CE) 1798/2003 du Conseil du 7 octobre 2003 concernant la coopération administrative dans le domaine de la taxe sur la valeur ajoutée, les règles suivantes s'appliquent :
 
-a) l'assujetti en informe l'administration par écrit en indiquant le nom et l'adresse du client ou tiers ainsi mandaté lorsque ce dernier établit de manière régulière des factures au nom et pour le compte de cet assujetti.
+- a) l'assujetti en informe l'administration par écrit en indiquant le nom et l'adresse du client ou tiers ainsi mandaté lorsque ce dernier établit de manière régulière des factures au nom et pour le compte de cet assujetti.
 
-À cette fin, il dépose un état auprès de la Direction des Services Fiscaux dans les mêmes délais que sa déclaration de chiffre d'affaires du mois de décembre ou du dernier trimestre civil ;
+- À cette fin, il dépose un état auprès de la Direction des Services Fiscaux dans les mêmes délais que sa déclaration de chiffre d'affaires du mois de décembre ou du dernier trimestre civil ;
 
-b) les factures concernées sont émises dès la réalisation de la livraison ou de la prestation de services sans que puisse être utilisée la possibilité de délivrer des factures périodiques dans les conditions prévues au deuxième alinéa du 3 du I de l'article 71 du Code des taxes.
+- b) les factures concernées sont émises dès la réalisation de la livraison ou de la prestation de services sans que puisse être utilisée la possibilité de délivrer des factures périodiques dans les conditions prévues au deuxième alinéa du 3 du I de l'article 71 du Code des taxes.
 
 II - Les factures périodiques visées au 3 du I de l'article 71 du Code des taxes ne peuvent être émises que lorsque l'assujetti réalise, au cours du même mois civil, plusieurs opérations au profit d'un même client.
 

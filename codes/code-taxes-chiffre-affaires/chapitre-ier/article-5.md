@@ -10,11 +10,11 @@ Sont également soumis à la taxe sur la valeur ajoutée :
 
 - 4° Les opérations qui portent sur des immeubles, des fonds de commerce ou des actions ou parts de sociétés immobilières lorsqu'elles sont réalisées par les marchands de biens, les lotisseurs et les constructeurs.
 
-Sont considérées comme marchands de biens les personnes qui, habituellement, achètent en leur nom en vue de les revendre les biens mentionnés ci-dessus ;
+- Sont considérées comme marchands de biens les personnes qui, habituellement, achètent en leur nom en vue de les revendre les biens mentionnés ci-dessus ;
 
 - 5° Les opérations concourant à la production ou à la livraison d'immeubles.
 
-Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
+- Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil.
 
 - 1 - Sont notamment visés :
 
@@ -54,23 +54,23 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 
 - 6° Les opérations suivantes assimilées, selon le cas, à des livraisons de biens ou à des prestations de services effectuées à titre onéreux.
 
-  - 1 - Sont assimilés à des livraisons de biens effectuées à titre onéreux :
+- 1 - Sont assimilés à des livraisons de biens effectuées à titre onéreux :
 
-    - a) le prélèvement par un assujetti d'un bien de son entreprise pour ses besoins privés ou ceux de son personnel ou qu'il transmet à titre gratuit ou, plus généralement, qu'il affecte à des fins étrangères à son entreprise, lorsque ce bien ou les éléments le composant ont ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux de faible valeur et des échantillons. Le montant à retenir pour l'imposition des prélèvements correspondant aux cadeaux de faible valeur est fixé par l'article A-19 de l'annexe au code. Cette limite s'applique par objet et par an pour un même bénéficiaire ;
+  - a) le prélèvement par un assujetti d'un bien de son entreprise pour ses besoins privés ou ceux de son personnel ou qu'il transmet à titre gratuit ou, plus généralement, qu'il affecte à des fins étrangères à son entreprise, lorsque ce bien ou les éléments le composant ont ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée. Toutefois, ne sont pas visés les prélèvements effectués pour les besoins de l'entreprise pour donner des cadeaux de faible valeur et des échantillons. Le montant à retenir pour l'imposition des prélèvements correspondant aux cadeaux de faible valeur est fixé par l'article A-19 de l'annexe au code. Cette limite s'applique par objet et par an pour un même bénéficiaire ;
 
-    - b) l'affectation par un assujetti aux besoins de son entreprise d'un bien produit, construit, extrait, transformé, acheté, importé ou ayant fait l'objet d'une acquisition intracommunautaire dans le cadre de son entreprise lorsque l'acquisition d'un tel bien auprès d'un autre assujetti, réputée faite au moment de l'affectation, ne lui ouvrirait pas droit à déduction complète parce que le droit à déduction de la taxe afférente au bien fait l'objet d'une exclusion ou d'une limitation ou peut faire l'objet d'une régularisation ; cette disposition s'applique notamment en cas d'affectation de biens à des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée ;
+  - b) l'affectation par un assujetti aux besoins de son entreprise d'un bien produit, construit, extrait, transformé, acheté, importé ou ayant fait l'objet d'une acquisition intracommunautaire dans le cadre de son entreprise lorsque l'acquisition d'un tel bien auprès d'un autre assujetti, réputée faite au moment de l'affectation, ne lui ouvrirait pas droit à déduction complète parce que le droit à déduction de la taxe afférente au bien fait l'objet d'une exclusion ou d'une limitation ou peut faire l'objet d'une régularisation ; cette disposition s'applique notamment en cas d'affectation de biens à des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée ;
 
-    - c) l'affectation d'un bien par un assujetti à un secteur d'activité exonéré n'ouvrant pas droit à déduction, lorsque ce bien a ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée lors de son acquisition ou de son affectation conformément au b) ;
+  - c) l'affectation d'un bien par un assujetti à un secteur d'activité exonéré n'ouvrant pas droit à déduction, lorsque ce bien a ouvert droit à une déduction complète ou partielle de la taxe sur la valeur ajoutée lors de son acquisition ou de son affectation conformément au b) ;
 
-    - d) la détention de biens par un assujetti ou par ses ayants droit en cas de cessation de son activité économique taxable, lorsque ces biens ont ouvert droit à déduction complète ou partielle lors de leur acquisition ou de leur affectation conformément au b) ;
+  - d) la détention de biens par un assujetti ou par ses ayants droit en cas de cessation de son activité économique taxable, lorsque ces biens ont ouvert droit à déduction complète ou partielle lors de leur acquisition ou de leur affectation conformément au b) ;
 
-  - 2 - Sont assimilées à des prestations de services effectuées à titre onéreux :
+- 2 - Sont assimilées à des prestations de services effectuées à titre onéreux :
 
-    - a) l'utilisation d'un bien affecté à l'entreprise pour les besoins privés de l'assujetti ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise, lorsque ce bien a ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée ;
+  - a) l'utilisation d'un bien affecté à l'entreprise pour les besoins privés de l'assujetti ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise, lorsque ce bien a ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée ;
 
-    - b) les prestations de services à titre gratuit effectuées par l'assujetti pour ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise.
+  - b) les prestations de services à titre gratuit effectuées par l'assujetti pour ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise.
 
-  - Les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible sont fixés par les articles A-20 à A-22 de l'annexe au code.
+- Les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible sont fixés par les articles A-20 à A-22 de l'annexe au code.
 
 - 7° Les livraisons qu'un non-redevable de la taxe sur la valeur ajoutée se fait lui-même et qui portent sur les viandes des animaux de boucherie et de charcuterie tels qu'ils sont définis par l'article A-23 de l'annexe au code.
 

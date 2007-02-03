@@ -6,4 +6,4 @@
 
 3. Les assujettis qui interviennent au nom et pour le compte d'autrui dans des opérations mentionnées au a du 1 de l'article100 bis A, peuvent, sur option, soumettre à la TVA leurs prestations lorsque l'opération dans laquelle ils s'entremettent est imposée en application du 1 ou du 2 ci-dessus.
 
-4. Lorsqu'ils ont exercé l'une des options ci-dessus, les assujettis portent sur la facture qu'ils délivrent la mention « application de l'article 26 ter C de la directive 77/388/CEE modifié » . À défaut l'option est réputée ne pas avoir été exercée.
+4. Lorsqu'ils ont exercé l'une des options ci-dessus, les assujettis portent sur la facture qu'ils délivrent la mention » application de l'article 26 ter C de la directive 77/388/CEE modifié. À défaut l'option est réputée ne pas avoir été exercée.

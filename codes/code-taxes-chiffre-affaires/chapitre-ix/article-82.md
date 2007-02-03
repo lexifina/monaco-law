@@ -18,7 +18,7 @@ II. - Sont assimilés à une importation d'un bien au sens du a) du 2 de l'artic
 
 - 5° L'affectation à Monaco par un assujetti ou par un non assujetti d'un bien mentionné au 1 du I qui lui a été livré, avant le 1er janvier 1993, à l'intérieur d'un État membre de la Communauté européenne autre que la France ou d'un bien mentionné au 2 du I qui lui a été livré, avant le 1er janvier 1995, à l'intérieur de l'un de ces États, de l'Autriche, de la Finlande ou de la Suède, lorsque les conditions suivantes sont réunies :
 
-  - a) La livraison de ce bien a été exonérée, ou était susceptible d'être exonérée, en vertu du 1 et du 2 de l'article 15 de la directive 77/388/CEE du Conseil du 17 mai 1977 ou de dispositions similaires applicables en Autriche, en Finlande ou en Suède.
+  - a) La livraison de ce bien a été exonérée, ou était susceptible d'être exonérée, en vertu du 1 et du 2 de l'article15 de la directive 77/388/CEE du Conseil du 17 mai 1977 ou de dispositions similaires applicables en Autriche, en Finlande ou en Suède.
 
   - b) Le bien n'a pas été importé à Monaco ou en France avant le 1er janvier 1993 pour un bien mentionné au 1 du I ou avant le 1er janvier 1995 pour un bien mentionné au 2 du I.
 

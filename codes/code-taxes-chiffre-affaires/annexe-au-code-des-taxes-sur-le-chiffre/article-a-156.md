@@ -14,7 +14,7 @@ La déclaration, mentionnée à l'article 74 du code. servie ligne par ligne, co
 
   - le niveau d'obligation statistique de l'opérateur et, s'il y a lieu, le nom et le numéro d'agrément lorsqu'il s'agit d'un commissionnaire en douane, de la tierce personne mentionnée à l'article A-155 ;
 
-  - Le régime de l'opération, sous réserve des dispositions du 3°.
+- Le régime de l'opération, sous réserve des dispositions du 3°.
 
 - 2° Au titre des livraisons de biens, quelle que soit leur valeur :
 
@@ -32,32 +32,32 @@ La déclaration, mentionnée à l'article 74 du code. servie ligne par ligne, co
 
 - Le nombre et la nature des autres informations portées sur la déclaration dépendent de la nature des flux précisés à l'article A-154 de la présente annexe au code et du montant des échanges par rapport aux seuils définis par l'article A-157 et fixés par l'article A-158 ci-après.
 
-  - a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
+- a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
 
-    - 1° La nomenclature de produit. Dans le cas général, les codes à mentionner sont ceux de la nomenclature combinée en vigueur. Dans les cas particuliers prévus par la réglementation douanière, la codification plus détaillée spécifiée dans cette réglementation doit être utilisée ;
+  - 1° La nomenclature de produit. Dans le cas général, les codes à mentionner sont ceux de la nomenclature combinée en vigueur. Dans les cas particuliers prévus par la réglementation douanière, la codification plus détaillée spécifiée dans cette réglementation doit être utilisée ;
 
-    - 2° La valeur en euros des introductions/expéditions de biens ;
+  - 2° La valeur en euros des introductions/expéditions de biens ;
 
-    - 3° L'Etat membre autre que la France de provenance ou de destination des produits.
+  - 3° L'Etat membre autre que la France de provenance ou de destination des produits.
 
-  - Ces opérateurs ont la possibilité de mentionner au maximum dix des sous-positions de la nomenclature combinée des produits les plus importants en valeur de leurs déclarations et de regrouper l'ensemble des autres produits sous une position unique de la nomenclature combinée fixée par la réglementation douanière.
+- Ces opérateurs ont la possibilité de mentionner au maximum dix des sous-positions de la nomenclature combinée des produits les plus importants en valeur de leurs déclarations et de regrouper l'ensemble des autres produits sous une position unique de la nomenclature combinée fixée par la réglementation douanière.
 
-  - b) De plus, pour les opérateurs dont le montant annuel des échanges intra-communautaires est supérieur au seuil de simplification :
+- b) De plus, pour les opérateurs dont le montant annuel des échanges intra-communautaires est supérieur au seuil de simplification :
 
-    - le pays d'origine des produits, à l'introduction ;
+  - le pays d'origine des produits, à l'introduction ;
 
-    - la masse nette de la marchandise et, le cas échéant, les unités supplémentaires ;
+  - la masse nette de la marchandise et, le cas échéant, les unités supplémentaires ;
 
-    - la nature de la transaction.
+  - la nature de la transaction.
 
-  - c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b dont le montant annuel des échanges intracommunautaires excède un seuil fixé par la réglementation douanière :
+- c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b dont le montant annuel des échanges intracommunautaires excède un seuil fixé par la réglementation douanière :
 
-    - 1° Le mode de transport ;
+  - 1° Le mode de transport ;
 
-    - 2° Le lieu (département pour la France) d'expédition initiale ou de destination des produits.
+  - 2° Le lieu (département pour la France) d'expédition initiale ou de destination des produits.
 
-  - d) Les opérateurs ont la possibilité de regrouper sous une position unique de la nomenclature combinée les transactions dont le montant en valeur est inférieur à un seuil fixé par arrêté ministériel. Dans ce cas les informations visées au b) et c) ne sont pas renseignées.
+- d) Les opérateurs ont la possibilité de regrouper sous une position unique de la nomenclature combinée les transactions dont le montant en valeur est inférieur à un seuil fixé par arrêté ministériel. Dans ce cas les informations visées au b) et c) ne sont pas renseignées.
 
-  - Pour les opérateurs visés au b) et c), le montant total repris sous cette position unique de la nomenclature combinée ne peut cependant excéder une valeur fixée par arrêté ministériel.
+- Pour les opérateurs visés au b) et c), le montant total repris sous cette position unique de la nomenclature combinée ne peut cependant excéder une valeur fixée par arrêté ministériel.
 
-  - e) Les opérateurs visés aux a) et b) peuvent se dispenser de la mention du régime pour les opérations n'impliquant pas l'indication du numéro d'identification à la TVA du partenaire étranger.
+- e) Les opérateurs visés aux a) et b) peuvent se dispenser de la mention du régime pour les opérations n'impliquant pas l'indication du numéro d'identification à la TVA du partenaire étranger.

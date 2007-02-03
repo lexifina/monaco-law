@@ -10,7 +10,7 @@
 
 2 bis. La disposition mentionnée au 1 n'est pas applicable aux travaux de nettoyage ainsi qu'aux travaux d'aménagement et d'entretien des espaces verts.
 
-3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou le cas échéant au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux an et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
+3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou le cas échéant au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux ans et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
 
 Le preneur doit conserver copie de cette attestation ainsi que les factures ou notes émises par les entreprises ayant réalisé des travaux jusqu'au 31 décembre de la cinquième année suivant la réalisation de ces travaux.
 

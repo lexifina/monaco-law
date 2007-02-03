@@ -1,9 +1,11 @@
 # Article 76
 
-I. - Dans les établissements de spectacles comportant un prix d'entrée, les exploitants doivent délivrer un billet à chaque spectateur avant l'entrée dans la salle de spectacles.
+I. - Sur les lieux où sont organisés des spectacles comportant un prix d'entrée, les exploitants doivent délivrer un billet à chaque spectateur ou enregistrer et conserver dans un système informatisé les données relatives à l'entrée avant l'accès au lieu du spectacle.
 
-Les modalités d'application du présent article, notamment les obligations incombant aux exploitants d'établissements de spectacles, ainsi qu'aux fabricants, importateurs ou marchands de billets d'entrée sont fixées par les articles A-173 à A-179 de l'annexe au code.
+Les modalités d'application du présent article, notamment les obligations incombant aux exploitants d'un lieu de spectacles, ainsi qu'aux fabricants, importateurs ou marchands de billets d'entrée sont fixées par les articles A-173 à A-179 de l'annexe au code.
 
-II. - Lorsqu'ils ne délivrent pas de billets d'entrée en application du I, les exploitants de discothèques et de café-dansants sont tenus de remettre à leurs clients un ticket émis par une caisse enregistreuse.
+II. - Lorsqu'ils ne délivrent pas de billets d'entrée et qu'ils ne disposent pas d'un système informatisé prévu au I, les exploitants de discothèques et de café-dansants sont tenus de remettre à leurs clients un ticket émis par une caisse enregistreuse.
 
 III. - Les infractions aux dispositions du présent article ainsi qu'aux textes pris pour leur application sont recherchées, constatées, poursuivies et sanctionnées comme en matière de contributions indirectes.
+
+Les agents de la direction des Services fiscaux, ayant au moins le grade d'inspecteur, ont un accès immédiat aux données conservées dans les systèmes dématérialisés de billetterie, ainsi qu'à la restitution des informations en clair.
