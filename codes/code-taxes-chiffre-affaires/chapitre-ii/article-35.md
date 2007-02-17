@@ -40,6 +40,6 @@ Des ordonnances peuvent fixer des bases minimales ou forfaitaires d'imposition p
 
   - la valeur vénale réelle des biens si cette valeur vénale est supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux, augmenté des charges.
 
-Toutefois, dans le cas de cession de droits sociaux, la base d'imposition ainsi définie peut être diminuée dans les conditions précisées à l'article A-6 de l'annexe au code du montant des sommes investies par le cédant pour la souscription ou l'acquisition desdits droits. Dans cette hypothèse, les dispositions de l'article 42 cessent de s'appliquer.
+- Toutefois, dans le cas de cession de droits sociaux, la base d'imposition ainsi définie peut être diminuée dans les conditions précisées à l'article A-6 de l'annexe au code du montant des sommes investies par le cédant pour la souscription ou l'acquisition desdits droits. Dans cette hypothèse, les dispositions de l'article 42 cessent de s'appliquer.
 
 4. Lorsqu'un bail à construction a fait l'objet de l'option visée à l'article 15-2°, il est fait abstraction, pour la détermination de la base d'imposition, de la valeur du droit de reprise des constructions lorsque celles-ci doivent devenir la propriété du bailleur en fin de bail.

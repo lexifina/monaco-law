@@ -1,12 +1,12 @@
 # Article 56 bis
 
-1. La TVA est perçue au taux réduit sur les travaux d'amélioration, de transformation, d'aménagement et d'entretien portant sur des locaux à usage d'habitation, achevés depuis plus de deux ans à l'exception de la fourniture d'équipements ménagers ou mobiliers.
+1. - La taxe sur la valeur ajoutée est perçue au taux réduit sur les travaux d'amélioration, de transformation, d'aménagement et d'entretien portant sur les locaux à usage d'habitation, achevés depuis plus de deux ans, à l'exception de la part correspondant à la fourniture d'équipements ménagers ou mobiliers ou à l'acquisition de gros équipements fournis dans le cadre de travaux d'installation ou de remplacement du système de chauffage, des ascenseurs ou de l'installation sanitaire dont la liste est fixée par arrêté ministériel.
 
 2. Cette disposition n'est pas applicable aux travaux réalisés sur une période de deux ans au plus:
 
 - a) qui concourent à la production d'un immeuble au sens des deuxième à sixième alinéa du c du 1 du 5° de l'article 5 ;
 
-- b) à l'issue desquels la surface de plancher hors ouvre nette des locaux existants est majorée de plus de 10 %.
+- b) à l'issue desquels la surface de plancher hors œuvre nette des locaux existants est majorée de plus de 10 %.
 
 2 bis. La disposition mentionnée au 1 n'est pas applicable aux travaux de nettoyage ainsi qu'aux travaux d'aménagement et d'entretien des espaces verts.
 

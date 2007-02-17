@@ -34,7 +34,7 @@ II. - Toutefois, sont exonérés :
 
 - 8° Les œuvres d'art originales, les timbres, objets de collection ou d'antiquité, lorsque l'importation est réalisée directement à destination d'établissements agréés par les autorités compétentes.
 
-Les conditions d'application de ces dispositions sont fixées par l'article A-182 de l'annexe au code.
+- Les conditions d'application de ces dispositions sont fixées par l'article A-182 de l'annexe au code.
 
 III. - Sont également exonérés de la taxe sur la valeur ajoutée :
 

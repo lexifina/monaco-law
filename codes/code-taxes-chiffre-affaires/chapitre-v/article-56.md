@@ -46,7 +46,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
 - Cette disposition n'est pas applicable aux cessions de droits portant sur des œuvres d'architecture et des logiciels.
 
-- j) les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères et du gaz naturel combustible, distribués par réseaux.
+- j) les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 60 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération.
 
 - La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur le même site.
 
