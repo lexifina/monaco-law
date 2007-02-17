@@ -248,41 +248,29 @@ Les carnets WW pourront ne pas être renouvelés dans l'année en cas d'emploi a
 
 Le nombre des carnets attribués aux professionnels pourra de même être réduit dans une forte proportion ou leur délivrance refusée en cas d'infractions répétées.
 
-* Véhicules appartenant aux Ministres Plénipotentiaires de SAS le Principe Souverain et aux agents diplomatiques ou consulaires, accrédités auprès de SAS le Prince Souverain et résidant dans la Principauté.
+Véhicules appartenant au Ministère d'Etat, aux membres du corps diplomatique accrédités auprès de S.A.S. le Prince Souverain ainsi qu'aux membres du personnel administratif et technique des Ambassades et aux fonctionnaires des Organismes Internationaux :
 
-- Ministres plénipotentiaires de SAS le Prince Souverain :
-
-Couleur des caractères : vert.
-
-Le numéro d'immatriculation est composé du symbole CD suivi d'un chiffre et de la lettre Z soit CD 1Z à CD 9Z.
-
-- Membres du corps diplomatique :
-
-Couleur des caractères : vert.
-
-Le numéro d'immatriculation est composé du symbole CD suivi d'un groupe de deux chiffres allant du n° CD 10 à CD 99.
-
-- Membres du corps consulaire de carrière :
-
-Couleur des caractères : vert.
-
-Le numéro d'immatriculation est composé d'un numéro d'identification suivi du symbole CC et d'un numéro d'ordre classant les véhicules de chaque consulat ; le numéro d'identification correspond au classement des consulats par ordre alphabétique et commence au chiffre 1.
-
-- Agents consulaires honoraires :
+- Véhicules du Ministère d'Etat
 
 Couleur des caractères : bleu.
 
-Le numéro d'immatriculation est composé du symbole CC suivi d'un numéro allant de 01 à 99. Une seule immatriculation sera consentie par agent accrédité pour un même consulat.
+Le numéro d'immatriculation est composé d'un chiffre suivi des lettres "ME " et d'un chiffre. L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
 
-L'immatriculation des véhicules de la série Diplomatique est exonérée des droits sur les pièces administratives établies ou délivrées par application des dispositions du Code de la Route.
+- Véhicules des membres du corps diplomatique
 
-Toutefois, les immatriculations des véhicules des agents consulaires honoraires sont assimilées à celles de la série normale et ne peuvent bénéficier ni de l'exonération susvisée, ni de l'achat hors taxes ou de l'importation en franchise douanière.
+Couleur des caractères : bleu.
 
-Membre du personnel administratif et technique :
+Le numéro d'immatriculation est composé des lettres " CD " suivies d'un numéro d'identification et d'une lettre classant les véhicules de chaque Ambassade et Organisme International.
 
-Couleur de caractère : vert
+L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
 
-Le numéro d'immatriculation est composé d'un numéro identique à celui attribué aux membres du corps consulaire de carrière suivi de la lettre " K " et d'un numéro d'ordre classant les véhicules de chaque personne au service de chaque consulat. Il ne peut être attribué qu'un seul numéro d'immatriculation par membre du personnel.
+- Véhicules des membres du personnel administratif et technique des Ambassades et des fonctionnaires des Organismes Internationaux Couleur des caractères : bleu.
+
+Le numéro d'immatriculation est composé d'un numéro d'identification identique à celui attribué aux membres du corps diplomatique suivi de la lettre " K " et de deux chiffres classant les véhicules des membres du personnel administratif et technique des Ambassades et des fonctionnaires des Organismes Internationaux ne bénéficiant pas d'un statut diplomatique.
+
+Il ne peut être attribué qu'un seul numéro d'immatriculation par membre du personnel administratif et technique des Ambassades et par fonctionnaire des Organismes Internationaux.
+
+Les immatriculations des véhicules de cette sous-catégorie ne peuvent pas bénéficier de l'exonération de droits ayant trait à l'application du Code de la route.
 
 * Véhicules automobiles ou remorqués de plus de 25 ans d'âge ;
 
@@ -325,3 +313,11 @@ Pour les véhicules automobiles :
 Pour les motocycles et assimilés y compris les cyclomoteurs :
 
 - les deux lettres VE suivies d'un groupe de deux chiffres, soit du n° VE01 au n° VE99, ou un groupe de deux chiffres suivi des deux lettres VE, soit du n° 01VE au n° 99VE.
+
+Véhicules appartenant aux agents consulaires honoraires accrédités auprès de S.A.S. le Prince Souverain :
+
+Couleur des caractères : bleu.
+
+Le numéro d'immatriculation est composé des lettres "CC" suivies d'un numéro allant de 1 à 99. Une seule immatriculation est consentie par agent accrédité pour un même consulat.
+
+Les immatriculations des véhicules de cette série sont assimilées à celles de la série normale et ne peuvent bénéficier ni de l'exonération de droits ayant trait à l'application du Code de la route, ni de l'achat hors taxes ou de l'importation en franchise douanière.
