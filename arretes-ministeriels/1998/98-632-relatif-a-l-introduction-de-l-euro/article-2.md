@@ -20,4 +20,8 @@ Le taux de conversion entre l'unité euro et les unités monétaires visées à 
 
 - un euro pour 166,386 pesetas espagnoles (ESP) ;
 
-- un euro pour 13,7603 schillings autrichiens (ATS).
+- un euro pour 13,7603 schillings autrichiens (ATS) ;
+
+- un euro pour 340,750 drachmes grecques (GRD) ;
+
+- un euro pour 239,640 tolars slovènes (SIT).
