@@ -22,4 +22,6 @@ Les emplois supérieurs, visés au deuxième alinéa de l'article 4 de la loi n�
 
 - Commissaires de police et Chef de la Sûreté Publique ;
 
-- Inspecteur des finances.
+- Inspecteur des finances ;
+
+- Chef de Cabinet du Président du Conseil National.
