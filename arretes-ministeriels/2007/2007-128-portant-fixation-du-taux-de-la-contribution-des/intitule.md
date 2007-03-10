@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2007-128 du 5 mars 2007 portant fixation du taux de la contribution des employeurs et de la Caisse des Congés Payés du Bâtiment au «Fonds complémentaire de réparation des accidents du travail et des maladies professionnelles» au titre de l'année 2007
