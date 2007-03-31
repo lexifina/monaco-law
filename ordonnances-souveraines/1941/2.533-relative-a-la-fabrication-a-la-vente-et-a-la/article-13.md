@@ -4,4 +4,4 @@ Tout débitant de boissons qui vend ou offre, à titre gratuit, pour être conso
 
 En cas de récidive, le minimum et le maximum de ces peines sont portés au double.
 
-Toutefois, dans le cas où le débitant est prévenu d'avoir servi des boissons alcooliques à un mineur de moins de 20 ans accomplis, il peut prouver qu'il a été induit en erreur sur 1 âge du consommateur ; s'il fait cette preuve, aucune pénalité ne lui est appliquée de ce chef.
+Toute personne souhaitant acquérir à titre gratuit ou onéreux une boisson alcoolique doit pouvoir justifier de son âge auprès du commerçant et du débitant de boissons par la présentation d'une pièce d'identité ou de tout autre document officiel, muni d'une photographie.
