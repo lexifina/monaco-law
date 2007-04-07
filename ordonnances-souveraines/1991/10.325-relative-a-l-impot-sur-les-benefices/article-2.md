@@ -10,7 +10,7 @@ Les dépenses de recherche ouvrant droit au crédit d'impôt, sont les suivantes
 
 - d) les frais de prise et de maintenance de brevets ;
 
-- d) bis les frais de défense de brevets dans la limite de 60 000 euro(s) par an ;
+- d) bis les frais de défense de brevets ;
 
 - e) les dotations aux amortissements des brevets acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
 

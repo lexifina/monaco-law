@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 10.325 du 17 octobre 1991 relative à l'impôt sur les bénéfices
 
-Version en vigueur au 6 mars 2004.
+Version en vigueur au 7 avril 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1991/10-17-10.325@2004.03.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1991/10-17-10.325@2007.04.07/
 
 | | |
 | --- | --- |
