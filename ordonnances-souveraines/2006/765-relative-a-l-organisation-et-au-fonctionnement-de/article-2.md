@@ -1,6 +1,6 @@
 # Article 2
 
-La direction de la Sûreté publique comprend :
+La Direction de la Sûreté Publique comprend :
 
 - une division de l'administration et de la formation,
 
@@ -16,4 +16,6 @@ La direction de la Sûreté publique comprend :
 
 - le groupe de sécurité de la Famille Souveraine,
 
-- le secrétariat particulier de la direction.
+- le secrétariat particulier de la Direction,
+
+- la section des informations générales, des études et du renseignement.
