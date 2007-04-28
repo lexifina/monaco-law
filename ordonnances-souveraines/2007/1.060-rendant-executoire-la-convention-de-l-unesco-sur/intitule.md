@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.060 du 13 avril 2007 rendant exécutoire la Convention de l'UNESCO sur la protection et la promotion de la diversité des expressions culturelles, adoptée à Paris le 20 octobre 2005
