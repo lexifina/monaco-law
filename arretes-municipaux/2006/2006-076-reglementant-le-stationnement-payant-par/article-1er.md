@@ -6,6 +6,8 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Avenue Crovetto Frères
 
+- Avenue de l'Annonciade
+
 - Avenue de la Costa
 
 - Avenue de Grande Bretagne
@@ -39,8 +41,6 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 - Boulevard Rainier III
 
 - Chemin de la Turbie
-
-- Cour de la Gare
 
 - Lacets Saint Léon
 
