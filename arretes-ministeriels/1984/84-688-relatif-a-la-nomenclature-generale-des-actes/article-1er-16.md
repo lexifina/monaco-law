@@ -1,5 +1,7 @@
 # Article 1er (16)
 
+Explorations fonctionnelles respiratoires
+
 Toutes les cotations ci-dessous comprennent la rédaction de conclusions ; le contrôle médical a le droit d'exiger du médecin la communication des tracés et doit les lui renvoyer.
 
 La mesure de l'oxymétrie et de la capnimétrie réalisée par autotest(s) ne peut donner lieu à cotation.

@@ -26,7 +26,7 @@ I. - Lorsque le médecin omnipraticien est amené à se rendre au domicile d'une
 
   - 3° - des dispositions de l'ordonnance souveraine n° 15.091 du 31 octobre 2001 relative à l'action sociale en faveur des personnes handicapées ;
 
-- d) Les patients ayant fait l'objet d'une intervention chirurgicale d'un coefficient supérieur à KCC 150, quand la ou les visites sont effectuées dans les dix jours suivant l'intervention ;
+- d) les patients ayant fait l'objet d'une intervention chirurgicale relevant de la CCAM et dont la valeur de référence pour déterminer les tarifs d'autorité est supérieure à 313,50 euro(s) ;
 
 - e) Les patients en hospitalisation à domicile.
 
@@ -44,7 +44,13 @@ La visite qu'il effectue donne lieu, en sus des honoraires, à une majoration de
 
 - 6° Altération majeure de l'état général.
 
-II. - À titre exceptionnel, lorsque le médecin omnipraticien est amené à se déplacer au domicile d'une personne ne rentrant pas dans l'énumération - a) à e) compris - mentionnée au I ci-dessus, la visite qu'il effectue donne lieu, en sus des honoraires à la majoration de déplacement MD, dès lors que cette personne se trouve dans une des situations cliniques visées au I ci-dessus.
+II. - Lorsque le médecin est amené à se déplacer au domicile d'une personne n'entrant pas dans l'énumération a) à e) du I ci-dessus, la visite qu'il effectue donne lieu, en sus des honoraires, à la majoration de déplacement « MD » dès lors que la personne :
+
+- soit se trouve dans une des situations cliniques visées au I ci-dessus ;
+
+- soit ne peut se déplacer en raison de son âge ou que la composition de sa famille a une incidence sur sa capacité à se déplacer au cabinet du médecin omnipraticien ;
+
+- soit est atteint d'une maladie contagieuse et que la consultation au cabinet est contre-indiquée.
 
 Le médecin omnipraticien communique le motif de la visite mentionnée ci-dessus au service médical, à sa demande.
 

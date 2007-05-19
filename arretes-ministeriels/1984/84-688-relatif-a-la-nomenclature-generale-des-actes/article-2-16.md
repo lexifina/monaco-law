@@ -1,5 +1,7 @@
 # Article 2 (16)
 
+Examens des troubles du sommeil :
+
 Les examens des troubles du sommeil sont pris en charge dans le cadre du diagnostic, du contrôle et de l'adaptation du traitement du syndrome des apnées du sommeil et, en ce qui concerne l'enregistrement polysomnographique, dans le cadre du diagnostic de la narcolepsie, avec ou sans cataplexie. Ils comprennent trois heures minimum d'enregistrement comportant la totalité des voies interprétables simultanément. |
 
 Ils font l'objet d'un compte rendu adressé au contrôle médical sur sa demande ; un archivage du signal brut est réalisé. |

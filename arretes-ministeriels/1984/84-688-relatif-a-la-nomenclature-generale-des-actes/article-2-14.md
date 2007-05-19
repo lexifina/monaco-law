@@ -48,51 +48,37 @@ La séance doit avoir une durée minimale de 30 minutes, sauf mention particuli�
 
 La première série de 30 séances est renouvelable par séries des 20 séances au maximum :
 
-Rééducation des troubles d'articulation isolés chez des personnes ne présentant pas d'affection neurologique, par séance ............ | 5
+Rééducation des troubles d'articulation isolés chez des personnes ne présentant pas d'affection neurologique, par séance ............ | AMO 5,1
 
-Rééducation des troubles de l'articulation liés à des déficiences perceptives, par séance ............ | 8
+Rééducation des dysarthries neurologiques, par séance............ | AMO 11
 
-Rééducation des troubles de l'articulation liés à des déficiences d'origine organique, par séance............ | 8
+Rééducation des dysphagies chez l'adulte et chez l'enfant, par séance ............ | AMO 11
 
-Rééducation de la déglutition atypique, par séance ............ | 8
+Éducation à l'acquisition et à l'utilisation de la voix oro-oesophagienne et/ou trachéo-oesophagienne, par séance ............ | AMO 11,2
 
-Rééducation vélo-tubo-tympanique, par séance............ | 8
+Éducation à l'utilisation des prothèses phonatoires quel qu'en soit le mécanisme, par séance ............ | AMO 11,1
 
-Rééducation des troubles de la voix d'origine organique ou fonctionnelle, par séance ............ | 10
+Rééducation du bégaiement, par séance............ | AMO 12,2
 
-Rééducation du mouvement paradoxal d'adduction des cordes vocales à l'inspiration, par séance............ | 10
+Éducation précoce au langage dans les handicaps de l'enfant de type sensoriel, moteur, mental, par séance ............ | AMO 13,6
 
-Rééducation des dysarthries neurologiques, par séance............ | 10
+Éducation ou rééducation du langage dans les handicaps de l'enfant de type sensoriel, moteur, mental, par séance ............ | AMO 13,5
 
-Rééducation des dysphagies chez l'adulte et chez l'enfant, par séance ............ | 10
+Éducation ou rééducation du langage dans le cadre de l'infirmité motrice d'origine cérébrale, par séance ............ | AMO 13,8
 
-Rééducation des anomalies des fonctions oro-faciales entraînant des troubles de l'articulation et de la parole, par séance ............ | 10
+Éducation ou rééducation du langage dans le cadre de l'autisme, par séance............ | AMO 13,8
 
-Éducation à l'acquisition et à l'utilisation de la voix orooesophagienne et/ou trachéo-oesophagienne, par séance ............ | 10
+Éducation ou rééducation du langage dans le cadre des maladies génétiques, par séance ............ | AMO 13,8
 
-Éducation à l'utilisation des prothèses phonatoires quel qu'en soit le mécanisme, par séance ............ | 10
+Rééducation des dysphasies par séance d'une durée minimale de 30 minutes ............ | AMO 14
 
-Rééducation des pathologies du langage écrit : lecture et/ou orthographe, par séance ............ | 10,1
+Rééducation du langage dans les aphasies, par séance | AMO 15,3
 
-Rééducation des troubles du calcul et du raisonnement logicomathématique, par séance............ | 10,2
+Rééducation des troubles du langage non aphasiques dans le cadre d'autres atteintes neurologiques, par séance ............ | AMO 15,2
 
-Rééducation des troubles de l'écriture, par séance ............ | 10
+Démutisation dans les surdités du premier âge, appareillées ou non y compris en cas d'implantation cochléaire, par séance............ | AMO 15,4
 
-Rééducation des retards de parole, des retards du langage oral, par séance ............ | 12,1
-
-Rééducation du bégaiement, par séance............ | 12
-
-Éducation précoce au langage dans les handicaps de l'enfant de type sensoriel, moteur, mental, par séance ............ | 12
-
-Éducation ou rééducation du langage dans les handicaps de l'enfant de type sensoriel, moteur, mental, par séance ............ | 12
-
-Éducation ou rééducation du langage dans le cadre de l'infirmité motrice d'origine cérébrale, par séance ............ | 12
-
-Éducation ou rééducation du langage dans le cadre de l'autisme, par séance............ | 12
-
-Éducation ou rééducation du langage dans le cadre des maladies génétiques, par séance ............ | 12
-
-Réadaptation à la communication dans les surdités acquises appareillées et/ou éducation à la pratique de la lecture labiale, par séance............ | 12
+Rééducation ou conservation du langage oral et de la parole dans les surdités appareillées ou non, y compris en cas d'implantation cochléaire, par séance ............ | AMO 15,1
 
 Pour les actes suivants, la séance doit avoir une durée minimale de 45 minutes, sauf mention particulière.
 

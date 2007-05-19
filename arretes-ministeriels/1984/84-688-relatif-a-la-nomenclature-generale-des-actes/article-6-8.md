@@ -1,7 +1,5 @@
 # Article 6 (8)
 
-Soins portant sur l'appareil digestif et urinaire
-
 Irrigation colique dans les suites immédiates d'une stomie définitive, incluant le pansement et la surveillance de l'évacuation, avec un maximum de vingt séances, par séance............ | 4
 
 Dialyse péritonéale avec un maximum de quatre séances par jour, par séance ............ | 4

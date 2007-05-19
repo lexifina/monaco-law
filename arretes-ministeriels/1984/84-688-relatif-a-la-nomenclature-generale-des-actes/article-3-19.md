@@ -4,7 +4,7 @@ Pansements lourds et complexes nécessitant des conditions d'aseptie rigoureuse 
 
 Pansement de brûlure étendue ou de plaie chimique ou thermique étendue, sur une surface supérieure à 5 % de la surface corporelle ............ | 4
 
-Pansement d'ulcère étendu ou de greffe cutanée, sur une surface supérieure à 60 cm2............ | 4
+Pansement d'ulcère étendu ou de greffe cutanée, sur une surface supérieure à 60 cm²............ | 4
 
 Pansement d'amputation nécessitant détersion, épluchage et régularisation ............ | 4
 

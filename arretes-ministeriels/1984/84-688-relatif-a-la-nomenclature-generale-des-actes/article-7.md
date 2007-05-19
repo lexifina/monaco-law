@@ -24,6 +24,6 @@ Faute de réponse dans ce délai, son assentiment est réputé acquis.
 
 Dans ce dernier cas, le contrôle médical peut toujours intervenir pour donner un avis sur la prise en charge de la suite du traitement ou la poursuite des actes.
 
-Lorsqu'il y a urgence manifeste, le praticien dispense l'acte mais remplit néanmoins la formalité ci-dessus indiquée en portant la mention : '' acte d'urgence'.
+Lorsqu'il y a urgence manifeste, le praticien dispense l'acte mais remplit néanmoins la formalité ci-dessus indiquée en portant la mention : « acte d'urgence ».
 
 D. - Lorsque la demande d'entente préalable porte sur la réalisation d'appareils de prothèse dentaire ou sur des actes d'orthopédie dento-faciale, l'absence de réponse de la caisse dans un délai de trois semaines, par exception à la règle générale prévue au paragraphe C, vaut rejet de la demande et permet à l'assuré d'engager la procédure prévue par les articles 44 et suivants de l'ordonnance n° 4739 du 22 juin 1971 relatifs aux contestations d'ordre médical.

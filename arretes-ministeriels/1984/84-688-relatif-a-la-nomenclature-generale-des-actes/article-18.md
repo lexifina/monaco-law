@@ -1,43 +1,51 @@
 # Article 18
 
-Les praticiens agissant à titre de consultant ne peuvent porter sur les feuilles de maladie les cotisations prévues ci-dessous qu'à la condition de se conformer aux règles suivantes :
+Les praticiens agissant à titre de consultant ne peuvent porter sur les feuilles de maladie les cotations prévues ci-dessous qu'à la condition de se conformer aux règles suivantes :
 
-Ne se rendre au domicile du malade ou ne le recevoir à leur cabinet qu'avec le médecin traitant ou à sa demande ;
+- ne se rendre au domicile du malade ou ne le recevoir à leur cabinet qu'avec le médecin traitant ou à sa demande ;
 
-Ne pas donner au malade des soins continus, mais laisser au médecin traitant la charge de surveiller l'application de leurs prescriptions.
+- ne pas donner au malade des soins continus, mais laisser au médecin traitant la charge de surveiller l'application de leurs prescriptions.
 
-Consultation entre deux omnipraticiens
+A. - Consultation réalisée conjointement par deux omnipraticiens
 
-Visite en consultation avec un confrère (pour chacun des deux médecins) ............ | V x 1,5
+Consultation avec un confrère au cabinet d'un des deux praticiens :
 
-Consultation avec un confrère au cabinet d'un des deux médecins : |
+- pour le médecin au cabinet duquel la consultation a lieu : C 1,5
 
-Pour le médecin au cabinet duquel la consultation a lieu ............ | C x 1,5 |
+- pour le second médecin : V 1,5
 
-Pour le second médecin ............ | V x 1,5 |
+Ces dispositions ne sont pas applicables lorsque les deux praticiens consultants partagent les mêmes locaux professionnels.
 
-Consultation des médecins spécialistes, neuropsychiatres, psychiatres ou neurologues qualifiés avec un confrère
+B.- avis ponctuel de consultant
 
-Visite en consultation avec un confrère............ | VS x 1 ou VNPSY x 1
+Le médecin spécialiste sollicité pour un avis ponctuel de consultant ne peut porter sur les feuilles de maladie les cotations prévues ci-dessous qu'à la condition de se conformer aux règles suivantes :
 
-Consultation avec un confrère au cabinet d'un des deux médecins : |
+- ne recevoir le patient que sur demande explicite, formulée par écrit, de son médecin traitant, ou, par dérogation pour le stomatologiste, du chirurgien-dentiste ;
 
-Pour le médecin au cabinet duquel la consultation a lieu ............ | CS × 1 ou CNPSY × 1 |
+- ne pas avoir reçu le patient dans les 6 mois précédant la consultation ;
 
-Pour le second médecin ............ | VS x 1 ou VNPSY x 1 |
+- adresser au médecin traitant, ou le cas échéant, pour le stomatologiste, au chirurgien-dentiste ses propositions thérapeutiques et lui laisser la charge d'en surveiller l'application ;
 
-Médecins anciens internes d'un centre hospitalier régional, faisant partie d'un centre hospitalier universitaire, agissant à titre de consultants
+- ne pas avoir à recevoir à nouveau le malade dans les 6 mois suivants excepté pour les psychiatres ou neuro-psychiatres qui peuvent, en cas de séquence de soins nécessaire, revoir le patient une ou deux fois dans les semaines suivant cet avis ponctuel.
 
-Consultation au cabinet du praticien ............ | C x 2
+Sauf exception prévue à l'article 11A, les honoraires des actes de consultant ne se cumulent pas avec ceux d'autres actes effectués au cours de la même séance.
 
-Visite au domicile du malade ............ | V x 2
+1) Médecins anciens internes d'un centre hospitalier régional faisant partie d'un centre hospitalier universitaire, médecins titulaires d'un certificat d'études spécialisées ou d'un diplôme d'études spécialisées et ayant obtenu à ce titre la qualification de spécialiste dans la discipline où ils sont consultés, agissant à titre de consultants, à la demande du médecin traitant, ou par dérogation pour le stomatologiste, à celle du chirurgien-dentiste :
 
-Professeurs des universités affectés dans une UER médicale, médecins, chirurgiens et spécialistes des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires, agissant à titre de consultants
+- consultation au cabinet du médecin spécialiste : C 2 ;
 
-Consultation (comprenant les actes de diagnostic courant) ............ | C x 3
+- visite au domicile du malade : V 2 ;
 
-Visite au domicile du malade (comprenant les actes de diagnostic courant)............ | V x 3
+- consultation au cabinet d'un psychiatre, neuropsychiatre ou d'un neurologue : C 2,5 ;
 
-E. - Choix éventuel de la cotation
+- visite au domicile du malade par un psychiatre, neuro-psychiatre ou par un neurologue : V 2,5.
 
-Les coefficients 2 et 3, prévus aux paragraphes C et D ci-dessus, s'appliquent à la valeur de la lettre-clé C, même si le médecin (ancien interne, professeur de faculté ou médecin des hôpitaux) est spécialiste qualifié. Toutefois, dans ce cas, le praticien intéressé a la faculté de noter sa lettre-clé propre affectée du coefficient 1 lorsque cette manière de procéder lui est favorable.
+Conformément aux règles définies ci-dessus, ces cotations ne s'appliquent pas aux consultations réalisées dans le cadre de prises en charge protocolisées (soins itératifs) ou de séquences de soins nécessitant l'intervention successive de plusieurs intervenants sans passage par le médecin traitant.
+
+À titre dérogatoire, en cas de séquence de soins nécessaire, le psychiatre ou le neuropsychiatre a la possibilité de revoir le patient une ou deux fois dans les semaines suivantes.
+
+La première consultation sera cotée C 2,5 et les suivantes, dans la limite de deux consultations, seront cotées CNPSY.
+
+2) Chirurgiens agissant à titre de consultants à la demande du médecin traitant ou d'un médecin correspondant du médecin traitant : C 2.
+
+3) Professeurs des universités-praticiens hospitaliers en activité dans ces fonctions, agissant à titre de consultant à la demande du médecin traitant ou d'un médecin correspondant du médecin traitant : C 3.
