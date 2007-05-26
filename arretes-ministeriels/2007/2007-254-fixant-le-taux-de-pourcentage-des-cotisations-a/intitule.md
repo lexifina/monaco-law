@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2007-254 du 18 mai 2007 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2005-2006
