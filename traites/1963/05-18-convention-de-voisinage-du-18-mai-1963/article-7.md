@@ -6,4 +6,4 @@
 
 3. Le Gouvernement français s'engage à faciliter aux services maritimes et de police monégasques l'exercice de leur contrôle par la collaboration des employés et agents de la douane française, dans des conditions analogues à celles qui règlent, en France, la combinaison de l'action de ces employés ou agents avec les forces de gendarmerie et de police.
 
-Le Gouvernement princier communiquera le résultat de ce contrôle au Gouvernement français par l'entremise du Consulat général de France à Monaco.
+Le Gouvernement princier communiquera le résultat de ce contrôle au Gouvernement français par l'entremise de l'Ambassade de France à Monaco.
