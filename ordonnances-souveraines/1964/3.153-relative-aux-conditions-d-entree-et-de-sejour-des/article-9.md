@@ -1,5 +1,21 @@
 # Article 9
 
-Les titulaires de licences d'hôtels, d'hôtels meublés, de pensions de famille ou d'autorisations de location visées à l'article 11 de la présente ordonnance, doivent tenir un registre qui sera coté et paraphé par un commissaire de police et sur lequel seront recopiés immédiatement, sans aucun blanc ni interligne : les nom, prénoms, profession, lieu et date de naissance, nationalité, numéro, date et lieu de délivrance de la carte de séjour, de la carte d'identité, du passeport ou du titre de voyage en tenant lieu, dates d'entrée et de sortie de toutes les personnes logeant dans leur établissement. Ce registre devra être présenté à toute réquisition des fonctionnaires ou agents de l'autorité.
+Les titulaires de licences d'hôtels, d'hôtels meublés, de pension de famille doivent établir lors de la venue de chaque client, une fiche informatisée mentionnant :
 
-Les personnes mentionnées à l'alinéa précédent, à l'exclusion de celles visées à l'article 11, devront, en outre, remettre, chaque matin, à la direction de la sûreté publique, une fiche de modèle réglementaire indiquant notamment, le numéro de la chambre, ou de l'appartement, occupé par tout voyageur.
+- les noms, prénom, sexe, date et lieu de naissance, profession, nationalité et adresse de toutes les personnes hébergées dans l'établissement ;
+
+- les numéros ainsi que la date et le lieu de délivrance de leur carte de séjour, carte d'identité, passeport ou titre de voyage en tenant lieu ;
+
+- leur numéro de chambre ou d'appartement ;
+
+- leur date d'entrée dans l'établissement et de départ de celui-ci ;
+
+- le code police servant d'accusé de réception informatisé.
+
+Cette fiche informatisée est adressée sans délai par les titulaires de licences à la Direction de la Sûreté Publique. Celle-ci en délivre, sur le champ, un accusé de réception informatisé.
+
+Lors du départ du voyageur, les titulaires de licences en informent par voie électronique la Direction de la Sûreté Publique.
+
+Ces fiches sont récapitulées sur une liste informatique qui est communiquée, automatiquement et chaque 24 heures, à la Direction de la Sûreté Publique.
+
+Cette liste est également présentée à toute réquisition éventuelle des fonctionnaires de police lors des contrôles effectués dans les établissements concernés.
