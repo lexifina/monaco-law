@@ -1,0 +1,5 @@
+# Article 22
+
+1. Chacune des parties contractantes donnera à la partie intéressée avis des sentences pénales et des mesures postérieures qui concernent les ressortissants de cette partie et ont fait l'objet d'une inscription au casier judiciaire. Les ministères de la justice se communiqueront ces avis au moins une fois par an. Si la personne en cause est considérée comme ressortissante de deux ou plusieurs parties contractantes, les avis seront communiqués à chacune des parties intéressées à moins que cette personne ne possède la nationalité de la partie sur le territoire de laquelle elle a été condamnée.
+
+2. En outre, toute Partie contractante qui a donné les avis précités communiquera à la partie intéressée, sur sa demande, dans des cas particuliers, copie des sentences et mesures dont il s'agit, ainsi que tout autre renseignement s'y référant, pour lui permettre d'examiner si elles requièrent des mesures sur le plan interne. Cette communication se fera entre les ministères de la justice intéressés.
