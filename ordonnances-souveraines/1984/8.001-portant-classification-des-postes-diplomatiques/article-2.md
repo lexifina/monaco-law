@@ -52,6 +52,8 @@ Les postes consulaires sont les suivants :
 
 - Espagne : Barcelone, Bilbao, Madrid, Malaga, Palma de Majorque, Santa Cruz de Tenerife, Valence ;
 
+- Estonie : Tallinn ;
+
 - États-Unis d'Amérique : Atlanta, Boston, Chicago, Dallas, Los Angeles, Miami, New York, San Francisco ;
 
 - Finlande : Helsinki ;
@@ -116,7 +118,7 @@ Les postes consulaires sont les suivants :
 
 - République de Bulgarie : Sofia ;
 
-- République de Maurice : Port Louis.
+- République de Maurice : Port Louis ;
 
 - Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
