@@ -18,8 +18,6 @@ Entrent dans le calcul de « r » tous les revenus, notamment :
 
 - pension d'invalidité ;
 
-- indemnité tierce personne ;
-
 - allocation adulte handicapé ;
 
 - pension complémentaire ;

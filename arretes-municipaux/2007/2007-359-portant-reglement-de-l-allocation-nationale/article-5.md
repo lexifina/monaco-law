@@ -13,5 +13,3 @@ Pour bénéficier des dispositions applicables à la catégorie Couple, les deux
 b) Dispositions particulières :
 
 - Pour les conjoints séparés de fait, la formule P' (célibataire, veuf, divorcé) pourra être appliquée à chacun des conjoints à la condition que la séparation soit effective et que chacun des conjoints ait un domicile séparé.
-
-- Pour les Monégasques de moins de 60 ans ayant besoin d'une tierce personne pour les actes de la vie courante, une majoration de 0,512 Ro sera accordée sur avis favorable du médecin conseil de la Caisse dont dépend le bénéficiaire.
