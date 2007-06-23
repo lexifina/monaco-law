@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.171 du 15 juin 2007 modifiant l'ordonnance n° 16.313 du 6 mai 2004, modifiée, portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du quartier ordonnancé de Fontvieille
