@@ -1,0 +1,3 @@
+# Article 13
+
+Chaque Partie adopte les mesures législatives et autres qui se révèlent nécessaires pour ériger en infraction pénale, conformément à son droit interne, les actes mentionnés dans la Convention du Conseil de l'Europe relative au blanchiment, au dépistage, à la saisie et à la confiscation des produits du crime (STE n° 141), à l'article 6, paragraphes 1 et 2, dans les conditions y prévues, lorsque l'infraction principale est constituée par l'une des infractions établies en vertu des articles 2 à 12 de la présente Convention, dans la mesure où la Partie n'a pas formulé de réserve ou de déclaration à l'égard de ces infractions ou ne considère pas ces infractions comme des infractions graves au regard de la législation relative au blanchiment de l'argent.

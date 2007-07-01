@@ -1,0 +1,3 @@
+# Article 8
+
+Chaque Partie adopte les mesures législatives et autres qui se révèlent nécessaires pour ériger en infraction pénale, conformément à son droit interne, lorsque l'acte a été commis intentionnellement, dans le cadre d'une activité commerciale, le fait pour toute personne qui dirige ou travaille pour une entité du secteur privé de solliciter ou de recevoir, directement ou par l'intermédiaire de tiers, un avantage indu ou d'en accepter l'offre ou la promesse, pour elle-même ou pour quelqu'un d'autre, afin qu'elle accomplisse ou s'abstienne d'accomplir un acte en violation de ses devoirs.
