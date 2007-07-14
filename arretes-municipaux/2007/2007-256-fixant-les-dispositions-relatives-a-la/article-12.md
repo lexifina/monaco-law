@@ -164,7 +164,7 @@ Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
 28) Ostende (Avenue)
 
-Dans sa partie comprise entre l'avenue Princesse Alice et son n° 7, la voie amont est aménagée en couloir bus.
+Dans sa partie comprise entre l'avenue Princesse Alice et la place Sainte Dévote, la voie amont est aménagée en couloir bus.
 
 29) Paradis (Rue)
 

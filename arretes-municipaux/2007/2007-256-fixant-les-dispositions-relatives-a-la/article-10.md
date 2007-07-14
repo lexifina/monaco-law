@@ -162,6 +162,8 @@ a) Un sens unique de circulation est instauré du boulevard du Jardin Exotique �
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
+c) Un sens unique de circulation est instauré du n° 8 à la frontière et ce, dans ce sens.
+
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
 24) Millo (Rue de)
