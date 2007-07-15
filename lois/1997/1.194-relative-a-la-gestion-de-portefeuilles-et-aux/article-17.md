@@ -1,7 +1,0 @@
-# Article 17
-
-Pour les besoins de la surveillance sur base consolidée des sociétés mères des sociétés de gestion de portefeuilles et leur surveillance prudentielle, la Commission de contrôle peut, sur demande d'une autorité étrangère de supervision, et dans des cas déterminés, lui transmettre des informations sur ces dernières ; elle peut, aux mêmes fins, procéder ou faire procéder à des vérifications conformément aux dispositions des articles 16 et 16-I.
-
-La commission de contrôle peut également, dans les conditions prévues aux articles 16, 16-I et 16-II, procéder ou faire procéder aux vérifications visées à l'article 16-I à la demande d'autorités étrangères compétentes pour la surveillance des marchés financiers dès lors qu'une convention de coopération et d'échange d'informations a été signée entre lesdites autorités et l'autorité monégasque.
-
-Toutefois, la transmission d'informations à une autorité étrangère de supervision ou l'assistance demandée par une autorité étrangère de surveillance des marchés financiers avec laquelle une convention de coopération et d'échange d'informations a été signée, peut être refusée lorsque l'exécution de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre public monégasque ou lorsqu'une procédure pénale quelconque a déjà été engagée à Monaco sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées, par une décision définitive pour les mêmes faits.
