@@ -8,6 +8,10 @@ Seuls sont admis dans la ou les salles de vote pendant le déroulement du scruti
 
 - les électeurs exerçant leur droit de vote ;
 
-- deux délégués de chaque candidat ou de chaque liste de candidats, nominativement désignés par leur mandant.
+- deux délégués de chaque candidat ou de chaque liste de candidats, nominativement désignés par leur mandant ;
+
+- les enfants de l'électeur âgés de moins de douze ans ;
+
+- les personnes dont la présence est jugée appropriée par le Maire, statuant sur la requête dont il est saisi à cet effet dans les formes et délais prévus par ordonnance souveraine.
 
 Toute discussion ou réunion est interdite à l'intérieur de la ou des salles de vote, où nul ne peut pénétrer porteur d'une arme même autorisée. Le président du bureau de vote a seul la police de la salle.
