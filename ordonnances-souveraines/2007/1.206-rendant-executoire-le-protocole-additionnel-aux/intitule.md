@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.206 du 12 juillet 2007 rendant exécutoire le Protocole additionnel aux Conventions de Genève du 12 août 1949 relatif à l'adoption d'un signe distinctif additionnel (Protocole III), adopté à Genève le 8 décembre 2005
