@@ -1,0 +1,1 @@
+Loi n° 1.335 du 12 juillet 2007 portant approbation de ratification du protocole facultatif à la convention relative aux droits de l'enfant concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants
