@@ -2,9 +2,9 @@
 
 La médaille du travail sera du modèle de 30 millimètres, maintenue par une bélière formée d'un anneau recouvert à sa base de feuilles de laurier et chêne sur l'avers et le revers.
 
-L'avers présentera Notre effigie de profil, avec, autour, entre deux listels en haut « LOUIS II PRINCE DE MONACO » au centre un motif à droite chêne, à gauche laurier, en bas : 17 janvier 1923, date de la solennité de Notre avènement.
+L'avers présentera Notre effigie de profil, avec, autour, entre deux listels en haut « Albert II, Prince de Monaco » au centre un motif à droite chêne, à gauche laurier, en bas : « 9 novembre 2005 », date de la solennité de « Notre Avènement ».
 
-Le revers présentera une couronne formée d'une branche de laurier et d'une branche de chêne traversée par une bande centrale devant servir à l'inscription du nom du titulaire avec autour, entre deux listels, en haut «PRINCIPAUTÉ DE MONACO', en bas » HONNEUR ET TRAVAIL ".
+Le revers présentera une couronne formée d'une branche de laurier et d'une branche de chêne traversée par une bande centrale devant servir à l'inscription du nom du titulaire avec autour, entre deux listels, en haut « PRINCIPAUTÉ DE MONACO », en bas « HONNEUR ET TRAVAIL ».
 
 Elle sera portée sur le côté gauche de la poitrine suspendue par un ruban large de 32 millimètres.
 
