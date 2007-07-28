@@ -1,7 +1,5 @@
 # Article 5 (10)
 
-Traitement à domicile d'un patient atteint de mucoviscidose par perfusions d'antibiotiques sous surveillance continue selon le protocole thérapeutique rédigé par un des médecins de l'équipe soignant le patient.
-
 La formalité de l'entente préalable est supprimée.
 
 Le protocole doit comporter :

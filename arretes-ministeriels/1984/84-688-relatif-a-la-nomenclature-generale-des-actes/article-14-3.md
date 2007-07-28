@@ -1,6 +1,6 @@
 # Article 14-3
 
-Lorsque le médecin généraliste et le pédiatre effectuent, après examen en urgence d'un patient, des actes figurant sur la liste ci-dessous, la cotation de ces actes donne lieu à l'application d'une majoration pour soins d'urgence faits au cabinet, qui s'ajoute à la cotation des actes sans application de l'article 11-B des présentes dispositions générales. Cette majoration ne fait pas obstacle à la cotation éventuelle d'un électrocardiogramme et peut se cumuler avec les majorations des actes effectués la nuit et le dimanche. L'application de l'article 8 desdites dispositions générales ne prend pas en compte cette majoration. Cette majoration est fixée à K 14.
+Majoration pour soins d'urgence faits au cabinet : Lorsque le médecin généraliste et le pédiatre effectuent, après examen en urgence d'un patient, des actes figurant sur la liste ci-dessous, la cotation de ces actes donne lieu à l'application d'une majoration pour soins d'urgence faits au cabinet, qui s'ajoute à la cotation des actes sans application de l'article 11-B des présentes dispositions générales. Cette majoration ne fait pas obstacle à la cotation éventuelle d'un électrocardiogramme et peut se cumuler avec les majorations des actes effectués la nuit et le dimanche. L'application de l'article 8 desdites dispositions générales ne prend pas en compte cette majoration. Cette majoration est fixée à K 14.
 
 Les actes concernés par cette majoration sont les suivants : Dans la première partie (nomenclature des actes médicaux n'utilisant pas les radiations ionisantes) ;
 

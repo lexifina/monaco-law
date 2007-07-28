@@ -1,7 +1,5 @@
 # Article 3 (13)
 
-Actes de chirurgie
-
 Création, insufflation ou exsufflation de pneumothorax ............ | 10
 
 Ponction de la plèvre (à but diagnostique ou thérapeutique) ............ | 4 |

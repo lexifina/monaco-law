@@ -1,31 +1,7 @@
 # Article 1er (27)
 
-Examen radiologique de la main............ | 15
+Pour donner lieu à remboursement, tout acte de radiodiagnostic doit comporter une ou plusieurs incidence(s) radiographique(s) matérialisée(s) par un document, film ou épreuve, et être accompagné d'un compte rendu écrit, signé par le médecin. Le compte rendu, ainsi que chaque film ou épreuve, doit être daté et porter les nom et prénom du patient examiné, ainsi que le nom du médecin ayant effectué l'examen.
 
-Examen radiologique du poignet............ | 15
+Le compte rendu doit comporter les indications, les incidences, l'analyse et l'interprétation de l'examen.
 
-Examen radiologique de l'avant-bras............ | 15
-
-Examen radiologique du coude ............ | 15
-
-Examen radiologique du bras ............ | 15
-
-Examen radiologique de deux segments du squelette du membre supérieur ............ | 22
-
-Examen radiologique de trois segments ou davantage du squelette du membre supérieur............ | 30
-
-Examen radiologique des deux mains et/ou des deux poignets de face sur la même plaque............ | 15
-
-Les cotations ci-dessus ne sont pas cumulables entre elles. |
-
-Bilan radiologique complet du poignet, minimum de quatre incidences............ | 22
-
-Bilan radiologique complet du coude, minimum de quatre incidences............ | 22
-
-Épaule, ceinture scapulaire (par côté) : |
-
-Examen radiologique simple ou contrôle de l'épaule ou de la ceinture scapulaire ............ | 17
-
-Bilan radiologique complet de l'épaule ou de la ceinture scapulaire, minimum de quatre incidences............ | 28
-
-Les deux cotations ci-dessus ne sont pas cumulables entre elles pour un même côté.
+Une incidence est caractérisée par une position du patient par rapport à la source ; un changement d'orientation de la source ou de la surface examinée selon un angle différent ou selon une position différente du patient constitue une nouvelle incidence.

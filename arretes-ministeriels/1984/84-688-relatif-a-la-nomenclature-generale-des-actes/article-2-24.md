@@ -1,11 +1,9 @@
 # Article 2 (24)
 
-Pansements de stomie............ | 2
+Injections d'analgésique(s), à l'exclusion de la première par l'intermédiaire d'un cathéter intrathécal ou péridural............ | 5 E
 
-Pansements de trachéotomie, y compris l'aspiration et l'éventuel changement de canule ou sonde ............ | 2,25
+Injection intraveineuse par l'intermédiaire d'un site implanté, y compris l'héparinisation et le pansement ............ | 4
 
-Ablation de fils ou d'agrafes, dix ou moins, y compris le pansement éventuel............ | 2
+Injection intraveineuse par l'intermédiaire d'un cathéter central, y compris l'héparinisation et le pansement ............ | 3
 
-Ablation de fils ou d'agrafes, plus de dix, y compris le pansement éventuel............ | 4
-
-Autre pansement ............ | 2
+Prélèvement sanguin sans cathéter veineux central extériorisé ou chambre implantable... | 1

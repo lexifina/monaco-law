@@ -1,7 +1,5 @@
 # Article 1er (17)
 
-Électrocardiographie
-
 Électrocardiogramme d'au moins douze dérivations. | 6,5
 
 Pour un patient non hospitalisé cet acte est cumulable avec la consultation (C ou Cs) ou la visite (V ou Vs), à l'exclusion de toute cotation d'acte supplémentaire, sauf celle prévue à l'article 11, A, a, des Dispositions générales. |

@@ -1,21 +1,21 @@
 # Article 2 (34)
 
-Scintigraphie plane statique :
+Les cotations en Z placées en regard de chaque libellé ne s'appliquent pas aux actes de radiologie vasculaire réalisés au bloc opératoire ; par dérogation aux dispositions de l'article premier ci-dessus, l'utilisation d'un amplificateur de brillance numérisé avec soustraction au cours des actes de chirurgie vasculaire précisés ci-dessous réalisés au bloc opératoire donne lieu à une cotation Z 80.
 
-Par incidence............ | 30
+Cette cotation d'angiographie numérisée de bloc opératoire en chirurgie vasculaire s'applique aux actes suivants :
 
-Avec un plafond, quel que soit le nombre d'organes, de............ | 100
+Angioplasties du titre III, chapitre Ier ;
 
-Examen du corps entier par dispositif spécialisé ............ | 100
+Artériographie de contrôle peropératoire ;
 
-Supplément pour quantification nécessitant le traitement informatique des données scintigraphiques............ | 30
+Mise en place d'une endoprothèse couverte en vue du traitement d'un anévrysme iliaque isolé.
 
-Scintigraphie plane séquentielle et/ou étude dynamique quantitative nécessitant le traitement informatique des données scintigraphiques (la quantification par ordinateur est comprise dans la cotation) ............ | 150
+Cette cotation Z 80 est globale et exclusive de toute autre cotation en Z.
 
-Tomoscintigraphie comportant la réalisation de plusieurs coupes tomographiques par caméra tomographique associée à un ordinateur ............ | 150
+Elle ne donne pas lieu à la majoration prévue à la troisième partie de la nomenclature générale des actes professionnels, titre Ier, pour les actes de radiodiagnostic effectués en salle d'opération.
 
-En cas de scintigraphie plane et de tomoscintigraphie d'un même organe, la cotation applicable est plafonnée à 150.
+Lorsque plusieurs actes sont effectués au cours d'une même séance opératoire, la cotation Z 80 ne peut s'appliquer qu'une fois.
 
-Si l'exploration comporte une répétition de l'examen à diverses reprises au cours de séances différentes, à la suite de la même injection d'un radiopharmaceutique, un coefficient de 1,5 est appliqué, quel que soit le nombre de reprises et de séances.
+Elle ne peut être cotée que si l'acte radiologique est matérialisé par un document, film ou épreuve et s'il est accompagné d'un compte rendu.
 
-Si l'exploration d'un même organe comporte l'étude de deux fonctions différentes par deux radiopharmaceutiques, les deux examens sont considérés comme deux actes différents.
+En l'absence de soustraction numérisée, seule la cotation Z 14,5 relative à la radioscopie de longue durée sous amplificateur de brillance peut être appliquée.

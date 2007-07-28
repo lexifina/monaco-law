@@ -1,7 +1,5 @@
 # Article 3 (14)
 
-Surveillance monitorée
-
 Surveillance monitorée continue et traitement d'un ou deux malades au maximum, hospitalisés, sous la responsabilité d'un médecin, avec surveillance du tracé électrocardioscopique sur oscilloscope et du cardio-fréquence-mètre y compris éventuellement les actes habituels d'électrocardiographie et de réanimation et les prises continues ou intermittentes de pression avec ou sans enregistrements, quelle que soit la technique : |
 
 Pour une durée maximum de sept jours, par malade et par vingt-quatre heures ............ | 14

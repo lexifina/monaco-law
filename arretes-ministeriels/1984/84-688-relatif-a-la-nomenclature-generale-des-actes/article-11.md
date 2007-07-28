@@ -12,7 +12,7 @@ Exceptions :
 
 - c) Le cumul des honoraires prévus pour l'électrocardiogramme avec les honoraires de la consultation ou de la visite est autorisé dans les conditions précisées au titre VII, chapitre V. article 1er. Cependant, en cas d'actes multiples au cours de la même séance, les règles de cumul telles que prévues au paragraphe B ci-dessous s'appliquent sans cumul possible avec la consultation ou la visite.
 
-B. - Actes en K, KC, KCC, KE, D. DC, SF. SFI, AMI, AIS, AMP, AMO, AMY effectués au cours d'une même séance. - 1° Lorsqu'au cours d'une même séance plusieurs actes inscrits à la nomenclature sont effectués sur un même malade par le même praticien, l'acte du coefficient le plus important est seul inscrit avec son coefficient propre.
+B . - Actes en K, KC, KCC, KE, D. DC, SF. SFI, AMI, AIS, AMP, AMO, AMY effectués au cours d'une même séance. - 1° Lorsqu'au cours d'une même séance plusieurs actes inscrits à la nomenclature sont effectués sur un même malade par le même praticien, l'acte du coefficient le plus important est seul inscrit avec son coefficient propre.
 
 Le deuxième acte est ensuite noté à 50 % de son coefficient. Toutefois, le second acte est noté à 75 % de son coefficient en cas d'intervention de chirurgie soit pour lésions traumatiques multiples et récentes, soit portant sur des membres différents, ou sur le tronc ou la tête et un membre.
 

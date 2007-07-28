@@ -1,7 +1,7 @@
 # Article 2 (28)
 
-Téléradiographie du thorax, quel que soit le nombre d'incidences, y compris médiastin et cœur (avec ou sans opacification oesophagienne) ............ | 16
+Supplément pour radiocinéma, en 35 mm (avec un minimum de 30 mètres de film)............ | 25
 
-Examen radiologique des poumons avec opacification bronchique............ | 25
+Supplément pour magnétoscope............ | 25
 
-Téléradiographie du thorax pour suivi postopératoire d'une intervention thoracique, chez un patient hospitalisé ............ | 12
+Les suppléments du présent article ne sont pas cumulables entre eux.

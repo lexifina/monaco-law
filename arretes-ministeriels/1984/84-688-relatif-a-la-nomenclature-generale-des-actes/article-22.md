@@ -36,6 +36,6 @@ Elle doit s'accompagner d'un compte rendu qui pourra être adressé au médecin 
 
 10° Lorsque, au cours d'un accouchement, l'obstétricien fait appel à un anesthésiste-réanimateur qui n'exécute aucun acte en K, ce dernier a droit à un honoraire égal à K 10 pour la surveillance de la parturiente.
 
-11°L'anesthésie générale et/ou locorégionale pour accouchement par voie basse ou par césarienne programmée ou non est cotée KC 50. Les actes d'anesthésie réalisés uniquement pour extraction instrumentale de l'enfant, délivrance artificielle, révision utérine et périnéorraphie sont cotés K 25.
+11° L'anesthésie générale et/ou locorégionale pour accouchement par voie basse ou par césarienne programmée ou non est cotée KC 50. Les actes d'anesthésie réalisés uniquement pour extraction instrumentale de l'enfant, délivrance artificielle, révision utérine et périnéorraphie sont cotés K 25.
 
 12° Les actes d'anesthésie-réanimation de coefficient au moins égal à 35, majoration mentionnée au 5° ci-dessus incluse, sont cotés en KC.

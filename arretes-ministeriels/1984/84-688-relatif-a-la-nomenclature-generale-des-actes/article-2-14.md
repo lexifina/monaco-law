@@ -1,5 +1,7 @@
 # Article 2 (14)
 
+Le bilan orthophonique fait l'objet d'une prescription médicale, accompagnée, si possible, des motivations de la demande de bilan et de tout élément susceptible d'orienter la recherche de l'orthophoniste.
+
 Deux types de prescriptions de bilans peuvent être établis :
 
 - 1. Bilan orthophonique avec rééducation si nécessaire :

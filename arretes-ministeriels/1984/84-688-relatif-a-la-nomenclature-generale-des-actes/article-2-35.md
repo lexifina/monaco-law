@@ -1,21 +1,21 @@
 # Article 2 (35)
 
-Les cotations en Z placées en regard de chaque libellé ne s'appliquent pas aux actes de radiologie vasculaire réalisés au bloc opératoire ; par dérogation aux dispositions de l'article premier ci-dessus, l'utilisation d'un amplificateur de brillance numérisé avec soustraction au cours des actes de chirurgie vasculaire précisés ci-dessous réalisés au bloc opératoire donne lieu à une cotation Z 80.
+KC | K | Z | ARE |
 
-Cette cotation d'angiographie numérisée de bloc opératoire en chirurgie vasculaire s'applique aux actes suivants :
+Stimulation auriculaire par voie transoesophagienne à visée thérapeutique en établissement de soins disposant de matériel de réanimation ............ | 40 | | |
 
-Angioplasties du titre III, chapitre Ier ;
+Ablation par radiofréquence de structures intracardiaques (voie de conduction normale ou anormale, zone arythmogène) : | | | |
 
-Artériographie de contrôle peropératoire ;
+En cas de cathétérisme droit............ | 180 | 150 | 30 |
 
-Mise en place d'une endoprothèse couverte en vue du traitement d'un anévrysme iliaque isolé.
+En cas de double cathétérisme droit et gauche ............ | 220 | 150 | 45 |
 
-Cette cotation Z 80 est globale et exclusive de toute autre cotation en Z.
+Primo-implantation d'un stimulateur cardiaque définitif monochambre ............ | 110 | 14,5 | 30 |
 
-Elle ne donne pas lieu à la majoration prévue à la troisième partie de la nomenclature générale des actes professionnels, titre Ier, pour les actes de radiodiagnostic effectués en salle d'opération.
+Primo-implantation d'un stimulateur cardiaque définitif double chambre (restaurant la synchronisation auriculoventriculaire) ............ | 130 | 25 | 30 |
 
-Lorsque plusieurs actes sont effectués au cours d'une même séance opératoire, la cotation Z 80 ne peut s'appliquer qu'une fois.
+Changement de boîtier simple............ | 50 | | |
 
-Elle ne peut être cotée que si l'acte radiologique est matérialisé par un document, film ou épreuve et s'il est accompagné d'un compte rendu.
+Changement d'un pacemaker monochambre par un pacemaker double chambre............ | 120 | 14,5 | 30 |
 
-En l'absence de soustraction numérisée, seule la cotation Z 14,5 relative à la radioscopie de longue durée sous amplificateur de brillance peut être appliquée.
+Extraction de sonde de stimulateur implanté, en cas d'infection, dans un centre disposant d'une possibilité de chirurgie thoracique ou cardiaque ............ | 150 | 25 | 45 |
