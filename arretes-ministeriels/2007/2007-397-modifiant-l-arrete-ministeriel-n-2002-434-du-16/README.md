@@ -1,0 +1,12 @@
+# Arrêté ministériel n° 2007-397 du 1er août 2007 modifiant l'arrêté ministériel n° 2002-434 du 16 juillet 2002 portant application de l'ordonnance n° 15.321 du 8 avril 2002 relative aux procédures de gel des fonds aux fins de lutte le terrorisme
+
+Version en vigueur au 11 août 2007.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2007/08-01-2007-397@2007.08.11/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 1 août 2007 |
+| Publication | Journal de Monaco du 10 août 2007 |
