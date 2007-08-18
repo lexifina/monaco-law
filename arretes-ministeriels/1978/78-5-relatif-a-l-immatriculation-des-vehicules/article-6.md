@@ -118,21 +118,29 @@ Ce registre devra être présenté à toute réquisition des agents de l'Adminis
 
 Toute mise en circulation de véhicules sous le couvert de cartes " W " en dehors des conditions susvisées, toute omission ou fausse déclaration relevée sur le registre ci-dessus et, d'une manière générale, toute contravention aux dispositions qui précèdent, pourront entraîner le retrait immédiat des cartes attribuées sans préjudice de sanctions administratives plus graves comportant le retrait temporaire ou définitif de l'autorisation d'exploitation.
 
-N° W 100 à W 999 et n° WA 01 à WZ 99.
+N° W100 à W999, 100W à 999W et WA01 à WZ99.
 
-Ces numéros ne pourront être utilisés qu'accompagnés d'un certificat d'immatriculation provisoire délivré par le service de la circulation valable un mois, éventuellement renouvelable et affecté à un seul véhicule entrant dans l'une des catégories ci-après :
+Ces numéros ne pourront être utilisés qu'accompagnés d'un certificat d'immatriculation provisoire, délivré par le Service des Titres de Circulation valable pour la durée de validité de l'estampille annuelle correspondante, éventuellement renouvelable, et affecté à un seul véhicule entrant dans l'une des catégories ci-après :
 
 - a) prototype en cours d'étude ou d'essais techniques, carrossé ou non, à vide ou lesté, mais non chargé, à l'exception des personnes et du matériel nécessaires aux essais ;
 
 - b) véhicule neuf, carrossé ou non, à vide ou lesté, mais non chargé, à l'exception des personnes et du matériel nécessaires aux essais et dont la mise en circulation provisoire, avant la déclaration de mise en circulation, est strictement limitée aux opérations suivantes :
 
-  - 1° essais techniques et mise au point dès l'achèvement de la construction ;
+  - 1. essais techniques et mises au point dès l'achèvement de la construction ;
 
-  - 2° présentation à la presse de véhicules dont le type a été ou non réceptionné ;
+  - 2. présentation à la presse de véhicules dont le type a été ou non réceptionné ;
 
-  - 3° déplacement pour présentation à un client éventuel d'un véhicule non affecté à la démonstration ;
+  - 3. déplacement pour présentation à un client éventuel d'un véhicule non affecté à la démonstration ;
 
-- c) véhicule déjà immatriculé dont la mise en circulation a strictement pour objet la revente.
+  - 4. déplacement pour présentation aux acquéreurs éventuels ou à leurs représentants des véhicules de démonstration de plus de 3,5 tonnes de P.T.A.C.
+
+- Par exception à la règle générale énoncée au début du paragraphe b), l'essai du matériel par un client éventuel peut être réalisé en charge dans les conditions qui seront celles de son exploitation normale, sous réserve du respect de la réglementation relative aux transports routiers de marchandises.
+
+- c) véhicule déjà immatriculé dont la mise en circulation a strictement pour objet :
+
+  - 1. la revente recouvrant soit la présentation à un client éventuel, soit l'acheminement du véhicule à un lieu d'exposition à la clientèle ou au domicile de l'acquéreur ;
+
+  - 2. la mise à disposition au bénéfice d'un client dont le véhicule personnel se trouve être en réparation dans un des ateliers mécaniques du professionnel de l'automobile concerné. Ces véhicules sont communément désignés sous l'expression "véhicules de courtoisie". La mention "véhicule de courtoisie" doit être apposée sur le certificat d'immatriculation du véhicule dédié à cet effet à l'exclusion de tout certificat d'immatriculation provisoire non approprié.
 
 * Véhicules achetés en Principauté par des personnes domiciliées hors de la Principauté :
 
@@ -254,7 +262,7 @@ Véhicules appartenant au Ministère d'Etat, aux membres du corps diplomatique a
 
 Couleur des caractères : bleu.
 
-Le numéro d'immatriculation est composé d'un chiffre suivi des lettres "ME " et d'un chiffre. L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
+Le numéro d'immatriculation est composé d'un chiffre suivi des lettres " ME " et d'un chiffre. L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
 
 - Véhicules des membres du corps diplomatique
 
