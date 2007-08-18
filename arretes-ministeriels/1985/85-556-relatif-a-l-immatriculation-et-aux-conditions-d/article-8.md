@@ -1,7 +1,7 @@
 # Article 8
 
-Par exception aux dispositions de l'article 7, l'essai d'un véhicule utilitaire de moins de 3,5 tonnes par un client éventuel peut être réalisé en charge dans des conditions qui seront celles de son exploitation normale, sous réserve du respect de la réglementation relative aux transports routiers de marchandises.
+Par exception aux dispositions de l'article 7, l'essai, par un client éventuel, d'un véhicule utilitaire d'un P.T.A.C. n'excédant pas 3,5 tonnes, peut être réalisé en charge dans les conditions qui seront celles de son exploitation normale, sous réserve du respect de la réglementation relative aux transports routiers de marchandises.
 
-Le bénéficiaire du prêt doit pouvoir présenter à toute réquisition des services de contrôle une attestation de mise à disposition de véhicule à l'essai le désignant, établie par le constructeur, l'importateur ou son concessionnaire et visée par le chef du service de la circulation.
+Le bénéficiaire du prêt doit pouvoir présenter à toute réquisition des services de contrôle une attestation de mise à disposition du véhicule à l'essai le désignant, établie par le constructeur, l'importateur ou son concessionnaire. La durée de validité de cette attestation est limitée à dix jours au plus. Elle ne peut être ni prorogée ni renouvelée.
 
-La durée de validité de cette attestation est limitée à dix jours.
+Dans ce cas, la présence à bord du véhicule du titulaire du certificat d'immatriculation ou de son préposé n'est pas obligatoire.
