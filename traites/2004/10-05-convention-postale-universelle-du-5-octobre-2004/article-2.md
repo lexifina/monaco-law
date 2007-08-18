@@ -1,0 +1,3 @@
+# Article 2
+
+1. Les Pays-membres notifient au Bureau international, dans les six mois suivant la clôture du Congrès, le nom et l'adresse de l'organe gouvernemental chargé de superviser les affaires postales. En outre, les Pays-membres communiquent au Bureau international, dans les six mois suivant la clôture du Congrès, le nom et l'adresse du ou des opérateurs désignés officiellement pour assurer l'exploitation des services postaux et remplir les obligations découlant des Actes de l'Union sur son ou leurs territoires. Entre deux Congrès, tout changement concernant les organes gouvernementaux et les opérateurs désignés officiellement doit être notifié au Bureau international dans les meilleurs délais.

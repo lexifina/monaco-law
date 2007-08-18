@@ -1,0 +1,15 @@
+# Article XIII
+
+1. Les administrations postales de l'Amérique (Etats-Unis), de l'Australie, de l'Autriche, du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, de la Grèce et de la Nouvelle-Zélande se réservent le droit de percevoir une taxe, en rapport avec le coût des travaux occasionnés, sur toute administration postale qui, en vertu de l'article 27.4, lui renvoie des objets qui n'ont pas, à l'origine, été expédiés comme envois postaux par leurs services.
+
+2. Par dérogation à l'article 27.4, l'administration postale du Canada se réserve le droit de percevoir de l'administration d'origine une rémunération lui permettant de récupérer au minimum les coûts lui ayant été occasionnés par le traitement de tels envois.
+
+3. L'article 27.4 autorise l'administration postale de destination à réclamer à l'administration de dépôt une rémunération appropriée au titre de la distribution d'envois de la poste aux lettres postés à l'étranger en grande quantité. L'Australie et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord se réservent le droit de limiter ce paiement au montant correspondant au tarif intérieur du pays de destination applicable à des envois équivalents.
+
+4. L'article 27.4 autorise l'administration postale de destination à réclamer à l'administration de dépôt une rémunération appropriée au titre de la distribution d'envois de la poste aux lettres postés à l'étranger en grande quantité. Les pays suivants se réservent le droit de limiter ce paiement aux limites autorisées dans le Règlement pour le courrier en nombre: Amérique (EtatsUnis), Bahamas, Barbade, Brunei Darussalam, Chine (Rép. pop.), Royaume-Uni de GrandeBretagne et d'Irlande du Nord, Territoires d'outre-mer dépendant du Royaume-Uni, Grenade, Guyane, Inde, Malaisie, Népal, Nouvelle-Zélande, Pays-Bas, Antilles néerlandaises et Aruba, Sainte-Lucie, Saint-Vincent-et-Grenadines, Singapour, Sri Lanka, Suriname et Thaïlande.
+
+5. Nonobstant les réserves sous 4, les pays suivants se réservent le droit d'appliquer dans leur intégralité les dispositions de l'article 27 de la Convention au courrier reçu des Pays-membres de l'Union: Allemagne, Arabie saoudite, Argentine, Autriche, Bénin, Brésil, Burkina Faso, Cameroun, Chypre, Côte d'Ivoire (Rép.), Danemark, Egypte, France, Grèce, Guinée, Israël, Italie, Japon, Jordanie, Liban, Luxembourg, Mali, Maroc, Mauritanie, Monaco, Norvège, Portugal, Sénégal, Syrienne (Rép. arabe) et Togo.
+
+6. Aux fins de l'application de l'article 27.4, l'administration postale de l'Allemagne se réserve le droit de demander à l'administration postale du pays de dépôt des envois une rémunération d'un montant équivalant à celui qu'elle aurait reçu de l'administration postale du pays où l'expéditeur réside.
+
+7. Nonobstant les réserves faites à l'article XIII, la Chine (Rép. pop.) se réserve le droit de limiter tout paiement au titre de la distribution des envois de la poste aux lettres déposés à l'étranger en grande quantité aux limites autorisées dans la Convention de l'UPU et le Règlement de la poste aux lettres pour le courrier en nombre.
