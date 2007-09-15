@@ -1,0 +1,5 @@
+# Article 32
+
+La société de gestion qui gère des fonds communs de placement dont les parts sont offertes exclusivement en Principauté peut répondre à des règles de capital différentes de celles fixées à l'article premier de l'ordonnance souveraine 1.284 du 10 septembre 2007 en application de la loi n° 1.338 du 7 septembre 2007 ; elle peut disposer d'un capital qui, en tout état de cause, ne peut être inférieur à 150.000 euros ou à 0,5% de l'ensemble des actifs gérés par la société, dans la limite de 750.000 euros.
+
+Toutefois le capital minimum de la société de gestion est fixé à 150.000 euros si la moitié du capital est détenu par un établissement de crédit ou une compagnie d'assurances ou de réassurances, sous réserve que cet établissement dispose lui-même d'un capital s'élevant à 2.000.000 euros. Il en est de même si un établissement répondant à ces conditions se porte caution solidaire pour les actes de la société conformes à son objet social, dans la limite minimale du pourcentage prévu à l'alinéa ci-dessus.
