@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services Judiciaires n° 2007-10 du 7 septembre 2007 fixant les conditions d'application de l'ordonnance souveraine n° 1.240 du 7 août 2007 reconduisant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats-stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
