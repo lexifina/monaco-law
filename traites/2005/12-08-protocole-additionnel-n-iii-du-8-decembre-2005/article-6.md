@@ -1,0 +1,5 @@
+# Article 6
+
+1. Les dispositions des Conventions de Genève et, le cas échéant, des Protocoles additionnels de 1977 qui régissent la prévention et la répression des usages abusifs des signes distinctifs s'appliqueront de façon identique à l'emblème du troisième Protocole. En particulier, les Hautes Parties contractantes prendront les mesures nécessaires pour prévenir et réprimer, en tout temps, tout abus des signes distinctifs mentionnés dans les articles 1er et 2 et de leur dénomination, y compris leur usage perfide et l'utilisation de tout signe ou dénomination qui en constitue une imitation.
+
+2. Nonobstant le paragraphe 1 du présent article, les Hautes Parties contractantes pourront autoriser les usagers antérieurs de l'emblème du troisième Protocole, ou de tout signe qui en constitue une imitation, à poursuivre un tel usage, pour autant que cet usage ne puisse apparaître, en temps de conflit armé, comme visant à conférer la protection des Conventions de Genève et, le cas échéant, des Protocoles additionnels de 1977, et pour autant que les droits autorisant cet usage aient été acquis avant l'adoption du présent Protocole.
