@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 15.952 du 16 septembre 2003 rendant exécutoire l'accord entre la Principauté de Monaco et la France modifiant l'article 18 de la Convention de voisinage du 18 mai 1963 et relatif à la frappe des monnaies monégasques libellées en euros par l'Hôtel des monnaies de Paris
