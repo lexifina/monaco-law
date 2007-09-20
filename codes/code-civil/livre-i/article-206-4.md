@@ -1,3 +1,5 @@
 # Article 206-4
 
-Le demandeur peut, en tout état de cause, transformer sa demande en divorce en demande en séparation de corps.
+La séparation de corps supprime le devoir de cohabitation. Elle met fin aux pouvoirs résultant des articles 182 et 184.
+
+Elle laisse subsister les devoirs de fidélité, de secours et d'assistance.

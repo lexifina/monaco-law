@@ -1,5 +1,5 @@
 # Article 206-11
 
-Lorsque le divorce a été prononcé par défaut, si la décision a été signifiée à personne, l'opposition est faite dans le mois, à peine d'irrecevabilité.
+En cas de conversion de la séparation de corps en divorce, la cause de la séparation de corps devient la cause du divorce ; l'attribution des torts n'est pas modifiée.
 
-Si la décision n'a pas été signifiée à personne, le président du tribunal de première instance ordonne, sur requête, qu'un extrait sera publié au « Journal de Monaco » et affiché à la mairie. L'opposition est recevable dans les six mois de la dernière mesure de publicité.
+Le tribunal de première instance fixe les conséquences du divorce et statue sur la charge des dépens relatifs à la conversion de la séparation de corps en divorce. Les prestations et pensions entre époux sont déterminées selon les règles propres au divorce.

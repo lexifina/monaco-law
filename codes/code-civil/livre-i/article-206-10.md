@@ -1,3 +1,7 @@
 # Article 206-10
 
-Le dispositif de la décision qui prononce le divorce énonce, le cas échéant, la date de la décision ayant autorisé les époux à résider séparément. Cette date doit alors figurer dans les mentions en marge et dans la transcription faites en application de l'article 206-18.
+Lorsqu'elle a duré deux ans, la séparation de corps est, à la demande d'un époux, convertie de droit en divorce.
+
+Cette demande, introduite en la forme ordinaire, peut être portée devant le tribunal de première instance lorsque la séparation de corps a été prononcée à Monaco. Elle est débattue hors la présence du public.
+
+Lorsqu'elle est devenue irrévocable, la décision de conversion est transcrite conformément aux dispositions de l'article 203-4 ; elle est, en outre, mentionnée en marge de la décision ayant prononcé la séparation.

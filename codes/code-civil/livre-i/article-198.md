@@ -1,3 +1,3 @@
 # Article 198
 
-Le divorce peut, de même façon, être prononcé lorsque l'un des époux est atteint d'une maladie dont la gravité et la durée sont de nature à compromettre dangereusement la sécurité ou la santé du conjoint ou des enfants nés ou à naître.
+Le divorce peut également être prononcé à la demande de l'un des époux, lorsque lui-même et son conjoint acceptent le principe de la rupture du mariage sans considération des faits à l'origine de celle-ci.
