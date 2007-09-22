@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 927 du 23 janvier 2007 fixant les modalités d'application du vote par procuration
+# Ordonnance souveraine n° 927 du 23 janvier 2007 fixant les modalités d'application du vote par procuration
 
-Version en vigueur au 27 janvier 2007.
+Version en vigueur au 22 septembre 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/01-23-927@2007.01.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/01-23-927@2007.09.22/
 
 | | |
 | --- | --- |
