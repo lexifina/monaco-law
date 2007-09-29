@@ -2,10 +2,10 @@
 
 Il est créé une commission de placement des fonds, placée sous la présidence de Notre ministre d'État et dont la composition est ainsi fixée :
 
-- Le conseiller de gouvernement pour les finances et l'économie, vice-président ;
+- le conseiller de gouvernement pour les finances et l'économie, vice-président ;
 
-- Le directeur de budget et du Trésor ;
+- le directeur du budget et du trésor ;
 
-- L'administrateur des Domaines ;
+- l'administrateur des domaines ;
 
-- Deux délégués du Conseil national.
+- trois délégués du conseil national.
