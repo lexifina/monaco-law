@@ -8,10 +8,6 @@ La Direction du Budget et du Trésor est notamment chargée :
 
 - d'assurer la tutelle des établissements de crédit de la Principauté dans le cadre des conventions franco-monégasques et des engagements internationaux de la Principauté ;
 
-- d'assurer l'instruction des dossiers d'activités financières ;
-
-- d'assurer le secrétariat des commissions monégasques relatives aux activités financières ;
-
 - d'assurer l'émission des pièces de monnaie ;
 
 - d'établir la paye et de gérer les retraites des fonctionnaires ;
