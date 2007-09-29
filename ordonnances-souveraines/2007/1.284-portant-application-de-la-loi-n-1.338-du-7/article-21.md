@@ -1,8 +1,8 @@
 # Article 21
 
-Le mandat de gestion peut être résilié à tout moment par l'une des parties par lettre recommandée avec demande d'avis de réception adressée à l'autre partie.
+Le mandat de gestion peut être résilié à tout moment par l'une des Parties par lettre recommandée avec demande d'avis de réception adressée à l'autre Partie.
 
-La résiliation est notifiée simultanément à l'établissement financier teneur de compte par la partie qui en a pris l'initiative.
+La résiliation est notifiée simultanément à l'établissement financier teneur de compte par la Partie qui en a pris l'initiative.
 
 La résiliation sur l'initiative du mandant prend effet dès la réception de la lettre recommandée par le mandataire, qui cesse d'être habilité à prendre l'initiative de nouvelles opérations. Cependant, le mandataire doit dénouer les opérations en cours sur les marchés à terme ou conditionnels, sauf opposition expresse du mandant formée par lettre recommandée avec demande d'avis de réception.
 
