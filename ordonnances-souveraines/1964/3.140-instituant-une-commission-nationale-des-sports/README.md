@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 3.140 du 3 février 1964 instituant une commission nationale des sports
 
-Version en vigueur au 29 mars 1975.
+Version en vigueur au 29 septembre 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/02-03-3.140@1975.03.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/02-03-3.140@2007.09.29/
 
 | | |
 | --- | --- |
