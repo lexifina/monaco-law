@@ -2,16 +2,16 @@
 
 Le comité supérieur du tourisme comprend sous la présidence du Ministre d'État :
 
-- Le conseiller de gouvernement pour les finances et l'économie, ou son représentant, vice-président,
+- le conseiller de gouvernement pour les finances et l'économie, ou son représentant, vice-président,
 
-- Deux membres du conseil national,
+- trois membres du Conseil national,
 
-- Deux membres du conseil communal,
+- deux membres du Conseil communal,
 
-- Le président du conseil économique provisoire ou son représentant,
+- le président du Conseil économique et social ou son représentant,
 
-- L'administrateur-délégué de la Société des bains de mer, ou son représentant,
+- l'administrateur délégué de la Société des bains de mer ou son représentant,
 
-- Le président de l'Association de l'industrie hôtelière monégasque, ou son représentant,
+- le président de l'Association de l'industrie hôtelière monégasque ou son représentant,
 
-- Le président de l'Association des agences de voyages de la Principauté de Monaco, ou son représentant.
+- le président de l'Association des agences de voyage de la Principauté de Monaco ou son représentant.
