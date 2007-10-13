@@ -2,7 +2,7 @@
 
 L'âge minimum des candidats aux divers permis prévus à l'article 117 ci-dessus est fixé à :
 
-- 14 ans révolus pour la catégorie » A cyclomoteurs « ;
+- 14 ans révolus pour la catégorie « A cyclomoteurs » ;
 
 - 16 ans révolus pour les catégories A1 et B1 ;
 

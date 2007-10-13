@@ -1,5 +1,9 @@
 # Article 11
 
-Tout conducteur est tenu de ne pas dépasser la vitesse de 50 kilomètres à l'heure, à l'exception d'une partie du boulevard du Larvotto où la vitesse limite est fixée à 70 kilomètres à l'heure.
+Tout conducteur est tenu de ne pas dépasser la vitesse de 50 kilomètres à l'heure.
 
-Toutefois cette prescription n'est pas applicable aux conducteurs de véhicules des services de police, ni à ceux des véhicules servant à la lutte contre l'incendie, lorsqu'ils se rendent sur les lieux où leur intervention urgente est nécessaire.
+Toutefois, la vitesse peut être limitée sur certaines sections de voies à 30 kilomètres à l'heure ou bien à 70 kilomètres à l'heure sur les voies et lieux mentionnés par la signalisation publique.
+
+Le dépassement de la vitesse réglementairement fixée peut être relevé par les agents de l'autorité au moyen d'appareils de mesure et de contrôle agréés par le Ministre d'État dont les modalités de fonctionnement et de mise en œuvre sont prévues par arrêté ministériel.
+
+Toutefois, ces prescriptions ne sont pas applicables aux conducteurs de véhicules d'intervention et de secours dans le cadre de leurs missions
