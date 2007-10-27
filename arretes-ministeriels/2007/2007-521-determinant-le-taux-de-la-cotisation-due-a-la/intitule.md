@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2007-521 du 22 octobre 2007 déterminant le taux de la cotisation due à la Caisse d'assurance maladie, accident et maternité des travailleurs indépendants pour l'exercice 2007-2008
