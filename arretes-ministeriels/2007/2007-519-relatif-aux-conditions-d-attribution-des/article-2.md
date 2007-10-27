@@ -1,0 +1,3 @@
+# Article 2
+
+Lors d'un appel à candidatures lancé à l'occasion de la mise en location d'immeubles domaniaux, une demande de logement peut être présentée par toute personne de nationalité monégasque au moyen d'un formulaire à restituer, dûment complété, auprès de la Direction de l'Habitat. L'ensemble des pièces sollicité nécessaire à l'instruction de la demande étant mentionné dans ledit document, aucun dossier n'est réceptionné si celui-ci est déposé incomplet ou après la date de forclusion. La Direction de l'Habitat se réserve la possibilité de recevoir tout pétitionnaire, vérifier ses conditions de logement et requérir des éléments d'information complémentaires.
