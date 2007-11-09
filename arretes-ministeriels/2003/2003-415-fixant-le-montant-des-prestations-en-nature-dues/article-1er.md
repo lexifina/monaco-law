@@ -196,7 +196,7 @@ Lettre-clé | Acte | Tarifs d'autorité
 
 Honoraires des médecins | |
 
-C | Consultation médecin généraliste | 21,00 euro(s)
+C | Consultation médecin généraliste | 22,00 euro(s)
 
 CS | Consultation spécialiste | 28,51euro(s)
 
