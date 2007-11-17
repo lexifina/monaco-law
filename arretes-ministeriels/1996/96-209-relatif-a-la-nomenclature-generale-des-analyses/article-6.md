@@ -4,7 +4,7 @@ Les actes de biologie médicale effectués en urgence, sur prescription médical
 
 9001 - | la nuit ............ | B 20
 
-90004 | Le samedi à partir de 12 heures, le dimanche ou jour férié ............ | B 20
+9004 | Le samedi à partir de 12 heures, le dimanche ou jour férié ............ | B 20
 
 Les actes de nuit sont ceux effectués entre vingt heures et huit heures mais ils ne donnent lieu à un supplément que si l'appel au directeur de laboratoire a été fait entre dix-neuf heures et sept heures.
 
