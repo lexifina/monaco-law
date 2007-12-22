@@ -21,3 +21,5 @@ L'infirmier est habilité à accomplir sur prescription médicale écrite, quali
 - cures de sommeil ;
 
 - enveloppements humides d'indication psychiatrique.
+
+Un arrêté ministérielfixe la liste des dispositifs médicaux que les infirmiers, lorsqu'ils agissent sur prescription médicale peuvent prescrire à leurs patients sauf en cas d'indication contraire du médecin et sous réserve, pour les dispositifs médicaux pour lesquels l'arrêté Ministériel le précise, d'une information du médecin traitant.
