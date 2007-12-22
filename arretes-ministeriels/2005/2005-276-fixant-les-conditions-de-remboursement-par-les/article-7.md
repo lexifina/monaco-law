@@ -4,7 +4,7 @@ L'anesthésie-réanimation est prise en charge à condition qu'elle soit adminis
 
 Les gestes d'anesthésie-réanimation sont signalés par le code principal de l'acte complété par le code activité «4» mentionné à l'article 3 qui décrit l'activité spécifique d'anesthésie-réanimation, auquel correspond le tarif du geste d'anesthésie.
 
-Pour les actes dont le code principal n'est pas complété par ce code activité spécifique, il est possible de coder et facturer la réalisation d'une anesthésie complémentaire de l'acte, quand elle est indiquée en regard de celui-ci. Les libellés de ces anesthésies sont regroupés dans un chapitre spécifique. Ces gestes d'anesthésie peuvent être codés et facturés pour les actes relevant de l'article 18 de la Section III : Dispositions diverses.
+Pour les actes dont le code principal n'est pas complété par ce code activité spécifique, il est possible de coder et facturer la réalisation de l'anesthésie complémentaire de l'acte qui est indiquée en regard de celui-ci, ou, si aucune n'est indiquée, de l'anesthésie générale ou loco-régionale complémentaire de niveau 1.
 
 Par dérogation à l'article 6, le supplément pour récupération peropératoire de sang peut être codé et tarifé bien qu'il ne soit pas mentionné en regard des actes auxquels il peut s'appliquer.
 
