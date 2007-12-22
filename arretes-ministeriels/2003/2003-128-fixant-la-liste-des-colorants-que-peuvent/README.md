@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-128 du 12 février 2003 fixant la liste des colorants que peuvent contenir les produits cosmétiques
 
-Version en vigueur au 8 juillet 2006.
+Version en vigueur au 22 décembre 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/02-12-2003-128@2006.07.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/02-12-2003-128@2007.12.22/
 
 | | |
 | --- | --- |
