@@ -1,9 +1,7 @@
 # Article 1er (29)
 
-Examen radiologique du larynx ou du pharynx, sans moyen de contraste ............ | 15
+Tomographie, premier plan en coupe ............ | 35
 
-Laryngographie, pharyngographie, bilan radiologique de la déglutition ............ | 35
+Tomographie, plan(s) non parallèle(s) au premier plan de coupe, quel qu'en soit le nombre ............ | 25
 
-Examen radiologique isolé, sans moyen de contraste, de la filière aérienne (cavum) ............ | 15
-
-Examen radiologique, sans moyen de contraste, de la filière aérienne (cavum) en complément d'un examen de sinus. | 10
+Tomographie(s) au cours d'un examen radiologique, quel que soit le nombre de séries et de plans............ | 15

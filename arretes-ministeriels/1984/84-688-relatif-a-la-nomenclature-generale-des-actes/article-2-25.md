@@ -1,3 +1,9 @@
 # Article 2 (25)
 
-La cotation en Z d'un examen radiologique est globale, quel que soit le support utilisé, à l'exception du supplément éventuel pour numérisation. Elle n'est applicable que si le minimum d'incidences indiqué dans certains libellés est réalisé.
+Injections d'analgésique(s), à l'exclusion de la première par l'intermédiaire d'un cathéter intrathécal ou péridural............ | 5 E
+
+Injection intraveineuse par l'intermédiaire d'un site implanté, y compris l'héparinisation et le pansement ............ | 4
+
+Injection intraveineuse par l'intermédiaire d'un cathéter central, y compris l'héparinisation et le pansement ............ | 3
+
+Prélèvement sanguin sans cathéter veineux central extériorisé ou chambre implantable... | 1

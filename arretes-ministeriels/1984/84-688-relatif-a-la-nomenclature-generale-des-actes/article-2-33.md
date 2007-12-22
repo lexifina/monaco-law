@@ -1,21 +1,11 @@
 # Article 2 (33)
 
-Scintigraphie plane statique :
+1° Repérage radiographique :
 
-Par incidence............ | 30
+Contrôle de la pose des vecteurs non radioactifs ou de la mise en place des applicateurs ou moules avec sources fantômes............ | 20 + films
 
-Avec un plafond, quel que soit le nombre d'organes, de............ | 100
+Radioscopie télévisée de longue durée............ | 10
 
-Examen du corps entier par dispositif spécialisé ............ | 100
+2° Contrôle radiologique de la position des fils ou des sources radioactives en vue du calcul de la répartition des doses : |
 
-Supplément pour quantification nécessitant le traitement informatique des données scintigraphiques............ | 30
-
-Scintigraphie plane séquentielle et/ou étude dynamique quantitative nécessitant le traitement informatique des données scintigraphiques (la quantification par ordinateur est comprise dans la cotation) ............ | 150
-
-Tomoscintigraphie comportant la réalisation de plusieurs coupes tomographiques par caméra tomographique associée à un ordinateur ............ | 150
-
-En cas de scintigraphie plane et de tomoscintigraphie d'un même organe, la cotation applicable est plafonnée à 150.
-
-Si l'exploration comporte une répétition de l'examen à diverses reprises au cours de séances différentes, à la suite de la même injection d'un radiopharmaceutique, un coefficient de 1,5 est appliqué, quel que soit le nombre de reprises et de séances.
-
-Si l'exploration d'un même organe comporte l'étude de deux fonctions différentes par deux radiopharmaceutiques, les deux examens sont considérés comme deux actes différents.
+Clichés orthogonaux ............ | 10 + films

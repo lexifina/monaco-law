@@ -6,8 +6,6 @@ La lettre-clé est un signe dont la valeur en unité monétaire est établie dan
 
 Selon le type de l'acte les lettres-clés à utiliser sont les suivantes :
 
-pppp | mmmmm
-
 C : | consultation au cabinet par le médecin omnipraticien, le chirurgien-dentiste omnipraticien ou la sage-femme.
 
 CALD : | Consultation approfondie annuelle au cabinet par le médecin omnipraticien par un patient reconnu atteint d'une ou plusieurs affections de longue durée exonérées du ticket modérateur.
@@ -30,7 +28,7 @@ KCC : | actes de chirurgie et de spécialités pratiqués par le médecin spéci
 
 KE : | actes d'échographie, d'échotomographie ou de doppler pratiqués par le médecin.
 
-L | actes d'anatomie et de cytologie pathologiques pratiqués par le médecin spécialiste qualifié en anatomie et cytologie pathologiques.
+L : | actes d'anatomie et de cytologie pathologiques pratiqués par le médecin spécialiste qualifié en anatomie et cytologie pathologiques.
 
 Z : | actes utilisant les radiations ionisantes pratiqués par le médecin ou le chirurgien-dentiste.
 
@@ -46,7 +44,7 @@ SF : | actes pratiqués par la sage-femme.
 
 SFI : | soins infirmiers pratiqués par la sage-femme.
 
-AMS : | Actes de rééducation des affections orthopédiques et rhumatologiques effectués par le masseur-kinésithérapeute.
+AMS : | actes de rééducation des affections orthopédiques et rhumatologiques effectués par le masseur-kinésithérapeute.
 
 AMK : | actes pratiqués par le masseur-kinésithérapeute au cabinet ou au domicile du malade, à l'exception des actes effectués dans un cabinet installé au sein d'un établissement d'hospitalisation privé au profit d'un malade hospitalisé.
 

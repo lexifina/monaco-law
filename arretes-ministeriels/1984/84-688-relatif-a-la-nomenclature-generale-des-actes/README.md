@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 84-688 du 30 novembre 1984 relatif à la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux
 
-Version en vigueur au 28 juillet 2007.
+Version en vigueur au 22 décembre 2007.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1984/11-30-84-688@2007.07.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1984/11-30-84-688@2007.12.22/
 
 | | |
 | --- | --- |
