@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2007-646 du 13 décembre 2007 modifiant l'arrêté ministériel n° 99-379 du 30 août 1999 déterminant les actes médicaux ne pouvant être pratiqués que par des médecins ou pouvant être pratiqués également par des auxiliaires médicaux
