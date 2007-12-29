@@ -8,32 +8,36 @@ Sont soumis aux règles de comptabilisation des recettes brutes, les jeux ci-apr
 
 2°) Jeux de contrepartie
 
-- Jeux dits « européens » ou « américains »
+- Jeux dits « Européens » ou « Américains »
 
-- Banque à tout va
+- Banque à Tout Va
 
 - Roulette
 
-- Trente et quarante
+- Trente et Quarante
 
-- Black-jack
+- Black Jack
 
-- Carribean gold poker
+- Carribean Gold Poker
 
 - Craps
 
-- Pai gow poker
+- Pai Gow Poker
 
-- Punto banco
+- Punto Banco
 
-- Roulette américaine
+- Roulette Américaine
 
-- Roulette anglaise
+- Roulette Anglaise
 
-- Stud poker de casino
+- Stud Poker de Casino
 
 - Poker trois cartes
 
 - Bataille
+
+- Grande Roue
+
+- Poker Texas Hold'Hem Ultimate.
 
 3°) Appareils automatiques
