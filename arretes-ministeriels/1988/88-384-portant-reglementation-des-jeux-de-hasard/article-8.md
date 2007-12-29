@@ -60,7 +60,7 @@ Quand la bille s'est définitivement arrêtée dans l'une des 37 cases, le croup
 
 Les paiements aux joueurs gagnants et l'encaissement des mises perdantes sont effectués par les croupiers se trouvant près du cylindre.
 
-Seules sont considérées comme ayant participé au jeu, les mises effectivement placées sur le tableau ainsi que les annonces » marquées « et répétées à haute et intelligible voix par le chef de table, avant le » rien ne va plus «.
+Seules sont considérées comme ayant participé au jeu, les mises effectivement placées sur le tableau ainsi que les annonces » marquées ' et répétées à haute et intelligible voix par le chef de table, avant le « rien ne va plus ».
 
 Toutefois, les annonces marquées complexes devront être communiquées par écrit.
 

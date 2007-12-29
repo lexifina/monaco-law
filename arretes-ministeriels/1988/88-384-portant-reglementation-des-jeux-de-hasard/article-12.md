@@ -1,6 +1,6 @@
 # Article 12
 
-12.1 - Il y a deux séances de banque à tout va, appelée aussi baccara à deux tableaux, chaque jour, l'une l'après-midi, l'autre en soirée. Chaque séance comporte deux tailles, lors de chaque séance, il est utilisé un sixain complet de cartes neuves, non numérotées, d'un » tarotage « uni, trois jeux d'une couleur, trois jeux d'une autre.
+12.1 - Il y a deux séances de banque à tout va, appelée aussi baccara à deux tableaux, chaque jour, l'une l'après-midi, l'autre en soirée. Chaque séance comporte deux tailles, lors de chaque séance, il est utilisé un sixain complet de cartes neuves, non numérotées, d'un « tarotage » uni, trois jeux d'une couleur, trois jeux d'une autre.
 
 12.2 - Le personnel à la table comprend :
 
@@ -12,7 +12,7 @@
 
 - un cartier détaché par la Direction des jeux.
 
-12.3 - Un banquier, agréé par la Direction, participe à la préparation des parties et joue contre les joueurs ou » pontes «.
+12.3 - Un banquier, agréé par la Direction, participe à la préparation des parties et joue contre les joueurs ou « pontes ».
 
 12.4 - Au début de chaque séance, le sixain est compté et vérifié en présence de la clientèle, dans les conditions de l'article 1.2 ci-dessus.
 
@@ -22,13 +22,13 @@ Le mélange, qui se fait selon les dispositions du même article, est effectué 
 
 12.6 - Le banquier joue contre chacun des deux tableaux, les ayants main étant pris, dans l'ordre de priorité du tableau, parmi les joueurs assis ; le but du jeu est d'obtenir un point se rapprochant le plus possible de neuf ; les figures comptent pour dix, l'as pour un et les autres cartes pour leur valeur. Le compte du point de chaque main se fait en additionnant les points des cartes et en déduisant dix ou les multiples de dix : à points égaux le coup est nul.
 
-12.7 - Les pontes, assis ou debout, ainsi que les ayants main misent contre le banquier, soit sur leur tableau, soit sur l'autre tableau, ou encore sur les deux tableaux à la fois, c'est-à-dire » à cheval «.
+12.7 - Les pontes, assis ou debout, ainsi que les ayants main misent contre le banquier, soit sur leur tableau, soit sur l'autre tableau, ou encore sur les deux tableaux à la fois, c'est-à-dire « à cheval ».
 
 12.8 - Le déroulement du jeu est le suivant :
 
-12.81 - après que le croupier ait annoncé » faites vos jeux «, les pontes placent leurs mises ;
+12.81 - après que le croupier ait annoncé « faites vos jeux », les pontes placent leurs mises ;
 
-12.82 - le croupier annonce alors » rien ne va plus « ; aucun joueur ne peut plus miser et le banquier donne les cartes, figures en dessous de la manière suivante : une au joueur du tableau de droite, une au joueur du tableau de gauche, une à lui-même et, dans cet ordre, encore une carte à chacun ;
+12.82 - le croupier annonce alors « rien ne va plus » ; aucun joueur ne peut plus miser et le banquier donne les cartes, figures en dessous de la manière suivante : une au joueur du tableau de droite, une au joueur du tableau de gauche, une à lui-même et, dans cet ordre, encore une carte à chacun ;
 
 12.83 - les ayants main doivent alors se prononcer selon le tableau de tirage ci-après :
 
@@ -44,7 +44,7 @@ Le mélange, qui se fait selon les dispositions du même article, est effectué 
 
 12.85 - Le croupier retourne les cartes jetées par les pontes au centre du tableau, annonce le point, paie les gagnants et ramasse les mises perdantes.
 
-12.9 - Les mises gagnantes jouées sur un tableau sont payées à égalité ; les mises placées » à cheval « sur les deux tableaux sont payées :
+12.9 - Les mises gagnantes jouées sur un tableau sont payées à égalité ; les mises placées « à cheval » sur les deux tableaux sont payées :
 
 - à égalité si les deux tableaux gagnent ;
 
@@ -56,4 +56,4 @@ Elles perdent :
 
 - la totalité si les deux tableaux perdent.
 
-12.10 - Lorsque la carte d'arrêt apparaît, et que neuf cartes au moins restent disponibles au sabot pour le dernier coup de la taille, celui-ci est annoncé par le banquier ; s'il reste entre six et sept cartes disponibles, le banquier peut, s'il le souhaite, jouer le dernier coup dit » du chemin de fer « selon les règles applicables à ce jeu.
+12.10 - Lorsque la carte d'arrêt apparaît, et que neuf cartes au moins restent disponibles au sabot pour le dernier coup de la taille, celui-ci est annoncé par le banquier ; s'il reste entre six et sept cartes disponibles, le banquier peut, s'il le souhaite, jouer le dernier coup dit « du chemin de fer » selon les règles applicables à ce jeu.
