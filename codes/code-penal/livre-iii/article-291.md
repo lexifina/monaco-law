@@ -1,6 +1,6 @@
 # Article 291
 
-Si le mineur ainsi enlevé ou détourné était âgé de moins de quinze ans révolus, la peine sera celle de la réclusion de dix à vingt ans.
+Si le mineur ainsi enlevé ou détourné était âgé de moins de seize ans accomplis, la peine sera celle de la réclusion de dix à vingt ans.
 
 Le maximum de la même peine sera prononcé, quel que soit l'âge du mineur, si le coupable s'est fait payer ou a eu pour but de se faire payer une rançon.
 

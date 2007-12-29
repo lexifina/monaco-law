@@ -4,7 +4,7 @@ Sans préjudice de l'application, le cas échéant, des peines plus fortes prév
 
 - 1°) celui qui, ayant connaissance d'un crime contre les personnes, déjà tenté ou consommé, n'aura pas aussitôt averti les autorités judiciaires ou administratives, alors qu'une dénonciation était encore susceptible d'en prévenir ou limiter les effets ou lorsqu'il existait des circonstances de nature à laisser prévoir que les coupables commettraient de nouveaux crimes que cette dénonciation eût pu empêcher.
 
-- Sont exceptés des dispositions qui précèdent, les parents ou alliés, jusqu'au quatrième degré inclusivement, des auteurs ou complices du crime ou de la tentative, sauf en ce qui concerne les crimes commis sur les mineurs de quinze ans ;
+- Sont exceptés des dispositions qui précèdent, les parents ou alliés, jusqu'au quatrième degré inclusivement, des auteurs ou complices du crime ou de la tentative, sauf en ce qui concerne les crimes commis sur les mineurs au-dessous de l'âge de seize ans accomplis.
 
 - 2°) celui qui, pouvant empêcher par son action immédiate, mais sans risque pour lui ni pour les tiers, soit un fait qualifié crime, soit un délit portant atteinte à l'intégrité corporelle d'une personne, s'en abstient volontairement ;
 
