@@ -1,3 +1,3 @@
 # Article 192
 
-La liberté provisoire peut être subordonnée à l'obligation de fournir un cautionnement dont le montant est fixé par la décision qui accorde la mise en liberté.
+La personne placée en détention provisoire doit être immédiatement libérée dès que les conditions prévues aux articles 190 et 191 ne sont plus remplies.

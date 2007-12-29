@@ -1,7 +1,7 @@
 # Article 180
 
-Les inculpés en état de détention préventive sont, à moins d'impossibilité, isolés les uns des autres.
+L'inculpé, présumé innocent, reste libre.
 
-Ils ne peuvent recevoir ni adresser aucune correspondance sans que le juge d'instruction ou le procureur général selon le cas, en ait autorisé la remise.
+Toutefois, en raison des nécessités de l'instruction ou à titre de mesure de sûreté, le juge d'instruction peut ordonner son placement sous contrôle judiciaire. Si cette mesure apparaît insuffisante au regard de ces objectifs, le juge d'instruction peut, à titre exceptionnel, le placer en détention provisoire.
 
-Toutefois, ils ont la faculté d'écrire, sous pli fermé, à ces magistrats, au Ministre d'État, ainsi qu'à leur défenseur.
+Le juge d'instruction statue après avoir recueilli les réquisitions du procureur général.

@@ -1,3 +1,3 @@
 # Article 527
 
-Le délai de dix jours expiré, il est procédé au jugement de la contumace par le tribunal criminel siégeant au nombre de trois juges sans l'assistance des juges supplémentaires.
+Les dispositions du présent titre sont applicables aux personnes renvoyées pour délits connexes. Le tribunal peut toutefois, sur réquisitoire du ministère public et après avoir entendu les observations des parties, ordonner la disjonction de la procédure les concernant. Ces personnes sont alors considérées comme renvoyées devant le tribunal correctionnel et peuvent y être jugées par défaut.

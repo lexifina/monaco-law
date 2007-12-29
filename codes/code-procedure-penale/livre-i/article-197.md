@@ -1,5 +1,7 @@
 # Article 197
 
-En cas d'acquittement, d'absolution ou de renvoi des poursuites, la seconde partie du cautionnement est restituée.
+Le juge d'instruction peut, après avis du procureur général, ordonner d'office la mise en liberté de l'inculpé.
 
-En cas de condamnation, elle est affectée aux frais et à l'amende, suivant l'ordre énoncé dans l'article 195. Le surplus, s'il échet, est restitué.
+Le procureur général peut aussi, à tout moment, requérir la mise en liberté de l'inculpé. Le juge d'instruction statue dans le délai de trois jours après ces réquisitions.
+
+L'inculpé peut, à toute période de sa détention, demander sa mise en liberté.

@@ -1,3 +1,3 @@
 # Article 187
 
-Le juge d'instruction peut, par ordonnance motivée et susceptible d'appel, astreindre l'inculpé laissé en liberté provisoire à se soumettre à toute mesure de contrôle propre à garantir sa représentation en justice.
+Le juge d'instruction peut, à tout moment, imposer à la personne placée sous contrôle judiciaire une ou plusieurs obligations nouvelles, supprimer tout ou partie des obligations initialement imposées, modifier une ou plusieurs de ses obligations ou accorder une dispense occasionnelle ou temporaire pour certaines d'entre elles.

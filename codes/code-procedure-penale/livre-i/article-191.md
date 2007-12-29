@@ -1,7 +1,9 @@
 # Article 191
 
-Le juge d'instruction communique au parquet, en vue d'obtenir ses réquisitions, les demandes de mise en liberté provisoire formulées par l'inculpé. Il doit statuer sur ces demandes dans les dix jours de leur réception.
+La détention provisoire peut être ordonnée ou prolongée lorsqu'elle est l'unique moyen :
 
-En l'absence de décision du juge d'instruction dans ce délai, la chambre du conseil de la cour d'appel peut être saisie par simple requête.
+- 1°) de conserver les preuves ou les indices matériels ou d'empêcher soit une pression sur les témoins ou les victimes, soit une concertation frauduleuse entre les inculpés et les complices ;
 
-La chambre du conseil, saisie soit comme juridiction d'appel, soit directement, et les juridictions de jugement statuent dans le même délai sur les demandes de mise en liberté provisoire, après communication au procureur général, l'inculpé ou son défenseur entendu ou dûment appelé.
+- 2°) de protéger l'inculpé, de garantir son maintien à la disposition de la justice, de mettre fin à l'infraction ou de prévenir son renouvellement ;
+
+- 3°) de mettre un terme au trouble causé à l'ordre public en raison de la gravité de l'infraction, des circonstances de sa commission ou de l'importance du préjudice causé.

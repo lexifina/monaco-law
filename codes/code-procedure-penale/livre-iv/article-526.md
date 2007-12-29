@@ -1,9 +1,5 @@
 # Article 526
 
-Cette ordonnance spécifie le crime, objet de la poursuite, et mentionne l'arrêt de mise en accusation.
+Si l'accusé condamné par défaut se constitue prisonnier ou s'il est arrêté avant que la peine soit éteinte par prescription, l'arrêt du tribunal criminel est non avenu dans toutes ses dispositions. Il est alors procédé à un nouvel examen de son affaire par le tribunal criminel conformément aux articles 273 et suivants.
 
-Elle est notifiée au domicile ou à la résidence de l'accusé dans la Principauté.
-
-Elle est, en outre, affichée au lieu habituel et publiée par extraits au Journal de Monaco.
-
-Le délai imparti à l'accusé ne court qu'à partir de la dernière mesure de publicité.
+L'accusé demeure détenu jusqu'à sa comparution devant le tribunal criminel.

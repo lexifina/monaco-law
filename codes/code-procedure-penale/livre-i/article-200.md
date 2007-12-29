@@ -1,3 +1,5 @@
 # Article 200
 
-Toute contestation sur le recouvrement et la répartition du cautionnement ou sa restitution est vidée, sur requête, en chambre du conseil de la cour d'appel.
+La mise en liberté peut être assortie d'une ou plusieurs mesures de contrôle visées à l'article 182.
+
+Si la mise en liberté est subordonnée à l'obligation de fournir un cautionnement, l'inculpé non domicilié doit, avant d'être remis en liberté, élire domicile dans la Principauté.

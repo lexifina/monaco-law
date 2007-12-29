@@ -1,5 +1,7 @@
 # Article 524
 
-Lorsque, après un arrêt de mise en accusation, l'accusé n'a pu être saisi ou s'est évadé, cet arrêt lui est notifié à son domicile ou, à défaut de domicile, à sa résidence, conformément aux prescriptions du Code de procédure civile.
+L'accusé absent, sans excuse valable à l'ouverture de l'audience, est jugé par défaut.
 
-S'il n'a ni domicile, ni résidence connus, la copie est déposée au parquet du procureur général et un extrait en est inséré au Journal de Monaco.
+Toutefois, le tribunal peut décider de renvoyer l'affaire à une session ultérieure, après avoir décerné mandat d'arrêt contre l'accusé si un tel mandat n'a pas déjà été décerné.
+
+Nul n'est recevable à déclarer qu'il fait défaut, dès lors qu'il est présent au début de l'audience.

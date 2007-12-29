@@ -1,0 +1,5 @@
+# Article 60-9
+
+Dès le début de la garde à vue, la personne peut demander à s'entretenir avec un avocat. Si elle n'est pas en mesure d'en désigner un ou si l'avocat choisi ne peut être contacté, elle peut demander qu'il lui en soit commis un d'office par le Président du tribunal sur la base d'un tableau de roulement établi par le Bâtonnier. L'avocat désigné est informé par l'officier de police judiciaire de la nature et de la cause de l'infraction. Procès-verbal de l'accomplissement de cette formalité est signé par l'officier de police judiciaire et l'avocat. À l'issue de l'entretien qui doit pouvoir se dérouler dans des conditions garantissant la confidentialité et qui ne peut excéder une heure, l'avocat présente, le cas échéant, des observations écrites qui sont jointes à la procédure.
+
+Lorsque la garde à vue fait l'objet d'une prolongation, et dès le début de celle-ci, la personne peut également demander à s'entretenir avec un avocat, dans les conditions et selon les modalités prévues à l'alinéa précédent.
