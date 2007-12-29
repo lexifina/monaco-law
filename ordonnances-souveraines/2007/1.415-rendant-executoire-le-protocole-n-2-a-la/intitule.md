@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.415 du 23 novembre 2007 rendant exécutoire le Protocole n° 2 à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales relatif à la coopération inter territoriale, adopté à Strasbourg le 5 mai 1998
