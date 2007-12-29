@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.413 du 23 novembre 2007 rendant exécutoire la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, adoptée à Madrid le 21 mai 1980
