@@ -26,7 +26,7 @@ Elle est notamment consultée sur :
 
 - 5° les retraits d'agrément administratif délivrés après enquête à toutes personnes et agents ayant accès aux salons de jeux, en application de l'article 6 de la loi n° 1.103 du 12 juin 1987, susvisée ;
 
-- 6' le contrôle des interdictions édictées par l'article 21 de la loi n° 1.103 du 12 juin 1987, susvisée.
+- 6° le contrôle des interdictions édictées par l'article 21 de la loi n° 1.103 du 12 juin 1987, susvisée.
 
 Elle agit en formation plénière ou par délégation donnée à un ou plusieurs de ses membres.
 
