@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.414 du 23 novembre 2007 rendant exécutoire le Protocole additionnel à la Convention-cadre européenne sur la coopération transfrontalière des collectivités ou autorités territoriales, adopté à Strasbourg le 9 novembre 1995
