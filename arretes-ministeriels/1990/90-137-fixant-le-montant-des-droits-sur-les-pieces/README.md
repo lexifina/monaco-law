@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 90-137 du 23 mars 1990 fixant le montant des droits sur les pièces administratives établies ou délivrées par application des dispositions du Code de la route
 
-Version en vigueur au 1er janvier 2007.
+Version en vigueur au 1er janvier 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1990/03-23-90-137@2007.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1990/03-23-90-137@2008.01.01/
 
 | | |
 | --- | --- |
