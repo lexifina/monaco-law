@@ -1,8 +1,8 @@
 # Convention internationale du 19 octobre 2005 sur le dopage dans le sport (UNESCO)
 
-Version en vigueur au 22 avril 2007.
+Version en vigueur au 1er janvier 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/2005/10-19-tai1l015031@2007.04.22/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/2005/10-19-tai1l015031@2008.01.01/
 
 | | |
 | --- | --- |
