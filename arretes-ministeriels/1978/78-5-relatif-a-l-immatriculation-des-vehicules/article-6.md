@@ -300,7 +300,7 @@ Cette déclaration doit être tirée d'un carnet à souches délivré par le ser
 
 Les deux premiers volets ou volets A et B doivent être adressés respectivement à la direction de la sûreté publique et au service de la circulation, trois jours au moins avant la date de départ des véhicules indiquée dans la déclaration, le cachet de la poste faisant foi. Le troisième volet ou volet C doit être conservé par les conducteurs et présenté par eux lors de tout contrôle.
 
-Les véhicules automobiles ou remorqués de plus de 25 ans d'âge jusqu'alors immatriculés en série normale, pourront être maintenus dans cette catégorie à condition de satisfaire, chaque année, aux visites techniques prévues aux articles 111 à 115 de l'ordonnance souveraine n° 1691 du 17 décembre 1957.
+Les véhicules automobiles ou remorqués de plus de 25 ans d'âge jusqu'alors immatriculés en série normale, pourront être maintenus dans cette catégorie à condition de satisfaire, chaque année, aux visites techniques prévues aux articles 111 à 115 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957.
 
 * Couleur des caractères : bleu.
 
