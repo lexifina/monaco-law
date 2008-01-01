@@ -4,4 +4,4 @@ Sur l'avenue Princesse Grace, les emplacements réglementés par horodateurs son
 
 Durant ces périodes, le stationnement maximum autorisé est fixé à quatre heures.
 
-Ces emplacements sont soumis au paiement d'une redevance d'un euro (1,00 euro(s)) par heure.
+Ces emplacements sont soumis au paiement d'une redevance d'un euro et vingt centimes (1,20 euro(s)) par heure.
