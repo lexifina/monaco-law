@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2007-229 du 20 avril 2007 portant fixation du montant des ressources personnelles telles que prévues à l'ordonnance souveraine n° 1.087 du 20 avril 2007 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
