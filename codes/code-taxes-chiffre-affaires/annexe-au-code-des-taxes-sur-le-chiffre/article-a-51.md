@@ -4,7 +4,7 @@ I. - Pour bénéficier des dispositions de l'article A-50 :
 
 - 1° Les entreprises installées dans un pays étranger autre que la France doivent délivrer aux prestataires des services portant sur des marchandises exportées des attestations par lesquelles elles certifient que les opérations commandées portent sur des marchandises destinées à l'exportation ;
 
-- 2° Les preneurs de services portant sur des marchandises placées, lors de leur entrée sur le territoire, sous l'un des régimes douaniers communautaires mentionnés au b du 2 du I doivent délivrer aux prestataires des attestations certifiant que ces marchandises sont placées sous un des régimes suspensifs prévus au b) du 2 du I : » l'un de ces régimes «.
+- 2° Les preneurs de services portant sur des marchandises placées, lors de leur entrée sur le territoire, sous l'un des régimes douaniers communautaires mentionnés au b du 2 du I doivent délivrer aux prestataires des attestations certifiant que ces marchandises sont placées sous un des régimes suspensifs prévus au b) du 2 du I : « l'un de ces régimes ».
 
 II. - Les prestataires de services sont tenus, pour leur part :
 

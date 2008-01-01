@@ -2,7 +2,7 @@
 
 I. - 1° Tout assujetti est tenu de s'assurer qu'une facture est émise, par lui-même, ou en son nom et pour son compte, par son client ou par un tiers :
 
-- a) Pour les livraisons de biens ou les prestations de services qu'il effectue pour un autre assujetti, ou pour une personne morale non assujettie ;
+- a) Pour les livraisons de biens ou les prestations de services qu'il effectue pour un autre assujetti, ou pour une personne morale non assujettie, et qui ne sont pas exonérées en application des articles 23 à 27 ;
 
 - b) Pour les livraisons de biens visées aux articles 8 et 9 et pour les livraisons de biens exonérées en application du I de l'article 31 et II de l'article 94 ;
 
@@ -28,8 +28,8 @@ II. - Une ordonnance souveraine fixe les mentions obligatoires qui doivent figur
 
 III. - Les montants figurant sur la facture peuvent être exprimés dans toute monnaie, pour autant que le montant de taxe à payer soit déterminé en euros en utilisant le mécanisme de conversion prévu au 2 de l'article 35.
 
-Lorsqu'elle est rédigée dans une langue étrangère, la Direction des services fiscaux peut, à des fins de contrôle, exiger une traduction en français.
+Lorsqu'elle est rédigée dans une langue étrangère, la direction des Services fiscaux peut, à des fins de contrôle, exiger une traduction en français.
 
-IV. - Les factures peuvent, sous réserve de l'acceptation du destinataire, être transmises par voie électronique dès lors que l'authenticité de leur origine et l'intégralité de leur contenu sont garanties au moyen d'une signature électronique. Les factures ainsi transmises tiennent lieu de facture d'origine pour l'application de l'article 66 et du présent article. Les conditions d'émission de ces factures, de leur signature électronique et de leurs modalités de stockage sont fixées par l'article 80 bis et par l'article A. 153 ter de l'annexe au Code des taxes.
+IV. - Les factures peuvent, sous réserve de l'acceptation du destinataire, être transmises par voie électronique dès lors que l'authenticité de leur origine et l'intégralité de leur contenu sont garanties au moyen d'une signature électronique. Les factures ainsi transmises tiennent lieu de facture d'origine pour l'application de l'article 66 et du présent article. Les conditions d'émission de ces factures, de leur signature électronique et de leurs modalités de stockage sont fixées par l'article 80 bis et par l'article A-153 ter de l'annexe au Code des taxes.
 
 Lorsqu'elles se présentent sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, les factures doivent être émises dans les conditions précisées à l'article 71 bis.

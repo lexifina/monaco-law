@@ -10,7 +10,7 @@ II. - 1° Est considéré comme livraison d'un bien, le transfert du pouvoir de 
 
 - a) le transfert de propriété d'un bien meuble corporel opéré en vertu d'une réquisition de l'autorité publique ;
 
-- b) (b abrogé);
+- b) (b abrogé) ;
 
 - c) la remise matérielle d'un bien meuble corporel en vertu d'un contrat qui prévoit la location de ce bien pendant une certaine période ou sa vente à tempérament et qui est assortie d'une clause selon laquelle la propriété de ce bien est normalement acquise au détenteur ou à ses ayants droit au plus tard lors du paiement de la dernière échéance ;
 
@@ -24,7 +24,9 @@ Est considéré comme un transfert au sens des dispositions qui précèdent, l'e
 
 - b) à faire l'objet de travaux à condition que le bien soit réexpédié ou transporté à Monaco ou en France à destination de cet assujetti ;
 
-- c) à faire l'objet d'une installation ou d'un montage.
+- c) à faire l'objet d'une installation ou d'un montage ;
+
+- d) à faire l'objet de livraisons à bord des moyens de transport, effectuées par l'assujetti, dans les conditions prévues à l'article 37 de la directive 2006/112/CE du Conseil du 28 novembre 2006.
 
 IV. - 1° Les opérations autres que celles qui sont définies au II, notamment la cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne pas faire ou à tolérer un acte ou une situation, les opérations de façon et les travaux immobiliers, sont considérées comme des prestations de services ;
 

@@ -10,7 +10,7 @@ I. - Par dérogation aux dispositions du I de l'article 6, est réputé ne pas s
 
 - b) soit à destination de toute autre personne non assujettie.
 
-2° Le montant des livraisons effectuées par le vendeur à destination du territoire de cet État membre excède, pendant l'année civile en cours au moment de la livraison, ou a excédé pendant l'année civile précédente, le seuil fixé par cet État.
+2° Le montant des livraisons effectuées par le vendeur à destination du territoire de cet État membre excède, pendant l'année civile en cours au moment de la livraison, ou a excédé pendant l'année civile précédente, le seuil fixé par cet État pour l'application des stipulations de l'article 34 de la directive 2006/112/CE du Conseil du 28 novembre 2006.
 
 Cette condition de seuil ne s'applique pas lorsque le vendeur a opté pour que le lieu des livraisons prévues au présent article se situe sur le territoire de l'État membre autre que la France où est arrivé le bien expédié ou transporté.
 

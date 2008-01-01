@@ -26,17 +26,17 @@ Ces opérations sont imposables même lorsqu'elles revêtent un caractère civil
 
 - c) les livraisons à soi-même d'immeubles.
 
-- Constituent notamment des livraisons à soi-même d'immeubles les travaux portant sur des immeubles existants qui consistent en une surélévation, ou qui rendent à l'état neuf :
+Constituent notamment des livraisons à soi-même d'immeubles les travaux portant sur des immeubles existants qui consistent en une surélévation, ou qui rendent à l'état neuf :
 
-  - 1° soit la majorité des fondations ;
+- 1° soit la majorité des fondations ;
 
-  - 2° soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
+- 2° soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
 
-  - 3° soit la majorité de la consistance des façades hors ravalement ;
+- 3° soit la majorité de la consistance des façades hors ravalement ;
 
-  - 4° soit l'ensemble des éléments de second ouvre tels que fixés par ordonnance souveraine dans une proportion qui ne peut pas être inférieure à la moitié pour chacun d'entre eux.
+- 4° soit l'ensemble des éléments de second ouvre tels que fixés par ordonnance souveraine dans une proportion qui ne peut pas être inférieure à la moitié pour chacun d'entre eux.
 
-- Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
+Toutefois la livraison à soi-même d'immeubles affectés ou destinés à être affectés à l'habitation pour les trois quarts au moins de leur superficie totale et d'immeubles qui ne sont pas destinés à être utilisés pour la réalisation d'opérations soumises à la taxe sur la valeur ajoutée n'est imposée que lorsqu'il s'agit d'immeubles construits par des sociétés dont les parts ou actions assurent en droit ou en fait l'attribution en propriété ou en jouissance d'un immeuble ou d'une fraction d'immeuble.
 
 2 - Les dispositions qui précèdent ne sont pas applicables :
 

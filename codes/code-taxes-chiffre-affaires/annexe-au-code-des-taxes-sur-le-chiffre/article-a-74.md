@@ -1,31 +1,77 @@
 # Article A-74
 
-1. a) Un redevable qui réalise des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et des opérations imposables à la taxe sur la valeur ajoutée doit, pour opérer la déduction de la taxe sur la valeur ajoutée afférente à ses dépenses, procéder préalablement à l'affectation de ces dépenses en fonction de leur utilisation, totale ou partielle, pour la réalisation de chacune de ces deux catégories d'opérations ;
+I. - Sous réserve des dispositions qui suivent, la déduction opérée dans les conditions mentionnées aux articles A-72 et A-73 est définitivement acquise à l'entreprise.
 
-b) la taxe sur la valeur ajoutée qui a grevé les biens ou les services utilisés exclusivement pour des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée n'est pas déductible ;
+II. - 1. Pour les biens immobilisés, une régularisation de la taxe initialement déduite est opérée chaque année pendant cinq ans, dont celle au cours de laquelle ils ont été acquis, importés, achevés, utilisés pour la première fois ou transférés entre secteurs d'activité constitués en application de l'article A-76.
 
-c) la taxe sur la valeur ajoutée qui a grevé les biens ou les services utilisés exclusivement pour des opérations imposables à la taxe sur la valeur ajoutée est déductible dans les conditions prévues aux articles A-72 à A-126 et A-129 ;
+2. Chaque année, la régularisation est égale au cinquième du produit de la taxe initiale par la différence entre le coefficient de déduction de l'année et le coefficient de déduction de référence mentionné au 2 du V. Elle prend la forme d'une déduction complémentaire si cette différence est positive, d'un reversement dans le cas contraire.
 
-d) la taxe sur la valeur ajoutée qui a grevé les biens ou les services utilisés concurremment pour la réalisation d'opérations imposables en vertu des articles 1er et suivants du Code des taxes et pour la réalisation d'opérations situées hors du champ d'application de la taxe sur la valeur ajoutée n'est déductible, dans les conditions prévues aux articles A-72 à A-126 et A-129, qu'en proportion de l'utilisation de ces biens et services pour la réalisation d'opérations imposables.
+3. Par dérogation à la durée mentionnée au 1 et à la fraction mentionnée au 2, cette régularisation s'opère pour les immeubles immobilisés par vingtième pendant vingt années.
 
-Pour le calcul de cette proportion, les redevables peuvent appliquer une clef de répartition commune à l'ensemble des dépenses concernées, à condition de pouvoir la justifier ;
+4. La régularisation doit être effectuée avant le 25 avril de l'année suivante. Aucune régularisation n'est effectuée si la différence entre le produit des coefficients d'assujettissement et de taxation de l'année, d'une part, et le produit des coefficients d'assujettissement et de taxation de référence mentionnés au 2 du V, d'autre part, n'est pas supérieure, en valeur absolue, à un dixième.
 
-e) les opérations imposables s'entendent des opérations situées dans le champ d'application de la taxe sur la valeur ajoutée, qu'elles soient imposées ou légalement exonérées.
+5. Les dispositions qui précèdent ne sont pas applicables :
 
-2. a) Lorsque la proportion déterminée au d) du 1 diminue de plus de vingt centièmes au cours des neuf années qui suivent celle de l'achèvement ou de l'acquisition d'un immeuble, le redevable doit procéder au reversement d'une fraction de la taxe initialement déductible au titre des opérations imposables. Ce reversement est égal au dixième de la différence entre le montant de la taxe initialement déductible et le montant de la taxe déductible au titre de l'année au cours de laquelle la diminution a été constatée.
+- 1° Aux biens immobilisés dont le coefficient d'assujettissement de référence est nul ;
 
-Les redevables qui cessent de réaliser exclusivement des opérations situées dans le champ d'application de la taxe sur la valeur ajoutée sont tenus à la même obligation ;
+- 2° Aux immeubles livrés, acquis, apportés ou utilisés pour la première fois avant le 1er janvier 1996.
 
-b) lorsque la proportion déterminée au d) du 1 augmente de plus de vingt centièmes au cours des neuf années qui suivent celle de l'acquisition ou de l'achèvement d'un immeuble, le redevable bénéficie d'un droit à déduction complémentaire. Celui-ci est égal au dixième de la différence entre le montant de la taxe déductible au titre de l'année au cours de laquelle l'augmentation a été constatée et le montant de la taxe initialement déductible ;
+6. Pour la détermination des coefficients de référence mentionnés au 2 et au 4, il n'est pas tenu compte des dispositions du 1° et du 2° du 2 du V au titre de l'année où il est fait application de ces dispositions.
 
-c) pour l'application des dispositions du a) et du b), lorsque le droit à déduction n'a été ouvert qu'après la date de l'achèvement ou de l'acquisition de l'immeuble, la date de l'ouverture du droit à déduction se substitue à cette date. Lorsqu'un immeuble acquis ou construit en vue de la vente est utilisé directement par le redevable, la date de la première utilisation se substitue à celle de l'acquisition ou de l'achèvement ;
+III. - 1. Une régularisation de la taxe initialement déduite et grevant un bien immobilisé est également opérée :
 
-d) les montants de taxe déductibles visés aux a) et b) sont corrigés le cas échéant, en fonction du rapport de déduction fixé à l'article A-79 et déterminé au titre de l'année de l'achèvement ou de l'acquisition de l'immeuble ou de l'ouverture du droit à déduction mentionnée au c).
+- 1° Lorsqu'il est cédé ou apporté, sans que cette opération soit soumise à la taxe sur le prix total ou la valeur totale, ou est transféré entre secteurs d'activité constitués en application de l'article A-76 ;
 
-3. Les dispositions du 2 sont applicables aux autres biens constituant des immobilisations. Toutefois, la période de quatre années suivant celle de l'achat, de l'acquisition intracommunautaire, de l'importation ou de la première utilisation des biens est substituée à la période de neuf années et le reversement ou la déduction complémentaire est calculé par cinquième au lieu de dixième.
+- 2° Lorsqu'il est cédé ou apporté, et que cette opération est soumise à la taxe sur le prix total ou la valeur totale ;
 
-4. La déduction supplémentaire dont les principes sont exposés aux 2 et 3 est opérée en fonction des règles fixées aux articles A-72 à A-126 et A-129.
+- 3° Lorsque la réglementation modifie la valeur de son coefficient d'admission en cours d'utilisation ;
 
-5. L'obligation de reversement résultant des 2 et 3 doit être accomplie avant le 25 avril de l'année suivante. La déduction complémentaire est effectuée dans le même délai.
+- 4° Lorsqu'il vient en cours d'utilisation à être utilisé à des opérations ouvrant droit à déduction ou, sous réserve du 5°, lorsqu'il cesse d'être utilisé à des opérations ouvrant droit à déduction ;
 
-6. Lorsqu'un redevable réalise des opérations situées hors du champ d'application de la taxe sur la valeur ajoutée et des opérations imposables à la taxe sur la valeur ajoutée, il doit comptabiliser ces opérations dans des comptes distincts pour l'application du droit à déduction de la taxe sur la valeur ajoutée.
+- 5° Lorsqu'il cesse d'être utilisé à des opérations imposables.
+
+2. Cette régularisation est égale à la somme des régularisations qui auraient été effectuées jusqu'au terme de la période de régularisation en application des 1, 2, 3 et 5 du II, en considérant que pour chacune des années restantes de cette période
+
+- 1° Dans les cas visés au 1° du 1, le coefficient de taxation est égal à zéro ;
+
+- 2° Dans les cas visés au 2° du 1, le coefficient de déduction est égal à l'unité ;
+
+- 3° Dans le cas visé au 3° du 1, le coefficient d'admission est égal à sa nouvelle valeur ;
+
+- 4° Dans les cas visés au 4° du 1, le coefficient de taxation est égal à sa nouvelle valeur ;
+
+- 5° Dans le cas visé au 5° du 1, le coefficient d'assujettissement est égal à zéro.
+
+3. Dans les cas visés au 1° du 1, sous réserve que le bien constitue également une immobilisation pour le bénéficiaire de la cession, de l'apport ou du transfert, celui-ci peut déduire une fraction du montant de taxe sur la valeur ajoutée ayant grevé initialement le bien, à proportion du rapport entre le nombre d'années restant à courir, pour le cédant ou l'apporteur, jusqu'au terme de la période de régularisation et le nombre d'années total de celle-ci. À cette fin, le cédant ou l'apporteur délivre au bénéficiaire une attestation mentionnant le montant de la taxe qu'il est en droit de déduire. Cette déduction est opérée dans les conditions prévues à l'article A-73.
+
+4. Les dispositions des 1 à 3 ne sont pas applicables :
+
+- 1° Aux cessions ou apports dispensés de taxe sur la valeur ajoutée en application de l'article 5 bis du Code des taxes ;
+
+- 2° Aux biens immobilisés :
+
+  - a. Qui ont été volés ou détruits, dès lors qu'il est justifié du vol ou de la destruction ;
+
+  - b. Dont le coefficient d'assujettissement de référence est nul.
+
+IV. - 1. Par dérogation au III, en cas de cession ou d'apport soumis à la taxe sur la valeur ajoutée sur le prix total ou la valeur totale d'un immeuble affecté à l'habitation, la taxe initiale peut être déduite intégralement.
+
+2. Lorsqu'un bien en stock, ou un bien immobilisé non encore utilisé, vient à être utilisé à des opérations ouvrant droit à déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement.
+
+V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 42 du Code des taxes ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 de l'article A-77.
+
+2. Les coefficients d'assujettissement, de taxation et d'admission de référence sont initialement égaux aux coefficients retenus pour le calcul de la déduction opérée en application de l'article A-73 lors de l'acquisition, de l'importation ou de la livraison à soi-même du bien. Le cas échéant :
+
+- 1° Après chaque déduction opérée en application des dispositions du 3 du III du présent article lors d'un transfert entre secteurs d'activité mentionné au 1° du 1 de ce même III, ils prennent la valeur des coefficients retenus pour la détermination du montant de cette déduction ;
+
+- 2° Après chaque régularisation opérée en application des dispositions des 3° à 5° du 1 du III du présent article, ils prennent la valeur des coefficients mentionnés respectivement aux 3° à 5° du 2 de ce même III.
+
+- Le coefficient de déduction de référence est égal au produit des coefficients d'assujettissement, de taxation et d'admission de référence résultant des dispositions qui précèdent.
+
+VI. - Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas suivants :
+
+- 1° Lorsque les marchandises ont disparu ;
+
+- 2° Lorsque les biens ou services ayant fait l'objet d'une déduction de la taxe qui les avait grevés ont été utilisés pour une opération qui n'est pas effectivement soumise à l'impôt.
+
+Ce reversement doit être opéré avant le 25 du mois qui suit celui au cours duquel l'événement qui motive le reversement est intervenu. Toutefois, ces reversements ne sont pas exigés lorsque les biens ont été détruits avant toute utilisation ou cession, ou volés, et qu'il est justifié de cette destruction ou de ce vol.

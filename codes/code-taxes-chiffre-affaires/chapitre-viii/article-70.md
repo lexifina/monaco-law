@@ -14,6 +14,8 @@ Lorsque la taxe exigible annuellement est inférieure à 4 000 € les redevable
 
 - b) d'autre part, le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 2 et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un État membre de la Communauté économique européenne autre que la France et installés ou montés à Monaco ou en France, et des livraisons de biens dont le lieu est situé à Monaco ou en France en application des dispositions de l'article 8 et des livraisons de biens effectuées à Monaco ou en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 4 de l'article 62.
 
+- b bis) le montant hors taxes des opérations mentionnées au 4 ter de l'article 62 réalisées ou acquises par l'assujetti ;
+
 - c) enfin, le montant hors taxes des transmissions mentionnées à l'article 5 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.
 
-5. Le redevable exerçant des activités de nature différente remet à la Recette des Taxes une déclaration particulière pour chaque activité.
+5. Le redevable exerçant des activités de nature différente remet à la Recette des taxes une déclaration particulière pour chaque activité.

@@ -14,6 +14,8 @@ II. - 1. Les dispositions du I cessent de s'appliquer aux assujettis dont le chi
 
 3. Les assujettis visés aux 1 et 2 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres sont dépassés.
 
+4. Les dispositions du I continuent à s'appliquer aux assujettis dont le chiffre d'affaires de l'année précédente a excédé les seuils mentionnés au I et dont le chiffre d'affaires de l'année en cours n'excède pas les seuils mentionnés au présent II.
+
 III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 37 400 € :
 
 - 1. Pour la livraison de leurs œuvres désignées à l'article 2 de l'ordonnance souveraine du 27 février 1989 sur la propriété littéraire et artistique et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'œuvres de l'esprit, à l'exception des architectes.

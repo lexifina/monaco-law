@@ -8,7 +8,7 @@ II. - Dans l'état récapitulatif doivent figurer :
 
 - 2° Le numéro par lequel chaque client est identifié à la taxe sur la valeur ajoutée dans l'État membre où les biens lui ont été livrés ;
 
-- 3° Pour chaque acquéreur, le montant total des livraisons de biens effectuées par l'assujetti. Ces montants sont déclarés au titre du mois au cours duquel la taxe est devenue exigible dans l'État membre autre que la France conformément aux dispositions de la législation de cet État en ce qui concerne le fait générateur et l'exigibilité de la taxe sur la valeur ajoutée ;
+- 3° Pour chaque acquéreur, le montant total des livraisons de biens effectuées par l'assujetti. Ces montants sont déclarés au titre du mois au cours duquel la taxe est devenue exigible dans l'État membre autre que la France conformément au 1 de l'article 69 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ;
 
 - 4° Pour les livraisons de biens exonérées en vertu du 2° du I de l'article 31, le numéro par lequel l'assujetti est identifié à la taxe sur la valeur ajoutée dans l'État membre d'arrivée de l'expédition ou du transport, ainsi que la valeur du bien, déterminée dans les conditions fixées au e) du 1 de l'article 35 ;
 

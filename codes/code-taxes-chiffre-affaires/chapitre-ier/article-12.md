@@ -2,15 +2,15 @@
 
 Par dérogation aux dispositions de l'article 11, le lieu des prestations suivantes est réputé se situer à Monaco :
 
-- 1° Les locations de moyens de transport :
+- 1° Les locations de moyens de transport:
 
   - lorsque le prestataire est établi en Principauté et le bien utilisé en Principauté ou en France ou dans un État membre de la Communauté économique européenne autre que la France ;
 
   - lorsque le prestataire est établi en dehors de la Principauté, de la France et des États membres de la Communauté économique européenne autres que la France et le bien utilisé en Principauté ;
 
-- 2° Par dérogation au 1°, les locations de moyens de transport en vertu d'un contrat de crédit-bail lorsque :
+- 2° Par dérogation au 1°, les locations de moyens de transport en vertu d'un contrat de crédit-bail lorsque:
 
-  - a) Le prestataire est établi dans un État membre de la Communauté autre que la France où l'opération de crédit-bail est assimilée à une livraison ;
+  - a)Le prestataire est établi dans un État membre de la Communauté autre que la France où l'opération de crédit-bail est assimilée à une livraison ;
 
   - b) Le preneur a à Monaco le siège de son activité ou un établissement stable pour lequel le service est rendu, ou y a son domicile ou sa résidence habituelle ;
 
@@ -26,11 +26,11 @@ Par dérogation aux dispositions de l'article 11, le lieu des prestations suivan
 
   - b) lorsque le lieu de départ se trouve dans un État membre de la Communauté économique européenne autre que la France et que le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée.
 
-- Sont considérés comme transports intracommunautaires de biens les transports dont le lieu de départ et le lieu d'arrivée se trouvent respectivement en Principauté ou en France et dans un État membre de la Communauté économique européenne autre que la France.
+  - Sont considérés comme transports intracommunautaires de biens les transports dont le lieu de départ et le lieu d'arrivée se trouvent respectivement en Principauté ou en France et dans un État membre de la Communauté économique européenne autre que la France.
 
-- Sont assimilés à des transports intracommunautaires de biens les transports de biens, dont le lieu de départ et le lieu d'arrivée se trouvent à Monaco ou en France, lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
+  - Sont assimilés à des transports intracommunautaires de biens les transports de biens, dont le lieu de départ et le lieu d'arrivée se trouvent à Monaco ou en France, lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
 
-- 5° Les prestations de transports, autres que les transports intracommunautaires de biens meubles corporels, pour la distance parcourue à Monaco et en France (Voir l'article A-25 de l'annexe au code) ;
+- 5° Les prestations de transports, autres que les transports intracommunautaires de biens meubles corporels, pour la distance parcourue à Monaco et en France;
 
 - 6° Les prestations ci-après lorsqu'elles sont matériellement exécutées en Principauté ou en France :
 
@@ -52,7 +52,7 @@ Par dérogation aux dispositions de l'article 11, le lieu des prestations suivan
 
   - b) lorsqu'elles sont matériellement exécutées dans un État membre de la Communauté économique européenne autre que la France et que le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée en Principauté ;
 
-- 8° Les prestations des intermédiaires qui agissent au nom et pour le compte d'autrui et interviennent dans des opérations portant sur des biens meubles corporels, autres que celles qui sont désignées au 4° et au 7° du présent article et à l'article 13 :
+- 8° Les prestations des intermédiaires qui agissent au nom et pour le compte d'autrui et interviennent dans des opérations autres que celles qui sont désignées au 4° et au 7° du présent article et à l'article 13 :
 
   - a) lorsque le lieu de ces opérations est situé à Monaco ou en France sauf si le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée dans un État membre autre que la France ;
 
