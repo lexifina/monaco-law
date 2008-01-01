@@ -1,0 +1,7 @@
+# Article 8
+
+1. Les Etats contractants s'accordent l'entraide judiciaire la plus large possible en matière pénale dans toute procédure relative aux infractions visées à l'article 1er ou 2. Dans tous les cas, la loi applicable en ce qui concerne l'assistance mutuelle en matière pénale est celle de l'Etat requis. Toutefois, l'entraide judiciaire ne pourra pas être refusée pour le seul motif qu'elle concerne une infraction politique ou une infraction connexe à une telle infraction ou une infraction inspirée par des mobiles politiques.
+
+2. Aucune disposition de la présente Convention ne doit être interprétée comme impliquant une obligation d'accorder l'entraide judiciaire si l'Etat requis a des raisons sérieuses de croire que la demande d'entraide motivée par une infraction visée à l'article 1er ou 2 a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité ou d'opinions politiques, ou que la situation de cette personne risque d'être aggravée pour l'une ou l'autre de ces raisons.
+
+3. Les dispositions de tous traités et accords d'entraide judiciaire en matière pénale applicables entre les Etats contractants, y compris la Convention européenne d'entraide judiciaire en matière pénale, sont en ce qui concerne les relations entre Etats contractants modifiées dans la mesure où elles sont incompatibles avec la présente Convention.
