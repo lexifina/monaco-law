@@ -2,7 +2,7 @@
 
 Pour l'application du 2e alinéa de l'article 6 de la loi n° 1.235 du 28 décembre 2000, le demandeur visé à la catégorie 3 à l'article 3 de ladite loi doit attester que les ressources de son foyer ne dépassent pas les montants fixés ainsi qu'il suit :
 
-Francs
+Francs |
 
 - Personne seule ............ | 262 500 F
 
