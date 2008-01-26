@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.501 du 21 janvier 2008 prorogeant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
