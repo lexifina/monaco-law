@@ -1,27 +1,25 @@
 # Article 2
 
-Le comité consultatif pour la construction est composé ainsi qu'il suit :
+Le Comité Consultatif pour la Construction est composé ainsi qu'il suit :
 
-- un président désigné par ordonnance souveraine ;
+- Le Conseiller de Gouvernement pour l'Équipement, l'Environnement et l'Urbanisme ou son représentant, Président ;
 
-- le directeur de l'urbanisme, des travaux publics et de l'administration générale au département des travaux publics et des affaires sociales, vice-président ;
+- un représentant du Département des Finances et de l'Économie ;
 
-- un représentant du département des finances et des affaires économiques ;
+- un représentant du Département de l'Intérieur un représentant du Département des Affaires sociales et de la santé ;
 
-- un représentant du département de l'intérieur ;
+- deux représentants du Conseil national ;
 
-- un représentant du Conseil National ;
+- deux représentants du Conseil communal ;
 
-- un représentant du conseil communal ;
+- le Président du Conseil de l'Ordre des architectes ou son représentant ;
 
-- le président du conseil de l'ordre des architectes ou son représentant ;
+- le Président du Comité des Traditions Monégasques ou son représentant ;
 
-- le président du comité des traditions monégasques ou son représentant ;
+- le Directeur de l'Environnement ou son représentant ;
 
-- une personnalité désignée par arrêté ministériel en raison de sa compétence.
+- le Directeur de la Prospective, de l'Urbanisme et de la Mobilité ou son représentant.
 
-Le comité peut s'adjoindre des experts désignés par arrêté ministériel ; ceux-ci siègent avec voix consultative.
+Le Comité peut s'adjoindre des experts désignés par arrêté ministériel ; ceux-ci siègent avec voix consultative.
 
-Il peut également entendre avec voix consultative tout fonctionnaire ou sapeur qu'il jugera utile.
-
-Le secrétariat du comité est assuré par un fonctionnaire du département des travaux publics et des affaires sociales.
+Le secrétariat du Comité est assuré par un fonctionnaire du Département de l'Equipement, de l'Environnement et de l'Urbanisme.

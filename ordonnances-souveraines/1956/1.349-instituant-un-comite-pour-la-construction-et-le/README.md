@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 1.349 du 30 juin 1956 instituant un comité pour la construction et le logement
 
-Version en vigueur au 2 octobre 1965.
+Version en vigueur au 26 janvier 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1956/06-30-1.349@1965.10.02/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1956/06-30-1.349@2008.01.26/
 
 | | |
 | --- | --- |
