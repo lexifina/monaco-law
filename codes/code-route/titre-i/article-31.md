@@ -17,3 +17,9 @@ Est en outre interdit le stationnement effectué dans les conditions ci-après :
   - dépasse la durée maximale du stationnement autorisé dans de tels emplacements ;
 
   - positionne son véhicule dans des conditions non conformes aux prescriptions.
+
+- 3° Le stationnement et l'arrêt sur un emplacement réservé aux véhicules de livraison pendant les horaires autorisés pour les livraisons :
+
+  - en l'absence de mise en évidence, derrière le pare-brise avant, d'un disque horaire spécial, visible de l'extérieur ;
+
+  - en cas de dépassement de l'horaire autorisé et indiqué par le disque horaire.

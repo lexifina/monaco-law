@@ -26,7 +26,7 @@ La demande de certificat d'immatriculation rédigée sur imprimé délivré par 
 
 - D. - Véhicules en provenance d'autres territoires :
 
-  - a)Véhicules mis en circulation pour la première fois, dits véhicules neufs :
+  - a) Véhicules mis en circulation pour la première fois, dits véhicules neufs :
 
     - Le certificat de conformité du type pour les véhicules ayant déjà fait l'objet d'une réception par le service français des mines ou le certificat de réception à titre isolé délivré par le Service des titres de circulation conformément à l'article 98 de la présente ordonnance.
 
