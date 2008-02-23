@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.541 du 12 février 2008 prorogeant le privilège concédé à la Société Hôtelière et de loisirs de Monaco d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français
