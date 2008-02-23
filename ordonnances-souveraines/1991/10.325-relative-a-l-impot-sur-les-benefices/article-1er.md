@@ -1,14 +1,16 @@
 # Article 1er
 
-Les entreprises assujetties à l'impôt sur les bénéfices en application de l'article premier de Notre ordonnance n° 3.152 du 19 mars 1964 qui exposent des dépenses de recherche peuvent bénéficier d'un crédit d'impôt égal à la somme :
+I. Les entreprises assujetties à l'impôt sur les bénéfices en application de l'article premier de l'ordonnance souveraine n° 3.152 du 19 mars 1964 peuvent bénéficier d'un crédit d'impôt au titre des dépenses de recherche qu'elles exposent au cours de l'année. Le taux du crédit d'impôt est de 30 % pour la fraction des dépenses de recherche inférieure ou égale à 100 millions d'euros et de 5 % pour la fraction des dépenses de recherche supérieure à ce montant.
 
-- a) d'une part égale à 10 % des dépenses de recherche exposées au cours de l'année, dite part en volume ;
+Le taux de 30 % mentionné au premier alinéa est porté à 50 % et 40 % au titre respectivement de la première et de la deuxième année qui suivent l'expiration d'une période de cinq années consécutives au titre desquelles l'entreprise n'a pas bénéficié d'un crédit d'impôt et à condition qu'il n'existe aucun lien de dépendance entre cette entreprise et une autre entreprise ayant bénéficié du crédit d'impôt au cours de la même période de cinq ans.
 
-- b) et d'une part égale à 40 % de la différence entre les dépenses de recherche exposées au cours de l'année et la moyenne des dépenses de même nature, revalorisées de la hausse des prix à la consommation hors tabac, exposées au cours des deux années précédentes, dite part en accroissement.
+Des liens de dépendance sont réputés exister entre deux entreprises :
 
-Lorsque cette dernière est négative, elle est imputée sur les parts en accroissement calculées au titre des dépenses engagées au cours des cinq années suivantes. Le montant imputé est plafonné à la somme des parts positives de même nature antérieurement calculées.
+- a . lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce en fait le pouvoir de décision ;
 
-Le crédit d'impôt négatif qui trouvait son origine en 2003 ou au cours d'une année antérieure s'impute sur les parts en accroissement relatives aux dépenses engagées à compter du 1er janvier 2004 dans les mêmes conditions.
+- b . lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a , sous le contrôle d'une même tierce entreprise.
+
+II. Les subventions publiques reçues par les entreprises à raison des opérations ouvrant droit au crédit d'impôt sont déduites des bases de calcul de ce crédit, qu'elles soient définitivement acquises par elles ou remboursables. Lorsque ces subventions sont remboursables, elles sont ajoutées aux bases de calcul du crédit d'impôt de l'année au cours de laquelle elles sont remboursées.
 
 En cas de fusion ou opération assimilée, la part en accroissement négative du crédit d'impôt de la société apporteuse non encore imputée est transférée à la société bénéficiaire de l'apport.
 

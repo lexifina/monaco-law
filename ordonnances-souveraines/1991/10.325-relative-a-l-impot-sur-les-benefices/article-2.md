@@ -10,7 +10,7 @@ Les dépenses de recherche ouvrant droit au crédit d'impôt, sont les suivantes
 
 - d) les frais de prise et de maintenance de brevets ;
 
-- d) bis les frais de défense de brevets ;
+- d) bis les frais de défense de brevets et de certificats d'obtention végétale, ainsi que, dans la limite de 60 000 euro(s) par an, les primes et cotisations ou la part des primes ou cotisations afférentes à des contrats d'assurance de protection juridique prévoyant la prise en charge des dépenses exposées, à l'exclusion de celles procédant d'une condamnation éventuelle, dans le cadre de litiges portant sur un brevet ou un certificat d'obtention végétale dont l'entreprise est titulaire ;
 
 - e) les dotations aux amortissements des brevets acquis en vue de réaliser des opérations de recherche et de développement expérimental ;
 
@@ -20,4 +20,4 @@ Les dépenses de recherche ouvrant droit au crédit d'impôt, sont les suivantes
 
   - 2. - les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement à 30 % des salaires mentionnées au 1.
 
-- g) Les dépenses exposées pour la réalisation d'opérations de recherche scientifique et technique confiées à des organismes de recherche publics ou privés ou à des experts scientifiques ou techniques, agréées.
+- g) les dépenses exposées pour la réalisation d'opérations de recherche scientifique et technique confiées à des organismes de recherche publics ou privés ou à des experts scientifiques ou techniques, agréées.
