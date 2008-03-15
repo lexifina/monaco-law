@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2008-148 du 5 mars 2008 portant fixation du montant des ressources personnelles telles que prévues à l'ordonnance n° 1.570 du 5 mars 2008 fixant les portions saisissables ou cessibles des rémunérations, traitements
