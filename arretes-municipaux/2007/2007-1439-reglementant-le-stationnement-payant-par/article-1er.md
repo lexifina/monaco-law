@@ -68,4 +68,10 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Rue Suffren Reymond.
 
+- Boulevard Charles III ;
+
+- Boulevard de Suisse ;
+
+- Avenue de Roqueville, dans sa partie comprise entre le boulevard de Suisse et le boulevard Princesse Charlotte.
+
 Ces emplacements sont équipés d'appareils de type « horodateurs ». L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
