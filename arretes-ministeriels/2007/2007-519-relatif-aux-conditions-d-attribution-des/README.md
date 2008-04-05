@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2007-519 du 19 octobre 2007 relatif aux conditions d'attribution des logements domaniaux
 
-Version en vigueur au 27 octobre 2007.
+Version en vigueur au 5 avril 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2007/10-19-2007-519@2007.10.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2007/10-19-2007-519@2008.04.05/
 
 | | |
 | --- | --- |
