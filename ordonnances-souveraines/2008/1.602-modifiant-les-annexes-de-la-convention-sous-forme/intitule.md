@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.602 du 2 avril 2008 modifiant les annexes de la Convention sous forme d'échange de lettres dénommée «Convention monétaire entre le Gouvernement de la République française, au nom de la Communauté Européenne, et le Gouvernement de Son Altesse Sérénissime le Prince de Monaco»
