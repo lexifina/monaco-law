@@ -8,7 +8,7 @@ Les autorisations exceptionnelles d'absence visées au chiffre 1° de l'article 
 
 - b) décès du conjoint, des père et mère ou d'un enfant : trois jours ouvrables ;
 
-- c) naissance d'un enfant : deux jours ouvrables ;
+- c) naissance d'un enfant ou arrivée au foyer d'un enfant en vue de son adoption : deux jours ouvrables ;
 
 - d) mariage d'un enfant : un jour ouvrable ;
 

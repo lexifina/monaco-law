@@ -2,7 +2,7 @@
 
 Les concours sont ouverts par des arrêtés ministériels qui mentionneront notamment :
 
-- 1° le nombre, la nature et, s'il y a lieu, la catégorie des emplois mis au concours ainsi que les indices hiérarchiques minimaux et maximaux caractérisant les échelles indiciaires y afférentes ;
+1° le nombre, la nature et, s'il y a lieu, la catégorie des emplois mis au concours ainsi que les indices hiérarchiques minimaux et maximaux caractérisant les échelles indiciaires y afférentes ;
 
 - 2° le cas échéant, l'obligation de posséder la nationalité monégasque, l'âge minimal et maximal des candidats ainsi que, pour certaines fonctions, les conditions d'aptitude physique particulières qu'ils doivent remplir ;
 

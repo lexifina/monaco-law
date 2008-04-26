@@ -2,7 +2,7 @@
 
 La durée du congé auquel a droit tout fonctionnaire, pour une année de service accompli, est fixée par décision du ministre d'État conformément aux dispositions statutaires.
 
-Sont considérés comme services accomplis pour l'ouverture de ce droit les congés de maladie ou de maternité.
+Sont considérés comme services accomplis pour l'ouverture de ce droit les congés de maladie, de maternité, de paternité ou d'adoption.
 
 Le fonctionnaire dont le congé annuel est interrompu pour plus de huit jours par suite d'un congé de maladie ou de maternité conserve son droit à congé annuel dans les conditions ci-après :
 
