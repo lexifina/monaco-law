@@ -112,13 +112,15 @@ Les postes consulaires sont les suivants :
 
 - Philippines : Manille ;
 
+- Pologne : Varsovie ;
+
 - Porto Rico : San Juan ;
 
 - Portugal : Lisbonne, Ponta Delgada, Porto ;
 
 - République de Bulgarie : Sofia ;
 
-- République de Maurice : Port Louis ;
+- République de Maurice : Port Louis.
 
 - Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
