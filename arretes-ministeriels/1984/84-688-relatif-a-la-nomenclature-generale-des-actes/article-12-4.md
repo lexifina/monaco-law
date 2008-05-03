@@ -1,5 +1,7 @@
 # Article 12 (4)
 
+Garde à domicile
+
 Garde d'un malade à domicile, nécessitant une surveillance constante et exclusive et des soins infirmiers répétés, y compris les soins d'hygiène, effectués selon un protocole écrit.
 
 Par période de six heures :

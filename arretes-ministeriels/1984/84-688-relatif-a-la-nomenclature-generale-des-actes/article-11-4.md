@@ -1,5 +1,7 @@
 # Article 11 (4)
 
+Soins infirmiers à domicile pour un patient, quel que soit son âge, en situation de dépendance temporaire ou permanente
+
 1) Élaboration d'un plan de soins infirmiers nécessaires à la réalisation de séances de soins infirmiers ou de séances de surveillance clinique infirmière et de prévention d'un patient dépendant ou à la mise en œuvre d'un programme d'aide personnalisée en vue de favoriser son maintien, son insertion ou sa réinsertion dans son cadre de vie familial et social.
 
 Les actes de l'article 11 sont cotés avec la lettre clé AIS.
