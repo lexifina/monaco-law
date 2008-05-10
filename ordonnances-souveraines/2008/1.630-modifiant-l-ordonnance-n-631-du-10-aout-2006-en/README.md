@@ -1,0 +1,12 @@
+# Ordonnance souveraine n° 1.630 du 30 avril 2008 modifiant l'ordonnance n° 631 du 10 août 2006 en application de l'article 10 bis de la loi n° 1.162 du 7 juillet 1993 relative à la participation des organismes financiers à la lutte contre le blanchiment de capitaux et le financement du terrorisme
+
+Version en vigueur au 10 mai 2008.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/04-30-1.630@2008.05.10/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 30 avril 2008 |
+| Publication | Journal de Monaco du 9 mai 2008 |

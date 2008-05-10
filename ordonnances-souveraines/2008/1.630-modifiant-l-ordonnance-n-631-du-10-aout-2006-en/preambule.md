@@ -1,0 +1,3 @@
+Vu la loi n° 1.162 du 7 juillet 1993, modifiée, relative à la participation des organismes financiers à la lutte contre le blanchiment de capitaux ;
+
+Vu Notre ordonnance n° 631 du 10 août 2006 en application de l'article 10 bis de la loi n° 1.162 du 7 juillet 1993 relative à la participation des organismes financiers à la lutte contre le blanchiment de capitaux et le financement du terrorisme ;
