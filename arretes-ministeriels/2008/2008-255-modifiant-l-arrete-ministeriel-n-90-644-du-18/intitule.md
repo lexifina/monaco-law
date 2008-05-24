@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2008-255 du 16 mai 2008 modifiant l'arrêté ministériel n° 90-644 du 18 décembre 1990 évaluant le montant des avantages en nature à considérer pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale
