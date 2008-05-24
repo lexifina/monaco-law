@@ -1,6 +1,6 @@
 # Article 4
 
-Les victimes ou leurs ayants-droit saisissent la commission par une demande écrite accompagnée de tous les documents et indications afférents aux biens ou aux droits dont la spoliation est alléguée.
+Les victimes ou leurs ayants-droit saisissent la commission par une demande écrite accompagnée de toutes les indications et, le cas échéant, de tous les documents afférents aux biens ou aux droits dont la spoliation est alléguée.
 
 La demande doit indiquer le nom et les prénoms du demandeur, son domicile ou sa résidence, la justification du lien de parenté avec la victime s'il s'agit d'un ayant-droit, et être revêtue de sa signature. Il est donné acte du dépôt de la demande par le secrétariat de commission.
 
