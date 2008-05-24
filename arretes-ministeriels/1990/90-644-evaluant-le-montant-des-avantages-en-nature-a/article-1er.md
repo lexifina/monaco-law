@@ -1,12 +1,12 @@
 # Article 1er
 
-Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er juillet 2007 :
+Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er mai 2008 :
 
 Nourriture :
 
-- Un repas au cours d'une journée : .......... 3,21 euro(s)
+Un repas au cours d'une journée : | 3,28 euro(s)
 
-- Deux repas au cours d'une journée : .......... 6,42 euro(s)
+Deux repas au cours d'une journée : | 6,56 euro(s)
 
 Logement pour les salariés des catégories suivantes :
 
@@ -16,13 +16,13 @@ Logement pour les salariés des catégories suivantes :
 
 - Gardiens d'immeubles et de locaux professionnels,
 
-- Employés de l'hôtellerie logés dans les locaux de l'hôtel ou ses dépendances :
+- Employés de l'hôtellerie logés dans les locaux de l'hôtel ou ses dépendances,
 
-- Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
+Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
 
-Par semaine : 16,05 euro(s)
+Par semaine : | 16,40 euro(s)
 
-Par mois : 64,20 euro(s)
+Par mois : | 65,60 euro(s)
 
 Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé.
 

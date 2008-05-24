@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 90-644 du 18 décembre 1990 évaluant le montant des avantages en nature à considérer pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale
 
-Version en vigueur au 21 juillet 2007.
+Version en vigueur au 24 mai 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1990/12-18-90-644@2007.07.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1990/12-18-90-644@2008.05.24/
 
 | | |
 | --- | --- |
