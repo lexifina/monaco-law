@@ -258,7 +258,7 @@ La circulation des véhicules et ensemble de véhicules d'un poids total autoris
 
 35) Rainier III (Boulevard)
 
-La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
+La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée entre le boulevard du Jardin Exotique et l'avenue Prince Pierre.
 
 36) Rocher (Rue du)
 
