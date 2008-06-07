@@ -1,0 +1,227 @@
+# Article 1er
+
+Les restaurants dont les noms figurent ci-après sont classés dans les catégories suivantes :
+
+Catégorie « 1 losange » :
+
+- ALEXTONY
+
+- AMBIANCE CAFE
+
+- BAMBI
+
+- BILIG CAFE
+
+- CONDAMINE (LE)
+
+- CREPERIE DU ROCHER
+
+- CYRNOS (LE)
+
+- DA SERGIO
+
+- ESTRAGON (LE)
+
+- MARATHON (LE)
+
+- MONTE-CARLO BAR (LE)
+
+- NAUTIC (LE)
+
+- PASTA ROCA
+
+- PIEDRA DEL SOL (LA)
+
+- PIZZA DU STADE (LA)
+
+- PIZZERIA MONEGASQUE
+
+- G 22
+
+- PLANET PASTA
+
+- POISSON D'OR (LE)
+
+- ROYAL THAI
+
+- SAINT MARTIN (LE)
+
+- SANTA-CRUZ (LE)
+
+- SIESTA (LA)
+
+- SPORTS BAR
+
+- STREGA (LA)
+
+- TAVERNA (LA)
+
+- TAVERNETTA (LA)
+
+- TONY (CHEZ)
+
+- TRIANGOLO (IL)
+
+- VECCHIA FIRENZE
+
+- COSMOPOLITAN (LE)
+
+- LO SFIZIO
+
+Catégorie « 2 losanges »
+
+- AURORE (L')
+
+- CIGALE DI MARE (LA)
+
+- DAUPHIN VERT (LE)
+
+- EXPRESS
+
+- TERRAZZINO (IL)
+
+- ANGOLO DI ZEPTER (L')
+
+- BACCO (CHEZ)
+
+- BISTROQUET (LE)
+
+- BOTTICELLI (LE)
+
+- CACIO ET PEPE
+
+- CAVAGNETU (U)
+
+- D'A VÜTA
+
+- DOLCE VITA (LA)
+
+- ESCALE (L')
+
+- FREDY'S INTERNATIONAL
+
+- GIARDINO (IL)
+
+- JAZZ (LE)
+
+- MALIZIA (LE)
+
+- MIAMI PLAGE
+
+- MICHELANGELO
+
+- MODA
+
+- PIAZZA (LA)
+
+- PINOCCHIO (LE)
+
+- POLPETTA
+
+- PULCINELLA
+
+- ROSE DES VENTS (LA)
+
+- SABOR DI VINO
+
+- SAINT NICOLAS (LE)
+
+- SAKURA
+
+- SALIERE (LA)
+
+- SANTA LUCIA (LE)
+
+- SARRIETTE (LA)
+
+- LOGA (LE)
+
+- L'INSTINCT
+
+- SASS CAFE
+
+- GIANNI (CHEZ)
+
+Catégorie « 3 losanges »
+
+- HUIT ET DEMI (LE)
+
+- MAISON DU CAVIAR (LA)
+
+- AMICI MIEI
+
+- CHAUMIERE (LA)
+
+- ROMANTICA (LA)
+
+- CASTELROC
+
+- FUJI (LE) (au Métropole)
+
+- MIRAMAR
+
+- PISTOU (LE)
+
+- RAMPOLDI
+
+- SAINT-BENOÎT (LE)
+
+- SANS SOUCI
+
+- PACIFIC BAR GRILL
+
+- RASCASSE (LA)
+
+Catégorie « 4 losanges »
+
+- MAYA BAY
+
+- COLOMBUS MONACO
+
+- GRANDES ONDES (LES)
+
+- LORENZO
+
+- QUAI DES ARTISTES (LE)
+
+- AVENUE 31
+
+- CAFE DE PARIS
+
+- FUJI (LE) (au Sporting d'Eté)
+
+- L'INTEMPO
+
+- MANDARINE
+
+- MAXIM'S MONTE CARLO
+
+- ZEBRA SQUARE (LE)
+
+Catégorie « 5 losanges »
+
+- ARGENTIN (L')
+
+- BLUE BAY (LE)
+
+- BAR AND BŒUF
+
+- BELLE EPOQUE (LA)
+
+- COTE JARDIN (LE)
+
+- EMPIRE (LA SALLE)
+
+- HIRONDELLE (L')
+
+Catégorie « 5 losanges luxe »
+
+- GRILL (LE)
+
+- JOËL ROBUCHON MC
+
+- VISTAMAR (LE)
+
+- LOUIS XV (LE)
+
+Les établissements LE BAOBAB et BEEF BAR sont classés en 0 losange.
