@@ -1,6 +1,6 @@
 # Article 3
 
-Il est interdit de mettre, directement ou indirectement, les fonds objets de la procédure de gel à la disposition d'une ou des personnes physiques ou morales, entités ou organismes désignés par l'arrêté ministériel visé à l'article premier, ou de les utiliser à leur bénéfice.
+Les personnes et entités visés à l'article premier ne peuvent mettre, directement ou indirectement, de quelque manière que ce soit, des fonds ou des ressources économiques à la disposition d'une ou des personnes physiques ou morales, entités ou organismes désignés par l'arrêté ministériel visé à l'article premier, ou de les utiliser à leur bénéfice
 
 Il est également interdit aux établissements de crédit, à toute autre institution financière, aux entreprises d'assurance, de fournir ou de continuer de fournir des services à ces mêmes personnes, entités ou organismes.
 
