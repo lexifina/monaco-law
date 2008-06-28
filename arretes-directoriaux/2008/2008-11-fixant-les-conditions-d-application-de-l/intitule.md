@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services judiciaires n° 2008-11 du 23 juin 2008 fixant les conditions d'application de l'ordonnance souveraine n° 1.673 du 10 juin 2008 reconduisant les modalités de versement de l'indemnité aux Avocats-défenseurs, Avocats et Avocats-stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
