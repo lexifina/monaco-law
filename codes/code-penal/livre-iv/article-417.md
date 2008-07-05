@@ -14,6 +14,6 @@ Seront punis de l'amende prévue au chiffre 2 de l'article 29 :
 
 - 6° Ceux qui, le pouvant, auront refusé ou négligé de faire les travaux, le service, ou de prêter l'aide dont ils auraient été requis, dans les circonstances d'accident, naufrage, inondation, incendie ou autres calamités ;
 
-- 7° Ceux qui seront trouvés en récidive d'ivresse, dans un lieu public, apres une première condamnation, sans préjudice de l'emprisonnement prononcé par l'article 416 ;
+- 7° Ceux qui seront trouvés en récidive d'ivresse, dans un lieu public, après une première condamnation, sans préjudice de l'emprisonnement prononcé par l'article 416 ;
 
 - 8° Les débitants qui auront reçu dans leur établissement des gens manifestement ivres ou qui auront servi des boissons alcooliques à des mineurs âgés de moins de dix-huit ans accomplis.

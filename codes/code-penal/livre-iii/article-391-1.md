@@ -42,7 +42,7 @@ les infractions suivantes :
 
 - 5°) Les crimes et délits contre les propriétés concernant :
 
-  - les vols, visés aux articles 309 à 316, et 325 ;
+  - les vols, visés aux articles 309 à 316 et 325 ;
 
   - l'extorsion et le chantage, visés à l'article 323 ;
 
