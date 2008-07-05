@@ -1,6 +1,6 @@
 # Article 39
 
-Les contrats d'assurance prévus à l'article 28 de la loi susvisée doivent comporter une garantie d'un montant au moins égal à cinq millions de francs par année pour chaque membre de l'ordre.
+Les contrats d'assurance prévus à l'article 28 de la loi susvisée doivent comporter une garantie d'un montant au moins égal à cinq millions de francspar année pour chaque membre de l'ordre.
 
 Ce chiffre peut toutefois être réduit à 600 000 F pour les risques de vol et à 240 000 F pour ceux de la destruction des archives.
 

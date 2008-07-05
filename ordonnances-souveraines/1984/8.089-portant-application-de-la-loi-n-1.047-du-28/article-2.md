@@ -1,15 +1,15 @@
 # Article 2
 
-Cette commission comprend, outre le directeur des services judiciaires qui la préside :
+Cette commission comprend, outre le Directeur des Services Judiciaires qui la préside :
 
-- le premier président de la cour d'appel ;
+- le Premier Président de la Cour d'Appel ou le Magistrat par lui délégué,
 
-- le procureur général ;
+- le Procureur Général,
 
-- le bâtonnier ;
+- le Bâtonnier de l'Ordre des Avocats ou son représentant,
 
-- le directeur du contentieux et des études législatives ;
+- le Directeur des Affaires Juridiques, ou son représentant,
 
-- le directeur de l'éducation nationale, de la jeunesse et des sports.
+- le Directeur de l'Éducation Nationale, de la Jeunesse et des Sports ou son représentant.
 
 En cas de partage des voix, celle du président est prépondérante. En tant que de besoin, les modalités de fonctionnement de la commission sont fixées par arrêté du directeur des services judiciaires.

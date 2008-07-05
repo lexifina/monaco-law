@@ -1,15 +1,13 @@
 # Article 8
 
-Le jury, dont les membres sont désignés par arrêté du directeur des services judiciaires, est composé ainsi qu'il suit :
+Le jury, dont les membres sont désignés par arrêté du Directeur des Services Judiciaires, est composé ainsi qu'il suit :
 
-- un magistrat de la cour d'appel, choisi sur avis du premier président ;
+- le Premier Président de la Cour d'Appel ou le Magistrat par lui délégué,
 
-- un magistrat du parquet général, choisi sur avis du procureur général ;
+- le Procureur Général, - le Président ou le Vice-Président du Tribunal de Première Instance,
 
-- un magistrat du tribunal de première instance, choisi sur avis du président de cette juridiction ;
+- le Bâtonnier de l'Ordre des Avocats ou son représentant,
 
-- le bâtonnier de l'Ordre des avocats ou son représentant ;
+- un professeur agrégé des facultés de droit françaises.
 
-- un professeur de Lettres désigné sur une liste de trois noms présentée par le directeur de l'éducation nationale.
-
-La présidence du jury est assurée par le magistrat de la cour d'appel.
+La présidence du jury est assurée par le Magistrat de la Cour d'Appel.
