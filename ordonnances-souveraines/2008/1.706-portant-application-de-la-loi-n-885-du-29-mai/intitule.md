@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.706 du 2 juillet 2008 portant application de la loi n° 885 du 29 mai 1970 relative au contrôle financier des organismes de droit privé bénéficiant d'une subvention de l'État
