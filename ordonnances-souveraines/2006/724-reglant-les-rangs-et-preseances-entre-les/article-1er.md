@@ -34,7 +34,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 16 - les Grands Croix des Ordres Princiers
 
-17 - les Conseillers au Cabinet du Prince
+17 - les Conseillers au Cabinet du Prince et le Secrétaire Général de la Chancellerie des Ordres Princiers
 
 18 - l'Administrateur des Biens du Prince
 
