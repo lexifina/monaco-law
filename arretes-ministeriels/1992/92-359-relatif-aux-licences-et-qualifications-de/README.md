@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 92-359 du 4 juin 1992 relatif aux licences et qualifications de personnel navigant
 
-Version en vigueur au 13 juin 1992.
+Version en vigueur au 19 juillet 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1992/06-04-92-359@1992.06.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1992/06-04-92-359@2008.07.19/
 
 | | |
 | --- | --- |
