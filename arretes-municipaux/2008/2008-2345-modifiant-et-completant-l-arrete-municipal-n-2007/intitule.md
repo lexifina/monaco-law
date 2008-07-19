@@ -1,0 +1,1 @@
+Arrêté municipal n° 2008-2345 du 16 juillet 2008 modifiant et complétant l'arrêté municipal n° 2007-2.358 du 24 septembre 2007 fixant les tarifs des occupations de la voie publique et de ses dépendances pour l'année 2008
