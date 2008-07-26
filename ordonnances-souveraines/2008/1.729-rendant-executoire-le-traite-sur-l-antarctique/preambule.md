@@ -1,0 +1,1 @@
+Nos Instruments d'adhésion au Traité sur l'Antarctique conclu à Washington en 1959, ayant été déposés le 31 mai 2008 auprès du Département d'État américain, ledit Traité est entré en vigueur pour Monaco à cette date et recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.
