@@ -1,0 +1,5 @@
+# Article VIII
+
+1. Afin de faciliter l'exercice des fonctions qui leur sont dévolues par le présent Traité et sans préjudice des positions respectives prises par les Parties Contractantes en ce qui concerne la juridiction sur toutes les autres personnes dans l'Antarctique, les observateurs désignés conformément aux dispositions du par. 1 de l'Art. VII et le personnel scientifique faisant l'objet d'un échange aux termes de l'al. 1 (b) de l'Art. III du Traité ainsi que les personnes qui leur sont attachées et qui les accompagnent, n'auront à répondre que devant la juridiction de la Partie Contractante dont ils sont ressortissants, en ce qui concerne tous actes ou omissions durant le séjour qu'ils effectueront dans l'Antarctique pour y remplir leurs fonctions.
+
+2. Sans préjudice des dispositions du par. 1 du présent Article et en attendant l'adoption des mesures prévues à l'al. 1 (e) de l'Art. IX, les Parties Contractantes se trouvant parties à tout différend relatif à l'exercice de la juridiction dans l'Antarctique devront se consulter immédiatement en vue de parvenir à une solution acceptable de part et d'autre.
