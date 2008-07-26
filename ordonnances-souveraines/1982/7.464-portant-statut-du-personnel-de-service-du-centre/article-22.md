@@ -1,27 +1,47 @@
 # Article 22
 
-Les commissions visées à l'article 21 correspondent aux catégories ci-après indiquées, composées, chacune, de trois groupes réunissant les grades et emplois du personnel de service :
+Les neuf Commissions visées à l'article 21 sont compétentes, respectivement :
 
-- Groupe I : chefs de bureaux, adjoints des cadres.
+Commission paritaire n° 1, personnels d'encadrement technique (catégorie A)
 
-- Groupe II : agents principaux, commis, secrétaires médicales, secrétaires médicales principales, chefs de standard téléphonique, téléphonistes principaux.
+- Groupe unique : | Ingénieur hospitalier
 
-- Groupe III : sténodactylographes, agents de bureau, téléphonistes.
+Ingénieur en système d'information et organisation analyste
 
-- Groupe I : infirmières générales et infirmières générales adjointes, directrice d'école d'infirmières, assistantes sociales, chefs, surveillants(es), chefs des services médicaux, préparateurs en pharmacie, techniciens de laboratoire, assistantes sociales.
+Commission paritaire n° 2, personnels de catégorie A des services de soins, des services médico-techniques et des services sociaux
 
-- Groupe II : surveillants(es) des services médicaux, moniteurs et monitrices d'écoles d'infirmières, sages-femmes, chefs sages-femmes, diététiciennes, surveillants de laboratoire, directrice de la crèche.
+- Sous-groupe 1 : | Cadre de SantéCadre socio-éducatifDirecteur des soinsRadiophysicien
 
-- Groupe III : infirmiers et infirmières spécialisés, puéricultrices diplômées d'État, masseurs-kinésithérapeutes, infirmiers et infirmières diplômés d'État ou autorisés, laborantins, manipulateurs d'électroradiologie, monitrices de jardins d'enfants.
+- Sous-groupe 2 : | Infirmier anesthésisteInfirmier de bloc opératoireSage-femme
 
-- Groupe I : aides-préparateurs en pharmacie, aides-techniques de laboratoire et d'électroradiologie.
+- Sous-groupe 3: | Psychologue
 
-- Groupe II : aides-soignantes avec et sans diplôme, aides de pharmacie, de laboratoire, et d'électroradiologie, auxiliaire de puériculture.
+Commission paritaire n° 3, personnels d'encadrement administratif (catégorie A)
 
-- Groupe III : agents des services hospitaliers.
+- Groupe unique : | Attaché d'administration hospitalière
 
-- Groupe I : adjoints techniques, contremaîtres principaux, contremaîtres et maîtres ouvriers.
+Commission paritaire n° 4, personnels d'encadrement technique et ouvrier (catégorie B)
 
-- Groupe II : ouvriers professionnels 1re et 2e catégories, conducteurs ambulanciers, conducteurs d'automobiles 1re et 2e catégories.
+- Groupe unique : | Adjoint techniqueAgent chefPupitreurAnalyste programmeurTechnicien supérieur hospitalier
 
-- Groupe III : aides-ouvriers professionnels, agents du service intérieur 1re et 2e catégories.
+Commission paritaire n° 5, personnels de catégorie B services de soins, des services médico-techniques et des Services sociaux
+
+- Groupe unique : | AnimateurAssistant(e) socio-éducatifConseiller en économie sociale et familialeDiététicien(ne)Éducateur de jeune enfantsÉducateur technique spécialiséErgothérapeuteInfirmier(e)Infirmier(e) D.E. psychiatriquePuéricultriceManipulateur électroradiologieMasseur-KinésithérapeuteMoniteur éducateurOrthophonisteOrthoptistePédicure podologuePréparateur en pharmaciePsychomotricien(ne)Technicien de laboratoire
+
+Commission paritaire n° 6, personnels d'encadrement administratif et des secrétariats médicaux
+
+- Groupe unique : | Adjoint des cadresSecrétaire médicale
+
+Commission paritaire n° 7, personnels techniques, ouvriers, conducteurs automobiles, conducteurs ambulanciers et personnels d'entretien et de salubrité
+
+- Groupe unique : | Agent d'entretien qualifiéAgent de maîtriseConducteur AmbulancierDessinateurMaître ouvrierOuvrier professionnel qualifié
+
+Commission paritaire n° 8, personnels de catégorie C des services de soins, des services médico-techniques et des services sociaux
+
+- Groupe unique : | Aide d'électro-radiologie (grade d'extinction)Aide de pharmacie (grade d'extinction)Auxiliaire puéricultriceAgent des services hospitaliers qualifié
+
+Commission paritaire n° 9, personnels administratifs de catégorie C
+
+- Groupe unique : | Adjoint administratifSecrétaire médicale (grade d'extinction)
+
+Chacune de ces neuf Commissions est constituée d'un groupe unique, ce dernier étant lui-même constitué de sous-groupes rassemblant les corps, grades et emplois hiérarchiquement équivalents.

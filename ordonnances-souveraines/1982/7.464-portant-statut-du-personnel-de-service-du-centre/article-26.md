@@ -1,7 +1,7 @@
 # Article 26
 
-Les membres des commissions paritaires sont élus ou désignés pour une période de trois ans. Leur mandat peut être renouvelé. La durée du mandat peut être exceptionnellement réduite ou prorogée dans l'intérêt du service, notamment afin de permettre le renouvellement simultané de plusieurs commissions.
+Les membres des Commissions paritaires sont élus ou désignés pour une période de trois ans. Leur mandat peut être renouvelé.
 
-Ces réductions ou prorogations sont décidées par le conseil d'administration et ne peuvent excéder une durée de trois mois.
+La durée du mandat peut être exceptionnellement réduite ou prorogée dans un intérêt de service par décision du Conseil d'Administration, prise après avis du Comité technique d'établissement. Ces réductions ou prorogations ne peuvent excéder une durée d'un an.
 
-L'administration est tenue de laisser aux membres des commissions paritaires le temps nécessaire et rétribué pour remplir leurs obligations au sein de ces commissions.
+Lors du renouvellement d'une Commission paritaire, les nouveaux membres entrent en fonction à la date à laquelle prend fin, en application des dispositions précédentes, le mandat des membres auxquels ils succèdent.
