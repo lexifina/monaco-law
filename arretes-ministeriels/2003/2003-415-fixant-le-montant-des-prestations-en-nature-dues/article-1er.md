@@ -238,17 +238,33 @@ PRA | Forfait produit de contraste | 0,44 euro(s)
 
 C - Frais pharmaceutiques
 
-* le montant de l'ordonnance médicale pour les préparations magistrales et les médicaments spécialisés contre remise de la vignette délivrée en même temps que le produit par le pharmacien.
+1. Pour les spécialités appartenant à l'un des groupes génériques tels que définis en France :
 
-Toutefois les médicaments officinaux mentionnés à l'article 38 de la loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie et les préparations magistrales délivrés sur prescription médicale ne sont pas remboursés, sauf autorisation exceptionnelle accordée par le service médical de la Caisse de compensation des services sociaux lorsqu'ils appartiennent à l'une des catégories ci-après :
+* le tarif forfaitaire de responsabilité du groupe générique auquel appartient la spécialité pharmaceutique, tel que fixé réglementairement en France, et ce dans les situations exposées ci-dessous :
 
-- médicaments officinaux et préparations magistrales contenant au moins une substance ou au moins une composition ne figurant pas sur une liste que l'on peut consulter auprès de la direction de l'Action sanitaire et sociale ;
+- lorsque la spécialité pharmaceutique figurant sur la prescription médicale est désignée soit par sa dénomination commune, soit par le nom du groupe générique dont elle fait partie ;
+
+- lorsque, conformément aux dispositions du deuxième alinéa de l'article 39-1 de la section IV du chapitre I du titre II de la loi n° 1.029 du 16 juillet 1980, modifiée, concernant l'exercice de la pharmacie, le pharmacien délivre par substitution à la spécialité prescrite une spécialité du même groupe générique ;
+
+- lorsque, en l'absence de mention expresse du prescripteur interdisant la substitution par le pharmacien, le pharmacien délivre la spécialité prescrite alors qu'il existe une spécialité appartenant au même groupe générique.
+
+* le prix de vente inscrit sur la vignette du médicament délivré lorsque le médecin a exclu par mention expresse portée sur la prescription la possibilité de délivrer par substitution à la spécialité prescrite une spécialité du même groupe générique.
+
+2. Pour les spécialités pharmaceutiques n'appartenant à aucun des groupes génériques définis en France, le prix de vente inscrit sur la vignette du médicament délivré.
+
+Dans les cas visés aux points 1. et 2., le service des prestations ne pourra intervenir que contre remise de la vignette délivrée en même temps que le produit par le pharmacien.
+
+3. Les médicaments officinaux mentionnés à l'article 38 de la loi n° 1.029 du 16 juillet 1980, modifiée, concernant l'exercice de la pharmacie et les préparations magistrales délivrés sur prescription médicale ne sont pas remboursés, sauf autorisation exceptionnelle pouvant être accordée par le service médical de la Caisse de Compensation des Services Sociaux lorsqu'ils appartiennent à l'une des catégories ci-après :
+
+- médicaments officinaux et préparations magistrales contenant au moins une substance ou au moins une composition ne figurant pas sur une liste que l'on peut consulter auprès de la Direction de l'Action Sanitaire et Sociale ;
 
 - préparations magistrales présentées sous une autre forme pharmaceutique que celles énumérées dans la liste ci-dessus visée ;
 
 - préparations magistrales mettant en œuvre des spécialités pharmaceutiques, à l'exception des préparations à visée dermatologique mettant en œuvre des spécialités remboursables destinées à être appliquées sur la peau.
 
-* le montant de l'indemnité de garde, selon les barèmes suivants :
+Pour ces catégories, et lorsqu'un accord exceptionnel a été délivré, la valeur de base du tarif de remboursement visé à l'article 24-I de l'ordonnance souveraine n° 4.739 du 22 juin 1971, susvisée est égale au montant facturé par la pharmacie.
+
+4. Pour l'indemnité de garde, lorsqu'elle est applicable, les barèmes suivants :
 
 - les jours ouvrables | 0.99 euro(s)
 
