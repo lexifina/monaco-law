@@ -2,19 +2,19 @@
 
 La suppression de la participation du bénéficiaire de prestations aux frais de traitement peut être accordée :
 
-- 1°) En cas d'hospitalisation continue supérieure à trente jours ; et à compter du trente et unième jour d'hospitalisation pour les séjours facturés aux prix de journées
+- 1°) Pour les frais de séjour relatifs à une hospitalisation continue supérieure à 30 jours.
 
 - Est considéré comme hospitalisation, le séjour du malade dans l'un des établissements agréés ci-après énumérés limitativement :
 
-  - a) hôpitaux publics et privés,
+  - a) Hôpitaux publics et privés,
 
-  - b) cliniques chirurgicales et médicales,
+  - b) Cliniques chirurgicales et médicales,
 
-  - c) établissements de suite et de réadaptation,
+  - c) Établissements de suite et de réadaptation,,
 
-  - d) établissements de long séjour,
+  - d) Établissements de long séjour,
 
-  - e) établissements pour adultes et enfants handicapés.
+  - e) Établissements pour adultes et enfants handicapés.
 
 - 2°) Pour les actes techniques inscrits à la nomenclature générale des actes professionnels ou à la Classification commune des actes médicaux qui sont affectés d'un coefficient égal ou supérieur à 50 ou dont la base de remboursement, hors prise en compte des modificateurs exprimés en valeur monétaire, est égale ou supérieure:
 
@@ -76,7 +76,7 @@ La suppression de participation est étendue, dans ce dernier cas, à l'ensemble
 
 12°) Pour l'assurée ou l'ayant droit de l'assuré en état de grossesse, pendant une période qui débute quatre mois avant la date présumée de l'accouchement et se termine à la date de l'accouchement.
 
-13°) Pour l'hospitalisation des nouveau-nés, lorsqu'elle se produit dans les trente jours qui suivent la naissance.
+13°) Pour l'ensemble des frais intervenant au cours de l'hospitalisation d'un nouveau-né, lorsqu'elle débute dans les trente jours qui suivent la naissance.
 
 14°) Dans le cadre de l'assurance maternité pour les frais médicaux correspondant aux actes, examens et fournitures suivants :
 
