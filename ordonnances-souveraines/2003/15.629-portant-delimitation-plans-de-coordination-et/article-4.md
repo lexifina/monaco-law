@@ -19,3 +19,5 @@ Sont et demeurent abrogées :
 - L'ordonnance n° 15.040 du 26 septembre 2001 modifiant les dispositions réglementaires s'appliquant à l'îlot n° 2 du secteur n° 3 du quartier des Spélugues ;
 
 - L'ordonnance n° 16.027 du 3 novembre 2003 modifiant l'ordonnance souveraine n° 15.629 du 13 janvier 2003 portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du quartier ordonnancé des Spélugues.
+
+- Notre ordonnance n° 553 du 29 juin 2006, modifiant l'ordonnance souveraine n° 15.629 du 13 janvier 2003 portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du quartier ordonnancé des Spélugues.
