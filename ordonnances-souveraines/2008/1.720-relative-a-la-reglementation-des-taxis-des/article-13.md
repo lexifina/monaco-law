@@ -1,3 +1,3 @@
 # Article 13
 
-Le nombre de taxis est limité à quatre-vingts.
+Le nombre des véhicules à taximètre est limité à quatre-vingt-cinq.
