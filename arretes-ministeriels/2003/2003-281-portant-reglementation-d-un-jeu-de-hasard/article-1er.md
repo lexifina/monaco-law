@@ -2,7 +2,7 @@
 
 Le jeu dénommé «STUD POKER DE CASINO» est régi par les dispositions suivantes : Le jeu du «Stud Poker de Casino» se joue avec un jeu de cinquante-deux cartes à teinte unie avec logo, de même type et de même format que les cartes de blackjack et de punto banco.
 
-Au début de chaque séance, il doit être fait usage de cartes neuves. Le jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction.
+Le jeu de « Stud Poker de Casino » se joue avec un jeu de cinquante-deux cartes.
 
 Les dispositions des articles 1 et 2 de l'arrêté ministériel n° 88-384 du 26 juillet 1988 susvisé relatives au dépôt, à la conservation, et au contrôle des cartes sont applicables aux jeux employés pour le Stud Poker de Casino.
 
@@ -28,7 +28,7 @@ Le nombre de joueurs assis, seuls susceptibles d'avoir une main, correspond au n
 
 Les joueurs ne disposent que d'une seule main et ne peuvent miser sur les emplacements vacants.
 
-Aucune personne debout ne peut miser sur la main d'un joueur assis. Préalablement au mélange des cartes, les employés de la table vérifient que toutes les mises sont conformes, correctement placées et que leur montant, par joueur, est compris entre le minimum et le maximum autorisés à la table.
+Les joueurs peuvent miser sur plusieurs cases vacantes ; toutefois, ils ne peuvent prendre connaissance que d'un seul jeu, les autres mains devant être jouées à l'aveugle.
 
 Les mises exclusivement représentées par des plaques ou jetons ne peuvent être placées, modifiées ou retirées après le «rien ne va plus». Aucun enjeu sur annonce n'est toléré.
 
