@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.770 du 28 août 2008 relative au gage d'instruments financiers et au caractère définitif des paiements et des règlements-livraisons d'instruments financiers effectués par les établissements de crédit
