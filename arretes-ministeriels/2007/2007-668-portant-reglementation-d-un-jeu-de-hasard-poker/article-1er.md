@@ -8,7 +8,7 @@ Le croupier anime la partie, invite les joueurs à miser, arrête les jeux et co
 
 Il ne peut être relevé en cours de donne, de déroulement du jeu ou des paiements.
 
-Le jeu de «Poker Texas Hold'Hem Ultimate» se joue avec un jeu de cinquante-deux cartes, à teinte unie avec logo.
+Le jeu dénommé « Poker Texas Hold'Hem Ultimate » se joue avec un jeu de cinquante-deux cartes.
 
 Au début de chaque séance, il doit être fait usage de cartes neuves. Le jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction des Jeux.
 
