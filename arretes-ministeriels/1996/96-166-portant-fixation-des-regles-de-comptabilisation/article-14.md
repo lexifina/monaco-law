@@ -11,3 +11,5 @@
 - les résultats de la table sont annoncés par le représentant de la Direction administrative et approuvés par le Directeur adjoint ou le Sous-Directeur du Baccara ;
 
 - le bordereau est approuvé et signé par les participants.
+
+14.3. - Le remplacement par un inspecteur, du Directeur Adjoint ou du Sous-Directeur, est exceptionnellement autorisé dans les cas de congés ou de maladie ; les modalités de remplacement sont définies dans le règlement intérieur de la maison de jeux.

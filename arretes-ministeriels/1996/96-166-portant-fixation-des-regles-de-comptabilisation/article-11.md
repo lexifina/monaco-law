@@ -11,3 +11,5 @@
 11.5. - Le directeur adjoint ou le sous-directeur du Baccara et le caissier signent le registre.
 
 Le relevé des recettes est rempli et signé par les participants.
+
+11.6. - Le remplacement par un inspecteur, du Directeur Adjoint ou du Sous-Directeur, est exceptionnellement autorisé dans les cas de congés ou de maladie ; les modalités de remplacement sont définies dans le règlement intérieur de la maison de jeux.
