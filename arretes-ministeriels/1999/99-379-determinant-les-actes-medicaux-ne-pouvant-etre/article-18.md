@@ -10,7 +10,7 @@ Les pédicures-podologues peuvent accomplir, sans prescription médicale préala
 
   - ongles incarnés, onychopathies mécaniques ou non ; et des autres affections épidermiques ou unguéales du pied, à l'exclusion des interventions impliquant l'effusion du sang.
 
-- 2) - exfoliation et abrasion des téguments et phanères (rabotage, fraisage et meulage) ;
+- 2) exfoliation et abrasion des téguments et phanères (rabotage, fraisage et meulage) ;
 
   - soins des conséquences des troubles sudoraux.
 

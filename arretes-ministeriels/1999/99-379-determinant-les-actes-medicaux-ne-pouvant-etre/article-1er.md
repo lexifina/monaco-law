@@ -2,7 +2,7 @@
 
 Les actes médicaux suivants ne peuvent être pratiqués que par les docteurs en médecine :
 
-- 1) Toute mobilisation forcée des articulations et toute réduction de déplacement osseux, ainsi que toutes manipulations vertébrales, et, d'une façon générale, tous les traitements dits d'ostéopathie, de spondylothérapie (ou vertébrothérapie) et chiropraxie.
+- 1) Toute mobilisation forcée des articulations et toute réduction de déplacement osseux, ainsi que toutes manipulations vertébrales, et, d'une façon générale, tous les traitements dits de spondylothérapie (ou vertébrothérapie) et chiropraxie.
 
 - 2) Le massage prostatique.
 
