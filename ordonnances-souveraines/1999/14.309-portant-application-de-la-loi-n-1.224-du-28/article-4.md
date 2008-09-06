@@ -1,3 +1,3 @@
 # Article 4
 
-Le constituant du gage supporte tous les frais résultant de la réalisation de celui-ci. Ces frais sont imputés sur le montant résultant de cette réalisation.
+Conformément au troisième alinéa de l'article 60-2 du Code de Commerce, quel que soit le détenteur des avoirs en monnaie ou en instruments financiers, le constituant du gage et le créancier gagiste peuvent convenir que ce dernier est investi d'un mandat de gestion des avoirs gagés.
