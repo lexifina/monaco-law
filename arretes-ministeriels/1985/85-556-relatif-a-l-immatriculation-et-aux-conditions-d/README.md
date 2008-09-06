@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 85-556 du 13 septembre 1985 relatif à l'immatriculation et aux conditions d'utilisation des véhicules de démonstration
 
-Version en vigueur au 18 août 2007.
+Version en vigueur au 6 septembre 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1985/09-13-85-556@2007.08.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1985/09-13-85-556@2008.09.06/
 
 | | |
 | --- | --- |
