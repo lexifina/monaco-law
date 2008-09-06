@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2008-482 du 1er septembre 2008 portant modification de l'arrêté ministériel n° 85-556 du 13 septembre 1985 relatif à l'immatriculation et aux conditions d'utilisation des véhicules de démonstration
