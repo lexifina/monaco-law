@@ -52,6 +52,14 @@ Maladies infectieuses :
 
 - typhus exanthématique.
 
+- Chikungunya ;
+
+- Dengue ;
+
+- Hépatite aiguë A ;
+
+- Rougeole.
+
 Autre maladie :
 
 - saturnisme chez les enfants mineurs.
