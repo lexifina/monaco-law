@@ -17,3 +17,7 @@ Le terme « stationnement » désigne l'immobilisation d'un véhicule sur la rou
 Le terme « aire piétonne » désigne toute emprise affectée, de manière temporaire ou permanente, à la circulation des piétons et à l'intérieur du périmètre de laquelle la circulation des véhicules est soumise à des prescriptions particulières.
 
 Le terme « carrefour à sens giratoire » désigne une place ou un carrefour comportant un terre-plein central matériellement infranchissable, ceinturé par une chaussée mise en sens unique par la droite sur laquelle débouchent différentes routes et annoncé par une signalisation spécifique.
+
+Le terme de « bande cyclable » désigne toute voie exclusivement réservée aux cycles à deux ou trois roues sur une chaussée à plusieurs voies.
+
+Le terme « piste cyclable » désigne toute chaussée exclusivement réservée aux cycles à deux ou trois roues.
