@@ -1,11 +1,11 @@
 # Code de commerce
 
-Version en vigueur au 13 janvier 2007.
+Version en vigueur au 6 septembre 2008.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-commerce@2007.01.13/
+Source : Legimonaco, https://legimonaco.mc/code/code-commerce@2008.09.06/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de commerce |
-| Dernière modification | 13 janvier 2007 |
+| Dernière modification | 6 septembre 2008 |

@@ -24,4 +24,14 @@ La loi répute actes de commerce :
 
 - Entre toutes personnes, les lettres de change, ou remises d'argent faites de place en place.
 
-- Entre toutes personnes, le gage de monnaie ainsi que le gage de valeurs mobilières. Quel que soit leur émetteur et leur mode de transmission, sont considérés comme valeurs mobilières, les actions donnant accès directement ou indirectement au capital ou au droit de vote, les parts et actions d'organismes de placement collectif, les titres de créances qui représentent chacun un droit de créance sur la personne morale publique ou privée qui les émet, ainsi que les bons de caisse.
+- Entre toutes personnes, le gage de monnaie, ainsi que le gage d'instruments financiers.
+
+- Les instruments financiers comprennent les valeurs mobilières, les instruments financiers à terme, ainsi que tous instruments financiers équivalents émis sur le fondement de droits étrangers.
+
+- Sont considérés comme valeurs mobilières :
+
+  - 1°) les actions et autres titres donnant ou pouvant donner accès directement ou indirectement au capital ou au droit de vote, transmissibles par inscription en compte ou tradition ;
+
+  - 2°) les titres de créance qui représentent chacun un droit de créance sur la personne morale qui les émet, transmissibles par inscription en compte ou tradition, ainsi que les bons de caisse ;
+
+  - 3°) les parts ou actions d'organismes de placement collectif.
