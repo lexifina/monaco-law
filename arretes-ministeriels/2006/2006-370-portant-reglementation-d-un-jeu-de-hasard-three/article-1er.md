@@ -8,7 +8,7 @@ Le croupier anime la partie, invite les joueurs à miser, arrête les jeux et co
 
 Il ne peut être relevé en cours de donne, de déroulement du jeu ou des paiements.
 
-Le jeu du «Three Card Poker» se joue avec un jeu de cinquante deux cartes de même type et de même format que les cartes de black jack.
+Le jeu du « Three Card Poker » se joue avec un jeu de cinquante-deux cartes.
 
 Au début de chaque séance, il doit être fait usage de cartes neuves. Le jeu peut servir plusieurs fois mais il doit être remplacé dès qu'il n'est plus en parfait état ou sur décision de la Direction.
 
@@ -24,7 +24,7 @@ Les deux premières mises n'étant pas obligatoirement du même montant.
 
 La partie peut débuter en présence d'un seul joueur.
 
-Les joueurs ne disposent que d'une seule main et ne peuvent miser sur les cases vacantes.
+Les joueurs peuvent miser sur trois cases adjacentes au maximum ; toutefois, ils ne peuvent prendre connaissance que d'un seul jeu, les autres mains devant être jouées à l'aveugle.
 
 Aucune mise ne peut être exposée, modifiée ou retirée après le «rien ne va plus». Aucun enjeu sur annonce n'est accepté.
 
