@@ -58,7 +58,7 @@ Après que la situation de chaque joueur ait été déterminée, si le croupier 
 
 3° La mise à égalité :
 
-Lorsque, sur deux cartes, un joueur fait » black-jack « et que le croupier tire un as pour sa première carte, ce joueur peut demander la » mise à égalité « : il est payé à égalité.
+Lorsque, sur deux cartes, un joueur fait » black jack « et que le croupier tire un as, un dix ou une figure pour sa première carte, ce joueur peut demander la » mise à égalité « : il est payé à égalité.
 
 4° Les paires ou » split-pair « :
 

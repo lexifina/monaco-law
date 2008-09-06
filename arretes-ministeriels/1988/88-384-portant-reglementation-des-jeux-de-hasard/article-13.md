@@ -1,6 +1,6 @@
 # Article 13
 
-13.1 - Le jeu du « punto banco » se joue avec huit jeux de 52 cartes à tarotage uni, quatre jeux d'une couleur, quatre jeux d'une autre.
+13.1 - Le jeu du « punto banco » se joue avec des jeux de 52 cartes dont le nombre est fixé par la Direction des Jeux.
 
 13.2 - Le personnel aux grandes tables comprend :
 
@@ -12,7 +12,11 @@
 
 13.3 - Le croupier est seul autorisé à sortir les cartes du sabot. Des joueurs debout peuvent participer au jeu.
 
-L'usage de table de « punto banco » ne comportant que sept ou neuf emplacements réservés à autant de joueurs assis est autorisé. Dans ce cas, un croupier chargé des deux fonctions de « tailleur » et de « payeur » est affecté à chacune des tables pouvant être placées sous la responsabilité du ou des chefs de table. Le croupier extrait les cartes du sabot et les dispose alternativement sur les emplacements marqués « punto » et « banco ».
+L'usage de table de « punto banco » ne comportant que sept ou neuf emplacements réservés à autant de joueurs assis est autorisé. Dans ce cas, le personnel affecté à la table comprend un croupier chargé des deux fonctions de « tailleur » et de « payeur » et un chef de table, responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à la table.
+
+Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-ci un nombre suffisant de chefs pour assurer une parfaite sécurité des opérations de jeu.
+
+Le croupier extrait les cartes du sabot et les dispose alternativement sur les emplacements marqués « punto » et « banco ».
 
 13.4 - En début de partie et en présence de la clientèle, les jeux sont comptés, vérifiés et mélangés par le croupier « tailleur » dans les conditions prévues au 1.2 de l'article premier de l'arrêté ministériel n° 88-384 du 26 juillet 1988.
 
@@ -82,16 +86,16 @@ Inversement, si « banco » à 8 ou 9, il fait un abattage et « punto » ne peu
 
 R = Reste T = Tire
 
-Lorsque le coup est déterminé de manière définitive, le « tailleur » annonce le point de « banco », puis le point de « punto » et finalement les chances gagnantes.
+Lorsque le coup est déterminé de manière définitive, le « tailleur » annonce le point de « banco », puis le point de « punto et finalement les chances gagnantes.
 
-Les croupiers « payeurs » procèdent au ramassage des mises perdantes puis au paiement des mises gagnantes en commençant toujours par celles qui sont placées le plus près d'eux.
+Les croupiers » payeurs « procèdent au ramassage des mises perdantes puis au paiement des mises gagnantes en commençant toujours par celles qui sont placées le plus près d'eux.
 
-Les gains de « punto » sont payés à égalité, les gains de « banco » sont payés 19 pour 20 et les gains d'égalité 8 pour 1.
+Les gains de » punto « sont payés à égalité, les gains de » banco « sont payés 19 pour 20 et les gains d'égalité 8 pour 1.
 
-Dans ce dernier cas, pour les enjeux sur « punto » et « banco », le coup est nul.
+Dans ce dernier cas, pour les enjeux sur » punto « et » banco «, le coup est nul.
 
-13.7. - Pendant la durée des opérations de paiement, les cartes doivent demeurer sur la table de façon à laisser aux joueurs la possibilité de contrôler le point : elles sont ensuite introduites par le « tailleur » dans un réceptacle qui, sur les grandes tables, est dénommé « polochon », et doit être fermé par un couvercle entre deux introductions de cartes.
+13.7. - Pendant la durée des opérations de paiement, les cartes doivent demeurer sur la table de façon à laisser aux joueurs la possibilité de contrôler le point : elles sont ensuite introduites par le » tailleur « dans un réceptacle qui, sur les grandes tables, est dénommé » polochon «, et doit être fermé par un couvercle entre deux introductions de cartes.
 
-Il est interdit d'extraire les cartes du sabot avant l'arrêt des jeux par le « tailleur ». Les cartes détachées ne peuvent, sous quelque prétexte que ce soit, être réintégrées dans le sabot : le croupier est tenu de donner le coup dès qu'il a détaché une seule carte.
+Il est interdit d'extraire les cartes du sabot avant l'arrêt des jeux par le » tailleur «. Les cartes détachées ne peuvent, sous quelque prétexte que ce soit, être réintégrées dans le sabot : le croupier est tenu de donner le coup dès qu'il a détaché une seule carte.
 
 Tout faux tirage annule le coup dans la mesure où celui-ci ne peut être rétabli immédiatement.

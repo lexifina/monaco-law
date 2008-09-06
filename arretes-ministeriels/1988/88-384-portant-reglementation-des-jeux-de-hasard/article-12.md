@@ -1,6 +1,6 @@
 # Article 12
 
-12.1 - Il y a deux séances de banque à tout va, appelée aussi baccara à deux tableaux, chaque jour, l'une l'après-midi, l'autre en soirée. Chaque séance comporte deux tailles, lors de chaque séance, il est utilisé un sixain complet de cartes neuves, non numérotées, d'un « tarotage » uni, trois jeux d'une couleur, trois jeux d'une autre.
+12.1 - Il y a deux séances de banque à tout va, appelée aussi baccara à deux tableaux, chaque jour, l'une l'après-midi, l'autre en soirée. Chaque séance comporte deux tailles. Lors de chaque séance, il est utilisé un sixain complet de cartes neuves, non numérotées, trois jeux d'une couleur, trois jeux d'une autre.
 
 12.2 - Le personnel à la table comprend :
 
