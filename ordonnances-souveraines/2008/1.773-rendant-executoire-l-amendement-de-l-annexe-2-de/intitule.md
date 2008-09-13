@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 1.773 du 28 août 2008 rendant exécutoire l'Amendement de l'annexe 2 de l'Accord sur la Conservation des cétacés de la mer Noire, de la Méditerranée et de la zone atlantique adjacente (ACCOBAMS) relative à l'emploi des filets dérivants, adopté à Dubrovnik le 25 octobre 2007
