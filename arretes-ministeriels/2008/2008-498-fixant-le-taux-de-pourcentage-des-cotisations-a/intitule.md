@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2008-498 du 9 septembre 2008 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2006-2007
