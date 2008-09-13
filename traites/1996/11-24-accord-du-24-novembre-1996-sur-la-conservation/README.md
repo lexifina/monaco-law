@@ -1,8 +1,8 @@
 # Accord du 24 novembre 1996 sur la conservation des cétacés de la mer noire, de la Méditerranée et de la zone atlantique adjacente (ACCOBAMS)
 
-Version en vigueur au 9 mars 2002.
+Version en vigueur au 13 septembre 2008.
 
-Source : Legimonaco, https://legimonaco.mc/tai/accord/1996/11-24-tai1l000097@2002.03.09/
+Source : Legimonaco, https://legimonaco.mc/tai/accord/1996/11-24-tai1l000097@2008.09.13/
 
 | | |
 | --- | --- |
