@@ -1,0 +1,1 @@
+Arrêté municipal n° 2008-3234 du 14 octobre 2008 relatif à la composition et aux conditions de désignation et de fonctionnement des commissions paritaires instituées par le statut des fonctionnaires de la Commune
