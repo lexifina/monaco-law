@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.885 du 26 septembre 2008 rendant exécutoire l'amendement à l'Annexe I de la Convention des Nations Unies sur les effets transfrontières des accidents industriels, adopté à Rome en novembre 2006
