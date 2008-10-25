@@ -12,8 +12,6 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Avenue de Grande-Bretagne
 
-- Avenue Henry Dunant
-
 - Avenue de la Madone
 
 - Avenue Pasteur
@@ -23,8 +21,6 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 - Avenue Princesse Alice
 
 - Avenue Princesse Grace
-
-- Avenue Saint Laurent
 
 - Avenue Saint Michel
 
@@ -64,14 +60,16 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Rue Princesse Florestine
 
-- Rue des Roses
+- Rue Suffren Reymond
 
-- Rue Suffren Reymond.
+- Boulevard Charles III
 
-- Boulevard Charles III ;
+- Boulevard de Suisse
 
-- Boulevard de Suisse ;
+- Avenue de Roqueville, dans sa partie comprise entre le boulevard de Suisse et le boulevard Princesse Charlotte
 
-- Avenue de Roqueville, dans sa partie comprise entre le boulevard de Suisse et le boulevard Princesse Charlotte.
+- Avenue Hector Otto
+
+- Ruelle Saint Jean.
 
 Ces emplacements sont équipés d'appareils de type « horodateurs ». L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
