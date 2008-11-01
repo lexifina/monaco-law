@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.884 du 26 septembre 2008 rendant exécutoire l'Accord européen relatif au travail des équipages des véhicules effectuant des transports internationaux par route (AETR), adopté à Genève le 1er juillet 1970, dans sa version consolidée
