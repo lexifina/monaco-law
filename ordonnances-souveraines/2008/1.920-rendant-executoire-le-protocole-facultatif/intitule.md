@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.920 du 24 octobre 2008 rendant exécutoire le protocole facultatif concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants, adopté par l'Assemblée des Nations Unies le 25 mai 2000
