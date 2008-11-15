@@ -42,8 +42,6 @@ Catégorie « 1 losange » :
 
 - POISSON D'OR (LE)
 
-- ROYAL THAI
-
 - SAINT MARTIN (LE)
 
 - SANTA-CRUZ (LE)
@@ -65,8 +63,6 @@ Catégorie « 1 losange » :
 - VECCHIA FIRENZE
 
 - COSMOPOLITAN (LE)
-
-- LO SFIZIO
 
 Catégorie « 2 losanges »
 
@@ -103,6 +99,8 @@ Catégorie « 2 losanges »
 - GIARDINO (IL)
 
 - JAZZ (LE)
+
+- LO SFIZIO
 
 - MALIZIA (LE)
 
@@ -163,6 +161,8 @@ Catégorie « 3 losanges »
 - PISTOU (LE)
 
 - RAMPOLDI
+
+- ROYAL THAI
 
 - SAINT-BENOÎT (LE)
 
