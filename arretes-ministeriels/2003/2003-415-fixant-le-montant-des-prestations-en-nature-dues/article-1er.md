@@ -192,7 +192,7 @@ IFD | Indemnité forfaitaire de déplacement | 3,81
 
 B - Soins externes hospitaliers - établissements publics
 
-Lettre-clé | Acte | Tarifs d'autorité
+Lettre-clé | Acte | Tarifs d'autoritéen euro(s)
 
 Honoraires des médecins | |
 
@@ -200,11 +200,11 @@ C | Consultation médecin généraliste | 22,00 euro(s)
 
 CS | Consultation spécialiste | 28,51euro(s)
 
-CPSY | Consultation neuropsychiatre | 35,83 euro(s)
+CPSY | Consultation par Neuropsychiatre | 35,83 euro(s)
 
 CSC | Consultation approfondie en cardiologie | 73,18 euro(s)
 
-Actes dispensés par les auxiliraires médicaux | |
+Actes dispensés par les auxiliaires médicaux | |
 
 AMC | Actes pratiqués par le kinésithérapeute | 2,29 euro(s)
 
@@ -214,13 +214,13 @@ AMY | Actes pratiqués par l'orthoptiste | 2,38 euro(s)
 
 Actes dispensés par les sages-femmes | |
 
-CSF | Consultation sage-femme | 15,30 euro(s)
+CSF | Consultation sage-femme | 17,00 euro(s)
 
 SF | Actes pratiqués par la sage-femme | 2,73 euro(s)
 
 SFI | Soins infirmiers pratiqués par la sage-femme | 2,73 euro(s)
 
-CSF2 | Séance de préparation à l'accouchement | 30,60 euro(s)
+CSF2 | Séance de préparation à l'accouchement | 34,00 euro(s)
 
 Autres actes | |
 
@@ -233,8 +233,6 @@ D | Soins dentaires | 3,99 euro(s)
 B, BR, BM | Actes de biologie | 0,27 euro(s)
 
 BP | Actes d'anatomo-cytho-pathologie | 0,29 euro(s)
-
-PRA | Forfait produit de contraste | 0,44 euro(s)
 
 C - Frais pharmaceutiques
 
