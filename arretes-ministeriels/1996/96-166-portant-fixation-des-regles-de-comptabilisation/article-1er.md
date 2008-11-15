@@ -38,6 +38,8 @@ Sont soumis aux règles de comptabilisation des recettes brutes, les jeux ci-apr
 
 - Grande Roue
 
-- Poker Texas Hold'Hem Ultimate.
+- Poker Texas Hold'Hem Ultimate
+
+- Poker Texas Hold'em no limit.
 
 3°) Appareils automatiques
