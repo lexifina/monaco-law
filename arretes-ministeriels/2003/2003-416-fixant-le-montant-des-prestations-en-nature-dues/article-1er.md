@@ -188,7 +188,7 @@ MÉDECINS : | Tarifs d'autorité en euro(s)
 
 IFD | Indemnité forfaitaire de déplacement | 3,81
 
-Lettre-clé | Acte | Tarifs d'autorité
+Lettre-clé | Acte | Tarifs d'autoritéEn euro(s)
 
 Honoraires des médecins | |
 
@@ -196,7 +196,7 @@ C | Consultation Médecin généraliste | 22,00 euro(s)
 
 CS | Consultation Spécialiste | 28,51 euro(s)
 
-CPSY | Consultation Neuropsychiatre | 35,83 euro(s)
+CPSY | Consultation par Neuropsychiatre | 35,83 euro(s)
 
 CSC | Consultation approfondie en cardiologie | 73,18euro(s)
 
@@ -204,19 +204,19 @@ Actes dispensés par les auxiliaires médicaux | |
 
 AMC | Actes pratiqués par le Kinésithérapeute | 2,29euro(s)
 
-AMI | Actes pratiqués par l'infirmier | 2,90 euro(s)
+AMI | Actes pratiqués par l'infirmier | 3,00 euro(s)
 
-AMY | Actes pratiqués par l'Orthoptiste | ,38 euro(s)
+AMY | Actes pratiqués par l'Orthoptiste | 2,38 euro(s)
 
 Actes dispensés par les sages-femmes | |
 
-CSF | Consultation Sage-femme | 15,30 euro(s)
+CSF | Consultation Sage-femme | 17,00 euro(s)
 
 SF | Actes pratiqués par la sage-femme | 2,73euro(s)
 
 SFI | Soins infirmiers pratiqués par la sage-femme | 2,73euro(s)
 
-CSF2 | Séance de préparation à l'accouchement | 30,60 euro(s)
+CSF2 | Séance de préparation à l'accouchement | 34,00 euro(s)
 
 Autres actes | |
 
