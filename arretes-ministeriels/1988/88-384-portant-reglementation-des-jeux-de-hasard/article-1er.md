@@ -20,13 +20,13 @@ Aux jeux de Baccara (Banque ouverte et Chemin de fer), le croupier remonte le je
 
 Aux autres jeux, une seconde opération est effectuée après la salade. Le croupier remonte le jeu en mélangeant des petits paquets de cartes qu'il prélève du tas de la salade.
 
-1.3. - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
+1.3 - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
 
 Aux jeux de Black-jack et de Punto-Banco, lorsque la partie s'interrompt avant la fin de la taille, un nouveau mélange est effectué pour la reprise de celle-ci.
 
 Aux tables réservés à un seul joueur, la Direction des jeux peut, dans certaines circonstances exceptionnelles, notamment liées à la sécurité des jeux, faire procéder à un nouveau mélange des cartes en cours de taille.
 
-1.4. - Lorsque la partie est terminée, les employés, sous la surveillance de l'inspecteur de service, rangent les cartes dans l'un des « dépôts de cartes » visés à l'article 1.1. ci-dessus. Il en va de même pour les sabots.
+1.4 - Lorsque la partie est terminée, les employés, sous la surveillance de l'inspecteur de service, rangent les cartes dans l'un des « dépôts de cartes » visés à l'article 1.1. ci-dessus. Il en va de même pour les sabots.
 
 Dès que la séance est terminée, et avant tout nouvel usage, les jeux sont contrôlés par les cartiers qui les remettent dans l'ordre indiqué à l'article 1.2. Les jeux sont examinés pour déceler d'éventuelles marques. Toute disparition de carte parmi les jeux contrôlés, constatée à quelque moment que ce soit, doit être immédiatement signalée, avec toutes indications utiles sur les conditions dans lesquelles elle est intervenue, à l'inspecteur de service et au directeur des jeux, qui en informe le service de contrôle des jeux ; il en est de même lorsqu'une ou plusieurs cartes sont trouvées en trop ou lorsque sont découvertes des cartes marquées ou paraissant étrangères au jeu d'origine.
 
@@ -34,4 +34,4 @@ Dès que la séance est terminée, et avant tout nouvel usage, les jeux sont con
 
 1.6. - Lorsqu'il est fait usage de l'appareil mélangeur. les opérations de contrôle et de reconnaissance des cartes sont effectuées selon les modalités prévues par l'article 1.2.
 
-1.7.. - Lorsqu'il est fait usage du mélangeur distributeur de cartes, les opérations de contrôle « et de reconnaissance des cartes sont effectuées selon les modalités prévues à l'article 1.2.
+1.7. - Lorsqu'il est fait usage du mélangeur distributeur de cartes, les opérations de contrôle « et de reconnaissance des cartes sont effectuées selon les modalités prévues à l'article 1.2.

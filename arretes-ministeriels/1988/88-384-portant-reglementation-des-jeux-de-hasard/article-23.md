@@ -18,6 +18,6 @@ Le personnel concourant à l'exploitation des jeux dits automatiques comprend :
 
 - des changeurs qui assurent le change.
 
-23-2 - Le personnel de surveillance est composé d'agents assermentés qui, dans le cadre de leur mission de surveillance générale, suivent les interventions sur les appareils, surveillent les opérations de relève, assistent aux opérations d'ajoutés et contrôlent les paiements des « jackpots ».
+23-2 - Le personnel de surveillance est composé d'agents assermentés qui, dans le cadre de leur mission de surveillance générale, suivent les interventions sur les appareils, surveillent les opérations de relève, assistent aux opérations d'ajoutés et contrôlent les paiements des » jackpots ".
 
 Ils doivent informer le superviseur de tout incident et de toute anomalie constatés sur les appareils.

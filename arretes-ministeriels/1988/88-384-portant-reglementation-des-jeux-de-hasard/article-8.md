@@ -52,7 +52,7 @@ Lorsque le joueur a adopté cette solution et que le numéro sortant au coup sui
 
 À la roulette dite à tableau simplifié, lors de la sortie du zéro, les chances simples perdent la moitié de leur valeur, les mises sont ramassées par le croupier qui en effectue le partage.
 
-8 3 - Lorsque le croupier envoie la bille dans le cylindre, celle-ci doit accomplir au minimum sept tours et la vitesse de rotation du cylindre doit rendre impossible la lecture des numéros par les joueurs.
+8.3 - Lorsque le croupier envoie la bille dans le cylindre, celle-ci doit accomplir au minimum sept tours et la vitesse de rotation du cylindre doit rendre impossible la lecture des numéros par les joueurs.
 
 Tans que la force centrifuge retient la bille dans la galerie, les joueurs peuvent continuer à miser, mais dès que le mouvement de la bille se ralentit et que celle-ci est sur le point de tomber dans le cylindre, le croupier annonce » rien ne va plus «. Dès lors, aucun enjeu ne peut plus être placé sur le tableau.
 

@@ -14,39 +14,41 @@ Un fichier sera tenu à jour par la Direction.
 
 - type de machine ;
 
-- numéro d'identification de série :
+- numéro d'identification de série ;
 
-- numéro d'identification SBM ;
+- numéro d'identification S.B.M. ;
 
 - localisation (salle d'exploitation, magasin, atelier, etc.) ;
 
 - photographie ;
 
-- rendement théorique certifié par le fabricant, avec mention de la date de mise à jour.
+- rendement théorique certifié par le fabricant, avec mention de la date de mise à jour ou, pour
+
+les appareils sur lesquels les clients jouent les uns contre les autres, le pourcentage du prélèvement.
 
 19.4 - Chaque poste de jeu doit être équipé par le fabricant des compteurs suivants :
 
 - compteur « in » qui automatiquement enregistre le nombre des crédits joués sur la machine par les clients ;
 
-- compteur « cash box » qui automatiquement enregistre le nombre de pièces ou jetons introduits dans la machine tombant directement dans le seau ou cash « box » ;
+- compteur « cash box » qui, sur les appareils fonctionnant avec des pièces ou des jetons, enregistre le nombre de ceux tombant directement dans le seau ou « cash box » ;
 
-- compteur « out » qui automatiquement enregistre le nombre de pièces ou jetons payés par la machine aux clients ;
+- compteur « out » qui automatiquement enregistre le nombre de crédits payés par la machine aux clients ;
 
-- compteur des « jackpots et lots cumulés » qui automatiquement enregistre le nombre des crédits payés manuellement aux clients.
+- compteur des «jackpots et lots cumulés' qui automatiquement enregistre le nombre des crédits payés manuellement aux clients.
 
 L'exploitant devra, pour chacun des appareils mis en exploitation, enregistrer l'ensemble des compteurs, y compris ceux non énumérés ci-dessus, qui sont nécessaires pour la reconstitution et le contrôle de leur fonctionnement.
 
-Pour chaque machine, une fiche technique indiquant ses caractéristiques et le pourcentage théorique de gain sera tenue à jour.
+Pour chaque machine, une fiche technique indiquant ses caractéristiques et le pourcentage théorique de gain ou, le cas échéant, du prélèvement sera tenue à jour.
 
-Le fichier sera conservé chez le Directeur de l'exploitation. Un double de ce fichier devra être déposé au Secrétariat général de la société.
+Le fichier sera conservé chez le Directeur de l'exploitation avec un double de ce fichier qui devra être déposé au Secrétariat Général de la société. Il pourra leur être substitué un fichier informatisé.
 
-19.5 - Chaque appareil possède une réserve de pièces, appelée « hopper », qui se trouve à l'intérieur même de l'appareil et dans laquelle les pièces sont retenues en vue du paiement des gains aux clients.
+19.5 - Les appareils fonctionnant avec des pièces ou des jetons pourront être dotés d'une réserve de pièces, appelée » hopper «, placée à l'intérieur même de l'appareil retenant des pièces (ou des jetons) en vue du paiement direct aux clients.
 
-Tous les « hoppers » des machines en service sont impérativement munis d'un couvercle fixé.
+Tous les » hoppers « des machines en service sont impérativement munis d'un couvercle fixé.
 
-Les pièces de monnaie ou jetons non orientés vers le « hopper » tombent dans un seau ou cash box situé dans le socle de la machine. Un système de convoyage pneumatique destiné à la récupération des pièces ou des jetons peut être utilisé. Il assure le transport des pièces et (ou) jetons, du socle de chaque machine à sous jusqu'à la salle de comptée, par aspiration, dans des tubes réputés inviolables.
+Les pièces de monnaie ou jetons non orientés vers le » hopper « tombent dans un seau ou cash box situé dans le socle de la machine. Un système de convoyage pneumatique destiné à la récupération des pièces ou des jetons peut être utilisé. Il assure le transport des pièces et (ou) jetons, du socle de chaque machine à sous jusqu'à la salle de comptée, par aspiration, dans des tubes réputés inviolables.
 
-Les pièces et (ou) jetons seront comptés électroniquement au départ de chaque appareil automatique et seront ensuite comptabilisés à leur extraction des containers installés dans la salle de comptée. Ce système de convoyage sera relié à un ordinateur sur lequel seront instantanément enregistrées les données de comptage.
+Les pièces et (ou) jetons seront comptés électroniquement au départ de chaque appareil automatique et seront ensuite comptabilisés à leur extraction des containers installés dans la salle de comptée. Ce système de convoyage sera relié à un ordinateur sur lequel seront instantanément enregistrées les données de comptage
 
 19.6 - Les appareils pourront être équipés d'un dispositif permettant le jeu au moyen de billets de banque. Dès lors, ils devront être dotés :
 
@@ -54,8 +56,6 @@ Les pièces et (ou) jetons seront comptés électroniquement au départ de chaqu
 
 - d'un compteur totalisant les crédits achetés par les clients au moyen de billets.
 
-19.7 - Un dispositif permettant le jeu au moyen de cartes fournies par la maison de jeux pourra être adjoint. Sa mise en œuvre devra être associée à un système assurant la centralisation des informations et leur conservation. Chaque appareil équipé de ce système devra être doté de deux compteurs supplémentaires :
+19.7 - Un dispositif permettant le jeu au moyen de cartes fournies par la maison de jeux (ou tout autre support sécurisé tel que le » ticket in - ticket out «) pourra être adjoint. Sa mise en œuvre devra être associée à un système assurant la centralisation des informations et leur conservation.
 
-- le premier totalisant le nombre de crédits engagés à partir de la carte ;
-
-- le deuxième comptabilisant les crédits remboursés sur ce support.
+Chaque appareil qui en sera équipé devra être doté de compteurs enregistrant les mouvements opérés.
