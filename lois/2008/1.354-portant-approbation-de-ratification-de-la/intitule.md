@@ -1,0 +1,1 @@
+Loi n° 1.354 du 4 décembre 2008 portant approbation de ratification de la convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, et son protocole additionnel concernant les autorités de contrôle et les flux transfrontières de données
