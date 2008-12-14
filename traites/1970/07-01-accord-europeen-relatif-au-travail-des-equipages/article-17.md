@@ -1,0 +1,5 @@
+# Article 17
+
+1. Tout État pourra, lorsqu'il signera le présent Accord ou lors du dépôt de son instrument de ratification ou d'adhésion ou à tout moment ultérieur, déclarer, par notification adressée au Secrétaire général de l'Organisation des Nations Unies, que la validité du présent Accord sera étendue à tout ou partie des territoires qu'il représente sur le plan international. Le présent Accord s'appliquera au territoire ou aux territoires mentionnés dans la notification à dater du cent quatre-vingtième jour après réception de cette notification par le Secrétaire général ou, si à ce jour le présent Accord n'est pas encore entré en vigueur, à dater de son entrée en vigueur.
+
+2. Tout État qui aura fait, conformément au paragraphe précédent, une déclaration ayant pour effet de rendre le présent Accord applicable à un territoire qu'il représente sur le plan international pourra, conformément à l'article 15 du présent Accord, dénoncer le présent Accord en ce qui concerne ledit territoire.

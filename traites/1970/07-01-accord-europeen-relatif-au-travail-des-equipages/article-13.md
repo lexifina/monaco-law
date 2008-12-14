@@ -1,0 +1,15 @@
+# Article 13
+
+Dispositions transitoires
+
+1. Toutes les nouvelles dispositions du présent Accord, y compris son annexe et ses appendices 1B et 2, relatives à l'introduction d'un appareil de contrôle numérique deviendront obligatoires pour les pays qui sont Parties contractantes audit Accord au plus tard quatre ans après la date d'entrée en vigueur des amendements pertinents résultant de la procédure définie à l'article 21. En conséquence, tous les véhicules visés par le présent Accord qui auront été mis en circulation pour la première fois après l'expiration de ce délai devront être équipés d'un appareil de contrôle conforme à ces nouvelles prescriptions. Pendant cette période de quatre ans, les Parties contractantes, qui n'auront pas encore mis en œuvre ces dispositions, devront accepter et contrôler sur leur territoire les véhicules immatriculés dans une autre Partie contractante à l'Accord déjà équipés de l'appareil de contrôle numérique en question.
+
+2. a) Les Parties contractantes prennent les mesures nécessaires pour pouvoir délivrer les cartes de conducteur visées dans l'annexe au présent Accord, telle qu'amendée, au plus tard trois mois avant la date d'expiration du délai de quatre ans, visé au paragraphe 1. Ce délai minimum de trois mois doit aussi être observé en cas de mise en œuvre par une Partie contractante des dispositions relatives à l'appareil de contrôle numérique conformément à l'appendice 1B de la présente annexe, avant l'expiration du délai de quatre ans. Ladite Partie contractante doit informer le secrétariat du Groupe de travail des transports routiers de la Commission économique pour l'Europe de la progression de la mise en œuvre de l'appareil de contrôle numérique conformément à l'appendice 1B de la présente annexe sur son territoire ;
+
+b) Dans l'attente de la délivrance par les Parties contractantes des cartes visées à l'alinéa a) , les dispositions de l'article 14 de l'annexe au présent Accord sont applicables aux conducteurs qui pourraient être amenés à conduire des véhicules équipés d'un appareil de contrôle numérique conforme à l'appendice 1B de la présente annexe.
+
+3. Tout instrument de ratification ou d'adhésion déposé par un État après la date d'entrée en vigueur du présent amendement, sera réputé s'appliquer à l'Accord tel qu'amendé, y compris le délai d'application défini au paragraphe 1.
+
+Si cette adhésion intervient moins de deux ans avant l'expiration du délai visé au paragraphe 1, l'État, lors du dépôt de son instrument de ratification ou d'adhésion, informera le dépositaire de la date à laquelle l'appareil de contrôle numérique sera effectif sur son territoire. Cet État peut se prévaloir d'une période transitoire ne pouvant excéder deux ans à partir de la date d'entrée en vigueur de l'Accord à l'égard de cet État. Le dépositaire en informera alors toutes les Parties contractantes.
+
+Les dispositions de l'alinéa précédent s'appliquent également en cas d'adhésion d'un État après l'expiration du délai d'application de quatre ans visé au paragraphe 1.
