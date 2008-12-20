@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 1.977 du 10 décembre 2008 modifiant l'ordonnance souveraine n° 1.673 du 10 juin 2008 prorogeant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
