@@ -12,7 +12,7 @@ La composition de cette commission d'assistance aux entreprises en difficulté e
 
 - un représentant de l'Association monégasque des banques,
 
-- un représentant du département des travaux publics et des affaires sociales,
+- un représentant du Département des Affaires Sociales et de la Santé,
 
 - un représentant du département des finances et de l'économie,
 
