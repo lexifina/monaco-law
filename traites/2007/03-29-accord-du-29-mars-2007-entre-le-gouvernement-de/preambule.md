@@ -10,7 +10,7 @@ Désireux de promouvoir leur coopération policière par la mise à disposition 
 
 Sont convenus des dispositions qui suivent.
 
-Fait à Monaco, le 29 mars 2008, en double exemplaire en langue française.
+Fait à Monaco, le 29 mars 2007, en double exemplaire en langue française.
 
 Pour le Gouvernement de Son Altesse Sérénissime le Prince de Monaco,
 
