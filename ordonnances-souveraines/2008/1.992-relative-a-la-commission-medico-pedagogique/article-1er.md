@@ -1,0 +1,23 @@
+# Article 1er
+
+La composition de la Commission médico-pédagogique, instituée par l'article 25 de la loi n° 1.334 du 12 juillet 2007, susvisée, est fixée comme suit :
+
+- le Directeur de l'Éducation Nationale, de la Jeunesse et des Sports, président ou son représentant, lequel peut s'adjoindre deux personnes de sa Direction, désignées pour leurs compétences ;
+
+- le Directeur de l'Action Sanitaire et Sociale ou son représentant ;
+
+- un pédopsychiatre désigné par le Directeur de l'Action Sanitaire et Sociale ;
+
+- les médecins de l'Inspection Médicale des Scolaires ;
+
+- un représentant de l'Inspection Académique de Nice (adaptation scolaire et scolarisation des élèves handicapés, ASH) ;
+
+- deux représentants de la Maison Départementale pour Personnes Handicapées 06 (MDPH) ;
+
+- des représentants du Centre de Formation Pédagogique ;
+
+- les chefs d'établissement concernés ;
+
+- le responsable de la Section d'Enseignement Général et Professionnel Adapté ;
+
+- les assistantes sociales et les psychologues scolaires chargés du suivi des enfants concernés.
