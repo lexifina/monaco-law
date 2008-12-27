@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services judiciaires n° 2008-23 du 22 décembre 2008 fixant les conditions d'application de l'ordonnance souveraine n° 1.977 du 10 décembre 2008 reconduisant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats-stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
