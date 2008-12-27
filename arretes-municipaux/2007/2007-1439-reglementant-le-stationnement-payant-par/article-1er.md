@@ -30,6 +30,8 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Boulevard d'Italie
 
+- Boulevard du Ténao
+
 - Boulevard Louis II
 
 - Boulevard Princesse Charlotte
@@ -47,6 +49,8 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 - Rue Bellevue
 
 - Rue des Genêts
+
+- Rue des Géraniums ;
 
 - Rue Grimaldi
 
