@@ -1,11 +1,11 @@
 # Code de procédure pénale
 
-Version en vigueur au 29 décembre 2007.
+Version en vigueur au 28 décembre 2008.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2007.12.29/
+Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2008.12.28/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de procédure pénale |
-| Dernière modification | 29 décembre 2007 |
+| Dernière modification | 28 décembre 2008 |
