@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2009-151 du 31 mars 2009 portant fixation du montant des ressources personnelles telles que prévues à l'ordonnance souveraine n°2.134 du 27 mars 2009 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
