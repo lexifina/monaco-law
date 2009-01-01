@@ -1,8 +1,8 @@
 # Arrêté municipal du 1er mars 1934 concernant la circulation
 
-Version en vigueur au 1er janvier 2008.
+Version en vigueur au 1er janvier 2009.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/1934/03-01-L002185@2008.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/1934/03-01-L002185@2009.01.01/
 
 | | |
 | --- | --- |
