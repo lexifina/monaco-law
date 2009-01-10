@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.021 du 19 décembre 2008 rendant exécutoire la Convention destinée à adapter et à approfondir la coopération administrative entre la République française et la Principauté de Monaco, signée à Paris le 8 novembre 2005
