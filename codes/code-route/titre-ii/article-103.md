@@ -10,7 +10,7 @@ La demande de certificat d'immatriculation rédigée sur imprimé délivré par 
 
 - B. - Véhicules déjà immatriculés à Monaco :
 
-  - Le précédent certificat d'immatriculation sur lequel le titulaire aura porté, d'une manière très lisible et inaltérable, la mention : » vendu le ... ' (date de la transaction).
+  - Le précédent certificat d'immatriculation sur lequel le titulaire aura porté, d'une manière très lisible et inaltérable, la mention : « vendu le ... » (date de la transaction).
 
 - C. - Véhicules en provenance du territoire français :
 
