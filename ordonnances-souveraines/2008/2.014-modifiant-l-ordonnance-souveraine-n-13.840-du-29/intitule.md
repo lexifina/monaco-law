@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 2.014 du 19 décembre 2008 modifiant l'ordonnance souveraine n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement au Centre Hospitalier Princesse Grace
