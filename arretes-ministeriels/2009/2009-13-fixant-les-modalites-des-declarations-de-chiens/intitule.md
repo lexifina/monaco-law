@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2009-13 du 5 janvier 2009 fixant les modalités des déclarations de chiens qualifiés de dangereux auprès de la Direction de la Sûreté Publique prévues par la loi relative à la détention des chiens
