@@ -4,12 +4,14 @@
 
 - une copie de la déclaration prévue par la loi n° 1.144 du 26 juillet 1991 ou de l'autorisation administrative d'exercice de l'activité concernée ;
 
-- une fiche d'adhésion à la Caisse d'assurance maladie des travailleurs indépendants (CAMTI) et à la Caisse autonome des retraites des travailleurs indépendants (CARTI) ;
+- la demande d'affiliation à la Caisse d'Assurance Maladie des Travailleurs Indépendants (C.A.M.T.I.) et à la Caisse Autonome des Retraites des Travailleurs Indépendants (C.A.R.T.I.) ;
 
 - une copie du bail commercial ou professionnel ;
 
+- un relevé d'identité bancaire ;
+
 - un curriculum vitae énumérant les diplômes ou justificatifs de formation professionnelle attestant de la capacité d'exercer l'activité ;
 
-- une attestation de non-perception de revenus établie selon un formulaire fourni par la direction du budget et du trésor.
+- une attestation de non-perception de revenus établie selon un formulaire fourni par la Direction de l'Expansion Économique.
 
-Pour le montage de leur projet, les pétitionnaires peuvent bénéficier, pendant une année, de l'assistance gracieuse d'un membre de l'Ordre des experts-comptables.
+Pour le montage de leur projet, les pétitionnaires peuvent bénéficier, pendant une année, de l'assistance gracieuse d'un membre de l'Ordre des Experts-Comptables
