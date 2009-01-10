@@ -29,3 +29,5 @@ Le taux de conversion entre l'unité euro et les unités monétaires visées à 
 - un euro pour 0,585274 livre chypriote (CYP) ;
 
 - un euro pour 0,429300 lire maltaise (MTL).
+
+- un euro pour 30,1260 couronnes slovaques (SKK).
