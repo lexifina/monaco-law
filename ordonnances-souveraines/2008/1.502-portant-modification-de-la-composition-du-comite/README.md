@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 1.502 du 22 janvier 2008 portant modification de la composition du Comité consultatif pour la construction
 
-Version en vigueur au 26 janvier 2008.
+Version en vigueur au 7 février 2009.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/01-22-1.502@2008.01.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/01-22-1.502@2009.02.07/
 
 | | |
 | --- | --- |
