@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2009-79 du 16 février 2009 approuvant la modification des statuts du Syndicat Patronal dénommé « Chambre Monégasque des Nouvelles Technologies de l'Information et de la Communication »
