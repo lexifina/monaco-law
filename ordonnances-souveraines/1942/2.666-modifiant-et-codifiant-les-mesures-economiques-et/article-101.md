@@ -10,6 +10,6 @@ Sont affranchis des formalités à la circulation :
 
 - 4° Les fruits à cidre ou à poiré ;
 
-- 5°Dans les mêmes conditions que les cidres visés au 3º, les jus de raisin, de pommes ou de poires, concentrés ou non, lorsqu'ils sont livrés en récipients d'une contenance ne dépassant pas 2 litres, ou pour les jus concentrés d'un contenu en poids ne dépassant pas 25 kilogrammes.
+- 5° Dans les mêmes conditions que les cidres visés au 3º, les jus de raisin, de pommes ou de poires, concentrés ou non, lorsqu'ils sont livrés en récipients d'une contenance ne dépassant pas 2 litres, ou pour les jus concentrés d'un contenu en poids ne dépassant pas 25 kilogrammes.
 
-- Les dispositions du 1° ne s'appliquent pas aux vins contenus dans des bouteilles, sauf en cas de changement de domicile. Les conditions d'application sont déterminées par ordonnance souveraine.
+Les dispositions du 1° ne s'appliquent pas aux vins contenus dans des bouteilles, sauf en cas de changement de domicile. Les conditions d'application sont déterminées par ordonnance souveraine.

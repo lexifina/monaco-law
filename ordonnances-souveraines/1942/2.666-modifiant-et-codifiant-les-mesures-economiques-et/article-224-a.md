@@ -2,13 +2,9 @@
 
 Il est perçu un droit spécifique :
 
-- a) Sur les bières, dont le taux, par hectolitre, est fixé à :
+- a) Sur les bières, dont le taux, par hectolitre, est fixé au 1er janvier de chaque année par arrêté ministériel.
 
-  - 1,30 euro(s) par degré alcoométrique pour les bières dont le titre alcoométrique n'excède pas 2,8 % vol. ;
-
-  - 2,60 euro(s) par degré alcoométrique pour les autres bières ;
-
-- Dans les dispositions de la présente ordonnance sont compris sous la dénomination de bière, tout produit relevant du code NC 2203 du tarif français des douanes, ainsi que tout produit contenant un mélange de bière et de boissons non alcooliques relevant du code NC 2206 du tarif français des douanes et ayant dans l'un ou l'autre cas un titre alcoométrique acquis supérieur à 0,5 % vol. ;
+- Dans les dispositions de la présente ordonnance sont compris sous la dénomination de bière, tout produit relevant du code NC 2203 du tarif français des douanes, ainsi que tout produit contenant un mélange de bière et de boissons non alcooliques relevant du code NC 2206 du tarif français des douanes et ayant dans l'un ou l'autre cas un titre alcoométrique acquis supérieur à 0,5% vol.
 
 - b) Sur les boissons non alcoolisées énumérées ci-après dont le tarif, par hectolitre, est fixé à :
 

@@ -36,7 +36,7 @@ La demande d'agrément est transmise au directeur des services fiscaux.
 
 La demande d'agrément contient l'adresse des entrepôts suspensifs des droits d'accises, ainsi que du lieu où sont tenus et conservés la comptabilité ou les registres.
 
-IV. -1 ° Les entrepositaires agréés doivent effectuer la balance du compte principal et des comptes de production ou de transformation de leur comptabilité matières en y inscrivant, pour chaque produit, selon son tarif d'imposition ou selon sa nature, au plus tard le dixième jour de chaque mois, le stock théorique en fin du mois précédent et le total des entrées et des sorties du mois précédent.
+IV. - 1 ° Les entrepositaires agréés doivent effectuer la balance du compte principal et des comptes de production ou de transformation de leur comptabilité matières en y inscrivant, pour chaque produit, selon son tarif d'imposition ou selon sa nature, au plus tard le dixième jour de chaque mois, le stock théorique en fin du mois précédent et le total des entrées et des sorties du mois précédent.
 
 Cette balance ne peut servir à elle seule d'élément de preuve pour la constatation de manquants entraînant, conformément au 2° du 1 du I de l'article 4 de l'ordonnance souveraine n° 10.739, l'exigibilité de l'impôt.
 

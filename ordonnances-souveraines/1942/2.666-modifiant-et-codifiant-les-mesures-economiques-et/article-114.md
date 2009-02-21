@@ -1,6 +1,6 @@
 # Article 114
 
-Les infractions aux dispositions de l'ordonnance souveraine n° 2533 du 15 octobre 1941 ainsi qu'aux ordonnances souveraines prises pour son application sont réprimées comme suit :
+Les infractions aux dispositions de l'ordonnance souveraine n° 2.533 du 15 octobre 1941 ainsi qu'aux ordonnances souveraines prises pour son application sont réprimées comme suit :
 
 Est passible d'une amende de 10 000 à 100 000 francs, tout fabricant ou importateur de boissons alcooliques qui met en circulation ou en vente des boissons de troisième, quatrième ou cinquième catégories sans avoir fait la déclaration prévue par l'article 2 de l'ordonnance précitée.
 
