@@ -6,7 +6,7 @@ Les modificateurs et leurs codes sont les suivants :
 
 - Urgence : Réalisation d'un acte non prévu 8 heures auparavant, entre 20 heures et 8 heures, le dimanche ou un jour férié, pour une affection ou la suspicion d'une affection mettant en jeu la vie du patient ou l'intégrité de son organisme et entraînant la mobilisation rapide des ressources humaines et matérielles
 
-  - Acte réalisé en urgence par les médecins, autres que les omnipraticiens et les pédiatres, la nuit entre 20 heures et 8 heures ; le code est U
+  - Acte réalisé en urgence par les médecins et chirurgiens dentistes, autres que les omnipraticiens et les pédiatres, la nuit entre 20 heures et 8 heures ; le code est U
 
   - Acte réalisé en urgence par les pédiatres et omnipraticiens de 20 heures à 00 heure ou de 6 heures à 8 heures ; le code est P
 
