@@ -92,6 +92,8 @@ AMS [AMM] | Actes de rééducation des affections orthopédiques et rhumatologiq
 
 AMP | Actes pratiqués par le pédicure-podologue | 0,64
 
+POD | Actes de prévention pratiqué par le pédicure-podologue | 8,91
+
 [DAMP] | Indemnité de déplacement pédicure | 0,59
 
 AMO | Actes pratiqués par l'orthophoniste | 0,84
@@ -145,6 +147,10 @@ V | Visite | 5,01
 SF | Actes spécialisés | 0,86
 
 SFI | Soins infirmiers | 0,86
+
+CGSF | Examen médical de suivi de grossesse réalisé par la sage-femme | 7, 00
+
+SP | Séance de suivi postnatal réalisé par la sage-femme | 6,12
 
 [DSF] DSFI | Indemnité de déplacement | 0,66
 
