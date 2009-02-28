@@ -60,8 +60,6 @@ K non agressif [K] | Actes d'investigation et de spécialité | 1,04
 
 KE | Actes d'échographie et de doppler | 1,04
 
-MÉDECINS : | Tarifs d'autorité en euro(s)
-
 AUXILIAIRES MÉDICAUX : |
 
 * Infirmiers | |
@@ -89,6 +87,8 @@ AMS [AMM] | Actes de rééducation des affections orthopédiques et rhumatologiq
 [DAMM] | Indemnité de déplacement kinésithérapeute | 0,80
 
 AMP | Actes pratiqués par le pédicure-podologue | 0,64
+
+POD | Actes de prévention pratiqué par le pédicure-podologue | 8,91
 
 [DAMP] | Indemnité de déplacement pédicure | 0,59
 
@@ -122,8 +122,6 @@ DC [D] | Certains actes dentaires | 1,29
 
 SCP [D] | Soins conservateurs et prothèses | 1,29
 
-MÉDECINS : | Tarifs d'autorité en euro(s)
-
 Z | Actes avec radiations ionisantes | 0,74
 
 Majorations pour dimanche et nuit : |
@@ -143,6 +141,10 @@ V | Visite | 5,01
 SF | Actes spécialisés | 0,86
 
 SFI | Soins infirmiers | 0,86
+
+CGSF | Examen médical de suivi de grossesse réalisé par la sage-femme | 7,00
+
+SP | Séance de suivi postnatal réalisé par la sage-femme | 6,12
 
 [DSF] DSFI | Indemnité de déplacement | 0,66
 
@@ -183,8 +185,6 @@ Majoration pour prélèvement pratiqué par un directeur de laboratoire médecin
 Samedi après 12 h ou dimanche | 19,06
 
 de 20 h à 8 h | 25,15
-
-MÉDECINS : | Tarifs d'autorité en euro(s)
 
 IFD | Indemnité forfaitaire de déplacement | 3,81
 
