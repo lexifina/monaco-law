@@ -1,1 +1,0 @@
-Ordonnance souveraine n° 1.829 du 18 septembre 2008 rendant exécutoire la Liste des Interdictions 2008 - Standard international amendant l'Annexe I à la Convention internationale contre le dopage dans le sport
