@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 2.086 du 18 février 2009 rendant exécutoire la liste des Interdictions 2009 - Standard International 2009 - et la liste des Autorisations à des fins thérapeutiques - Standard AUT 2009 - amendant les Annexes I et II de la Convention internationale contre le dopage dans le sport
