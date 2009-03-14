@@ -10,7 +10,7 @@ Ces mesures concernent notamment :
 
 - les diligences à accomplir eu égard à la nature des activités des organismes financiers et des maisons de jeux et des indications sur les sommes et la nature des opérations qui doivent faire l'objet d'une vigilance particulière ;
 
-- la procédure à suivre pour établir le niveau de risque associé au type de clientèle, de relation d'affaires ou de transactions ;
+- la procédure à suivre pour établir des distinctions et des exigences de niveaux différents sur la base de critères objectifs fixés par chaque organisme financier, en tenant compte, notamment, des caractéristiques des services et des produits qu'il offre et de celles de la clientèle à laquelle il s'adresse, afin de définir une échelle appropriée des risques ;
 
 - les diligences à accomplir en fonction du niveau de risque associé au type de clientèle, de relation d'affaires ou de transactions ;
 
