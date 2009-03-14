@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2009-111 du 5 mars 2009 portant fixation du taux de la contribution des employeurs et de la Caisse des Congés Payés du Bâtiment au "Fonds Complémentaire de réparation des Accidents du Travail et des Maladies Professionnelles' au titre de l'année 2009
