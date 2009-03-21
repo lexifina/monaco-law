@@ -28,7 +28,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
   - jeux de manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines ;
 
-- e) es droits d'entrée pour la visite des parcs zoologiques et botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
+- e) les droits d'entrée pour la visite des parcs zoologiques et botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 
 - f) les transports de voyageurs ;
 
@@ -46,10 +46,14 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
 - Cette disposition n'est pas applicable aux cessions de droits portant sur des œuvres d'architecture et des logiciels.
 
-- j) les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 60 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération.
+- j) les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération.
 
 - La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur le même site.
 
 - k) les prestations de collecte, de tri et de traitement des déchets portant sur des matériaux ayant fait l'objet d'un contrat de concession conclu entre l'État et une entreprise agréée.
 
-- l) Les prestations de services d'aide à domicile fournies par les entreprises agréées.
+- l) Les prestations de services d'aide à domicile fournies par les entreprises agréées ;
+
+- m) Les remboursements et les rémunérations versés par l'État ou la Commune aux exploitants assurant les prestations de balayage des caniveaux et voies publiques lorsqu'elles se rattachent au service public de voirie communale ;
+
+- n) Les remboursements et les rémunérations versés par l'État ou la Commune aux exploitants assurant les prestations de déneigement des voies publiques lorsqu'elles se rattachent à un service public de voirie communale.

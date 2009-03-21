@@ -1,6 +1,6 @@
 # Article 88
 
-La franchise mentionnée aux I, II et IV de l'article 87 n'est pas applicable :
+La franchise mentionnée aux I et IV de l'article 87 n'est pas applicable :
 
 - 1° Aux opérations visées à l'article 5-5° ;
 
