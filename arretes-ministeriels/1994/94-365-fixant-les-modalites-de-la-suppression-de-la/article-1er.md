@@ -20,7 +20,7 @@ La suppression de la participation du bénéficiaire de prestations aux frais de
 
   - pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens non conventionnés installés en Principauté de Monaco ou sur le territoire du département français limitrophe, à 27,30 euro(s),
 
-  - pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens conventionnés et pour les soins externes hospitaliers dispensés dans les établissements publics de la Principauté, à 136,50 euro(s),
+  - pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens conventionnés et pour les soins externes hospitaliers dispensés dans les établissements publics de la Principauté, à 140,14 euro(s),
 
   - pour les autres soins, à 91 euro(s).
 
