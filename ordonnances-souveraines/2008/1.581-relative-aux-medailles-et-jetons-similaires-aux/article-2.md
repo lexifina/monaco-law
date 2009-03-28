@@ -1,6 +1,6 @@
 # Article 2
 
-1. Les médailles et jetons portant les termes «euro», «euro cent» ou le symbole de l'euro sans qu'une valeur nominale leur soit associée ne sont pas interdits si leur taille se situe en dehors de la bande de référence visée à l'article précédent.
+1. Les médailles et jetons sur lesquels figurent les termes «euro', »euro cent' ou le symbole de l'euro sans qu'une valeur nominale leur soit associée ne sont pas interdits si leur taille se situe en dehors de la bande de référence visée à l'article précédent, à moins que leur surface ne comporte un dessin similaire à l'un des éléments visés à l'article premier, point c .
 
 2. Les médailles et jetons dont la taille est comprise dans la bande de référence ne sont pas interdits :
 
