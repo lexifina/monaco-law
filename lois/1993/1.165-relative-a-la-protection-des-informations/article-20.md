@@ -1,5 +1,7 @@
 # Article 20
 
-Lorsque des irrégularités sont observées dans la mise en œuvre de traitements par des services dépendant d'une personne morale de droit public, le Ministre d'État, également saisi par le président de la commission de contrôle des informations nominatives, prend toutes mesures pour qu'il soit mis fin aux irrégularités constatées ou que leurs effets soient supprimés.
+Le transfert d'informations nominatives hors de la Principauté ne peut s'effectuer que sous réserve que le pays ou l'organisme vers lequel s'opère le transfert dispose d'un niveau de protection adéquat.
 
-En ce qui concerne les services autres que ceux relevant du Ministre d'État, celui-ci demande aux organes d'administration compétents de prendre, aux mêmes fins, les mesures nécessaires. Au cas où celles-ci ne seraient pas prises, le Ministre d'État peut d'office les faire prendre.
+Le caractère adéquat du niveau de protection offert par le pays tiers doit être apprécié au regard de toutes les circonstances relatives à un transfert d'informations nominatives, notamment la nature des informations, la finalité, la durée du ou des traitements envisagés, les règles de droit en vigueur dans le pays en cause ainsi que les règles professionnelles et les mesures de sécurité qui y sont respectées.
+
+Sans préjudice des dispositions qui précèdent, la commission de contrôle des informations nominatives tient à disposition de tout intéressé la liste des pays disposant, au sens de l'alinéa précédent, d'un niveau de protection adéquat.

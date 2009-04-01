@@ -2,14 +2,20 @@
 
 Les personnes auprès de qui des informations nominatives sont recueillies doivent être averties :
 
-- 1° de leurs droits d'opposition et d'accès aux traitements et aux informations nominatives ;
+- de l'identité du responsable du traitement et le cas échéant de celle de son représentant à Monaco ;
 
-- 2° du caractère obligatoire ou facultatif des réponses ;
+- de la finalité du traitement ;
 
-- 3° des conséquences à leur égard du défaut de réponse ;
+- du caractère obligatoire ou facultatif des réponses;
 
-- 4° de l'identité des destinataires de l'information.
+- des conséquences à leur égard d'un défaut de réponse ;
 
-Lorsqu'il est procédé par voie de questionnaire, celui-ci doit comporter ces mêmes indications.
+- de l'identité des destinataires ou des catégories de destinataires ;
 
-Les dispositions du présent article ne sont pas applicables aux traitements visés au dernier alinéa de l'article 10 ainsi qu'à la collecte des informations nécessaires à la constatation des infractions et à la mise en œuvre des poursuites conséquentes.
+- de leurs droits d'opposition, d'accès et de rectification relativement aux informations les concernant;
+
+- de leur droit de s'opposer à l'utilisation pour le compte de tiers, ou à la communication à des tiers d'informations nominatives les concernant à des fins de prospection, notamment commerciale.
+
+Lorsque les informations nominatives ne sont pas collectées directement auprès de la personne concernée, le responsable du traitement ou son représentant doit lui fournir les informations prévues au précédent alinéa, sauf si l'information de la personne concernée a déjà été effectuée, se révèle impossible, ou implique des mesures disproportionnées au regard de l'intérêt de la démarche ou encore si la collecte ou la communication des informations est expressément prévue par les dispositions législatives ou réglementaires.
+
+Les dispositions du présent article ne sont pas applicables aux traitements visés à l'article 11

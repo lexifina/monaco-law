@@ -1,9 +1,13 @@
 # Article 15
 
-La personne qui a accès aux informations nominatives peut, sous réserve de justifier de son identité :
+Toute personne justifiant de son identité peut obtenir auprès du responsable du traitement ou de son représentant :
 
-- 1° prendre connaissance, sans frais, du répertoire des traitements et interroger par écrit les personnes qui y sont inscrites, en vue de savoir si les traitements automatisés comportent des informations la concernant ;
+- 1°) des renseignements portant au moins sur la finalité du traitement, les catégories d'informations sur lesquelles il porte et les destinataires ou catégories de destinataires auxquels les informations sont communiquées ;
 
-- 2° obtenir communication de ces informations sous une forme écrite, non codée et conforme au contenu des enregistrements en contrepartie du paiement d'une somme forfaitaire, variable selon les catégories de traitement et dont les montants sont fixés par arrêté ministériel pris après avis de la commission de contrôle des informations nominatives ; sauf dispositions législatives contraires, les informations à caractère médical ne peuvent cependant être communiquées qu'au médecin désigné à cet effet par la personne intéressée.
+- 2°) confirmation que des informations la concernant sont, ou non, traitées ;
 
-Il doit être procédé à la communication dans le mois suivant la réception de la demande. Toutefois, le président de la commission de contrôle des informations nominatives peut, après avis favorable de celle-ci, accorder des délais de réponse ou dispenser de répondre à des demandes abusives par leur nombre, leur caractère répétitif ou systématique, la personne intéressée dûment avisée.
+- 3°) communication de ces informations sous une forme écrite, non codée et conforme au contenu des enregistrements ; les informations à caractère médical sont communiquées à la personne concernée, ou au médecin qu'elle aura désigné à cet effet. En cas d'avis contraire médicalement justifié, les informations ne peuvent être communiquées qu'audit médecin. Les conditions d'application du présent chiffre sont définies par ordonnance souveraine.
+
+- 4°) des informations sur les raisonnements automatisés ayant abouti à la décision visée à l'article 14-1.
+
+Il doit être procédé à la communication dans le mois suivant la réception de la demande. Toutefois, le président de la commission de contrôle des informations nominatives peut, après avis favorable de celle-ci, accorder des délais de réponse ou dispenser de l'obligation de répondre à des demandes abusives par leur nombre, leur caractère répétitif ou systématique, la personne concernée dûment avisée.
