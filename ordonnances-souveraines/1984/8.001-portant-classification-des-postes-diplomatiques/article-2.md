@@ -28,7 +28,7 @@ Les postes consulaires sont les suivants :
 
 - Chili : Santiago, Valparaiso ;
 
-- Chine, Hong-Kong, Shanghai ;
+- Chine (République Populaire de) : Beijing, Hong Kong, Shangai ;
 
 - Chypre : Nicosie ;
 
@@ -68,6 +68,8 @@ Les postes consulaires sont les suivants :
 
 - Hong Kong : Hong Kong ;
 
+- Hongrie (République de) : Budapest ;
+
 - Inde : New Dehli ;
 
 - Indonésie : Djakarta ;
@@ -81,6 +83,8 @@ Les postes consulaires sont les suivants :
 - Jamaïque : Kingston ;
 
 - Japon : Tokyo ;
+
+- Kenya : Nairobi ;
 
 - Liban : Beyrouth, Tripoli ;
 
@@ -97,6 +101,8 @@ Les postes consulaires sont les suivants :
 - Mauritanie : Nouakchott ;
 
 - Mexique : Mexico ; Casablanca ;
+
+- Mozambique (République du) ; Maputo ;
 
 - Niger : Niamey ;
 
