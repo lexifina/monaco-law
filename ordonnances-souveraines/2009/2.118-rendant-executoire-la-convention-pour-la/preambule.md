@@ -1,0 +1,3 @@
+Vu la loi n° 1.354 du 4 décembre 2008 portant approbation de ratification de la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, et son protocole additionnel concernant les autorités de contrôle et les flux transfrontières de données ;
+
+Nos instruments de ratification de la Convention pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, ouverte à la signature à Strasbourg le 28 janvier 1981, ayant été déposés le 24 décembre 2008 auprès du Conseil de l'Europe, ladite Convention entrera en vigueur pour la Principauté de Monaco le 1er avril 2009.
