@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 2.119 du 23 mars 2009 rendant exécutoire le Protocole additionnel à la Convention pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, concernant les autorités de contrôle et les flux transfontières de données, ouvert à la signature à Strasbourg le 8 novembre 2001
