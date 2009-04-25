@@ -24,7 +24,7 @@ Elle est notamment consultée sur :
 
 - 4° les règlements intérieurs prévus par l'article 7 de la loi n° 1.103 du 12 juin 1987 susvisée, relative aux jeux de hasard ;
 
-- 5° les retraits d'agrément administratif délivrés après enquête à toutes personnes et agents ayant accès aux salons de jeux, en application de l'article 6 de la loi n° 1.103 du 12 juin 1987, susvisée ;
+- 5° le retrait, définitif ou temporaire, ferme ou conditionnel, des agréments administratifs délivrés après enquête à toutes personnes et agents ayant accès aux salons de jeux, en application de l'article 6 de la loi n° 1.103 du 12 juin 1987, susvisée ;
 
 - 6° le contrôle des interdictions édictées par l'article 21 de la loi n° 1.103 du 12 juin 1987, susvisée.
 
