@@ -1,11 +1,11 @@
 # Code civil
 
-Version en vigueur au 20 septembre 2007.
+Version en vigueur au 25 avril 2009.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-civil@2007.09.20/
+Source : Legimonaco, https://legimonaco.mc/code/code-civil@2009.04.25/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code civil |
-| Dernière modification | 20 septembre 2007 |
+| Dernière modification | 25 avril 2009 |

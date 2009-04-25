@@ -32,4 +32,8 @@ Les créances privilégiées sur certains meubles sont :
 
 - 8° La créance du bailleur de fonds destinés à former en tout ou en partie le cautionnement d'un comptable ou officier public, sur le cautionnement ainsi fourni, pourvu que la déclaration de cette créance ait été faite, dans la quinzaine du versement des fonds, au trésorier général, qui est tenu d'en délivrer incontinent un certificat. Ce privilège ne s'exerce qu'après celui prévu au paragraphe précédent ;
 
-- 9° La créance du Trésor et éventuellement du sauveteur pour les frais engagés à l'occasion du sauvetage d'une épave maritime, sur l'épave.
+- 9° La créance du Trésor et éventuellement du sauveteur pour les frais engagés à l'occasion du sauvetage d'une épave maritime, sur l'épave ;
+
+- 10° La créance de l'État résultant d'un contrat « habitation-capitalisation », sur le prix de tout ce qui garnit l'appartement objet du contrat.
+
+- Le même privilège a lieu pour les réparations locatives et pour tout ce qui concerne l'exécution du contrat.
