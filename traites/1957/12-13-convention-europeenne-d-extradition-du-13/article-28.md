@@ -1,0 +1,7 @@
+# Article 28
+
+1. La présente Convention abroge, en ce qui concerne les territoires auxquels elle s'applique, celles des dispositions des traités, conventions ou accords bilatéraux qui, entre deux Parties contractantes, régissent la matière de l'extradition.
+
+2. Les Parties contractantes ne pourront conclure entre elles des accords bilatéraux ou multilatéraux que pour compléter les dispositions de la présente Convention ou pour faciliter l'application des principes contenus dans celle-ci.
+
+3. Lorsque, entre deux ou plusieurs Parties contractantes, l'extradition se pratique sur la base d'une législation uniforme, les Parties auront la faculté de régler leurs rapports mutuels en matière d'extradition en se fondant exclusivement sur ce système nonobstant les dispositions de la présente Convention. Le même principe sera applicable entre deux ou plusieurs Parties contractantes dont chacune a en vigueur une loi prévoyant l'exécution sur son territoire des mandats d'arrêt décernés sur le territoire de l'autre ou des autres. Les Parties contractantes qui excluent ou viendraient à exclure de leurs rapports mutuels l'application de la présente Convention, conformément aux dispositions du présent paragraphe, devront adresser une notification à cet effet au Secrétaire Général du Conseil de l'Europe. Celui-ci communiquera aux autres Parties contractantes toute notification reçue en vertu du présent paragraphe.
