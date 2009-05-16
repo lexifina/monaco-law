@@ -1,3 +1,3 @@
 # Article 25
 
-Le comité d'hygiène et de sécurité est réuni dans les formes décrites à l'article 3 de l'arrêté ministériel n° 68-361 du 12 novembre 1968.
+Le Comité d'Hygiène, de Sécurité et des Conditions de Travail est réuni dans les formes décrites à l'article 11 de l'arrêté ministériel n° 2009-234 du 11 mai 2009.

@@ -8,4 +8,4 @@ La commission des recours a compétence pour connaître :
 
 - des dossiers de liquidation de pension donnant lieu à contestation.
 
-Elle émet. dans tous ces cas, des propositions, comme prévu aux articles 52, 65 à 67 et 88 de l'ordonnance souveraine n° 7464 du 28 juillet 1982.
+Elle émet. dans tous ces cas, des propositions, comme prévu aux articles 52, 65 à 67 et 88 de l'ordonnance souveraine n° 7.464 du 28 juillet 1982.

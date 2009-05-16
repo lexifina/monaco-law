@@ -1,7 +1,7 @@
 # Article 26
 
-Il a compétence pour procéder à une enquête à l'égard de tout accident ou maladie professionnelle grave, pour veiller à l'application des dispositions légales et réglementaires et des consignes relatives à l'hygiène et à la sécurité, pour contrôler le bon entretien des dispositifs de protection.
+Le Comité d'Hygiène, de Sécurité et des Conditions de Travail a une compétence générale en matière de surveillance de l'hygiène et de la sécurité dans l'établissement.
 
-Il émet des vœux et avis sur toute mesure se rattachant à l'objet de sa mission.
+Il veille à l'observation des dispositions législatives et réglementaires dans ce domaine et exerce des missions de prévention et d'étude (analyse des risques professionnels et de conditions de travail) qui le conduisent à procéder à des vérifications et à donner des avis.
 
-Il produit des documents et renseignements prévus à l'article 5 de l'arrêté ministériel n° 68-361 du 12 novembre 1968. Ces documents et renseignements sont transmis au conseil d'administration.
+Il intervient enfin en cas de danger grave et imminent dans le cadre de sa mission d'alerte.

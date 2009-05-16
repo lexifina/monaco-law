@@ -4,4 +4,4 @@ Le personnel de direction de l'établissement est composé d'un directeur, secon
 
 Un troisième assistant de direction est chargé de la « Résidence du Cap Fleuri », sous l'autorité du directeur du centre hospitalier.
 
-Ln agent comptable assure la gestion comptable, sous l'autorité du directeur.
+Un agent comptable assure la gestion comptable, sous l'autorité du directeur.
