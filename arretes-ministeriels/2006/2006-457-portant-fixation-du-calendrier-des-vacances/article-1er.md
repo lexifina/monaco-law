@@ -8,7 +8,7 @@ Le calendrier des vacances de l'année 2009/2010 est fixé comme suit :
 
 - Vacances de la Toussaint
 
-- du vendredi 23 octobre 2009 après la classe au lundi 2 novembre 2009 au matin
+- du vendredi 23 octobre 2009 après la classe au mardi 3 novembre 2009 au matin
 
 - Fête nationale
 
