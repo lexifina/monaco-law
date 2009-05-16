@@ -1,1 +1,0 @@
-Arrêté municipal n° 87-44 du 17 juillet 1987 concernant les conditions de transport, de préparation, de stockage, de commercialisation et d'inspection sanitaire des produits de la mer et d'eau douce destinés à la consommation humaine
