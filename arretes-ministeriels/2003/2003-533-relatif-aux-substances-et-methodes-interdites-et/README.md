@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-533 du 21 octobre 2003 relatif aux substances et méthodes interdites et aux autorisations d'usage à des fins thérapeutiques
 
-Version en vigueur au 6 août 2005.
+Version en vigueur au 13 juin 2009.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/10-21-2003-533@2005.08.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/10-21-2003-533@2009.06.13/
 
 | | |
 | --- | --- |
