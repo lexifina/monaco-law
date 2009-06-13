@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2004-627 du 21 décembre 2004 définissant les modalités d'examen en vue de l'obtention du permis de conduire
 
-Version en vigueur au 1er février 2005.
+Version en vigueur au 13 juin 2009.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2004/12-21-2004-627@2005.02.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2004/12-21-2004-627@2009.06.13/
 
 | | |
 | --- | --- |

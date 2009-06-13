@@ -2,7 +2,7 @@
 
 Au sein des deux ensembles de catégorie suivants :
 
-1° A1, A, B, B1, B « véhicules publics » et B+E ;
+1° A1, A, B, B1 et B+E ;
 
 2° C, C+E, D, D1, D+E ;
 
