@@ -1,3 +1,3 @@
 # Article 4
 
-Les médecins agréés sont autorisés à procéder à des prélèvements d'urine, de sang, de salive et de phanères et à pratiquer une opération de dépistage, notamment de l'imprégnation alcoolique, par l'air expiré.
+Les contrôles sont réalisés par des préleveurs spécialement habilités à cet effet par arrêté ministériel, sauf lorsqu'il est fait application des dispositions de l'article 9.2 de l'ordonnance souveraine n° 15.656 du 7 février 2003 susvisée, modifiée.
