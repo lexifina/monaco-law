@@ -1,6 +1,6 @@
 # Article 14
 
-Dans le cadre d'un contrôle effectué lors d'une manifestation sportive, une convocation est remise par le médecin agréé, contre récépissé signé par le sportif désigné pour être contrôlé.
+Dans le cadre d'un contrôle effectué lors d'une manifestation sportive, une convocation est remise par le préleveur spécialement habilité à cet effet, contre récépissé signé par le sportif désigné pour être contrôlé.
 
 La convocation précise l'heure, le lieu et la nature du contrôle.
 

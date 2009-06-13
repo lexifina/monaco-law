@@ -4,4 +4,4 @@ Lorsqu'il fait appel au Centre médico-sportif pour réaliser des contrôles, le
 
 La date et le lieu de réalisation de ces contrôles sont également déterminés.
 
-Le médecin habilité peut, dans le cadre de la mission qui lui a été confiée, réaliser de sa propre initiative tout contrôle qu'il jugera approprié.
+Le préleveur spécialement habilité à cet effet peut, dans le cadre de la mission qui lui a été confiée, réaliser de sa propre initiative tout contrôle qu'il jugera approprié.
