@@ -1,6 +1,6 @@
 # Article 10
 
-Dans le cas où le résultat d'analyse de l'échantillon A serait anormal, le secrétariat permanent du Comité monégasque antidopage informe dans le même temps que le sportif, le groupement national et la fédération internationale dont il relève, ainsi que le médecin ayant réalisé le prélèvement.
+Dans le cas où le résultat d'analyse de l'échantillon A serait anormal, le secrétariat permanent du Comité monégasque antidopage informe dans le même temps que le sportif, le groupement national et la fédération internationale dont il relève, ainsi que le spécialement habilité à cet effet ayant réalisé le prélèvement.
 
 Cette notification devra mentionner :
 
