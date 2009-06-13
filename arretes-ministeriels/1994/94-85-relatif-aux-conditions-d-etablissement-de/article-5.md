@@ -2,7 +2,7 @@
 
 La liste des incapacités physiques incompatibles avec l'obtention ou le maintien des permis de conduire les véhicules des catégories :
 
-- A « cyclomoteurs », A1, A, B1, B, B + E et B « véhicules publics » ( « groupe léger ») d'une part ;
+- A « cyclomoteurs », A1, A, B1, B et B + E ( « groupe léger ») d'une part ;
 
 - C, C + E, D, D1, D + E ( « groupe lourd ») d'autre part,
 
