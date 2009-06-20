@@ -16,7 +16,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 7 - le Directeur de Cabinet du Prince
 
-8 - le Chambellan du Prince
+8 - Le Chambellan du Prince et le Premier Aide de Camp du Prince
 
 9 - les Ministres Plénipotentiaires du Prince
 
