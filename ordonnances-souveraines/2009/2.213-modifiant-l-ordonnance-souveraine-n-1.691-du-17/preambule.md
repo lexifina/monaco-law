@@ -1,0 +1,11 @@
+Vu la Constitution ;
+
+Vu l'ordonnance souveraine n° 793 du 25 août 1953 rendant exécutoire le protocole relatif à la signalisation routière signé à Genève le 19 septembre 1949 ;
+
+Vu l'ordonnance souveraine n° 1.691 du 17 décembre 1957 portant réglementation de la police de la circulation routière (Code de la route), modifiée, et notamment ses articles 117 et 120 ;
+
+Vu l'ordonnance souveraine n° 6.551 du 28 mai 1979 rendant exécutoires à Monaco la Convention sur la circulation routière faite à Vienne le 8 novembre 1968 et l'Accord européen complétant ladite Convention fait à Genève le 1er mai 1971 ;
+
+Vu Notre ordonnance n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise et des véhicules de service de ville, modifiée ;
+
+Vu l'arrêté ministériel n° 2008-451 du 8 août 2008 relatif aux conditions et aux modalités de délivrance et de renouvellement du livret professionnel ;
