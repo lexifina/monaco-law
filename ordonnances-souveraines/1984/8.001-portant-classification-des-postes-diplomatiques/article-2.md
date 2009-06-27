@@ -102,6 +102,8 @@ Les postes consulaires sont les suivants :
 
 - Mexique : Mexico ; Casablanca ;
 
+- Mongolie : Oulan-Bator ;
+
 - Mozambique (République du) ; Maputo ;
 
 - Niger : Niamey ;
