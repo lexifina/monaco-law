@@ -1,0 +1,5 @@
+# Article 23
+
+Lorsque la renonciation au bénéfice du contrat « habitation-capitalisation » intervient, soit postérieurement au paiement intégral du prix, soit en cas de divorce ou de décès du titulaire, soit encore dans les situations prévues au cinquième alinéa de l'article 34, le montant du capital exigible correspond à celui des sommes antérieurement versées en exécution du contrat, arrêtées au jour de l'extinction du contrat, déduction faite de la retenue de garantie mentionnée à l'article 8 et réactualisées à partir du jour du premier versement selon un taux identique à celui en vigueur pour l'évolution des loyers des appartements mentionnés à l'article 2 et dans des conditions prévues par ordonnance souveraine en fonction de l'évolution du coût de la vie, les intérêts versés, en cas de paiement du prix à crédit, restant acquis à l'État.
+
+Le versement du capital intervient dans le mois de la réception des pièces nécessaires au paiement telles que définies par ordonnance souveraine.
