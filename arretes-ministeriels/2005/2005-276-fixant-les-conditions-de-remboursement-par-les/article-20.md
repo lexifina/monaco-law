@@ -58,7 +58,7 @@ f . Pour les actes de remnographie, lorsque l'examen porte sur plusieurs région
 
 g . Dans les cas suivants, les actes associés sont tarifés à taux plein :
 
-- les actes de radiologie conventionnelle y compris les suppléments autorisés avec ces actes et le guidage radiologique peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes de radiologie ;
+- les actes du sous paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle - sont associés à taux plein, deux actes au plus peuvent être tarifés ;
 
 - les actes d'électromyographie, de mesures des vitesses de conduction, d'études des latences et des réflexes figurant aux sous-paragraphes 01. 01. 01. 01 - 01. 01. 01. 02 et 01. 01. 01. 03 de la Classification Commune des Actes Médicaux définie à la Section II peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes ;
 
@@ -70,9 +70,25 @@ g . Dans les cas suivants, les actes associés sont tarifés à taux plein :
 
 h . Si pour des raisons médicales ou dans l'intérêt du patient, un médecin réalise des actes à des moments différents et discontinus de la même journée, à l'exclusion de ceux effectués dans une unité de réanimation ou dans une unité de soins intensifs de cardiologie, sur un même patient et qu'il facture ces actes à taux plein, il doit le justifier dans le dossier médical du patient qui est tenu à la disposition du contrôle médical.
 
+i) Les actes de radiologie conventionnelle peuvent être associés entre eux, quel que soit leur nombre, et à d'autres actes :
+
+- quand plusieurs actes de radiologie conventionnelle sont associés, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, les autres sont tarifés à 50% de leur valeur ;
+
+- quand un ou plusieurs actes de radiologie conventionnelle sont associés à d'autres actes, l'acte dont le tarif hors modificateurs est le plus élevé parmi les actes de radiologie conventionnelle, ainsi que l'acte dont le tarif hors modificateurs est le plus élevé parmi les autres actes sont tarifés à taux plein ; les actes restants sont tarifés selon les règles qui leur sont applicables ;
+
+- quand une mammographie est associée à un acte d'échographie, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, l'autre est tarifé à 50% de sa valeur.
+
+Le guidage radiologique est considéré comme un acte de radiologie conventionnelle.
+
+Par actes de radiologie conventionnelle, on entend les actes diagnostiques de radiologie, en dehors de ceux portant sur l'appareil circulatoire du paragraphe 04.01.04, des actes par scanographie et des actes du sous-paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle.
+
+Les radiographies de l'appareil circulatoire du paragraphe 04.01.04 sont tarifées selon la règle générale.
+
 Cas particulier
 
-Quand un médecin réalise, dans le même temps des actes techniques de la Classification Commune des Actes Médicaux définie à la Section II et des actes issus de la nomenclature générale des actes professionnels, deux actes au plus peuvent être tarifés. L'acte de la nomenclature générale des actes professionnels est tarifé à 50 % de sa valeur, hors associations avec des radiographies dont le nombre n'est pas limité et qui sont tarifées à 100 %.
+Quand un médecin réalise, dans le même temps des actes techniques de la Classification Commune des Actes Médicaux définie à la Section II et des actes issus de la Nomenclature Générale des Actes Professionnels, deux actes au plus peuvent être tarifés hors actes de radiologie conventionnelle dont le nombre n'est pas limité.
+
+L'acte dont le tarif est le plus élevé est tarifé à 100% de sa valeur et le second à 50 % ; les actes de radiologie conventionnelle sont tarifés selon les règles du paragraphe i) ci-dessus.
 
 Le nombre d'actes dentaires de la nomenclature générale des actes professionnels associés n'est pas limité et ces actes sont tarifés à taux plein dans les cas qui suivent :
 
