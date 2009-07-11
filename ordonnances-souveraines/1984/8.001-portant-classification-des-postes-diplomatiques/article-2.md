@@ -46,6 +46,8 @@ Les postes consulaires sont les suivants :
 
 - Danemark : Copenhague ;
 
+- Djibouti (République de) : Djibouti ;
+
 - Égypte : Le Caire ;
 
 - Équateur : Guayaquil, Quito ;
