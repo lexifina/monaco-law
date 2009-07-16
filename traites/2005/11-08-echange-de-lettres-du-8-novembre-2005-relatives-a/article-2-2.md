@@ -1,0 +1,5 @@
+# Article 2 (2)
+
+Ils sont soumis à l'ensemble des dispositions législatives et réglementaires prévues par le Code monétaire et financier relatives à l'agrément et à la surveillance prudentielle de cette activité ainsi qu'à la mise en œuvre du mécanisme de garantie en tenant compte des dispositions spécifiques de la loi monégasque en droit pénal et en droit des sociétés et des attributions de contrôle confiées, à Monaco, à la Commission de contrôle de la gestion de portefeuilles et des activités boursières assimilées. Les établissements de crédit exerçant à la date de publication du présent échange de lettres une activité de conservation ou d'administration d'instruments financiers à Monaco sont réputés avoir reçu l'agrément prévu par les articles L. 532-3 et L. 542-1 pour l'exercice de cette activité.
+
+Pour la mise en œuvre du mécanisme de garantie des titres, la demande d'intervention du Fonds de garantie des titres par la Commission bancaire intervient après avis de la Commission de contrôle de la gestion de portefeuilles et des activités boursières assimilées.
