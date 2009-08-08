@@ -18,11 +18,11 @@ Le territoire de la Principauté est divisé en trois secteurs :
 
   - - Quartier des Bas-Moulins et du Larvotto ;
 
-  - - Quartier de « La Colle » ;
+  - - Quartier de La Colle ;
 
   - - Quartier de Malbousquet ;
 
-  - - Quartier de « La Source » ;
+  - - Quartier de La Source ;
 
   - - Quartier des Moneghetti ;
 
@@ -34,9 +34,9 @@ Le territoire de la Principauté est divisé en trois secteurs :
 
   - - Quartier de Saint-Roman.
 
-- Les ordonnances souveraines portant règlement particulier d'Urbanisme, de Construction et de Voirie des quartiers ordonnancés, rappellent les limites des quartiers ordonnancés, définissent, si nécessaire, la division en zones de chacun des quartiers ordonnancés et, éventuellement, la subdivision en îlots de ces zones.
+- Les ordonnances souveraines portant règlement particulier d'urbanisme, de construction et de voirie des quartiers ordonnancés, rappellent les limites des quartiers ordonnancés, définissent, si nécessaire, la division en zones de chacun des quartiers ordonnancés et, éventuellement, la subdivision en îlots de ces zones.
 
-- Elles définissent également les dispositions générales des constructions à édifier dans chaque quartier ordonnancé. Dès leur publication, ces ordonnances ainsi que leurs annexes peuvent être consultées par tous les intéressés à la Direction de l'Environnement, de l'Urbanisme et de la Construction.
+- Elles définissent également les dispositions générales des constructions à édifier dans chaque quartier ordonnancé. Dès leur publication, ces ordonnances ainsi que leurs annexes peuvent être consultées par tous les intéressés à la Direction de la Prospective, de l'Urbanisme et de la Mobilité.
 
 - C - Le secteur des opérations urbanisées qui comporte :
 
@@ -46,6 +46,6 @@ Le territoire de la Principauté est divisé en trois secteurs :
 
   - - une zone frontière.
 
-Le plan de zonage PU-ZG-PTE-D6, annexé à la présente ordonnance, en fixe les limites.
+Le plan de zonage PU-ZG-PTE-D7, annexé à la présente ordonnance, en fixe les limites.
 
 Toutes les constructions à édifier sur le territoire de la Principauté doivent être établies en conformité des dispositions définies par les articles ci-après, sauf dispositions contraires des règlements et des plans de coordination relatifs aux quartiers compris dans le secteur des quartiers ordonnancés.
