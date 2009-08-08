@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.022 du 19 décembre 2008 relative à l'allocation de soutien à l'emploi
 
-Version en vigueur au 27 décembre 2008.
+Version en vigueur au 8 août 2009.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/12-19-2.022@2008.12.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/12-19-2.022@2009.08.08/
 
 | | |
 | --- | --- |
