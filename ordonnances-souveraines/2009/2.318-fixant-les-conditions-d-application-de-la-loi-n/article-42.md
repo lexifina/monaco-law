@@ -1,0 +1,5 @@
+# Article 42
+
+Dès lors qu'un même donneur d'ordre procède à plusieurs virements et transferts de fonds transfrontaliers ou virements par lots, chaque opération peut ne comporter que des renseignements simplifiés, à savoir le numéro de compte ou numéro d'identification unique, conformément à l'article précédent, sous réserve que le virement par lots comprenne des informations complètes sur le donneur d'ordre.
+
+Le cas échéant, et après avoir vérifié qu'ils ne génèrent pas un risque accru de blanchiment de capitaux, de financement du terrorisme ou de corruption, les virements et transferts de fonds à caractère permanent de salaires, pensions ou retraites, même non groupés, peuvent être effectués selon les règles mentionnées au présent article. Dans ce cas, les informations complètes concernant le donneur d'ordre sont transmises avec le premier virement, lors de la mise en place du transfert à caractère permanent, et doivent être actualisées en cas de modification sensible des caractéristiques de l'opération.
