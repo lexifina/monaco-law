@@ -14,4 +14,6 @@ Pour la détermination du nombre minimum d'heures de travail visé au chiffre 2 
 
 - 6° chaque journée de congé attribuée en application de la loi n° 898 du 15 décembre 1970, pour favoriser l'éducation ouvrière et la formation syndicale ;
 
-- 7° chaque journée d'interruption de travail indemnisée au titre du congé de paternité.
+- 7° chaque journée d'interruption de travail indemnisée au titre du congé de paternité ;
+
+- 8° chaque journée d'interruption de travail indemnisée au titre du congé d'adoption.
