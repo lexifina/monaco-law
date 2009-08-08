@@ -2,11 +2,15 @@
 
 1° Sera puni d'un emprisonnement de cinq à dix ans et de l'amende prévue au chiffre 4 de l'article 26, dont le maximum pourra être porté au décuple :
 
-- quiconque aura acquis sciemment, sous quelque forme que ce soit, pour lui-même ou pour le compte d'autrui, des biens meubles ou immeubles en utilisant directement ou indirectement des biens et capitaux d'origine illicite ou aura sciemment détenu ou utilisé ces mêmes biens ;
+- - quiconque aura sciemment apporté son concours à la conversion ou au transfert de biens dont il sait qu'ils sont des biens ou capitaux d'origine illicite, dans le but de dissimuler ou de déguiser l'origine desdits biens ou d'aider toute personne impliquée dans la commission de l'infraction principale à échapper aux conséquences juridiques de ses actes ;
 
-- quiconque aura sciemment apporté son concours à toute opération de transfert, de placement, de dissimulation ou de conversion de biens et capitaux d'origine illicite ;
+- - quiconque aura sciemment participé à la dissimulation ou au déguisement de la nature véritable, de l'origine, de l'emplacement, de la disposition, du mouvement ou de la propriété de biens ou des droits y relatifs dont l'auteur sait qu'ils sont des biens ou capitaux d'origine illicite ;
 
-- quiconque aura sciemment détenu des biens et capitaux d'origine illicite, sans préjudice des dispositions relatives au recel.
+- - quiconque aura sciemment acquis, détenu ou utilisé des biens ou capitaux dont il sait, au moment où il les reçoit, qu'ils sont des biens ou capitaux d'origine illicite, sans préjudice des dispositions relatives au recel ;
+
+- - quiconque aura sciemment participé à l'une des infractions établies conformément au présent article ou à toute autre association, entente, tentative ou complicité par fourniture d'une assistance, d'une aide ou de conseils en vue de sa commission.
+
+L'élément intentionnel d'une infraction visée ci-dessus peut être déduit de circonstances factuelles objectives.
 
 2° En cas de circonstance aggravante, la peine encourue sera de dix à vingt ans d'emprisonnement ainsi que l'amende prévue au chiffre 4 de l'article 26, dont le maximum pourra être multiplié par vingt.
 
