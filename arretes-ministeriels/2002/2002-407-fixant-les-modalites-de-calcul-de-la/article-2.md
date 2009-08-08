@@ -14,7 +14,7 @@ a) le plafond de validation intermédiaire est égal à la différence entre :
 
 et
 
-- - la totalité des salaires cotisés par cet employeur.
+- la totalité des salaires cotisés par cet employeur.
 
 b) le plafond de validation global est égal à la différence entre :
 

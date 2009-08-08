@@ -6,28 +6,28 @@ Pour les titulaires d'une pension d'invalidité capables d'exercer une activité
 
 Par « période de référence ». on entend la période d'activité continue effectuée au service de l'employeur par lequel le salarié était employé lors de la survenance de l'interruption de travail, au cours des douze derniers mois précédant cette interruption.
 
-Toutefois, dans le cas où une interruption de travail indemnisée pour cause de maladie, maternité, accident du travail ou maladie professionnelle est intervenue au cours de la période de référence visée à l'alinéa précédent, le montant du salaire journalier de référence est obtenu selon le calcul ci-après :
+Toutefois, dans le cas où une interruption de travail indemnisée pour cause de maladie, maternité, paternité, adoption, accident du travail ou maladie professionnelle est intervenue au cours de la période de référence visée à l'alinéa précédent, le montant du salaire journalier de référence est obtenu selon le calcul ci-après :
 
-- 1) dans le cas où la cause de l'interruption de travail survenue au cours de la période de référence est la maladie ou la maternité :
+1) Dans le cas où la cause de l'interruption de travail survenue au cours de la période de référence est la maladie, la maternité, la paternité ou l'adoption :
 
-  - en portant au numérateur le trentième de la somme :
+- en portant au numérateur le trentième de la somme :
 
-    - des salaires acquis au cours de la période de référence ;
+* des salaires acquis au cours de la période de référence ;
 
-    - et du produit du salaire journalier ayant servi de base au calcul de l'indemnisation de l'interruption de travail survenu au cours de la période de référence, par le nombre de jours indemnisés, majoré, le cas échéant, du délai de carence de trois jours.
+* et du produit du salaire journalier ayant servi de base au calcul de l'indemnisation de l'interruption de travail survenu au cours de la période de référence, par le nombre de jours indemnisés, majoré, le cas échéant, du délai de carence de trois jours.
 
-  - en portant au dénominateur la somme :
+- en portant au dénominateur la somme :
 
-    - du nombre de mois d'activité au cours de la période de référence ;
+* du nombre de mois d'activité au cours de la période de référence ;
 
-    - et du nombre de mois complets d'indemnisation, au cours de cette même période.
+* et du nombre de mois complets d'indemnisation, au cours de cette même période.
 
-- 2) Dans le cas où la cause de l'interruption de travail survenue au cours de la période de référence est l'accident de travail ou la maladie professionnelle :
+2) Dans le cas où la cause de l'interruption de travail survenue au cours de la période de référence est l'accident de travail ou la maladie professionnelle :
 
-  - en portant au numérateur le trentième de la somme :
+- en portant au numérateur le trentième de la somme :
 
-    - des salaires acquis au cours des mois complets d'activité effectués pendant la période de référence.
+* des salaires acquis au cours des mois complets d'activité effectués pendant la période de référence.
 
-  - en portant au dénominateur :
+- en portant au dénominateur :
 
-    - le nombre de mois complets d'activité effectués au cours de la période de référence.
+* le nombre de mois complets d'activité effectués au cours de la période de référence.
