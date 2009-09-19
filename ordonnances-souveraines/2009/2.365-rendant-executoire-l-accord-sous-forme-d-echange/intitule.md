@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 2.365 du 10 septembre 2009 rendant exécutoire l'accord sous forme d'échange de lettres relatives à la garantie des investisseurs conclu entre la Principauté de Monaco et la République française le 8 novembre 2005
