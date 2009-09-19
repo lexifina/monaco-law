@@ -74,4 +74,4 @@ V. - 1. L'assujetti peut, par année civile, retenir :
 
 - 2° Pour l'ensemble de ses biens et services, un coefficient de taxation unique calculé dans les conditions du 3 du III.
 
-- 2. Les quatre coefficients mentionnés au I sont arrondis par excès à la deuxième décimale. Ils sont définitivement arrêtés avant le 25 avril de l'année suivante ou le 31 décembre de l'année suivante pour ceux qui deviennent redevables de la taxe sur la valeur ajoutée en cours d'année.
+2. Les quatre coefficients mentionnés au I sont arrondis par excès à la deuxième décimale. Ils sont définitivement arrêtés avant le 25 avril de l'année suivante ou le 31 décembre de l'année suivante pour ceux qui deviennent redevables de la taxe sur la valeur ajoutée en cours d'année.

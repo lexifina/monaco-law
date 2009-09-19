@@ -56,4 +56,6 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
 - m) Les remboursements et les rémunérations versés par l'État ou la Commune aux exploitants assurant les prestations de balayage des caniveaux et voies publiques lorsqu'elles se rattachent au service public de voirie communale ;
 
-- n) Les remboursements et les rémunérations versés par l'État ou la Commune aux exploitants assurant les prestations de déneigement des voies publiques lorsqu'elles se rattachent à un service public de voirie communale.
+- n) Les remboursements et les rémunérations versés par l'État ou la Commune aux exploitants assurant les prestations de déneigement des voies publiques lorsqu'elles se rattachent à un service public de voirie communale ;
+
+- o) les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques.

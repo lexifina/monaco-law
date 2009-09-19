@@ -10,7 +10,7 @@ Par dérogation aux dispositions de l'article 11, le lieu des prestations suivan
 
 - 2° Par dérogation au 1°, les locations de moyens de transport en vertu d'un contrat de crédit-bail lorsque:
 
-  - a)Le prestataire est établi dans un État membre de la Communauté autre que la France où l'opération de crédit-bail est assimilée à une livraison ;
+  - a) Le prestataire est établi dans un État membre de la Communauté autre que la France où l'opération de crédit-bail est assimilée à une livraison ;
 
   - b) Le preneur a à Monaco le siège de son activité ou un établissement stable pour lequel le service est rendu, ou y a son domicile ou sa résidence habituelle ;
 
