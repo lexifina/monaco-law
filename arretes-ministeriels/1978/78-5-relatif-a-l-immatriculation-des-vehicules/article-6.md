@@ -256,9 +256,9 @@ Les carnets WW pourront ne pas être renouvelés dans l'année en cas d'emploi a
 
 Le nombre des carnets attribués aux professionnels pourra de même être réduit dans une forte proportion ou leur délivrance refusée en cas d'infractions répétées.
 
-Véhicules appartenant au Ministère d'Etat, aux membres du corps diplomatique accrédités auprès de S.A.S. le Prince Souverain ainsi qu'aux membres du personnel administratif et technique des Ambassades et aux fonctionnaires des Organismes Internationaux :
+Véhicules appartenant au Ministère d'État, aux membres du corps diplomatique accrédités auprès de S.A.S. le Prince Souverain ainsi qu'aux membres du personnel administratif et technique des Ambassades et aux fonctionnaires des Organismes Internationaux :
 
-- Véhicules du Ministère d'Etat
+- Véhicules du Ministère d'État
 
 Couleur des caractères : bleu.
 
@@ -282,7 +282,7 @@ Les immatriculations des véhicules de cette sous-catégorie ne peuvent pas bén
 
 * Véhicules automobiles ou remorqués de plus de 25 ans d'âge ;
 
-* Véhicules automobiles n'ayant pu satisfaire à l'ensemble des contrôles imposés au titre de la procédure de réception à titre isolé prévue à l'article 98 de l'ordonnance n° 1691 du 17 décembre 1957 ;
+* Véhicules automobiles n'ayant pu satisfaire à l'ensemble des contrôles imposés au titre de la procédure de réception à titre isolé prévue à l'article 98 de l'ordonnance n° 1.691 du 17 décembre 1957 ;
 
 * Véhicules automobiles ne circulant qu'épisodiquement (véhicules de collection ou de compétition) ;
 
@@ -304,11 +304,17 @@ Les véhicules automobiles ou remorqués de plus de 25 ans d'âge jusqu'alors im
 
 * Couleur des caractères : bleu.
 
-* Le numéro d'immatriculation est composé de la lettre V suivie d'un groupe de 3 chiffres, soit V001 à V999 ;
+* Le numéro d'immatriculation est composé d'une lettre V suivie d'un groupe de trois chiffres, soit V001 à V999, ou bien d'un groupe de trois chiffres suivi de la lettre V, soit 001V à 999V.
 
-La location des véhicules immatriculés dans cette série doit, lorsqu'elle excède une durée de 15 jours, faire l'objet de l'agrément du service de la circulation.
+Est qualifié de " location longue durée " la mise à disposition d'un véhicule pour une durée supérieure à un an en contrepartie du versement, à titre de loyer, d'une somme d'argent.
 
-Cet agrément ne peut être accordé qu'à condition que les locataires des véhicules justifient d'une résidence à Monaco.
+La location des véhicules immatriculés dans cette série doit, lorsqu'elle excède une durée d'une année, faire l'objet de l'agrément du service des titres de circulation.
+
+Cet agrément ne peut être accordé qu'à la condition que soit communiqué le contrat de location et que le locataire justifie d'une résidence ou bien d'une activité professionnelle, commerciale ou industrielle en Principauté de Monaco au sens de l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957 portant réglementation de la police de la circulation routière (Code de la route), modifiée. Le nom ou la raison sociale du loueur et du locataire sont mentionnés sur le certificat d'immatriculation du véhicule.
+
+Est qualifié de " location courte durée " la mise à disposition d'un véhicule pour une durée égale ou inférieure à un an. Aucune condition de résidence en Principauté n'est exigée pour les locataires de ces véhicules.
+
+Les mentions " location longue durée " et " location courte durée " seront inscrites sur les certificats d'immatriculation des véhicules correspondants.
 
 Véhicules disposant d'une source d'énergie principale électrique et dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, susvisée :
 
@@ -320,7 +326,11 @@ Pour les véhicules automobiles :
 
 Pour les motocycles et assimilés y compris les cyclomoteurs :
 
-- les deux lettres VE suivies d'un groupe de deux chiffres, soit du n° VE01 au n° VE99, ou un groupe de deux chiffres suivi des deux lettres VE, soit du n° 01VE au n° 99VE.
+- les deux lettres VE suivies d'un groupe de deux chiffres, soit du n° VE01 au n° VE99,
+
+- ou un groupe de deux chiffres suivi des deux lettres VE, soit du n° 01VE au n° 99VE,
+
+- ou un groupe de deux chiffres suivi des deux lettres EV, soit du n° 01EV au n° 99EV.
 
 Véhicules appartenant aux agents consulaires honoraires accrédités auprès de S.A.S. le Prince Souverain :
 
