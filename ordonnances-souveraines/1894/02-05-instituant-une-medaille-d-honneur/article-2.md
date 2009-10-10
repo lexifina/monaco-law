@@ -11,3 +11,5 @@ La médaille d'honneur se compose de trois classes :
 Sauf les cas exceptionnels que Nous Nous réservons d'apprécier, la médaille de première classe ne sera décernée qu'à des personnes ayant déjà obtenu celle de deuxième classe.
 
 Les médailles de première et deuxième classe pourront être plusieurs fois attribuées à la même personne pour faits nouveaux à récompenser.
+
+Les durées d'ancienneté prévues au premier alinéa en ce qui concerne le service militaire sont applicables aux commissaires, officiers et agents de police ainsi qu'aux gradés et surveillants de la Maison d'Arrêt.

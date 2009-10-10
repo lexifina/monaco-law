@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 5 février 1894 instituant une médaille d'honneur
 
-Version en vigueur au 21 juillet 2007.
+Version en vigueur au 10 octobre 2009.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1894/02-05-L002589@2007.07.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1894/02-05-L002589@2009.10.10/
 
 | | |
 | --- | --- |
