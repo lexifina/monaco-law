@@ -2,7 +2,7 @@
 
 1) Annonciade (Avenue de l')
 
-Un sens unique de circulation est instauré du boulevard d'Italie jusqu'au droit de « la chapelle de l'Annonciade » et ce, dans ce sens.
+Un sens unique de circulation est instauré avenue de l'Annonciade, dans sa partie comprise entre son n° 17 et « la chapelle de l'Annonciade » et ce, dans ce sens.
 
 2) Beaux-Arts (Avenue des)
 
@@ -230,11 +230,9 @@ Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
 39) Rousse (Chemin de la)
 
-a) Un sens unique de circulation est instauré de l'avenue de l'Annonciade au boulevard d'Italie et ce, dans ce sens.
+La circulation de tous véhicules est interdite dans le chemin de la Rousse.
 
-b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
-
-Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
+Cette disposition ne s'applique pas aux véhicules d'urgence, de secours, et des riverains.
 
 40) Saint-Charles (Avenue)
 

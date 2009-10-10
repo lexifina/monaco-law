@@ -22,7 +22,7 @@ c) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 4) Antoine 1er (Quai)
 
-La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieure à 7,50 tonnes est autorisée.
+(4) abrogé)
 
 5) Armes (Place d')
 
