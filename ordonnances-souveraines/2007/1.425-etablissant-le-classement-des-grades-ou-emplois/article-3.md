@@ -112,9 +112,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Sténodactylographes (C 050)
 
-28° Dessinateur
-
-- échelle 5 (C 122)
+28° (28° abrogé)
 
 29° Éducateur de jeunes enfants
 

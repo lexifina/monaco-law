@@ -16,6 +16,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Administrateurs (A 132)
 
+3°-1 Adjoint au Directeur du Jardin Exotique
+
+- échelle des administrateurs (A 132)
+
 4° Administrateur
 
 - échelle des Administrateurs (A 132)
@@ -72,7 +76,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de service - 3ème groupe (A 070)
 
-18° Inspecteur, Chef de la Police Municipale
+18° Inspecteur-Chef, Capitaine de la Police Municipale
 
 - échelle des Chefs de division (A 090)
 
@@ -88,11 +92,19 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Rédacteurs principaux (A 110)
 
+21°-1 Régisseur Général
+
+- échelle des Chefs de section (A 100)
+
 22° Responsable Administratif - Conservatoire de Jazz
 
 - échelle des Chefs de section (A 100)
 
 23° Responsable de la Section Maintien à domicile
+
+- échelle des Rédacteurs principaux (A 110)
+
+23°-1 Responsable du Fonds Régional
 
 - échelle des Rédacteurs principaux (A 110)
 
@@ -125,6 +137,10 @@ II. Grades ou emplois spécifiques à l'enseignement
 4° Bibliothécaire spécialisé
 
 - échelle des Bibliothécaires spécialistes (A 505)
+
+4°-1 Conseiller aux Études
+
+- échelle des Conseillers d'orientation (A 460)
 
 5° Directeur adjoint à l'Académie de Musique Fondation Prince Rainier III
 

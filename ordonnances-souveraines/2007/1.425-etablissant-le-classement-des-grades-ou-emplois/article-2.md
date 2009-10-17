@@ -20,9 +20,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés (B 050)
 
-5° Aide métreur
-
-- échelle des Attachés (B 050)
+5° (5° abrogé)
 
 6° Animateur
 
@@ -44,9 +42,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés (B 050)
 
-11° Attaché à la communication
-
-- échelle des Attachés (B 050)
+11° (11° abrogé)
 
 12° Attaché principal
 
@@ -96,7 +92,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux hautement qualifiés (B 030)
 
-24° Contrôleur au Service du Mandatement
+24° Contrôleur
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
@@ -120,7 +116,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux (B 040)
 
-30° Inspecteur, chef Adjoint à la Police Municipale
+30° Inspecteur-Chef Adjoint, Lieutenant de la Police Municipale
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
@@ -172,7 +168,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Surveillants (B 420)
 
-43° Secrétaire de la Police Municipale
+43° Major de la Police Municipale
 
 - échelle des Attachés principaux hautement qualifiés (B 030)
 
