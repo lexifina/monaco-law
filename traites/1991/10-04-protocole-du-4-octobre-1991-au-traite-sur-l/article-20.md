@@ -1,0 +1,5 @@
+# Article 20
+
+1. Si les parties à un différend relatif à l'interprétation ou à l'application des Articles 7, 8 ou 15 ou, sauf si une Annexe en dispose autrement, des dispositions de toute Annexe, ou de l'Article 13, dans la mesure où celui-ci s'applique à ces Articles et dispositions, ne sont pas convenues d'un moyen de le régler dans un délai de 12 mois à partir de la demande de consultation prévue à l'Article 18, le différend est soumis à règlement, à la demande d'une quelconque partie au différend, selon la procédure prévue par l'Article 19, paragraphes 4 et 5.
+
+2. Le Tribunal arbitral n'est pas compétent pour rendre une décision ou statuer sur toute question relevant de l'Article IV du Traité sur l'Antarctique. En outre, aucune disposition du présent Protocole ne peut être interprétée comme conférant compétence ou juridiction à la Cour internationale de Justice ou à tout autre tribunal constitué dans le but de régler des différends entre les Parties pour rendre une décision ou statuer sur toute question relevant de l'Article IV du Traité sur l'Antarctique.
