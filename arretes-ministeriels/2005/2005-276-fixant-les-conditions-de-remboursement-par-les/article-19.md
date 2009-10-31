@@ -14,13 +14,13 @@ Les modificateurs et leurs codes sont les suivants :
 
   - Ces trois modificateurs ne concernent pas les forfaits et surveillances par vingt-quatre heures.
 
-  - Acte réalisé en urgence un dimanche ou un jour férié : le code est F
+  - Acte réalisé en urgence un dimanche ou un jour férié : le code est F.
 
-- Les codes U, P, S et F sont exclusifs les uns des autres et ne peuvent être facturés qu'une seule fois par intervenant quel que soit le nombre d'actes qu'il réalise.
+  - Les codes U, P, S et F sont exclusifs les uns des autres et ne peuvent être facturés qu'une seule fois par intervenant quel que soit le nombre d'actes qu'il réalise.
 
 - Majoration pour soins d'urgence faits au cabinet du médecin généraliste ou du pédiatre, après examen en urgence du patient ; le code est M
 
-- Age du patient :
+- Âge du patient :
 
   - Réalisation d'une anesthésie générale ou locorégionale chez un patient de moins de 4 ans ou de plus de 80 ans ; le code est A
 

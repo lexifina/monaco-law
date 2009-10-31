@@ -76,7 +76,7 @@ i) Les actes de radiologie conventionnelle peuvent être associés entre eux, qu
 
 - quand un ou plusieurs actes de radiologie conventionnelle sont associés à d'autres actes, l'acte dont le tarif hors modificateurs est le plus élevé parmi les actes de radiologie conventionnelle, ainsi que l'acte dont le tarif hors modificateurs est le plus élevé parmi les autres actes sont tarifés à taux plein ; les actes restants sont tarifés selon les règles qui leur sont applicables ;
 
-- quand une mammographie est associée à un acte d'échographie, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, l'autre est tarifé à 50% de sa valeur.
+- quand une mammographie est associée à un acte d'échographie du sein, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, l'autre est tarifé à 50 % de sa valeur.
 
 Le guidage radiologique est considéré comme un acte de radiologie conventionnelle.
 
