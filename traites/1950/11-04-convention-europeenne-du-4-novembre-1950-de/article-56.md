@@ -1,6 +1,6 @@
 # Article 56
 
-1.Tout État peut, au moment de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétariat général du Conseil de l'Europe, que la présente Convention s'appliquera sous réserve du paragraphe 4 du présent article à tous les territoires ou à l'un quelconque des territoires dont il assure les relations internationales.
+1. Tout État peut, au moment de la ratification ou à tout autre moment par la suite, déclarer, par notification adressée au Secrétariat général du Conseil de l'Europe, que la présente Convention s'appliquera sous réserve du paragraphe 4 du présent article à tous les territoires ou à l'un quelconque des territoires dont il assure les relations internationales.
 
 2. La Convention s'appliquera au territoire ou aux territoires désignés dans la notification à partir du trentième jour qui suivra la date à laquelle le Secrétaire général du Conseil de l'Europe aura reçu cette notification.
 
