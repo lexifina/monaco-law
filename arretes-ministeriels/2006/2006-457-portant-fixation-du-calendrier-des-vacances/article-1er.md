@@ -34,13 +34,13 @@ Le calendrier des vacances de l'année 2009/2010 est fixé comme suit :
 
 - du vendredi 2 avril 2010 après la classe au lundi 19 avril 2010 au matin
 
-- Ascension
+- Ascension et Grand Prix
 
-- jeudi 13 mai 2010
+- du mercredi 12 mai 2010 après la classe (ou l'activité sportive) au lundi 17 mai 2010 au matin
 
-- Grand Prix et Lundi de Pentecôte
+- Lundi de Pentecôte
 
-- du mercredi 19 mai 2010 après la classe au mardi 25 mai 2010 au matin
+- lundi 24 mai 2010
 
 - Fête Dieu
 
