@@ -8,4 +8,4 @@ Le centre hospitalier Princesse Grace comprend :
 
 - un secteur externe.
 
-Il comporte, en outre, un service hospitalier de gérontologie et la Maison de repos et de retraite de la « Résidence du Cap Fleuri ».
+Il comporte, en outre, un service hospitalier de gérontologie et des maisons de retraite dénommées « Résidence du Cap-Fleuri » et « A Qietüdine »
