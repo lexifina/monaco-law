@@ -1,7 +1,5 @@
 # Article 83-5
 
-Les personnes physiques coupables des infractions prévues aux articles 78, 80 à 83 encourent également les peines d'interdiction des droits civiques, civils et de famille dans les conditions prévues à l'article 27.
+Les personnes qui ont tenté de commettre l'une des infractions prévues au présent paragraphe sont exemptes de peine si, avant la consommation desdites infractions, elles en ont donné connaissance et révélé les auteurs ou les complices aux autorités administratives ou judiciaires.
 
-Une peine d'interdiction du territoire peut être prononcée à l'encontre de tout étranger reconnu coupable de l'une des infractions prévues au présent paragraphe, soit à titre définitif, soit pour une durée de dix ans au plus.
-
-L'interdiction du territoire entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant à l'expiration de sa peine d'emprisonnement ou de réclusion.
+La peine privative de liberté encourue par une personne reconnue coupable des infractions prévues par les articles 77 à 81 est réduite de moitié, si, ayant informé les autorités administratives ou judiciaires, cette dernière a permis de faire cesser les agissements incriminés et d'identifier le cas échéant les autres coupables.
