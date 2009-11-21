@@ -1,14 +1,16 @@
 # Article 1er
 
-Le jeu dénommé «STUD POKER DE CASINO» est régi par les dispositions suivantes : Le jeu du «Stud Poker de Casino» se joue avec un jeu de cinquante-deux cartes à teinte unie avec logo, de même type et de même format que les cartes de blackjack et de punto banco.
+Le jeu dénommé «Stud Poker de Casino» est régi par les dispositions suivantes :
 
-Le jeu de « Stud Poker de Casino » se joue avec un jeu de cinquante-deux cartes.
+Le jeu du «Stud Poker de Casino» se joue avec un jeu de cinquante-deux cartes.
+
+Le jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la direction.
 
 Les dispositions des articles 1 et 2 de l'arrêté ministériel n° 88-384 du 26 juillet 1988 susvisé relatives au dépôt, à la conservation, et au contrôle des cartes sont applicables aux jeux employés pour le Stud Poker de Casino.
 
-Après leur comptée et leur vérification, le croupier retourne les cartes qui sont rassemblées en un seul tas, lequel est mélangé cinq fois et coupé deux fois.
+Après leur comptée et leur vérification, le croupier retourne les cartes qui sont rassemblées en un seul tas, lequel est mélangé cinq fois et coupé deux fois. Le jeu est ensuite présenté au joueur situé à l'extérieur gauche du croupier pour une nouvelle et dernière coupe.
 
-Le jeu est ensuite présenté au joueur situé à l'extérieur gauche du croupier pour une nouvelle et dernière coupe. Le joueur place sa coupe sur la carte de coupe de couleur bleue ou noir disposée devant lui sur le tapis, afin de dissimuler la dernière carte du jeu.
+Le joueur place sa coupe sur la carte de coupe de couleur bleue ou noire disposée devant lui sur le tapis, afin de dissimuler la dernière carte du jeu.
 
 Dès lors, toute carte détachée et découverte par erreur est immédiatement brûlée.
 
@@ -16,19 +18,19 @@ Si le joueur refuse la coupe, celle-ci est proposée au joueur suivant, en allan
 
 S'il est fait usage d'un mélangeur distributeur, il n'y a pas de coupe. Après leur comptée et leur vérification, les cartes sont introduites dans l'appareil par le croupier.
 
-Le personnel affecté à la table comprend : au minimum un chef de table et un croupier-tailleur. Tous deux sont responsables de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à la table. Éventuellement un cadre peut compléter cet ensemble.
-
-Le croupier-tailleur anime la partie, invite les joueurs à miser, arrête les jeux et contrôle, avec le chef de table, le placement des mises avant le mélange et la distribution des cartes.
+Le personnel affecté à chaque table comprend un croupier-tailleur placé sous le contrôle d'un chef de table ou d'un cadre, chargé de la surveillance d'une ou plusieurs tables. Le croupier-tailleur anime la partie, invite les joueurs à miser, arrête les jeux et contrôle, avec le chef de table, le placement des mises avant le mélange et la distribution des cartes.
 
 Ces employés ne peuvent être relevés en cours de donne, de déroulement du jeu ou des paiements.
 
 La partie peut débuter en présence d'un seul joueur. Celui-ci installé à la table, assiste à la comptée et à la vérification des cartes.
 
-Le nombre de joueurs assis, seuls susceptibles d'avoir une main, correspond au nombre d' emplacements marqués sur le tapis. Il est au minimum de cinq et au maximum de sept. La numérotation de un à sept se fait suivant le sens des aiguilles d'une montre.
-
-Les joueurs ne disposent que d'une seule main et ne peuvent miser sur les emplacements vacants.
+Le nombre de joueurs assis, seuls susceptibles d'avoir une main, correspond au nombre d'emplacements marqués sur le tapis. Il est au minimum de cinq et au maximum de sept. La numérotation de un à sept se fait suivant le sens des aiguilles d'une montre.
 
 Les joueurs peuvent miser sur plusieurs cases vacantes ; toutefois, ils ne peuvent prendre connaissance que d'un seul jeu, les autres mains devant être jouées à l'aveugle.
+
+Aucune personne debout ne peut miser sur la main d'un joueur assis.
+
+Préalablement au mélange des cartes, les employés de la table vérifient que toutes les mises sont conformes, correctement placées et que leur montant, par joueur, est compris entre le minimum et le maximum autorisés à la table.
 
 Les mises exclusivement représentées par des plaques ou jetons ne peuvent être placées, modifiées ou retirées après le «rien ne va plus». Aucun enjeu sur annonce n'est toléré.
 
@@ -36,7 +38,7 @@ Le croupier distribue une carte pour chaque main, face cachée, à partir de sa 
 
 Les cartes sont, dans tous les cas, distribuées figure cachée sauf la cinquième carte du croupier qui est exposée figure visible et dont le croupier doit annoncer à haute et intelligible voix la valeur de la carte.
 
-Au fur et à mesure de la donne, elles sont disposées sur la précédente, légèrement déclarées, afin de contrôler la main. Les cartes sont distribuées à hauteur des zones de mise.
+Au fur et à mesure de la donne, elles sont disposées sur la précédente, légèrement décalées, afin de contrôler la main. Les cartes sont distribuées à hauteur des zones de mise.
 
 Une carte exposée ne constitue pas une maldonne. Elle est retournée et la donne se poursuit.
 
