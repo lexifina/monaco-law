@@ -10,7 +10,7 @@ Il ne peut être relevé en cours de donne, de déroulement du jeu ou des paieme
 
 Le jeu du « Three Card Poker » se joue avec un jeu de cinquante-deux cartes.
 
-Au début de chaque séance, il doit être fait usage de cartes neuves. Le jeu peut servir plusieurs fois mais il doit être remplacé dès qu'il n'est plus en parfait état ou sur décision de la Direction.
+Un jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction des Jeux.
 
 Les dispositions de l'article premier de l'arrêté ministériel n° 88-384 du 26 juillet 1988 relatives au dépôt, à la conservation et au contrôle des cartes sont applicables aux jeux employés pour le «Three Cark Poker», ainsi que celles relatives à l'utilisation d'un mélangeur ou du mélangeur distributeur.
 
