@@ -10,7 +10,7 @@ Le croupier ne peut être relevé qu'à la fin du paquet de cartes.
 
 Le jeu du Black Jack One Deck se joue avec un jeu de cinquante deux cartes. Les cartes du 2 au 9 ont leur valeur faciale, le 10 et les figures comptent pour dix, l'as, au choix de joueur, vaut un ou onze.
 
-Au début de chaque séance, il doit être fait usage de cartes neuves. Le jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction.
+Un jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction des Jeux.
 
 Les dispositions de l'article premier de l'arrêté ministériel susvisé relatives au dépôt, à la conservation et au contrôle des cartes sont applicables aux jeux employés pour le Black Jack One Deck.
 
