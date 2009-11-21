@@ -13,3 +13,5 @@
 - le bordereau est approuvé et signé par les participants.
 
 14.3. - Le remplacement par un inspecteur, du Directeur Adjoint ou du Sous-Directeur, est exceptionnellement autorisé dans les cas de congés ou de maladie ; les modalités de remplacement sont définies dans le règlement intérieur de la maison de jeux.
+
+14.4. - Est applicable au jeu de la banque à tout va, la procédure de relève des jetons et de comptée différée des billets telle que définie dans les articles 15, 16, 18, 19, 20 et 21 du présent arrêté.

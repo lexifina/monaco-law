@@ -15,3 +15,5 @@ Ainsi, en cas de versement de billets de banque, la comptée des billets sera ef
 - quand le résultat est approuvé par les deux parties, les plaques et jetons étalés sur la table de jeu sont reconnus à haute voix.
 
 12.4. - Lorsque l'ensemble des tables a été relevé, le cadre des Jeux et le représentant de la Direction administrative établissent respectivement un état récapitulatif de la relève de l'ensemble des tables.
+
+12.5 - Est applicable aux jeux dits «européens', la procédure de relève des jetons et de comptée différée des billets telle que définie dans les articles 15, 16, 18, 19, 20 et 21 du présent arrêté.

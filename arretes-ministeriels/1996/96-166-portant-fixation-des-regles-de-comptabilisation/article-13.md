@@ -5,3 +5,5 @@ Lorsque la direction des Jeux prendra la décision de fermer temporairement une 
 Cette relève pourra être précédée par les opérations prévues à l'article 12.2.
 
 À la réouverture de la table, l'encaisse sera reconnue dans les mêmes conditions que celles prévues pour une mise en banque.
+
+Lorsque la salle est ouverte au public, le montant de l'encaisse pourra être conservé dans la table, y compris en l'absence des employés, dès lors que celle-ci sera dotée d'un dispositif de fermeture sécurisé, dans l'hypothèse d'une interruption temporaire de son exploitation.
