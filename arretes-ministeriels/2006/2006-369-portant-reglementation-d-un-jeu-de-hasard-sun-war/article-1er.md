@@ -16,7 +16,7 @@ Il peut être fait usage :
 
 - d'un mélangeur distributeur.
 
-Au début de chaque séance, il doit être fait usage de cartes neuves. Les jeux doivent être remplacés dès qu'ils ne sont plus en parfait état ou sur décision de la Direction.
+Les jeux peuvent servir plusieurs fois mais ils doivent être remplacés dès qu'ils ne sont plus en parfait état ou sur décision de la Direction des Jeux.
 
 Les dispositions de l'article premier de l'arrêté ministériel n° 88-384 du 26 juillet 1988 relatives au dépôt, à la conservation, au contrôle et au mélange des cartes sont applicables aux jeux employés au jeu du Sun War Game ainsi que celles relatives à l'utilisation des différents mélangeurs.
 
