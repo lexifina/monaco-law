@@ -2,7 +2,7 @@
 
 Le jeu « CARRIBEAN GOLD POKER » est régi par les dispositions suivantes :
 
-1.1. - Le jeu de Carribean Gold Poker se joue avec un jeu de cinquante-deux cartes à teinte unie, de même type et de même format que les cartes de Black-Jack et de Punto Banco.
+1.1. -Le jeu de carribean gold poker se joue avec un jeu de cinquante-deux cartes.
 
 1.2. - Le personnel affecté à la table comprend : un croupier-tailleur par table et un responsable (un inspecteur ou un chef de table) pour un maximum de trois tables. Tous deux sont responsables de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à la table.
 
@@ -10,7 +10,7 @@ Le croupier-tailleur anime la partie, invite les joueurs à miser, arrête les j
 
 Ces employés ne peuvent être relevés en cours de donne, de déroulement du jeu ou des paiements.
 
-1.3 - Au début de chaque séance, il doit être fait usage de cartes neuves. Le jeu peut servir plusieurs mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état.
+1.3 - Un jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction des Jeux.
 
 En tout état de cause, les jeux utilisés lors d'une même séance sont remplacés toutes les heures, soit par un jeu neuf, soit par un jeu en parfait état.
 

@@ -4,6 +4,6 @@ Sont applicables au « CARRIBEAN GOLD POKER » les dispositions de l'arrêté mi
 
 1 - Les articles 1 et 2 en ce qui concerne les opérations de stockage et de contrôle des cartes et des dés.
 
-2 - La section III du titre II concernant les procédures change.
+2 - Les articles 14 à 17 concernant les procédures de change.
 
-3 - La section V du titre II relative aux dispositions diverses.
+3 - L'article 24 relatif aux dispositions diverses.
