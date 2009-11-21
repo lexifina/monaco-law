@@ -14,9 +14,9 @@ Ensuite, les cartes sont placées dans un sabot disposé de telle façon qu'elle
 
 - un croupier qui prépare la partie, mène le jeu, annonce les mises, passe les cartes et les récupère.
 
-- Une fois le point connu il paye ou encaisse pour le compte du banquier les masses jouées. En cas de gain pour le banquier, il effectue également le prélèvement de 5 % sur les enjeux gagnés.
+Une fois le point connu il paye ou encaisse pour le compte du banquier les masses jouées. En cas de gain pour le banquier, il effectue également le prélèvement de 5 % sur les enjeux gagnés.
 
-- un ou deux changeurs dont la fonction est d'effectuer toutes les opérations de change nécessitées par la partie, et certaines avances consenties aux clients par la Société monégasque d'avances et de recouvrement.
+- un ou deux changeurs dont la fonction est d'effectuer toutes les opérations de change nécessitées par la partie, et certaines avances consenties aux clients par la Société Financière d'Encaissement.
 
 11.4 - La main est prise par le premier joueur assis à la droite du croupier ; ce joueur va tenir le rôle du banquier jusqu'à ce qu'il perde ou décide de passer la main au joueur placé immédiatement après lui. Nul ne peut refuser la main ou, ayant la main, refuser de miser.
 
@@ -50,8 +50,10 @@ En cas d'égalité, les pontes sont maîtres de leur enjeu, pour le coup suivant
 
 Si le banquier a perdu, les joueurs sont payés à égalité et dans l'ordre des places.
 
-11.9 - Après chaque coup gagnant, le banquier doit doubler son banco précédent, déduction faite du prélèvement de 5 %, et dans la limite d'un maximum fixé pour chaque table par la Direction.
+11.8 - Après chaque coup gagnant, le banquier doit doubler son banco précédent, déduction faite du prélèvement de 5 %, et dans la limite d'un maximum fixé pour chaque table par la Direction.
 
 Lorsque ce maximum est dépassé par le jeu du doublement précité, le banquier peut limiter sa mise à ce maximum et laisser le surplus au « garage », sur la table. Lorsqu'il passe la main, la somme mise au « garage » lui est restituée par le croupier.
+
+11.9 - La Direction des Jeux peut seule autoriser la constitution d'un «garage» avant que le maximum fixé pour la table ne soit atteint. Dans ce cas, elle est tenue de préciser à l'autorité concédante le montant du « banco » à partir duquel le joueur aura la possibilité de constituer un « garage ».
 
 11.10 - Au Chemin de Fer la partie peut se poursuivre au-delà de l'heure de fermeture fixée par la maison de jeux, sous réserve que le nombre des joueurs présents et l'activité de la partie soient de nature à justifier cette tolérance. Cette prolongation est laissée à l'appréciation de la Direction des Jeux.

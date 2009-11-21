@@ -34,7 +34,7 @@ les appareils sur lesquels les clients jouent les uns contre les autres, le pour
 
 - compteur « out » qui automatiquement enregistre le nombre de crédits payés par la machine aux clients ;
 
-- compteur des «jackpots et lots cumulés' qui automatiquement enregistre le nombre des crédits payés manuellement aux clients.
+- compteur des « jackpots et lots cumulés » qui automatiquement enregistre le nombre des crédits payés manuellement aux clients.
 
 L'exploitant devra, pour chacun des appareils mis en exploitation, enregistrer l'ensemble des compteurs, y compris ceux non énumérés ci-dessus, qui sont nécessaires pour la reconstitution et le contrôle de leur fonctionnement.
 
@@ -42,7 +42,7 @@ Pour chaque machine, une fiche technique indiquant ses caractéristiques et le p
 
 Le fichier sera conservé chez le Directeur de l'exploitation avec un double de ce fichier qui devra être déposé au Secrétariat Général de la société. Il pourra leur être substitué un fichier informatisé.
 
-19.5 - Les appareils fonctionnant avec des pièces ou des jetons pourront être dotés d'une réserve de pièces, appelée » hopper «, placée à l'intérieur même de l'appareil retenant des pièces (ou des jetons) en vue du paiement direct aux clients.
+19.5 - Les appareils fonctionnant avec des pièces ou des jetons pourront être dotés d'une réserve de pièces, appelée «hopper', placée à l'intérieur même de l'appareil retenant des pièces (ou des jetons) en vue du paiement direct aux clients.
 
 Tous les » hoppers « des machines en service sont impérativement munis d'un couvercle fixé.
 

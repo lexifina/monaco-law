@@ -54,11 +54,13 @@ Le croupier « tailleur » peut donc annoncer « rien ne va plus » ; dès lors,
 
 Le croupier tailleur prend les cartes jouant pour « Punto » et les passe au joueur qui a exposé la mise la plus élevée sur cette chance. Ce dernier prend connaissance de ses cartes et se prononce pour « carte » ou « non » ou fait un « abattage ». Si le joueur refuse de prendre la main ou si aucune mise n'a été exposée sur « Punto », c'est le croupier tailleur qui prend les cartes et « table » le point devant lui en appliquant le tableau de tirage.
 
-Le croupier tailleur prend les cartes jouant pour « Banco » et les passe au banquier qui ne le retourne qu'après que le joueur jouant pour « Punto » se soit prononcé. Le croupier tailleur annonce également les points en déterminant en premier lieu de « Punto ».
+Le croupier « tailleur » prend les cartes jouant pour « banco » et les passe au banquier qui ne les retourne qu'après que le joueur jouant pour punto se soit prononcé. Le croupier tailleur annonce également les points en déterminant en premier lieu celui de punto.
 
 Si les joueurs ne demandent pas les cartes, c'est le croupier « tailleur » qui retourne les cartes, annonce les points et tire éventuellement une troisième carte, le point de « Punto » étant déterminé en premier.
 
 La Direction des Jeux se réserve le droit de refuser le passage des cartes aux clients si elle l'estime nécessaire.
+
+Le tirage de cette troisième carte est conditionné par les tableaux de tirages suivants, que le « tailleur » est chargé de faire appliquer. Il n'y a pas de tirage facultatif.
 
 Point avec deux cartes |
 

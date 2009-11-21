@@ -12,6 +12,8 @@ Le mélangeur distributeur de cartes est un appareil qui effectue le mélange au
 
 Les mélangeurs de cartes sont fixés sur des socles attenant aux tables où ils sont utilisés.
 
+La destruction ou la neutralisation des jeux de cartes s'effectue selon une périodicité fonction de l'activité des salles de jeux, sous le contrôle et la responsabilité de la Direction des Jeux ; elles peuvent être vérifiées par un agent du Service de Contrôle des Jeux, qui est obligatoirement tenu informé préalablement du déroulement de ces opérations.
+
 1.2. - Les jeux et les sabots ne sont extraits des dépôts de cartes qu'au moment où il en est fait usage. Les jeux neufs doivent être décachetés à table et vérifiés dans les conditions du deuxième contrôle ci-après définies. Pour les autres jeux, un premier contrôle des cartes doit être assuré par un cartier de la Direction des jeux. À table, en début de séance, un deuxième contrôle a lieu : les cartes sont alors étalées sur la table, les figures en dessus, et le croupier procède à leur contrôle et à leur vérification dans l'ordre de classement dit « du fabricant ».
 
 Les cartes sont ensuite brassées sur le tapis, figures en dessous en un seul tas. Cette opération, qui s'effectue les doigts écartés, porte le nom de « salade ».
@@ -26,7 +28,9 @@ Aux jeux de Black-jack et de Punto-Banco, lorsque la partie s'interrompt avant l
 
 Aux tables réservés à un seul joueur, la Direction des jeux peut, dans certaines circonstances exceptionnelles, notamment liées à la sécurité des jeux, faire procéder à un nouveau mélange des cartes en cours de taille.
 
-1.4 - Lorsque la partie est terminée, les employés, sous la surveillance de l'inspecteur de service, rangent les cartes dans l'un des « dépôts de cartes » visés à l'article 1.1. ci-dessus. Il en va de même pour les sabots.
+Chaque fois qu'une carte est détériorée, le croupier la montre ostensiblement (recto et verso) et demande son remplacement par échange, auquel il est procédé immédiatement par un inspecteur au moyen d'une carte prélevée sur un sixain prévu à cet effet.
+
+1.4. - Lorsque la partie est terminée, les employés, sous la surveillance de l'inspecteur de service, rangent les cartes dans l'un des « dépôts de cartes » visés à l'article 1.1. ci-dessus. Il en va de même pour les sabots.
 
 Dès que la séance est terminée, et avant tout nouvel usage, les jeux sont contrôlés par les cartiers qui les remettent dans l'ordre indiqué à l'article 1.2. Les jeux sont examinés pour déceler d'éventuelles marques. Toute disparition de carte parmi les jeux contrôlés, constatée à quelque moment que ce soit, doit être immédiatement signalée, avec toutes indications utiles sur les conditions dans lesquelles elle est intervenue, à l'inspecteur de service et au directeur des jeux, qui en informe le service de contrôle des jeux ; il en est de même lorsqu'une ou plusieurs cartes sont trouvées en trop ou lorsque sont découvertes des cartes marquées ou paraissant étrangères au jeu d'origine.
 

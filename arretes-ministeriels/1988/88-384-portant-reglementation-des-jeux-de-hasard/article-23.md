@@ -10,7 +10,7 @@ Le personnel concourant à l'exploitation des jeux dits automatiques comprend :
 
 - des personnels du service du contrôle opérationnel placés sous l'autorité de la Direction générale des Jeux
 
-23-1 - Le personnel d'exploitation comprend :
+23-1- Le personnel d'exploitation comprend :
 
 - des superviseurs chargés de contrôler l'exploitation des appareils et notamment de remettre les clés d'ouverture des appareils aux surveillants ou aux mécaniciens selon le cas, de prévoir le remplissage des appareils, d'appliquer les procédures comptables, de surveiller le change et d'assurer les relations avec la clientèle ;
 
