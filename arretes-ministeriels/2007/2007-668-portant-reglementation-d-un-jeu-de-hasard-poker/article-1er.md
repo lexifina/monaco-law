@@ -10,7 +10,7 @@ Il ne peut être relevé en cours de donne, de déroulement du jeu ou des paieme
 
 Le jeu dénommé « Poker Texas Hold'Hem Ultimate » se joue avec un jeu de cinquante-deux cartes.
 
-Au début de chaque séance, il doit être fait usage de cartes neuves. Le jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction des Jeux.
+Un jeu peut servir plusieurs fois mais il doit être remplacé par un jeu neuf dès qu'il n'est plus en parfait état ou sur décision de la Direction des Jeux.
 
 Après leur comptée et leur vérification par le croupier, les cartes sont mélangées et coupées selon la procédure établie par la Direction des Jeux.
 
