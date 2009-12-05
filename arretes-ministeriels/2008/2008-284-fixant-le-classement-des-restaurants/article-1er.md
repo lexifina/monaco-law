@@ -118,6 +118,10 @@ Catégorie « 2 losanges »
 
 - PULCINELLA
 
+- PROVENCE (LA)
+
+- WINE O'CLOCK
+
 - ROSE DES VENTS (LA)
 
 - SABOR DI VINO
@@ -172,6 +176,14 @@ Catégorie « 3 losanges »
 
 - RASCASSE (LA)
 
+- MOZZA
+
+- PIZZ'ART
+
+- SALIÈRE (LA)
+
+- VILLA (LA)
+
 Catégorie « 4 losanges »
 
 - MAYA BAY
@@ -192,8 +204,6 @@ Catégorie « 4 losanges »
 
 - L'INTEMPO
 
-- MANDARINE
-
 - MAXIM'S MONTE CARLO
 
 - ZEBRA SQUARE (LE)
@@ -213,6 +223,8 @@ Catégorie « 5 losanges »
 - EMPIRE (LA SALLE)
 
 - HIRONDELLE (L')
+
+- MANDARINE
 
 Catégorie « 5 losanges luxe »
 
