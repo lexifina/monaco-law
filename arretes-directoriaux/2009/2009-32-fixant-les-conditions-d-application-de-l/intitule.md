@@ -1,0 +1,1 @@
+Arrêté de la Direction des Services Judiciaires n° 2009-32 du 11 décembre 2009 fixant les conditions d'application de l'ordonnance souveraine n° 2.501 du 4 décembre 2009 reconduisant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats-stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
