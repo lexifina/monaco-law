@@ -1,18 +1,18 @@
 # Article 9
 
-La spécialité MIFEGYNE 200 mg, comprimés, ne peut être délivrée que par le Pharmacien Chef ou son remplaçant nommément désigné ou le pharmacien d'astreinte de l'établissement, sur présentation d'une ordonnance prévue à cet effet, datée et signée par le Médecin Chef ou un praticien hospitalier visés à l'article 10.
+La spécialité Mifegyne 200 mg, comprimés, ne peut être délivrée que par le Pharmacien Chef ou son remplaçant nommément désigné ou le pharmacien d'astreinte de l'établissement, sur présentation d'une ordonnance prévue à cet effet, datée et signée par le Médecin Chef ou un praticien hospitalier visés à l'article 10.
 
 Cette ordonnance comporte les renseignements suivants :
 
-- les nom, prénom, âge de la patiente et le numéro d'identification qui lui a été attribué par l'établissement hospitalier ;
+- - les nom, prénom, âge de la patiente et le numéro d'identification qui lui a été attribué par l'établissement hospitalier ;
 
-- le nom de la spécialité (MIFEGYNE 200 mg, comprimés) ;
+- - le nom de la spécialité (Mifegyne 200 mg, comprimés) ;
 
-- la quantité demandée ;
+- - la quantité demandée ;
 
-- le nombre d'unités de conditionnement ;
+- - le nombre d'unités de conditionnement ;
 
-- la mention manuscrite de l'indication « mort foetale in utero »
+- - la mention manuscrite de l'indication conforme à l'article 12.
 
 Elle ne doit en aucun cas être signée en blanc et doit être conservée pendant trois ans par le Pharmacien Chef de l'établissement.
 
