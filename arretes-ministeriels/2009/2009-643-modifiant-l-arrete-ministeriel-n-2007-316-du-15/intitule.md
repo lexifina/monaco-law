@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2009-643 du 17 décembre 2009 modifiant l'arrêté ministériel n° 2007-316 du 15 juin 2007 relatif à la détention, la distribution, la dispensation et l'administration de la spécialité Mifegyne 200 mg, comprimés
