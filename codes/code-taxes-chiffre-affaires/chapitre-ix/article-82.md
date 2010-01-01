@@ -30,9 +30,9 @@ III. - Par dérogation aux dispositions de l'article 85, l'importation d'un bien
 
 - 3° Le bien est un moyen de transport placé sous un régime d'admission temporaire, importé au sens du 1° du II, qui a été acquis ou importé :
 
-- a) Pour un bien mentionné au 1 du I avant le 1er janvier 1993, aux conditions générales d'imposition du marché intérieur d'un État membre de la Communauté européenne autre que la France et n'a pas bénéficié dans cet État, au titre de son exportation, d'une exonération ou d'un remboursement de la taxe sur la valeur ajoutée.
+  - a) Pour un bien mentionné au 1 du I avant le 1er janvier 1993, aux conditions générales d'imposition du marché intérieur d'un État membre de la Communauté européenne autre que la France et n'a pas bénéficié dans cet État, au titre de son exportation, d'une exonération ou d'un remboursement de la taxe sur la valeur ajoutée.
 
-- b) Pour un bien mentionné au 2 du I avant le 1er janvier 1995, aux conditions générales d'imposition du marché intérieur de l'Autriche, de la Finlande ou de la Suède et n'a pas bénéficié dans cet État, au titre de son exportation, d'une exonération ou d'un remboursement de la taxe sur la valeur ajoutée.
+  - b) Pour un bien mentionné au 2 du I avant le 1er janvier 1995, aux conditions générales d'imposition du marché intérieur de l'Autriche, de la Finlande ou de la Suède et n'a pas bénéficié dans cet État, au titre de son exportation, d'une exonération ou d'un remboursement de la taxe sur la valeur ajoutée.
 
 Cette condition est réputée remplie lorsque la date de première mise en service du moyen de transport est antérieure au 1er janvier 1985 pour un bien mentionné au a) ou au 1er janvier 1987 pour un bien mentionné au b) ou lorsque le montant de la taxe qui serait due au titre de l'importation est inférieur à 23 €.
 

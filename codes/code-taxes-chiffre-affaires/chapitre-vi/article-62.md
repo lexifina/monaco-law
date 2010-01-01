@@ -2,11 +2,11 @@
 
 1. La taxe sur la valeur ajoutée doit être acquittée par les personnes qui réalisent les opérations imposables, sous réserve des cas visés aux articles 48 à 50 A où le versement de la taxe peut être suspendu.
 
-Toutefois, sous réserve des exclusions visées au 1 bis, lorsque la livraison de biens ou la prestation de services est effectuée par un assujetti établi hors de Monaco et de France, la taxe est acquittée par l'acquéreur, le destinataire ou le preneur qui dispose d'un numéro d'identification à la TVA en Principauté.
+Toutefois, sous réserve des exclusions visées au 1 bis, lorsqu'une livraison de biens ou une prestation de services mentionnée à l'article 12 est effectuée par un assujetti établi hors de Monaco et de France, la taxe est acquittée par l'acquéreur, le destinataire ou le preneur qui agit en tant qu'assujetti et qui dispose d'un numéro d'identification à la TVA en Principauté.
 
 1 bis. Les assujettis établis hors de Monaco qui réalisent en Principauté des prestations constitutives de travaux immobiliers acquittent la taxe sous couvert du représentant fiscal tel que prévu à l'article 72.
 
-2. Pour les opérations imposables mentionnées aux 4°, 6° bis, 7° et 8° de l'article 12 et réalisées par un prestataire établi hors de Monaco et de la France, ainsi que pour celles qui sont mentionnées à l'article 13, la taxe doit être acquittée par le preneur. Toutefois, le prestataire est solidairement tenu avec ce dernier au paiement de la taxe.
+2. Lorsque les prestations mentionnées au 1° de l'article 11 sont fournies par un assujetti qui n'est pas établi à Monaco ou en France, la taxe doit être acquittée par le preneur.
 
 3. Pour les acquisitions intracommunautaires de biens imposables mentionnées à l'article 9, la taxe doit être acquittée par l'acquéreur. Toutefois, le vendeur est solidairement tenu avec ce dernier au paiement de la taxe, lorsque l'acquéreur est établi hors de la Principauté et de la France.
 
@@ -22,7 +22,7 @@ Les dispositions du présent article s'appliquent à compter du 1er janvier 1993
 
 6. Lorsque la facture ne correspond pas à la livraison d'une marchandise ou à l'exécution d'une prestation de services, ou fait état d'un prix qui ne doit pas être acquitté effectivement par l'acheteur, la taxe est due par la personne qui l'a facturée.
 
-6 bis. - L'assujetti en faveur duquel a été effectuée une livraison de biens et qui savait, ou ne pouvait ignorer, que tout ou partie de la taxe sur la valeur ajoutée due sur cette livraison, ou sur toute livraison antérieure des mêmes biens, ne serait pas reversée de manière frauduleuse, est solidairement tenu, avec la personne redevable, d'acquitter cette taxe.
+6 bis. L'assujetti en faveur duquel a été effectuée une livraison de biens ou une prestation de services et qui savait, ou ne pouvait ignorer, que tout ou partie de la taxe sur la valeur ajoutée due sur cette livraison, ou sur toute livraison antérieure des mêmes biens, ou sur cette prestation ou toute prestation antérieure des mêmes services, ne serait pas reversée de manière frauduleuse, est solidairement tenu, avec la personne redevable, d'acquitter cette taxe.
 
 Les dispositions du premier alinéa et celles prévues au 3 de l'article 44 ne peuvent pas être cumulativement mises en œuvre pour un même bien.
 

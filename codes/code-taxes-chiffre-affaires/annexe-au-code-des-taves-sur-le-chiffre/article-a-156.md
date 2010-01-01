@@ -14,7 +14,7 @@ La déclaration, mentionnée à l'article 74 du code. servie ligne par ligne, co
 
   - le niveau d'obligation statistique de l'opérateur et, s'il y a lieu, le nom et le numéro d'agrément lorsqu'il s'agit d'un commissionnaire en douane, de la tierce personne mentionnée à l'article A-155 ;
 
-  - Le régime de l'opération, sous réserve des dispositions du 3°.
+- Le régime de l'opération, sous réserve des dispositions du 3°.
 
 - 2° Au titre des livraisons de biens, quelle que soit leur valeur :
 

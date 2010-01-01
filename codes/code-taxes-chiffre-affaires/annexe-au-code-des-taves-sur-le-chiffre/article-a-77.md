@@ -1,6 +1,6 @@
 # Article A-77
 
-. La taxe sur la valeur ajoutée qui a grevé certains biens constituant des immobilisations et utilisés pour la réalisation d'opérations ouvrant droit à déduction peut être déduite, dans les conditions et suivant les modalités prévues au 2 et au 3, par l'entreprise utilisatrice qui n'en est pas elle-même propriétaire.
+1 La taxe sur la valeur ajoutée qui a grevé certains biens constituant des immobilisations et utilisés pour la réalisation d'opérations ouvrant droit à déduction peut être déduite, dans les conditions et suivant les modalités prévues au 2 et au 3, par l'entreprise utilisatrice qui n'en est pas elle-même propriétaire.
 
 2 La taxe déductible est celle afférente :
 

@@ -16,6 +16,8 @@ Lorsque la taxe exigible annuellement est inférieure à 4 000 € les redevable
 
 - b bis) le montant hors taxes des opérations mentionnées au 4 ter de l'article 62 réalisées ou acquises par l'assujetti ;
 
+- b ter) le montant total, hors taxe sur la valeur ajoutée, des services pour lesquels le preneur est redevable de la taxe en application, d'une part, du second alinéa du 1, d'autre part et distinctement, du 2 de l'article 62 ;
+
 - c) enfin, le montant hors taxes des transmissions mentionnées à l'article 5 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.
 
 5. Le redevable exerçant des activités de nature différente remet à la Recette des taxes une déclaration particulière pour chaque activité.

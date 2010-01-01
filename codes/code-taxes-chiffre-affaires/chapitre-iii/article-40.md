@@ -8,6 +8,8 @@
 
 - c) pour les livraisons de biens, les prestations de services et les acquisitions intracommunautaires réputées effectuées en application des dispositions du V de l'article 1er et du III de l'article 2, au moment où l'opération dans laquelle l'assujetti s'entremet est effectuée ;
 
+- c bis) pour les prestations de services pour lesquelles la taxe est due par le preneur de services en application du 2 de l'article 62, qui ont lieu de manière continue sur une période supérieure à une année et qui ne donnent pas lieu à des décomptes ou à des paiements durant cette période, à l'expiration de chaque année civile, tant qu'il n'est pas mis fin à la prestation de services ;
+
 - d) pour les livraisons à soi-même entrant dans le champ d'application de l'article 5-5°, au moment de la livraison qui doit intervenir, au plus tard, au moment de l'autorisation d'habiter prévue par l'article 143 de l'ordonnance n° 2.120 du 16 novembre 1959 concernant l'urbanisme, la construction et la voirie ; les modalités d'application du présent paragraphe sont fixées par les articles A-1 à A-3 de l'annexe au code ;
 
 - e) pour les mutations à titre onéreux ou les apports en société entrant dans le champ d'application de l'article 5-5°, à la date de l'acte qui constate l'opération ou, à défaut, au moment du transfert de propriété.
@@ -16,11 +18,13 @@
 
 - a) pour les livraisons et les achats visés au a) du 1 et pour les opérations mentionnées au d) et au e) du 1, lors de la réalisation du fait générateur.
 
-- Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de biens similaires donnant lieu à des décomptes ou à des encaissements successifs, l'exigibilité peut intervenir au moment du débit sur autorisation du directeur des services fiscaux ; elle intervient en tout état de cause dès la perception d'acomptes et à concurrence de leur montant, lorsqu'il en est demandé avant l'intervention du fait générateur ou du débit ;
+- Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de biens similaires donnant lieu à des décomptes ou à des encaissements successifs, l'exigibilité peut intervenir au moment du débit sur autorisation du directeur des Services fiscaux ; elle intervient en tout état de cause dès la perception d'acomptes et à concurrence de leur montant, lorsqu'il en est demandé avant l'intervention du fait générateur ou du débit ;
 
 - b) pour les livraisons de viandes prévues au 7° de l'article 5, lors du premier enlèvement en suite d'abattage ;
 
-- c) pour les prestations de services lors de l'encaissement des acomptes, du prix, de la rémunération ou, sur autorisation du directeur des services fiscaux, d'après les débits suivant les modalités prévues par l'article A-64 de l'annexe au code.
+- b bis) pour les prestations de services pour lesquelles la taxe est due par le preneur en application du 2 de l'article 62, lors du fait générateur, ou lors de l'encaissement des acomptes ;
+
+- c) pour les prestations de services autres que celles visées au b bis lors de l'encaissement des acomptes, du prix, de la rémunération ou, sur autorisation du directeur des Services fiscaux, d'après les débits suivant les modalités prévues par l'article A-64 de l'annexe au code.
 
 - En cas d'escompte d'un effet de commerce, la taxe est exigible à la date du paiement de l'effet par le client.
 
@@ -28,4 +32,4 @@
 
 - d) pour les acquisitions intracommunautaires, le 15 du mois suivant celui au cours duquel s'est produit le fait générateur.
 
-Toutefois, la taxe devient exigible lors de la délivrance de la facture, à condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et qu'il ne s'agisse pas d'une facture d'acompte.
+- Toutefois, la taxe devient exigible lors de la délivrance de la facture, à condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et qu'il ne s'agisse pas d'une facture d'acompte.

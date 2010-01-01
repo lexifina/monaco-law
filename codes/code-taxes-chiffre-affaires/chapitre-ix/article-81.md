@@ -34,7 +34,7 @@ III. - Sont également exonérés de la taxe sur la valeur ajoutée :
 
 - 1° La réimportation, par la personne qui les a exportés, de biens dans l'état où ils ont été exportés et qui bénéficient de la franchise des droits de douane, ou qui en bénéficieraient s'ils étaient soumis à des droits de douane ;
 
-- 2° Les prestations de services directement liées au placement d'un bien, lors de son entrée sur le territoire, sous l'un des régimes mentionnés au b du 2 du I ;
+- 2° Les prestations de services directement liées au placement d'un bien sous l'un des régimes mentionnés au b du 2 du I ;
 
 - 3° Les radoubs, réparations et transformations des navires monégasques ou français à l'étranger, à l'exception de celles de ces opérations qui portent sur des bateaux de sport ou de plaisance ;
 

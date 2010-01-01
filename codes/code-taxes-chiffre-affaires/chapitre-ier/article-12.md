@@ -1,59 +1,45 @@
 # Article 12
 
-Par dérogation aux dispositions de l'article 11, le lieu des prestations suivantes est réputé se situer à Monaco :
+Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de services suivantes :
 
-- 1° Les locations de moyens de transport:
+- 1° Les locations de moyens de transportlorsqu'elles sont de courte durée et que le moyen de transport est effectivement mis à la disposition du preneur à Monaco.
 
-  - lorsque le prestataire est établi en Principauté et le bien utilisé en Principauté ou en France ou dans un État membre de la Communauté économique européenne autre que la France ;
+- La location de courte durée s'entend de la possession ou de l'utilisation continue du moyen de transport pendant une période ne dépassant pas trente jours ou, dans le cas d'un moyen de transport maritime, quatre-vingt-dix jours ;
 
-  - lorsque le prestataire est établi en dehors de la Principauté, de la France et des États membres de la Communauté économique européenne autres que la France et le bien utilisé en Principauté ;
+- 2° Les prestations de services se rattachant à un bien immeuble situé à Monaco, y compris les prestations d'experts et d'agents immobiliers, la fourniture de logements dans le cadre du secteur hôtelier ou de secteurs ayant une fonction similaire, l'octroi de droits d'utilisation d'un bien immeuble et les prestations tendant à préparer ou à coordonner l'exécution de travaux immobiliers, telles que celles fournies par les architectes et les entreprises qui surveillent l'exécution des travaux ;
 
-- 2° Par dérogation au 1°, les locations de moyens de transport en vertu d'un contrat de crédit-bail lorsque:
+- 3° Les prestations de transport intracommunautaire de biens effectuées pour des personnes non assujetties lorsque le lieu de départ du transport est à Monaco ou en France.
 
-  - a) Le prestataire est établi dans un État membre de la Communauté autre que la France où l'opération de crédit-bail est assimilée à une livraison ;
+- On entend par transport intracommunautaire de biens, tout transport de biens dont le lieu de départ et le lieu d'arrivée sont situés sur les territoires de deux États membres différents.
 
-  - b) Le preneur a à Monaco le siège de son activité ou un établissement stable pour lequel le service est rendu, ou y a son domicile ou sa résidence habituelle ;
+- On entend par lieu de départ, le lieu où commence effectivement le transport des biens, sans tenir compte des trajets effectués pour se rendre au lieu où se trouvent les biens, et par lieu d'arrivée, le lieu où s'achève effectivement le transport des biens ;
 
-  - c) Le bien est utilisé à Monaco, en France ou dans un autre État membre de la Communauté ;
+- 4° Les prestations de transport de biens effectuées pour des personnes non assujetties autres que les transports intracommunautaires de biens et les prestations de transport de passagers, en fonction des distances parcourues à Monaco et en France ;
 
-  - d) Ces dispositions s'appliquent aux loyers échus à compter du 1er janvier 1995, à l'exception des loyers se rapportant à des contrats portant sur des biens importés avant le 1er janvier 1993 ;
+- 5° Lorsqu'elles sont matériellement exécutées ou exercées à Monaco :
 
-- 3° Les prestations de services se rattachant à un immeuble situé en Principauté ou en France, y compris les prestations tendant à préparer ou à coordonner l'exécution de travaux immobiliers et les prestations des agents immobiliers ou des experts ;
+  - a) Les prestations de services ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités ;
 
-- 4° Les prestations de transports intracommunautaires de biens meubles corporels ainsi que les prestations de services effectuées par les intermédiaires qui agissent au nom et pour le compte d'autrui et interviennent dans la fourniture de ces prestations :
+  - b) Les ventes à consommer sur place ;
 
-  - a) lorsque le lieu de départ se trouve à Monaco sauf si le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée dans un État membre autre que la France ;
+  - c) Sont réputées effectuées à Monaco les ventes à consommer sur place lorsqu'elles sont réalisées matériellement à bord de navires au cours de la partie d'un transport de passagers effectuée à Monaco ou à l'intérieur de la Communauté européenne et que le lieu de départ du transport de passagers est situé à Monaco.
 
-  - b) lorsque le lieu de départ se trouve dans un État membre de la Communauté économique européenne autre que la France et que le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée.
+- On entend par partie d'un transport de passagers effectuée à Monaco ou à l'intérieur de la Communauté, la partie d'un transport effectuée sans escale en dehors de la Communauté européenne, entre le lieu de départ et le lieu d'arrivée du transport de passagers.
 
-  - Sont considérés comme transports intracommunautaires de biens les transports dont le lieu de départ et le lieu d'arrivée se trouvent respectivement en Principauté ou en France et dans un État membre de la Communauté économique européenne autre que la France.
+- On entend par lieu de départ d'un transport de passagers, le premier point d'embarquement de passagers prévu à Monaco ou dans la Communauté européenne, le cas échéant après escale en dehors de la Communauté européenne.
 
-  - Sont assimilés à des transports intracommunautaires de biens les transports de biens, dont le lieu de départ et le lieu d'arrivée se trouvent à Monaco ou en France, lorsqu'ils sont directement liés à un transport intracommunautaire de biens ;
+- On entend par lieu d'arrivée d'un transport de passagers, le dernier point de débarquement, prévu à Monaco ou dans la Communauté européenne, pour des passagers ayant embarqué à Monaco ou dans la Communauté européenne, le cas échéant avant escale en dehors de la Communauté européenne.
 
-- 5° Les prestations de transports, autres que les transports intracommunautaires de biens meubles corporels, pour la distance parcourue à Monaco et en France;
+- Dans le cas d'un transport aller-retour, le trajet de retour est considéré comme un transport distinct ;
 
-- 6° Les prestations ci-après lorsqu'elles sont matériellement exécutées en Principauté ou en France :
+- 6° Lorsqu'elles sont matériellement exécutées à Monaco ou en France au profit d'une personne non assujettie :
 
-  - prestations culturelles, artistiques, sportives, scientifiques, éducatives, récréatives et prestations accessoires ainsi que leur organisation ;
+  - a) Les activités accessoires au transport, telles que le chargement, le déchargement, la manutention et les activités similaires ;
 
-  - opérations d'hébergement et ventes à consommer sur place ;
+  - b) Les expertises ou les travaux portant sur des biens meubles corporels ;
 
-  - prestations accessoires aux transports autres que les transports intracommunautaires de biens meubles corporels ;
+- 7° Les prestations de services fournies à une personne non assujettie par un intermédiaire agissant au nom et pour le compte d'autrui lorsque le lieu de l'opération principale est situé à Monaco ou en France ;
 
-- 6° bis Travaux et expertises portant sur des biens meubles corporels :
+- 8° La prestation de services unique d'une agence de voyages lorsqu'elle a à Monaco le siège de son activité économique ou un établissement stable à partir duquel elle a fourni cette prestation.
 
-  - a) Lorsque ces prestations sont matériellement exécutées à Monaco ou en France, sauf si le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée dans un État membre de la Communauté européenne autre que la France et si les biens sont expédiés ou transportés hors de Monaco ou de France ;
-
-  - b) Lorsque ces prestations sont matériellement exécutées dans un État membre de la Communauté européenne autre que la France et que le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée à Monaco ou en France, sauf si les biens ne sont pas expédiés ou transportés en dehors de ces États ;
-
-- 7° Les prestations accessoires aux transports intracommunautaires de biens meubles corporels, ainsi que les prestations de services effectuées par les intermédiaires qui agissent au nom et pour le compte d'autrui et interviennent dans la fourniture de ces prestations :
-
-  - a) lorsqu'elles sont matériellement exécutées à Monaco ou en France, sauf si le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée dans un État membre autre que la France ;
-
-  - b) lorsqu'elles sont matériellement exécutées dans un État membre de la Communauté économique européenne autre que la France et que le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée en Principauté ;
-
-- 8° Les prestations des intermédiaires qui agissent au nom et pour le compte d'autrui et interviennent dans des opérations autres que celles qui sont désignées au 4° et au 7° du présent article et à l'article 13 :
-
-  - a) lorsque le lieu de ces opérations est situé à Monaco ou en France sauf si le preneur a fourni au prestataire son numéro d'identification à la taxe sur la valeur ajoutée dans un État membre autre que la France ;
-
-  - b) lorsque le lieu de ces opérations est situé sur le territoire d'un État membre de la Communauté économique européenne autre que la France si le preneur a donné au prestataire son numéro d'identification à la taxe sur la valeur ajoutée en Principauté.
+- L'agence de voyages réalise une prestation de services unique lorsqu'elle agit, en son propre nom, à l'égard du client et utilise, pour la réalisation du voyage, des livraisons de biens et des prestations de services d'autres assujettis.
