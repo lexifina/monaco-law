@@ -4,4 +4,4 @@ Sur l'avenue de Grande-Bretagne, les emplacements réglementés par horodateurs 
 
 Durant ces périodes, le stationnement maximum autorisé est fixé à quatre heures.
 
-Ces emplacements sont soumis au paiement d'une redevance d'un euro et vingt centimes (1,20 euro(s)) par heure.
+Ces emplacements sont soumis au paiement d'une redevance d'un euro et trente centimes (1,30 euro(s)) par heure.
