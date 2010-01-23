@@ -80,7 +80,7 @@ Direction de l'Éducation Nationale, de la Jeunesse et des Sports
 
 - Consultation en ligne du site de la Bibliothèque Caroline (traitement mis en œuvre le 02/10/2008).
 
-Direction de l'Education Nationale, de la Jeunesse et des Sports - Centre d'informations
+Direction de l'Éducation Nationale, de la Jeunesse et des Sports - Centre d'informations
 
 - Liste des personnes susceptibles de donner des cours particuliers (traitement mis en œuvre le18/06/2002).
 
@@ -196,7 +196,7 @@ Direction du Travail
 
 - Gestion des demandeurs d'emploi (traitement mis en œuvre le 27/04/2007).
 
-Service de l'Aménagement Urbain
+Direction de l'Aménagement Urbain
 
 - Gestion interne du personnel - Section Voirie Signalisation (traitement mis en œuvre le 15/02/2001),
 
