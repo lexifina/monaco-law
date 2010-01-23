@@ -22,7 +22,7 @@ Le Comité Consultatif pour la Construction est composé ainsi qu'il suit :
 
 - le Directeur de l'Environnement ou son représentant ;
 
-- le Chef du Service de l'Aménagement Urbain ou son représentant.
+- le Directeur de l'Aménagement Urbain ou son représentant.
 
 Le Comité peut s'adjoindre des experts désignés par arrêté ministériel ; ceux-ci siègent avec voix consultative.
 
