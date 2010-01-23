@@ -96,6 +96,8 @@ Les postes consulaires sont les suivants :
 
 - Madagascar : Antananarivo ;
 
+- Mali : Bamako ;
+
 - Malte : La Valette ;
 
 - Maroc : Rabat ;
@@ -130,7 +132,9 @@ Les postes consulaires sont les suivants :
 
 - République de Bulgarie : Sofia ;
 
-- République de Maurice : Port Louis.
+- République Dominicaine : Saint Domingue ;
+
+- République de Maurice : Port Louis ;
 
 - Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
@@ -151,6 +155,8 @@ Les postes consulaires sont les suivants :
 - Suisse : Bâle, Berne, Genève, Lugano, Zurich ;
 
 - Thaïlande : Bangkok ;
+
+- Timor-Leste : Dili ;
 
 - Tunisie : Tunis ;
 
