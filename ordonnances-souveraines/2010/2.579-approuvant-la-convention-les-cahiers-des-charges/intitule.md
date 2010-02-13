@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.579 du 13 janvier 2010 approuvant la convention, les cahiers des charges et annexes de la concession du service public de nettoiement des voies publiques de la Principauté de Monaco
