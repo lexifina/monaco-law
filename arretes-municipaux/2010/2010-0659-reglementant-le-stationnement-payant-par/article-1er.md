@@ -1,0 +1,77 @@
+# Article 1er
+
+Des emplacements payants, désignés par une signalisation particulière, sont mis à la disposition des usagers pour le stationnement de leur véhicule sur les voies suivantes :
+
+- Avenue de l'Annonciade
+
+- Avenue de Roqueville, dans sa partie comprise entre le boulevard de Suisse et le boulevard Princesse Charlotte
+
+- Avenue du Berceau
+
+- Avenue de la Costa
+
+- Avenue Crovetto Frères
+
+- Avenue de Grande-Bretagne
+
+- Avenue Hector Otto
+
+- Avenue de la Madone
+
+- Avenue Pasteur
+
+- Avenue Princesse Alice
+
+- Avenue Princesse Grace
+
+- Avenue de la Quarantaine
+
+- Avenue Saint Michel
+
+- Boulevard Albert 1er
+
+- Boulevard Charles III
+
+- Boulevard de Belgique
+
+- Boulevard de Suisse
+
+- Boulevard d'Italie
+
+- Boulevard Princesse Charlotte
+
+- Boulevard Rainier III
+
+- Boulevard du Ténao
+
+- Chemin de la Turbie
+
+- Parking du Portier
+
+- Place des Moulins
+
+- Rue Bellevue
+
+- Rue Bosio
+
+- Rue des Genêts
+
+- Rue des Géraniums
+
+- Rue Grimaldi
+
+- Rue des Lauriers
+
+- Rue Louis Aureglia
+
+- Rue Louis Notari
+
+- Rue du Portier
+
+- Rue Princesse Florestine
+
+- Rue Suffren Reymond
+
+- Ruelle Saint Jean.
+
+Ces emplacements sont équipés d'appareils de type « horodateurs ». L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
