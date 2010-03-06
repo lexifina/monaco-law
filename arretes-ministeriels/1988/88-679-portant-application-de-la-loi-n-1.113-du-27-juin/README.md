@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 88-679 du 20 décembre 1988 portant application de la loi n° 1.113 du 27 juin 1988 relative à l'octroi d'une allocation spéciale en faveur de certaines catégories de demandeurs d'emploi
 
-Version en vigueur au 21 mars 2009.
+Version en vigueur au 6 mars 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1988/12-20-88-679@2009.03.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1988/12-20-88-679@2010.03.06/
 
 | | |
 | --- | --- |
