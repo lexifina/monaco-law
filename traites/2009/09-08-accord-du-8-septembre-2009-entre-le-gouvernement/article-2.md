@@ -1,0 +1,3 @@
+# Article 2
+
+Les renseignements doivent être fournis en conformité avec le présent Accord par l'autorité compétente de la Partie requise sans prendre en considération le fait que la personne concernée par les renseignements soit un résident d'une Partie, ou que les renseignements soient détenus par un résident d'une Partie. Cependant, une Partie requise n'a pas l'obligation de fournir des renseignements qui ne sont pas détenus par ses autorités ou en la possession ou le contrôle de personnes relevant de sa compétence territoriale. Pour les besoins de la phrase précédente, le terme «autorités» inclut tous les organismes gouvernementaux, les subdivisions politiques et les collectivités locales.
