@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.629 du 4 mars 2010 modifiant l'article premier de l'Ordonnance Souveraine n° 8.001 du 9 mai 1984, modifiée, portant classification des postes diplomatiques et consulaires à l'étranger
