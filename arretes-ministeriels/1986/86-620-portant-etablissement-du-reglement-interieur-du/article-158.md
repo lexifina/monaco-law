@@ -34,6 +34,4 @@ Il est accordé à tous les membres du personnel de service un repos hebdomadair
 
 - Jour de l'an ............ | 1/2 journée la veille + la journée
 
-Les agents qui le désirent pourront opter pour le 14 juillet en renonçant aux demi-journées précédant les fêtes de Noël et du Jour de l'An.
-
 Lorsque les fêtes légales tomberont un dimanche, le lundi sera considéré comme jour férié.
