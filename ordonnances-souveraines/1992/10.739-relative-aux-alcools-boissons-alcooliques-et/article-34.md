@@ -1,3 +1,3 @@
 # Article 34
 
-Les opérateurs visés au 4° du 1 du I et au a du II de l'article 4, et aux articles 8 et 9 de la présente ordonnance, sont soumis aux contrôles de l'Administration dans les conditions prévues aux articles 291 et suivants de l'ordonnance n° 2.666 du 14 août 1942.
+Les opérateurs visés au 4° du 1 du I de l'article 4, les opérateurs bénéficiant des exonérations prévues à l'article 4 bis et ceux définis à l'article 8 D sont soumis aux contrôles du service des droits de régie dans les conditions prévues aux articles 291 et suivants de l'ordonnance souveraine n° 2.666 du 14 août 1942.

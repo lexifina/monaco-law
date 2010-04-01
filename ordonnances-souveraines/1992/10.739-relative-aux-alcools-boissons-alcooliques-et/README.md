@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 10.739 du 14 décembre 1992 relative aux alcools, boissons alcooliques et produits alcooliques
 
-Version en vigueur au 1er janvier 2005.
+Version en vigueur au 1er avril 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1992/12-14-10.739@2005.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1992/12-14-10.739@2010.04.01/
 
 | | |
 | --- | --- |
