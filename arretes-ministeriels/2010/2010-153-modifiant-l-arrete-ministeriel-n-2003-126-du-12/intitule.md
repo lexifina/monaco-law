@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-153 du 24 mars 2010 modifiant l'arrêté ministériel n° 2003-126 du 12 février 2003 fixant la liste des substances qui ne peuvent être utilisées dans les produits cosmétiques en dehors des restrictions et conditions fixées par cette liste
