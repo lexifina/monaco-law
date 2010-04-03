@@ -1,12 +1,11 @@
 # Arrêté ministériel n° 91-370 du 2 juillet 1991 fixant la liste des substances classées comme stupéfiants
 
-Version en vigueur au 17 mai 1997.
+Version en vigueur au 3 avril 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/07-02-91-370@1997.05.17/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/07-02-91-370@2010.04.03/
 
 | | |
 | --- | --- |
 | Type | Texte réglementaire |
 | Nature | Arrêté ministériel |
 | Date du texte | 2 juillet 1991 |
-| Publication |  |
