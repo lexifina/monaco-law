@@ -2,7 +2,7 @@
 
 La fabrication, le transport, la vente et la détention d'alambics sans déclaration sont punis :
 
-- 1° D'une amende en principal de750 à 3 000 euros, indépendamment de la confiscation des appareils et des liquides en la possession des contrevenants, du remboursement des droits fraudés et du paiement du quintuple droit de consommation dans les conditions fixées à l'article 102 de la présente ordonnance.
+- 1° D'une amende en principal de 750 à 3 000 euros, indépendamment de la confiscation des appareils et des liquides en la possession des contrevenants, du remboursement des droits fraudés et du paiement du quintuple droit de consommation dans les conditions fixées à l'article 102 de la présente ordonnance.
 
 - 2° D'une peine de 6 jours à 6 mois de prison.
 

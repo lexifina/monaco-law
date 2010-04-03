@@ -8,6 +8,6 @@ I. - Pour l'application des dispositions visées dans la présente ordonnance, e
 
 II. - Le territoire communautaire s'entend :
 
-- 1° du territoire de la Communauté Européenne tel qu'il est défini par l'article 227 du traité du 25 mars 1957, à l'exclusion des départements français d'outre-mer, de l'île d'Helgoland, du territoire de Büsingen, de Livigno, de Campione d'Italia, des eaux italiennes du Lac de Lugano, de Ceuta, Melilla, des îles Canaries, des îles Anglo-Normandes et des îles Aland ;
+- 1° du territoire de la Communauté Européenne tel qu'il est défini par l'article 299 du traité instituant la Communauté Européenne, à l'exclusion des départements français d'outre-mer, de l'île d'Helgoland, du territoire de Büsingen, de Livigno, de Campione d'Italia, des eaux italiennes du Lac de Lugano, de Ceuta, Melilla, des îles Canaries, des îles Anglo-Normandes et des îles Aland ;
 
-- 2° de Jungholz, de Mittelberg, de l'île de Man et de Saint-Marin.
+- 2° de Jungholz, de Mittelberg, de l'île de Man, de Saint-Marin et des zones de Souveraineté du Royaume-Uni d'Akrotiri et de Dhekelia.
