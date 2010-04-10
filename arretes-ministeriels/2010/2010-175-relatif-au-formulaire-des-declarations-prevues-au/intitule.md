@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-175 du 1er avril 2010 relatif au formulaire des déclarations prévues au chapitre VI de la loi n° 1.362 du 3 août 2009, relative à la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption
