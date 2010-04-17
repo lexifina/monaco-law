@@ -1,0 +1,11 @@
+# Arrêté ministériel n° 2010-193 du 7 avril 2010 relatif aux modalités de déclaration simplifiée de conformité des traitements automatisés d'informations nominatives relatifs à la gestion des fichiers de paie des personnels
+
+Version en vigueur au 17 avril 2010.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/04-07-2010-193@2010.04.17/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 7 avril 2010 |
