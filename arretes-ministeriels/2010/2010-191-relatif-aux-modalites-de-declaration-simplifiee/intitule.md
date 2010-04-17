@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-191 du 7 avril 2010 relatif aux modalités de déclaration simplifiée de conformité des traitements automatisés d'informations nominatives portant sur la gestion des fichiers de clients et de prospects
