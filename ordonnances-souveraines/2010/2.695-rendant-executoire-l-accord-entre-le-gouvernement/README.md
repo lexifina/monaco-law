@@ -1,0 +1,12 @@
+# Ordonnance Souveraine n° 2.695 du 25 mars 2010 rendant exécutoire l'Accord entre le Gouvernement de S.A.S. le Prince de Monaco et la Commission Internationale pour l'Exploration Scientifique de la Mer Méditerranée (C.I.E.S.M.) relatif au siège de l'Organisation et à ses privilèges et immunités sur le territoire de la Principauté de Monaco
+
+Version en vigueur au 17 avril 2010.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2010/03-25-2.695@2010.04.17/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 25 mars 2010 |
+| Publication | Journal de Monaco du 16 avril 2010 |
