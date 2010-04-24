@@ -162,4 +162,6 @@ Les postes consulaires sont les suivants :
 
 - Turquie : Istanbul ;
 
-- Venezuela : Caracas.
+- Venezuela : Caracas ;
+
+- Vietnam : Hanoi.
