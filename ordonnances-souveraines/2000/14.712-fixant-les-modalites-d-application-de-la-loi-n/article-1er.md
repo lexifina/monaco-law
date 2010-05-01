@@ -2,7 +2,7 @@
 
 Pour l'application du 2ème alinéa de l'article 6 de la loi n° 1.235 du 28 décembre 2000 modifiée par la loi n° 1.291 du 21 décembre 2004, les personnes visées aux catégories 2, 3 et 4 de l'article 3 de ladite loi doivent attester que les ressources de leur foyer ne dépassent pas les montants fixés ainsi qu'il suit, étant précisé que lesdits montants ont été établis selon le principe d'une contribution égale à 30 % de leurs ressources par référence aux loyers plafonds publiés dans le cadre du règlement sur l'aide nationale au logement :
 
-Montant |
+Montant
 
 Personne seule | 48.600 euro(s)
 
