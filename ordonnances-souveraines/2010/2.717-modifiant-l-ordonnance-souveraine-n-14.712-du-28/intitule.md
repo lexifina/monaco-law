@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.717 du 20 avril 2010 modifiant l'Ordonnance Souveraine n° 14.712 du 28 décembre 2000 portant application de la loi n° 1.235 du 28 décembre 2000 relative aux conditions de location de certains locaux à usage d'habitation
