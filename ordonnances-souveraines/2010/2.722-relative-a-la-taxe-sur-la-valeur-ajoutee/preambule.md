@@ -1,0 +1,7 @@
+Vu la Constitution ;
+
+Vu la Convention fiscale franco-monégasque du 18 mai 1963 rendue exécutoire par l'ordonnance souveraine n° 3.037 du 19 août 1963 ;
+
+Vu l'ordonnance souveraine n° 11.887 du 19 février 1996 portant codification de la législation concernant les taxes sur le chiffre d'affaires, modifiée ;
+
+Vu Notre ordonnance n° 2.679 du 22 mars 2009 relative à la taxe sur la valeur ajoutée et notamment le 12° de son article 2 ;
