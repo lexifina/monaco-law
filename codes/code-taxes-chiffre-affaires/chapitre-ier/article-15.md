@@ -8,6 +8,8 @@ Peuvent sur leur demande acquitter la taxe sur la valeur ajoutée :
 
   - a) si les locaux nus donnés en location sont destinés à l'habitation ou à usage agricole ;
 
-  - b) si le preneur est non assujetti, sauf lorsque le bail fait mention de l'option par le bailleur ;
+  - b) si le preneur est non assujetti, sauf lorsque le bail fait mention de l'option par le bailleur;
 
-- 2° Les personnes qui ont passé un bail à construction ; dans ce cas, la taxe sur la valeur ajoutée est appliquée conformément au 5° de l'article 5.
+- 2° Les personnes qui consentent un bail visé au 1° bis de l'article 26 ;
+
+- 2° bis Les personnes qui réalisent une opération visée au 5 de l'article 23.

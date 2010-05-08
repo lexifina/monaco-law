@@ -4,7 +4,7 @@
 
 2. Cette disposition n'est pas applicable aux travaux réalisés sur une période de deux ans au plus:
 
-- a) qui concourent à la production d'un immeuble au sens des deuxième à sixième alinéa du c du 1 du 5° de l'article 5 ;
+- a) Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 5 ;
 
 - b) à l'issue desquels la surface de plancher hors œuvre nette des locaux existants est majorée de plus de 10 %.
 

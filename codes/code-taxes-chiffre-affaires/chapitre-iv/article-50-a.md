@@ -4,21 +4,21 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - 1° Les livraisons de biens destinés à être placés sous l'un des régimes suivants prévus par les règlements communautaires en vigueur : conduite en douane, magasins et aires de dépôt temporaire, entrepôts d'importation ou d'exportation, perfectionnement actif.
 
-- 2° Les livraisons de biens destinés à être placés sous l'un des régimes d'entrepôt fiscal suivants :
+- 2° Les livraisons de biens destinés à être placés sous l'un des régimes suivants :
 
-  - a) L'entrepôt national d'exportation.
+  - a) Le régime fiscal suspensif ; ;
 
-  - b) L'entrepôt national d'importation.
+  - b) (b abrogé) ;
 
-  - c) Le perfectionnement actif national.
+  - c) (c abrogé) ;
 
-  - d) L'entrepôt de stockage de biens négociés sur un marché à terme international et dont la liste est fixée par arrêté du Ministre d'État.
+  - d) L'entrepôt de stockage de biens négociés sur un marché à terme international et dont la liste est fixée par arrêté du Ministre d'État ;
 
   - e) L'entrepôt destiné à la fabrication de biens réalisée en commun par des entreprises, dont une au moins n'a pas d'établissement à Monaco ou en France, en exécution d'un contrat international fondé sur le partage de cette fabrication et la propriété indivise des biens produits entre les entreprises contractantes.
 
-- L'autorisation d'ouverture d'un entrepôt fiscal mentionné au d) et au e) du présent 2° est délivrée par le directeur des services fiscaux.
+- L'autorisation d'ouverture d'un régime mentionné au présent 2° est délivrée par le Directeur des services fiscaux. Cette autorisation détermine les principales caractéristiques de l'entrepôt ou du régime fiscal suspensif demandé.
 
-- 3° Les importations de biens destinés à être placés sous un régime d'entrepôt fiscal.
+- 3° Les importations de biens destinés à être placés sous un des régimes mentionnés au 2°.
 
 - 4° Les acquisitions intracommunautaires de biens destinés à être placés sous l'un des régimes mentionnés aux 1° et 2°.
 
@@ -26,7 +26,11 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - 6° Les livraisons de biens et les prestations de services effectuées sous les régimes énumérés aux 1° et 2°, avec maintien, selon le cas, d'une des situations mentionnées auxdits 1° et 2°.
 
-- 7° Les livraisons de biens placés sous le régime de l'admission temporaire en exonération totale des droits à l'importation, du transit externe ou du transit communautaire interne, avec maintien du même régime, ainsi que les prestations de services afférentes à ces livraisons.
+- 7° a) Les livraisons de biens placés sous le régime de l'admission temporaire en exonération totale des droits à l'importation, du transit externe ou du transit communautaire interne, avec maintien du même régime ;
+
+- b) Les importations de biens en provenance des départements français de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion et les importations de biens en provenance d'une partie du territoire douanier de la Communauté européenne exclue de son territoire fiscal qui rempliraient les conditions pour bénéficier du régime d'admission temporaire en exonération totale s'il s'agissait de biens en provenance de pays tiers, ainsi que les livraisons de ces biens, avec maintien du même régime ou situation ;
+
+- c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
 
 II. - 1. La sortie du bien de l'un des régimes mentionnés au I met fin à la suspension du paiement de la taxe sur la valeur ajoutée.
 
@@ -54,11 +58,19 @@ c) Dans les cas visés au a et b du présent 2, la personne qui a obtenu l'autor
 
 - 3° Lorsque le bien ne représente qu'une partie des biens placés sous le régime, la taxe afférente, selon le cas, aux opérations visées aux 1° et 2° ci-dessus, pour leur quote-part se rapportant audit bien. 4. Par dérogation au 2, la personne qui doit acquitter la taxe est dispensée du paiement lorsque le bien fait l'objet d'une exportation ou d'une livraison exonérée en vertu du I de l'article 31.
 
-III. - La personne qui a obtenu l'autorisation d'ouverture d'un entrepôt fiscal doit, au lieu de situation de l'entrepôt :
+- 4° La taxe due conformément aux 1° à 3° ci-dessus est assortie de l'intérêt de retard mentionné au I de l'article 110 lorsque les biens placés sous un régime fiscal suspensif, mentionné au a du 2° du I du présent article, en vue de leur expédition ou de leur exportation hors de Monaco et de la France, sont reversés sur le marché franco-monégasque.
 
-- 1° Tenir, par entrepôt, un registre des stocks et des mouvements de biens, et un registre devant notamment faire apparaître, pour chaque bien, la nature et le montant des opérations réalisées, les nom et adresse des fournisseurs et des clients. Les prestations de services mentionnées au I doivent faire l'objet d'une indication particulière sur ce dernier registre.
+- L'intérêt de retard est calculé à compter du premier jour du mois suivant celui au cours duquel la taxe devenue exigible a été suspendue conformément au I du présent article, jusqu'au dernier jour du mois précédant celui au cours duquel les biens sont sortis du régime fiscal suspensif.
 
-- Un arrêté du ministre d'État fixe les conditions de tenue de ces registres.
+4. Par dérogation au 2, la personne qui doit acquitter la taxe est dispensée du paiement lorsque le bien fait l'objet d'une exportation ou d'une livraison exonérée en vertu de l'article 29 ou du I de l'article 31.
+
+III. - La personne qui a obtenu l'autorisation d'ouverture d'un régime mentionné au 2° du I doit, au lieu de situation des biens :
+
+- 1° Tenir un registre des stocks et des mouvements de biens, et un registre devant notamment faire apparaître, pour chaque bien, la nature et le montant des opérations réalisées, les nom et adresse des fournisseurs et des clients. Les prestations de services mentionnées au I doivent faire l'objet d'une indication particulière sur ce dernier registre.
+
+- Les assujettis peuvent être autorisés, sur leur demande, à regrouper les informations contenues dans les registres mentionnés ci-dessus dans une comptabilité matières identifiant les biens placés sous les régimes visés, ainsi que la date d'entrée et de sortie desdits régimes.
+
+- Un arrêté du ministre d'État fixe les conditions de tenue des registres et de la comptabilité matières.
 
 - 2° Être en possession du double des factures et des différentes pièces justificatives relatives aux opérations mentionnées au I.
 

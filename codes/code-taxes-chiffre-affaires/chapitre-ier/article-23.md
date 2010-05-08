@@ -12,7 +12,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 3 - Biens usagés. Déchets neufs d'industrie et matières de récupération :
 
-- 1° Sous réserve le cas échéant, des dispositions de l'article 5 - 10° et 11°, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
+- 1° Sous réserve le cas échéant, des dispositions de l'article 5 - 1 et 2 du III, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
 
 - Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur achat à Monaco et en France, acquisition intracommunautaire, importation ou livraison à soi-même.
 
@@ -52,11 +52,9 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 8° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs de combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
 
-5 - Opérations immobilières :
+5 - 1° Les livraisons de terrains qui ne sont pas des terrains à bâtir au sens du 1° du 2 du I de l'article 5 ;
 
-- 1° Lorsqu'elles n'entrent pas dans le champ d'application de l'article 5-5°, les opérations de vente effectuées par l'administration des domaines, la commune et les établissements publics et relatives à des terrains leur appartenant.
-
-- 2° Le bail à construction.
+2° Les livraisons d'immeubles achevés depuis plus de cinq ans
 
 6 - Organismes d'utilité générale :
 
@@ -76,7 +74,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - Les associations constituées conformément à la loi n° 1.072 du 27 juin 1984 et les fondations régies par la loi n° 56 du 29 janvier 1922 dont la gestion est désintéressée et dont les activités non lucratives restent significativement prépondérantes sont également exonérées pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 60 000 €.
 
-- Les opérations mentionnées au 5° de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 60 000 €.
+- Les opérations mentionnées au I de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 60 000 €.
 
 - Lorsque la limite de 60 000 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
 
