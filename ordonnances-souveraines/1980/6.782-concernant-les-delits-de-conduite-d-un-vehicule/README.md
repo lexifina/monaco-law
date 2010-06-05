@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 6.782 du 4 mars 1980 concernant les délits de conduite d'un véhicule en état d'ivresse ou sous l'empire d'un état alcoolique
 
-Version en vigueur au 6 août 1994.
+Version en vigueur au 5 juin 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1980/03-04-6.782@1994.08.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1980/03-04-6.782@2010.06.05/
 
 | | |
 | --- | --- |
