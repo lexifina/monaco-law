@@ -136,6 +136,8 @@ Les postes consulaires sont les suivants :
 
 - République de Maurice : Port Louis ;
 
+- Roumanie : Bucarest ;
+
 - Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
 
 - Saint-Marin : Saint-Marin ;
