@@ -32,7 +32,7 @@ Ensembles de véhicules couplés composés d'un véhicule tracteur rentrant dans
 
 Au sein des catégories ci-dessus définies, un permis spécifique peut être délivré pour la conduite des véhicules des sous-catégories suivantes :
 
-- Sous-catégorie « A cyclomoteurss »:
+- Sous-catégorie « A cyclomoteurs » :
 
 Cyclomoteurs.
 
@@ -44,7 +44,7 @@ Motocyclettes légères.
 
 Tricycles et quadricycles à moteur.
 
-- Sous-catégorie «D1 » :
+- Sous-catégorie « D1 » :
 
 Véhicules automobiles affectés au transport de personnes, ayant plus de huit places assises, outre le siège du conducteur, sans excéder seize places assises ; aux véhicules de cette sous-catégorie peut être attelée une remorque dont la masse maximale autorisée n'excède pas 750 kilogrammes.
 
@@ -53,3 +53,5 @@ Pour l'application des dispositions relatives aux catégories B, D et D1, une pl
 Toutes les catégories de permis ci-dessus définies peuvent être délivrées aux personnes atteintes d'un handicap physique nécessitant l'aménagement du véhicule ; dans ce cas, l'épreuve pratique de contrôle des aptitudes et des comportements se passe sur un véhicule doté d'un tel aménagement. Mention est portée sur le document de ces conditions particulières de validité.
 
 Le permis de conduire valable pour les véhicules de la catégorie B ne permet la conduite des taxis, des véhicules de remise et des véhicules de service de ville, que s'il est assorti d'un livret professionnel avec vérification médicale obligatoire de l'aptitude physique du titulaire du permis.
+
+Le permis de conduire valable pour les véhicules de la catégorie B ne permet la conduite des ambulances que s'il est assorti d'une carte professionnelle délivrée par le service des titres de circulation après vérification médicale obligatoire de l'aptitude physique du titulaire du permis.
