@@ -12,4 +12,4 @@ Les personnes composant les équipages des véhicules spécialement adaptés au 
 
 La valeur de ces diplômes est appréciée par la commission de vérification des diplômes, instituée par l'arrêté ministériel n° 53-162 du 18 août 1953.
 
-Les intéressés doivent être titulaires depuis plus d'un an du permis de conduire catégorie B et satisfaire à un examen médical selon les conditions définies par la direction de l'action sanitaire et sociale.
+Les intéressés doivent être titulaires du permis de conduire catégorie B assorti d'une carte professionnelle délivrée par le service des titres de circulation et satisfaire à un examen médical selon les conditions définies par la direction de l'action sanitaire et sociale.
