@@ -14,11 +14,13 @@ Il est impossible de tarifer dans le même temps l'association entre :
 
 - des actes identiques :
 
-  - réalisés sur le même site anatomique, à l'exception des actes réalisés sur la main et sur le pied
+  - réalisés sur le même site anatomique, à l'exception des actes réalisés sur la main et sur le pied ;
 
   - dont les libellés comportent des informations numériques ;
 
-  - dont les libellés précisent la mention bilatérale.
+  - dont les libellés précisent la mention bilatérale ;
+
+  - d'anatomie et de cytologie pathologiques.
 
 - des actes traduisant une même action ou une même finalité diagnostique ou thérapeutique sur le même site ;
 

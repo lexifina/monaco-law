@@ -60,6 +60,8 @@ g . Dans les cas suivants, les actes associés sont tarifés à taux plein :
 
 - les actes du sous paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle - sont associés à taux plein, deux actes au plus peuvent être tarifés ;
 
+- les actes d'anatomie et de cytologie pathologiques, y compris les suppléments autorisés avec ces actes peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes d'anatomie et de cytologie pathologiques ;
+
 - les actes d'électromyographie, de mesures des vitesses de conduction, d'études des latences et des réflexes figurant aux sous-paragraphes 01. 01. 01. 01 - 01. 01. 01. 02 et 01. 01. 01. 03 de la Classification Commune des Actes Médicaux définie à la Section II peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes ;
 
 - les actes d'irradiation en radiothérapie ainsi que les suppléments autorisés avec ces actes peuvent être associés à taux plein, quel que soit le nombre d'actes ;
