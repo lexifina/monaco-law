@@ -16,17 +16,17 @@ La suppression de la participation du bénéficiaire de prestations aux frais de
 
   - e) Établissements pour adultes et enfants handicapés.
 
-- 2°) Pour les actes techniques inscrits à la nomenclature générale des actes professionnels ou à la Classification commune des actes médicaux qui sont affectés d'un coefficient égal ou supérieur à 50 ou dont la base de remboursement, hors prise en compte des modificateurs exprimés en valeur monétaire, est égale ou supérieure:
+2°) Pour les actes techniques inscrits à la Nomenclature Générale des Actes Professionnels ou à la Classification Commune des Actes Médicaux qui sont affectés d'un coefficient égal ou supérieur à 50 ou dont la base de remboursement, hors prise en compte des modificateurs exprimés en valeur monétaire, est égale ou supérieure :
 
-  - pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens non conventionnés installés en Principauté de Monaco ou sur le territoire du département français limitrophe, à 27,30 euro(s),
+- pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens non conventionnés installés en Principauté ou sur le territoire du Département français limitrophe, à 27,30 euro(s),
 
-  - pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens conventionnés et pour les soins externes hospitaliers dispensés dans les établissements publics de la Principauté, à 140,14 euro(s),
+- pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens conventionnés et pour les soins externes hospitaliers dispensés dans les établissements publics de la Principauté, à 140,14 euro(s),
 
-  - pour les autres soins, à 91 euro(s).
+- pour les actes d'anatomie et de cytologie pathologiques codifiés selon la Classification Commune des Actes Médicaux, y compris lorsqu'ils sont dispensés dans les conditions fixées aux deux alinéas précédents, et pour les autres soins, à 91,00 euro(s).
 
-Les frais des actes dentaires, des analyses de biologie et des actes d'anatomo-cyto-pathologie n'ouvrent pas droit à la suppression de la participation du bénéficiaire prévue au précédent alinéa.
+Les frais des actes dentaires et des analyses de biologie n'ouvrent pas droit à la suppression de la participation du bénéficiaire prévue au précédent alinéa.
 
-Pour l'application du 1er alinéa ci-dessus les coefficients ou les bases de remboursement de certains actes peuvent se cumuler dans les conditions suivantes :
+Pour l'application du 1er alinéa ci-dessus, les coefficients ou les bases de remboursement de certains actes peuvent se cumuler dans les conditions suivantes :
 
 Le cumul est autorisé pour :
 
@@ -34,7 +34,7 @@ Le cumul est autorisé pour :
 
 - Les actes diagnostiques et thérapeutiques dont la réalisation en établissement de santé est imposée par la sécurité des soins et les actes d'anesthésie qu'ils nécessitent.
 
-- Les coefficients ou les bases de remboursement des actes de radiodiagnostic et de ceux visés dans la liste annexée au présent arrêté ministériel ne peuvent être cumulés, ni entre eux, ni avec ceux des actes dont le cumul est autorisé.
+Les coefficients ou les bases de remboursement des actes d'anatomie et de cytologie pathologiques, de radiodiagnostic et de ceux visés dans la liste annexée au présent arrêté ministériel, ne peuvent être cumulés ni entre eux, ni avec ceux des actes dont le cumul est autorisé
 
 3°) Pour l'ensemble des frais pris en charge par l'assurance maladie intervenant dans le cadre d'une hospitalisation lorsqu'au décours de celle-ci est effectué un ou plusieurs actes thérapeutiques ou diagnostiques dont la réalisation en établissement de santé est nécessaire à la sécurité des soins et qui ouvre droit à la suppression de la participation du bénéficiaire de prestation en application du chiffre 2 ci-dessus.
 
