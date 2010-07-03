@@ -38,6 +38,8 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Boulevard d'Italie
 
+- Boulevard du Jardin Exotique
+
 - Boulevard Princesse Charlotte
 
 - Boulevard Rainier III
