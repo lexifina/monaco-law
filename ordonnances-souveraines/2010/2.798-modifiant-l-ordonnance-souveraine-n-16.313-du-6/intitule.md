@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.798 du 2 juillet 2010 modifiant l'Ordonnance Souveraine n° 16.313 du 6 mai 2004, modifiée, portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du Quartier Ordonnancé de Fontvieille
