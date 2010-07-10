@@ -8,6 +8,6 @@ Le tuteur est responsable du dommage causé par son pupille habitant avec lui.
 
 Les maîtres et les commettants sont responsables du dommage causé par leurs domestiques et préposés dans les fonctions auxquelles ils les ont employés.
 
-Les instituteurs et les artisans, du dommage causé par leurs élèves et apprentis pendant le temps qu'ils sont sous leur surveillance.
+Les artisans, du dommage causé par leurs apprentis pendant le temps qu'ils sont sous leur surveillance.
 
-La responsabilité ci-dessus a lieu, à moins que les père et mère, tuteur, instituteurs et artisans, ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité.
+La responsabilité ci-dessus a lieu, à moins que les père et mère, tuteur et artisans ne prouvent qu'ils n'ont pu empêcher le fait qui donne lieu à cette responsabilité.

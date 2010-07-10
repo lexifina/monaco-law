@@ -3,3 +3,5 @@
 Ce privilège n'a lieu qu'autant qu'il y a un acte public ou sous seing privé, dûment enregistré, contenant la déclaration de la somme due ainsi que l'espèce et la nature des choses remises en gage, ou un état annexé de leurs qualités, poids et mesures.
 
 La rédaction de l'acte par écrit et son enregistrement ne sont néanmoins prescrits qu'en matière excédant la valeur de 760 euros.
+
+Par dérogation aux précédents alinéas, les actes garantissant les prêts octroyés par la personne physique ou morale à laquelle est concédée l'autorisation de se livrer à des opérations de prêt sur gage ne sont pas soumis à enregistrement.
