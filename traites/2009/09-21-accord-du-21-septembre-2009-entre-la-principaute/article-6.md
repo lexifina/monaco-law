@@ -1,0 +1,7 @@
+# Article 6
+
+1. Par notification préalable motivée, la Partie requérante peut demander que la Partie requise autorise des représentants de l'autorité compétente de la Partie requérante à entrer sur le territoire de la Partie requise, dans la mesure où cela est conforme à sa législation, pour interroger des personnes physiques et examiner des rapports avec le consentement écrit préalable desdites personnes physiques ou autres personnes concernées. L'autorité compétente de la Partie requise notifie à l'autorité compétente de la Partie requérante la date et le lieu de la réunion avec les individus concernés.
+
+2. À la demande de l'autorité compétente de la Partie requérante, l'autorité compétente de la Partie requise peut autoriser des représentants de l'autorité compétente de la Partie requérante à assister à la phase appropriée d'un contrôle fiscal sur le territoire de la Partie requise.
+
+3. Si la demande visée au paragraphe 2 est acceptée, l'autorité compétente de la Partie requise qui conduit le contrôle fait connaître, aussitôt que possible, à l'autorité compétente de la Partie requérante, la date et le lieu du contrôle, l'autorité ou le fonctionnaire désigné pour conduire le contrôle ainsi que les procédures et conditions exigées par la Partie requise pour la conduite du contrôle. Toute décision relative à la conduite du contrôle fiscal est prise par la Partie requise qui conduit le contrôle.
