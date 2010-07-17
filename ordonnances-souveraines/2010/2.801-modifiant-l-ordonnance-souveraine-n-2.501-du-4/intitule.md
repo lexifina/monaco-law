@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.801 du 6 juillet 2010 modifiant l'Ordonnance Souveraine n° 2.501 du 4 décembre 2009 prorogeant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
