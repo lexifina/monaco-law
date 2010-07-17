@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-415 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse de compensation des services sociaux
 
-Version en vigueur au 28 février 2009.
+Version en vigueur au 17 juillet 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/07-31-2003-415@2009.02.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/07-31-2003-415@2010.07.17/
 
 | | |
 | --- | --- |

@@ -214,7 +214,7 @@ Actes dispensés par les auxiliaires médicaux | |
 
 AMC | Actes pratiqués par le kinésithérapeute | 2,29 euro(s)
 
-AMI | Actes pratiqués par l'infirmier | 2,90 euro(s)
+AMI | Actes pratiqués par l'infirmier | 3,15 euro(s)
 
 AMY | Actes pratiqués par l'orthoptiste | 2,38 euro(s)
 
@@ -239,6 +239,10 @@ D | Soins dentaires | 3,99 euro(s)
 B, BR, BM | Actes de biologie | 0,27 euro(s)
 
 BP | Actes d'anatomo-cytho-pathologie | 0,29 euro(s)
+
+AMO | Actes pratiqués par l'Orthophoniste | 2,40 euro(s)
+
+DAMO | Indemnité de déplacement pour l'Orthophoniste | 1,52 euro(s)
 
 C - Frais pharmaceutiques
 
