@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.833 du 15 juillet 2010 rendant exécutoire l'Accord entre la Principauté de Monaco et l'État du Qatar tendant à éviter les doubles impositions et à prévenir la fraude fiscale en matière d'impôts sur le revenu, signé à Doha le 16 septembre 2009
