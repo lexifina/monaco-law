@@ -14,7 +14,7 @@ Cotations correspondantes à utiliser pour les prélèvements effectués par les
 
 9050 - | Prélèvements par ponction veineuse directe ............ | 1,5
 
-9051- | Prélèvements par ponction veineuse directe sur les enfants de moins de cinq ans (réservés aux directeurs et directeurs adjoints de laboratoire) ............ 5 |
+9051- | Prélèvements par ponction veineuse directe sur les enfants de moins de cinq ans (réservés aux directeurs et directeurs adjoints de laboratoire) ............ | 5
 
 9052 - | Prélèvements aseptiques à différents niveaux des muqueuses ou de la peau, quel qu'en soit le nombre, pour examen cytologique, bactériologique, parasitologique, mycologique ou virologique, à l'exception de biopsies ............ | 3
 

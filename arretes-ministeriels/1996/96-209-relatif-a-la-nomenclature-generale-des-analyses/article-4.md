@@ -4,8 +4,30 @@ La cotation minimale d'un ou de plusieurs actes de biologie médicale sur prél�
 
 Lorsque cette règle a lieu de s'appliquer, le complément de facturation pour atteindre la cotation minimale est assimilé à un acte, soit :
 
-9905 - | Complément à la cotation minimale | B 5
+9905 | Complément à la cotation minimale de valeur B 5 | B 5
 
-9910 - | Complément à la cotation minimale ............ | B 10
+9910 | Complément à la cotation minimale de valeur B 10 | B 10
 
-9915 - | Complément à la cotation minimale ............ | B 15
+9915 | Complément à la cotation minimale de valeur B 15 | B 15
+
+9916 | Complément à la cotation minimale de valeur B 1 | B 1
+
+9917 | Complément à la cotation minimale de valeur B 2 | B 2
+
+9918 | Complément à la cotation minimale de valeur B 3 | B 3
+
+9919 | Complément à la cotation minimale de valeur B 4 | B 4
+
+9920 | Complément à la cotation minimale de valeur B 6 | B 6
+
+9921 | Complément à la cotation minimale de valeur B 7 | B 7
+
+9922 | Complément à la cotation minimale de valeur B 8 | B 8
+
+9923 | Complément à la cotation minimale de valeur B 9 | B 9
+
+9924 | Complément à la cotation minimale de valeur B 11 | B 11
+
+9925 | Complément à la cotation minimale de valeur B 12 | B 12
+
+9926 | Complément à la cotation minimale de valeur B 13 | B 13
