@@ -68,6 +68,8 @@ Catégorie « 2 losanges »
 
 - AURORE (L')
 
+- B'AIRS
+
 - CIGALE DI MARE (LA)
 
 - DAUPHIN VERT (LE)
@@ -208,6 +210,8 @@ Catégorie « 4 losanges »
 
 - ZEBRA SQUARE (LE)
 
+- BLACK LEGEND
+
 Catégorie « 5 losanges »
 
 - ARGENTIN (L')
@@ -235,5 +239,7 @@ Catégorie « 5 losanges luxe »
 - VISTAMAR (LE)
 
 - LOUIS XV (LE)
+
+- YOSHI
 
 Les établissements LE BAOBAB et BEEF BAR sont classés en 0 losange.
