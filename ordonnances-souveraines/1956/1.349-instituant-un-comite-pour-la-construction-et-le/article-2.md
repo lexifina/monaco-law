@@ -14,7 +14,7 @@ Le Comité Consultatif pour la Construction est composé ainsi qu'il suit :
 
 - deux représentants du Conseil Communal ;
 
-- deux représentants du Conseil de l'Ordre des Architectes dont le Président ;
+- deux représentants du Conseil de l'Ordre des Architectes ;
 
 - le Président du Comité des Traditions Monégasques ou son représentant ;
 
