@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-425 du 4 août 2010 relatif au montant du patrimoine des fondations rendant obligatoire la désignation d'un commissaire aux comptes, et à la valeur des libéralités mobilières devant être autorisées par ordonnance souveraine après avis de la Commission de Surveillance des Fondations et délibération du Conseil d'État
