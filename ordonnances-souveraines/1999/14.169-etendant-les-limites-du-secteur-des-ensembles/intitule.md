@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 14.169 du 5 octobre 1999 étendant les limites du secteur des ensembles ordonnancés à la partie inférieure du quartier du Ténao et fixant les conditions d'utilisation des parcelles intéressées
