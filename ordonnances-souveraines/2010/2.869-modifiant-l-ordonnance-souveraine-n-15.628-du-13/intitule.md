@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.869 du 3 août 2010 modifiant l'Ordonnance Souveraine n° 15.628 du 13 janvier 2003 portant délimitation, plans de coordination et règlement particulier d'urbanisme, de construction et de voirie du Quartier Ordonnancé des Bas-Moulins et du Larvotto, modifiée
