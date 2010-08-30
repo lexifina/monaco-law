@@ -56,7 +56,7 @@ Les droits applicables, conformément aux dispositions de la loi n° 606 du 20 j
 
 - droit de retard |
 
-3°) Revendication de priorités multiples, par priorité au-dessus de la première : 16 euros
+3) Droit de priorité, pour chaque priorité invoquée, en cas de revendication de priorités multiples : 24 euros
 
 4°) Droit de prolongation à 18 mois de l'ajournement de délivrance: 18 euros
 
