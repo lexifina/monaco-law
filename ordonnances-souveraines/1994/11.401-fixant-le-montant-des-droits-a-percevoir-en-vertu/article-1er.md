@@ -16,7 +16,7 @@ Il est perçu pour la délivrance des pièces énumérées à l'article 3 de la 
 
 * autorisation de louer en meublé (par an)............ | 12 euro(s)
 
-* photocopie certifiée conforme ............ | 1,5 euro(s)
+* photocopie certifiée conforme ............ | 3 euro(s)
 
 6 - certificat de vie ............ | 0,50 euro(s)
 
