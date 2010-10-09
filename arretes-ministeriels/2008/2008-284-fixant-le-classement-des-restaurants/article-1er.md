@@ -186,6 +186,10 @@ Catégorie « 3 losanges »
 
 - VILLA (LA)
 
+- FUSION ON THE PORT
+
+- NI TAPAS
+
 Catégorie « 4 losanges »
 
 - MAYA BAY
