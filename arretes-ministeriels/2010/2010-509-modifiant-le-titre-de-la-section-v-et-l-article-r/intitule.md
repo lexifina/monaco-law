@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-509 du 4 octobre 2010 modifiant le titre de la section V et l'article R 29 du règlement de sécurité annexé à l'arrêté ministériel n° 67-264 du 17 octobre 1967 relatif à la protection contre les risques d'incendie et de panique dans les établissements recevant du public, modifié
