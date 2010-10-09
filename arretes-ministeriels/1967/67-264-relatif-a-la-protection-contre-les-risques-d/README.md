@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 67-264 du 17 octobre 1967 relatif à la protection contre les risques d'incendie et de panique dans les établissements recevant du public
 
-Version en vigueur au 18 août 2001.
+Version en vigueur au 9 octobre 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1967/10-17-67-264@2001.08.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1967/10-17-67-264@2010.10.09/
 
 | | |
 | --- | --- |
