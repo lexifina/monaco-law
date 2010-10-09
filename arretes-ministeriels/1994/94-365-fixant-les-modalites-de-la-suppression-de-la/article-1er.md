@@ -20,7 +20,7 @@ La suppression de la participation du bénéficiaire de prestations aux frais de
 
 - pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens non conventionnés installés en Principauté ou sur le territoire du Département français limitrophe, à 27,30 euro(s),
 
-- pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens conventionnés et pour les soins externes hospitaliers dispensés dans les établissements publics de la Principauté, à 140,14 euro(s),
+-pour les soins dispensés dans le cadre d'une activité privée ou libérale par des praticiens conventionnés et pour les soins externes hospitaliers dispensés dans les établissements publics de la Principauté, à 141,96 euro(s),
 
 - pour les actes d'anatomie et de cytologie pathologiques codifiés selon la Classification Commune des Actes Médicaux, y compris lorsqu'ils sont dispensés dans les conditions fixées aux deux alinéas précédents, et pour les autres soins, à 91,00 euro(s).
 
