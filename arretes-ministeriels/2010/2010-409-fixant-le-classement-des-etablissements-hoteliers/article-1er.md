@@ -20,13 +20,13 @@ Ni Hôtel1bis, rue Grimaldi MONACO | 3 étoiles
 
 Port Palace7, avenue Président J.F. Kennedy MONACO | 4 étoiles
 
-Hôtel HermitageSquare Beaumarchais MONACO | 4 étoiles
-
 Méridien Beach Plaza Monte-Carlo22, avenue Princesse Grace MONACO | 4 étoiles
 
 Monte-Carlo Bay Hôtel and Resort40, avenue Princesse Grace MONACO | 4 étoiles
 
 Fairmont Monte-Carlo12, avenue des Spélugues MONACO | 4 étoiles
+
+Hôtel HermitageSquare Beaumarchais MONACO | 5 étoiles
 
 Monte-Carlo Beach HôtelSporting d'Hiver Place du Casino MONACO | 5 étoiles
 
