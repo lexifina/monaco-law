@@ -1,0 +1,1 @@
+Vu l'ordonnance souveraine n° 2.578 du 13 janvier 2010 approuvant le traité, les annexes et les cahiers des charges de la concession du service public de la distribution de l'énergie électrique et du gaz naturel sur le territoire de la Principauté de Monaco ;
