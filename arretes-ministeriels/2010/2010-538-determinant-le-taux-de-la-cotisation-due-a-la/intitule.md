@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-538 du 22 octobre 2010 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2010-2011
