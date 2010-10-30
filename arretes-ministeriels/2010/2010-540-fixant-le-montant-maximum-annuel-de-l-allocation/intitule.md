@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-540 du 22 octobre 2010 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2009-2010
