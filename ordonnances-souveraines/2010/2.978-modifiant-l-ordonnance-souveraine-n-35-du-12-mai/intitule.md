@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 2.978 du 2 novembre 2010 modifiant l'ordonnance souveraine n° 35 du 12 mai 2005 portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du quartier ordonnancé des Moneghetti
