@@ -14,4 +14,4 @@ Astreinte de sécurité :
 
 - Indemnité due pour chaque déplacement ............ | 63,11 euro(s)
 
-Le montant cumulé des indemnités perçues au titre d'une astreinte opérationnelle ou d'une astreinte de sécurité ne peut excéder le tarif d'une garde, soit 298,37 euro(s).
+Le montant cumulé des indemnités perçues au titre d'une astreinte opérationnelle ou d'une astreinte de sécurité ne peut excéder le tarif d'une garde, soit 299,86 euro(s).
