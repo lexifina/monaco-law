@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-563 du 5 novembre 2010 modifiant l'arrêté ministériel n° 98-630 du 29 décembre 1998 relatif à l'organisation et à l'indemnisation des gardes et astreintes au Centre Hospitalier Princesse Grace, modifié
