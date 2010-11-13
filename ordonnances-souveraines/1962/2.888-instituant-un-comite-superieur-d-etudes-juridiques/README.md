@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.888 du 11 octobre 1962 instituant un comité supérieur d'études juridiques
 
-Version en vigueur au 23 octobre 1962.
+Version en vigueur au 13 novembre 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1962/10-11-2.888@1962.10.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1962/10-11-2.888@2010.11.13/
 
 | | |
 | --- | --- |
