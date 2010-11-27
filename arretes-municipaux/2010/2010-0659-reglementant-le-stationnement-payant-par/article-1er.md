@@ -34,6 +34,8 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Boulevard de Belgique
 
+- Boulevard des Moulins
+
 - Boulevard de Suisse
 
 - Boulevard d'Italie
@@ -60,7 +62,7 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Rue des Géraniums
 
-- Rue Grimaldi
+- Rue Grimaldi (partie basse comprise entre l'avenue d'Ostende et la rue Suffren Reymond, et partie haute comprise entre la rue Suffren Reymond et la rue Princesse Caroline)
 
 - Rue des Lauriers
 
@@ -76,4 +78,4 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Ruelle Saint Jean.
 
-Ces emplacements sont équipés d'appareils de type « horodateurs ». L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
+Ces emplacements sont équipés d'appareils de type » horodateurs ". L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
