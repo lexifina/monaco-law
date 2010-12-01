@@ -1,0 +1,5 @@
+# Article 8
+
+Tout renseignement reçu par un État contractant en vertu du présent Accord est tenu confidentiel et ne peut être divulgué qu'aux personnes ou autorités (y compris les tribunaux et les organes administratifs) relevant de la compétence de l'État contractant qui sont concernées par l'établissement, la perception, le recouvrement ou l'exécution des impôts visés par le présent accord, ou par les poursuites ou les décisions en matière de recours se rapportant à ces impôts.
+
+Ces personnes et autorités ne peuvent utiliser ces renseignements qu'à ces fins. Elles peuvent en faire état lors d'audiences publiques de tribunaux ou dans des décisions judiciaires. Les renseignements ne peuvent être divulgués à toute autre personne, entité ou autorité ou à toute autre autorité étrangère sans l'autorisation écrite expresse de l'Autorité compétente de l'État requis.
