@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.021 du 26 novembre 2010 rendant exécutoire l'échange de lettres du 20 octobre 2010 remplaçant l'Accord sous forme d'échange de lettres du 27 novembre 1987, relatif à la réglementation bancaire dans la Principauté de Monaco, entre la Principauté de Monaco et la République française
