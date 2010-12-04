@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-599 du 29 novembre 2010 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2008-2009
