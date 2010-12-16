@@ -1,0 +1,3 @@
+# Article 9
+
+À moins que les autorités compétentes des Parties n'en conviennent autrement, les frais indirects exposés pour fournir l'assistance sont supportés par la Partie requise, et les frais directs exposés pour fournir l'assistance (y compris les frais résultant du recours à des conseillers externes dans le cadre du contentieux ou à d'autres fins) sont supportés par la Partie requérante. Les autorités compétentes se consultent périodiquement au sujet du présent article ; en particulier, l'autorité compétente de la Partie requise se concerte à l'avance avec l'autorité compétente de la Partie requérante si elle s'attend à ce que la fourniture de renseignements en ce qui concerne une demande spécifique donne lieu à des frais importants.
