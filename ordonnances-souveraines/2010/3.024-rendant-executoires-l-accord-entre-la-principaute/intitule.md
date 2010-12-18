@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.024 du 2 décembre 2010 rendant exécutoires l'Accord entre la Principauté de Monaco et la Principauté du Liechtenstein sur l'échange de renseignements en matière fiscale, et son Protocole signés à Berne le 21 septembre 2009
