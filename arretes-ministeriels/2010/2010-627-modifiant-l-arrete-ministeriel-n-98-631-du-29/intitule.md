@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-627 du 20 décembre 2010 modifiant l'arrêté ministériel n° 98-631 du 29 décembre 1998, modifié, réglementant l'exercice d'une activité libérale au Centre Hospitalier Princesse Grace
