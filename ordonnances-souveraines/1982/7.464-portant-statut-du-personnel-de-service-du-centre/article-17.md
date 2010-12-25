@@ -4,7 +4,7 @@ Nul ne peut être nommé à l'un des emplois visés à l'article premier :
 
 - 1° s'il est privé de ses droits civiques,
 
-- 2° s'il n'est âgé de 18 ans au moins et de 47 ans au plus,
+- 2° s'il n'est âgé de 18 ans au moins,
 
 - 3° s'il n'est pas de bonne moralité,
 
