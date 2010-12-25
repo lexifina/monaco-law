@@ -1,11 +1,11 @@
 # Article 5
 
-Peuvent être nommés membres du tribunal du travail les personnes de l'un ou l'autre sexe, âgées de vingt-cinq ans révolus, ayant une pratique courante de la langue officielle de l'État, tant parlée qu'écrite, qui occupent, depuis cinq ans au moins dans la Principauté, pour leur compte ou pour celui d'autrui, un ou plusieurs salariés ou y effectuent un travail salarié. La proportion des personnes résidant hors de Monaco ne pourra excéder quarante-cinq pour cent du nombre des membres du tribunal du travail.
+Peuvent être nommées membres du tribunal du travail les personnes âgées de vingt-cinq ans révolus, ayant une pratique courante de la langue officielle de l'État, tant parlée qu'écrite, qui, depuis cinq ans au moins, et de façon ininterrompue, effectuent dans la Principauté un travail salarié ou y emploient, pour leur compte ou pour celui d'autrui, un ou plusieurs salariés.
 
-Ne peuvent être nommés membres du tribunal du travail :
+Peuvent également être nommées membres du tribunal du travail les personnes retraitées ayant une pratique courante de la langue officielle de l'État, tant parlée qu'écrite, qui, pendant les cinq années précédant leur retraite, et de façon ininterrompue, ont effectué dans la Principauté un travail salarié ou y ont employé, pour leur compte ou pour celui d'autrui, un ou plusieurs salariés.
 
-- 1° Les individus condamnés sans sursis à une peine privative de liberté, hors le cas d'un délit d'homicide ou de blessures involontaires non accompagné de délit de fuite ;
+Néanmoins, ne peuvent être nommées membres du tribunal du travail les personnes placées sous tutelle ou curatelle et les commerçants ou dirigeants d'une personne morale non réhabilités ayant fait l'objet d'une procédure collective d'apurement du passif.
 
-- 2° Les faillis non réhabilités dont la faillite a été déclarée, soit par des tribunaux monégasques, soit par un jugement rendu à l'étranger, mais exécutoire à Monaco ;
+Ne peuvent pas non plus être nommées membres du tribunal du travail les personnes condamnées pour crime ou délit par une décision de justice devenue irrévocable.
 
-- 3° Les interdits.
+Prend fin de plein droit le mandat du membre du tribunal du travail contre lequel survient, en cours de mandat, l'un de ces empêchements.

@@ -1,6 +1,6 @@
 # Article 42
 
-Lors de la comparution devant le bureau de conciliation, le demandeur pourra expliquer, même augmenter sa demande, et le défendeur former celles qu'il jugera convenables.
+Lors de la comparution devant le bureau de conciliation, le demandeur pourra expliquer, et même modifier ses demandes, et le défendeur former celles qu'il jugera convenables.
 
 Si les parties restent en désaccord, un procès-verbal de non-conciliation sera dressé.
 

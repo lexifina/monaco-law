@@ -1,9 +1,9 @@
 # Article 60
 
-Les jugements susceptibles d'appel peuvent être déclarés exécutoires par provision avec dispense de caution :
+Sont de droit exécutoires les jugements qui :
 
-- 1° En ce qui concerne la partie non contestée des salaires et appointements, jusqu'à concurrence des deux tiers ;
+- ordonnent la remise de certificats de travail, bulletins de paie ou de toute autre pièce que l'employeur est légalement tenu de délivrer ;
 
-- 2° En ce qui concerne les autres sommes jusqu'à concurrence du quart de la somme, sans que ce quart puisse dépasser 60 000 F.
+- ordonnent le paiement de salaires ou accessoires du salaire.
 
-Pour le surplus, l'exécution provisoire peut être ordonnée à charge, par le demandeur, de fournir caution.
+- peuvent être déclarés exécutoires par provision et sans caution les autres jugements dans les conditions prescrites par l'article 202 du Code de procédure civile.
