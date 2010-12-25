@@ -1,6 +1,6 @@
 # Article 655 bis
 
-Les jugements et arréts par défaut en matière de saisie immobilière ne seront pas susceptibles d'opposition.
+Les jugements et arrêts par défaut en matière de saisie immobilière ne seront pas susceptibles d'opposition.
 
 Ne pourront être attaqués par la voie de l'appel :
 
