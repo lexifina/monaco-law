@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 98-631 du 29 décembre 1998 réglementant l'exercice d'une activité libérale au Centre hospitalier Princesse Grace
 
-Version en vigueur au 15 mars 2008.
+Version en vigueur au 25 décembre 2010.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1998/12-29-98-631@2008.03.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1998/12-29-98-631@2010.12.25/
 
 | | |
 | --- | --- |

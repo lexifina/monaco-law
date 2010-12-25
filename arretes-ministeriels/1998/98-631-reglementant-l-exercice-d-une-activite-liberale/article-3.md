@@ -8,9 +8,9 @@ Les pourcentages servant de base au calcul du montant de la redevance sont fixé
 
 - 3) Actes d'imagerie - ADI :
 
-  - T.E.P (Tomographie à Emission de Positons) : 20 %
+  - 80 %
 
-  - autres : 80%.
+  - toutefois, ne sont pas soumis à redevance les actes effectués au titre des examens dont la tarification dissocie la prestation intellectuelle des frais de fonctionnement de l'appareil, ces derniers étant rémunérés sous la forme d'un forfait technique acquis à l'établissement
 
 - 4) Actes techniques médicaux - ATM :
 
