@@ -1,6 +1,6 @@
 # Article 6
 
-1. Une Partie contractante peut autoriser des représentants de l'Autorité compétente de l'autre Partie contractante à entrer sur son territoire pour interroger des personnes physiques et examiner des documents, avec le consentement écrit de la personne concernée. L'Autorité compétente de la Partie mentionnée en premier lieu fait connaître à l'Autorité compétente de la Partie mentionnée en second lieu, la date et le lieu de la réunion avec les personnes physiques concernées.
+1. Une Partie contractante peut autoriser des représentants de l'Autorité compétente de l'autre Partie contractante à entrer sur son territoire pour interroger des personnes physiques et examiner des documents, avec le consentement préalable et écrit de la personne concernée. L'Autorité compétente de la Partie mentionnée en premier lieu fait connaître à l'Autorité compétente de la Partie mentionnée en second lieu, la date et le lieu de la réunion avec les personnes physiques concernées.
 
 2. À la demande de l'Autorité compétente d'une Partie contractante, l'Autorité compétente de l'autre Partie contractante peut autoriser des représentants de l'Autorité compétente de la première Partie contractante à assister à la phase appropriée d'un contrôle fiscal dans la deuxième Partie contractante.
 

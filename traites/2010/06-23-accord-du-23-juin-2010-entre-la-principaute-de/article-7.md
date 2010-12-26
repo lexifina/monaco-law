@@ -6,7 +6,9 @@
 
 3. Le présent Accord n'oblige pas une Partie contractante à obtenir ou fournir des renseignements qui divulgueraient des communications confidentielles entre un client et un avocat ou un autre représentant juridique agréé lorsque ces communications :
 
-(a) ont pour but de demander ou fournir un avis juridique, ou
+(a) ont pour but de demander ou fournir un avis juridique,
+
+ou
 
 (b) sont destinées à être utilisées dans une action en justice en cours ou envisagée.
 

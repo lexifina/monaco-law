@@ -10,7 +10,7 @@
 
 (a) les renseignements détenus par les banques, les autres institutions financières et toute personne agissant en qualité de mandataire ou de fiduciaire ;
 
-(b) les renseignements concernant la propriété des sociétés, sociétés de personnes, fiducies, fondations, « Anstalten » et autres personnes, y compris, dans les limites de l'article 2, les renseignements en matière de propriété concernant toutes ces personnes lorsqu'elles font partie d'une chaîne de propriété ; dans le cas d'une fiducie, les renseignements sur les constituants, les fiduciaires et les bénéficiaires et, dans le cas d'une fondation, les renseignements sur les fondateurs, les membres du conseil de la fondation et les bénéficiaires. En outre, le présent Accord n'oblige pas les Parties contractantes à obtenir ou fournir les renseignements en matière de propriété concernant des sociétés cotées ou des fonds ou dispositifs de placement collectif publics, sauf si ces renseignements peuvent être obtenus sans susciter des difficultés disproportionnées.
+(b) les renseignements concernant la propriété des sociétés, sociétés de personnes, fiducies, fondations, »Anstalten' et autres personnes, y compris, dans les limites de l'article 2, les renseignements en matière de propriété concernant toutes ces personnes lorsqu'elles font partie d'une chaîne de propriété ; dans le cas d'une fiducie, les renseignements sur les constituants, les fiduciaires et les bénéficiaires et, dans le cas d'une fondation, les renseignements sur les fondateurs, les membres du conseil de la fondation et les bénéficiaires. En outre, le présent Accord n'oblige pas les Parties contractantes à obtenir ou fournir les renseignements en matière de propriété concernant des sociétés cotées ou des fonds ou dispositifs de placement collectif publics, sauf si ces renseignements peuvent être obtenus sans susciter des difficultés disproportionnées.
 
 5. L'Autorité compétente de la Partie requérante fournit les renseignements suivants à l'Autorité compétente de la Partie requise, lorsqu'elle soumet une demande de renseignements en vertu de l'Accord, afin de démontrer la pertinence vraisemblable des renseignements demandés :
 
@@ -28,7 +28,23 @@
 
 (g) une déclaration précisant que la Partie requérante a utilisé pour obtenir les renseignements tous les moyens disponibles sur son propre territoire, hormis ceux qui susciteraient des difficultés disproportionnées.
 
-6. L'Autorité compétente de la Partie requise transmet aussi rapidement que possible à la Partie requérante les renseignements demandés. Pour assurer une réponde rapide, l'Autorité compétente de la Partie requise :
+6. L'Autorité compétente de la Partie requise transmet aussi rapidement que possible à la Partie requérante les renseignements demandés. Pour assurer une réponse rapide, l'Autorité compétente de la Partie requise :
+
+(a) accuse réception de la demande par écrit à l'Autorité compétente de la Partie requérante et, dans les 60 jours à compter de la réception de la demande, avise cette autorité des éventuelles lacunes de la demande ;
+
+(b) si l'Autorité compétente de la Partie requise n'a pu obtenir et fournir les renseignements dans les 90 jours à compter de la réception de la demande, y compris dans le cas où elle rencontre des obstacles pour fournir les renseignements ou refuse de fournir les renseignements, elle en informe immédiatement la Partie requérante, en indiquant les raisons de l'incapacité dans laquelle elle se trouve de fournir les renseignements, la nature des obstacles rencontrés ou les motifs de son refus.
+
+(c) le but fiscal dans lequel les renseignements sont demandés ;
+
+(d) les raisons qui donnent à penser que les renseignements demandés sont détenus dans la Partie requise ou sont en la possession ou sous le contrôle d'une personne relevant de la compétence de la Partie requise ;
+
+(e) dans la mesure où ils sont connus, les nom et adresse de toute personne dont il y a lieu de penser qu'elle est en possession des renseignements demandés ;
+
+(f) une déclaration précisant que la demande est conforme aux dispositions législatives et réglementaires ainsi qu'aux pratiques administratives de la Partie requérante, que si les renseignements demandés relevaient de la compétence de la Partie requérante, l'Autorité compétente de cette Partie pourrait obtenir les renseignements en vertu de son droit ou dans le cadre normal de ses pratiques administratives et que la demande de renseignements est conforme au présent Accord ;
+
+(g) une déclaration précisant que la Partie requérante a utilisé pour obtenir les renseignements tous les moyens disponibles sur son propre territoire, hormis ceux qui susciteraient des difficultés disproportionnées.
+
+6. L'Autorité compétente de la Partie requise transmet aussi rapidement que possible à la Partie requérante les renseignements demandés. Pour assurer une réponse rapide, l'Autorité compétente de la Partie requise :
 
 (a) accuse réception de la demande par écrit à l'Autorité compétente de la Partie requérante et, dans les 60 jours à compter de la réception de la demande, avise cette autorité des éventuelles lacunes de la demande ;
 
