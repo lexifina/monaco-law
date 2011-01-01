@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2011-193 du 25 mars 2011 portant fixation du montant des ressources personnelles telles que prévues à l'Ordonnance Souveraine n° 3.196 du 25 mars 2011 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
