@@ -22,11 +22,11 @@ II. - Sont également exonérés de la taxe sur la valeur ajoutée :
 
 - 2° Les opérations de livraison, de réparation, de transformation, d'entretien, d'affrètement et de location portant sur :
 
-  - les navires de commerce maritime ;
+  - les navires de commerce maritime affectés à la navigation en haute mer ;
 
   - les bateaux utilisés pour l'exercice d'une activité industrielle en haute mer ;
 
-  - les bateaux affectés à la pêche professionnelle maritime, les bateaux de sauvetage et d'assistance en mer ;
+  - les bateaux affectés à la pêche professionnelle maritime, les bateaux de sauvetage et d'assistance en mer;
 
 - 3° Les opérations de livraison, de location, de réparation et d'entretien portant sur des objets destinés à être incorporés dans ces bateaux ou utilisés pour leur exploitation en mer, ainsi que sur les engins et filets pour la pêche maritime;
 
@@ -34,7 +34,7 @@ II. - Sont également exonérés de la taxe sur la valeur ajoutée :
 
 - 5° Les opérations de livraison, de location, de réparation et d'entretien portant sur des objets destinés à être incorporés dans ces aéronefs ou utilisés pour leur exploitation en vol ;
 
-- 6° Les livraisons de biens destinés à l'avitaillement des bateaux et des aéronefs désignés aux 2° et 4°, ainsi que des bateaux de guerre, tels qu'ils sont définis à la sous-position 89.01 du tarif douanier communautaire ;
+- 6° Les livraisons de biens destinés à l'avitaillement des bateaux et des aéronefs désignés aux 2° et 4°, ainsi que des bateaux de guerre, tels qu'ils sont définis à la sous-position 89.01 du tarif douanier communautaire, à l'exclusion des provisions de bord destinées aux bateaux affectés à la petite pêche côtière ;
 
 - 7° Les prestations de services effectuées pour les besoins directs des bateaux et des aéronefs désignés aux 2° et 4° et de leur cargaison ;
 

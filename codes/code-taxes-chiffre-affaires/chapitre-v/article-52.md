@@ -36,4 +36,4 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
   - d) produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une homologation, soit d'une autorisation de vente ;
 
-- 6° Livres, y compris leur location.
+- 6° Livres, y compris leur location. Dans le cas des opérations dont le fait générateur intervient à compter du 1er janvier 2012, cette disposition s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.

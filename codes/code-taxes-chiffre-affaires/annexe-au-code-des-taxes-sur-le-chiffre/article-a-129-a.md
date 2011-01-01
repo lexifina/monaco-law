@@ -1,13 +1,15 @@
 # Article A-129 A
 
-La demande d'autorisation d'ouverture d'un entrepôt fiscal mentionné au 2° du I de l'article 50 A du Code des taxes est présentée dans les conditions ci-après :
+1. La demande d'autorisation d'ouverture d'un régime mentionné au 2° du I de l'article 50 A du Code des taxes présentée par la personne assujettie à la taxe sur la valeur ajoutée, destinataire des opérations de livraisons, d'acquisitions intracommunautaires, d'importations ou de prestations de services, qui souhaite bénéficier du régime de suspension de la taxe sur la valeur ajoutée mentionné au I de l'article 50 A précité. Lorsque le demandeur est établi hors de la Principauté de Monaco, il doit avoir désigné à Monaco un représentant fiscal dans les conditions mentionnées au I de l'article 72 du Code des taxes pour accomplir en son nom et pour son compte les formalités et obligations afférentes au régime fiscal sollicité, sous réserve des dispositions énoncées au III de ce même article.
 
-- 1. Le demandeur doit être un assujetti établi à Monaco ou le représentant d'un assujetti établi dans un État membre de la Communauté européenne autre que la France qui a été désigné conformément au I de l'article 72 du Code des taxes.
+2. La demande est déposée :
 
-- 2. La demande est déposée :
+- a) Pour les régimes mentionnés aux a et d du 2° du I de l'article 50 A précité, par l'assujetti qui souhaite bénéficier du régime de suspension de la taxe sur la valeur ajoutée mentionné au I de l'article 50 A précité pour les opérations de livraison, d'acquisition intracommunautaire ou d'importation dont il est destinataire ou de prestation de services dont il est le preneur.
 
-  - a) pour les entrepôts visés aux a, b et du 2° du I de l'article 50 A précité, par la personne qui souhaite gérer l'entrepôt, dénommée entreposeur ;
+- Cette demande peut également être déposée, pour le compte de l'assujetti, par la personne qui souhaite gérer le régime sollicité et qui est dénommée gestionnaire ou entreposeur selon le régime sollicité.
 
-  - b) pour les entrepôts visés aux c et e du 2° du I de l'article 50 A précité, par la personne qui souhaite effectuer ou faire effectuer les opérations envisagées.
+- b) Pour les régimes visés au e du 2° du I de l'article 50 A précité, par l'assujetti qui souhaite effectuer ou faire effectuer les opérations envisagées.
 
-- 3. La demande comporte les renseignements et documents demandés par l'Administration concernant le titulaire, les locaux, les installations, le personnel employé, les biens et les opérations envisagées.
+3. La demande comporte les renseignements et documents demandés par l'administration concernant le demandeur, le cas échéant le gestionnaire ou l'entreposeur selon le régime sollicité, l'objet du régime et, dans le cas du régime fiscal suspensif prévu au a du 2° du I de l'article 50 A précité, les fonctions pour les besoins desquelles le régime est demandé, les opérations envisagées, la nature des biens, le ou les lieux où ceux-ci seront situés ou utilisés, les locaux ou les autres installations éventuellement utilisés, le personnel employé ainsi que tous autres renseignements utiles aux contrôles de l'administration.
+
+Lorsque la demande d'autorisation concerne l'ouverture d'un régime pour les besoins de la réalisation de travaux ou ouvraisons, elle mentionne les opérateurs qui seront amenés à intervenir sur les biens pendant la durée du régime suspensif.

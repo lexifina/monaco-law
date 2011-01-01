@@ -40,6 +40,4 @@ Des ordonnances peuvent fixer des bases minimales ou forfaitaires d'imposition p
 
   - la valeur vénale réelle des biens si cette valeur vénale est supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux, augmenté des charges.
 
-- Toutefois, dans le cas de cession de droits sociaux, la base d'imposition ainsi définie peut être diminuée dans les conditions précisées à l'article A-6 de l'annexe au code du montant des sommes investies par le cédant pour la souscription ou l'acquisition desdits droits. Dans cette hypothèse, les dispositions de l'article 42 cessent de s'appliquer.
-
 4. Lorsque le bail à construction est soumis à la taxe sur la valeur ajoutée, la base d'imposition est constituée par la valeur du droit de reprise des immeubles qui doivent revenir au bailleur abstraction faite, le cas échéant, de l'indemnité de reprise stipulée au profit du preneur et du montant des loyers, lesquels sont imposés par ailleurs dans les conditions du a du 1.

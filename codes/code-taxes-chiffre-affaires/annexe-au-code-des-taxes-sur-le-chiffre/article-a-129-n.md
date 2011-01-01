@@ -22,7 +22,7 @@ Code N.C. | Description des biens
 
 7801 | Plomb
 
-Ex 8112.91 | Indium
+Ex 8112.92 | Indium
 
 Ex 8112.99 |
 

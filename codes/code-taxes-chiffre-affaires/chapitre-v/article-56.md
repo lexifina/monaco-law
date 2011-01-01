@@ -34,13 +34,15 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
 - g) les droits d'entrée dans les salles de spectacles cinématographiques quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres et documents audiovisuels qui sont présentés ;
 
-- h) les abonnements souscrits par les usagers afin de recevoir :
+- h) Les abonnements souscrits par les usagers afin de recevoir les services de télévision.
 
-  - les services de télévision ;
+- Est considéré comme service de télévision tout service de communication au public par voie électronique destiné à être reçu simultanément par l'ensemble du public ou par une catégorie de public et dont le programme principal est composé d'une suite ordonnée d'émissions comportant des images et des sons.
 
-  - les services de télévision mis à la disposition du public sur un réseau câblé ;
+- Le taux réduit n'est pas applicable lorsque la distribution de services de télévision est comprise dans une offre unique qui comporte pour un prix forfaitaire l'accès à un réseau de communications électroniques.
 
-  - les services autorisés de télévision par voie hertzienne également mis à la disposition du public sur un réseau câblé ;
+- On entend par réseau de communications électroniques toute installation ou tout ensemble d'installations de transport ou de diffusion ainsi que, le cas échéant, les autres moyens assurant l'acheminement de communications électroniques, notamment ceux de commutation et de routage.
+
+- Néanmoins, lorsque les droits de distribution des services de télévision ont été acquis en tout ou partie contre rémunération par le fournisseur des services, le taux réduit est applicable à la part de l'abonnement correspondante. Cette part est égale, en fonction du choix opéré par le distributeur des services, soit aux sommes payées, par usager, pour l'acquisition des droits susmentionnés, soit au prix auquel les services correspondant aux mêmes droits sont distribués effectivement par ce distributeur dans une offre de services de télévision distincte de l'accès à un réseau de communications électroniques ;
 
 - i) les cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres.
 

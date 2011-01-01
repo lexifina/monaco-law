@@ -1,9 +1,3 @@
 # Article A-3
 
-La taxe sur la valeur ajoutée doit être intégralement versée sur le prix de revient total des immeubles ou fractions d'immeubles, y compris le coût des terrains ou leur valeur d'apport, dans les douze mois qui suivent leur achèvement ou, le cas échéant, lors de la dissolution de la société de construction.
-
-Une prolongation de ce délai peut être accordée par le directeur des services fiscaux sur demande motivée par la justification de l'impossibilité d'établir la base taxable définitive avant l'expiration du délai indiqué ci-dessus.
-
-À titre exceptionnel, une seconde prolongation de ce délai peut intervenir dans les mêmes formes si le délai précédemment fixé n'est pas suffisant pour permettre d'établir la base taxable définitive.
-
-Toutefois, en cas de mutation ultérieure, la taxe exigible doit être intégralement acquittée préalablement à cette mutation.
+Des prorogations du délai prévu au 3ème alinéa de l'article 41 du Code des taxes sur le chiffre d'affaires peuvent être accordées par le directeur des Services Fiscaux, sur demande motivée par l'impossibilité d'établir la base taxable définitive avant l'expiration de ce délai. La taxe exigible sur la livraison à soi-même doit néanmoins être acquittée préalablement à toute mutation intervenant avant l'expiration de ce délai prorogé sur la base des éléments connus à la date de cette mutation.

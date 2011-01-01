@@ -20,9 +20,9 @@ II. - 1. Pour les biens immobilisés, une régularisation de la taxe initialemen
 
 III. - 1. Une régularisation de la taxe initialement déduite et grevant un bien immobilisé est également opérée :
 
-- 1° Lorsqu'il est cédé ou apporté, sans que cette opération soit soumise à la taxe sur le prix total ou la valeur totale, ou est transféré entre secteurs d'activité constitués en application de l'article A-76 ;
+- 1° Lorsqu'il est cédé ou apporté, sans que cette opération soit soumise à la taxe sur le prix total, sur la valeur totale ou dans les conditions fixées à l'article 37 du Code des taxes sur le chiffre d'affaires, ou est transféré entre secteurs d'activité constitués en application de l'article A-76 ;
 
-- 2° Lorsqu'il est cédé ou apporté, et que cette opération est soumise à la taxe sur le prix total ou la valeur totale ;
+- 2° Lorsqu'il est cédé ou apporté, et que cette opération est soumise à la taxe sur le prix total, sur la valeur totale ou dans les conditions fixées à l'article 37 du Code des taxes sur le chiffre d'affaires ;
 
 - 3° Lorsque la réglementation modifie la valeur de son coefficient d'admission en cours d'utilisation ;
 
@@ -54,9 +54,11 @@ III. - 1. Une régularisation de la taxe initialement déduite et grevant un bie
 
   - b. Dont le coefficient d'assujettissement de référence est nul.
 
-IV. - 1. Par dérogation au III, en cas de cession ou d'apport soumis à la taxe sur la valeur ajoutée sur le prix total ou la valeur totale d'un immeuble affecté à l'habitation, la taxe initiale peut être déduite intégralement.
+IV. - 1. (1 abrogé) ;
 
 2. Lorsqu'un bien en stock, ou un bien immobilisé non encore utilisé, vient à être utilisé à des opérations ouvrant droit à déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement.
+
+3. - Pour l'application du II et des 1° et 2° du 1. du III, un immeuble ou une fraction d'immeuble en stock est considéré comme immobilisé lorsque, au-delà de la date d'échéance mentionnée au 3ème alinéa de l'article 41 du Code des taxes sur le chiffre d'affaires, il est utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article 3 du même Code.
 
 V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 42 du Code des taxes ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 de l'article A-77.
 

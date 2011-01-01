@@ -1,63 +1,51 @@
 # Article A-156
 
-La déclaration, mentionnée à l'article 74 du code. servie ligne par ligne, comporte les mentions suivantes :
+La déclaration mentionnée à l'article 74 du Code des taxes sur le chiffre d'affaires, servie ligne par ligne, comporte les mentions suivantes :
 
-- 1° Quel que soit le flux considéré :
+- 1. Quel que soit le flux considéré :
 
-  - le numéro d'assujetti à la taxe sur la valeur ajoutée de l'opérateur ;
+  - a) Le numéro d'assujetti à la taxe sur la valeur ajoutée de l'opérateur ;
 
-  - l'adresse et la raison ou la dénomination sociale de l'opérateur ;
+  - b) L'adresse et la raison ou la dénomination sociale de l'opérateur ;
 
-  - la période au titre de laquelle est établie la déclaration ;
+  - c) La période au titre de laquelle est établie la déclaration ;
 
-  - la nature du flux d'échanges ;
+  - d) La nature du flux d'échanges et la situation de l'entreprise au regard du seuil statistique ;
 
-  - le niveau d'obligation statistique de l'opérateur et, s'il y a lieu, le nom et le numéro d'agrément lorsqu'il s'agit d'un commissionnaire en douane, de la tierce personne mentionnée à l'article A-155 ;
+  - e) S'il y a lieu, le nom de la tierce personne mentionnée à l'article A-155 ;
 
-  - Le régime de l'opération, sous réserve des dispositions du 3°.
+  - f) Le régime de l'opération.
 
-- 2° Au titre des livraisons de biens, quelle que soit leur valeur :
+- 2. Au titre des livraisons de biens, quelle que soit leur valeur :
 
-  - le numéro d'identification à la taxe sur la valeur ajoutée de l'acquéreur pour les livraisons de biens exonérées en application du I de l'article 31 du Code des taxes sur le chiffre d'affaires, et pour les régularisations effectuées en application du 1 de l'article 44 du même code ;
+  - a) Le numéro d'identification à la taxe sur la valeur ajoutée de l'acquéreur pour les livraisons de biens exonérées en application du I de l'article 31 du Code des taxes sur le chiffre d'affaires et pour les régularisations effectuées en application du 1. de l'article 44 du même Code ;
 
-  - en cas de transfert des biens pour les besoins de l'entreprise dans un État membre de la Communauté économique européenne autre que la France où leur affectation est taxable, le numéro d'identification à la taxe sur la valeur ajoutée délivré à cette entreprise par cet État ;
+  - b) En cas de transfert des biens pour les besoins de l'entreprise dans un État membre autre que la France où leur affectation est taxable, le numéro d'identification à la taxe sur la valeur ajoutée délivré à cette entreprise par cet État;
 
-  - en cas d'expédition de biens en vue de leur façonnage, le numéro d'assujetti à la taxe sur la valeur ajoutée du donneur d'ouvrage et du façonnier ;
+  - c) La valeur fiscale en euros des livraisons de biens effectuées ;
 
-  - la valeur fiscale en francs des livraisons de biens effectuées, sauf pour les donneurs d'ouvrage à façon ;
+  - d) S'il y a lieu, le montant des régularisations commerciales effectuées en application du 1. de l'article 44 du Code des taxes sur le chiffre d'affaires.
 
-  - s'il y a lieu, le montant des régularisations commerciales effectuées en application du 1 de l'article 44 du Code des taxes sur le chiffre d'affaires.
+- 3. Autres informations :
 
-- 3° Autres informations :
+  - a) À l'introduction comme à l'expédition, pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil statistique fixé par arrêté ministériel :
 
-- Le nombre et la nature des autres informations portées sur la déclaration dépendent de la nature des flux précisés à l'article A-154 de la présente annexe au code et du montant des échanges par rapport aux seuils définis par l'article A-157 et fixés par l'article A-158 ci-après.
+    - 1° - La nomenclature de produit. Dans le cas général, les codes à mentionner sont ceux de la nomenclature combinée en vigueur. Dans les cas particuliers prévus par arrêté ministériel, la codification plus détaillée spécifiée dans cet arrêté doit être utilisée ;
 
-- a) Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
+    - 2° - La valeur en euros des introductions et expéditions de biens ;
 
-  - 1° La nomenclature de produit. Dans le cas général, les codes à mentionner sont ceux de la nomenclature combinée en vigueur. Dans les cas particuliers prévus par la réglementation douanière, la codification plus détaillée spécifiée dans cette réglementation doit être utilisée ;
+    - 3° - L'État membre autre que la France de provenance (à l'introduction) ou de destination (à l'expédition) des produits ;
 
-  - 2° La valeur en euros des introductions/expéditions de biens ;
+    - 4° - Le pays d'origine des produits, à l'introduction ;
 
-  - 3° L'Etat membre autre que la France de provenance ou de destination des produits.
+    - 5° - La masse nette de la marchandise et, le cas échéant, les unités supplémentaires ;
 
-- Ces opérateurs ont la possibilité de mentionner au maximum dix des sous-positions de la nomenclature combinée des produits les plus importants en valeur de leurs déclarations et de regrouper l'ensemble des autres produits sous une position unique de la nomenclature combinée fixée par la réglementation douanière.
+    - 6° - La nature de la transaction ;
 
-- b) De plus, pour les opérateurs dont le montant annuel des échanges intra-communautaires est supérieur au seuil de simplification :
+    - 7° - Le mode de transport ;
 
-  - le pays d'origine des produits, à l'introduction ;
+    - 8° - Le lieu d'expédition initiale (à l'expédition) ou de destination (à l'introduction) des produits.
 
-  - la masse nette de la marchandise et, le cas échéant, les unités supplémentaires ;
+  - b) Les opérateurs ont la possibilité de regrouper, sous une position unique de la nomenclature combinée, les transactions dont le montant en valeur est inférieur à un seuil fixé par arrêté ministériel. Dans ce cas, les informations visées aux 4° à 8° ne sont pas renseignées.
 
-  - la nature de la transaction.
-
-- c) De plus, pour les opérateurs soumis à la déclaration détaillée visée au b dont le montant annuel des échanges intracommunautaires excède un seuil fixé par la réglementation douanière :
-
-  - 1° Le mode de transport ;
-
-  - 2° Le lieu (département pour la France) d'expédition initiale ou de destination des produits.
-
-- d) Les opérateurs ont la possibilité de regrouper sous une position unique de la nomenclature combinée les transactions dont le montant en valeur est inférieur à un seuil fixé par arrêté ministériel. Dans ce cas les informations visées au b) et c) ne sont pas renseignées.
-
-- Pour les opérateurs visés au b) et c), le montant total repris sous cette position unique de la nomenclature combinée ne peut cependant excéder une valeur fixée par arrêté ministériel.
-
-- e) Les opérateurs visés aux a) et b) peuvent se dispenser de la mention du régime pour les opérations n'impliquant pas l'indication du numéro d'identification à la TVA du partenaire étranger.
+Le montant total repris sous cette position unique de la nomenclature combinée ne peut cependant pas excéder une valeur fixée par arrêté ministériel.

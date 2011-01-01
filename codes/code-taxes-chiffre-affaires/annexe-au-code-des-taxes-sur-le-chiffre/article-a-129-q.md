@@ -4,6 +4,6 @@ Les registres visés aux articles A 129 O et A 129 P sont tenus sur support papi
 
 Ces informations sont conservées dans leur contenu originel.
 
-Les registres sont conservés dans l'emploi fiscal.
+Les registres sont conservés au lieu de situation ou d'utilisation des biens ou des installations mentionné sur la demande d'autorisation d'ouverture du régime suspensif.
 
 Leur conservation est assurée selon les modalités et dans les délais prévus à l'article 80 du Code des taxes.

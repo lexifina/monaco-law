@@ -60,7 +60,7 @@ IV. - 1. Le coefficient d'admission d'un bien ou d'un service est égal à l'uni
 
   - c. Pour les produits pétroliers utilisés pour la lubrification des véhicules et engins mentionnés au premier alinéa du 5° ;
 
-- 8° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison à soi-même est prise en compte pour l'application des dispositions du 4° de l'article 5, du g du 1 ou du sixième alinéa du 3 de l'article 35 ainsi que de l'article 93 A du Code des taxes ;
+- 8° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison à soi-même est prise en compte pour l'application des dispositions du g du 1 ou du sixième alinéa du 3 de l'article 35 ainsi que de l'article 93 A du Code des taxes ;
 
 - 9° Pour les prestations de services de toute nature, notamment la location, afférentes aux biens dont le coefficient d'admission est nul en application des dispositions du 1° au 7°.
 

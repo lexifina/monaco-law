@@ -1,6 +1,6 @@
 # Article A 129 P
 
-Le registre relatif aux opérations réalisées sous l'un des régimes d'entrepôt fiscal prévu au 1° du III de l'article 50 A du Code des taxes indique, pour chaque bien, par livraison, importation ou acquisition intracommunautaire :
+Le registre relatif aux opérations réalisées sous l'un des régimes suspensifs prévu au 1° du III de l'article 50 A du Code des taxes indique, pour chaque bien, par livraison, importation ou acquisition intracommunautaire :
 
 - a) La date de l'opération.
 
@@ -10,6 +10,8 @@ Le registre relatif aux opérations réalisées sous l'un des régimes d'entrep�
 
 - d) Les nom et adresse complète et, s'il y a lieu, le numéro d'identification de la TVA du client.
 
-- e) La désignation du bien et la référence dans le registre visé à l'article A 129 O.
+- e) La désignation du bien et la référence dans le registre visé à l'article A-129 O.
 
-Pour les prestations de services, le registre contient, outre les mentions prévues aux a), b), c) et d) du premier alinéa, la nature de l'opération et, s'il y a lieu, la désignation du bien auquel est afférente la prestation ainsi que la référence dans le registre visé à l'article A 129 O.
+- f) La fonction utilisée, lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2°du I de l'article 50 A du Code des taxes a sollicité l'application de plusieurs des fonctions visées aux a à e de l'article A-129 F
+
+Pour les prestations de services, le registre contient, outre les mentions prévues aux a), b), c), d) et f) du premier alinéa, la nature de l'opération et, s'il y a lieu, la désignation du bien auquel est afférente la prestation ainsi que la référence dans le registre visé à l'article A-129 O.

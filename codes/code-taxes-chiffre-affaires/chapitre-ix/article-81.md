@@ -10,23 +10,23 @@ I. - 1. Les importations de biens sont soumises à la taxe sur la valeur ajouté
 
 II. - Toutefois, sont exonérés :
 
-- 1° L'importation au sens du b du 2 du I de biens qui ont fait l'objet d'une ou plusieurs livraisons mentionnées au 6° ou au 7° du I de l'article 50 A pendant leur placement sous les régimes énumérés audit b.
+  - 1° L'importation au sens du b du 2 du I de biens qui ont fait l'objet d'une ou plusieurs livraisons mentionnées au 6° ou au 7° du I de l'article 50 A pendant leur placement sous les régimes énumérés audit b.
 
-- 2° Les biens importés définitivement dans le cadre des franchises fiscales communautaires et qui sont désignés par ordonnance souveraine.
+  - 2° Les biens importés définitivement dans le cadre des franchises fiscales communautaires et qui sont désignés par ordonnance souveraine.
 
-- Cette ordonnance détermine également les modalités d'application du présent paragraphe ;
+  - Cette ordonnance détermine également les modalités d'application du présent paragraphe ;
 
-- 3° (3° abrogé).
+  - 3° (3° abrogé).
 
-- 4° L'or, sous toutes ses formes, importé par les instituts d'émission ;
+  - 4° L'or, sous toutes ses formes, importé par les instituts d'émission ;
 
-- 5° Dans les conditions fixées par les articles A-163 à A-166 de l'annexe au code, les navires, aéronefs, objets incorporés, engins et filets pour la pêche maritime visés à l'article 29-II-2° à 5° ;
+  - 5° Dans les conditions fixées par les articles A-163 à A-166 de l'annexe au code, les navires, aéronefs, objets incorporés, engins et filets pour la pêche maritime visés à l'article 29-II-2° à 5° ;
 
-- 6° Les produits de la pêche en l'état ou ayant fait l'objet d'opérations destinées à les préserver en vue de leur commercialisation importés par les entreprises de pêche maritime ;
+  - 6° Les produits de la pêche en l'état ou ayant fait l'objet d'opérations destinées à les préserver en vue de leur commercialisation importés par les entreprises de pêche maritime ;
 
-- 7° Les prothèses dentaires importées par les dentistes ou prothésistes dentaires ;
+  - 7° Les prothèses dentaires importées par les dentistes ou prothésistes dentaires ;
 
-- 8° Les œuvres d'art originales, les timbres, objets de collection ou d'antiquité, lorsque l'importation est réalisée directement à destination d'établissements agréés par les autorités compétentes.
+  - 8° Les œuvres d'art originales, les timbres, objets de collection ou d'antiquité, lorsque l'importation est réalisée directement à destination d'établissements agréés par les autorités compétentes.
 
 Les conditions d'application de ces dispositions sont fixées par l'article A-182 de l'annexe au code.
 

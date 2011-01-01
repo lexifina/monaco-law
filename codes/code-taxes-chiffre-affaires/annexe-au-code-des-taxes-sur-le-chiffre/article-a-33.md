@@ -1,7 +1,5 @@
 # Article A-33
 
-L'option pour l'imposition d'un bail à construction à la taxe sur la valeur ajoutée entraîne exonération du droit de bail conformément aux dispositions de la loi n° 842 du 1er mars 1968. L'option doit être formulée dans l'acte.
+L'option pour l'imposition d'un bail à construction à la taxe sur la valeur ajoutée entraîne exonération du droit de bail conformément aux dispositions de la loi n° 842 du 1er mars 1968.
 
-Le prix de cession est constitué soit par le montant cumulé des loyers, sans qu'il soit tenu compte des clauses de révision, soit par la valeur des immeubles ou des titres donnant vocation à la propriété ou à la jouissance d'immeubles remis au bailleur.
-
-Les dispositions de l'article A-10 de la présente annexe ne sont pas applicables au bail à construction.
+L'option doit être formulée dans l'acte.

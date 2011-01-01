@@ -16,9 +16,9 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - 4° Les prestations de transport de biens effectuées pour des personnes non assujetties autres que les transports intracommunautaires de biens et les prestations de transport de passagers, en fonction des distances parcourues à Monaco et en France ;
 
-- 5° Lorsqu'elles sont matériellement exécutées ou exercées à Monaco :
+- 5° Lorsqu'elles sont matériellement exécutées ou ont effectivement lieu à Monaco :
 
-  - a) Les prestations de services ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités ;
+  - a) Les prestations de services fournies à une personne non assujettie ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités ;
 
   - b) Les ventes à consommer sur place ;
 
@@ -32,6 +32,8 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - Dans le cas d'un transport aller-retour, le trajet de retour est considéré comme un transport distinct ;
 
+- 5° bis Les prestations de services fournies à un assujetti, ainsi que celles qui leur sont accessoires, consistant à donner accès à des manifestations culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions lorsque ces manifestations ont effectivement lieu à Monaco ;
+
 - 6° Lorsqu'elles sont matériellement exécutées à Monaco ou en France au profit d'une personne non assujettie :
 
   - a) Les activités accessoires au transport, telles que le chargement, le déchargement, la manutention et les activités similaires ;
@@ -42,4 +44,4 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - 8° La prestation de services unique d'une agence de voyages lorsqu'elle a à Monaco le siège de son activité économique ou un établissement stable à partir duquel elle a fourni cette prestation.
 
-- L'agence de voyages réalise une prestation de services unique lorsqu'elle agit, en son propre nom, à l'égard du client et utilise, pour la réalisation du voyage, des livraisons de biens et des prestations de services d'autres assujettis.
+L'agence de voyages réalise une prestation de services unique lorsqu'elle agit, en son propre nom, à l'égard du client et utilise, pour la réalisation du voyage, des livraisons de biens et des prestations de services d'autres assujettis.

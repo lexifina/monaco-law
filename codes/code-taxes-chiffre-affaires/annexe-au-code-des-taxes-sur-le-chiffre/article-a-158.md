@@ -1,7 +1,9 @@
 # Article A-158
 
-1. le montant annuel en valeur du seuil d'assimilation est fixé à 150 000 € à l'introduction comme à l'expédition.
+I. - Le montant annuel en valeur du seuil statistique mentionné à l'article A-155 est fixé à 460 000 € hors taxes à l'introduction comme à l'expédition.
 
-2. Le montant en valeur du seuil de simplification est fixé à 230 000 € à l'introduction et à 460 000 € à l'expédition.
+II. - Le seuil statistique est atteint pour l'année en cours et pour le flux considéré lorsque l'assujetti se trouve dans l'une des deux situations suivantes :
 
-3. Un seuil de 2 300 000 € est institué au-delà duquel les déclarations d'échanges de biens doivent comporter la valeur statistique.
+- a) l'assujetti a réalisé au cours de l'année civile précédente des expéditions ou des introductions d'un montant hors taxes supérieur à 460 000 € ;
+
+- b) l'assujetti dépasse le seuil de 460 000 € en cours d'année.

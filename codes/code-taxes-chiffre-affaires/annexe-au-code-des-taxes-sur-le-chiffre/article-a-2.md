@@ -1,5 +1,3 @@
 # Article A-2
 
-Dans le mois de la livraison définie comme il est dit à l'article A-1, le constructeur ou la personne qui a fait construire les immeubles est tenu de déposer une déclaration spéciale à la direction des services fiscaux.
-
-Cette déclaration doit être déposée en double exemplaire et conforme au modèle fixé par l'Administration.
+Pour les livraisons à soi-même mentionnées au 1° du 3 du I de l'article 5 du Code des taxes sur le chiffre d'affaires et pour l'application de l'article 41 de ce code, le redevable est tenu de déposer une déclaration spéciale auprès de la Direction des Services Fiscaux dans le mois de l'achèvement tel qu'il est défini au d du 1 de l'article 40 de ce code. Sur la déclaration mentionnée à l'article 70 du même code, le redevable insère une mention particulière se référant à la déclaration spéciale et informant l'administration du montant de la livraison à soi-même ainsi que de la liquidation de la taxe.

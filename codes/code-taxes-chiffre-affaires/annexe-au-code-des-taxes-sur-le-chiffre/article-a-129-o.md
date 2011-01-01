@@ -16,6 +16,8 @@ Le registre des stocks et des mouvements de biens prévu au 1° du III de l'arti
 
 - g) Adresse complète du lieu de destination du bien à la sortie du régime.
 
-À l'issue de ces opérations, ce registre indique, pour chaque bien, les stocks détenus dans l'entrepôt.
+- h) La fonction utilisée, lorsque l'assujetti qui a obtenu l'ouverture d'un régime fiscal suspensif mentionné au a du 2° du I de l'article 50 A du Code des taxes a sollicité l'application de plusieurs des fonctions visées aux a à e de l'article A-129 F.
 
-Pour les entrepôts mentionnés aux c) et e) du I de l'article 50 A du Code des taxes, le registre doit contenir également les indications nécessaires au suivi et à l'identification des biens qui font l'objet de prestations de services.
+À l'issue de ces opérations, ce registre indique, pour chaque bien, les stocks détenus sous le régime suspensif, le cas échéant par fonction mentionnée sur la déclaration d'ouverture d'un régime mentionné au a du 2° du I de l'article 50 A du Code des taxes.
+
+Pour les régimes suspensifs mentionnés aux a et e) du I de l'article 50 A du Code des taxes, le registre doit contenir également les indications nécessaires au suivi et à l'identification des biens qui font l'objet de prestations de services.

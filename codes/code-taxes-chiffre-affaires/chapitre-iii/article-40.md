@@ -10,7 +10,7 @@
 
 - c bis) pour les prestations de services pour lesquelles la taxe est due par le preneur de services en application du 2 de l'article 62, qui ont lieu de manière continue sur une période supérieure à une année et qui ne donnent pas lieu à des décomptes ou à des paiements durant cette période, à l'expiration de chaque année civile, tant qu'il n'est pas mis fin à la prestation de services ;
 
-- d) Pour les livraisons à soi-même visées au a du 1° du 3 du I de l'article 5, au moment de la livraison qui intervient, au plus tard, lors de la délivrance de l'autorisation d'habiter prévue par l'article 118 de l'ordonnance souveraine n° 3.647 du 9 septembre 1966, modifiée, susvisée ; les modalités d'application du présent paragraphe sont fixées par les articles A-1 à A-3 de l'annexe au code ;
+- d) Pour les livraisons à soi-même visées au adu 1° du 3 du I de l'article 5, au moment de la livraison qui intervient, au plus tard, lors de la délivrance de l'autorisation d'habiter prévue par l'article 118 de l'ordonnance souveraine n° 3.647 du 9 septembre 1966, modifiée, susvisée ; les modalités d'application du présent paragraphe sont fixées par les articles A-1 à A-3 de l'annexe au code ;
 
 2. La taxe est exigible :
 
@@ -24,9 +24,9 @@
 
 - b bis) pour les prestations de services pour lesquelles la taxe est due par le preneur en application du 2 de l'article 62, lors du fait générateur, ou lors de l'encaissement des acomptes ;
 
-- c)pour les prestations de services autres que celles visées au b bis lors de l'encaissement des acomptes, du prix, de la rémunération ou, sur autorisation du directeur des Services fiscaux, d'après les débits suivant les modalités prévues par l'article A-64 de l'annexe au code.
+- c) pour les prestations de services autres que celles visées au b bis lors de l'encaissement des acomptes, du prix, de la rémunération ou, sur autorisation du directeur des Services fiscaux, d'après les débits suivant les modalités prévues par l'article A-64 de l'annexe au code.
 
-- En cas d'escompte d'un effet de commerce, la taxe est exigible à la date du paiement de l'effet par le client.
+- En cas d'escompte d'effet de commerce ou de transmission de créance, l'exigibilité intervient respectivement à la date du paiement de l'effet par le client ou à celle du paiement de la dette transmise entre les mains du bénéficiaire de la transmission.
 
 - Les entrepreneurs de travaux immobiliers peuvent, dans des conditions et pour les travaux qui sont fixés par les articles A-65 à A-71 de l'annexe au code, opter pour le paiement de la taxe sur les livraisons ;
 

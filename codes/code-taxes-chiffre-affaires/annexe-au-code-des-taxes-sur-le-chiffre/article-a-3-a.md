@@ -1,6 +1,6 @@
 # Article A-3 A
 
-I - Pour l'application du 4° du c du 1 du 5° de l'article 5 du Code des Taxes, les éléments de second œuvre à prendre en compte sont les suivants :
+I - Pour l'application du d) du 2° du 2. du I de l'article 5 du Code des taxes, les éléments de second œuvre à prendre en compte sont les suivants :
 
 - a. les planchers ne déterminant pas la résistance ou la rigidité de l'ouvrage ;
 
@@ -14,4 +14,4 @@ I - Pour l'application du 4° du c du 1 du 5° de l'article 5 du Code des Taxes,
 
 - f. le système de chauffage.
 
-II - La proportion prévue au 4° du c du 1 du 5° de l'article 5 du Code des Taxes est fixée à deux tiers pour chacun des éléments visés au I.
+II - La proportion prévue au d) du 2° du 2. du I de l'article 5 du Code des taxes est fixée à deux tiers pour chacun des éléments visés au I.
