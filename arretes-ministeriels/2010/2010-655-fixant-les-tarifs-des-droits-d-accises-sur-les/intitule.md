@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2010-655 du 30 décembre 2010 fixant les tarifs des droits d'accises sur les alcools et les boissons alcooliques et de la taxe sur certaines boissons alcooliques pour l'année 2011
