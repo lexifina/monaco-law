@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 4 janvier 1881 sur la caisse des dépôts et consignations
 
-Version en vigueur au 19 avril 1911.
+Version en vigueur au 8 janvier 2011.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1881/01-04-L002757@1911.04.19/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1881/01-04-L002757@2011.01.08/
 
 | | |
 | --- | --- |
