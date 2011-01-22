@@ -14,9 +14,21 @@ a) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 b) La circulation des piétons est interdite dans le giratoire.
 
+2bis) Giratoire Canton
+
+a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
+
+b) La circulation des piétons est interdite dans le giratoire.
+
 3) Tunnel Auréglia
 
 a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge de plus de 7,50 tonnes est autorisée.
+
+b) La circulation des piétons est interdite dans le tunnel.
+
+3bis) Tunnel de la Colle
+
+a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
 b) La circulation des piétons est interdite dans le tunnel.
 
@@ -25,6 +37,14 @@ b) La circulation des piétons est interdite dans le tunnel.
 a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
 b) La circulation des piétons est interdite dans le tunnel.
+
+4bis) Tunnel Descendant Fontvieille
+
+a) Un sens unique de circulation descendant est instauré du giratoire Canton à l'avenue de Fontvieille et ce, dans ce sens.
+
+b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
+
+c) La circulation des piétons est interdite dans le tunnel.
 
 5) Tunnel Digue
 

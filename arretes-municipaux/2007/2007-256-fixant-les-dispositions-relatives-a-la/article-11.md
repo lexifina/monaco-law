@@ -32,13 +32,11 @@ b) Du numéro 8 à la place du Canton, cette avenue comprend deux voies séparé
 
 - Un sens unique de circulation montant est instauré du numéro 8 à la Place du Canton et ce, dans ce sens ;
 
-- Un sens unique de circulation descendant est instauré de la Place du Canton au numéro 8 de cette avenue et ce, dans ce sens.
+- La circulation de tous véhicules est interdite avenue de Fontvieille, dans sa partie comprise entre la place du Canton et le débouché du tunnel descendant Fontvieille et ce, dans ce sens.
 
-c) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée de la place du Canton à l'avenue Albert II et ce, dans ce sens.
+c) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite dans sa partie comprise entre la rue du Gabian et la place du Canton et ce, dans ce sens.
 
-d) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite dans sa partie comprise entre la rue du Gabian et la place du Canton et ce, dans ce sens.
-
-Cette disposition ne s'applique pas aux autobus et aux véhicules d'urgences et de secours.
+Cette disposition ne s'applique pas aux autobus et aux véhicules d'urgences et de secours
 
 5) Gabian (Rue du)
 
