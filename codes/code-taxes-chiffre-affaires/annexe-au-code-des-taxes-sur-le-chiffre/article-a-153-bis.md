@@ -8,7 +8,7 @@ Les mentions obligatoires qui doivent figurer sur les factures en application du
 
 - 3° les numéros d'identification à la taxe sur la valeur ajoutée du vendeur et de l'acquéreur pour les livraisons désignées au I de l'article 31 du Code des taxes ;
 
-- 4° le numéro d'identification à la taxe sur la valeur ajoutée du prestataire ainsi que celui fourni par le preneur pour les prestations mentionnées aux 3°, 4° bis, 5° et 6° de l'article 13 du Code des taxes ;
+- 4° le numéro d'identification à la taxe sur la valeur ajoutée du prestataire ainsi que celui fourni par le preneur pour les prestations pour lesquelles le preneur est redevable de la taxe en application du 1 et du 2 de l'article 62 du Code des taxes ;
 
 - 5° lorsque le redevable de la taxe est un représentant fiscal au sens de l'article 72 du Code des taxes, le numéro individuel d'identification attribué à ce représentant fiscal en application de l'article 68 du même code, ainsi que son nom complet et son adresse ;
 

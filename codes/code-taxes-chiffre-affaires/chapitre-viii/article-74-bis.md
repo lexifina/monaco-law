@@ -1,0 +1,3 @@
+# Article 74 bis
+
+Les assujettis établis à Monaco peuvent demander le remboursement de la taxe sur la valeur ajoutée supportée dans un autre État membre dans les conditions prévues par la directive 2008 / 9 / CE du Conseil, du 12 février 2008, définissant les modalités du remboursement de la taxe sur la valeur ajoutée, prévu par la directive 2006 / 112 / CE, en faveur des assujettis qui ne sont pas établis dans l'État membre du remboursement, mais dans un autre État membre, en adressant leurs demandes de remboursement souscrites par voie électronique au moyen du portail mis à leur disposition et selon les modalités et dans les délais fixés par l'article A-160 B de l'annexe au présent code.

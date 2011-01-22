@@ -1,3 +1,7 @@
 # Article A-122
 
-La taxe sur la valeur ajoutée n'est remboursée en application des articles A-119 à A-121et A-127 que si elle est au moins égale à une somme fixée par l'article A-128.
+La demande de remboursement présentée ne peut pas porter sur :
+
+- 1° les montants de taxe sur la valeur ajoutée facturés par erreur ;
+
+- 2° les montants de taxe sur la valeur ajoutée facturés pour des livraisons de biens qui sont exonérées, ou peuvent l'être en application du 2° du I de l'article 29 du Code des taxes, du I de l'article 31 et du II de l'article 94 du même code.

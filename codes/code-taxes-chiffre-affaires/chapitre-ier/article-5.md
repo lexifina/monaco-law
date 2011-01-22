@@ -52,6 +52,6 @@ II - Les opérations suivantes sont assimilées, selon le cas, à des livraisons
 
 III - Sont également soumises à la taxe sur la valeur ajoutée :
 
-- 1. La cession d'aéronefs ou d'éléments d'aéronefs par les compagnies de navigation aérienne mentionnées au 4° du II de l'article 29 à d'autres compagnies ne remplissant pas les conditions fixées à cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par arrêté ministériel ;
+1. La cession d'aéronefs ou d'éléments d'aéronefs par les compagnies de navigation aérienne mentionnées au 4° du II de l'article 29 à d'autres compagnies ne remplissant pas les conditions fixées à cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par arrêté ministériel ;
 
-- 2. Les biens et produits mentionnés aux 2° et 3° du II de l'article 29 lorsqu'ils cessent d'être utilisés dans les conditions prévues par cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par arrêté ministériel.
+2. Les biens et produits mentionnés aux 2° et 3° du II de l'article 29 lorsqu'ils cessent d'être utilisés dans les conditions prévues par cet article. Les modalités d'application de cette disposition sont fixées, en tant que de besoin, par arrêté ministériel.

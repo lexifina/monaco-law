@@ -1,3 +1,13 @@
 # Article A-121
 
-Les dispositions de l'article A-120 sont applicables aux assujettis établis hors de la Communauté Européenne à l'exception des assujettis établis dans un pays ou territoire qui n'accorde pas d'avantages comparables, en ce qui concerne les taxes sur le chiffre d'affaires, aux assujettis établis à Monaco.
+Un assujetti non établi à Monaco doit satisfaire aux conditions suivantes pour obtenir le remboursement de la taxe sur la valeur ajoutée mentionné à l'article A-120 :
+
+- 1° au cours de la période sur laquelle porte la demande de remboursement, l'assujetti doit avoir été établi hors de Monaco au sens du 1° de l'article A-119 ;
+
+- 2° au cours de la période sur laquelle porte la demande de remboursement, l'assujetti ne doit avoir effectué aucune livraison de biens ni prestations de services en Principauté à l'exception des opérations suivantes :
+
+  - a) les prestations de services de transports et les opérations accessoires qui sont exonérées en application du I, des 7° à 12° et 17° du II de l'article 29 du Code des taxes, des articles 30, 33, ainsi que du 2° du III de l'article 81 du même code ;
+
+  - b) les opérations pour lesquelles la taxe est acquittée par l'acquéreur, le destinataire ou le preneur mentionnées au second alinéa du 1 et aux 2, 4, 4 ter de l'article 62 du Code des taxes ;
+
+  - c) les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 50 A du Code des taxes.

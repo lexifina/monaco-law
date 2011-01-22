@@ -1,3 +1,3 @@
 # Article A-125
 
-Les assujettis établis hors de la Communauté économique européenne sont tenus de faire accréditer auprès de la direction des services fiscaux un représentant assujetti établi à Monaco qui s'engage à remplir les formalités et obligations qui leur incombent et notamment celles prévues à l'article A-123. Ce représentant peut, en outre, être tenu de présenter une caution solvable qui s'engage, solidairement avec lui, à reverser les sommes remboursées indûment.
+La demande de remboursement peut porter sur l'achat de biens ou de services qui a été facturé au cours de la période du remboursement, à condition que la taxe soit devenue exigible avant ou au moment de la facturation, ou pour lesquels la taxe est devenue exigible au cours de la période du remboursement, à condition que l'achat ait été facturé avant que la taxe ne soit devenue exigible.
