@@ -12,4 +12,6 @@ Demeurent sous l'autorité directe du Ministre d'État les domaines suivants :
 
 - e) Information et communication,
 
-- f) Archives centrales.
+- f) Archives centrales,
+
+- g) Institut Monégasque de la Statistique et des Études Économiques.

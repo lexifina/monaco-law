@@ -12,7 +12,7 @@ Les attributions des départements se répartissent comme suit :
 
 - d) Environnement international.
 
-2 - département des Finances et de l'Économie :
+2 - département des Finances et de l'Économie:
 
 - a) Budget,
 
@@ -66,7 +66,7 @@ Les attributions des départements se répartissent comme suit :
 
 - g) Médecine du travail.
 
-5 - Département de l'Équipement, de l'Environnement et de l'Urbanisme :
+5 - Département de l'Équipement, de l'Environnement et de l'Urbanisme:
 
 - a) Équipement public,
 

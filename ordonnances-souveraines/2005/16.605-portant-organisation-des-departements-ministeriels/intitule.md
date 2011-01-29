@@ -1,1 +1,1 @@
-Ordonnance Souveraine n° 16.605 du 10 janvier 2005 portant organisation des départements ministériels
+Ordonnance Souveraine n° 16.605 du 10 janvier 2005 portant organisation des Départements ministériels

@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 16.605 du 10 janvier 2005 portant organisation des départements ministériels
+# Ordonnance Souveraine n° 16.605 du 10 janvier 2005 portant organisation des Départements ministériels
 
-Version en vigueur au 15 janvier 2005.
+Version en vigueur au 29 janvier 2011.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2005/01-10-16.605@2005.01.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2005/01-10-16.605@2011.01.29/
 
 | | |
 | --- | --- |
