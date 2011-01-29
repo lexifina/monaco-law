@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 2.678 du 22 mars 2010 rendant exécutoire la liste des Interdictions 2010 - Standard international 2010 - et la liste des Autorisations à des fins thérapeutiques - Standard AUT 2010 - amendant les Annexes I et II de la Convention internationale contre le dopage dans le sport
