@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 11.986 du 2 juillet 1996 portant création de la direction de l'expansion économique
+# Ordonnance Souveraine n° 11.986 du 2 juillet 1996 portant création de la direction de l'expansion économique
 
-Version en vigueur au 13 juillet 1996.
+Version en vigueur au 29 janvier 2011.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1996/07-02-11.986@1996.07.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1996/07-02-11.986@2011.01.29/
 
 | | |
 | --- | --- |

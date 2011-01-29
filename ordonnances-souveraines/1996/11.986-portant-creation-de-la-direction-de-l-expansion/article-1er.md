@@ -8,6 +8,4 @@ Cette direction comporte quatre divisions :
 
 - la division du développement économique ;
 
-- la division de la propriété intellectuelle ;
-
-- la division des statistiques et des études économiques.
+- la division de la propriété intellectuelle.

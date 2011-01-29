@@ -6,8 +6,6 @@ La direction de l'expansion économique est notamment chargée :
 
 - de la tenue du répertoire du commerce et de l'industrie ;
 
-- de l'élaboration d'études et de statistiques permettant la fourniture régulière d'informations à caractère économique en particulier dans les secteurs du commerce, de l'industrie et de l'immobilier ;
-
 - du suivi des affaires juridiques relevant de son domaine d'activité ainsi que des propositions d'actualisation des dispositions législatives et réglementaires en vigueur, s'il y a lieu, de la conception de textes nouveaux.
 
 Cette direction est, en outre, habilitée à :
