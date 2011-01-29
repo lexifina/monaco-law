@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.073 du 10 janvier 2011 rendant exécutoire l'Accord entre la Principauté de Monaco et le Royaume de Suède sur l'échange de renseignements en matière fiscale, signé à Paris le 23 juin 2010
