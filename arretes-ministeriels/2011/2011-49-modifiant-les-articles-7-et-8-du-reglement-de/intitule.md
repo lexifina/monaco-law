@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2011-49 du 31 janvier 2011 modifiant les articles 7 et 8 du règlement de sécurité annexé à l'arrêté ministériel n° 99- 610 du 16 décembre 1999 relatif à la protection contre les risques d'incendie et de panique dans les bâtiments industriels
