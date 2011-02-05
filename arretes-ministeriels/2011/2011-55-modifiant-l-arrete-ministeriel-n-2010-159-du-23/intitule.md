@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2011-55 du 1er février 2011 modifiant l'arrêté ministériel n° 2010-159 du 23 mars 2010 portant application de l'ordonnance souveraine n° 2.693 du 23 mars 2010 relative à la coopération internationale en matière fiscale
