@@ -92,7 +92,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux hautement qualifiés (B 030)
 
-24° Contrôleur
+24°Contrôleur
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
@@ -116,7 +116,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux (B 040)
 
-30° Inspecteur-Chef Adjoint, Lieutenant de la Police Municipale
+30°Inspecteur-Chef Adjoint, Lieutenant de la Police Municipale
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
@@ -159,6 +159,14 @@ I. Grades ou emplois communs et particuliers
 40° Régisseur lumière
 
 - échelle des Chefs de bureau et assimilés (B 020)
+
+40°-1 Régisseur Son
+
+- échelle des Chefs de bureau et assimilés - (B 020)
+
+40°-2 Régisseur Plateau
+
+- échelle des Chefs de bureau et assimilés - (B 020)
 
 41° Responsable des auxiliaires de vie
 

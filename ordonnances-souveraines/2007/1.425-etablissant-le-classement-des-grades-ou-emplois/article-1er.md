@@ -116,6 +116,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de service - 1er groupe (A 030)
 
+25° - 1 Secrétaire Général Adjoint
+
+- échelle des Chefs de service - 2ème groupe (A 050)
+
 26° Secrétaire de Mairie
 
 - échelle des Chefs de division (A 090)

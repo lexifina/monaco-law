@@ -48,6 +48,14 @@ I. Grades ou emplois communs et particuliers
 
 - échelle 1 (C 154)
 
+11°-1 Assistant Plateau
+
+échelle 5 - (C 122)
+
+11°-2 Assistant Son
+
+échelle 5 - (C 122)
+
 12° Auxiliaire de puériculture
 
 - échelle 3 (C 142)
