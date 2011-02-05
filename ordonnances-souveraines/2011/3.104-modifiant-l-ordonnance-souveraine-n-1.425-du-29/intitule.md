@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.104 du 26 janvier 2011 modifiant l'Ordonnance Souveraine n° 1.425 du 29 novembre 2007 établissant le classement des grades ou emplois de l'administration communale dans les échelles indiciaires de traitement
