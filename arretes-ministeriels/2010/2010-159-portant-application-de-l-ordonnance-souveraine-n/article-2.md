@@ -1,6 +1,6 @@
 # Article 2
 
-Cette commission, présidée par le Conseiller de Gouvernement pour les Relations Extérieures et pour les Affaires Economiques et Financières Internationales, ou son représentant, comprend :
+Cette commission, présidée par le Conseiller de Gouvernement pour les Relations Extérieures, ou son représentant, comprend :
 
 - le Conseiller de Gouvernement pour les Finances et l'Économie ou son représentant,
 

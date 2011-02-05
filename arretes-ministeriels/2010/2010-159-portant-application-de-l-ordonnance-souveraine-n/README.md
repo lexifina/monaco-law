@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2010-159 du 23 mars 2010 portant application de l'ordonnance souveraine n° 2.693 du 23 mars 2010 relative à la coopération internationale en matière fiscale
 
-Version en vigueur au 27 mars 2010.
+Version en vigueur au 5 février 2011.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/03-23-2010-159@2010.03.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/03-23-2010-159@2011.02.05/
 
 | | |
 | --- | --- |
