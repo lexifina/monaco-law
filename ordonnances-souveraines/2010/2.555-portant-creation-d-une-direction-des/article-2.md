@@ -2,7 +2,7 @@
 
 Cette Direction est chargée :
 
-1) de planifier, d'allouer et de gérer l'ensemble des ressources de la Principauté de Monaco relatives au secteur des Communications Électroniques (fréquences, numérotation, «.mc», positions satellitaires, voies publiques [mldr]) ;
+1) de planifier, d'allouer et de gérer l'ensemble des ressources de la Principauté de Monaco relatives au secteur des Communications Électroniques (fréquences, numérotation, « .mc », positions satellitaires, voies publiques [mldr]) ;
 
 2) d'autoriser et de contrôler les activités des opérateurs en Principauté de Monaco, et de manière générale, de traiter l'ensemble des demandes des opérateurs publics ou privés et des consommateurs ou de leurs associations relatives au secteur des Communications Électroniques ;
 
@@ -14,4 +14,6 @@ Cette Direction est chargée :
 
 6) d'établir et de maintenir les relations avec les administrations et organismes étrangers spécialisés dans le domaine des Communications Électroniques ainsi qu'avec les opérateurs étrangers publics et privés ;
 
-7) d'assurer un rôle de consultation et de proposition sur la législation et la réglementation, au plan national et international, du secteur des Communications Électroniques.
+7) d'assurer un rôle de consultation et de proposition sur la législation et la réglementation, au plan national et international, du secteur des Communications Électroniques ;
+
+8) de mettre en place un service nommé NIC MONACO, Office d'enregistrement du domaine de premier niveau du système d'adressage par domaine de l'Internet correspondant à l'espace de nommage monégasque, chargé d'élaborer la charte de nommage dudit espace de nommage et d'établir les contrats d'enregistrement définissant les relations contractuelles de l'Office avec les Bureaux d'enregistrement.
