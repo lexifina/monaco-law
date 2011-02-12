@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.081 du 20 janvier 2011 approuvant la Convention et le Cahier des charges de la nouvelle concession d'exploitation du service public de collecte des résidus urbains et assimilés
