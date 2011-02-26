@@ -294,13 +294,11 @@ a) Un sens unique de circulation est instauré de la rue Grimaldi à la rue des 
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
-c) Le stationnement des véhicules est autorisé :
+Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-- du 1er novembre au 30 avril, du côté des numéros impairs ;
+c) Le stationnement des véhicules est autorisé exclusivement sur le côté gauche de la rue pour un temps ne pouvant dépasser 10 minutes et demeure interdit sur toutes les parties de voie indiquées par la signalisation horizontale et verticale réglementaire.
 
-- du 1er mai au 31 octobre, du côté des numéros pairs.
-
-Les dispositions de l'alinéa b) ne s'appliquent pas aux véhicules d'urgences et de secours.
+d) Le stationnement sur l'emplacement marqué au sol devant l'hôtel de France, est autorisé pour les clients de l'hôtel, pour une durée ne pouvant excéder 20 minutes.
 
 42) Vourette (Rue)
 
