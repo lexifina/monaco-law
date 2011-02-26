@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2011-78 du 16 février 2011 modifiant l'arrêté ministériel n° 2003-125 du 12 février 2003 fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques
