@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-126 du 12 février 2003 fixant la liste des substances qui ne peuvent être utilisées dans les produits cosmétiques en dehors des restrictions et conditions fixées par cette liste
 
-Version en vigueur au 3 avril 2010.
+Version en vigueur au 26 février 2011.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/02-12-2003-126@2010.04.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/02-12-2003-126@2011.02.26/
 
 | | |
 | --- | --- |
