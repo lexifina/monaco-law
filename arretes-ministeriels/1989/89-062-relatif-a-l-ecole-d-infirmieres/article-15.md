@@ -1,3 +1,0 @@
-# Article 15
-
-En cas d'inaptitude physique ou psychologique d'un élève mettant en danger la sécurité des maladies, le directeur de l'école peut suspendre immédiatement la scolarité de l'élève. Il adresse aussitôt un rapport motivé au médecin-inspecteur de l'action sanitaire et sociale. Si les éléments contenus dans ce rapport le justifient, le médecin-inspecteur peut demander un examen médical. Le directeur de l'école, en accord avec le médecin-inspecteur de l'action sanitaire et sociale et, le cas échéant, sur les conclusions écrites du médecin ayant effectué l'examen, prend toute disposition propre à garantir la sécurité des malades.
