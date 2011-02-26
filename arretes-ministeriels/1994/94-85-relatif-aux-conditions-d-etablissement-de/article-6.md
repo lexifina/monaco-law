@@ -1,6 +1,6 @@
 # Article 6
 
-À l'issue de l'examen médical, et après avoir, s'il le juge utile, demandé que le candidat à l'obtention ou au renouvellement du permis soit examiné par un ou plusieurs spécialistes, membres de la commission médicale d'appel prévue à l'article 7 ci-après, le médecin examinateur indique, sur la formule de certificat médical prévue à l'article premier, l'aptitude ou l'inaptitude du candidat à conduire les véhicules automobiles de la ou des catégories sollicitées.
+À l'issue de l'examen médical, et après avoir, s'il le juge utile, demandé que le candidat à l'obtention ou au renouvellement du permis soit examiné par un ou plusieurs spécialistes établis en Principauté de Monaco, le médecin examinateur indique, sur la formule de certificat médical prévue à l'article premier, l'aptitude ou l'inaptitude du candidat à conduire les véhicules automobiles de la ou des catégories sollicitées.
 
 Il mentionne, le cas échéant, la nécessité du port de verres correcteurs, de lentilles cornéennes ou d'un appareil de prothèse.
 

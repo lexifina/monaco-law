@@ -1,6 +1,6 @@
 # Article 5
 
-La liste des incapacités physiques incompatibles avec l'obtention ou le maintien des permis de conduire les véhicules des catégories :
+La liste des affections médicales incompatibles avec l'obtention ou le maintien des permis de conduire des véhicules des catégories :
 
 - A « cyclomoteurs », A1, A, B1, B et B + E ( « groupe léger ») d'une part ;
 
