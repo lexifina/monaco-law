@@ -26,6 +26,6 @@ Les actes médicaux suivants, dont la liste est limitative, peuvent être exécu
 
 - 9) Rééducation orthoptique.
 
-- 10) Rééducation de la parole et du langage.
+- 10) (10 abrogé) ;
 
 - 11) Maniement des appareils servant à enregistrer le pouls.

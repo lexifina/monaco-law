@@ -14,6 +14,6 @@ Les actes médicaux suivants ne peuvent être pratiqués que par les docteurs en
 
 - 6) Toute abrasion instrumentale des téguments à l'aide d'un matériel susceptible de provoquer l'effusion du sang (rabotage, meulage, fraisage).
 
-- 7) Le maniement des appareils servant à déterminer la réfraction oculaire.
+- 7) (7 abrogé) ;
 
 - 8) L'audiométrie tonale et vocale à l'exclusion des mesures pratiquées pour l'appareillage de déficients de l'ouïe.
