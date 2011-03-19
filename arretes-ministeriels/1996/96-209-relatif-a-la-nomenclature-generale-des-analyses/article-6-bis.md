@@ -2,6 +2,6 @@
 
 Supplément pour acte de biologie effectué sur les patients hospitalisés en établissements de soins privés :
 
-Compte tenu des obligations liées aux prestations particulières exigées des laboratoires travaillant avec les établissements de soins privés, un supplément B 5 (9107) par ordonnance pour l'ensemble de la prescription s'applique pour toute demande d'examens biologiques concernant un patient hospitalisé.
+Compte tenu des obligations liées aux prestations particulières exigées des laboratoires travaillant avec les établissements de soins privés, un supplément B 7 (9107) par ordonnance pour l'ensemble de la prescription s'applique pour toute demande d'examens biologiques concernant un patient hospitalisé.
 
 Il ne peut être facturé qu'un supplément par patient et par jour.

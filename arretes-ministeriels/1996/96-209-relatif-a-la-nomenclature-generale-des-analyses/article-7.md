@@ -24,6 +24,10 @@ Cotations correspondantes à utiliser pour les prélèvements effectués par les
 
 9055 - | Tubage gastrique............ | 10
 
+9056 | Prélèvements artériels | KB 5
+
+9057 | Prélèvements médullaires | KB 5
+
 Cotations à utiliser pour les techniciens de laboratoire (TB) :
 
 9070 - | Prélèvements par ponction veineuse directe ............ | 1,5
