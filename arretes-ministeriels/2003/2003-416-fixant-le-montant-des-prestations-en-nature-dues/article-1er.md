@@ -122,6 +122,8 @@ DC [D] | Certains actes dentaires | 1,29
 
 SCP [D] | Soins conservateurs et prothèses | 1,29
 
+DIMP | Actes de prothèse dentaire réalisée sur implant | 1,29
+
 Z | Actes avec radiations ionisantes | 0,74
 
 Majorations pour dimanche et nuit : |
