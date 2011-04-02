@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.208 du 29 mars 2011 modifiant l'Ordonnance Souveraine n° 8.001 du 9 mai 1984, modifiée, portant classification des postes diplomatiques et consulaires à l'étranger
