@@ -10,19 +10,21 @@ La liste des affections comportant un traitement prolongé et une thérapeutique
 
 - bilharziose compliquée ;
 
-- insuffisance cardiaque grave, troubles du rythme graves, cardiopathies valvulaires graves, cardiopathies congénitales graves ;
+- insuffisance cardiaque grave, troubles du rythme graves, cardiopathies valvulaires graves ;
 
-- maladies chroniques du foie et cirrhose ;
+- cardiopathies congénitales graves ;
 
-- déficit immunitaire primitif grave nécessitant un traitement prolongé, infection par le virus de l'immuno-déficience humaine ;
+- maladies chroniques actives du foie et cirrhoses ;
+
+- déficit immunitaire primitif grave nécessitant un traitement prolongé, infection par le virus de l'immunodéficience humaine ;
 
 - diabète de type 1 et diabète de type 2 ;
 
 - formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave ;
 
-- hémoglobinopathie, hémolyses, chroniques constitutionnelles et acquises sévères ;
+- hémoglobinopathies, hémolyses, chroniques constitutionnelles et acquises sévères ;
 
-- hémophilie et affections constitutionnelles de l'hémostase graves ;
+- hémophilies et affections constitutionnelles de l'hémostase graves ;
 
 - hypertension artérielle sévère ;
 
@@ -38,13 +40,13 @@ La liste des affections comportant un traitement prolongé et une thérapeutique
 
 - mucoviscidose ;
 
-- néphropathie chronique grave et syndrome néphrotique primitif :
+- néphropathie chronique grave et syndrome néphrétique primitif ;
 
 - paraplégie ;
 
-- périartérie noueuse, lupus érythémateux aigu disséminé, sclérodermie généralisée évolutive ;
+- vascularites, lupus érythémateux systémique, sclérodermie systémique ;
 
-- polyarthrite rhumatoïde évolutive grave ;
+- polyarthrite rhumatoïde évolutive ;
 
 - affections psychiatriques de longue durée ;
 
@@ -52,11 +54,11 @@ La liste des affections comportant un traitement prolongé et une thérapeutique
 
 - sclérose en plaques ;
 
-- scoliose structurale évolutive (dont l'angle est égal ou supérieur à 25 degrés) jusqu'à maturation rachidienne ;
+- scoliose idiopathique structurale évolutive ;
 
-- spondylarthrite ankylosante grave ;
+- spondylarthrite grave ;
 
-- suite de transplantation d'organe ;
+- suites de transplantation d'organe ;
 
 - tuberculose active, lèpre ;
 
