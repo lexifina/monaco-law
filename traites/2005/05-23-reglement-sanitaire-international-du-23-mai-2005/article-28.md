@@ -1,0 +1,21 @@
+# Article 28
+
+1. Sous réserve des dispositions de l'article 43 ou de celles des accords internationaux applicables, un navire ou un aéronef ne peut être empêché, pour des raisons de santé publique, de faire escale à un point d'entrée. Toutefois, si ce point d'entrée n'est pas équipé pour appliquer les mesures sanitaires prévues par le présent Règlement, ordre peut être donné au navire ou à l'aéronef de poursuivre sa route, à ses propres risques, jusqu'au point d'entrée approprié le plus proche à sa disposition, sauf si un problème technique rend ce déroutement dangereux.
+
+2. Sous réserve des dispositions de l'article 43 ou de celles des accords internationaux applicables, la libre pratique ne peut être refusée, pour des raisons de santé publique, à un navire ou un aéronef par les États Parties ; en particulier, il ne peut être empêché de procéder à l'embarquement ou au débarquement, au déchargement ou au chargement de marchandises ou de ravitaillement, ni d'embarquer du carburant, de l'eau, de la nourriture et des provisions. Les États Parties peuvent subordonner l'autorisation de libre pratique à une inspection et, si une source d'infection ou de contamination est découverte à bord, à la désinfection, à la décontamination, à la désinsectisation ou à la dératisation du navire ou de l'aéronef, ou à d'autres mesures nécessaires pour prévenir la propagation de l'infection ou de la contamination.
+
+3. Lorsque cela est possible, et sous réserve des dispositions du paragraphe précédent, un État Partie accorde la libre pratique à un navire ou un aéronef par radio ou par un autre moyen de communication lorsque, d'après les informations reçues de ce navire ou cet aéronef avant son arrivée, l'État Partie estime que cette arrivée n'entraînera pas l'introduction ou la propagation d'une maladie.
+
+4. Le capitaine d'un navire ou le commandant de bord d'un aéronef, ou leur représentant informe les contrôleurs du port ou de l'aéroport dès que possible avant l'arrivée au port ou à l'aéroport de destination des éventuels cas de maladie indicatifs d'une pathologie de nature infectieuse, ou des éléments attestant l'existence d'un risque pour la santé publique à bord dès que le capitaine ou le commandant a connaissance de ces maladies ou de ces risques pour la santé publique. Ces informations doivent être immédiatement transmises à l'autorité compétente du port ou de l'aéroport. En cas d'urgence, elles devront être communiquées directement par le capitaine ou le commandant aux autorités compétentes du port ou de l'aéroport.
+
+5. Si, pour des raisons indépendantes de la volonté de son commandant de bord ou de son capitaine, un aéronef ou un navire suspect ou affecté atterrit ailleurs que sur l'aéroport prévu, ou mouille dans un autre port que le port d'arrivée prévu, les dispositions suivantes s'appliquent :
+
+a) le commandant de bord de l'aéronef ou le capitaine du navire, ou toute autre personne qui en est responsable, s'efforce par tous les moyens de communiquer sans délai avec l'autorité compétente la plus proche ;
+
+b) dès que l'autorité compétente a été informée de l'atterrissage ou du mouillage, elle peut appliquer les mesures sanitaires recommandées par l'OMS ou d'autres mesures sanitaires prévues dans le présent Règlement ;
+
+c) sauf si l'urgence ou les besoins de la communication avec l'autorité compétente l'exigent, aucun voyageur présent à bord de l'aéronef ou du navire ne s'en éloigne et aucune cargaison n'en est éloignée, à moins que l'autorité compétente ne l'autorise ; et
+
+d) une fois mises en œuvre toutes les mesures sanitaires prescrites par l'autorité compétente, l'aéronef ou le navire peut, pour ce qui est de ces mesures sanitaires, poursuivre sa route soit jusqu'à l'aéroport ou au port où il devait atterrir ou mouiller soit, si des raisons techniques l'en empêchent, jusqu'à un aéroport ou un port commodément situé.
+
+6. Nonobstant les dispositions du présent article, le capitaine d'un navire ou le commandant de bord d'un aéronef peut prendre toutes les mesures d'urgence qui peuvent être nécessaires pour protéger la santé et la sécurité des passagers. Il informe l'autorité compétente dès que possible de toute mesure prise en application du présent paragraphe.

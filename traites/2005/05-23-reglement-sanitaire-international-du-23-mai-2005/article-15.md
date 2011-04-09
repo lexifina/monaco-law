@@ -1,0 +1,7 @@
+# Article 15
+
+1. S'il a été établi, conformément à l'article 12, qu'il existe une urgence de santé publique de portée internationale, le Directeur général publie des recommandations temporaires conformément à la procédure énoncée à l'article 49. Ces recommandations temporaires peuvent être modifiées ou prolongées, selon le cas, notamment après qu'il a été établi qu'une urgence de santé publique de portée internationale a cessé, après quoi d'autres recommandations temporaires peuvent être publiées, selon les besoins, aux fins d'en prévenir ou détecter rapidement la résurgence.
+
+2. Les recommandations temporaires peuvent concerner les mesures sanitaires à mettre en œuvre par l'État Partie où survient l'urgence de santé publique de portée internationale, ou par d'autres États Parties, en ce qui concerne les personnes, bagages, cargaisons, conteneurs, moyens de transport, marchandises et/ou colis postaux pour prévenir ou réduire la propagation internationale de maladies et éviter toute entrave inutile au trafic international.
+
+3. Les recommandations temporaires peuvent à tout moment être annulées conformément à la procédure définie à l'article 49 et expirent automatiquement trois mois après leur publication. Elles peuvent être modifiées ou prolongées pour des périodes supplémentaires de trois mois au maximum. Les recommandations temporaires ne peuvent être maintenues au-delà de la deuxième Assemblée mondiale de la Santé qui suit la décision relative à l'urgence de santé publique de portée internationale à laquelle elles se rapportent.

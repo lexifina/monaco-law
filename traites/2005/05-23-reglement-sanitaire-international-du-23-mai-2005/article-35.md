@@ -1,0 +1,3 @@
+# Article 35
+
+Aucun document sanitaire autre que ceux prévus par le présent Règlement ou par des recommandations de l'OMS n'est exigé dans le trafic international, étant toutefois entendu que le présent article ne s'applique pas aux voyageurs sollicitant une autorisation de résidence temporaire ou permanente, et qu'il ne s'applique pas non plus aux documents relatifs à l'état, au regard de la santé publique, des marchandises ou cargaisons entrant dans le commerce international exigés par les accords internationaux applicables. L'autorité compétente peut exiger des voyageurs qu'ils remplissent des formulaires de renseignements sur leurs contacts et des questionnaires de santé, pour autant que soient réunies les conditions énoncées à l'article 23.

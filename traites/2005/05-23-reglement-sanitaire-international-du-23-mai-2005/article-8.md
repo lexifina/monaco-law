@@ -1,0 +1,3 @@
+# Article 8
+
+Dans le cas où se produisent sur son territoire des événements n'exigeant pas la notification prévue à l'article 6, en particulier des événements pour lesquels il ne dispose pas de suffisamment d'informations pour utiliser l'instrument de décision, un État Partie peut néanmoins en tenir l'OMS informée par l'intermédiaire de son point focal national RSI, et consulter l'OMS à propos des mesures sanitaires à prendre. Ces communications sont régies par les dispositions des paragraphes 2 à 4 de l'article 11. L'État Partie sur le territoire duquel s'est produit l'événement peut demander à l'OMS de l'aider à vérifier les informations épidémiologiques qu'il a pu obtenir.

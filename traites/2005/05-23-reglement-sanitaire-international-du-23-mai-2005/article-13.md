@@ -1,0 +1,13 @@
+# Article 13
+
+1. Chaque État Partie acquiert, renforce et maintient, dès que possible mais au plus tard dans les cinq ans suivant l'entrée en vigueur du présent Règlement à l'égard de cet État Partie, la capacité de réagir rapidement et efficacement en cas de risque pour la santé publique et d'urgence de santé publique de portée internationale, conformément à l'annexe 1. L'OMS publie, en consultation avec les États Membres, des principes directeurs pour aider les États Parties à acquérir les capacités d'action de santé publique.
+
+2. À la suite de l'évaluation visée au paragraphe 2 de la partie A de l'annexe 1, un État Partie peut rendre compte à l'OMS en invoquant un besoin justifié et un plan d'action et, ce faisant, obtenir un délai supplémentaire de deux ans pour remplir l'obligation qui lui incombe aux termes du paragraphe 1 du présent article. Dans des circonstances exceptionnelles et en faisant valoir un nouveau plan d'action, l'État Partie peut demander que le délai soit encore prolongé de deux ans au maximum au Directeur général, qui prend la décision en tenant compte de l'avis technique du Comité d'examen. Après la période prévue au paragraphe 1 du présent article, l'État Partie qui a obtenu un délai supplémentaire rend compte tous les ans à l'OMS des progrès accomplis dans la mise en œuvre complète.
+
+3. À la demande d'un État Partie, l'OMS collabore à l'action en cas de risque pour la santé publique et d'autres événements en fournissant des conseils et une assistance techniques et en évaluant l'efficacité des mesures de lutte mises en place, y compris, le cas échéant, en mobilisant des équipes internationales d'experts pour prêter assistance sur place.
+
+4. Si l'OMS, en consultation avec les États Parties concernés conformément à l'article 12, établit qu'il existe une urgence de santé publique de portée internationale, elle peut offrir, outre le soutien indiqué au paragraphe 3 du présent article, une assistance supplémentaire à l'État Partie, et notamment une évaluation de la gravité du risque international et de l'adéquation des mesures de lutte. Elle peut, au titre de cette collaboration, offrir de mobiliser une assistance internationale afin d'aider les autorités nationales à conduire et coordonner les évaluations sur place. À la demande de l'État Partie, l'OMS communique des informations à l'appui de cette offre.
+
+5. À la demande de l'OMS, les États Parties soutiennent, dans la mesure du possible, l'action coordonnée par l'OMS.
+
+6. À leur demande, l'OMS offre de fournir des conseils et une assistance appropriés aux autres États Parties affectés ou menacés par l'urgence de santé publique de portée internationale.

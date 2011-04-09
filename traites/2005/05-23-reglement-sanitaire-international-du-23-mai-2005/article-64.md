@@ -1,0 +1,5 @@
+# Article 64
+
+1. Les États non Membres de l'OMS, mais qui sont Parties à un accord ou règlement sanitaire international visé à l'article 58 ou auxquels le Directeur général a notifié l'adoption du présent Règlement par l'Assemblée mondiale de la Santé, peuvent devenir Parties à celui-ci en notifiant leur acceptation au Directeur général. Sous réserve des dispositions de l'article 62, cette acceptation prend effet à la date d'entrée en vigueur du présent Règlement ou, si elle est notifiée après cette date, trois mois après le jour de la réception par le Directeur général de ladite notification.
+
+2. Les États non Membres de l'OMS devenus Parties au présent Règlement peuvent à tout moment dénoncer leur participation audit Règlement par une notification adressée au Directeur général ; cette dénonciation prend effet six mois après réception de la notification. L'État qui a dénoncé sa participation applique de nouveau, à partir de ce moment, les dispositions de tout accord ou règlement sanitaire international visé à l'article 58 auquel il était précédemment Partie.

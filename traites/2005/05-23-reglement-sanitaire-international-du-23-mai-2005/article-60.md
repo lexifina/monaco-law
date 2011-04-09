@@ -1,0 +1,3 @@
+# Article 60
+
+Tout État qui devient Membre de l'OMS après la date de la notification par le Directeur général visée au paragraphe 1 de l'article 59, et qui n'est pas déjà Partie au présent Règlement, peut faire savoir qu'il le refuse ou qu'il y fait des réserves dans un délai de 12 mois à compter de la date de la notification que lui a adressée le Directeur général après qu'il est devenu Membre de l'OMS. Sous réserve des dispositions des articles 62 et 63, et sauf en cas de refus, le présent Règlement entre en vigueur à l'égard de cet État à l'expiration du délai susvisé. Le présent Règlement n'entre en aucun cas en vigueur à l'égard de cet État moins de 24 mois après la date de la notification visée au paragraphe 1 de l'article 59.

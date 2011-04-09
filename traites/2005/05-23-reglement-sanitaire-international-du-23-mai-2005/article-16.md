@@ -1,0 +1,3 @@
+# Article 16
+
+L'OMS peut formuler des recommandations permanentes en vue de l'application systématique ou périodique de mesures sanitaires appropriées, conformément à l'article 53. De telles mesures peuvent être appliquées par les États Parties en ce qui concerne les personnes, bagages, cargaisons, conteneurs, moyens de transport, marchandises et/ou colis postaux en cas de risques précis persistants pour la santé publique aux fins de prévenir ou de réduire la propagation internationale de maladies et d'éviter les entraves inutiles au trafic international. L'OMS peut, en vertu de l'article 53, modifier ces recommandations ou les annuler, le cas échéant.
