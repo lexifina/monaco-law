@@ -56,11 +56,13 @@ Les postes consulaires sont les suivants :
 
 - Estonie : Tallinn ;
 
-- États-Unis d'Amérique : Atlanta, Boston, Chicago, Dallas, Los Angeles, Miami, New York, San Francisco ;
+- États-Unis d'Amérique : Atlanta, Boston, Chicago, Dallas, Las Vegas, Los Angeles, Miami, New York, San Francisco ;
 
 - Finlande : Helsinki ;
 
 - France : Bordeaux, Calais, Le Havre, Lyon, Marseille, Montpellier, Nice, Papeete, Strasbourg, Toulouse ;
+
+- Gabon : Libreville ;
 
 - Grande-Bretagne : Birmingham, Bristol, Edimbourg, Londres, Manchester ;
 
@@ -100,7 +102,7 @@ Les postes consulaires sont les suivants :
 
 - Malte : La Valette ;
 
-- Maroc : Rabat ;
+- Maroc : Agadir, Casablanca, Rabat ;
 
 - Mauritanie : Nouakchott ;
 
