@@ -6,40 +6,50 @@ Sont soumis aux règles de comptabilisation des recettes brutes, les jeux ci-apr
 
 - Baccara Chemin de fer
 
-2°) Jeux de contrepartie
+2°) Jeux de contrepartie :
 
-- Jeux dits « Européens » ou « Américains »
+Jeux dits «Européens' ou »Américains' :
 
-- Banque à Tout Va
+- - Banque à Tout Va
 
-- Roulette
+- - Black Jack
 
-- Trente et Quarante
+- - Black Jack one Deck ou Black Jack Un Jeu
 
-- Black Jack
+- - Black Jack Perfect Pairs ou Black Jack Paires Parfaites
 
-- Carribean Gold Poker
+- - Boule
 
-- Craps
+- - Craps
 
-- Pai Gow Poker
+- - Carribean Gold Poker
 
-- Punto Banco
+- - Grande Roue
 
-- Roulette Américaine
+- - King Three Cards Baccara ou Baccara Trois Cartes du Roi
 
-- Roulette Anglaise
+- - Paï Gow Poker
 
-- Stud Poker de Casino
+- - Punto Banco
 
-- Poker trois cartes
+- - Roulette
 
-- Bataille
+- - Roulette Américaine
 
-- Grande Roue
+- - Roulette Anglaise
 
-- Poker Texas Hold'Hem Ultimate
+- - Stud Poker de Casino
 
-- Poker Texas Hold'em no limit.
+- - Stud Poker Progressif
+
+- - Texas Hold'em Ultimate
+
+- - Texas Hold'em No Limit ou Texas Hold'em Sans Limite
+
+- - Three Cards Poker ou Poker Trois Cartes
+
+- - Trente et Quarante
+
+- - War Game ou jeu dit de la Bataille.'
 
 3°) Appareils automatiques

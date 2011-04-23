@@ -1,6 +1,6 @@
 # Article 11
 
-11.1. - La relève de la table est réalisée par le Directeur adjoint ou le Sous-Directeur du baccara, les cadres, employés de jeux et représentants de la Direction administrative tels que prévus par le règlement intérieur de la maison de jeux.
+11.1. - La relève de la table est réalisée par le Directeur Adjoint ou le Sous-Directeur du Baccara, les cadres, employés de jeux et représentants de la Direction Administrative ou de la Direction Financière.
 
 11.2. - Le montant des carnets de tickets de contrôle est annoncé pu comptabilisé sur le registre prévu à cet effet et propre à chaque table.
 

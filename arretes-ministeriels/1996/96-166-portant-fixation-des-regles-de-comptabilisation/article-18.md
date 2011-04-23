@@ -4,7 +4,7 @@
 
 Toute modification d'horaire devra être notifiée sans délai, à l'autorité concédante.
 
-18.2. - La comptée différée est effectuée par et sous la responsabilité du Contrôle Financier et de la Direction Administrative.
+18.2. - La comptée différée est effectuée par et sous la responsabilité [de la] Direction Financière et de la Direction Administrative.
 
 18.3. - La comptée a lieu dans la salle de comptée. Les opérations de comptée se déroulent porte fermée à clé, sous surveillance vidéo, et sont enregistrées.
 
