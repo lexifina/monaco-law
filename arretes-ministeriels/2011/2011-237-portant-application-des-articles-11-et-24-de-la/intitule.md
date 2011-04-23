@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2011-237 du 15 avril 2011 portant application des articles 11 et 24 de la loi n° 1.362 du 3 août 2009 relative à la participation des organismes financiers à la lutte contre le blanchiment de capitaux et le financement du terrorisme et la corruption visant la République populaire démocratique de Corée
