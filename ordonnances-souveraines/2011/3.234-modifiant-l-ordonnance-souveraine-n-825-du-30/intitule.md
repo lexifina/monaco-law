@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.234 du 18 avril 2011 modifiant l'Ordonnance Souveraine n° 825 du 30 novembre 2006 portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du quartier ordonnancé du Jardin Exotique
