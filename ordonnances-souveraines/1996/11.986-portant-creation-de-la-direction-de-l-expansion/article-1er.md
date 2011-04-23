@@ -2,10 +2,22 @@
 
 Il est créé au département des finances et de l'économique une direction de l'expansion économique en remplacement de la direction du commerce, de l'industrie et de la propriété industrielle.
 
-Cette direction comporte quatre divisions :
+La Direction de l'Expansion Économique est organisée autour d'un service et de deux pôles de compétence fonctionnels comme suit :
 
-- la division de l'Administration générale ;
+- Le Service Espace Entreprises - Monaco Business Office ou «Front Office' incluant :
 
-- la division du développement économique ;
+- la division du développement et du financement de l'économie.
+
+- Le Pôle Administration Générale ou »Back Office' constitué de :
+
+- la division de la création d'entreprises,
+
+- la division du contrôle de l'activité des entreprises,
+
+- la division des études juridiques,
+
+- la section répertoire du commerce et de l'industrie.
+
+Le Pôle Propriété Intellectuelle composé de :
 
 - la division de la propriété intellectuelle.
