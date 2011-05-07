@@ -28,7 +28,7 @@
 
 (g) une déclaration précisant que la Partie requérante a utilisé pour obtenir les renseignements tous les moyens disponibles sur son propre territoire, hormis ceux qui susciteraient des difficultés disproportionnées.
 
-6. L'Autorité compétente de la Partie requise transmet aussi rapidement que possible à la Partie requérante les renseignements demandés. Pour assurer une réponde rapide, l'Autorité compétente de la Partie requise :
+6. L'Autorité compétente de la Partie requise transmet aussi rapidement que possible à la Partie requérante les renseignements demandés. Pour assurer une réponse rapide, l'Autorité compétente de la Partie requise :
 
 (a) accuse réception de la demande par écrit à l'Autorité compétente de la Partie requérante et, dans les 60 jours à compter de la réception de la demande, avise cette autorité des éventuelles lacunes de la demande ;
 

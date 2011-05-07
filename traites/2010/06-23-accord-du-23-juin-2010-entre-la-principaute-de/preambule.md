@@ -1,19 +1,23 @@
-Le Gouvernement de la Principauté de Monaco et le Gouvernement du Royaume de Norvège souhaitant conclure un Accord relatif aux renseignements en matière fiscale,
+Le Gouvernement de la Principauté de Monaco et le Gouvernement des Îles Féroé,
+
+Souhaitant conclure un accord relatif aux renseignements en matière fiscale,
+
+Considérant que le Gouvernement des Îles Féroé conclu cet Accord au nom du Royaume de Danemark conformément au traité sur la conclusion d'accords de Droit international par le Gouvernement des Îles Féroé,
 
 Sont convenus des dispositions suivantes :
 
 En foi de quoi, les soussignés, dûment autorisés à cet effet, ont signé le présent Accord.
 
-Fait à Paris le vingt-trois juin deux mille dix, en double exemplaire dans les langues française, norvégienne et anglaise, tous textes faisant également foi. En cas de divergence, le texte en langue anglaise prévaut.
+Fait à Paris, le vingt-trois juin deux mille dix, en double exemplaire dans les langues française et anglaise tous textes faisant également foi. En cas de divergence, le texte en langue anglaise prévaut.
 
 Pour le Gouvernement de la Principauté de Monaco,
 
-Le Conseiller du Gouvernement pour les Relations Extérieures et pour les Affaires Économiques et Financières Internationales
+Le Conseiller de Gouvernement pour les Relations Extérieures et pour les Affaires Économiques et Financières Internationales
 
-S.E. M. F. Biancheri.
+S.E. M. Franck Biancheri
 
-Pour le Gouvernementdu Royaume de Norvège,
+Pour le Gouvernement des Îles Féroé
 
-L'Ambassadeur du Royaume de Norvège en France
+Jákup Eyofmn Kjaerbo
 
-S.E. M. T. O. Brautaset.
+Directør
