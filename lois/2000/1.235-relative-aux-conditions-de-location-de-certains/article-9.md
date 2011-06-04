@@ -10,6 +10,8 @@ Il doit préciser :
 
 - le montant du loyer, ses modalités de paiement et, le cas échéant, ses règles de révision ;
 
-- le montant du dépôt de garantie, s'il en est prévu un.
+- le montant du dépôt de garantie, s'il en est prévu un ;
+
+- la désignation, le cas échéant, des pièces affectées à l'exercice d'une activité associative ou professionnelle non commerciale.
 
 Un état des lieux, établi contradictoirement par les parties lors de la remise des clefs ou, à défaut, par huissier de justice à l'initiative de la partie la plus diligente et aux frais partagés du propriétaire et du locataire, est annexé au contrat.

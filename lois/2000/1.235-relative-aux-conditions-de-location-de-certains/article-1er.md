@@ -4,7 +4,7 @@ Les locaux à usage d'habitation construits ou achevés avant le 1er septembre 1
 
 - de ceux qui relèvent de la loi n° 887 du 25 juin 1970,
 
-- de ceux dont l'ancien occupant, antérieurement à l'entrée en vigueur de la présente loi, était propriétaire par dévolution successorale ou pour les avoirs acquis, à titre gratuit ou onéreux, plus de deux ans avant le jour où son occupation a pris fin, et n'était pas entré dans les lieux par l'exercice d'un droit de rétention ou de reprise ;
+- de ceux qui, antérieurement à l'entrée en vigueur de la présente loi, ont été libérés par le départ du dernier occupant, lorsque plus de deux ans avant le jour où son occupation a pris fin, celui-ci en était propriétaire par dévolution successorale ou les avait acquis à titre gratuit ou onéreux et n'était pas entré dans les lieux par l'exercice d'un droit de rétention ou de reprise ;
 
 - de ceux nouvellement affectés, depuis le 25 juin 1970, à la location à usage d'habitation ;
 

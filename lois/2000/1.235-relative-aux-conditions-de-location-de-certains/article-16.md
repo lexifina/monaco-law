@@ -2,6 +2,6 @@
 
 En cas de divorce ou de séparation de corps, le contrat de location se poursuit jusqu'à son terme au profit du conjoint auquel a été attribué le domicile conjugal.
 
-En cas de décès du titulaire du bail, le contrat se poursuit également jusqu'à son terme au profit du conjoint non séparé, de l'enfant, du père ou de la mère, vivant, dans les lieux au moment du décès.
+En cas de décès, d'abandon de domicile ou de départ définitif pour raison de santé du titulaire du bail, le contrat de location se poursuit également jusqu'à son terme au profit du conjoint non séparé, de l'enfant, du père, de la mère ou de la personne protégée au sens des articles 3 et 4, vivant dans les lieux au jour du décès, de l'abandon ou du départ.
 
-Par dérogation aux dispositions de l'article 8, lesdits contrats peuvent être renouvelés au profit des personnes visées ci-dessus.
+Ces personnes bénéficient des dispositions protectrices de la présente loi.
