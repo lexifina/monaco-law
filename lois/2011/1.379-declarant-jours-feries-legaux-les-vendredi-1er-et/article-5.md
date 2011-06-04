@@ -1,0 +1,3 @@
+# Article 5
+
+Les commerces de détail qui souhaiteraient exercer une activité le dimanche 3 juillet 2011 bénéficient de plein droit d'une suspension du repos dominical dans les conditions prévues aux articles 5 et 6 de la loi n° 822 du 23 juin 1967 sur le repos hebdomadaire. Toutefois, par dérogation à l'article 5 de la loi n° 822 du 23 juin 1967, susmentionnée, cette suspension n'est pas comptabilisée au titre du nombre maximum autorisé au premier alinéa de cet article, et les commerces visés à l'alinéa précédent sont dispensés de la notification à l'inspecteur du travail prévue au second alinéa de ce même article.
