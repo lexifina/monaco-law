@@ -4,9 +4,9 @@ Lorsque la saisie-arrêt est pratiquée entre les mains d'une banque ou de tout 
 
 Le solde des sommes peut être affecté pendant un délai de quarante jours, à l'avantage ou au préjudice du saisissant, par les opérations suivantes, dès lors qu'il est prouvé que leur date est antérieure à la saisie :
 
-- a) au crédit : les remises faites antérieurement, en vue de leur encaissement, de chèques ou d'effets de commerce, non encore portés au compte ;
+- a ) au crédit : les remises faites antérieurement, en vue de leur encaissement, de chèques ou d'effets de commerce, non encore portés au compte ;
 
-- b) au débit :
+- b ) au débit :
 
   - a. l'imputation des chèques remis à l'encaissement portés au crédit du compte antérieurement à la saisie et revenus impayés ;
 
