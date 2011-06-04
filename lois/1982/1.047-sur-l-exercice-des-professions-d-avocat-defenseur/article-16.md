@@ -16,4 +16,4 @@ Les professions d'avocat-défenseur et d'avocat sont incompatibles avec :,
 
 - 7° toute activité de nature à porter atteinte à l'indépendance de l'intéressé ou au caractère libéral de sa profession.
 
-- L'avocat-défenseur et l'avocat peuvent, avec l'autorisation du conseil de l'Ordre, gérer des intérêts familiaux à l'exception toutefois de tout exercice même indirect du commerce dans l'exécution de cette gestion.
+L'avocat-défenseur et l'avocat peuvent, avec l'autorisation du conseil de l'Ordre, gérer des intérêts familiaux à l'exception toutefois de tout exercice même indirect du commerce dans l'exécution de cette gestion.
