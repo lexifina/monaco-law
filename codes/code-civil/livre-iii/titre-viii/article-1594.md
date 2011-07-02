@@ -12,4 +12,4 @@ Les réparations locatives ou de menu entretien dont le locataire est tenu, s'il
 
 - Aux portes, croisées, planches de cloison ou de fermeture de boutique, gonds, targettes et serrures.
 
-- Aucune des réparations réputées locatives n'est à la charge des locataires, quand elles ne sont occasionnées que par vétusté ou force majeure.
+Aucune des réparations réputées locatives n'est à la charge des locataires, quand elles ne sont occasionnées que par vétusté ou force majeure.
