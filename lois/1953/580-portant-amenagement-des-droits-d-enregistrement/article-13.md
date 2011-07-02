@@ -6,11 +6,7 @@ Il n'est perçu que moitié du droit sur les ventes aux enchères publiques d'ob
 
 2° Les constitutions de rentes, soit perpétuelles, soit viagères et de pensions à titre onéreux ; les cessions, transports, et délégations qui en sont faites au même titre, et les baux de biens meubles faits pour un temps illimité ;
 
-3° Les échanges de biens immeubles.
-
-Le droit sera perçu sur la valeur d'une des parts, lorsqu'il n'y aura aucun retour.
-
-S'il y a retour, le droit sera payé à raison de 5 % sur la moindre portion et comme pour vente sur le retour ou la plus-value ;
+3° (3° abrogé) ;
 
 4° Les démissions de biens meubles ou immeubles en ligne directe ;
 

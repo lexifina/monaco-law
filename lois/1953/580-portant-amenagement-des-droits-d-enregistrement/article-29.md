@@ -4,7 +4,7 @@ Les droits à percevoir sur les formalités hypothécaires sont fixés aux taux 
 
 - 1° Formalités soumises au droit fixe de dix euros :
 
-- Les transcriptions de tous les actes pour lesquels le droit proportionnel de transcription à un franc pour cent francs aura été perçu lors de leur présentation à la formalité de l'enregistrement et la transcription des baux.
+- Les actes comportant mutation de propriété et autres actes soumis à la formalité de la transcription qui sont assujettis au droit proportionnel d'enregistrement.
 
 - 2° Formalités soumises au tarif de 0,65 %.
 
@@ -18,7 +18,7 @@ Les droits à percevoir sur les formalités hypothécaires sont fixés aux taux 
 
 - 4° Formalités soumises au tarif de 1 %.
 
-- Les actes comportant mutation de propriété et autres actes soumis à la formalité de la transcription et non assujettis au droit fixe.
+- Les actes comportant mutation de propriété et autres actes soumis à la formalité de la transcription qui sont assujettis à la taxe sur la valeur ajoutée.
 
 - 5° Dispositions particulières :
 

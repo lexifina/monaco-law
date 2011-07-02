@@ -12,6 +12,6 @@ Si les futurs sont dotés par leurs ascendants, ou s'il leur est fait des donati
 
 S'il y a seulement réduction de l'inscription, il ne sera perçu qu'un droit fixe de dix euros par chaque acte.
 
-4° Les partages de biens immeubles ou de biens meubles, y compris les valeurs mobilières étrangères de quelque nature qu'elles soient entre copropriétaires, cohéritiers, coassociés, à quelque titre que ce soit, pourvu qu'il en soit justifié.
+4° À l'exception des dispositions du chiffre 2° de l'article 12, les partages de biens immeubles ou de biens meubles, y compris les valeurs mobilières étrangères de quelque nature qu'elles soient entre copropriétaires, cohéritiers, coassociés, à quelque titre que ce soit, pourvu qu'il en soit justifié.
 
 S'il y a retour ou plus-value, le droit sur ce qui en sera l'objet sera perçu aux taux réglés pour les ventes.
