@@ -4,4 +4,4 @@ Toute personne physique ou morale se livrant à des opérations d'intermédiaire
 
 Ces répertoires, tenus dans les formes de ceux des officiers publics et ministériels, sont soumis à la cote et au paraphe du président du tribunal de première instance. Ils doivent être présentés au visa du receveur de l'enregistrement dans la première décade des mois de janvier, avril, juillet et octobre de chaque année.
 
-Toute infraction au présent article est punie de l'amende prévue au chiffre 2 de l'article 29 du Code pénal
+Toute infraction aux dispositions du présent article est punie d'une amende de 150 à 15 000 euros.
