@@ -220,6 +220,8 @@ SFI | Soins infirmiers pratiqués par la sage-femme | 2,73euro(s)
 
 CSF2 | Séance de préparation à l'accouchement | 34,00 euro(s)
 
+SP | Séance de suivi postnatal réalisé par la sage-femme | 18,55 euro(s)
+
 Autres actes | |
 
 K | Actes de spécialité | 3,31 euro(s)
