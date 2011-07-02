@@ -1,6 +1,6 @@
 # Article 29
 
-Les actes de formation et de prorogation de sociétés qui ne contiennent ni obligation, ni libération, ni transmission de biens, meubles ou immeubles, entre les associés ou autres personnes, de même que les actes portant augmentation du capital social, sont assujettis à un droit d'enregistrement de 1 %.
+À l'exception des dispositions des chiffres 10° et 11° de l'article 13 bis de la loi n° 580 du 29 juillet 1953 modifiée, les actes de formation et de prorogation de sociétés qui ne contiennent ni obligation, ni libération, ni transmission de biens, meubles ou immeubles, entre les associés ou autres personnes, de même que les actes portant augmentation du capital social, sont assujettis à un droit d'enregistrement de 1 %.
 
 Ce droit proportionnel de 1 % est liquidé sur le montant total des apports mobiliers et immobiliers, déduction faite du passif.
 

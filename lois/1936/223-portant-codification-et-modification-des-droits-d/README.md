@@ -1,8 +1,8 @@
 # Loi n° 223 du 27 juillet 1936 portant codification et modification des droits d'enregistrement, de timbre et d'hypothèques
 
-Version en vigueur au 24 juillet 2004.
+Version en vigueur au 2 juillet 2011.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1936/07-27-223@2004.07.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1936/07-27-223@2011.07.02/
 
 | | |
 | --- | --- |
