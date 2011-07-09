@@ -12,7 +12,7 @@ Les plages et lieux où la baignade fait l'objet d'une surveillance sont indiqu�
 
   - un drapeau vert, de même forme, ce signal hissé en haut de mât signifiant « absence de danger particulier ».
 
-- Ces drapeaux ne portent aucun symbole ou inscription. L'absence de drapeau indique que la surveillance a cessé. Le mât à signaux ne peut porter aucun autre emblème que les drapeaux indiqués ci-dessus.
+Ces drapeaux ne portent aucun symbole ou inscription. L'absence de drapeau indique que la surveillance a cessé. Le mât à signaux ne peut porter aucun autre emblème que les drapeaux indiqués ci-dessus.
 
 - des affiches avec figurines indiquant clairement la signification de ces signaux et l'emplacement des engins de sauvetage et du poste de secours, apposées sur le mât à signaux et en divers points de la plage ou du lieu de baignade ;
 
