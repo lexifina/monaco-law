@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.323 du 24 juin 2011 rendant exécutoire l'Amendement à l'Annexe 2 de l'Accord sur la Conservation des cétacés de la mer Noire, de la Méditerranée et de la zone atlantique adjacente (ACCOBAMS) relative à l'extension de la zone géographique de l'ACCOBAMS, adopté à Monaco le 12 novembre 2010
