@@ -1,5 +1,5 @@
 # Article 117
 
-L'homme avant dix-huit ans, la femme avant quinze ans ne peuvent se marier.
+Il n'y a point de mariage sans consentement.
 
-Néanmoins, il est loisible au Prince d'accorder les dispenses d'âge pour motifs graves.
+Le mariage d'un Monégasque, même contracté à l'étranger, requiert sa présence.

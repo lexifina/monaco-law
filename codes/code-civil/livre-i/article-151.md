@@ -1,6 +1,6 @@
 # Article 151
 
-L'action en nullité fondée sur les articles 125, 130, 131 et 147, alinéa 2, peut être exercée par toute personne intéressée et, du vivant des époux, par le procureur général.
+L'action en nullité du mariage fondée sur les articles 116, 117, 125, 130, 131 et 147, alinéa 2, peut être exercée, dans un délai de trente ans à compter de sa célébration, par l'un des époux, par toute personne intéressée ou par le procureur général.
 
 Dans le cas de l'article 125, il est statué au préalable sur la validité du premier mariage.
 
