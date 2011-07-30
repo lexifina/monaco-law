@@ -2,7 +2,7 @@
 
 Seront punis de l'emprisonnement de un à cinq jours et de l'amende prévue au chiffre 3 de l'article 29, ou de l'une de ces deux peines seulement :
 
-- 1° Ceux qui se seront rendus coupables de violences légères ;
+- 1° Ceux qui se seront rendus coupables de violences n'ayant entraîné aucune maladie ou incapacité totale de travail, à l'exception de celles spécialement réprimées à l'article 238-1 ;
 
 - 2° Ceux qui auront effectué des inscriptions ou tracé des signes ou dessins soit sur des meubles ou immeubles du domaine de l'État ou de la commune, soit sur des immeubles de particuliers ;
 

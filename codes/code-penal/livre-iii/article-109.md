@@ -10,9 +10,9 @@ Tout fonctionnaire, officier public, commis ou préposé, percepteur des droits,
 
 - 2° Si la totalité de ces sommes n'excède pas cent mille francs:
 
-  - le fonctionnaire, officier public ou percepteur : de un à cinq ans d'emprisonnement ;
+- le fonctionnaire, officier public ou percepteur : de un à cinq ans d'emprisonnement ;
 
-  - le commis ou le préposé : de six mois à trois ans de la même peine.
+- le commis ou le préposé : de six mois à trois ans de la même peine.
 
 La tentative de ces délits sera punie comme le délit lui-même.
 
