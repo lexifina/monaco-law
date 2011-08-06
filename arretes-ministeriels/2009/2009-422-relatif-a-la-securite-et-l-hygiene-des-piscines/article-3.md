@@ -8,9 +8,9 @@ L'effectif maximal des personnes admises simultanément est déterminé :
 
 Pour tout type de piscine :
 
-a) 1 personne par m2 de surface de bassin ;
+a) 1 personne par m 2 de surface de bassin ;
 
-b) 1 personne pour 3 m2 de surface des plages ou abords des bassins.
+b) 1 personne pour 3 m 2 de surface des plages ou abords des bassins.
 
 La capacité d'accueil de l'établissement doit être affichée à l'entrée. Elle distingue les fréquentations maximales instantanées en baigneurs et en autres personnes.
 
