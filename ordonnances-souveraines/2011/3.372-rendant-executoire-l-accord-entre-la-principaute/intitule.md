@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.372 du 25 juillet 2011 rendant exécutoire l'Accord entre la Principauté de Monaco et les Îles Féroé relatif aux renseignements en matière fiscale, signé à Paris le 23 juin 2010
