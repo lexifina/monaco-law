@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.322 du 24 juin 2011 rendant exécutoires les Amendements à la Convention et à la Constitution de l'Union Internationale des Télécommunications adoptés lors de la Conférence de plénipotentiaires d'Antalya le 24 novembre 2006
