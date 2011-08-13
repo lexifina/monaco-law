@@ -1,3 +1,0 @@
-# Article 2
-
-Sur les terrains situés à l'extrême Sud du quartier des Bas-Moulins et du Larvotto et comprenant principalement les emprises de l'ancienne gare de Monte-Carlo et de l'ancienne voie ferrée, ainsi que les terrains du Tir aux Pigeons, pourra être édifié, conformément au plan de masse joint à la présente Ordonnance, un complexe immobilier comprenant un hôtel, une construction à usage de studios et appartements meublés, ainsi qu'un bâtiment à usage de centre de congrès et de manifestations diverses. Ces constructions ne devront pas dépasser les cotes de hauteur figurant au plan de masse.

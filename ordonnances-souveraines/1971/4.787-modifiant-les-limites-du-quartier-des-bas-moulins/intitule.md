@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 4.787 du 8 septembre 1971 modifiant les limites du quartier des Bas-Moulins et du Larvotto, et fixant les conditions de l'utilisation de parcelles de terrains situés à l'extrémité sud dudit quartier
