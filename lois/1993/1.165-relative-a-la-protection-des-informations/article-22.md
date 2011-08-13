@@ -1,6 +1,6 @@
 # Article 22
 
-Sont punis d'un emprisonnement de trois mois à un an et de l'amende prévue au chiffre 4 de l'article26 du code pénal ou de l'une de ces deux peines seulement :
+Sont punis d'un emprisonnement de trois mois à un an et de l'amende prévue au chiffre 4 de l'article26 du Code pénal ou de l'une de ces deux peines seulement :
 
 - 1°) ceux qui, sauf les dérogations prévues par la loi, collectent ou font collecter, enregistrent ou font enregistrer, conservent ou font conserver, utilisent ou font utiliser des informations nominatives réservées à certaines autorités, établissements, organismes et personnes physiques ou des informations susceptibles de faire apparaître des opinions ou des appartenances politiques, raciales ou ethniques, religieuses, philosophiques ou syndicales ou encore relatives à la santé, y compris les données génétiques, à la vie sexuelle, aux mœurs ou aux mesures à caractère social ;
 
