@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 15.617 du 27 décembre 2002 fixant les modalités de versement de l'indemnité aux avocats-défenseurs, avocats et avocats stagiaires prêtant leur concours au bénéfice de l'assistance judiciaire et des commissions d'office
