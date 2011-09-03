@@ -8,7 +8,9 @@ Les emplois supérieurs, visés au deuxième alinéa de l'article 4 de la loi n�
 
 - Secrétaire Général du ministre d'État ;
 
-- Directeurs, Chefs de Service et Chargés de Mission relevant directement du ministre d'État et des Conseillers de Gouvernement ; Commissaires Généraux, Inspecteur Général de l'Administration, Directeurs Généraux et Directeurs, Chefs de service, Conseillers et Conseillers techniques, Chargés de mission, relevant directement du ministre d'État ou des Conseillers de Gouvernement.
+- Inspecteurs Généraux, Inspecteurs et Inspecteurs-Adjoints de l'Administration ;
+
+- Directeurs, Chefs de Service et Chargés de Mission relevant directement du ministre d'État et des Conseillers de Gouvernement ; Commissaires Généraux, Directeurs Généraux et Directeurs, Chefs de service, Conseillers et Conseillers techniques, Chargés de mission, relevant directement du ministre d'État ou des Conseillers de Gouvernement ;
 
 - Secrétaire Général de la Direction des Relations Extérieures ;
 
