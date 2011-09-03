@@ -1,0 +1,3 @@
+# Article 32
+
+Sans préjudice des dispositions de l'article précédent, lorsque les documents administratifs mentionnés au chiffre 3 de l'article 29 comportent des informations nominatives collectées dans le cadre de traitements automatisés régis par la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée, ces informations font également l'objet, à l'issue de la période prévue à l'article 9 de ladite loi, d'une sélection visant à distinguer celles qui sont destinées à être conservées en raison de leur valeur archivistique au sens du chiffre 3 de l'article 29, de celles appelées à être éliminées.
