@@ -6,4 +6,4 @@ Le Centre Hospitalier Princesse Grace comporte notamment :
 
 - des unités d'hospitalisation pour convalescence, cure ou réadaptation ;
 
-- un service hospitalier de gérontologie et des maisons de retraite dénommées « Résidence du Cap-Fleuri » et « A Qietüdine ».
+- un Centre de Gérontologie Clinique dénommé « Centre Rainier III » et des maisons de retraite dénommées « Résidence du Cap-Fleuri « et « A Qietüdine ».
