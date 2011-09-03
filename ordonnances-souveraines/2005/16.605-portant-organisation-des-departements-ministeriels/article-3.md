@@ -1,6 +1,6 @@
 # Article 3
 
-Demeurent sous l'autorité directe du Ministre d'État les domaines suivants :
+Demeurent sous l'autorité directe du Ministre d'État les domaines suivants:
 
 - a) Contrôle des finances publiques,
 
@@ -14,4 +14,6 @@ Demeurent sous l'autorité directe du Ministre d'État les domaines suivants :
 
 - f) Archives centrales,
 
-- g) Institut Monégasque de la Statistique et des Études Économiques.
+- g) Institut Monégasque de la Statistique et des Études Économiques ;
+
+- h) Inspection Générale de l'Administration.
