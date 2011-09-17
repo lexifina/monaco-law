@@ -2,11 +2,11 @@
 
 Lorsque le client est une entité juridique ou un trust, il faut entendre par bénéficiaires économiques effectifs :
 
-- - lorsque le ou les futurs bénéficiaires ont déjà été désignés, la ou les personnes physiques qui sont bénéficiaires d'au moins 25 % des biens de l'entité juridique ou du trust ;
+- - lorsque le ou les futurs bénéficiaires ont déjà été désignés, la ou les personnes physiques qui sont bénéficiaires des biens de l'entité juridique ou du trust ;
 
 - - lorsque le ou les futurs bénéficiaires n'ont pas encore été désignés, le groupe de personnes dans l'intérêt principal duquel l'entité juridique ou le trust a été constitué ou produit ses effets ;
 
-- - la ou les personnes physiques qui exercent un contrôle sur au moins 25 % des biens d'une entité juridique ou d'un trust ;
+- - la ou les personnes physiques qui exercent un contrôle sur les biens d'une entité juridique ou d'un trust ;
 
 - - le ou les constituants de l'entité juridique ou du trust.
 

@@ -4,7 +4,9 @@ Les professionnels peuvent faire exécuter par un tiers dans les conditions fix�
 
 - - leurs obligations d'identification et de vérification de l'identité des clients et leurs obligations d'identification de l'objet et de la nature envisagée de la relation d'affaires conformément aux articles 3 et 4 de la loi ;
 
-- - leurs obligations d'identification et de vérification de l'identité des bénéficiaires économiques effectifs conformément à l'article 5 de la loi ; - leurs obligations de collecte des autres informations visées à l'article 10 ;
+- - leurs obligations d'identification et de vérification de l'identité des bénéficiaires économiques effectifs conformément à l'article 5 de la loi ;
+
+- - leurs obligations de collecte des autres informations visées à l'article 10 ;
 
 - - leurs obligations de collecte d'informations en vue de l'exercice de leur devoir de vigilance constante défini à l'article 29.
 

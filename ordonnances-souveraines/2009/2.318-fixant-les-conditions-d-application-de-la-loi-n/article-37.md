@@ -12,4 +12,4 @@ Le Service d'Information et de Contrôle sur les Circuits Financiers est chargé
 
 - - recueillir auprès des dirigeants ou des représentants des professionnels ainsi que de toute personne, tous renseignements ou justificatifs utiles pour l'exercice de la mission dont il est saisi.
 
-- Le Service d'Information et de Contrôle sur les Circuits Financiers, à l'issue de la visite et des opérations de vérification et, après avoir reçu les explications des dirigeants ou des représentants des professionnels, établit un rapport de contrôle dont un exemplaire est remis au professionnel.
+Le Service d'Information et de Contrôle sur les Circuits Financiers, à l'issue de la visite et des opérations de vérification et, après avoir reçu les explications des dirigeants ou des représentants des professionnels, établit un rapport de contrôle dont un exemplaire est remis au professionnel.
