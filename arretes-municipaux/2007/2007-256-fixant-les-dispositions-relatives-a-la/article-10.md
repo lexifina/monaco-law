@@ -80,6 +80,8 @@ Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
 La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
+Un sens unique de circulation est instauré du rond-point Wurtemberg à la place du Canton et ce, dans ce sens.
+
 12) Colle (Rue de la)
 
 a) Un sens unique de circulation est instauré de l'avenue Prince Pierre au boulevard Charles III et ce, dans ce sens.
@@ -162,7 +164,7 @@ a) Un sens unique de circulation est instauré du boulevard du Jardin Exotique �
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
-c) Un sens unique de circulation est instauré du n° 8 à la frontière et ce, dans ce sens.
+c) (c) abrogé)
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 

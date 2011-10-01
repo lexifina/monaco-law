@@ -90,9 +90,15 @@ b) La circulation des piétons est interdite dans le tunnel.
 
 11) Tunnel Millenium
 
-a) Un sens unique de circulation est instauré de la sortie du cimetière de Monaco au boulevard Charles III et ce, dans ce sens.
+a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
-b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
+b) La circulation des piétons est interdite dans le tunnel.
+
+11bis) Tunnel Pasteur
+
+a) Un sens unique de circulation est instauré du boulevard Charles III au boulevard Rainier III et ce, dans ce sens ;
+
+b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée ;
 
 c) La circulation des piétons est interdite dans le tunnel.
 
