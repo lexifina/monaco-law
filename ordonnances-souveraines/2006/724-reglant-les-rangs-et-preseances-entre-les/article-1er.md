@@ -32,7 +32,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 15 - le Maire
 
-16 - les Grands Croix des Ordres Princiers
+16 - le Chancelier et les Grands Croix des Ordres Princiers
 
 17 - les Conseillers au Cabinet du Prince et le Secrétaire Général de la Chancellerie des Ordres Princiers
 
@@ -94,7 +94,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 46 - le Président du Tribunal de Première Instance
 
-47 - les Chanceliers des Ordres Princiers
+47 (47 abrogé)
 
 48 - les Adjoints au Maire
 
