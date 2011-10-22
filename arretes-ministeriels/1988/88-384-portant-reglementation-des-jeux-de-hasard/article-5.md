@@ -1,6 +1,6 @@
 # Article 5
 
-5.1 - Le personnel affecté à chaque table ne comprend qu'un seul croupier, placé sous le contrôle d'un chef de table surveillant plusieurs tables.
+5.1 - Le personnel affecté à chaque table ne comprend qu'un seul croupier, placé sous le contrôle d'un chef de table ou d'un cadre surveillant plusieurs tables.
 
 Le black-jack se joue avec des jeux de 52 cartes dont le nombre est fixé par la Direction.
 

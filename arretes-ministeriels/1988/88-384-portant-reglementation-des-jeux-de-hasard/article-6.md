@@ -1,8 +1,8 @@
 # Article 6
 
-6.1 - Le personnel à chaque table de craps comprend un chef de table, trois croupiers dont un préposé aux dés ou « stickman ».
+6.1 - Le personnel à chaque table de craps comprend un chef de table, ou un cadre, trois croupiers dont un préposé aux dés ou « stickman ».
 
-Le chef de table est responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à sa table.
+Le chef de table ou le cadre est responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à sa table.
 
 Les croupiers sont chargés de placer, s'il y a lieu, les mises sur les cases représentant les différentes chances, de ramasser les mises perdantes, et de payer les mises gagnantes. Ils effectuent également, à la demande des joueurs, les opérations de change, d'espèces et de jetons, sous le contrôle du chef de table.
 
@@ -54,7 +54,7 @@ Pour tout autre total, la mise est placée sur la case arrière portant le numé
 
 Les mises placées sur « don't come » ne peuvent être augmentées.
 
-Toutefois, le joueur qui joue « don't come » peut laisser sa mise en suspens (en « no action »), pendant un ou plusieurs jets : cette mise joue selon la règle du « don't come »
+Toutefois, le joueur qui joue « don't come » peut laisser sa mise en suspens (en « no action »'), pendant un ou plusieurs jets : cette mise joue selon la règle du « don't come »
 
 5° Le « field » qui se joue à n'importe quel moment de la partie, chaque coup étant décisif.
 

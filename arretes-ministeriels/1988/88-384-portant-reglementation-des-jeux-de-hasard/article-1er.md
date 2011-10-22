@@ -22,7 +22,7 @@ Aux jeux de Baccara (Banque ouverte et Chemin de fer), le croupier remonte le je
 
 Aux autres jeux, une seconde opération est effectuée après la salade. Le croupier remonte le jeu en mélangeant des petits paquets de cartes qu'il prélève du tas de la salade.
 
-1.3 - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
+1.3. - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
 
 Aux jeux de Black-jack et de Punto-Banco, lorsque la partie s'interrompt avant la fin de la taille, un nouveau mélange est effectué pour la reprise de celle-ci.
 

@@ -54,6 +54,6 @@ Si le banquier a perdu, les joueurs sont payés à égalité et dans l'ordre des
 
 Lorsque ce maximum est dépassé par le jeu du doublement précité, le banquier peut limiter sa mise à ce maximum et laisser le surplus au « garage », sur la table. Lorsqu'il passe la main, la somme mise au « garage » lui est restituée par le croupier.
 
-11.9 - La Direction des Jeux peut seule autoriser la constitution d'un «garage» avant que le maximum fixé pour la table ne soit atteint. Dans ce cas, elle est tenue de préciser à l'autorité concédante le montant du « banco » à partir duquel le joueur aura la possibilité de constituer un « garage ».
+11.9 - La Direction des Jeux peut seule autoriser la constitution d'un « garage » avant que le maximum fixé pour la table ne soit atteint. Dans ce cas, elle est tenue de préciser à l'autorité concédante le montant du « banco » à partir duquel le joueur aura la possibilité de constituer un « garage ».
 
 11.10 - Au Chemin de Fer la partie peut se poursuivre au-delà de l'heure de fermeture fixée par la maison de jeux, sous réserve que le nombre des joueurs présents et l'activité de la partie soient de nature à justifier cette tolérance. Cette prolongation est laissée à l'appréciation de la Direction des Jeux.
