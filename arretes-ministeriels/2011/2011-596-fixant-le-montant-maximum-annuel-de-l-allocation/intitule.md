@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2011-596 du 27 octobre 2011 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2010-2011
