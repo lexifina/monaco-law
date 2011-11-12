@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.519 du 4 novembre 2011 modifiant l'Ordonnance Souveraine n° 13.839 du 29 décembre 1998 portant statut des Praticiens Hospitaliers au Centre Hospitalier Princesse Grace, modifiée
