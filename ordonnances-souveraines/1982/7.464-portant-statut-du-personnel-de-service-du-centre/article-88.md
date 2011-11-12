@@ -2,7 +2,7 @@
 
 Les pensions sont liquidées par l'administration du centre hospitalier.
 
-Pour le calcul d'une pension d'ancienneté ou d'une pension proportionnelle, les modalités prévues par l'organisme visé à l'article 87, pour les agents appartenant à la catégorie B (services actifs), sont applicables à l'ensemble des agents du centre hospitalier quels que soient les emplois occupés.
+Pour le calcul d'une pension d'ancienneté ou d'une pension proportionnelle, les modalités prévues par l'organisme visé à l'article 87 et arrêtées à la date du 8 novembre 2010, pour les agents appartenant à la catégorie B (Services actifs), sont applicables à l'ensemble des agents du Centre Hospitalier quels que soient les emplois occupés.
 
 Les dispositions réglementaires susvisées sont applicables en matière :
 
