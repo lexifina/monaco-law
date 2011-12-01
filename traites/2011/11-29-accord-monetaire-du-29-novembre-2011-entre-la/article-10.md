@@ -1,0 +1,5 @@
+# Article 10
+
+1. Les établissements de crédit et, en tant que de besoin, les autres établissements financiers agréés pour exercer sur le territoire de la Principauté de Monaco peuvent, dans les conditions fixées à l'article 11, participer aux systèmes de règlement interbancaires et de paiement et de règlement des opérations sur titres de l'Union européenne selon les mêmes modalités que les établissements de crédit et, en tant que de besoin, les autres établissements financiers situés sur le territoire de la France et sous réserve qu'ils remplissent les conditions fixées pour l'accès à ces systèmes.
+
+2. Les établissements de crédit et, en tant que de besoin, les autres établissements financiers situés sur le territoire de la Principauté de Monaco sont soumis, dans les conditions fixées à l'article 11, aux mêmes modalités de mise en œuvre, par la Banque de France, des dispositions fixées par la BCE en matière d'instruments et de procédures de politique monétaire que les établissements de crédit et, en tant que de besoin, les autres établissements financiers situés sur le territoire de la France.

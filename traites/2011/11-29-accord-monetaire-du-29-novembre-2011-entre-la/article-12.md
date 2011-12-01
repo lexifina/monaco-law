@@ -1,0 +1,9 @@
+# Article 12
+
+1. La Cour de justice de l'Union européenne est la juridiction ayant la compétence exclusive pour régler tout litige entre les parties qui résulterait de l'inexécution d'une obligation ou de la méconnaissance d'une disposition prévue par le présent accord et qui n'aurait pu être résolu au sein du comité mixte. Les parties s'engagent à mettre tout en œuvre pour résoudre le litige à l'amiable au sein du comité mixte.
+
+2. Si aucun accord amiable ne peut être trouvé dans ce cadre, l'Union européenne, agissant sur recommandation de la Commission après avis de la France et de la BCE pour les matières qui relèvent de sa compétence, ou la Principauté de Monaco, peut saisir la Cour de justice si, à l'issue de l'examen préalable par le comité mixte, il apparaît que l'autre partie n'a pas exécuté une obligation ou a méconnu une disposition prévue par le présent accord. L'arrêt de la Cour est contraignant pour les parties, qui prennent les mesures nécessaires pour se conformer à celui-ci dans le délai fixé par la Cour dans son arrêt.
+
+3. Si l'Union européenne ou la Principauté de Monaco ne prend pas les mesures nécessaires pour se conformer à l'arrêt dans le délai imparti, l'autre partie peut mettre fin immédiatement à l'accord.
+
+4. Toutes les questions portant sur la validité des décisions des institutions ou organes de l'Union européenne prises en application du présent accord, sont de la compétence exclusive de la Cour de justice de l'Union européenne. En particulier, toute personne physique ou toute personne morale domiciliée sur le territoire de la Principauté de Monaco peut exercer les voies de recours ouvertes aux personnes physiques et morales installées sur le territoire de la France à l'encontre des actes juridiques quelle qu'en soit la forme ou la nature dont elle est destinataire.
