@@ -1,0 +1,1 @@
+Avenant du 9 novembre 2010 à l'Accord entre le Gouvernement de la République française et le Gouvernement de la Principauté de Monaco relatif à la reconnaissance mutuelle des formations d'enseignement supérieur artistique (spécialité des arts plastiques)
