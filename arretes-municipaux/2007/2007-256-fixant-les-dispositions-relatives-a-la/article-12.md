@@ -150,6 +150,10 @@ Les dispositions des alinéas b) et c) ne s'appliquent pas aux véhicules d'urge
 
 Dans sa partie comprise entre l'allée Est des Boulingrins et le n° 2 du boulevard des Moulins, la voie aval est aménagée en couloir bus.
 
+- À compter du dimanche 1er janvier 2012 à 00 h 01 un sens unique de circulation est établi dans sa partie comprise entre le carrefour de la Madone et l'avenue Saint Laurent et ce, dans ce sens.
+
+- À compter du dimanche 1er janvier 2012 à 00 h 01 les véhicules en provenance de la place des Moulins, puis circulant sur la voie amont du boulevard des Moulins, ont l'obligation d'emprunter l'avenue Saint Laurent et l'avenue Saint Charles pour se rendre au carrefour de la Madone.
+
 26) Moulins (Place des)
 
 a) Un sens unique de circulation est instauré, côté amont, depuis son intersection avec le boulevard d'Italie et le boulevard des Moulins et ce, dans ce sens.

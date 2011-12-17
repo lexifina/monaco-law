@@ -22,7 +22,7 @@ c) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 4) Antoine 1er (Quai)
 
-(4) abrogé)
+(4 abrogé)
 
 5) Armes (Place d')
 
@@ -164,7 +164,7 @@ a) Un sens unique de circulation est instauré du boulevard du Jardin Exotique �
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
-c) (c) abrogé)
+c) (c abrogé).
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
