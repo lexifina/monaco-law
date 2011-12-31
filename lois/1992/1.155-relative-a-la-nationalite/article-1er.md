@@ -2,7 +2,7 @@
 
 Est monégasque :
 
-- 1° - Toute personne née d'un père monégasque.
+- 1° - Toute personne née d'un père monégasque sauf si celui-ci a acquis sa nationalité par déclaration en application des dispositions de l'article 3 ;
 
 - 2° - Toute personne née d'une mère née monégasque qui possédait encore cette nationalité au jour de la naissance.
 
