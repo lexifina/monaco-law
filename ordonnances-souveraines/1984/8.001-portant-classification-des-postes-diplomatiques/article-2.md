@@ -4,7 +4,7 @@ Les postes consulaires sont les suivants :
 
 - Afrique du Sud : Johannesburg, Cap Town,
 
-- Allemagne (République Fédérale d') : Berlin, Düsseldorf, Frankfort, Hambourg, Munich, Stuttgart ; Düsseldorf, Francfort/Main, Hambourg, Munich, Potsdam, Stuttgart ;
+- Allemagne (République Fédérale d') : Düsseldorf, Francfort/Main, Hambourg, Munich, Potsdam, Stuttgart ;
 
 - Argentine : Buenos Aires ;
 
@@ -31,8 +31,6 @@ Les postes consulaires sont les suivants :
 - Chine (République Populaire de) : Beijing, Hong Kong, Shangai ;
 
 - Chypre : Nicosie ;
-
-- Chili : Valparaiso ;
 
 - Colombie : Bogota ;
 
@@ -106,7 +104,7 @@ Les postes consulaires sont les suivants :
 
 - Mauritanie : Nouakchott ;
 
-- Mexique : Mexico ; Casablanca ;
+- Mexique : Mexico ;
 
 - Mongolie : Oulan-Bator ;
 
@@ -135,6 +133,8 @@ Les postes consulaires sont les suivants :
 - République de Bulgarie : Sofia ;
 
 - République Dominicaine : Saint Domingue ;
+
+- République du Kazakhstan : Astana ;
 
 - République de Maurice : Port Louis ;
 
