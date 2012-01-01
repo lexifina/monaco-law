@@ -1,6 +1,6 @@
 # Article 9
 
-L'allocation différentielle de loyer n'est pas servie si son montant trimestriel est inférieur à 30 euros.
+L'allocation différentielle de loyer n'est pas servie si son montant trimestriel est inférieur à 60 euros.
 
 Elle ne peut dépasser 50 % du loyer retenu pour son calcul.
 
