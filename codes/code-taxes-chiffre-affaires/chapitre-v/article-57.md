@@ -1,6 +1,6 @@
 # Article 57
 
-Le taux réduit de la taxe sur la valeur ajoutée ne s'applique pas :
+Les taux réduits de la taxe sur la valeur ajoutée ne s'appliquent pas :
 
 - 1° aux opérations, y compris les cessions de droits, présentant un danger pour la jeunesse en raison de leur caractère licencieux ou pornographique ou de la place faite au crime ou à la violence ;
 

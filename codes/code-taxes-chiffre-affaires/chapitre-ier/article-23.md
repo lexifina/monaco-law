@@ -2,61 +2,61 @@
 
 Sont exonérées de la taxe sur la valeur ajoutée :
 
-1 - Affaires ou opérations soumises à un autre impôt :
+- 1 - Affaires ou opérations soumises à un autre impôt :
 
-- les opérations assujetties en France à l'impôt sur les opérations de bourse de commerce, à l'exclusion de celles qui déterminent l'arrêt de la filière ;
+  - les opérations assujetties en France à l'impôt sur les opérations de bourse de commerce, à l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
-2 - Pêche :
+- 2 - Pêche :
 
-- les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui concerne la vente des produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
+  - les opérations effectuées par les pêcheurs et armateurs à la pêche, en ce qui concerne la vente des produits de leur pêche (poissons, crustacés, coquillages frais ou conservés à l'état frais par un procédé frigorifique) ;
 
-3 - Biens usagés. Déchets neufs d'industrie et matières de récupération :
+- 3 - Biens usagés. Déchets neufs d'industrie et matières de récupération :
 
-- 1° Sous réserve le cas échéant, des dispositions de l'article 5 - 1 et 2 du III, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
+  - 1° Sous réserve le cas échéant, des dispositions de l'article 5 - 1 et 2 du III, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
 
-- Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur achat à Monaco et en France, acquisition intracommunautaire, importation ou livraison à soi-même.
+  - Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur achat à Monaco et en France, acquisition intracommunautaire, importation ou livraison à soi-même.
 
-- Les dispositions du deuxième alinéa ne s'appliquent ni aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989, ni aux véhicules destinés à la location simple, inscrits à l'actif des entreprises de location avant le 8 septembre 1989, si ces véhicules sont cédés à des personnes autres que des négociants en biens d'occasion ;
+  - Les dispositions du deuxième alinéa ne s'appliquent ni aux biens cédés à des personnes qui ont souscrit un contrat de crédit-bail ou de location avec option d'achat avant le 8 septembre 1989, ni aux véhicules destinés à la location simple, inscrits à l'actif des entreprises de location avant le 8 septembre 1989, si ces véhicules sont cédés à des personnes autres que des négociants en biens d'occasion ;
 
-- 2° (2° abrogé) ;
+  - 2° (2° abrogé) ;
 
-4 - Professions libérales et activités diverses :
+- 4 - Professions libérales et activités diverses :
 
-- 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe et par les psychologues, psychanalystes et psychothérapeutes diplômés ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et prothésistes ;
+  - 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe ou de chiropracteur et par les psychologues, psychanalystes et psychothérapeutes diplômés ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et prothésistes ;
 
-- 2° Les frais d'hospitalisation et de traitement dans les établissements privés autorisés à dispenser des soins ;
+  - 2° Les frais d'hospitalisation et de traitement dans les établissements privés autorisés à dispenser des soins ;
 
-- 3° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
+  - 3° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
 
-- 4° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet par des organismes ou personnes dûment agréés ;
+  - 4° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet par des organismes ou personnes dûment agréés ;
 
-- 5° a) Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre :
+  - 5° a) Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre :
 
-  - de l'enseignement primaire, secondaire et supérieur dispensé dans les établissements publics et les établissements privés ;
+    - de l'enseignement primaire, secondaire et supérieur dispensé dans les établissements publics et les établissements privés ;
 
-  - de l'enseignement universitaire dispensé dans les établissements publics et dans les établissements privés ;
+    - de l'enseignement universitaire dispensé dans les établissements publics et dans les établissements privés ;
 
-  - de l'enseignement technique ou professionnel ;
+    - de l'enseignement technique ou professionnel ;
 
-  - de l'enseignement et de la formation professionnelle agricoles ;
+    - de l'enseignement et de la formation professionnelle agricoles ;
 
-  - de la formation professionnelle continue assurée soit par des personnes morales de droit public, soit par des personnes de droit privé agréées à cet effet ;
+    - de la formation professionnelle continue assurée soit par des personnes morales de droit public, soit par des personnes de droit privé agréées à cet effet ;
 
-  - de l'enseignement primaire, secondaire, supérieur ou technique à distance, dispensé par les organismes publics ou les organismes privés ;
+    - de l'enseignement primaire, secondaire, supérieur ou technique à distance, dispensé par les organismes publics ou les organismes privés ;
 
-- b) Les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves ;
+  - b) Les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves ;
 
-- 6° Les prestations effectuées par les avocats, les conseils juridiques et fiscaux, les notaires, les huissiers de justice, les commissaires aux comptes, les liquidateurs judiciaires, les syndics et les administrateurs judiciaires lorsqu'elles relèvent de leur activité spécifique telle qu'elle est définie par la réglementation applicable à leur profession ;
+  - 6° Les prestations effectuées par les avocats, les conseils juridiques et fiscaux, les notaires, les huissiers de justice, les commissaires aux comptes, les liquidateurs judiciaires, les syndics et les administrateurs judiciaires lorsqu'elles relèvent de leur activité spécifique telle qu'elle est définie par la réglementation applicable à leur profession ;
 
-- 7° Les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres. Les dispositions des c) et d) du 1° du 6 s'appliquent à ces organismes ;
+  - 7° Les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres. Les dispositions des c) et d) du 1° du 6 s'appliquent à ces organismes ;
 
-- 8° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs de combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
+  - 8° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs de combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
 
-5 - 1° Les livraisons de terrains qui ne sont pas des terrains à bâtir au sens du 1° du 2 du I de l'article 5 ;
+- 5 - 1° Les livraisons de terrains qui ne sont pas des terrains à bâtir au sens du 1° du 2 du I de l'article 5 ;
 
-2° Les livraisons d'immeubles achevés depuis plus de cinq ans
+- 2° Les livraisons d'immeubles achevés depuis plus de cinq ans
 
-6 - Organismes d'utilité générale :
+- 6 - Organismes d'utilité générale :
 
 - 1° a) Les services de caractère social, éducatif, culturel ou sportif rendus à leurs membres par les organismes légalement constitués agissant sans but lucratif, et dont la gestion est désintéressée.
 

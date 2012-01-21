@@ -8,14 +8,14 @@ La demande est déposée auprès de la direction des services fiscaux.
 
 Le remboursement est subordonné à la production, à l'appui de la demande :
 
-- a) du document justifiant que le demandeur a précédemment acquitté la taxe sur la valeur ajoutée sur le moyen de transport neuf qu'il vend : facture d'achat, déclaration d'importation ou document en tenant lieu, certificat délivré par la direction des services fiscaux, dans les conditions prévues à l'article A-187 ;
+a) du document justifiant que le demandeur a précédemment acquitté la taxe sur la valeur ajoutée sur le moyen de transport neuf qu'il vend : facture d'achat, déclaration d'importation ou document en tenant lieu, certificat délivré par la direction des services fiscaux, dans les conditions prévues à l'article A-187 ;
 
-- b) de la facture de vente établie par le demandeur, conformément à l'article A-184 ;
+b) de la facture de vente établie par le demandeur, conformément à l'article A-184 ;
 
-- c) de l'original ou d'une copie certifiée :
+c) de l'original ou d'une copie certifiée :
 
-  - de l'attestation de restitution au service de la circulation du certificat d'immatriculation conformément à la réglementation applicable en matière d'immatriculation des véhicules terrestres à moteur ;
+- de l'attestation de restitution au service de la circulation du certificat d'immatriculation conformément à la réglementation applicable en matière d'immatriculation des véhicules terrestres à moteur ;
 
-  - du certificat de radiation de l'immatriculation pour les aéronefs ;
+- du certificat de radiation de l'immatriculation pour les aéronefs ;
 
-  - du certificat de radiation du pavillon monégasque pour les bateaux.
+- du certificat de radiation du pavillon monégasque pour les bateaux.

@@ -1,18 +1,10 @@
 # Article 52
 
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui concerne les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur les produits suivants :
+La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui concerne les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur les produits suivants :
 
-- 1° Eau et boissons non alcooliques ;
+- 1° (1° abrogé) ;
 
-- 2° Produits destinés à l'alimentation humaine à l'exception :
-
-  - a) des produits de confiserie ;
-
-  - b) des chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons au chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit ;
-
-  - c) des margarines et graisses végétales ;
-
-  - d) du caviar.
+- 2° (2° abrogé) ;
 
 - 3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation ;
 
@@ -32,8 +24,6 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5,50 % en ce qui c
 
   - b) engrais ;
 
-  - c) soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 % de cuivre ;
-
-  - d) produits antiparasitaires, sous réserve qu'ils aient fait l'objet soit d'une homologation, soit d'une autorisation de vente ;
+  - c) soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 % de cuivre.
 
 - 6° Livres, y compris leur location. Dans le cas des opérations dont le fait générateur intervient à compter du 1er janvier 2012, cette disposition s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.

@@ -6,6 +6,6 @@ L'article A-134 de l'annexe au code définit la nature des œuvres et fixe le no
 
 Les dispositions ne s'appliquent pas aux recettes provenant :
 
-- a) Des représentations théâtrales à caractère pornographique,
+- a) Des représentations théâtrales à caractère pornographique ;
 
-- b) (b abrogé).
+- b) De la vente de billets imposée au taux réduit de 7 % dans les conditions prévues au d) bis de l'article 56.
