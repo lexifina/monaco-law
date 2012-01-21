@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 3.627 du 12 janvier 2012 rendant exécutoire l'Accord entre la République Fédérale d'Allemagne et la Principauté de Monaco sur l'assistance en matière fiscale civile et pénale par l'échange de renseignements, et son Protocole signés à Berlin le 27 juillet 2010
