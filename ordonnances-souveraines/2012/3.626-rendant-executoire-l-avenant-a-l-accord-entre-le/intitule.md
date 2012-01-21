@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 3.626 du 12 janvier 2012 rendant exécutoire l'Avenant à l'Accord entre le Gouvernement de la République française et le Gouvernement de la Principauté de Monaco relatif à la reconnaissance mutuelle des formations d'enseignement supérieur artistique (spécialité arts plastiques), signé à Paris le 9 novembre 2010
