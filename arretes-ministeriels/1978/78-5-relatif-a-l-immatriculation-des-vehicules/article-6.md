@@ -12,7 +12,7 @@ Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatricul
 
 - à l'avant et à l'arrière, les armoiries princières remplacent l'écusson rouge et blanc et l'estampille annuelle.
 
-Véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance n° 1.691 du 17 décembre 1957, modifiée :
+Véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée :
 
 - couleur des caractères : bleu.
 
@@ -22,7 +22,7 @@ Pour les motocycles et assimilés y compris les cyclomoteurs :
 
 Les lettres étant choisies dans la liste :
 
-A, B, C, E, F, H, K, L, M, N, P, R, S, V, X, Y, Z.
+A, B, C, D, E, F, G, H, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
 
 Pour les remorques et les semi-remorques de plus de 750 kg de poids total en charge :
 
