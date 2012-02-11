@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-65 du 2 février 2012 portant fixation du montant des ressources personnelles telles que prévues à l'ordonnance souveraine n° 3.657 du 2 février 2012 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
