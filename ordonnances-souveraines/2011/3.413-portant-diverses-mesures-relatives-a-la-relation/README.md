@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré
 
-Version en vigueur au 3 septembre 2011.
+Version en vigueur au 11 février 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/08-29-3.413@2011.09.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/08-29-3.413@2012.02.11/
 
 | | |
 | --- | --- |
