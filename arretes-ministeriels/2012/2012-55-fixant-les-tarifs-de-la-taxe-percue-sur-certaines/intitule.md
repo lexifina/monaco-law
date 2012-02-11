@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-55 du 30 janvier 2012 fixant les tarifs de la taxe perçue sur certaines boissons contenant des sucres ajoutés et de la taxe perçue sur certaines boissons contenant des édulcorants de synthèse
