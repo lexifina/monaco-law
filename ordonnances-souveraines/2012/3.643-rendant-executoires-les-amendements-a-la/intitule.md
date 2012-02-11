@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 3.643 du 20 janvier 2012 rendant exécutoires les Amendements à la Constitution et à la Convention de l'Union Internationale des Télécommunications adoptés lors de la Conférence de plénipotentiaires de Guadalajara le 22 octobre 2010
