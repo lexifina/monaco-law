@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-105 du 24 février 2012 portant modification de l'arrêté ministériel n° 2003-533 du 21 octobre 2003 relatif aux substances et méthodes interdites et aux autorisations d'usage à des fins thérapeutiques
