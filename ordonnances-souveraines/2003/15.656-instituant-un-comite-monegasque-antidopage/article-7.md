@@ -1,7 +1,9 @@
 # Article 7
 
-Sous peine de sanctions sportives ou disciplinaires, il est interdit à toute personne de prescrire, céder, administrer ou appliquer à un sportif mineur ou majeur les substances figurant dans la liste visée à l'article 6 de la présente ordonnance.
+Les sportifs souffrant d'un état pathologique avéré nécessitant l'usage d'une substance ou d'une méthode figurant sur la Liste des Interdictions mentionnée à l'article 6 doivent d'abord obtenir une autorisation d'usage à des fins thérapeutiques.
 
-Si le praticien estime indispensable de prescrire l'une de ces substances dans un but thérapeutique, il informe par écrit le sportif concerné de l'incompatibilité avec la participation à une compétition. S'il prescrit des substances ou procédés, compatibles sous certaines conditions avec la pratique sportive, le praticien informe par écrit l'intéressé de la nature de cette prescription et de l'obligation qui lui est faite de présenter l'acte de prescription à tout contrôle.
+Lorsque le professionnel de santé prescrit à un sportif visé au premier alinéa une ou des substances ou méthodes figurant sur la Liste des Interdictions visée à l'article 6, leur utilisation ou leur détention ne constitue pas une violation d'une règle antidopage prévue aux articles 6-1, 6-2, 6-6 ou 6-8 si cette utilisation ou cette détention est conforme :
 
-Il est interdit à tout sportif de faire usage des substances et procédés dont l'utilisation est soumise à des conditions restrictives, lorsque ces conditions ne sont pas remplies.
+a) à une autorisation d'usage à des fins thérapeutiques accordée au sportif par le Comité Monégasque Antidopage conformément au Standard international pour l'autorisation d'usage à des fins thérapeutiques ;
+
+b) à une autorisation d'usage à des fins thérapeutiques accordée par une organisation nationale antidopage étrangère, par une fédération internationale ou par l'Agence Mondiale Antidopage et dont le Comité Monégasque Antidopage reconnaît la validité conformément au Standard International pour l'autorisation d'usage à des fins thérapeutiques figurant à l'annexe Il de la convention internationale contre le dopage dans le sport de l'UNESCO.

@@ -1,7 +1,11 @@
 # Article 14
 
-Dans le cadre d'un contrôle effectué lors d'une manifestation sportive, une convocation est remise par le préleveur spécialement habilité à cet effet, contre récépissé signé par le sportif désigné pour être contrôlé.
+La décision du Comité Monégasque Antidopage est obligatoirement appliquée par le groupement auquel appartient le sportif, qui en assure la mise en œuvre et en contrôle le respect. Le groupement ne dispose d'aucun pouvoir d'appréciation. Il peut toutefois saisir le Comité Monégasque Antidopage aux fins de précision sur les conditions de mise en œuvre de sa décision. Cette décision s'impose également aux autres groupements sportifs dont relèverait la personne sanctionnée.
 
-La convocation précise l'heure, le lieu et la nature du contrôle.
+Ces dispositions ne font pas obstacle à l'application de sanctions complémentaires propres au groupement sportif concerné.
 
-Le sportif qui refuse de signer la convocation est réputé s'être soustrait aux mesures de contrôle antidopage.
+Tout refus de mettre effectivement en œuvre ladite sanction peut donner lieu après mise en demeure à la suppression des avantages, autorisations et agréments consentis au groupement ou au sportif de haut niveau.
+
+En l'absence de groupement sportif de rattachement du sportif, la sanction est directement mise en œuvre et contrôlée par le Comité Monégasque Antidopage.
+
+Les modalités de mise en œuvre de la procédure disciplinaire et les sanctions à l'encontre des individus ou des équipes sont définies par arrêté ministériel.

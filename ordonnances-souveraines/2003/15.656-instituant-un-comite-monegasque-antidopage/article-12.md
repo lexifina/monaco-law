@@ -1,13 +1,17 @@
 # Article 12
 
-Le déroulement de la procédure de contrôle médical s'effectue en présence exclusive du ou des préleveurs spécialement habilités à cet effet éventuellement d'un infirmier et du sportif accompagné, le cas échéant, de son responsable légal. Cette procédure comprend :
+La chambre disciplinaire prévue à l'article précédent se compose de :
 
-- un entretien entre le préleveur spécialement habilité à cet effet et le sportif, qui porte notamment sur la prise, l'administration de produits, et en particulier de médicaments qu'ils aient ou non fait l'objet d'une prescription médicale.
+- un représentant du Comité Monégasque Antidopage, Président de la chambre,
 
-- un examen médical complémentaire, lorsque le médecin l'estime utile,
+- le Médecin-Inspecteur des sportifs, membre du Comité Monégasque Antidopage, rapporteur,
 
-- les opérations de prélèvement.
+- le Président du groupement sportif auquel appartient l'athlète, ou son représentant,
 
-Le sportif contrôlé peut fournir tout justificatif à l'appui de ses déclarations.
+- un médecin expert,
 
-Les informations nominatives à caractère médical ne peuvent être recueillies que par les préleveurs spécialement habilités à cet effet désignés par voie réglementaire. Ces informations sont couvertes par le secret médical.
+- un juriste.
+
+Les membres de la chambre disciplinaire sont désignés par le Président du Comité Monégasque Antidopage en fonction de leur possibilité d'entendre les cas avec équité, impartialité et indépendance.
+
+À ce titre, les membres n'auront pas eu auparavant de rapport avec l'affaire ni avec aucun de ses aspects. Chaque membre, lors de sa désignation, devra révéler au président toute circonstance susceptible d'avoir une incidence sur l'impartialité vis-à-vis d'une partie. La chambre disciplinaire remplit ses fonctions en toute équité et impartialité.

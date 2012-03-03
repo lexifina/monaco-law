@@ -1,3 +1,3 @@
 # Article 15
 
-Les personnes physiques ou morales responsables des lieux, locaux, enceintes, installations ou établissements dans lesquels se déroulent les compétitions et entraînements sont tenues de mettre à la disposition du préleveur spécialement habilité à cet effet chargé d'effectuer les contrôles antidopage des locaux appropriés audit contrôle.
+Les groupements sportifs adoptent, dans leur règlement intérieur ou dans leurs statuts, des dispositions relatives aux contrôles et à la sanction des faits de dopage, tels que définis par la présente ordonnance.

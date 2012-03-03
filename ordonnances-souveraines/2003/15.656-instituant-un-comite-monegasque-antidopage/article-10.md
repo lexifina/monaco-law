@@ -1,11 +1,9 @@
 # Article 10
 
-Le Comité monégasque antidopage lait appel au Centre médico-sportif pour :
+Afin d'effectuer le contrôle des sportifs ou pour mettre en œuvre tout contrôle inopiné, le Comité Monégasque Antidopage fait appel au Centre Médico-Sportif pour :
 
-- contrôler les sportifs,
+* former des préleveurs aux procédures des contrôles antidopage ;
 
-- organiser le prélèvement des échantillons sur les participants aux compétitions.
+* missionner les préleveurs agréés par arrêté ministériel pour réaliser les contrôles antidopage ;
 
-- prendre des dispositions en vue de leur analyse,
-
-- mettre en œuvre les contrôles inopinés et toute action dans le domaine du dopage.
+* réceptionner les prélèvements et les envoyer pour analyse au laboratoire accrédité ou autrement reconnu par l'Agence Mondiale Antidopage.

@@ -1,7 +1,11 @@
 # Article 9
 
-9.1 - Les contrôles Antidopage sur les sportifs sont réalisés d'initiative par le Comité Monégasque Antidopage. Ils peuvent également lui être demandés par les groupements sportifs monégasques agréés, le Comité Olympique Monégasque, le Directeur de l'Éducation Nationale, de la Jeunesse et des Sports, le Directeur de l'Action Sanitaire et Sociale, les structures étrangères visées à l'article 5 de la présente ordonnance, ainsi que par toute autre personne habilitée à cet effet par arrêté ministériel.
+Le Comité Monégasque Antidopage diligente les contrôles antidopage conformément aux Standards internationaux de contrôle :
 
-9.2 - Lors de compétitions sportives internationales organisées en Principauté de Monaco, la collecte des échantillons peut être initiée et réalisée par l'organisation internationale sous l'égide de laquelle la compétition est organisée. Cette dernière peut également faire procéder à la collecte des échantillons par une entité à laquelle elle déciderait de confier cette mission.
+a) pendant les manifestations sportives nationales ;
 
-Si l'organisation internationale décide de ne pas organiser de contrôle lors de la compétition sportive concernée, le Comité Monégasque Antidopage peut, en coordination avec l'organisation internationale et avec son accord ou celui de l'Agence Mondiale Antidopage, prendre l'initiative et la direction de ces contrôles.
+b) pendant les manifestations sportives internationales organisées sur le territoire de la Principauté, avec l'accord de l'organisme sportif international compétent ou, à défaut de l'Agence Mondiale Antidopage ;
+
+c) pendant les périodes en ou hors compétition pour les sportifs constituant le groupe cible, désignés dans des conditions prévues par arrêté ministériel.
+
+Les modalités d'organisation des contrôles sont définies par arrêté ministériel conformément aux Standards Internationaux de contrôle figurant à l'Appendice III de la Convention internationale contre le dopage dans le sport de l'UNESCO et mis à jour par l'Agence Mondiale Antidopage.

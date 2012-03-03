@@ -1,9 +1,7 @@
 # Article 11
 
-Les contrôles sont réalisés par des préleveurs spécialement habilités à cet effet par arrêté ministériel sauf lorsqu'il est fait application des dispositions de l'article 9.2 auquel cas les personnes chargées des contrôles doivent avoir été habilitées ou déléguées à cet effet par l'organisation internationale sous l'égide de laquelle la compétition est organisée.
+Le Comité Monégasque Antidopage engage les procédures disciplinaires contre les personnes ayant contrevenu aux dispositions de la présente ordonnance.
 
-Le sportif contrôlé peut se faire accompagner lors des opérations de contrôle par une personne de son choix.
+À cet effet il est institué une chambre disciplinaire chargée d'établir l'existence d'une violation des règles antidopage et de formuler un avis sur les suites à donner dans les affaires qui lui sont soumises par le Comité Monégasque Antidopage.
 
-Un membre du Comité d'organisation de l'épreuve sportive peut également assister au contrôle.
-
-L'ensemble des intervenants dans la procédure de contrôle Antidopage des sportifs est tenu au secret.
+Les actions disciplinaires engagées par le Comité Monégasque Antidopage à l'encontre de sportifs ou de toute autre personne se prescrivent par huit ans à compter de la date de la commission de la violation de la règle antidopage.

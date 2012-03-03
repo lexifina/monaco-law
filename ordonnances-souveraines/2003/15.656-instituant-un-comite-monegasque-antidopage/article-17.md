@@ -1,3 +1,5 @@
 # Article 17
 
-Le préleveur spécialement habilité à cet effet peut être assisté, dans les opérations de prélèvement par un autre préleveur spécialement habilité à cet effet, par un médecin qui suit la formation préalable à la délivrance de l'agrément, ou par un infirmier.
+Le Comité Monégasque Antidopage reconnaît et respecte les décisions disciplinaires rendues par les autres organisations signataires du Code figurant à l'appendice I de la Convention internationale contre le dopage dans le sport de l'UNESCO.
+
+Le Comité Monégasque Antidopage reconnaît également les mesures prises par d'autres organismes qui n'ont pas accepté le Code figurant à l'appendice I de la Convention internationale contre le dopage dans le sport de l'UNESCO, si les règles de ces organismes sont conformes au Code.
