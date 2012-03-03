@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-532 du 21 octobre 2003 relatif à l'organisation et au déroulement des contrôles antidopage
 
-Version en vigueur au 13 juin 2009.
+Version en vigueur au 3 mars 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/10-21-2003-532@2009.06.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/10-21-2003-532@2012.03.03/
 
 | | |
 | --- | --- |

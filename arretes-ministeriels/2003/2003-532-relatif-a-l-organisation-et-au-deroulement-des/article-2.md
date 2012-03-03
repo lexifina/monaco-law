@@ -1,3 +1,3 @@
 # Article 2
 
-Le Comité monégasque antidopage recueille, actualise et contrôle les informations, transmises par les groupements sportifs nationaux et étrangers, nécessaires à la localisation des sportifs, afin d'assurer l'organisation et la réalisation des contrôles inopinés desdits sportifs.
+Les sportifs constituant le groupe cible sont soumis à des contrôles individuels inopinés, diligentés par le Comité Monégasque Antidopage, selon un programme annuel de contrôle qu'il définit.

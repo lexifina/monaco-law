@@ -1,3 +1,5 @@
 # Article 4
 
-Les contrôles sont réalisés par des préleveurs spécialement habilités à cet effet par arrêté ministériel, sauf lorsqu'il est fait application des dispositions de l'article 9.2 de l'ordonnance souveraine n° 15.656 du 7 février 2003 susvisée, modifiée.
+Dans le cadre de leur obligation de localisation, les sportifs constituant le groupe cible doivent, pour chaque trimestre civil, indiquer un créneau horaire, pour chaque jour, durant lequel ils sont susceptibles de faire l'objet d'un contrôle antidopage, conformément aux Standards internationaux de contrôle.
+
+Les sportifs veillent à informer le Comité Monégasque Antidopage de toute modification dans les informations transmises, conformément aux Standards internationaux de contrôle.
