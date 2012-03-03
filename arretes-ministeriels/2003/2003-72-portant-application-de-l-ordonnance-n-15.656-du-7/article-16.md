@@ -1,3 +1,3 @@
 # Article 16
 
-L'intéressé accompagné le cas échéant de son responsable légal est convoqué devant la Chambre disciplinaire par lettre recommandée avec demande d'avis de réception, quinze jours au moins avant la date de la séance au cours de laquelle la Chambre est appelée à se prononcer sur les faits relevés à son encontre.
+Le Président de la Chambre Disciplinaire informe dans les mêmes conditions le Président du groupement sportif auquel appartient l'intéressé et lui demande de désigner le représentant dudit groupement au sein de la Chambre Disciplinaire.

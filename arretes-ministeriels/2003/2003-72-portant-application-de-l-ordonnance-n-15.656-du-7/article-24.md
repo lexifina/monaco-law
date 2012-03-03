@@ -1,3 +1,5 @@
 # Article 24
 
-La proposition de sanction motivée, formulée par la Chambre disciplinaire est signée par son Président. Elle est communiquée à l'intéressé ou son responsable légal par lettre recommandée avec demande d'avis de réception ainsi qu'au Président du Comité monégasque antidopage.
+Les membres de la Chambre Disciplinaire sont astreints à une obligation de confidentialité pour les faits, actes et informations dont ils ont pu avoir connaissance en raison de leurs fonctions.
+
+Toute infraction à cette disposition entraîne la cessation des pouvoirs du membre de l'organe disciplinaire ou de secrétaire de séance.

@@ -1,5 +1,3 @@
 # Article 7
 
-Le procès-verbal d'analyse établi par le laboratoire accrédité ou autrement reconnu par l'Agence Mondiale Antidopage est communiqué par celui-ci au Comité monégasque antidopage.
-
-Le secrétariat du Comité monégasque antidopage communique aux personnes mentionnées au deuxième alinéa de l'article 20 de l'ordonnance souveraine n° 15.656 du 7 février 2003, les résultats des analyses effectuées par le laboratoire accrédité ou autrement reconnu par l'Agence Mondiale Antidopage.
+Le procès-verbal d'analyse établi par le laboratoire accrédité ou autrement reconnu par l'Agence Mondiale Antidopage est communiqué par celui-ci au Comité Monégasque Antidopage sous forme codée, dans un rapport signé par un représentant autorisé du laboratoire.

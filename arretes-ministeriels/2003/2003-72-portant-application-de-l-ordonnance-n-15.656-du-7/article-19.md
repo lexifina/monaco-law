@@ -1,13 +1,7 @@
 # Article 19
 
-La Chambre disciplinaire a pour charge d'instruire les affaires de dopage.
+L'intéressé peut présenter devant la Chambre Disciplinaire des observations écrites ou orales. Il peut demander que soient entendues des personnes de son choix, dont il communique le nom huit jours au moins avant la réunion de la Chambre. Le Président de la Chambre peut refuser les demandes d'audition qui paraissent abusives.
 
-Pour ce faire, à l'issue des débats, elle :
+Le droit de faire entendre les personnes dont l'audition paraît utile appartient également au Président de la Chambre Disciplinaire. Si une telle audition est décidée, le Président en informe l'intéressé avant la réunion de la Chambre au cours de laquelle elle aura lieu.
 
-- détermine la régularité d'une autorisation pour usage thérapeutique éventuellement accordée,
-
-- détermine en cas de contestation la régularité du processus de contrôle ou d'analyse du laboratoire,
-
-- prendre en compte toute explication fournie par l'intéressé,
-
-- demande la mise en œuvre d'une instruction complémentaire qui pourrait s'avérer nécessaire.
+Les frais de déplacement des personnes dont l'audition est décidée dans les conditions prévues au deuxième alinéa sont pris en charge par le Comité Monégasque Antidopage.

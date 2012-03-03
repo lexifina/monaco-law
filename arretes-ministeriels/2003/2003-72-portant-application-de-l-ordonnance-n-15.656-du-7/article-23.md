@@ -1,5 +1,3 @@
 # Article 23
 
-Les membres de la Chambre disciplinaire sont astreints à une obligation de confidentialité pour les faits, actes et informations dont ils ont pu avoir connaissance en raison de leurs fonctions.
-
-Toute infraction à cette disposition entraîne la cessation des pouvoirs du membre de l'organe disciplinaire ou de secrétaire de séance.
+La Chambre Disciplinaire délibère à huis clos hors de la présence de l'intéressé, de ses défenseurs et des personnes entendues à l'audience. Lorsque les fonctions de secrétaire de séance sont assurées par une personne qui n'est pas membre de la Chambre, celle-ci peut assister au délibéré sans y participer.

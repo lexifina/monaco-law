@@ -1,3 +1,3 @@
 # Article 14
 
-Le Président de la Chambre disciplinaire informe dans les mêmes conditions le Président du groupement sportif auquel appartient l'intéressé et lui demande de désigner le représentant dudit groupement au sein de la Chambre disciplinaire.
+La Chambre Disciplinaire instituée par les articles 11 et 12 de l'ordonnance souveraine n° 15.656 du 7 février 2003, modifiée, susvisée, est saisie par le Président du Comité Monégasque Antidopage.

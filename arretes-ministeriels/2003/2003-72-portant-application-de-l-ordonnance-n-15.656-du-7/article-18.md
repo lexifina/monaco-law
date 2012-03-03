@@ -1,5 +1,3 @@
 # Article 18
 
-Le rapporteur établit un exposé des faits et rappelle les conditions de déroulement de la procédure.
-
-Le rapporteur procède, sans pouvoir les assortir de mesures de contrainte, à toutes investigations utiles dont le résultat est versé au dossier et communiqué avant la séance à l'intéressé.
+L'intéressé accompagné le cas échéant de son responsable légal est convoqué devant la Chambre Disciplinaire par lettre recommandée avec demande d'avis de réception, quinze jours au moins avant la date de la séance au cours de laquelle la Chambre est appelée à se prononcer sur les faits relevés à son encontre.
