@@ -1,5 +1,5 @@
 # Article 8
 
-Le Comité monégasque antidopage fait connaître sa décision, par lettre recommandée avec demande d'avis de réception, au sportif ou à son représentant légal et au médecin traitant du sportif.
+Le sportif devra donner son accord écrit à la transmission de toutes les informations relatives à sa demande aux membres de la Commission pour les autorisations d'usage à des fins thérapeutiques et, le cas échéant, à d'autres spécialistes médicaux ou scientifiques indépendants, ainsi qu'au personnel appelé à effectuer la gestion, la révision des autorisations d'usage à des fins thérapeutiques ou les appels qui s'y rapportent.
 
-Cette décision est également communiquée par le Comité monégasque antidopage à l'Agence mondiale antidopage ainsi qu'à la Commission médicale de la Fédération internationale dont relève le sportif.
+L'accord écrit du sportif est également nécessaire à la communication des autorisations ou des refus d'autorisation édictés par le Comité Monégasque Antidopage aux organisations nationales antidopage étrangères, y compris pour l'enregistrement des données et leur transfert vers le centre d'information de l'Agence Mondiale Antidopage.

@@ -1,9 +1,9 @@
 # Article 10
 
-À l'exception des cas dans lesquels il est fait application de l'article 5.1, le Comité Monégasque Antidopage peut retirer l'autorisation d'usage à des fins thérapeutiques si le sportif :
+Le Comité Monégasque Antidopage statue, après avis de la Commission, sur la demande d'autorisation d'usage à des fins thérapeutiques.
 
-- ne se conforme pas rapidement à une demande, par le Comité Monégasque Antidopage, de réduction de la posologie ou de cessation de l'utilisation de la substance ou méthode normalement interdite,
+La décision d'autorisation du Comité Monégasque Antidopage précise la durée pour laquelle elle est accordée qui ne peut excéder un an.
 
-- refuse de se soumettre aux examens médicaux ou paramédicaux requis par le Comité Monégasque Antidopage afin de juger de la pertinence du maintien de l'autorisation,
+La décision est adressée, par lettre recommandée avec demande d'avis de réception postal, au sportif ou à son représentant légal et au médecin traitant du sportif.
 
-- n'utilise pas la substance ou méthode interdite selon les modalités qu'il a autorisées.
+Elle est également communiquée par le Comité Monégasque Antidopage à l'Agence Mondiale Antidopage ainsi qu'à la Commission Médicale de la Fédération Internationale dont relève le sportif.
