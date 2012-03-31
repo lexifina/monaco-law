@@ -1,21 +1,21 @@
 # Article 2
 
-La Direction de la Sûreté Publique comprend :
+La Direction de la Sûreté Publique comprend des personnels en civil ou en tenue d'uniforme, ainsi que des personnels administratifs, techniques et scientifiques qui accomplissent leurs missions au sein des divisions suivantes :
 
-- une division de l'administration et de la formation,
+- la Division de l'Administration et de la Formation ;
 
-- une division de police administrative,
+- la Division de Police Administrative ;
 
-- une division de police urbaine,
+- la Division de Police Urbaine ;
 
-- une division de police judiciaire,
+- la Division de Police Judiciaire ;
 
-- une division de police maritime et aéroportuaire,
+- la Division de Police Maritime et Aéroportuaire (DPMA) ;
 
-- l'inspection générale des services de police,
+- l'Inspection Générale des Services de Police (IGSP) ;
 
-- le groupe de sécurité de la Famille Souveraine,
+- le Groupe de sécurité de la Famille Souveraine ;
 
-- le secrétariat particulier de la Direction,
+- le Secrétariat de la Direction ;
 
-- la section des informations générales, des études et du renseignement.
+- la Section des informations générales, des études et du renseignement (SIGER).
