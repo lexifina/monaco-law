@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 19 mars 1906 sur les formalités à observer pour les contrats engageant le Trésor
 
-Version en vigueur au 29 juillet 1926.
+Version en vigueur au 7 avril 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1906/03-19-L002813@1926.07.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1906/03-19-L002813@2012.04.07/
 
 | | |
 | --- | --- |
