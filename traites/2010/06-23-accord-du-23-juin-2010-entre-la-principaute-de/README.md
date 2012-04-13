@@ -1,8 +1,8 @@
-# Accord du 23 juin 2010 entre la Principauté de Monaco et les Îles Féroé relatif aux renseignements en matière fiscale
+# Accord du 23 juin 2010 entre la Principauté de Monaco et le Groenland relatif aux renseignements en matière fiscale signé à Paris
 
-Version en vigueur au 7 mai 2011.
+Version en vigueur au 13 avril 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tai/accord/2010/06-23-tai1l019010@2011.05.07/
+Source : Legimonaco, https://legimonaco.mc/tai/accord/2010/06-23-tai1l023100@2012.04.13/
 
 | | |
 | --- | --- |

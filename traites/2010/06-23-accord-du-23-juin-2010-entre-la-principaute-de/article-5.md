@@ -1,18 +1,18 @@
 # Article 5
 
-1. L'Autorité compétente de la Partie requise fournit les renseignements sur demande aux fins visées à l'article 1. Ces renseignements doivent être échangés que l'acte faisant l'objet de l'enquête constitue ou non une infraction pénale selon le droit de la Partie requise s'il s'était produit dans cette Partie.
+1 - L'Autorité compétente de la Partie requise fournit les renseignements sur demande aux fins visées à l'article 1. Ces renseignements doivent être échangés que l'acte faisant l'objet de l'enquête constitue ou non une infraction pénale selon le droit de la Partie requise s'il s'était produit dans cette Partie.
 
-2. Si les renseignements en la possession de l'Autorité compétente de la Partie requise ne sont pas suffisants pour lui permettre de donner suite à la demande de renseignements, la Partie requise prend toutes les mesures adéquates de collecte de renseignements nécessaires pour fournir à la Partie requérante les renseignements demandés, même si la Partie requise n'a pas besoin de ces renseignements à ses propres fins fiscales.
+2 - Si les renseignements en la possession de l'Autorité compétente de la Partie requise ne sont pas suffisants pour lui permettre de donner suite à la demande de renseignements, la Partie requise prend toutes les mesures adéquates de collecte de renseignements nécessaires pour fournir à la Partie requérante les renseignements demandés, même si la Partie requise n'a pas besoin de ces renseignements à ses propres fins fiscales.
 
-3. Sur demande spécifique de l'Autorité compétente de la Partie requérante, l'Autorité compétente de la Partie requise fournit les renseignements visés au présent article, sous la forme de dépositions de témoins et de copies certifiées conformes aux documents originaux, dans la mesure où son droit interne le lui permet.
+3 - Sur demande spécifique de l'Autorité compétente de la Partie requérante, l'Autorité compétente de la Partie requise fournit les renseignements visés au présent article, sous la forme de dépositions de témoins et de copies certifiées conformes aux documents originaux, dans la mesure où son droit interne le lui permet.
 
-4. Chaque Partie contractante fait en sorte que son Autorité compétente ait le droit, aux fins visées à l'article 1, d'obtenir et de fournir, sur demande :
+4 - Chaque Partie contractante fait en sorte que son Autorité compétente ait le droit, aux fins visées à l'article 1, d'obtenir et de fournir, sur demande :
 
 (a) les renseignements détenus par les banques, les autres institutions financières et toute personne agissant en qualité de mandataire ou de fiduciaire ;
 
-(b) les renseignements concernant la propriété des sociétés, sociétés de personnes, fiducies, fondations, « Anstalten » et autres personnes, y compris, dans les limites de l'article 2, les renseignements en matière de propriété concernant toutes ces personnes lorsqu'elles font partie d'une chaîne de propriété ; dans le cas d'une fiducie, les renseignements sur les constituants, les fiduciaires et les bénéficiaires et, dans le cas d'une fondation, les renseignements sur les fondateurs, les membres du conseil de la fondation et les bénéficiaires. En outre, le présent Accord n'oblige pas les Parties contractantes à obtenir ou fournir les renseignements en matière de propriété concernant des sociétés cotées ou des fonds ou dispositifs de placement collectif publics, sauf si ces renseignements peuvent être obtenus sans susciter des difficultés disproportionnées.
+(b) les renseignements concernant la propriété des sociétés, sociétés de personnes, fiducies, fondations, "Anstalten' et autres personnes, y compris, dans les limites de l'article 2, les renseignements en matière de propriété concernant toutes ces personnes lorsqu'elles font partie d'une chaîne de propriété ; dans le cas d'une fiducie, les renseignements sur les constituants, les fiduciaires et les bénéficiaires et, dans le cas d'une fondation, les renseignements sur les fondateurs, les membres du conseil de la fondation et les bénéficiaires. En outre, le présent Accord n'oblige pas les Parties contractantes à obtenir ou fournir les renseignements en matière de propriété concernant des sociétés cotées ou des fonds ou dispositifs de placement collectif publics, sauf si ces renseignements peuvent être obtenus sans susciter des difficultés disproportionnées.
 
-5. L'Autorité compétente de la Partie requérante fournit les renseignements suivants à l'Autorité compétente de la Partie requise, lorsqu'elle soumet une demande de renseignements en vertu de l'Accord, afin de démontrer la pertinence vraisemblable des renseignements demandés :
+5 - L'Autorité compétente de la Partie requérante fournit les renseignements suivants à l'Autorité compétente de la Partie requise, lorsqu'elle soumet une demande de renseignements en vertu de l'Accord, afin de démontrer la pertinence vraisemblable des renseignements demandés :
 
 (a) l'identité de la personne faisant l'objet d'un contrôle ou d'une enquête et la période pour laquelle les renseignements sont demandés ;
 
@@ -28,7 +28,7 @@
 
 (g) une déclaration précisant que la Partie requérante a utilisé pour obtenir les renseignements tous les moyens disponibles sur son propre territoire, hormis ceux qui susciteraient des difficultés disproportionnées.
 
-6. L'Autorité compétente de la Partie requise transmet aussi rapidement que possible à la Partie requérante les renseignements demandés. Pour assurer une réponse rapide, l'Autorité compétente de la Partie requise :
+6 - L'Autorité compétente de la Partie requise transmet aussi rapidement que possible à la Partie requérante les renseignements demandés. Pour assurer une réponse rapide, l'Autorité compétente de la Partie requise :
 
 (a) accuse réception de la demande par écrit à l'Autorité compétente de la Partie requérante et, dans les 60 jours à compter de la réception de la demande, avise cette autorité des éventuelles lacunes de la demande ;
 
