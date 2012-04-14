@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-198 du 5 avril 2012 portant restriction de la mise sur le marché et de l'utilisation des dispositifs médicaux injectables indiqués dans le comblement et l'augmentation des volumes corporels à visée esthétique
