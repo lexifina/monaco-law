@@ -6,21 +6,21 @@ II. - Pour les établissements ou services d'une capacité supérieure à quaran
 
 Si ces conditions de qualification ne sont pas remplies, la direction de l'établissement ou du service peut être confiée :
 
-1º À une personne titulaire du diplôme d'État d'éducateur de jeunes enfants justifiant de cinq ans d'expérience professionnelle, dont deux au moins comme directeur, directeur adjoint d'un établissement ou d'un service relevant de la présente section ;
+1° À une personne titulaire du diplôme d'État d'éducateur de jeunes enfants justifiant de trois ans d'expérience professionnelle, dont deux au moins comme directeur, directeur adjoint d'un établissement ou d'un service relevant de la présente section ;
 
-2º À une personne titulaire du diplôme d'État de sage-femme ou d'infirmier justifiant :
+2° À une personne titulaire du diplôme d'État de sage-femme ou d'infirmier justifiant :
 
-- de cinq ans d'expérience comme directeur ou directeur adjoint d'un établissement ou d'un service relevant de la présente section ;
+- de trois ans d'expérience comme directeur ou directeur adjoint d'un établissement ou d'un service relevant de la présente section ;
 
-- ou d'un diplôme au moins de niveau Baccalauréat + 3 attestant de compétences dans le domaine de l'encadrement ou de la direction et d'une expérience de cinq ans auprès d'enfants de moins de trois ans.
+- ou d'un diplôme au moins de niveau Baccalauréat + 3 attestant de compétences dans le domaine de l'encadrement ou de la direction et d'une expérience de trois ans auprès d'enfants de moins de trois ans.
 
 III. - Pour les établissements ou services d'une capacité comprise entre vingt-et-une et quarante places, il peut être dérogé aux conditions relatives à la durée de l'expérience professionnelle pour les personnes satisfaisant aux conditions de qualification exigées pour cette catégorie d'établissements.
 
-Si ces conditions de qualification ne sont pas remplies, la direction de l'établissement ou du service peut être confiée à une personne titulaire du diplôme d'État d'assistant de service social, d'éducateur spécialisé, de conseillère en économie sociale et familiale, de psychomotricien, ou d'un DESS ou d'un master II de psychologie justifiant :
+Si ces conditions de qualification ne sont pas remplies, la direction de l'établissement ou du service peut être confiée à une personne titulaire du diplôme d'État de sage-femme, d'infirmier, d'assistant de service social, d'éducateur spécialisé, de conseillère en économie sociale et familiale, de psychomotricien, ou d'un DESS ou d'un master II de psychologie justifiant :
 
-- de cinq ans d'expérience comme directeur, directeur adjoint d'un établissement ou d'un service relevant de la présente section ;
+- de trois ans d'expérience comme directeur, directeur adjoint d'un établissement ou d'un service relevant de la présente section ;
 
-- ou d'un diplôme au moins de niveau Baccalauréat + 3 attestant de compétences dans le domaine de l'encadrement ou de la direction et d'une expérience de cinq ans auprès d'enfants de moins de trois ans.
+- ou d'un diplôme au moins de niveau Baccalauréat + 3 attestant de compétences dans le domaine de l'encadrement ou de la direction et d'une expérience de trois ans auprès d'enfants de moins de trois ans.
 
 IV. - Pour les établissements ou services d'une capacité inférieure ou égale à vingt places, il peut être dérogé aux conditions relatives à la durée de l'expérience professionnelle pour les personnes satisfaisant aux conditions de qualification exigées pour cette catégorie d'établissements.
 

@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2010-154 du 24 mars 2010 portant réglementation des établissements accueillant des enfants de moins de six ans
 
-Version en vigueur au 3 avril 2010.
+Version en vigueur au 14 avril 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/03-24-2010-154@2010.04.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/03-24-2010-154@2012.04.14/
 
 | | |
 | --- | --- |
