@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 90-150 du 5 avril 1990 sur les transports sanitaires terrestres - Agrément
 
-Version en vigueur au 12 juin 2010.
+Version en vigueur au 14 avril 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1990/04-05-90-150@2010.06.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1990/04-05-90-150@2012.04.14/
 
 | | |
 | --- | --- |
