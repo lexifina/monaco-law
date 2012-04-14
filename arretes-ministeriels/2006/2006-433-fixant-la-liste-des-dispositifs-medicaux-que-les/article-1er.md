@@ -18,4 +18,6 @@
 
 8) Cape cervicale ;
 
-9) Compresses, coton, bandes de crêpe, filet tubulaire de maintien, suture adhésive et sparadrap.
+9) Compresses, coton, bandes de crêpe, filet tubulaire de maintien, suture adhésive et sparadrap ;
+
+10) Dispositifs intra-utérins.
