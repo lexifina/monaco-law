@@ -1,17 +1,15 @@
 # Article 1er
 
-La commission de vérification des diplômes instituée par l'article premier de la loi n° 1.029 du 16 juillet 1980 susvisée, est ainsi composée :
+La Commission de vérification du diplôme de pharmacien instituée par l'article premier de la loi n° 1.029 du 16 juillet 1980, modifiée, susvisée, est ainsi composée :
 
-- le conseiller de Gouvernement pour l'Intérieur, Président ;
+- - le Conseiller de Gouvernement pour les Affaires Sociales et la Santé ou son représentant, Président ;
 
-- le président du conseil de l'Ordre des pharmaciens ;
+- - le Président du Conseil de l'Ordre des Pharmaciens ou son représentant ;
 
-- le vice-président du conseil de l'Ordre des pharmaciens ;
+- - le Vice-Président du Conseil de l'Ordre des Pharmaciens ou son représentant ;
 
-- le directeur de l'action sanitaire et sociale ;
+- - le Directeur de l'Action Sanitaire et Sociale ou son représentant ;
 
-- le médecin-inspecteur de l'action sanitaire et sociale ;
+- - le Directeur des Affaires Juridiques ou son représentant ;
 
-- le directeur du contentieux et des études législatives ;
-
-- l'inspecteur des pharmacies.
+- - un professeur des universités de la discipline concernée
