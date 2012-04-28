@@ -1,13 +1,17 @@
 # Article 14
 
-Le propriétaire, régulièrement autorisé, peut démolir l'intégralité de son immeuble pour reconstruire, sur le même terrain, un autre immeuble.
+Peut donner congé à son locataire dans les conditions de forme et de délai prévues à l'article 15 le bailleur qui, régulièrement autorisé, entend :
 
-À l'issue des travaux, il peut disposer et jouir librement des locaux reconstruits.
+- 1° démolir son immeuble pour reconstruire, sur le même terrain, un autre immeuble, d'une surface habitable au moins égale ;
 
-Lorsque l'immeuble visé au premier alinéa est occupé, le propriétaire doit donner congé au locataire par lettre recommandée avec demande d'avis de réception postal ou par acte extrajudiciaire. Le préavis applicable est de six mois à compter du jour de l'expédition de la lettre recommandée, le cachet de la poste faisant foi, ou de la signification de l'acte. Il doit indiquer les motifs du congé et comporter une offre de relogement en précisant les caractéristiques du local de remplacement.
+- 2° surélever son immeuble ;
 
-Le relogement doit être assuré, pour la période du bail restant à courir, dans un local en bon état d'habitabilité situé à Monaco, sans que le montant du loyer puisse excéder celui résultant du bail en cours. Ce local doit correspondre au besoin normal du locataire évincé et présenter des qualités comparables à celles du local initial. Les frais normaux de déménagement sont à la charge du propriétaire. Lorsque le locataire est relogé dans un local non soumis aux dispositions de la présente loi, il bénéficie, ainsi que les personnes mentionnées à l'article 16, de ses dispositions protectrices, sous réserve de l'exercice du droit de reprise par le propriétaire.
+- 3° apporter à son immeuble des modifications afin de créer de nouvelles surfaces habitables ;
 
-Le locataire qui entend accepter l'offre de relogement notifie son accord dans les trois mois de la notification par lettre recommandée avec demande d'avis de réception postal ou de la signification de l'acte, sous peine d'être considéré comme déclinant ladite offre.
+- 4° apporter à son immeuble des réparations ou améliorations nécessaires à la salubrité, à l'hygiène ou à la sécurité publique :
 
-Le locataire évincé est tenu de mettre le local qu'il occupe à la disposition effective du propriétaire à l'époque indiquée. En cas de contestation, le président du tribunal de première instance, statuant en la forme des référés et saisi à la requête de la partie la plus diligente, est compétent pour statuer et ordonner, s'il y a lieu, l'expulsion.
+lorsque, dans ces trois derniers cas, la totalité des locaux que le locataire occupe est rendue inutilisable par l'exécution des travaux.
+
+Dans ces cas, comme dans celui où la totalité des locaux n'est pas rendue inutilisable, les dispositions de l'article 1564 du Code civil sont applicables.
+
+En outre, le contrat de location en cours est résilié de plein droit dans le cas où la démolition de l'immeuble serait ordonnée dans les conditions fixées par les textes législatifs ou réglementaires en vigueur, soit qu'il ait été déclaré insalubre, soit qu'il menace ruine.
