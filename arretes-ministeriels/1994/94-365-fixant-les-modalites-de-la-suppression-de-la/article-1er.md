@@ -90,6 +90,8 @@ La suppression de participation est étendue, dans ce dernier cas, à l'ensemble
 
 - fournitures orthopédiques nécessitées par la grossesse,
 
-- actes médicaux ou chirurgicaux afférents à l'accouchement.
+- actes médicaux ou chirurgicaux afférents à l'accouchement,
+
+- rééducation périnéale active post-partum, dans la limite de 10 séances.
 
 15°) Pour les frais de séjour relatifs à l'accouchement à l'hôpital ou en clinique, à concurrence du prix de journée ou des éléments de tarification à l'activité homologués pour l'établissement.
