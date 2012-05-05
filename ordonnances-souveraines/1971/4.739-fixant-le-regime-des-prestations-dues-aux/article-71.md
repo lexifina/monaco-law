@@ -16,7 +16,7 @@ Pour avoir droit aux prestations prévues en cas d'invalidité, le salarié doit
 
   - et que l'intéressé ne remplisse pas les conditions d'ouverture du droit au regard d'un autre organisme ou service particulier ;
 
-- 4° Justifier en outre :
+- 4°. Justifier en outre :
 
   - soit d'au moins 800 heures de travail salarié, ou assimilé, aux termes de l'article 9, au cours des quatre trimestres civils précédant la date à prendre en considération parmi celles visées sous le chiffre 2°) dont 200 heures au moins au cours du dernier de ces trimestres ;
 

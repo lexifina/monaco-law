@@ -14,6 +14,8 @@ Les prestations en nature prévues en cas de maternité sont servies sous forme 
 
   - e ) aux actes médicaux ou chirurgicaux afférents à l'accouchement ;
 
+  - f ) à la rééducation périnéale active post-partum, dans la limite de 10 séances ;
+
 - 2°) de remboursement des fournitures orthopédiques nécessitées par la grossesse ;
 
 - 3°) de remboursement des frais de séjour, à l'hôpital ou à la clinique, relatifs à l'accouchement.
