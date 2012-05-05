@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-262 du 27 avril 2012 modifiant l'arrêté ministériel n° 94-365 du 1er septembre 1994 fixant les modalités de la suppression de la participation du bénéficiaire de prestations aux frais de traitement et d'examens
