@@ -34,7 +34,7 @@ Chacune des mains d'un même joueur est considérée individuellement et suit l'
 
 5.2 - Les joueurs peuvent user des possibilités de jeux suivantes :
 
-1° - Jeu simple et black-jack :
+1° Jeu simple et black-jack :
 
 Le croupier distribue une carte pour chaque main en commençant à sa gauche et en allant dans le sens des aiguilles d'une montre. À l'issue de ce tour, il se donne une carte, puis distribue une seconde carte, toujours dans le même ordre, à chaque main. Les cartes sont données figures en dessus. On ne peut plus miser après que la première carte soit sortie du sabot et retournée sur la table.
 
@@ -85,3 +85,21 @@ Un joueur a la possibilité de doubler sa mise quel que soit le total obtenu ave
 La double mise est autorisée pour toutes les mains, y compris les paires.
 
 Dans le cas où le joueur s'est assuré contre un « black-jack » du croupier et qu'il double sa mise ou qu'il forme plusieurs mains, seule la mise initiale est assurée.
+
+6° Le jeu des paires ou « Perfect pairs » :
+
+Le joueur a la possibilité d'engager, avant la distribution des cartes, une mise « Perfect Pairs » sur chaque case où il a engagé une mise pour le jeu de black jack.
+
+Le pari « Perfect Pairs » gagne uniquement si les deux premières cartes distribuées au joueur constituent une paire.
+
+Les trois combinaisons gagnantes et leurs paiements respectifs sont les suivants :
+
+- « Perfect pairs » (ou la paire «idéale' constituée par exemple de deux rois de cœur) payée 25 fois la mise ;
+
+- » Coloured pairs « (ou la paire à la couleur constituée par exemple d'un roi de cœur et d'un roi de carreau) payée 12 fois la mise ;
+
+- » Mixed pairs « (ou la paire mixte constituée par exemple d'un roi de cœur et d'un roi de trèfle) payée 6 fois la mise.
+
+Après la distribution de deux cartes, à chaque joueur, le croupier procède au ramassage des mises perdantes sur »Perfect pairs' et au paiement des mises gagnantes sur cette même chance.
+
+Ensuite, la partie se poursuit selon les règles en vigueur au Black Jack.
