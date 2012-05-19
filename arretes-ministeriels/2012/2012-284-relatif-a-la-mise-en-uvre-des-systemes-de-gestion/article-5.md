@@ -1,0 +1,7 @@
+# Article 5
+
+Les responsabilités en matière de gestion de la sécurité au sein de l'organisme sont clairement définies. En particulier, l'organisme s'assure que :
+
+1) Une personne acceptable par le chef du Service de l'Aviation Civile, au regard des dispositions de la Convention relative à l'Aviation Civile Internationale, a été nommée pour gérer le SGS. Cette personne rend compte directement au dirigeant responsable et a la responsabilité de s'assurer que les tâches et fonctions décrites à l'article 4 sont correctement réalisées ;
+
+2) Le dirigeant responsable a la responsabilité finale de toutes les questions relatives à la sécurité.
