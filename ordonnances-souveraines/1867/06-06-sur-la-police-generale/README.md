@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 6 juin 1867 sur la police générale
 
-Version en vigueur au 18 septembre 1999.
+Version en vigueur au 26 mai 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1867/06-06-L000648@1999.09.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1867/06-06-L000648@2012.05.26/
 
 | | |
 | --- | --- |
