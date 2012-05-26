@@ -14,15 +14,15 @@ Cotations correspondantes à utiliser pour les prélèvements effectués par les
 
 9050 - | Prélèvements par ponction veineuse directe ............ | 1,5
 
-9051- | Prélèvements par ponction veineuse directe sur les enfants de moins de cinq ans (réservés aux directeurs et directeurs adjoints de laboratoire) ............ | 5
+9051- | Prélèvements par ponction veineuse directe sur les enfants de moins de cinq ans (réservés aux directeurs et directeurs adjoints de laboratoire) | 5
 
-9052 - | Prélèvements aseptiques à différents niveaux des muqueuses ou de la peau, quel qu'en soit le nombre, pour examen cytologique, bactériologique, parasitologique, mycologique ou virologique, à l'exception de biopsies ............ | 3
+9052 - | Prélèvements aseptiques à différents niveaux des muqueuses ou de la peau, quel qu'en soit le nombre, pour examen cytologique, bactériologique, parasitologique, mycologique ou virologique, à l'exception de biopsies | 3
 
-9053 - | Prélèvements gynécologiques à différents niveaux, quel qu'en soit le nombre, y compris au niveau anal, sur prescription............ | 3
+9053 - | Prélèvements gynécologiques à différents niveaux, quel qu'en soit le nombre, y compris au niveau anal, sur prescription | 3
 
-9054 - | Cathétérisme urétral chez la femme, sur prescription spécifique ............ | 2
+9054 - | Cathétérisme urétral chez la femme, sur prescription spécifique | 2
 
-9055 - | Tubage gastrique............ | 10
+9055 - | Tubage gastrique | 10
 
 9056 | Prélèvements artériels | KB 5
 
@@ -30,6 +30,6 @@ Cotations correspondantes à utiliser pour les prélèvements effectués par les
 
 Cotations à utiliser pour les techniciens de laboratoire (TB) :
 
-9070 - | Prélèvements par ponction veineuse directe ............ | 1,5
+9070 - | Prélèvements par ponction veineuse directe | 1,5
 
-9071 | - Prélèvements par ponction veineuse directe sur les enfants de moins de cinq ans ............ | 5
+9071 | - Prélèvements par ponction veineuse directe sur les enfants de moins de cinq ans | 5
