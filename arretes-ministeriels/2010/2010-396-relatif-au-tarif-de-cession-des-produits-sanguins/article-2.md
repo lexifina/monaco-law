@@ -14,25 +14,25 @@ Concentré unitaire de granulocytes d'aphérèse | 538,83
 
 Mélange de concentrés de plaquettes standard :
 
-- concentration minimale de 1 x 1011 plaquettes par poche | 75,02
+Concentration minimale de 1 x 1011 plaquettes par poche | 75,02
 
-- puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 37,51
+puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 37,51
 
 Concentré de plaquettes d'aphérèse :
 
-- concentration minimale de 2 x 1011 plaquettes par poche | 217,56
+Concentration minimale de 2 x 1011 plaquettes par poche | 217,56
 
-- puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 54,39
+puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 54,39
 
 Mélange de concentrés de plaquettes standard viro atténué par amotosalen :
 
-- concentration minimale de 1 x 1011 plaquettes par poche | 75,02
+Concentration minimale de 1 x 1011 plaquettes par poche | 75,02
 
-- puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 37,51
+puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 37,51
 
 Concentré de plaquettes d'aphérèse viro atténué par amotosalen :
 
-- concentration minimale de 2 x 1011 plaquettes par poche | 217,56
+Concentration minimale de 2 x 1011 plaquettes par poche | 217,56
 
 - puis par tranche supplémentaire d'unité thérapeutique de 0,5 x1011 | 54,39
 
