@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 8.001 du 9 mai 1984 portant classification des postes diplomatiques et consulaires à l'étranger
 
-Version en vigueur au 31 décembre 2011.
+Version en vigueur au 2 juin 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1984/05-09-8.001@2011.12.31/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1984/05-09-8.001@2012.06.02/
 
 | | |
 | --- | --- |

@@ -132,6 +132,8 @@ Les postes consulaires sont les suivants :
 
 - République de Bulgarie : Sofia ;
 
+- République de Corée : Séoul ;
+
 - République Dominicaine : Saint Domingue ;
 
 - République du Kazakhstan : Astana ;
