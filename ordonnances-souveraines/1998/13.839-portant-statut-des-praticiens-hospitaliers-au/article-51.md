@@ -2,7 +2,7 @@
 
 1. Travail à mi-temps pour raison thérapeutique.
 
-Le praticien hospitalier qui a obtenu soit un congé de longue maladie, soit un congé de longue durée, peut être autorisé sur avis conforme à la Commission médicale visée à l'article 38, à accomplir un service à mi-temps pour raison thérapeutique. Ce mi-temps thérapeutique peut être accordé :
+Le praticien hospitalier qui a obtenu soit un congé de longue maladie, soit un congé de longue durée, peut être autorisé sur avis conforme de la Commission médicale visée à l'article 38, à accomplir un service à mi-temps pour raison thérapeutique. Ce mi-temps thérapeutique peut être accordé :
 
 - soit parce que la reprise des fonctions à mi-temps est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé,
 
