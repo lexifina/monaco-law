@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.785 du 29 mai 2012 modifiant l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre Hospitalier Princesse Grace, modifiée
