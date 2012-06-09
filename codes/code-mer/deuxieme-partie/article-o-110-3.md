@@ -1,4 +1,4 @@
-# Article O.110-3
+# Article O. 110-3
 
 Le conseil est saisi et convoqué par son président.
 

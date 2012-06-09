@@ -4,7 +4,7 @@ Les résultats de chacun des contrôles visés à l'article O. 753-3, effectués
 
 - Eau de bonne qualité :
 
-  - Nombre de conformes fécaux pour 100 millilitres inférieur ou égal à 100 et nombre de streptocoques fécaux pour 100 millilitres inférieur ou égal à 100 et nombre de coliformes totaux pour 100 millilitres inférieur ou égal à 500.
+- Nombre de conformes fécaux pour 100 millilitres inférieur ou égal à 100 et nombre de streptocoques fécaux pour 100 millilitres inférieur ou égal à 100 et nombre de coliformes totaux pour 100 millilitres inférieur ou égal à 500.
 
 - Eau de qualité moyenne :
 
