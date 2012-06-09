@@ -4,7 +4,7 @@ Ont la faculté d'exercer une activité libérale au Centre hospitalier Princess
 
 - 1. les praticiens hospitaliers visés à l'article 4, alinéas 1, 2 et 3 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre hospitalier Princesse Grace, à l'exception des pharmaciens ;
 
-- 2. les praticiens hospitaliers concernés par l'article 1 de l'arrêté ministériel n° 2000-295 du 30 juin 2000 portant dispositions transitoires à l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre hospitalier Princesse Grace ;
+- 2. les praticiens hospitaliers concernés par l'arrêté ministériel n° 2000-295 du 30 juin 2000 portant dispositions transitoires à l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre hospitalier Princesse Grace ;
 
 - 3. les praticiens associés mentionnés à l'article 2 de l'ordonnance souveraine n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement au Centre hospitalier Princesse Grace.
 
