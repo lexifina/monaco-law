@@ -30,4 +30,4 @@ En cas d'impossibilité de procéder au contrôle du système ou de manquement a
 
 L'intervention, opérée par les agents de la Direction des Services fiscaux ou sous leur contrôle conformément au premier alinéa, ne relève pas des procédures de contrôle de l'impôt régies par l'article 118. Les procès-verbaux établis en application du présent article ne sont opposables au redevable qu'au regard de la conformité de son système de télétransmission aux principes et normes prévus au I, II et III.
 
-V. - Les conditions d'application du présent article, et notamment les modalités de restitution des informations ainsi que les conditions dans lesquelles les agents de la direction des Services fiscaux sont habilités à procéder aux visites sont énoncées aux articles A-153 ter à A-153 quinquies de l'annexe au Code des taxes
+V. - Les conditions d'application du présent article, et notamment les modalités de restitution des informations ainsi que les conditions dans lesquelles les agents de la direction des Services fiscaux sont habilités à procéder aux visites sont énoncées aux articles A-153 ter à A-153 quinquies de l'annexe au Code des taxes.

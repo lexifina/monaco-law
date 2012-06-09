@@ -13,3 +13,9 @@ I. - Le lieu de livraison de biens meubles corporels est réputé se situer à M
 Par dérogation aux dispositions du a) et du b), lorsque le lieu de départ de l'expédition ou du transport est en dehors du territoire de Monaco ou des États membres de la Communauté économique européenne, le lieu de la livraison de ces biens effectuée par l'importateur ou pour son compte ainsi que le lieu d'éventuelles livraisons subséquentes est réputé se situer à Monaco, lorsque les biens sont importés à Monaco ou en France.
 
 II - Le lieu des opérations visées au I de l'article 5 et au 2° bis de l'article 15 se situe à Monaco lorsqu'elles portent sur des immeubles situés à Monaco.
+
+III. - Le lieu de livraison du gaz naturel, de l'électricité, de la chaleur ou du froid est situé à Monaco :
+
+- a) lorsqu'ils sont consommés à Monaco ;
+
+- b) dans les autres cas, lorsque l'acquéreur a en Principauté le siège de son activité ou un établissement stable pour lequel les biens sont livrés ou à défaut, son domicile ou sa résidence habituelle.

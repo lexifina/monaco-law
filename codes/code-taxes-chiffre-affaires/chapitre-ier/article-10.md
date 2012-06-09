@@ -28,8 +28,8 @@ II. - Pour l'application du II de l'article 9, sont considérées comme soumises
 
 - 2° Dépose l'état récapitulatif mentionné à l'article 73 dans lequel doivent figurer distinctement :
 
-- a) son numéro d'identification à la taxe sur la valeur ajoutée à Monaco ;
+  - a) son numéro d'identification à la taxe sur la valeur ajoutée à Monaco ;
 
-- b) le numéro d'identification à la taxe sur la valeur ajoutée du destinataire de la livraison consécutive dans l'État membre autre que la France où les biens ont été expédiés ou transportés ;
+  - b) le numéro d'identification à la taxe sur la valeur ajoutée du destinataire de la livraison consécutive dans l'État membre autre que la France où les biens ont été expédiés ou transportés ;
 
-- c) pour chaque destinataire, le montant total, hors taxe sur la valeur ajoutée, des livraisons de biens consécutives effectuées dans l'État membre autre que la France où les biens ont été expédiés ou transportés. Ces montants sont déclarés au titre de la période où la taxe sur la valeur ajoutée est devenue exigible sur ces livraisons.
+  - c) pour chaque destinataire, le montant total, hors taxe sur la valeur ajoutée, des livraisons de biens consécutives effectuées dans l'État membre autre que la France où les biens ont été expédiés ou transportés. Ces montants sont déclarés au titre de la période où la taxe sur la valeur ajoutée est devenue exigible sur ces livraisons.

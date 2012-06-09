@@ -20,10 +20,12 @@ Par dérogation à l'article 11, le lieu des prestations de services suivantes e
 
 - 9° Obligation de ne pas exercer, même à titre partiel, une activité professionnelle ou un droit mentionné au présent article ;
 
-- 10° Prestations de télécommunications.
+- 10° Prestations de télécommunications ;
 
 - 11° Services de radiodiffusion et de télévision ;
 
-- 12° Services fournis par voie électronique fixés par ordonnance souveraine.
+- 12° Services fournis par voie électronique fixés par ordonnance souveraine ;
+
+- 13° Accès aux réseaux de transport et de distribution d'électricité ou de gaz naturel, accès aux réseaux de chauffage ou de refroidissement, acheminement par ces réseaux et tous les autres services qui lui sont directement liés.
 
 Sont imposables à Monaco lorsqu'elles sont effectuées par un prestataire établi hors de la Principauté et hors de la France et lorsque le bénéficiaire est un assujetti à la taxe sur la valeur ajoutée qui a en Principauté le siège de son activité ou un établissement stable pour lequel le service est rendu ou, à défaut, son domicile ou sa résidence habituelle.
