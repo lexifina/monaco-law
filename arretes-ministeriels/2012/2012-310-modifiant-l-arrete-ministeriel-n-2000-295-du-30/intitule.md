@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-310 du 29 mai 2012 modifiant l'arrêté ministériel n° 2000-295 du 30 juin 2000 portant dispositions transitoires à l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre Hospitalier Princesse Grace, modifié
