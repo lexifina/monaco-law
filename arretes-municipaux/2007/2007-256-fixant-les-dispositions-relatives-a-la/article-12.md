@@ -48,6 +48,8 @@ a) Un sens unique de circulation est instauré :
 
 - du débouché du passage de la Porte Rouge à l'avenue d'Ostende, et ce, dans ce sens.
 
+- par dérogation au tiret précédent un double sens de circulation est instauré entre son n° 17 et le débouché du passage de la Porte Rouge à la seule intention des véhicules sortant des parkings des résidences « Château Plaisance » et « Villa Bijou ».
+
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite dans sa section comprise entre le boulevard de Suisse et l'avenue d'Ostende.
 
 c) Dans sa partie comprise entre le n° 31 et l'Impasse de la Fontaine, la voie amont est aménagée en couloir bus.
