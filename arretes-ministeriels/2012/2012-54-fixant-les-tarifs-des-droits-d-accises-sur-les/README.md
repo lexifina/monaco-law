@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2012-54 du 30 janvier 2012 fixant les tarifs des droits d'accises sur les alcools et les boissons alcooliques et de la taxe sur certaines boissons alcooliques pour l'année 2012
 
-Version en vigueur au 1er janvier 2012.
+Version en vigueur au 30 juin 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/01-30-2012-54@2012.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/01-30-2012-54@2012.06.30/
 
 | | |
 | --- | --- |
