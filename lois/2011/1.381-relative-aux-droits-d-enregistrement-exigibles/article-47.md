@@ -1,0 +1,5 @@
+# Article 47
+
+À titre exceptionnel, dans le délai d'un an à compter de l'entrée en vigueur de la présente loi, les opérations réalisées par les entités juridiques visées à l'article 2 qui ont pour objet l'attribution de droits réels portant sur des biens immobiliers situés à Monaco à une ou plusieurs personnes physiques, soit directement en leur nom personnel, soit par l'intermédiaire d'une société civile immatriculée à Monaco, autre que celle ayant la forme anonyme ou en commandite, constituée selon les mêmes modalités de répartition entre ces mêmes personnes physiques, sont assujetties à un droit proportionnel de 1% sur la valeur vénale de ces droits, si elles ont la qualité de bénéficiaire économique effectif au jour de l'entrée en vigueur de la présente loi.
+
+Il appartient aux personnes physiques qui sollicitent l'application de cette mesure dérogatoire d'apporter la preuve de leur qualité de bénéficiaire économique effectif et de la répartition du capital à la date visée au précédent alinéa.
