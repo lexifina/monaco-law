@@ -6,6 +6,4 @@ Vu l'Ordonnance Souveraine n° 8.001 du 9 mai 1984, modifiée, portant classific
 
 Vu l'Ordonnance Souveraine n° 13.789 du 11 novembre 1998 portant délimitation de huit circonscriptions consulaires aux États-Unis d'Amérique ;
 
-Voir l'article 1er de l'ordonnance n° 13.789 du 11 novembre 1998.
-
-Notre Secrétaire d'Etat, Notre Directeur des Services Judiciaires et Notre Ministre d'Etat sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
+Remplacé par l'ordonnance n° 3.826 du 2 juillet 2012. - Voir l'article 1er de l'ordonnance n° 13.789 du 11 novembre 1998.
