@@ -12,4 +12,6 @@ Toutefois, pendant le délai prévu par l'article 1630 du Code civil, la durée 
 
 La rémunération du syndic est fixée par l'assemblée générale à la majorité prévue par l'article 14.
 
+En cas de non renouvellement du mandat du syndic par l'assemblée générale, ce mandat est, le cas échéant, prorogé de droit jusqu'à ce qu'un successeur ait été désigné par celle-ci. Cette désignation intervient au plus tard dans un délai de quatre mois à compter de la décision de non renouvellement. Ce délai se renouvelle tant qu'un successeur n'a pas été désigné.
+
 En cas d'absence de syndic ou de carence de celui-ci, le Président du Tribunal de Première Instance, saisi à la requête d'un copropriétaire, désigne un administrateur provisoire de la copropriété.

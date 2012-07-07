@@ -6,4 +6,4 @@ Dans le cas où l'immeuble est administré par un syndic bénévole qui n'est pa
 
 Toutefois, les actes qu'il aurait passés avec des tiers de bonne foi demeurent valables.
 
-L'assemblée générale peut, à la majorité des voix de tous les copropriétaires, dispenser le syndic bénévole d'ouvrir un compte bancaire séparé ou fixer le montant maximum des fonds que le syndic bénévole peut être dispensé de verser sur ce compte. L'assemblée générale fixe la durée pour laquelle la dispense est donnée. Cette dispense est renouvelable et prend fin de plein droit en cas de désignation d'un autre syndic.
+L'assemblée générale peut, à la majorité des voix des copropriétaires présents ou représentés, dispenser le syndic bénévole d'ouvrir un compte bancaire séparé ou fixer le montant maximal des fonds que le syndic bénévole peut être dispensé de verser sur ce compte. L'assemblée générale fixe la durée pour laquelle la dispense est donnée. Cette dispense est renouvelable et prend fin de plein droit en cas de désignation d'un autre syndic.
