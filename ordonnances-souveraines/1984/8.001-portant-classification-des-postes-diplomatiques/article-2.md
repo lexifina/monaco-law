@@ -54,7 +54,7 @@ Les postes consulaires sont les suivants :
 
 - Estonie : Tallinn ;
 
-- États-Unis d'Amérique : Atlanta, Boston, Chicago, Dallas, Las Vegas, Los Angeles, Miami, New York, San Francisco ;
+- États-Unis d'Amérique : Atlanta, Boston, Chicago, Dallas, Las Vegas, Los Angeles, Miami, New York, La Nouvelle Orléans, San Francisco ;
 
 - Finlande : Helsinki ;
 
