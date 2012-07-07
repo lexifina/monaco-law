@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 13.789 du 11 novembre 1998 portant délimitation de huit circonscriptions consulaires aux États-Unis d'Amérique
 
-Version en vigueur au 30 octobre 2010.
+Version en vigueur au 7 juillet 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/11-11-13.789@2010.10.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/11-11-13.789@2012.07.07/
 
 | | |
 | --- | --- |
