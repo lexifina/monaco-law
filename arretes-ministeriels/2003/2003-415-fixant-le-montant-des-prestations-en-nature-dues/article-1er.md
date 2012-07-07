@@ -6,199 +6,205 @@ A - Honoraires
 
 MÉDECINS : | Tarifs d'autorité en euro(s) |
 
-C | Consultation omnipraticien | 6,3
+C | Consultation omnipraticien | 6,3 euro(s)
 
-CALD | Consultation approfondie annuelle au cabinet | 7,5
+CALD | Consultation approfondie annuelle au cabinet | 7,5 euro(s)
 
-CPN [CMat] | Consultation prénatale par omnipraticien | 7,23
+CPN [CMat] | Consultation prénatale par omnipraticien | 7,23 euro(s)
 
-CS | Consultation spécialiste | 9,39
+CS | Consultation spécialiste | 9,39 euro(s)
 
-CSPN [Cobs] | Consultation prénatale par spécialiste | 8,73
+CSPN [Cobs] | Consultation prénatale par spécialiste | 8,73 euro(s)
 
-CPSY [Cnp] | Consultation neuropsychiatre | 11,64
+CPSY [Cnp] | Consultation neuropsychiatre | 11,64 euro(s)
 
-CSC | Consultation spéciale cardiologue | 23,46
+CSC | Consultation spéciale cardiologue | 23,46 euro(s)
 
-FP | Forfait pédiatrique | 1,65
+FP | Forfait pédiatrique | 1,65 euro(s)
 
-V | Visite omnipraticien | 6,3
+V | Visite omnipraticien | 6,3 euro(s)
 
-VS | Visite spécialiste | 9,81
+VS | Visite spécialiste | 9,81 euro(s)
 
-Vpsy [Vnp] | Visite neuropsychiatre | 11,7
+Vpsy [Vnp] | Visite neuropsychiatre | 11,7 euro(s)
+
+CDE | Consultation Spéciale en Dermatologie | 11,34 euro(s)
+
+MPF | Majoration consultation famille | 3 euro(s)
+
+MAF | Majoration consultation annuelle famille | 3 euro(s)
 
 Majorations pour dimanche/nuit : |
 
-[ID] | Indemnité de dimanche ou jour férié | 7,77
+[ID] | Indemnité de dimanche ou jour férié | 7,77 euro(s)
 
-[IN] | Indemnité de nuit | 10,92
+[IN] | Indemnité de nuit | 10,92 euro(s)
 
-MD | Majoration de déplacement | 3,15
+MD | Majoration de déplacement | 3,15 euro(s)
 
-MDD | Majoration de déplacement dimanche/jour férié | 10,92
+MDD | Majoration de déplacement dimanche/jour férié | 10,92 euro(s)
 
-MDN | Majoration de déplacement nuit | 14,07
+MDN | Majoration de déplacement nuit | 14,07 euro(s)
 
 Accouchement : |
 
-MG | Majoration de garde | 228,68
+MG | Majoration de garde | 228,68 euro(s)
 
-MA | Majoration d'astreinte | 61,00
+MA | Majoration d'astreinte | 61,00 euro(s)
 
-P | Actes d'anatomie et de cytologie pathologique | 0,28
+P | Actes d'anatomie et de cytologie pathologique | 0,28 euro(s)
 
-Z [R] | Actes de radiologie par non spécialiste | 0,74
+Z [R] | Actes de radiologie par non spécialiste | 0,74 euro(s)
 
 MÉDECINS : | Tarifs d'autorité en euro(s)
 
-ZSP [Rer, Rrh, Rpht Rad] [Rco] | Actes de radiologie par électroradiologue, gastro-entérologue, rhumatologue, pneumologue ou de radiothérapie par radiothérapeute | 0,86
+ZSP [Rer, Rrh, Rpht Rad] [Rco] | Actes de radiologie par électroradiologue, gastro-entérologue, rhumatologue, pneumologue ou de radiothérapie par radiothérapeute | 0,86 euro(s)
 
-ZN | Actes de médecine nucléaire par médecin spécialiste | 0,86
+ZN | Actes de médecine nucléaire par médecin spécialiste | 0,86 euro(s)
 
-ZM | Actes de mammographie par radiologue | 0,86
+ZM | Actes de mammographie par radiologue | 0,86 euro(s)
 
-KC [KA] [KCC] | Actes de chirurgie et de spécialité | 1,15
+KC [KA] [KCC] | Actes de chirurgie et de spécialité | 1,15 euro(s)
 
-K non agressif [K] | Actes d'investigation et de spécialité | 1,04
+K non agressif [K] | Actes d'investigation et de spécialité | 1,04 euro(s)
 
-KE | Actes d'échographie et de doppler | 1,04
+KE | Actes d'échographie et de doppler | 1,04 euro(s)
 
-AUXILIALRES MÉDICAUX : |
+AUXILIAIRES MÉDICAUX : |
 
 * Infirmiers | |
 
-AMI | Actes pratiqués par l'infirmier | 0,83
+AMI | Actes pratiqués par l'infirmier | 0,83 euro(s)
 
-AIS | Actes infirmiers de soins | 0,70
+AIS | Actes infirmiers de soins | 0,70 euro(s)
 
-[DAMI]a | Indemnité de déplacement infirmier | 0,54
+[DAMI]a | Indemnité de déplacement infirmier | 0,54 euro(s)
 
-[AMIN] | Majoration de nuit pour actes infirmiers | 2,75
+[AMIN] | Majoration de nuit pour actes infirmiers | 2,75 euro(s)
 
-[AMID] | Majoration de dimanche pour actes infirmiers | 2,30
+[AMID] | Majoration de dimanche pour actes infirmiers | 2,30 euro(s)
 
-[AMIS] | Majoration de samedi A.M. p/actes infirmiers | 2,30
+[AMIS] | Majoration de samedi A.M. p/actes infirmiers | 2,30 euro(s)
 
 * Autres auxiliaires |
 
-AMC [AMM] | Actes pratiqués par le kinésithérapeute | 0,72
+AMC [AMM] | Actes pratiqués par le kinésithérapeute | 0,72 euro(s)
 
-AMK [AMM] | Certains actes de kinésithérapie | 0,72
+AMK [AMM] | Certains actes de kinésithérapie | 0,72 euro(s)
 
-AMS [AMM] | Actes de rééducation des affections orthopédiques et rhumatologiques effectués par le masseur-kinésithérapeute | 0,72
+AMS [AMM] | Actes de rééducation des affections orthopédiques et rhumatologiques effectués par le masseur-kinésithérapeute | 0,72 euro(s)
 
-[DAMM] | Indemnité de déplacement kinésithérapeute | 0,80
+[DAMM] | Indemnité de déplacement kinésithérapeute | 0,80 euro(s)
 
-AMP | Actes pratiqués par le pédicure-podologue | 0,64
+AMP | Actes pratiqués par le pédicure-podologue | 0,64 euro(s)
 
-POD | Actes de prévention pratiqué par le pédicure-podologue | 8,91
+POD | Actes de prévention pratiqué par le pédicure-podologue | 8,91 euro(s)
 
-[DAMP] | Indemnité de déplacement pédicure | 0,59
+[DAMP] | Indemnité de déplacement pédicure | 0,59 euro(s)
 
-AMO | Actes pratiqués par l'orthophoniste | 0,84
+AMO | Actes pratiqués par l'orthophoniste | 0,84 euro(s)
 
-[DAMO] | Indemnité de déplacement orthophoniste | 0,52
+[DAMO] | Indemnité de déplacement orthophoniste | 0,52 euro(s)
 
-[AMY] | Actes pratiqués par l'orthoptiste | 0,76
+[AMY] | Actes pratiqués par l'orthoptiste | 0,76 euro(s)
 
-[DAMY] | Indemnité de déplacement orthoptiste | 0,52
+[DAMY] | Indemnité de déplacement orthoptiste | 0,52 euro(s)
 
 Majorations pour dimanche et nuit : |
 
-AMN | Majoration de nuit | 1,26
+AMN | Majoration de nuit | 1,26 euro(s)
 
-AMD | Majoration de dimanche | 1,01
+AMD | Majoration de dimanche | 1,01 euro(s)
 
 MÉDECINS : | Tarifs d'autorité en euro(s)
 
 DENTISTES : |
 
-C [CCD] | Consultation | 5,67
+C [CCD] | Consultation | 5,67 euro(s)
 
-CS | Consultation spécialiste | 9,39
+CS | Consultation spécialiste | 9,39 euro(s)
 
-V | Visite | 7,77
+V | Visite | 7,77 euro(s)
 
-VS | Visite spécialiste | 9,81
+VS | Visite spécialiste | 9,81 euro(s)
 
-D | Actes dentaires | 1,29
+D | Actes dentaires | 1,29 euro(s)
 
-DC [D] | Certains actes dentaires | 1,29
+DC [D] | Certains actes dentaires | 1,29 euro(s)
 
-SCP [D] | Soins conservateurs et prothèses | 1,29
+SCP [D] | Soins conservateurs et prothèses | 1,29 euro(s)
 
-DIMP | Actes de prothèse dentaire réalisée sur implant | 1,29
+DIMP | Actes de prothèse dentaire réalisée sur implant | 1,29 euro(s)
 
-Z | Actes avec radiations ionisantes | 0,74
+Z | Actes avec radiations ionisantes | 0,74 euro(s)
 
 Majorations pour dimanche et nuit : |
 
-[ID] | Indemnité de dimanche | 7,77
+[ID] | Indemnité de dimanche | 7,77 euro(s)
 
-[IN] | Indemnité de nuit | 10,92
+[IN] | Indemnité de nuit | 10,92 euro(s)
 
 SAGES-FEMMES : |
 
-C(SF) | Consultation par sage-femme | 4,35
+C(SF) | Consultation par sage-femme | 4,35 euro(s)
 
-C(SF2) | Préparation à l'accouchement | 8,7
+C(SF2) | Préparation à l'accouchement | 8,7 euro(s)
 
-V | Visite | 5,01
+V | Visite | 5,01 euro(s)
 
 SF | Actes spécialisés | 0,86
 
-SFI | Soins infirmiers | 0,86
+SFI | Soins infirmiers | 0,86 euro(s)
 
-CGSF | Examen médical de suivi de grossesse réalisé par la sage-femme | 7, 00
+CGSF | Examen médical de suivi de grossesse réalisé par la sage-femme | 7, 00 euro(s)
 
-SP | Séance de suivi postnatal réalisé par la sage-femme | 6,12
+SP | Séance de suivi postnatal réalisé par la sage-femme | 6,12 euro(s)
 
-[DSF] DSFI | Indemnité de déplacement | 0,66
+[DSF] DSFI | Indemnité de déplacement | 0,66 euro(s)
 
-[AMN] | Majoration de nuit | 1,26
+[AMN] | Majoration de nuit | 1,26 euro(s)
 
-[AMD] | Majoration de dimanche | 1,01
+[AMD] | Majoration de dimanche | 1,01 euro(s)
 
-Accouchement simple | 152,45
+Accouchement simple | 152,45 euro(s)
 
-Accouchement gémellaire | 167,69
+Accouchement gémellaire | 167,69 euro(s)
 
 BIOLOGISTES : |
 
-B, actes pratiqués : | en ville | 0,27
+B, actes pratiqués : | en ville | 0,27 euro(s)
 
-en clinique privée | 0,13 |
+en clinique privée | 0,13 euro(s) |
 
-PB | Prélèvement sanguin par directeur de laboratoire non médecin | 2,52
+PB | Prélèvement sanguin par directeur de laboratoire non médecin | 2,52 euro(s)
 
-KB | Autres prélèvements par directeur de laboratoire non médecin | 1,92
+KB | Autres prélèvements par directeur de laboratoire non médecin | 1,92 euro(s)
 
-K | Prélèvement par médecin biologiste | 1,92
+K | Prélèvement par médecin biologiste | 1,92 euro(s)
 
 MÉDECINS : | Tarifs d'autorité en euro(s)
 
-SFI | Prélèvement par sage-femme | 2,21
+SFI | Prélèvement par sage-femme | 2,21 euro(s)
 
-AMI | Prélèvement par auxiliaire de laboratoire infirmier | 2,52
+AMI | Prélèvement par auxiliaire de laboratoire infirmier | 2,52 euro(s)
 
-TB | Prélèvement par technicien de laboratoire | 2,52
+TB | Prélèvement par technicien de laboratoire | 2,52 euro(s)
 
 Majoration pour prélèvement pratiqué par un directeur de laboratoire non médecin |
 
-Samedi après 12 h ou dimanche | 16,77
+Samedi après 12 h ou dimanche | 16,77 euro(s)
 
-de 20 h à 8 h | 22,87
+de 20 h à 8 h | 22,87 euro(s)
 
 Majoration pour prélèvement pratiqué par un directeur de laboratoire médecin |
 
-Samedi après 12 h ou dimanche | 19,06
+Samedi après 12 h ou dimanche | 19,06 euro(s)
 
-de 20 h à 8 h | 25,15
+de 20 h à 8 h | 25,15 euro(s)
 
-IFD | Indemnité forfaitaire de déplacement | 3,81
+IFD | Indemnité forfaitaire de déplacement | 3,81 euro(s)
 
-B - Soins externes hospitaliers - établissements publics
+B - Soins externes hospitaliers - Établissements publics
 
 Lettre-clé | Acte | Tarifs d'autoritéen euro(s)
 
@@ -211,6 +217,8 @@ CS | Consultation spécialiste | 28,51euro(s)
 CPSY | Consultation par Neuropsychiatre | 35,83 euro(s)
 
 CSC | Consultation approfondie en cardiologie | 73,18 euro(s)
+
+CDE | Consultation Spéciale en Dermatologie | 44,00 euro(s)
 
 Actes dispensés par les auxiliaires médicaux | |
 
