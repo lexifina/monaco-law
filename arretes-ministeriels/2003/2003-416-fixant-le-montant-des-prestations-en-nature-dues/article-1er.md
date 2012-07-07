@@ -60,6 +60,12 @@ K non agressif [K] | Actes d'investigation et de spécialité | 1,04
 
 KE | Actes d'échographie et de doppler | 1,04
 
+CDE | Consultation Spéciale en Dermatologie | 11,34 euro(s)
+
+MPF | Majoration consultation famille | 3 euro(s)
+
+MAF | Majoration consultation annuelle famille | 3 euro(s)
+
 AUXILIAIRES MÉDICAUX : |
 
 * Infirmiers | |
@@ -201,6 +207,10 @@ CS | Consultation Spécialiste | 28,51 euro(s)
 CPSY | Consultation par Neuropsychiatre | 35,83 euro(s)
 
 CSC | Consultation approfondie en cardiologie | 73,18euro(s)
+
+CDE | Consultation Spéciale en Dermatologie | 11,34
+
+CDE | Consultation Spéciale en Dermatologie | 44,00 euro(s)
 
 Actes dispensés par les auxiliaires médicaux | |
 

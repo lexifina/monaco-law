@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-416 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse d'assurance maladie, accident et maternité des travailleurs indépendants
 
-Version en vigueur au 2 juillet 2011.
+Version en vigueur au 7 juillet 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/07-31-2003-416@2011.07.02/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/07-31-2003-416@2012.07.07/
 
 | | |
 | --- | --- |
