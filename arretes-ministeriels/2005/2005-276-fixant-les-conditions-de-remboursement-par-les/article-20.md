@@ -10,7 +10,15 @@ Par dérogation à cette disposition, sont autorisés :
 
 3. le cumul des honoraires de l'électrocardiogramme avec ceux de la consultation ou de la visite : C ou CS, V ou VS ou, pour les patients hospitalisés, C x 0,80 ou CS x 0,80 ;
 
-4. Le cumul des honoraires de l'ostéodensitométrie [Absorptiométrie osseuse] sur »2 sites, par méthode biphotonique, avec ceux de la consultation pour les rhumatologues et les médecins de médecine physique et de réadaptation.
+4. Le cumul des honoraires de l'ostéodensitométrie [Absorptiométrie osseuse] sur «2 sites, par méthode biphotonique, avec ceux de la consultation pour les rhumatologues et les médecins de médecine physique et de réadaptation.
+
+5. Le cumul des honoraires des actes de biopsie dermo-épidermique, par abord direct (QZHA001) et de biopsie des tissus sous-cutanés susfasciaux, par abord direct (QZHA005) avec ceux de la consultation pour les dermatologues.
+
+Dans ce cas, l'acte de consultation est tarifé à taux plein et l'acte technique est tarifé à 50 % de sa valeur.
+
+6. Le cumul des honoraires de l'acte de prélèvement cervico-vaginal (JKHD001) avec ceux de la consultation.
+
+Dans ce cas, l'acte de consultation est tarifé à taux plein et l'acte technique est tarifé à 50% de sa valeur. Ce prélèvement n'est pris en charge qu'une fois tous les trois ans dans le cadre du dépistage du cancer du col utérin, après la réalisation de deux frottis cervico-utérins annuels normaux chez les femmes de 25 à 65 ans.
 
 Cependant, en cas d'actes multiples dans le même temps, les règles de cumul telles que prévues au paragraphe B ci-dessous s'appliquent sans cumul possible avec les honoraires de la consultation ou de la visite.
 
@@ -48,7 +56,7 @@ g .Dans les cas suivants, les actes associés sont tarifés à taux plein :
 
 - les actes de médecine nucléaire sont associés à taux plein ; deux actes au plus peuvent être tarifés ;
 
-- les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note « facturation : éventuellement en supplément ».
+- les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note » facturation : éventuellement en supplément «.
 
 h . Si pour des raisons médicales ou dans l'intérêt du patient, un médecin réalise des actes à des moments différents et discontinus de la même journée, à l'exclusion de ceux effectués dans une unité de réanimation ou dans une unité de soins intensifs de cardiologie, sur un même patient et qu'il facture ces actes à taux plein, il doit le justifier dans le dossier médical du patient qui est tenu à la disposition du contrôle médical.
 

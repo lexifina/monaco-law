@@ -10,7 +10,7 @@ Les modificateurs et leurs codes sont les suivants :
 
   - Acte réalisé en urgence par les pédiatres et omnipraticiens de 20 heures à 00 heure ou de 6 heures à 8 heures ; le code est P
 
-  - Acte réalisé en urgence par les pédiatres et omnipraticiens de 00 heure à 6 heures ; le code est S
+  - Acte réalisé en urgence par les pédiatres et les médecins généralistes ou acte thérapeutique réalisé en urgence sous anesthésie générale ou locorégionale par les autres médecins, la nuit de 00 heure à 06 heures ; le code est S.
 
   - Ces trois modificateurs ne concernent pas les forfaits et surveillances par vingt-quatre heures.
 
@@ -78,4 +78,4 @@ Les modificateurs et leurs codes sont les suivants :
 
 - Modificateurs numériques pour radiothérapie : les codes sont H, Q, V, W. Pour les actes d'irradiation ces modificateurs sont à mentionner face au code de l'acte pour approcher la dose d'irradiation en arrondissant à l'entier le plus proche.
 
-Les valeurs de ces modificateurs sont exprimées, soit en pourcentage du tarif de l'acte, soit en valeur monétaire qui s'ajoute au tarif de l'acte. Si plusieurs modificateurs exprimés en pourcentage sont facturés, chacun s'applique par rapport au tarif de l'acte indépendamment des autres. Ces montants et pourcentages figurent en annexe 1 «.
+Les valeurs de ces modificateurs sont exprimées, soit en pourcentage du tarif de l'acte, soit en valeur monétaire qui s'ajoute au tarif de l'acte. Si plusieurs modificateurs exprimés en pourcentage sont facturés, chacun s'applique par rapport au tarif de l'acte indépendamment des autres. Ces montants et pourcentages figurent en annexe 1.
