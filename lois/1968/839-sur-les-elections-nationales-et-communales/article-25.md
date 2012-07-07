@@ -1,6 +1,6 @@
 # Article 25
 
-Tout candidat aux élections est tenu, huit jours au moins et quinze jours au plus avant le jour de scrutin, de déposer auprès du Secrétariat Général de la Mairie, pendant les heures d'ouverture des bureaux, dans la salle désignée à cet effet, une déclaration écrite de candidature revêtue de sa signature et mentionnant ses nom, prénoms, ses date et lieu de naissance, son domicile et sa profession, ainsi que pour les élections nationales et, le cas échéant, pour les élections communales, sa liste d'appartenance. Le Maire demande la délivrance du bulletin numéro deux du casier judiciaire du candidat.
+Tout candidat aux élections est tenu, quinze jours au moins et vingt-deux jours au plus avant le jour de scrutin, de déposer auprès du Secrétariat Général de la Mairie, pendant les heures d'ouverture des bureaux, dans la salle désignée à cet effet, une déclaration écrite de candidature revêtue de sa signature et mentionnant ses nom, prénoms, ses date et lieu de naissance, son domicile et sa profession, son mandataire financier et la date de désignation de celui-ci ainsi que pour les élections nationales et, le cas échéant, pour les élections communales, sa liste d'appartenance. Le Maire demande la délivrance du bulletin numéro deux du casier judiciaire du candidat.
 
 La déclaration est inscrite dans l'ordre chronologique des dépôts, sur un registre spécial ; le Maire en délivre récépissé dans les vingt-quatre heures.
 

@@ -8,4 +8,4 @@ Sont inéligibles au Conseil National :
 
 - les conseillers d'État ;
 
-- les électeurs qui, par l'effet d'une autre nationalité, exerceraient des fonctions publiques ou électives dans un pays étranger.
+- les électeurs qui. par l'effet d'une autre nationalité, exerceraient des fonctions publiques ou électives dans un pays étranger.
