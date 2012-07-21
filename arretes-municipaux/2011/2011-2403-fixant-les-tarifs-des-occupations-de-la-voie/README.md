@@ -1,8 +1,8 @@
 # Arrêté municipal n° 2011-2403 du 15 juillet 2011 fixant les tarifs des occupations de la voie publique et de ses dépendances pour l'année 2012
 
-Version en vigueur au 1er janvier 2012.
+Version en vigueur au 21 juillet 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2011/07-15-2011-2403@2012.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2011/07-15-2011-2403@2012.07.21/
 
 | | |
 | --- | --- |

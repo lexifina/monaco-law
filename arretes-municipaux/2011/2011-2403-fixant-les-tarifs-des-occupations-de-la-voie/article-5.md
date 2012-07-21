@@ -64,6 +64,10 @@ L'occupation temporaire de la voie publique et de ses dépendances, durant l'ann
 
 3) Mise à disposition d'emplacements de stationnement :
 
-- droit fixe journalier pour un emplacement de stationnement matérialisé ou correspondant à une longueur de 5 mètres dans une zone de stationnement non divisée | 9,70 euro(s)
+- droit fixe journalier pour un emplacement de stationnement matérialisé ou correspondant à une longueur de 5 mètres dans une zone de stationnement non divisée :
+
+* du premier jour au septième jour : | 18,00 euro(s)
+
+* à compter du huitième jour : | 15,00 euro(s)
 
 Les tarifs des grandes manifestations telles que le Grand Prix Historique de Monaco, le Grand Prix Automobile de Monaco, les Animations Estivales, la Foire Attractions et les Animations de Fin d'Année, sont fixés dans un avis publié au Journal de Monaco.
