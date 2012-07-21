@@ -78,4 +78,4 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Ruelle Saint Jean.
 
-Ces emplacements sont équipés d'appareils de type » horodateurs ". L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
+Ces emplacements sont équipés d'appareils de type « horodateurs ». L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
