@@ -16,7 +16,7 @@ Cette direction est chargée :
 
 - de l'information, l'orientation, du suivi et du placement des demandeurs d'emploi ;
 
-- de la délivrance des autorisations d'embauchage et des permis de travail ;
+- de la délivrance des permis de travail et des autorisations d'embauchage en s'assurant préalablement auprès de la Direction de la Sûreté Publique, dans le respect des dispositions de l'article 1-2 de l'ordonnance souveraine n° 765 du 13 novembre 2006, modifiée, que le demandeur d'emploi n'est pas susceptible de porter atteinte à l'ordre public ;
 
 - de l'attribution et du service des aides à l'embauche;
 
