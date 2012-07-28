@@ -8,6 +8,6 @@
 
 - une copie du bail ;
 
-- un curriculum vitae ;
+- un dossier détaillé comprenant notamment la rédaction d'un projet artistique ;
 
 - une attestation de non-perception de revenus établie conformément au chiffre 4 de l'article 3 du présent arrêté.

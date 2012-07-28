@@ -11,3 +11,5 @@ Cette prime ne peut être servie lorsque la location est consentie par :
 - les frères et sœurs du demandeur ou de son conjoint, ainsi que leur conjoint respectif,
 
 - les ascendants ou descendants du demandeur ou de son conjoint.
+
+Dans le cas où le requérant s'associerait avec une personne ayant déjà bénéficié de la prime au titre d'un même local, celui-ci ne peut bénéficier de la prime.
