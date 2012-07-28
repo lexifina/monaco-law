@@ -1,7 +1,13 @@
 # Article 2
 
-Les membres du Tribunal du travail, remplissant les conditions exigées par les articles 4 et 5 de la loi n° 446 du 16 mai 1946, sont nommés par ordonnance souveraine de la manière suivante :
+Le Tribunal du Travail est composé de quarante-huit membres nommés pour six ans par ordonnance souveraine, dans les conditions suivantes :
 
-- 24 membres choisis sur des listes comportant au total au moins 40 candidats présentées par les syndicats professionnels patronaux ;
+1°) vingt-quatre membres nommés sur proposition des syndicats salariés ;
 
-- 24 membres choisis sur des listes comportant au total au moins 40 candidats présentées par les syndicats professionnels ouvriers.
+2°) vingt-quatre membres nommés sur proposition des syndicats patronaux ;
+
+Les membres du Tribunal du Travail sont renouvelés par moitié tous les trois ans.
+
+Le renouvellement triennal doit porter sur la moitié des membres représentant les syndicats salariés et sur la moitié des membres représentant les syndicats patronaux.
+
+Les membres sortants peuvent être à nouveau désignés.

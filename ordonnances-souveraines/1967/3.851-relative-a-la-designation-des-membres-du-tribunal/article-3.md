@@ -1,3 +1,3 @@
 # Article 3
 
-Les listes sus-indiquées ne pourront présenter qu'un maximum de quarante-cinq pour cent de personnes résidant hors de Monaco.
+Les personnes résidant hors de Monaco ne pourront excéder en nombre quarante-cinq pour cent des membres du Tribunal du Travail.
