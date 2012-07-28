@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 3.837 du 5 juillet 2012 rendant exécutoire l'Accord entre le Gouvernement de la Principauté de Monaco et le Gouvernement de la République des Seychelles tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôt sur le revenu, signé à Victoria le 4 janvier 2010
