@@ -22,6 +22,8 @@ Les postes consulaires sont les suivants :
 
 - Burkina Faso : Ouagadougou ;
 
+- Burundi : Bujumbura ;
+
 - Cameroun : Douala ;
 
 - Canada : Montréal, Vancouver, Toronto ;
