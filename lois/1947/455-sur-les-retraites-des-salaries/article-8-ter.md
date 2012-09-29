@@ -6,4 +6,6 @@ Le montant de la cotisation est déterminé par application, à l'assiette const
 
 Dans les professions où la rémunération comporte une partie variable, l'assiette de cotisation peut être fixée forfaitairement par arrêté ministériel pris sur l'avis des syndicats intéressés et après consultation du comité de contrôle de la caisse.
 
-Les salaires ou rémunérations supérieurs au quadruple du salaire de base, tel qu'il est fixé par arrêté ministériel, ne sont compris que pour ce montant dans le calcul de la cotisation.
+Les salaires ou rémunérations supérieurs au quadruple du salaire de base, ne sont compris que pour ce montant dans le calcul de la cotisation.
+
+Le montant du salaire de base est fixé par arrêté ministériel, pris après avis du Comité de Contrôle et du Comité Financier de la Caisse, de sorte que son évolution au cours d'un exercice donné n'excède pas celle de la valeur de la retraite entière annuelle majorée de 1,1 point.

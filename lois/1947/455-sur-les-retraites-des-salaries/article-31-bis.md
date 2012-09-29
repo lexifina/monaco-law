@@ -2,8 +2,8 @@
 
 Tous les produits du fonds de réserve sont incorporés, en fin d'exercice, audit fonds.
 
-Toutefois, parmi ces produits, ceux qui par leur périodicité participent à la nature des fruits civils, peuvent être affectés :
+Toutefois, parmi ces produits, ceux qui par leur périodicité participent à la nature des fruits civils peuvent être affectés, en cas de nécessité, dans les conditions prévues à l'article 33 et selon l'ordre de priorité suivant :
 
-- en cas de nécessité, et par priorité, au paiement des pensions et à la couverture des frais de gestion, dans les conditions fixées à l'article 33 ci-après ;
+1) au paiement des pensions ;
 
-- et, conformément aux dispositions de l'article suivant, à la constitution et au financement d'un fonds d'action sociale destiné à permettre l'attribution d'aides exceptionnelles aux bénéficiaires de pension.
+2) au paiement des prestations servies sur le Fonds d'Action Sociale.
