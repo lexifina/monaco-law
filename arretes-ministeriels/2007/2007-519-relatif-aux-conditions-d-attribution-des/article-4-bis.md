@@ -10,4 +10,8 @@ Ne peuvent prétendre à l'attribution d'un appartement domanial :
 
 - les demandeurs ayant effectué une déclaration volontairement erronée,
 
-- les demandeurs ayant opposé un refus à la demande de visite formulée par la Direction de l'Habitat dans le cadre de l'instruction du dossier.
+- les demandeurs ayant opposé un refus à la demande de visite formulée par la Direction de l'Habitat dans le cadre de l'instruction du dossier ;
+
+- les demandeurs dont le foyer dispose de ressources substantielles, équivalentes à la tranche de revenus supérieurs intitulée «très élevés 7' dans la grille des revenus annexée au présent arrêté ;
+
+- les personnes qui occupent, à Monaco, un appartement mis gracieusement à leur disposition par un tiers et correspondant au besoin normal de logement de leur foyer ou supérieur à celui-ci.
