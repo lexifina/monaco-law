@@ -1,3 +1,5 @@
 # Article 118
 
-Quiconque aura contraint ou tenté de contraindre par voies de fait ou menaces, corrompu ou tenté de corrompre par promesses, offres, dons ou présents, un fonctionnaire, agent ou préposé de la qualité exprimée en l'article 113, pour obtenir, soit une opinion favorable, soit des procès-verbaux, états, certificats ou estimations contraires à la vérité, soit des places, emplois, adjudications, entreprises ou autres bénéfices, soit tout autre acte du ministère du fonctionnaire, agent ou préposé, soit l'abstention d'un acte qui rentrait dans l'exercice de ses devoirs, sera puni des mêmes peines que le fonctionnaire, agent ou préposé corrompu.
+La corruption passive est punie de cinq à dix ans d'emprisonnement et du double de l'amende prévue au chiffre 4 de l'article 26 lorsqu'elle est commise par un agent public étranger ou international.
+
+La corruption active sur un agent public étranger ou international est punie des mêmes peines.

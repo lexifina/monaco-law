@@ -1,3 +1,5 @@
 # Article 117
 
-Dans le cas où la corruption aurait pour objet un fait criminel emportant une peine plus forte que celles portées en l'article précédent, cette peine sera appliquée au coupable.
+La corruption passive est punie de un à cinq ans d'emprisonnement et de l'amende prévue au chiffre 4 de l'article 26 lorsqu'elle est commise par un agent privé.
+
+La corruption active commise sur un agent privé est punie des mêmes peines.
