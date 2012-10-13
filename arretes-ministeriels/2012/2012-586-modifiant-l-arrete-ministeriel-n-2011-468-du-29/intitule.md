@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-586 du 11 octobre 2012 modifiant l'arrêté ministériel n° 2011-468 du 29 août 2011 portant application de l'ordonnance souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré
