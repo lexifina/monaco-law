@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-584 du 5 octobre 2012 modifiant l'arrêté ministériel n° 2008-451 du 8 août 2008 relatif aux conditions et aux modalités de délivrance et de renouvellement du livret professionnel
