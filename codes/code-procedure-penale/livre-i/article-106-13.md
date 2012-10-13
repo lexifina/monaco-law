@@ -1,0 +1,5 @@
+# Article 106-13
+
+La mise en place de ce dispositif technique ne peut concerner les lieux visés à l'article 106-8, ni être mise en œuvre dans le véhicule, le bureau ou le domicile des personnes visées à ce même article. Elle ne peut concerner non plus les locaux d'une entreprise de presse, d'une entreprise de communication audiovisuelle, d'une entreprise de communication au public en ligne, d'une agence de presse, les véhicules professionnels de ces entreprises ou agences ou le domicile d'un journaliste. Il en est de même du cabinet d'un médecin ou de l'étude d'un notaire ou d'un huissier ainsi que pour le véhicule, bureau ou domicile de ces personnes.
+
+Toutefois, par dérogation au premier alinéa, la cour d'appel siégeant en chambre du conseil peut, lorsque les nécessités de l'information l'exigent, et sur requête motivée du juge d'instruction, autoriser la mise en place d'un tel dispositif, après en avoir informé, chacun pour ce qui le concerne, le président du Conseil National, le Bâtonnier et le président du Conseil de l'Ordre des médecins.

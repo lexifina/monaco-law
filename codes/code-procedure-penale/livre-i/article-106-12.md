@@ -1,7 +1,3 @@
 # Article 106-12
 
-Le juge d'instruction ou l'officier de police judiciaire commis par lui peut procéder aux actes mentionnés à l'article 47-2.
-
-Le procès-verbal mentionne la date et l'heure à laquelle l'opération a commencé et celle à laquelle elle s'est terminée.
-
-Les dispositions de l'article 106-10 sont applicables aux enregistrements et documents portant transcription de ces actes.
+Lorsque les nécessités de l'information l'exigent, et pour les infractions relevant de la criminalité et de la délinquance organisées, celles prévues aux articles 225, 227, 243 à 246, 265, 266, 268 à 269-1, 273, 280 à 294-8, 391-1 à 391-12, ainsi que celles prévues par la loi n° 890 du 10 juillet 1970 relative aux stupéfiants, le juge d'instruction peut, après avis du procureur général, autoriser, par ordonnance motivée, les officiers de police judiciaire commis sur commission rogatoire à mettre en place un dispositif technique ayant pour objet, sans le consentement des intéressés, la captation, la fixation, la transmission et l'enregistrement de paroles prononcées par une ou plusieurs personnes à titre privé ou confidentiel, dans des lieux ou véhicules privés ou publics ou de l'image d'une ou plusieurs personnes se trouvant dans un lieu privé. Ces opérations sont effectuées sous l'autorité et le contrôle du juge d'instruction.
