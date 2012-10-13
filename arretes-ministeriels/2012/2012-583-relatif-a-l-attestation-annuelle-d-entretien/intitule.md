@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-583 du 5 octobre 2012 relatif à l'attestation annuelle d'entretien prévue à l'article 38-4 de l'ordonnance souveraine n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise, des véhicules de service de ville et des motos à la demande, modifiée
