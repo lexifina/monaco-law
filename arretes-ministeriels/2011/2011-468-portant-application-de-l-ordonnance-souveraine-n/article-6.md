@@ -1,3 +1,3 @@
 # Article 6
 
-Les agents publics des services exécutifs mentionnés à l'article 44 de la Constitution qui ne sont pas régis par les dispositions de la loi n° 975 du 12 juillet 1975, modifiée, susvisée, sont également soumis au respect des obligations prescrites par le présent arrêté.
+La discrétion et le secret professionnels visés à l'article 10 de la loi n° 975 du 12 juillet 1975, modifiée, susvisée, ne font pas obstacle à ce que les fonctionnaires ayant connaissance, à raison de l'exercice ou à l'occasion de l'exercice de leur mission, de faits, pratiques, agissements ou comportements susceptibles d'être constitutifs d'un crime ou d'un délit le signalent à l'autorité hiérarchique, ou à l'autorité judiciaire conformément à l'article 61 du Code de procédure pénale.
