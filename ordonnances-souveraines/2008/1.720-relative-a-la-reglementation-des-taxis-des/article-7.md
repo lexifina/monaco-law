@@ -1,9 +1,9 @@
 # Article 7
 
-La mise en exploitation des véhicules mentionnés à l'article premier est subordonnée à la présentation au Service des Titres de circulation :
+La mise en exploitation des véhicules mentionnés à l'article premier est subordonnée :
 
-- d'une attestation d'assurance conforme aux dispositions de l'ordonnance-loi n° 666 du 20 juillet 1959 et des textes pris pour son application ;
+- à la présentation au Service des Titres de Circulation d'une attestation d'assurance conforme aux dispositions de l'ordonnance-loi n° 666 du 20 juillet 1959, susvisée, et des textes pris pour son application ;
 
-- dudit véhicule en vue de contrôler son aptitude à assurer l'exploitation autorisée.
+- au contrôle par le Service des Titres de circulation de l'aptitude du véhicule à assurer l'exploitation autorisée.
 
-Ces formalités sont effectuées annuellement.
+Ces formalités sont effectuées annuellement.'

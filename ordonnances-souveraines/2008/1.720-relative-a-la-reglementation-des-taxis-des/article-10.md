@@ -37,3 +37,5 @@ III. Le conducteur peut refuser de prendre en charge :
 - 4° - les personnes accompagnées d'un animal, sous réserve des dispositions du chiffre 4 du I.
 
 Les motifs de refus prévus aux chiffres 3 et 4 du III doivent être constants et non sélectifs. Ils doivent être indiqués par un pictogramme spécial apposé sur les vitres latérales arrières et visible de l'extérieur.
+
+Les dispositions du chiffre 4 du paragraphe I et celles relatives à l'obligation d'apposition du pictogramme spécial ne s'appliquent pas aux véhicules motorisés à deux ou trois roues.
