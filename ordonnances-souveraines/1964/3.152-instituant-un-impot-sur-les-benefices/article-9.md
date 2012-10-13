@@ -45,3 +45,5 @@ Sauf justification, les dispositions de l'alinéa qui précède sont applicables
 - 5 400 euro(s) pour les autres véhicules,
 
 Ainsi qu'aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien. La fraction de l'amortissement des véhicules de tourisme ainsi exclue des charges déductibles est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure de ces véhicules.
+
+4. - Les sommes versées ou les avantages octroyés, directement ou indirectement, à quiconque, pour lui-même ou pour autrui, pour obtenir d'une personne physique ou morale qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction ou facilité par sa fonction ou pour avoir accompli ou s'être abstenu d'accomplir un acte de sa fonction ou facilité par sa fonction, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
