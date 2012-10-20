@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 3.966 du 10 octobre 2012 modifiant et complétant les dispositions de l'ordonnance souveraine n° 3.647 du 9 septembre 1966, concernant l'urbanisme, la construction et la voirie, modifiée
