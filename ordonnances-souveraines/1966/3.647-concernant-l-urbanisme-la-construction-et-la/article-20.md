@@ -6,11 +6,13 @@ Les caisses à eau sur les terrasses de couverture sont interdites, sauf cas exc
 
 Les terrasses de couverture et les terrasses de recul devront obligatoirement être munies de garde-corps largement ajourés.
 
-Il est permis d'élever au-dessus de la cage d'escalier un édicule d'accès à la terrasse dont la hauteur est limitée à 2,50 m hors-tout et dont la surface ne doit pas dépasser celle de la cage d'escalier.
+Il est permis d'élever au-dessus de la cage d'escalier un édicule d'accès à la terrasse dont la hauteur est limitée à 2,50 m hors tout et dont l'emprise doit correspondre à celle de la cage d'escalier, augmentée éventuellement, sur appréciation du Comité Consultatif pour la Construction, de l'emprise d'un palier.
 
-L'ensemble des installations nécessaires aux besoins de l'immeuble devra être groupé au mieux et masqué par des plantations. En outre, quand la couverture est aménagée en terrasse-jardin, il est permis de construire des locaux à usage d'abri pour le matériel utilisé sur la terrasse sous réserve des conditions suivantes :
+En outre, le Comité Consultatif pour la Construction peut être appelé à se prononcer sur un éventuel dépassement de cette hauteur, justifié par des impératifs techniques pour l'accessibilité.
 
-- 1° La surface de chacun de ces locaux ne peut excéder 9 m2 sans que leur surface cumulée dépasse le dixième de la surface de la terrasse. La hauteur doit être limitée à 2,10 m hors-tout ;
+L'ensemble des installations nécessaires aux besoins de l'immeuble doit être groupé au mieux et masqué par des plantations. Il est permis de construire sur les terrasses de couverture un local à usage d'abri de jardin ainsi qu'un local à usage sanitaire (douche, cabinet d'aisances, lavabo, etc.) sous réserve des conditions suivantes :
+
+- 1° la surface de chacun de ces locaux ne peut excéder 9 m² sans que leur surface cumulée ne dépasse le dixième de la surface de la terrasse. La hauteur doit être limitée à 2,50 m hors tout ;
 
 - 2° Ces locaux doivent être masqués et disposés de manière à gêner le moins possible la vue depuis les immeubles voisins ;
 
@@ -23,3 +25,5 @@ L'ensemble des installations nécessaires aux besoins de l'immeuble devra être 
 - Les plans détaillés et un devis descriptif des dispositions adoptées à cet effet doivent être soumis à l'appréciation du comité consultatif pour la construction ;
 
 - 5° Des ouvrages à caractère décoratif, laissés à l'appréciation du comité, pourront être autorisés s'ils contribuent à améliorer l'aspect des terrasses.
+
+Les édicules établis en terrasse ne doivent pas communiquer entre eux.

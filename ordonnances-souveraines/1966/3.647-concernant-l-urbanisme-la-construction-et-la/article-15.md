@@ -1,35 +1,55 @@
 # Article 15
 
-Toute opération de constructions doit comporter, pour le pétitionnaire, l'obligation d'aménager une surface permettant de garer un nombre de voitures fixé ainsi qu'il suit :
+Lors de toute opération de construction, des emplacements de stationnement pour véhicules doivent être aménagés selon les prescriptions énoncées ci-dessous.
 
-- locaux d'habitation :
+Parmi les véhicules à faire stationner, on distingue les vélos, les deux roues motorisés, les voitures.
 
-  - une voiture par appartement dont la surface est inférieure ou égale à 100 m² ;
+Chaque emplacement de stationnement pour véhicules, y compris les deux roues, doit être pré-équipé pour permettre la recharge ultérieure des véhicules électriques, par des travaux simples ne touchant ni aux structures, ni aux gaines et réseaux communs des bâtiments. Cet équipement doit être uniquement destiné à la recharge des véhicules électriques.
 
-  - deux voitures par appartement dont la surface se situe entre 100 et 150 m² ;
+Le stationnement des vélos et deux roues motorisés doit être aménagé en sous-sol ou au rez-de-chaussée dans des locaux suffisamment dimensionnés.
 
-  - trois voitures par appartement dont la surface est supérieure à 150 m² ;
+Les places réservées aux vélos et aux deux roues doivent représenter au minimum 5 % de la surface totale des aires de stationnement affectés aux voitures.
 
-- locaux à usage industriel ou d'entrepôts :
+Les accès aux garages en sous-sol doivent être conçus de manière à apporter le moins de gêne à la circulation publique et doivent s'intégrer à l'architecture du bâtiment. La largeur des rampes d'accès et les circulations intérieures ne doivent pas être inférieures à 5 m lorsque ces circulations sont à double sens ; dans le cas contraire, ces mêmes largeurs ne doivent pas être inférieures à 3 m.
 
-  - une voiture par local de 100 m² de surface de plancher.
+L'emprise des garages sur la surface non-bâtie à l'intérieur des alignements doit obligatoirement être traitée en surface verte. À cet effet, la dalle de couverture du garage doit être établie de manière à pouvoir supporter une épaisseur de terre suffisante pour l'aménagement d'un jardin : cette hauteur de terre ne doit pas être inférieure à 1,50 m correspondant à une surcharge de 3 tonnes par m².
 
-- hôtels :
+Les emplacements et les locaux créés, en vertu du présent article, ne peuvent être affectés qu'à usage de remise de voitures, vélos et deux roues motorisés et ne peuvent être désaffectés sous aucun prétexte, sauf autorisation expresse délivrée par la Direction de la Prospective, de l'Urbanisme et de la Mobilité.
 
-  - une voiture pour deux chambres jusqu'à 150 chambres ;
+Toute opération de construction doit comporter, pour le pétitionnaire, l'obligation d'aménager une surface permettant de garer un nombre de voitures fixé ainsi qu'il suit :
 
-  - une voiture pour trois chambres pour la fraction comprise entre 150 et 250 chambres ;
+- 1°) Locaux d'habitation :
 
-  - une voiture pour cinq chambres pour la fraction au-delà de 250 chambres.
+  - - une voiture par appartement dont la surface est inférieure ou égale à 100 m²,
 
-- locaux à usage commercial et de bureaux :
+  - - deux voitures par appartement dont la surface se situe entre 101 et 150 m²,
 
-  - une voiture pour 40 m² de plancher.
+  - - trois voitures par appartement dont la surface est supérieure à 150 m²,
 
-Le comité consultatif pour la construction apprécie, dans chaque cas, si le pétitionnaire doit aménager ces garages dans la propriété (et de préférence en sous-sol) ou en dehors de l'immeuble (mais sur le territoire national).
+- 2°) Locaux à usage commercial ou de bureaux :
 
-Les accès aux garages en sous-sol devront être conçus de manière à apporter le moins de gêne à la circulation publique et à respecter, dans la mesure du possible, le décor convenant à un immeuble d'habitation. La largeur des rampes d'accès et les circulations ne devront pas être inférieures à 5 m lorsque ces circulations sont à double sens : dans le cas contraire, ces mêmes largeurs ne devront pas être inférieures à 3 m.
+  - - une voiture pour 80 m² de surface de plancher.
 
-L'emprise des garages sur la surface non bâtie à l'intérieur des alignements doit obligatoirement être traitée en surface verte. À cet effet, la dalle de couverture du garage devra être établie de manière à pouvoir supporter une épaisseur de terre végétale suffisant à l'aménagement d'un jardin : cette hauteur de terre ne devra pas être inférieure à 1,50 m correspondant à une surcharge de 3 tonnes par m².
+Aucun emplacement de stationnement n'est exigé pour les locaux à usage commercial ou de bureaux dont la surface de plancher est inférieure ou égale à 50 m².
 
-Les emplacements et les locaux créés en vertu du présent article ne pourront être affectés qu'à usage de remise de voitures et ne pourront être désaffectés sous aucun prétexte, sauf autorisation spéciale.
+- 3°) Locaux à usage industriel ou d'entrepôts :
+
+  - - une voiture pour 150 m² de surface de plancher.
+
+- 4°) Hôtels :
+
+  - - une voiture pour deux chambres jusqu'à 150 chambres,
+
+  - - une voiture pour trois chambres pour la fraction comprise entre 151 et 250 chambres,
+
+  - - une voiture pour cinq chambres pour la fraction au-delà de 250 chambres.
+
+- 5°) pour les constructions et installations nécessaires à un service public ou d'intérêt collectif, le nombre d'emplacement de stationnement doit correspondre aux besoins du projet.
+
+Le nombre d'emplacement de stationnement exigé est arrondi au nombre entier supérieur le plus proche, lorsque la décimale est égale ou supérieure à 0,5.
+
+Dans le cas d'augmentation de la surface de plancher d'un bâtiment existant, les emplacements de stationnement ne sont exigés que pour la surface de plancher supplémentaire.
+
+En cas de changement partiel ou total de destination d'un bâtiment existant, le pétitionnaire est soumis à l'obligation de réaliser des emplacements de stationnement. Le nombre d'emplacement de stationnement est calculé après déduction des stationnements théoriquement exigés en fonction de la destination du bâtiment avant changement de destination.
+
+Le Comité Consultatif pour la Construction apprécie, dans chaque cas, si le pétitionnaire doit aménager ces garages dans la propriété et de préférence en sous-sol ou en dehors de l'immeuble mais sur le territoire national.

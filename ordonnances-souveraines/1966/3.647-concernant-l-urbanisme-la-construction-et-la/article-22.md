@@ -2,7 +2,7 @@
 
 A. - Les façades des constructions en copropriété doivent recevoir une décoration et une teinte harmonisées sur toute leur étendue.
 
-Si un désaccord s'élève à ce sujet, entre les copropriétaires, il peut être soumis au service de l'urbanisme et de la construction qui déterminera les dispositions à réaliser.
+Si un désaccord s'élève à ce sujet, entre les copropriétaires, il peut être soumis à la Direction de la Prospective, de l'Urbanisme et de la Mobilité qui déterminera les dispositions à réaliser.
 
 B. - En cas de surélévation, les façades des immeubles seront pareillement ordonnées :
 

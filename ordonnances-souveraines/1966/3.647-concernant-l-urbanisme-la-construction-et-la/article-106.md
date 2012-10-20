@@ -10,4 +10,4 @@ La démolition peut être ordonnée notamment :
 
 - 3° En cas d'insuffisance de solidité des fondations.
 
-Sur avis du comité, un arrêté ministériel fixe un délai pour exécuter les réparations ou les démolitions. Cet arrêté est notifié aux intéressés par les soins du service de l'urbanisme et de la construction.
+Sur avis du comité, un arrêté ministériel fixe un délai pour exécuter les réparations ou les démolitions. Cet arrêté est notifié aux intéressés par les soins de la Direction de la Prospective, de l'Urbanisme et de la Mobilité.

@@ -1,6 +1,6 @@
 # Article 59
 
-Le Service de l'urbanisme et de la construction est chargé de veiller à ce que les conditions et charges imposées dans l'arrêté d'autorisation soient observées.
+La Direction de la Prospective, de l'Urbanisme et de la Mobilité est chargée de veiller à ce que les conditions et charges imposées dans l'arrêté d'autorisation ou l'Avis d'autorisation soient observées.
 
 Les permissionnaires doivent se conformer strictement à ces conditions.
 

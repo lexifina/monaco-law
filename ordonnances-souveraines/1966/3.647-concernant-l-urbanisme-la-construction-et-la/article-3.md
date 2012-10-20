@@ -1,47 +1,69 @@
 # Article 3
 
-Les demandes d'autorisation de construire, rédigées sur timbre, doivent mentionner les nom, prénoms et domicile de l'intéressé et la justification de sa qualité.
+Les demandes d'autorisation d'exécuter des travaux visés à l'article 1er de la présente ordonnance doivent mentionner les noms, prénoms et domicile de l'intéressé et la justification de sa qualité.
 
-À chaque demande doivent être jointes les pièces ci-dessous nécessaires à son instruction :
+À chaque demande doivent être jointes tout ou partie des pièces ci-dessous nécessaires à son instruction :
 
-- 1° Pour les projets visés aux alinéas 1, 2, 4 et 5 de l'article 1er, un acte notarié attestant que le signataire des plans est propriétaire de l'immeuble ou des terrains pour lesquels l'autorisation est requise ;
+- - pour les demandes portant sur des modifications dans les aménagements intérieurs des constructions existantes, les pièces prévues aux chiffres 1, 2, 5, 7, 11, 12, 14 et 15 alinéa 2, ci-après visées.
 
-- Pour les projets visés à l'alinéa 3 du même article, soit une déclaration sur timbre de l'intéressé certifiant qu'il est propriétaire de l'immeuble dont s'agit, soit une déclaration délivrée par le propriétaire autorisant l'intéressé à exécuter les travaux projetés et attestant son droit de propriété sur ledit immeuble ;
+- - pour les demandes portant sur des modifications dans les dispositions extérieures des constructions existantes, les pièces prévues aux chiffres 1, 2, 4, 5, 6, 7, 8, 9 tirets 2 et 3, 10, 11, 12, 13, 14, 15 alinéa 2, 17, 18, 19, 20 et 21 ci-après visées.
 
-- 2° Un plan de situation à l'échelle de 1/1000e indiquant l'orientation des lieux, les voies de dessertes avec indication de leur nature et de leurs dénominations, les abords et, en général, tous points de repère permettant de localiser le terrain ou l'immeuble ;
+- - pour les demandes portant sur une nouvelle construction, l'ensemble des pièces ci-après visées.
 
-- 3° Un plan de masse, coté à l'échelle de 1/200e au moins, établi par un géomètre. Ce plan doit indiquer les limites, dimensions et autres données cadastrales de la propriété, les noms des propriétaires voisins, les cotes de niveau du terrain intéressé et les voies publiques ou privées qui le bordent. Il doit préciser, en outre, les alignements des constructions sur ces voies, l'implantation exacte des constructions projetées et leur nature et le tracé des coupes et profils nécessaires à la détermination de la valeur des éléments d'appréciation du projet (gabarit, hauteur, indice de construction, etc.).
+- - pour les demandes portant sur une démolition, les pièces prévues aux chiffres 1, 2, 3, 4, 9 tiret 2, 12, 14, 16 et 17 ci-après visées.
 
-- Il doit mentionner également les calculs détaillés des différentes surfaces à prendre en considération, définies ci-après : surface totale de la propriété, surface de la propriété limitée aux alignements, surface bâtie, surface des espaces plantés ;
+À savoir :
 
-- 4° Les plans détaillés du travail projeté à l'échelle de 1/100e au moins, plans du sous-sol, du rez-de-chaussée, des étages, coupes et façades s'il s'agit d'une maison. Le plan du rez-de-chaussée doit clairement indiquer l'alignement des voies publiques qui le bordent ; l'emplacement des chaufferies et des dépôts de combustibles doit figurer sur les plans ;
+- 1. un justificatif de propriété ;
 
-- 5° Les coupes longitudinales et transversales cotées - également à l'échelle de 1/200e au moins - indiquant les profils du terrain, des constructions et des voies de bordure et les gabarits prévus à l'article 13 ci-après ;
+- 2. un plan de situation ;
 
-- 6° Les élévations à l'échelle de 1/100e au moins des façades principales et les parties des façades latérales vues des voies publiques de l'immeuble à construire ou à surélever. Sur l'élévation de la façade principale (ou des façades principales) devront figurer les façades schématiques des immeubles situés de part et d'autre de l'immeuble intéressé, qui devront toutes être cotées. Les façades présentées doivent être traitées de manière à permettre de juger l'effet qu'elles produiront ;
+- 3. un plan topographique sur lequel sont précisés, s'il y a lieu, les alignements demandés à l'article 6 ;
 
-- 7° Un plan complet de la terrasse de couverture sur lequel devront être indiqués tous les ouvrages nécessités par les besoins de l'immeuble avec les dessins complets détaillés et cotés de ces ouvrages et éventuellement les dispositions prévues pour l'aménagement des terrasses-jardins visées à l'article 20-4° ci-après ;
+- 4. un plan de masse ;
 
-- Tous les plans et dessins devront être établis conformément aux conventions usuelles ;
+- 5. les coupes longitudinales et transversales, lorsque les volumes sont modifiés ;
 
-- 8° Les documents permettant d'apprécier l'occupation au sol, la masse des constructions et leurs rapports avec l'environnement : maquette volumétrique simple et photos-montages ;
+- 6. les élévations des façades principales et des façades latérales si elles sont créées ou modifiées ;
 
-- 9° Une note explicative donnant toutes les indications nécessaires à la compréhension et à l'instruction du projet. Cette note doit mentionner en particulier le calcul détaillé de l'indice de construction et, s'il y a lieu, les dates des autorisations antérieures ;
+- 7. un plan complet de tous les niveaux ou du niveau concerné par le projet ;
 
-- 10° Un devis descriptif des travaux projetés donnant toutes les indications et précisions utiles, notamment sur les matériaux de revêtements des façades, les garde-corps et tous les ouvrages décoratifs (échantillons, couleurs, modèles, etc.), la nature du gros œuvre, les dispositions envisagées pour l'isolation phonique, thermique hydrique, les installations mécaniques (ascenseur, monte-charge, etc.), la nature et la qualité des matériaux de revêtement des locaux privés intérieurs, ainsi que des menuiseries, équipements électriques, sanitaires, ménagers, etc. ;
+- 8. un plan complet et détaillé de la terrasse de couverture, si elle est créée ou modifiée ;
 
-- 11° Une note donnant toutes les précisions sur les besoins de l'immeuble projeté en eau, gaz, électricité, téléphone ; sur les locaux destinés aux logements des compteurs, des postes de transformation ; sur toutes les tuyauteries et gaines de ventilation, télécommunications, descentes d'antennes, aérations, chutes, ainsi que les dispositions précises adoptées pour les branchements d'égouts, etc. Ces divers locaux et aménagements doivent figurer d'une manière nette sur les plans ;
+- 9. les documents permettant d'apprécier l'insertion du projet dans son environnement :
 
-- 12° Un planning de la marche des travaux, une estimation de leur montant, le plan de leur financement et les garanties d'exécution présentées par les réalisateurs (références techniques et indications précise des références financières) ;
+  - - une maquette numérique 3D pour les nouvelles constructions,
 
-- 13° Une note mentionnant si les travaux à faire peuvent affecter des installations existantes de service public, telles que fils télégraphiques, téléphoniques, conducteurs d'énergie électrique, plaques de noms de rues, etc. ;
+  - - un ou plusieurs photomontages et des photographies de l'état des lieux,
 
-- 14° À l'exception des cas prévus à l'article 1er, alinéa 3, de la présente ordonnance, une étude géologique du terrain ;
+  - - un ou plusieurs échantillons de matériaux lorsque l'aspect extérieur des constructions est modifié ;
 
-- 15° Une note donnant toutes les indications utiles sur la stabilité et la résistance de l'immeuble sous les efforts produits par les séismes ;
+- 10. un dossier technique donnant toutes les indications nécessaires à l'instruction réglementaire du projet ;
 
-- 16° Une note accompagnée d'un plan détaillé précisant les dispositions prévues pour l'aménagement des superficies non bâties et celui des parties complantées, ainsi que la nature et les essences des plantations envisagées ;
+- 11. une notice dite « de sécurité » récapitulant les dispositions prises pour satisfaire aux mesures de sécurité contre les risques d'incendie et de panique conformément aux dispositions fixées par arrêtés ministériels ;
 
-- 17° Un formulaire récapitulatif des données fondamentales du dossier, conforme au modèle annexé à la présente ordonnance (annexe n° 2).
+- 12. une note descriptive donnant toutes les indications et précisions utiles sur les travaux projetés ;
 
-Les dossiers concernant les travaux d'aménagement des bâtiments déjà construits (alinéa 3 de l'article 1er) ou les modifications à apporter à un projet déjà autorisé et en cours de construction doivent mentionner, de façon précise, lesdits travaux ou lesdites modifications et faire apparaître distinctement avec les couleurs conventionnelles les parties supprimées (en jaune), les parties conservées (en noir ou gris), et les parties nouvellement projetées (en rouge). En outre, les pièces à fournir dans ce cas par le pétitionnaire se limiteront à celles nécessaires à la parfaite compréhension du projet.
+- 13. une note donnant toutes les précisions sur les besoins du projet en eau potable, en assainissement, en énergie (gaz, électricité et production chaud-froid), en distribution du courrier et en télécommunication ;
+
+- 14. un programme prévisionnel de la marche des travaux ;
+
+- 15. pour les nouvelles constructions, une note donnant toutes les indications utiles sur la stabilité et la résistance de l'immeuble sous les efforts produits par les séismes conformément aux dispositions fixées par arrêté ministériel.
+
+- Pour les travaux portant atteinte à la structure d'un bâtiment existant, une attestation d'un bureau de contrôle indiquant que les travaux envisagés n'affaibliront pas la structure du bâtiment vis à vis de la stabilité et de la résistance aux séismes ;
+
+- 16. un devis estimatif hors taxes du montant des travaux projetés ;
+
+- 17. une note mentionnant si les travaux à faire peuvent affecter des installations existantes de service public ;
+
+- 18. pour tout projet nécessitant des travaux de terrassement, une étude géologique du terrain ;
+
+- 19. une note accompagnée d'un plan détaillé précisant les dispositions prévues pour l'aménagement des espaces verts, ainsi que la nature et les essences des plantations envisagées ;
+
+- 20. pour les nouvelles constructions, les réhabilitations et extensions des bâtiments existants, une attestation du maître d'ouvrage formulant l'engagement de respecter la réglementation thermique définie par arrêté ministériel ;
+
+- 21. à l'exception des demandes portant sur des modifications dans les aménagements intérieurs des constructions existantes sans changement de destination et des demandes portant sur une démolition, un formulaire récapitulatif des données fondamentales du dossier portant la référence « formulaire BATI1 » lorsque la demande porte sur une nouvelle construction et « formulaire BATI2 » lorsque la demande porte sur des modifications d'une construction existante. Ces formulaires sont à retirer auprès de la Direction de la Prospective, de l'Urbanisme et de la Mobilité.
+
+Le contenu détaillé des pièces, énoncées ci-dessus, est défini par arrêté ministériel.
+
+Les dossiers concernant les travaux d'aménagement des bâtiments déjà construits (alinéa 3 de l'art. 1er) ou les modifications à apporter à un projet déjà autorisé et en cours de construction doivent mentionner, de façon précise au moyen des couleurs conventionnelles, lesdits travaux ou lesdites modifications, sur deux plans en regard l'un de l'autre. L'un sur lequel sont figurées les parties supprimées en jaune, et l'autre sur lequel sont figurées les parties nouvellement projetées en rouge.

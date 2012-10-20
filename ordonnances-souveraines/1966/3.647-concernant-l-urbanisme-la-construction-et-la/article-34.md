@@ -1,3 +1,3 @@
 # Article 34
 
-Peuvent être autorisées les enseignes peintes découpées ou en relief, les enseignes lumineuses et non projetées sur la voie publique par réflecteur brillant.
+L'autorisation d'installer, sur le domaine privé, une publicité est délivrée par la Direction de la Prospective, de l'Urbanisme et de la Mobilité.

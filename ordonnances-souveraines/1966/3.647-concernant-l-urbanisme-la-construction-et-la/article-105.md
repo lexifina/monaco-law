@@ -4,4 +4,4 @@ Il appartient au maire, lorsque pour une cause quelconque une construction menac
 
 En attendant que ce comité ait statué sur les réparations ou démolitions à opérer, le maire peut interdire la circulation devant lesdits bâtiments et maisons et prendre, aux frais des propriétaires, telles mesures de précaution qu'il juge nécessaire pour la sécurité publique.
 
-Dans le cas d'extrême urgence, il peut demander au Service de l'urbanisme et de la construction de faire procéder sans délai à la démolition.
+Dans le cas d'extrême urgence, il peut demander à la Direction de la Prospective, de l'Urbanisme et de la Mobilité de faire procéder sans délai à la démolition.

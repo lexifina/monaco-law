@@ -1,5 +1,9 @@
 # Article 36
 
-Sauf pour les enseignes posées à plat sur les devantures des magasins et sous réserve de l'application des règlements de police, les enseignes doivent être placées à 3,50 m au moins au-dessus du trottoir.
+Ce dossier est adressé ou déposé, en deux exemplaires, à la Commune ou auprès de la Direction de la Prospective, de l'Urbanisme et de la Mobilité, selon l'entité délivrant l'autorisation.
 
-Leur saillie sur le nu du mur de façade ne peut dépasser un mètre : les enseignes et réclames doivent être posées sans dépasser la largeur des magasins et locaux commerciaux ou industriels auxquels elles se rapportent.
+D'une manière générale, les autorisations mentionnent les conditions particulières auxquelles leur octroi est subordonné.
+
+La Direction de la Prospective, de l'Urbanisme et de la Mobilité procède à la consultation de l'ensemble des services dont l'avis s'avère nécessaire à l'instruction de la demande. L'avis du Comité Consultatif pour la Construction peut être sollicité si l'installation est de nature à soulever un questionnement sur son intégration dans l'environnement urbain.
+
+En cas de divergence de vues entre le Maire et la Direction de la Prospective, de l'Urbanisme et de la Mobilité, la décision appartient au Département de l'Équipement, de l'Environnement et de l'Urbanisme.

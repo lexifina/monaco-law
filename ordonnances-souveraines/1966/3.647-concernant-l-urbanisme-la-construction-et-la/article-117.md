@@ -1,3 +1,3 @@
 # Article 117
 
-Les mesures d'hygiène à observer dans les constructions sont définies par arrêté ministériel après avis de la commission technique pour la sauvegarde de la sécurité, de l'hygiène, de la salubrité et de la tranquillité publiques et du comité consultatif pour la construction.
+Les mesures d'hygiène à observer dans les constructions sont définies par arrêté ministériel après avis de la Commission Technique, d'Hygiène, de Sécurité et de Protection de l'Environnement et du comité consultatif pour la construction.

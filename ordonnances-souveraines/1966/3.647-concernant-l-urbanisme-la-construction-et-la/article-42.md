@@ -4,4 +4,4 @@ Toute maison située sur la voie publique doit être munie, pour la conduite des
 
 Les tuyaux de descente doivent être masqués dans la mesure du possible.
 
-Les gouttières et chéneaux doivent être raccordés à l'égout.
+Les gouttières, terrasses, balcons et chêneaux, à l'exception des trop-pleins, doivent être raccordés au réseau d'eau pluviale. La mise en place d'un système permettant la récupération, le stockage et la réutilisation éventuelle des eaux de pluie, peut être proposée sous réserve du respect des prescriptions qui seront édictées dans l'autorisation de construire, après avis de la Commission Technique, d'Hygiène, de Sécurité et de Protection de l'Environnement.

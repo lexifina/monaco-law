@@ -8,4 +8,4 @@ Aucune modification ne peut être apportée sans autorisation préalable dans le
 
 Il est également interdit d'entreprendre une démolition ou un travail quelconque sur ou dans le sol des voies publiques et de leurs dépendances ou des voies privées sans autorisation préalable du gouvernement.
 
-Une injonction motivée du service compétent ordonnant à un propriétaire de faire des travaux à son immeuble, de le réparer ou de le démolir, ne dispense pas l'intéressé de remplir, avant le commencement des travaux, les formalités prescrites pour la délivrance de l'autorisation prévue ci-dessus.
+Une injonction motivée de la Direction de la Prospective, de l'Urbanisme et de la Mobilité ordonnant à un propriétaire de faire des travaux à son immeuble, de le réparer ou de le démolir, ne dispense pas l'intéressé de remplir, avant le commencement des travaux, les formalités prescrites pour la délivrance de l'autorisation prévue ci-dessus.

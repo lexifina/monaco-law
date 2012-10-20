@@ -1,3 +1,3 @@
 # Article 126
 
-Les water-closets et salles de bains en position centrale doivent être ventilés dans les conditions agréées par l'administration.
+Les cabinets d'aisances et salles de bains en position centrale doivent être ventilés dans les conditions fixées par arrêté ministériel.
