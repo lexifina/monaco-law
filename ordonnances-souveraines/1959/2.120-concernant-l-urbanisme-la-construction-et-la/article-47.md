@@ -1,7 +1,0 @@
-# Article 47
-
-Il est interdit d'établir plusieurs égouts privés sous le sol d'une voie livrée à la circulation.
-
-Les propriétaires qui, les premiers, ont établi l'égout à leurs frais ne peuvent s'opposer à ce que d'autres propriétaires viennent y brancher les conduites d'évacuation de leurs immeubles en les indemnisant d'une part proportionnelle à la dépense du premier établissement.
-
-Les indemnités sont réglées de gré à gré ou à dire d'experts, sans que le service compétent ait jamais à intervenir ou à être mis en cause.

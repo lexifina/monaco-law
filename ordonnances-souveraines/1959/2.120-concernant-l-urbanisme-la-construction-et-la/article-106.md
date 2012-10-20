@@ -1,3 +1,0 @@
-# Article 106
-
-Les ouvrages établis sur ou sous les sol de la voie publique et qui intéressent la viabilité doivent toujours être entretenus en bon état et maintenus conformes aux conditions de l'autorisation, faute de quoi cette autorisation peut être révoquée indépendamment de l'application de toutes autres sanctions administratives et judiciaires.
