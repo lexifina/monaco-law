@@ -36,6 +36,8 @@ Les missions des organismes ou personnes agréés se définissent par leur natur
 
 - la protection contre le tabagisme ;
 
-- les installations foraines.
+- les installations foraines ;
+
+- la vérification du respect de la réglementation thermique concernant les constructions de bâtiments neufs, les extensions et réhabilitations des bâtiments existants et plus particulièrement la validation et le suivi des études thermiques réglementaires.
 
 La liste des missions énoncées précédemment, n'est pas limitative et le Maître de l'Ouvrage peut confier à la personne ou à l'organisme agréé toute autre mission complémentaire.
