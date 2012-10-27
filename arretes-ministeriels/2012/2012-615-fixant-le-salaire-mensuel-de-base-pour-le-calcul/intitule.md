@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-615 du 19 octobre 2012 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2012-2013
