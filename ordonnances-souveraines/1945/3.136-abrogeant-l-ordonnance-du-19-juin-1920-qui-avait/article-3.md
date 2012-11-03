@@ -1,11 +1,13 @@
 # Article 3
 
-Le Conseil économique et social est composé de trente-six membres nommés, pour trois ans, par ordonnance souveraine, dans les conditions suivantes :
+Le Conseil Économique et Social est composé de trente-six membres répartis en trois collèges et nommés pour trois ans par ordonnance souveraine dans les conditions suivantes :
 
-- 1° Douze membres présentés par le Gouvernement à raison de leur compétence ;
+1° un collège gouvernemental composé de douze membres présentés par le Gouvernement à raison de leur compétence ;
 
-- 2° Douze membres choisis par le Gouvernement sur une liste de vingt noms dressée par l'Union des Syndicats ouvriers ;
+2° un collège salarié composé de douze membres, dont huit sont nommés sur proposition de l'Union des Syndicats de Monaco et quatre sur proposition des syndicats salariés non affiliés à cette organisation ;
 
-- 3° Douze membres choisis par le Gouvernement sur une liste de vingt noms dressée par la Fédération patronale monégasque Les personnes résidant hors de Monaco ne pourront excéder en nombre 30 % des membres du Conseil économique et sSocial et devront avoir exercé une activité professionnelle depuis plus de trois ans en Principauté.
+3° un collège patronal composé de douze membres, dont huit sont nommés sur proposition de la Fédération Patronale Monégasque et quatre sur proposition des syndicats patronaux non affiliés à cette organisation ou d'organismes professionnels patronaux ;
 
-La proportion de 30 % maximum de non-résidents s'appliquera également aux listes de noms dressées par l'Union des Syndicats ouvriers et par la Fédération patronale monégasque.
+Les membres du Conseil Economique et Social devront avoir exercé une activité professionnelle dans la Principauté depuis plus de 5 ans ;
+
+Les personnes résidant hors de Monaco ne pourront excéder en nombre un tiers des membres du Conseil Économique et Social..
