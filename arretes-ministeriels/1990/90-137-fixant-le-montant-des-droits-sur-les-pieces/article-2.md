@@ -161,3 +161,5 @@ Divers :
 - Carte tachygraphique ou duplicata (chronotachygraphe numérique) | 204,50 euro(s)
 
 - Attestation d'aménagement (transport en commun de personnes) | 100,00 euro(s)
+
+Autocollant motos à la demande | 5,50 euro(s)
