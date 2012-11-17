@@ -22,4 +22,8 @@ Pour avoir droit aux prestations prévues en cas d'invalidité, le salarié doit
 
   - soit d'au moins 800 heures de travail salarié, ou assimilé, aux termes de l'article 9, au cours des douze mois précédant la date à prendre en considération parmi celles visées sous le chiffre 2°), dont 200 heures au moins au cours des trois derniers mois.
 
-Les durées minimales d'immatriculation et de travail ci-dessus fixées sont réduites, dans les conditions visées au dernier alinéa de l'article 15, pour les salariés de professions à caractère saisonnier ou discontinu.
+Toutefois, pour les salariés de professions à caractère saisonnier ou discontinu, les durées minimales d'immatriculation et de travail ci-dessus sont respectivement réduites :
+
+- - de 12 à 9 mois,
+
+- - de 800 à 600 heures.
