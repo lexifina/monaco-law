@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 117 du 19 juillet 2005 portant création d'une Direction des Affaires juridiques
+# Ordonnance Souveraine n° 117 du 19 juillet 2005 portant création d'une Direction des Affaires Juridiques
 
-Version en vigueur au 30 juillet 2005.
+Version en vigueur au 24 novembre 2012.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2005/07-19-117@2005.07.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2005/07-19-117@2012.11.24/
 
 | | |
 | --- | --- |
