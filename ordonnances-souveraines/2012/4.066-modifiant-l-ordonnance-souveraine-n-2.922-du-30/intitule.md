@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 4.066 du 27 novembre 2012 modifiant l'ordonnance souveraine n° 2.922 du 30 novembre 1962, modifiée, déterminant la nature, le montant et les conditions d'attributions des aides sociales exceptionnelles prévues par l'article 31 ter de la loi n° 455 du 27 juin 1947 sur les retraites des salariés, modifiée
