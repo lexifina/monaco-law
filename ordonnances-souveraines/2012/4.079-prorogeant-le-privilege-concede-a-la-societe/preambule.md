@@ -1,0 +1,1 @@
+Vu Notre ordonnance n° 1.541 du 12 février 2008 octroyant à la Société Hôtelière et de Loisirs de Monaco le privilège d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français ;
