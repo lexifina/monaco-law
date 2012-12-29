@@ -8,7 +8,7 @@ Le pourcentage prévu au troisième tiret du deuxième alinéa de l'article prem
 
 Le montant prévu au deuxième tiret du deuxième alinéa de l'article 3 la loi est fixé à la somme de 15.000 euros.
 
-Les montants prévus au neuvième alinéa de l'article 4 de la loi sont respectivement fixés à la somme de 3.000 euros pour les jeux de table et de 1.500 euros pour les machines à sous.
+Les montants prévus au neuvième alinéa de l'article 4 de la loi sont fixés à la somme de 3.000 euros pour les jeux de table et pour les machines à sous.
 
 Le montant prévu au deuxième alinéa de l'article 7 de la loi est fixé à la somme de 1.500 euros.
 

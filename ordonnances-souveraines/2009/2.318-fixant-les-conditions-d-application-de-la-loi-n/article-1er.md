@@ -8,7 +8,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
 - 3°) «opération occasionnelle » : opération visée au second alinéa de l'article 3 de la loi ;
 
-- 4°) «bénéficiaire économique effectif » : la ou les personnes physiques qui in fine possèdent ou contrôlent le client et/ou la personne pour laquelle une transaction est effectuée. Ceci comprend également les personnes qui exercent en dernier ressort un contrôle effectif sur une personne morale ou une construction juridique ;
+- 4°) «bénéficiaire économique effectif » : la ou les personnes physiques qui in fine possèdent ou contrôlent le client et/ou la personne physique pour laquelle une transaction est effectuée. Ceci comprend également les personnes physiques qui exercent en dernier ressort un contrôle effectif sur une personne morale ou une construction juridique ;
 
 - 5°) «opération atypique » : une opération particulièrement susceptible, de par sa nature, de par la qualité des personnes impliquées, de par son caractère complexe ou inhabituel au regard des activités du client, de son profil de risque, ou de par l'absence de justification économique ou d'objet licite apparent, d'être liée au blanchiment de capitaux ou au financement du terrorisme au sens du premier alinéa de l'article 11 de la loi ;
 

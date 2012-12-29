@@ -22,7 +22,7 @@ Lorsque le client est un établissement de crédit ou une institution financièr
 
   - * l'objet et la nature des relations envisagées ainsi que les responsabilités respectives du professionnel et de l'établissement de crédit ou de l'institution financière de droit étranger dans le cadre de ces relations sont préalablement convenus par écrit ;
 
-  - * la décision de nouer des relations d'affaires qui, en raison de leur objet ou de leur nature, sont susceptibles d'exposer le professionnel à des risques particuliers au regard du blanchiment de capitaux ou du financement du terrorisme se fonde sur une évaluation satisfaisante des contrôles mis en place par l'établissement de crédit ou par l'institution financière de droit étranger en vue de la prévention du blanchiment de capitaux et du financement du terrorisme ;
+  - * la décision de nouer des relations d'affaires se fonde sur une évaluation satisfaisante des contrôles mis en place par l'établissement de crédit ou par l'institution financière de droit étranger en vue de la prévention du blanchiment de capitaux et du financement du terrorisme ;
 
   - * lorsque des comptes de passage sont ouverts par l'établissement de crédit ou l'institution financière de droit étranger, celui-ci a préalablement garanti par écrit qu'il a vérifié et mis en œuvre des mesures de vigilance requises vis-à-vis des clients ayant un accès direct à ces comptes, d'une part, et qu'il est en mesure de communiquer sans retard, sur demande, les données pertinentes d'identification de ces clients, d'autre part ; l'établissement de crédit ou l'institution financière de droit étranger s'engage à communiquer ces données.
 

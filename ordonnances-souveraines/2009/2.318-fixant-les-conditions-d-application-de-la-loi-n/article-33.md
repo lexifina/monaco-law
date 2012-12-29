@@ -25,3 +25,5 @@ Ce rapport doit, notamment, permettre de :
 - - décrire les modifications significatives réalisées dans le cadre des contrôles pendant la période de référence, en particulier pour prendre en compte l'évolution de l'activité et des risques.
 
 Une copie de ce rapport annuel d'activité est systématiquement adressée au Service d'Information et de Contrôle sur les Circuits Financiers et, le cas échéant, au commissaire aux comptes du professionnel.
+
+Dans le cas où, par application de l'article 13 de la loi, aucun responsable de la prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption n'est désigné, le professionnel est néanmoins tenu d'établir un rapport annuel d'activité sur les conditions dans lesquelles la prévention du blanchiment de capitaux, de financement du terrorisme et de la corruption est assurée.
