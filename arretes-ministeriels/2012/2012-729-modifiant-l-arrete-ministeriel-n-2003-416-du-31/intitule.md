@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2012-729 du 20 décembre 2012 modifiant l'arrêté ministériel n° 2003-416 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants
