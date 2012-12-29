@@ -284,12 +284,22 @@ Dans les cas visés aux points 1. et 2., le service des prestations ne pourra in
 
 Pour ces catégories, et lorsqu'un accord exceptionnel a été délivré, la valeur de base du tarif de remboursement visé à l'article 24-I de l'ordonnance souveraine n° 4.739 du 22 juin 1971, susvisée est égale au montant facturé par la pharmacie.
 
-4. Pour l'indemnité de garde, lorsqu'elle est applicable, les barèmes suivants :
+4. Les indemnités de garde des pharmaciens sont prises en charge par les régimes d'assurance maladie dans les conditions suivantes.
 
-- les jours ouvrables | 0.99 euro(s)
+Des indemnités de délivrance sont facturables aux patients lorsque la dispensation de produits pharmaceutiques intervient à volets fermés. Elles sont prises en charge intégralement au vu de leur facturation par le pharmacien de garde et dans la limite des tarifs suivants, par ordonnance :
 
-- les dimanches et jours fériés légaux (jour) | 1,98 euro(s)
+- indemnité de nuit : | 6,00 euro(s) ;
 
-- la nuit | 3,96 euro(s)
+- indemnité de dimanche ou jour férié | 4,00 euro(s) ;
+
+- indemnité jours ouvrables | 2,00 euro(s).
+
+Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, pour chaque tour de garde complet assuré :
+
+- la nuit : à 75 euro(s) ;
+
+- la journée du dimanche ou d'un jour férié à 75 euro(s).
+
+Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le directeur de la Caisse de Compensation des Services Sociaux ; cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
 
 D - Frais d'orthopédie
