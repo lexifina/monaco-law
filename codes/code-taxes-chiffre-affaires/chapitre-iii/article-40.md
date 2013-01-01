@@ -10,7 +10,9 @@
 
 - c bis) pour les prestations de services pour lesquelles la taxe est due par le preneur de services en application du 2 de l'article 62, qui ont lieu de manière continue sur une période supérieure à une année et qui ne donnent pas lieu à des décomptes ou à des paiements durant cette période, à l'expiration de chaque année civile, tant qu'il n'est pas mis fin à la prestation de services ;
 
-- d) Pour les livraisons à soi-même visées au adu 1° du 3 du I de l'article 5, au moment de la livraison qui intervient, au plus tard, lors de la délivrance de l'autorisation d'habiter prévue par l'article 118 de l'ordonnance souveraine n° 3.647 du 9 septembre 1966, modifiée, susvisée ; les modalités d'application du présent paragraphe sont fixées par les articles A-1 à A-3 de l'annexe au code ;
+- c ter) pour les livraisons et transferts mentionnés au I de l'article 31 effectués de manière continue pendant une période de plus d'un mois civil, à l'expiration de chaque mois civil ;
+
+- d) Pour les livraisons à soi-même visées au a du 1° du 3 du I de l'article 5, au moment de la livraison qui intervient, au plus tard, lors de la délivrance de l'autorisation d'habiter prévue par l'article 118 de l'ordonnance souveraine n° 3.647 du 9 septembre 1966, modifiée, susvisée ; les modalités d'application du présent paragraphe sont fixées par les articles A-1 à A-3 de l'annexe au code ;
 
 2. La taxe est exigible :
 
@@ -32,6 +34,6 @@
 
 - c bis) Pour le bail à construction, lors de sa conclusion s'agissant de la valeur du droit de reprise visée au 4 de l'article 35 et, s'il y a lieu, lors de l'encaissement pour les loyers ;
 
-- d) pour les acquisitions intracommunautaires, le 15 du mois suivant celui au cours duquel s'est produit le fait générateur.
+- d) pour les acquisitions intracommunautaires et pour les livraisons et les transferts exonérés en application du I de l'article 31, le 15 du mois suivant celui au cours duquel s'est produit le fait générateur.
 
 Toutefois, la taxe devient exigible lors de la délivrance de la facture, à condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et qu'il ne s'agisse pas d'une facture d'acompte.

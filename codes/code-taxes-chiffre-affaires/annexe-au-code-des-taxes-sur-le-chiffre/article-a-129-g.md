@@ -10,7 +10,7 @@
 
 b) et c) (b et c abrogés) ;
 
-d) Sont admissibles sous le régime de l'entrepôt de stockage de biens négociés sur un marché à terme international, les marchandises nationales ou communautaires ainsi que les biens importés conformément au 2 du I de l'article 81 du Code des taxes.
+d) Sont admissibles sous le régime de l'entrepôt de stockage de biens négociés sur un marché à terme international, les marchandises nationales ou communautaires ainsi que les biens importés conformément au 2 du I de l'article 81 du Code des taxes ;
 
 e) Sont admissibles sous le régime de l'entrepôt destiné à la fabrication de biens réalisée en commun les marchandises nationales ou communautaires ainsi que les biens importés conformément au 1 du I de l'article 81 du Code des taxes destinés, en exécution d'un contrat international, à faire l'objet d'une ou plusieurs des opérations suivantes : ouvraison, y compris le montage, l'assemblage et l'adaptation à d'autres biens, transformation, réparation, y compris la remise en état et la mise au point, utilisation dans un processus de fabrication en vue de permettre ou de faciliter l'obtention des produits fabriqués, même si les biens disparaissent au cours de l'opération.
 

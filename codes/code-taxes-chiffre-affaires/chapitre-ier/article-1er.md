@@ -22,7 +22,7 @@ Est considéré comme un transfert au sens des dispositions qui précèdent, l'e
 
 - a) à être utilisé temporairement pour les besoins de prestations de services effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit, si ce bien était importé, au bénéfice de l'admission temporaire en exonération totale de droits ;
 
-- b) à faire l'objet de travaux à condition que le bien soit réexpédié ou transporté à Monaco ou en France à destination de cet assujetti ;
+- b) à faire l'objet d'expertises ou de travaux à condition que le bien soit réexpédié ou transporté à Monaco ou en France à destination de cet assujetti ;
 
 - c) à faire l'objet d'une installation ou d'un montage ;
 

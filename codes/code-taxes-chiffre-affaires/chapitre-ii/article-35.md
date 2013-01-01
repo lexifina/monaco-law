@@ -28,7 +28,7 @@
 
 Des ordonnances peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
 
-2. Lorsque les éléments servant à déterminer la base d'imposition sont exprimés dans une monnaie autre que l'euro, le taux de change à appliquer est celui du dernier taux déterminé par référence au cours constaté sur le marché des changes entre banques centrales et publié par la Banque de France, connu au jour de l'exigibilité de la taxe prévue au 2 de l'article 40.
+2. Lorsque les éléments servant à déterminer la base d'imposition sont exprimés dans une monnaie autre que l'euro, le taux de change à appliquer est celui du dernier taux publié par la Banque centrale européenne, au jour de l'exigibilité de la taxe prévue au 2 de l'article 40.
 
 3. En ce qui concerne les opérations mentionnées au I de l'article 5, la taxe sur la valeur ajoutée est assise :
 
