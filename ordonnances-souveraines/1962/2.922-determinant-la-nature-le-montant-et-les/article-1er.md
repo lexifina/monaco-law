@@ -6,4 +6,4 @@ Les aides sociales exceptionnelles prévues par l'article 31 ter de la loi n° 4
 
 - 2° d'une allocation annuelle pour conjoint ;
 
-- 3°d'une allocation complémentaire de retraite uniforme.
+- 3° d'une allocation complémentaire de retraite uniforme.
