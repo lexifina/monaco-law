@@ -1,0 +1,1 @@
+Accord du 4 janvier 2010 entre le Gouvernement de la Principauté de Monaco et le Gouvernement de la République des Seychelles tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôt sur le revenu

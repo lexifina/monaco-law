@@ -1,0 +1,5 @@
+# Article 21
+
+1. Nonobstant les dispositions de l'Article 15, un professeur ou un chercheur qui se rend temporairement sur l'un des États Contractants pour une période qui n'excède pas deux ans depuis la date de son arrivée, seulement dans le but d'enseigner ou de poursuivre une recherche dans une université, lycée, école, toute autre institution éducative de cet État et qui est, qui était immédiatement avant de se rendre dans cet État Contractant, un résident de l'autre État Contractant est exonéré d'impôt dans le premier État mentionné au titre des rémunérations perçues au titre de son enseignement ou sa recherche à condition que cette rémunération soit perçue par le professeur ou le chercheur depuis l'extérieur de cet État ou que la rémunération ne soit pas supportée par une université, lycée, école ou toute autre institution éducative du premier État mentionné.
+
+2. Les dispositions du paragraphe 1 ne sont pas applicables aux revenus tirés de l'activité de recherche si cette recherche n'est pas entreprise dans un intérêt public mais essentiellement dans l'intérêt privé d'une ou de personnes déterminées.
