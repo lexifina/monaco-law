@@ -196,7 +196,7 @@ Cette disposition ne s'applique pas aux engins de la force publique et de la sû
 
 27) Plati (Rue)
 
-a) Un sens unique de circulation est instauré dans sa partie comprise entre le boulevard de Belgique et son intersection avec l'entrée du parking de l'immeuble « Les Mélèzes» et ce, dans ce sens.
+a) Un sens unique de circulation est instauré dans sa partie comprise entre le boulevard de Belgique et son intersection avec l'entrée du parking de l'immeuble « Les Mélèzes » et ce, dans ce sens.
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite dans sa partie comprise entre le boulevard de Belgique et l'avenue Crovetto Frères.
 
