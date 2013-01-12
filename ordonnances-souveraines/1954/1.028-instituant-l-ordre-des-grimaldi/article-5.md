@@ -6,4 +6,4 @@ La couronne est en vermeil pour les grades de grands-croix, grands-officiers, co
 
 Le ruban de l'ordre est blanc, avec liseré rouge.
 
-La plaque de l'ordre consiste en une étoile en argent formée de seize branches et portant au centre Notre Sceau entouré de la légende « Rainier Grimaldi, Prince de Monaco ».
+La plaque de l'ordre consiste en une étoile en argent formée de seize branches et portant au centre Notre Sceau entouré de la légende « Rainier Grimaldi, Prince de Monaco »'.
