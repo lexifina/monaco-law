@@ -4,39 +4,41 @@ Le numéro d'immatriculation est constitué par un groupe de chiffres ou de lett
 
 Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatriculation peut recevoir l'une des formes suivantes :
 
-* Série mise à la disposition de SAS le Prince Souverain pour l'immatriculation de Ses véhicules :
+* Série mise à la disposition de S.A.S. le Prince Souverain pour l'immatriculation de Ses véhicules :
 
-- un groupe de deux lettres suivi d'un groupe de deux chiffres au plus soit MC 01 à MC 99 ;
+- un groupe de deux lettres, suivi d'un groupe de deux chiffres soit MC01 à MC99, MP01 à MP99 et PM01 à PM99 ;
 
-- couleur des caractères : bleu ;
+- couleur des caractères : bleue
 
 - à l'avant et à l'arrière, les armoiries princières remplacent l'écusson rouge et blanc et l'estampille annuelle.
 
 Véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée :
 
-- couleur des caractères : bleu.
+- couleur des caractères : bleue
 
-Pour les motocycles et assimilés y compris les cyclomoteurs :
+* Pour les motocycles et assimilés y compris les cyclomoteurs :
 
-- deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99 et VE01 à VE99) ;
+- deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99, MP01 à MP99, PM01 à PM99 et VE01 à VE99) ;
 
-Les lettres étant choisies dans la liste :
+les lettres étant choisies dans la liste :
 
-A, B, C, D, E, F, G, H, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
+A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
 
-Pour les remorques et les semi-remorques de plus de 750 kg de poids total en charge :
+* Pour les remorques et les semi-remorques de plus de 750 kg de poids total en charge :
 
 - une lettre et un groupe de trois chiffres au plus, soit du n° A001 au n° A999.
 
-- Pour les véhicules automobiles :
+* Pour les véhicules automobiles :
 
-  - un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
+- un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
 
-  - ou une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999 ;
+- ou une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999 ;
 
-  - et la suite dans l'ordre des lettres ci-après : D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, Y,
+les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B,C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, Y,
 
-- la lettre Z étant réservée aux personnes physiques visées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée, justifiant en nom personnel d'un titre de propriété ou d'un bail à loyer concernant un logement en Principauté.
+- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci après : B, C, D, F, G, H, J, K, L, N, P, Q, R, S, T, U, Y ;
+
+la lettre Z étant réservée aux personnes physiques visées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée, justifiant en nom personnel d'un titre de propriété ou d'un bail à loyer concernant un logement en Principauté.
 
 * Plaques destinées aux collectionneurs :
 
