@@ -1,0 +1,11 @@
+# Arrêté ministériel n° 2013-58 du 28 janvier 2013 fixant le taux de l'allocation d'aide publique pour privation totale d'emploi et des plafonds journaliers de ressources pour en bénéficier
+
+Version en vigueur au 2 février 2013.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/01-28-2013-58@2013.02.02/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 28 janvier 2013 |
