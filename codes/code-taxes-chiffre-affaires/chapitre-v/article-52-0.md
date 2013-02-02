@@ -20,7 +20,9 @@ A. - Les opérations d'achat, d'importation, d'acquisition intracommunautaire, d
 
 - 4° les appareillages de recueil pour incontinents et stomisés digestifs ou urinaires, les appareillages d'irrigation pour colostomisés, les sondes d'urétérostomie cutanée pour stomisés urinaires, les solutions d'irrigation vésicale et les sondes vésicales pour incontinents urinaires ;
 
-- 5° les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté ministériel.
+- 5° les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté ministériel ;
+
+- 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
 
 B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération ;
 
@@ -31,3 +33,7 @@ C. - La fourniture de logement et de nourriture dans les maisons de retraite et 
 D. - Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes, qui sont dans l'incapacité de les accomplir, fournies par des entreprises agréées.
 
 E. - La fourniture de repas par les prestataires dans les établissements publics ou privés d'enseignement du premier et du second degrés.
+
+F. - 1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques, concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
+
+2° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans des établissements où il est servi facultativement des consommations pendant le spectacle.

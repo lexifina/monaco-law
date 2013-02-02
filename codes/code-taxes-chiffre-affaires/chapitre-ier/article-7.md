@@ -2,15 +2,15 @@
 
 I. - Par dérogation aux dispositions du I de l'article 6, est réputé ne pas se situer à Monaco le lieu de livraison des biens meubles corporels, autres que les moyens de transports neufs, des alcools, des boissons alcooliques, des huiles minérales et des tabacs manufacturés, expédiés ou transportés sur le territoire d'un État membre de la Communauté économique européenne autre que la France par le vendeur ou pour son compte, lorsque les conditions mentionnées aux 1° et 2° ci-après sont réunies.
 
-1° La livraison doit être effectuée :
+- 1° La livraison doit être effectuée :
 
-- a) soit à destination d'une personne morale non assujettie ou d'un assujetti qui, sur le territoire de cet État membre autre que la France, bénéficie du régime forfaitaire des producteurs agricoles, ou ne réalise que des opérations n'ouvrant pas droit à déduction, et n'a pas opté pour le paiement de la taxe sur ses acquisitions intracommunautaires.
+  - a) soit à destination d'une personne morale non assujettie ou d'un assujetti qui, sur le territoire de cet État membre autre que la France, bénéficie du régime forfaitaire des producteurs agricoles, ou ne réalise que des opérations n'ouvrant pas droit à déduction, et n'a pas opté pour le paiement de la taxe sur ses acquisitions intracommunautaires.
 
-- Au moment de la livraison, le montant des acquisitions intracommunautaires de ces personnes ne doit pas avoir dépassé, pendant l'année civile en cours ou au cours de l'année civile précédente, le seuil en dessous duquel ces acquisitions ne sont pas soumises à la taxe sur la valeur ajoutée dans l'État membre autre que la France dont ces personnes relèvent ;
+  - Au moment de la livraison, le montant des acquisitions intracommunautaires de ces personnes ne doit pas avoir dépassé, pendant l'année civile en cours ou au cours de l'année civile précédente, le seuil en dessous duquel ces acquisitions ne sont pas soumises à la taxe sur la valeur ajoutée dans l'État membre autre que la France dont ces personnes relèvent ;
 
-- b) soit à destination de toute autre personne non assujettie.
+  - b) soit à destination de toute autre personne non assujettie.
 
-2° Le montant des livraisons effectuées par le vendeur à destination du territoire de cet État membre excède, pendant l'année civile en cours au moment de la livraison, ou a excédé pendant l'année civile précédente, le seuil fixé par cet État pour l'application des stipulations de l'article 34 de la directive 2006/112/CE du Conseil du 28 novembre 2006.
+- 2° Le montant des livraisons effectuées par le vendeur à destination du territoire de cet État membre excède, pendant l'année civile en cours au moment de la livraison, ou a excédé pendant l'année civile précédente, le seuil fixé par cet État pour l'application des stipulations de l'article 34 de la directive 2006/112/CE du Conseil du 28 novembre 2006.
 
 Cette condition de seuil ne s'applique pas lorsque le vendeur a opté pour que le lieu des livraisons prévues au présent article se situe sur le territoire de l'État membre autre que la France où est arrivé le bien expédié ou transporté.
 

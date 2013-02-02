@@ -12,21 +12,9 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui conc
 
 - d) les spectacles suivants :
 
-  - théâtres ;
-
-  - théâtres de chansonniers ;
-
-  - cirques ;
-
-  - concerts ;
-
-  - spectacles de variétés, à l'exception de ceux donnés dans des établissements où il est d'usage de consommer pendant les séances à l'exception de ceux qui sont donnés dans des établissements où il est d'usage de consommer pendant les séances. Toutefois, si les consommations sont servies facultativement pendant le spectacle, le taux réduit s'applique au prix du billet donnant exclusivement accès au concert ;
-
   - foires, salons, expositions autorisées ;
 
   - jeux de manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines ;
-
-- d) bis le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans des établissements où il est servi facultativement des consommations pendant le spectacle ;
 
 - d) ter les prestations correspondant au droit d'utilisation des animaux à des fins d'activités physiques et sportives et de toutes installations nécessaires à cet effet ;
 

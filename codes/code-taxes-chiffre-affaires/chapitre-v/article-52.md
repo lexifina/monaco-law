@@ -25,5 +25,3 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui conc
   - b) engrais ;
 
   - c) soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 % de cuivre.
-
-- 6° Livres, y compris leur location. Dans le cas des opérations dont le fait générateur intervient à compter du 1er janvier 2012, cette disposition s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
