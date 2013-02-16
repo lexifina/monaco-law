@@ -12,13 +12,11 @@ Certains actes font l'objet d'un accord préalable du contrôle médical et ne s
 
 La liste de ces actes est établie par la Direction des caisses sociales de Monaco qui en assure la publication.
 
-- 1. Quand l'acte est soumis à cette formalité, le patient est tenu, préalablement à l'exécution de cet acte, d'adresser au contrôle médical une demande d'accord préalable remplie et signée par le médecin qui doit dispenser l'acte.
+- 1. Quand l'acte est soumis à cette formalité, le praticien qui dispense cet acte (médecin, chirurgien-dentiste, sage-femme ou auxiliaire médical) est tenu, préalablement à son exécution, d'adresser au contrôle médical une demande d'accord préalable remplie et signée.
 
-- Lorsque les honoraires sont réglés directement aux médecins par l'organisme d'assurance maladie, la demande d'accord préalable est adressée au contrôle médical par le médecin et non par le patient.
+- 2. Le délai au terme duquel, à défaut de décision expresse, la demande est réputée acceptée ne court qu'à compter de la date de réception de la demande d'accord préalable.
 
-- 2. La date d'envoi de la demande d'accord préalable est attestée par le cachet de la poste.
-
-- La réponse de l'organisme d'assurance maladie doit être adressée au patient ou au médecin, le cas échéant, au plus tard le quinzième jour suivant la date de réception de la demande par le contrôle médical.
+- La réponse de la caisse doit être adressée au malade, ou au praticien le cas échéant, au plus tard le quinzième jour à compter de la date de réception de la demande par le contrôle médical.
 
 - 3. Lorsqu'un accord est exigé, en application du présent article préalablement au remboursement d'un acte ou d'un traitement par l'assurance maladie, l'absence de réponse, pendant plus de quinze jours de l'organisme, sur la demande de prise en charge équivaut à un accord. Dans ce cas, le contrôle médical peut toujours intervenir pour donner un avis à l'organisme d'assurance maladie sur la prise en charge de la suite du traitement ou la poursuite des actes.
 
