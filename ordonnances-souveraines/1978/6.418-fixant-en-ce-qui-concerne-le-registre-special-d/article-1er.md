@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Le registre spécial prévu par l'article 4 de la loi n° 1.008 du 4 juillet 1978, sur la profession d'agent commercial, est constitué par :
 
