@@ -14,10 +14,6 @@ Cette Direction est chargée :
 
 6) de recueillir et de gérer l'ensemble des données topographiques et cadastrales de la Principauté, de délivrer les numéros de voirie et les extraits de la matrice cadastrale, de proposer et de mettre en œuvre une modernisation du cadastre ;
 
-7) de contrôler l'application de la convention et des cahiers des charges de la concession pour l'exploitation du réseau de transport urbain de la Principauté ;
-
-8) de préparer les conventions et cahiers des charges des nouvelles concessions de ce service public ainsi que les modifications à apporter à ceux existants ;
-
-9) de proposer les programmes de renouvellement des matériels et d'investissement concernant l'exploitation de ce service ;
+7) à 9) (abrogés) ;
 
 10) de toutes autres missions qui viendraient à lui être confiées par la voie législative ou réglementaire.
