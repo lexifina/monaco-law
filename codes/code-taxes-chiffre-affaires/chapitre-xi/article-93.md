@@ -10,4 +10,4 @@ La taxe sur la valeur ajoutée est perçue aux taux suivants :
 
   - les prestations de services visées aux B,C, E et F de l'article 52-0 et aux a) à h) de l'article 56
 
-- 3° 8 % en ce qui concerne les ventes de matériels agricoles livrés en Corse et dont la liste est fixée par l'article A-183 de l'annexe au code.
+- 3° 10 % en ce qui concerne les ventes de matériels agricoles livrés en Corse et dont la liste est fixée par l'article A-183 de l'annexe au code.

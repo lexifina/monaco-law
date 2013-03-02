@@ -1,6 +1,6 @@
 # Article 56 bis
 
-1. - La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % sur les travaux d'amélioration, de transformation, d'aménagement et d'entretien portant sur les locaux à usage d'habitation, achevés depuis plus de deux ans, à l'exception de la part correspondant à la fourniture d'équipements ménagers ou mobiliers ou à l'acquisition de gros équipements fournis dans le cadre de travaux d'installation ou de remplacement du système de chauffage, des ascenseurs, de l'installation sanitaire ou de système de climatisation dont la liste est fixée par arrêté ministériel.
+1. - La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % sur les travaux d'amélioration, de transformation, d'aménagement et d'entretien portant sur les locaux à usage d'habitation, achevés depuis plus de deux ans, à l'exception de la part correspondant à la fourniture d'équipements ménagers ou mobiliers ou à l'acquisition de gros équipements fournis dans le cadre de travaux d'installation ou de remplacement du système de chauffage, des ascenseurs, de l'installation sanitaire ou de système de climatisation dont la liste est fixée par arrêté ministériel.
 
 2. Par dérogation au 1, le taux prévu à l'article 51 s'applique aux travaux réalisés sur une période de deux ans au plus:
 

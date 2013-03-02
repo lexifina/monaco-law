@@ -1,6 +1,6 @@
 # Article 52-0
 
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5,5 % en ce qui concerne :
+La taxe sur la valeur ajoutée est perçue au taux réduit de 5 % en ce qui concerne :
 
 A. - Les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur :
 
@@ -8,7 +8,7 @@ A. - Les opérations d'achat, d'importation, d'acquisition intracommunautaire, d
 
   - a) Les produits de confiserie ;
 
-  - b) Les chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit de 5,5 % ;
+  - b) Les chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit de 5 % ;
 
   - c) Les margarines et graisses végétales ;
 

@@ -1,6 +1,6 @@
 # Article 55
 
-La taxe sur la valeur ajoutée est perçue au taux de 7 % :
+La taxe sur la valeur ajoutée est perçue au taux de 10 % :
 
 - 1° Sur les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un État membre de la Communauté européenne autre que la France ;
 

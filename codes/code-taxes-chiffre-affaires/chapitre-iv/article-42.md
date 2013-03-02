@@ -12,7 +12,7 @@ II. - 1. Dans la mesure où les biens et les services sont utilisés pour les be
 
 - a) celle qui figure sur les factures établies conformément aux dispositions de l'article 71 et si la taxe pouvait légalement figurer sur lesdites factures ;
 
-- b) celle qui est perçue à l'importation ;
+- b) celle qui est due à l'importation ;
 
 - c) celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la livraison à soi-même des biens ou des services ;
 
@@ -36,11 +36,11 @@ V. - Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient s
 
 - a) les opérations d'assurances et de réassurances et les opérations de courtages d'assurances et de réassurances lorsqu'elles concernent :
 
-  - des assurés ou réassurés domiciliés ou établis en dehors de la Principauté, de la France et des États membres de la Communauté économique européenne autres que la France ;
+  - des assurés ou réassurés domiciliés ou établis en dehors de la Principauté, de la France et des États membres de l'Union européenne autres que la France ;
 
   - des exportations de biens ;
 
-- b) les services bancaires et financiers exonérés en application des dispositions de l'article 25-1°- a) à e) lorsqu'ils sont rendus à des personnes domiciliées ou établies en dehors de la Principauté, de la France et des États membres de la Communauté économique européenne autres que la France ou se rapportent à des exportations de biens ;
+- b) les services bancaires et financiers exonérés en application des dispositions de l'article 25-1°- a) à e) lorsqu'ils sont rendus à des personnes domiciliées ou établies en dehors de la Principauté, de la France et des États membres de l'Union européenne autres que la France ou se rapportent à des exportations de biens ;
 
 - c) les opérations exonérées en application des dispositions des articles 29, 30, du I de l'article 31, de l'article 33 et du 1° du II et du 2° du III de l'article 81 ;
 

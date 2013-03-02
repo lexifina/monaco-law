@@ -1,10 +1,10 @@
 # Article 56
 
-La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui concerne :
+La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui concerne :
 
 - a) les prestations relatives :
 
-  - à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement ;
+  - à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement;
 
 - b) les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont fixées par l'article A-132 de l'annexe au code ;
 
@@ -15,8 +15,6 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui conc
   - foires, salons, expositions autorisées ;
 
   - jeux de manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines ;
-
-- d) ter les prestations correspondant au droit d'utilisation des animaux à des fins d'activités physiques et sportives et de toutes installations nécessaires à cet effet ;
 
 - e) les droits d'entrée pour la visite des parcs zoologiques et botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 
@@ -32,7 +30,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui conc
 
 - On entend par réseau de communications électroniques toute installation ou tout ensemble d'installations de transport ou de diffusion ainsi que, le cas échéant, les autres moyens assurant l'acheminement de communications électroniques, notamment ceux de commutation et de routage.
 
-- Néanmoins, lorsque les droits de distribution des services de télévision ont été acquis en tout ou partie contre rémunération par le fournisseur des services, le taux réduit de 7 % est applicable à la part de l'abonnement correspondante. Cette part est égale, en fonction du choix opéré par le distributeur des services, soit aux sommes payées, par usager, pour l'acquisition des droits susmentionnés, soit au prix auquel les services correspondant aux mêmes droits sont distribués effectivement par ce distributeur dans une offre de services de télévision distincte de l'accès à un réseau de communications électroniques.
+- Néanmoins, lorsque les droits de distribution des services de télévision ont été acquis en tout ou partie contre rémunération par le fournisseur des services, le taux réduit de 10 % est applicable à la part de l'abonnement correspondante. Cette part est égale, en fonction du choix opéré par le distributeur des services, soit aux sommes payées, par usager, pour l'acquisition des droits susmentionnés, soit au prix auquel les services correspondant aux mêmes droits sont distribués effectivement par ce distributeur dans une offre de services de télévision distincte de l'accès à un réseau de communications électroniques.
 
 - i) les cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres.
 
@@ -50,4 +48,4 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui conc
 
 - o) les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51 ;
 
-- p) Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51.
+- p) Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51

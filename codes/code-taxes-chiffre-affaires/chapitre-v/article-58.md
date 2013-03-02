@@ -8,4 +8,4 @@ Les dispositions ne s'appliquent pas aux recettes provenant :
 
 - a) Des représentations théâtrales à caractère pornographique ;
 
-- b) De la vente de billets imposée au taux réduit de 5,5 % dans les conditions prévues au 2° du F de l'article 52-0.
+- b) De la vente de billets imposée au taux réduit de 5 % dans les conditions prévues au 2° du F de l'article 52-0.

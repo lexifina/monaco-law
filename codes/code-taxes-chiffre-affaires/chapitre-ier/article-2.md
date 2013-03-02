@@ -8,7 +8,7 @@ I. - 1° Sont également soumises à la taxe sur la valeur ajoutée les acquisit
 
 - b) par un assujetti qui ne réalise que des opérations n'ouvrant pas droit à déduction.
 
-Ces dispositions ne sont applicables que lorsque le montant des acquisitions réalisées par les personnes mentionnées ci-dessus n'a pas excédé, au cours de l'année civile précédente, ou n'excède pas, pendant l'année civile en cours au moment de l'acquisition, le seuil de 10 000 €.
+Ces dispositions ne sont applicables que lorsque le montant des acquisitions réalisées par les personnes mentionnées ci-dessus n'a pas excédé, au cours de l'année civile précédente, ou n'excède pas, pendant l'année civile en cours au moment de l'acquisition, le seuil de 10 000 euros.
 
 Ce montant est égal à la somme, hors taxe sur la valeur ajoutée, des acquisitions de biens, autres que des moyens de transport neufs, les alcools, les boissons alcooliques, les huiles minérales et les tabacs manufacturés, ayant donné lieu à une livraison de biens située dans un État membre de la Communauté économique européenne, autre que la France, en application des dispositions de la législation de cet État pour la mise en œuvre des articles 31 à 39 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ;
 

@@ -1,12 +1,12 @@
 # Article 52
 
-La taxe sur la valeur ajoutée est perçue au taux réduit de 7 % en ce qui concerne les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur les produits suivants :
+La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui concerne les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur les produits suivants :
 
 - 1° (1° abrogé) ;
 
 - 2° (2° abrogé) ;
 
-- 3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation ;
+- 3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation. Ces dispositions ne s'appliquent pas aux opérations relatives aux équidés lorsque ceux-ci ne sont normalement pas destinés à être utilisés dans la préparation des denrées alimentaires ou dans la production agricole ;
 
 - 3° bis Produits suivants à l'usage domestique :
 
