@@ -40,6 +40,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle 2 (C 152)
 
+9°-1Agent technique Bâtiment
+
+- échelle 2 - (C 152)
+
 10° Appariteur
 
 - échelle 2 (C 152)
@@ -79,6 +83,10 @@ I. Grades ou emplois communs et particuliers
 17° Chauffeur livreur magasinier
 
 - échelle 3 (C 142)
+
+17°-1 Chauffeur
+
+- échelle 2 - (C 152)
 
 18° Chef Cuisinier
 
@@ -201,6 +209,10 @@ I. Grades ou emplois communs et particuliers
 48° Menuisier ébéniste
 
 - échelle 4 (C 132)
+
+48°-1 Ouvrier
+
+- échelle 1 - (C 154)
 
 49° Ouvrier d'entretien
 

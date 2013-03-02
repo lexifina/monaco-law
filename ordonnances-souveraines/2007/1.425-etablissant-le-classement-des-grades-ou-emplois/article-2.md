@@ -72,6 +72,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux (B 040)
 
+18°-1 Chef de bassin
+
+- échelle des Attachés principaux - (B 040)
+
 19° Chef de bureau
 
 - échelle des Chefs de bureau et assimilés (B 020)
@@ -92,7 +96,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux hautement qualifiés (B 030)
 
-24°Contrôleur
+24° Contrôleur
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
@@ -116,7 +120,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux (B 040)
 
-30°Inspecteur-Chef Adjoint, Lieutenant de la Police Municipale
+30° Inspecteur-Chef Adjoint, Lieutenant de la Police Municipale
 
 - échelle des Chefs de bureau et assimilés (B 020)
 

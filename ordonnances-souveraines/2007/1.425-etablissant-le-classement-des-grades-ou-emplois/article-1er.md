@@ -72,6 +72,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Rédacteurs principaux (A 110)
 
+16°-1 Coordinateur
+
+- échelle des Rédacteurs (A 130)
+
 17° Directeur du Jardin Exotique
 
 - échelle des Chefs de service - 3ème groupe (A 070)
@@ -174,6 +178,14 @@ II. Grades ou emplois spécifiques à l'enseignement
 
 - échelle des Certifiés et PLP de Classe Normale (A 320)
 
+11°-1 Professeur chargé des études
+
+- échelle des Certifiés et PLP de Classe Normale (A 320)
+
+11°-2 Professeur - Coordinateur Jazz
+
+- échelle des Certifiés et PLP de Classe Normale (A 320)
+
 12° Adjoint d'enseignement
 
 - échelle des Adjoints d'enseignement (A 370)
@@ -182,9 +194,7 @@ II. Grades ou emplois spécifiques à l'enseignement
 
 - échelle des Chargés d'enseignement (A 400)
 
-14° Professeur de langues et civilisations - École Supérieure d'Arts Plastiques
-
-- échelle des Certifiés et PLP de Classe Normale (A 320)
+14° (14° abrogé)
 
 15° Adjoint d'enseignement de langues et civilisations - École Supérieure d'Arts Plastiques
 
