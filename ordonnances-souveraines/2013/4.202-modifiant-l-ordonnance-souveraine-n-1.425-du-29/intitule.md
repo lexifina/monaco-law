@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 4.202 du 20 février 2013 modifiant l'ordonnance souveraine n° 1.425 du 29 novembre 2007 établissant le classement des grades ou emplois de l'Administration Communale dans les échelles indiciaires de traitement, modifiée
