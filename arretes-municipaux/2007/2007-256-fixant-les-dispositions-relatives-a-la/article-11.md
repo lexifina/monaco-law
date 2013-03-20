@@ -30,13 +30,15 @@ Cette disposition ne s'applique pas aux autobus et aux véhicules d'urgences et 
 
 a) Un sens unique de circulation est instauré de la rue de la Lüjerneta à l'avenue de Fontvieille et ce, dans ce sens.
 
-b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
+b) Un sens unique de circulation est instauré entre son n° 1 et l'avenue de Fontvieille, et ce, dans ce sens.
+
+c) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
 5) Industrie (Rue de l')
 
 a) Un sens unique de circulation est instauré du numéro 3 à la frontière et ce, dans ce sens.
 
-b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée dans sa partie comprise entre l'avenue Prince Albert II et le numéro 3.
+b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
 6) Lüjerneta (Rue de la)
 
