@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2012-160 du 29 mars 2012 relatif aux traitements automatisés d'informations nominatives mis en œuvre par les personnes morales de droit public, autorités publiques, organismes de droit privé investis d'une mission d'intérêt général ou concessionnaires d'un service public
