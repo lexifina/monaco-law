@@ -1,1 +1,0 @@
-Arrêté ministériel n° 70-415 du 7 décembre 1970 déterminant la date à compter de laquelle l'utilisation du numéro d'identification attribué aux établissements industriels, artisanaux, commerciaux et autres deviendra obligatoire
