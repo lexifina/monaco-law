@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2013-156 du 19 mars 2013 modifiant l'arrêté ministériel n° 66-055 du 9 mars 1966 portant attribution d'un numéro d'identification aux établissements industriels, artisanaux, commerciaux et autres et rendant obligatoire l'utilisation de ce numéro d'identification pour les classifications et les statistiques officielles
