@@ -1,8 +1,8 @@
 # Arrêté du Directeur des Services Judiciaires n° 2012-21 du 28 septembre 2012 relatif aux modalités d'intervention adaptées à la maison d'arrêt
 
-Version en vigueur au 6 octobre 2012.
+Version en vigueur au 6 avril 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-directorial/2012/09-28-2012-21@2012.10.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-directorial/2012/09-28-2012-21@2013.04.06/
 
 | | |
 | --- | --- |
