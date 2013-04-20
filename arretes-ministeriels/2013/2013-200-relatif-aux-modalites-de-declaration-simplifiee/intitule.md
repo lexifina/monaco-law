@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2013-200 du 11 avril 2013 relatif aux modalités de déclaration simplifiée de conformité des traitements automatisés d'informations nominatives relatifs à la gestion des dossiers patients des professionnels de santé exerçant à titre libéral
