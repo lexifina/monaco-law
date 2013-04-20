@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2013-209 du 12 avril 2013 fixant les modalités d'application de l'article 7 3°) de l'ordonnance souveraine n° 1.284 du 10 septembre 2007 fixant les connaissances minimales requises de certaines personnes physiques placées sous l'autorité d'une société ou d'un établissement agréé
