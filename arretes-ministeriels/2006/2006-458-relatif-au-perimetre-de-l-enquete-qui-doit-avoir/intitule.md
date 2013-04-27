@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2006-458 du 16 août 2006 relatif au périmètre de l'enquête qui doit avoir lieu en Principauté pour permettre la détermination d'un produit intérieur brut (PIB) et d'un revenu national brut (RNB)
