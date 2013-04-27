@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2006-220 du 28 avril 2006 relatif à la détermination d'un Produit Intérieur Brut (PIB) et un Revenu National Brut (RNB)
 
-Version en vigueur au 26 août 2006.
+Version en vigueur au 27 avril 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2006/04-28-2006-220@2006.08.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2006/04-28-2006-220@2013.04.27/
 
 | | |
 | --- | --- |

@@ -1,3 +1,3 @@
 # Article 1er
 
-À des fins statistiques, il est procédé chaque année, par la Direction de l'expansion économique, à une enquête auprès des acteurs économiques de la Principauté afin de pouvoir disposer d'informations nécessaires à la détermination d'un Produit Intérieur Brut (PIB) et d'un Revenu National Brut (RNB).
+L'Institut Monégasque de la Statistique et des Études Économiques procède, chaque année, à une enquête statistique obligatoire auprès des personnes visées à l'article 2, afin de déterminer le Produit Intérieur Brut (PIB) et le Revenu National Brut (RNB), permettant de mesurer l'activité économique de la Principauté.

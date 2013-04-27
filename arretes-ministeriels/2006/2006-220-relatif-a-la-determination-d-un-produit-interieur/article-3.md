@@ -1,5 +1,7 @@
 # Article 3
 
-Les opérations d'enquête sont effectuées à l'aide d'un questionnaire délivré aux personnes visées à l'article précédent qui sont tenues de le remplir avec exactitude et dans les délais qu'il fixe.
+L'enquête est effectuée à l'aide d'un questionnaire adressé, par tous moyens de communication, y compris électroniques, aux personnes visées à l'article 2.
 
-Sont requises, au titre dudit questionnaire, des informations économiques et comptables permettant de déterminer le niveau de production des agents économiques résidents de la Principauté, et notamment l'excédent brut d'exploitation tel que défini dans le Système Européen de Comptes (SEC 95) institué par le règlement CE n° 2223/96 du 25 juin 1996.
+Au titre dudit questionnaire, sont requises des informations économiques et comptables, la surface des établissements et le nombre de salariés, en vue de déterminer le niveau de production des agents économiques de la Principauté par référence au Système européen de Comptes en vigueur, auquel l'I.M.S.E.E. entend se référer.
+
+Le questionnaire comporte, en outre, la mention du caractère obligatoire de l'enquête ainsi que le délai dans lequel il doit être complété et retourné.
