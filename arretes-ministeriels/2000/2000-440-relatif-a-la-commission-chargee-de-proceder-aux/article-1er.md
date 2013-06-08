@@ -1,17 +1,19 @@
 # Article 1er
 
-Sont désignés pour faire partie de la commission chargée de procéder aux opérations de recensement, prévue par l'article 2 de l'ordonnance souveraine, susvisée :
+Sont désignés pour faire partie de la commission chargée de procéder aux opérations de recensement, prévue à l'article 2 de l'ordonnance du 16 décembre 1862 sur le recensement, modifiée :
 
-- Le Maire, président ;
+- - le Maire, Président ;
 
-- Un représentant du Ministre d'État ;
+- - un représentant du Ministre d'État ;
 
-- Un représentant du Département des finances et de l'économie ;
+- - un représentant du Département des Finances et de l'Économie ;
 
-- Un représentant du Département de l'intérieur ;
+- - un représentant du Département de l'Intérieur ;
 
-- Un représentant du Département des travaux publics et des affaires sociales ;
+- - un représentant du Département des Affaires Sociales et de la Santé ;
 
-- Le Directeur de l'expansion économique ;
+- - un représentant du Département de l'Équipement, de l'Environnement et de l'Urbanisme ;
 
-- Le Chef du service informatique.
+- - le Directeur de l'Institut Monégasque de la Statistique et des Études Économiques ;
+
+- - le Directeur de la Direction Informatique.
