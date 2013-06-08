@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 16 décembre 1862 sur le recensement
 
-Version en vigueur au 1er mai 2010.
+Version en vigueur au 8 juin 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1862/12-16-L000838@2010.05.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1862/12-16-L000838@2013.06.08/
 
 | | |
 | --- | --- |
