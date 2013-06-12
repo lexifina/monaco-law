@@ -6,7 +6,7 @@
 
 - a) toutes les espèces qui, bien que n'étant pas nécessairement menacées actuellement d'extinction, pourraient le devenir si le commerce des spécimens de ces espèces n'était pas soumis à une réglementation stricte ayant pour but d'éviter une exploitation incompatible avec leur survie ;
 
-- b) certaines espèces qui doivent faire l'objet d'une réglementation, afin de rendre efficace le contrôle du commerce des spécimens d'espèces inscrites à l'annexe II en application de l'alinéa a).
+- b) certaines espèces qui doivent faire l'objet d'une réglementation, afin de rendre efficace le contrôle du commerce des spécimens d'espèces inscrites à l'annexe II en application de l'alinéa a) .
 
 3. L'annexe III comprend toutes les espèces qu'une partie déclare soumises, dans les limites de sa compétence, à une réglementation ayant pour but d'empêcher ou de restreindre leur exploitation, et nécessitant la coopération des autres parties pour le contrôle du commerce.
 

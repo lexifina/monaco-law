@@ -22,7 +22,7 @@
 
 - f) Si aucune objection à la proposition d'amendement n'est reçue par le secrétariat dans un délai de 30 jours à partir de la date à laquelle il transmet les réponses et recommandations reçues en vertu des dispositions de l'alinéa e) du présent paragraphe, l'amendement entre en vigueur 90 jours plus tard pour toutes les parties sauf pour celles qui font une réserve conformément aux dispositions du paragraphe 3 du présent article.
 
-- g) Si une objection d'une partie est reçue par le secrétariat, la proposition d'amendement doit être soumise à un vote par correspondance conformément aux dispositions des alinéas h), i) et j) du présent paragraphe.
+- g) Si une objection d'une partie est reçue par le secrétariat, la proposition d'amendement doit être soumise à un vote par correspondance conformément aux dispositions des alinéas h) , i) et j) du présent paragraphe.
 
 - h) Le secrétariat notifie aux parties qu'une objection' a été reçue.
 
