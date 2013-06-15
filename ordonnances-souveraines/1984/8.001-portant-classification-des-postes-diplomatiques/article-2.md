@@ -142,6 +142,8 @@ Les postes consulaires sont les suivants :
 
 - République de Maurice : Port Louis ;
 
+- République Slovaque : Bratislava ;
+
 - République Tchèque : Prague ;
 
 - Roumanie : Bucarest ;
