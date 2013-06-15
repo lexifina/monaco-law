@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2013-283 du 10 juin 2013 portant application des dispositions des articles 93-3 et 93-6 de l'ordonnance souveraine n° 7.464 du 28 juillet 1982 portant statut du personnel de service du Centre Hospitalier Princesse Grace, modifiée
