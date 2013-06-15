@@ -1,0 +1,3 @@
+# Article 13
+
+Les principes d'autonomie locale contenus dans la présente Charte s'appliquent à toutes les catégories de collectivités locales existant sur le territoire de la Partie. Toutefois, chaque Partie peut, au moment du dépôt de son instrument de ratification, d'acceptation ou d'approbation, désigner les catégories de collectivités locales ou régionales auxquelles elle entend limiter le champ d'application ou qu'elle entend exclure du champ d'application de la présente Charte. Elle peut également inclure d'autres catégories de collectivités locales ou régionales dans le champ d'application de la Charte par voie de notification ultérieure au Secrétaire Général du Conseil de l'Europe.
