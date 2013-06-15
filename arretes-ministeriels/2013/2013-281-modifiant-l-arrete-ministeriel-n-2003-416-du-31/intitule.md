@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2013-281 du 10 juin 2013 modifiant l'arrêté ministériel n° 2003-416 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants
