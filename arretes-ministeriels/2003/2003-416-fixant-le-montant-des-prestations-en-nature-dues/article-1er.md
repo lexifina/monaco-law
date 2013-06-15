@@ -66,9 +66,13 @@ MPF | Majoration consultation famille | 3 euro(s)
 
 MAF | Majoration consultation annuelle famille | 3 euro(s)
 
+MAU | Majoration d'Acte Unique | 0,45 euro(s)
+
+MCI | Majoration de Coordination Infirmière | 1,68 euro(s)
+
 AUXILIAIRES MÉDICAUX : |
 
-* Infirmiers | |
+* Infirmiers |
 
 AMI | Actes pratiqués par l'infirmier | 0,83
 
@@ -278,16 +282,16 @@ Pour ces catégories, et lorsqu'un accord exceptionnel a été délivré, la val
 
 Des indemnités de délivrance sont facturables aux patients lorsque la dispensation de produits pharmaceutiques intervient à volets fermés. Elles sont prises en charge intégralement au vu de leur facturation par le pharmacien de garde et dans la limite des tarifs suivants, par ordonnance :
 
-- indemnité de nuit : | 6,00 euro(s) ;
+- indemnité de nuit : | 8,00 euro(s) ;
 
-- indemnité de dimanche ou jour férié | 4,00 euro(s) ;
+- indemnité de dimanche ou jour férié | 5,00 euro(s) ;
 
 - indemnité jours ouvrables | 2,00 euro(s).
 
-Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, pour chaque tour de garde complet assuré :
+Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, à compter du 1er janvier 2013 et pour chaque tour de garde complet assuré :
 
-- la nuit : à 75 euro(s) ;
+- la nuit : | à 150,00 euro(s) ;
 
-- la journée du dimanche ou d'un jour férié à 75 euro(s).
+- la journée du dimanche ou d'un jour férié | à 150,00 euro(s) ;
 
-Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le directeur de la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003
+Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le Directeur de la Caisse de Compensation des Services Sociaux, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
