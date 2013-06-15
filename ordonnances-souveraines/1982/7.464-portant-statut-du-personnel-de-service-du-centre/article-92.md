@@ -1,6 +1,6 @@
 # Article 92
 
-Toute demande de pension doit être présentée dans un délai de deux ans à compter :
+Toute demande de pension de retraite de base ou prévue au précédent article doit être présentée dans un délai de deux ans à compter :
 
 - pour le titulaire, du jour où il a été admis à faire valoir ses droits à la retraite ou radié des cadres,
 
