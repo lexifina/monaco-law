@@ -1,8 +1,8 @@
 # Loi n° 444 du 16 mai 1946 étendant aux maladies professionnelles la législation sur les accidents du travail
 
-Version en vigueur au 1er mai 2004.
+Version en vigueur au 15 juin 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1946/05-16-444@2004.05.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1946/05-16-444@2013.06.15/
 
 | | |
 | --- | --- |
