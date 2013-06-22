@@ -44,6 +44,10 @@ Sauf justification, les dispositions de l'alinéa qui précède sont applicables
 
 - 5 400 euro(s) pour les autres véhicules,
 
-Ainsi qu'aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien. La fraction de l'amortissement des véhicules de tourisme ainsi exclue des charges déductibles est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure de ces véhicules.
+- Ainsi qu'aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien. La fraction de l'amortissement des véhicules de tourisme ainsi exclue des charges déductibles est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure de ces véhicules.
 
 4. - Les sommes versées ou les avantages octroyés, directement ou indirectement, à quiconque, pour lui-même ou pour autrui, pour obtenir d'une personne physique ou morale qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction ou facilité par sa fonction ou pour avoir accompli ou s'être abstenu d'accomplir un acte de sa fonction ou facilité par sa fonction, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
+
+5. - Pour la détermination des résultats des exercices clos à compter du 31 décembre 2012, les charges financières nettes afférentes aux sommes laissées ou mises à la disposition d'une entreprise sont réintégrées au résultat pour une fraction égale à 15 % de leur montant lorsque leur montant total est supérieur à trois millions d'euros. Pour les exercices ouverts à compter du 1er janvier 2014, le taux de 15 % est porté à 25 %.
+
+Le montant des charges financières nettes est entendu comme le total des charges financières venant rémunérer des sommes laissées ou mises à disposition de l'entreprise, diminué du total des produits financiers venant rémunérer des sommes laissées ou mises à disposition par l'entreprise.
