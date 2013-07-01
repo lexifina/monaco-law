@@ -42,9 +42,9 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - 6° Lorsqu'elles sont matériellement exécutées à Monaco ou en France au profit d'une personne non assujettie :
 
-- a) Les activités accessoires au transport, telles que le chargement, le déchargement, la manutention et les activités similaires ;
+  - a) Les activités accessoires au transport, telles que le chargement, le déchargement, la manutention et les activités similaires ;
 
-- b) Les expertises ou les travaux portant sur des biens meubles corporels ;
+  - b) Les expertises ou les travaux portant sur des biens meubles corporels ;
 
 - 7° Les prestations de services fournies à une personne non assujettie par un intermédiaire agissant au nom et pour le compte d'autrui lorsque le lieu de l'opération principale est situé à Monaco ou en France ;
 

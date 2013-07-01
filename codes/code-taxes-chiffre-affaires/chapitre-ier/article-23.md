@@ -52,7 +52,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 8° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs de combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
 
-- 5 - 1° Les livraisons de terrains qui ne sont pas des terrains à bâtir au sens du 1° du 2 du I de l'article 5 ;
+5 - 1° Les livraisons de terrains qui ne sont pas des terrains à bâtir au sens du 1° du 2 du I de l'article 5 ;
 
 2° Les livraisons d'immeubles achevés depuis plus de cinq ans
 
@@ -80,7 +80,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - c) les recettes de six manifestations de bienfaisance ou de soutien organisées dans l'année à leur profit exclusif par les organismes désignés aux a) et b) ainsi que par les organismes permanents à caractère social de la commune et des entreprises ;
 
-- d) le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
+- d)le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
 
   - l'organisme doit être géré et administré à titre bénévole par des personne n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation ;
 

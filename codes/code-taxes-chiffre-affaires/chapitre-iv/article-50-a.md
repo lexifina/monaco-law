@@ -30,7 +30,7 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - b) Les importations de biens en provenance des départements français de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion et les importations de biens en provenance d'une partie du territoire douanier de la Communauté européenne exclue de son territoire fiscal qui rempliraient les conditions pour bénéficier du régime d'admission temporaire en exonération totale s'il s'agissait de biens en provenance de pays tiers, ainsi que les livraisons de ces biens, avec maintien du même régime ou situation ;
 
-- c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
+c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
 
 II. - 1. La sortie du bien de l'un des régimes mentionnés au I met fin à la suspension du paiement de la taxe sur la valeur ajoutée.
 
