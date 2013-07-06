@@ -6,7 +6,7 @@ Vu la loi n° 125 du 15 janvier 1930 constituant le domaine public et privé de 
 
 Vu la loi n° 478 du 17 juillet 1948, concernant les tarifs appliqués par le service de la marine ;
 
-Vu l'ordonnance du 2 juillet 1908, sur le service de la marine et la police maritime modifiée par l'ordonnance du 8 mars 1917 et par Nos ordonnances n° 2.008 du 1er juin 1959 et n° 2318 du 16 août 1960 ;
+Vu l'ordonnance du 2 juillet 1908, sur le service de la marine et la police maritime modifiée par l'ordonnance du 8 mars 1917 et par Nos ordonnances n° 2.008 du 1er juin 1959 et n° 2.318 du 16 août 1960 ;
 
 Vu l'ordonnance du 8 mars 1917 relative à la perception de taxe sur les opérations de pesage du pont à bascule établi au port, modifiée par l'ordonnance n° 1.136 du 1er février 1931 ;
 
