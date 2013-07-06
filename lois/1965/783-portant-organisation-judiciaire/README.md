@@ -1,8 +1,8 @@
 # Loi n° 783 du 15 juillet 1965 portant organisation judiciaire
 
-Version en vigueur au 13 octobre 2012.
+Version en vigueur au 6 juillet 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1965/07-15-783@2012.10.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1965/07-15-783@2013.07.06/
 
 | | |
 | --- | --- |
