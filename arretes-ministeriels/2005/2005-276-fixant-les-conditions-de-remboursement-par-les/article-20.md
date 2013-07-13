@@ -1,6 +1,6 @@
 # Article 20
 
-A) Quand des actes techniques sont effectués dans le même temps qu'une consultation ou une visite mentionnées à la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux, les honoraires de celle-ci ne se cumulent pas avec ceux des actes techniques.
+A) Quand des actes techniques sont effectués dans le même temps qu'une consultation ou une visite mentionnées à la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux/ les honoraires de celle-ci ne se cumulent pas avec ceux des actes techniques. Par extension, les majorations prévues à la NGAP ne peuvent pas être appliquées à des actes techniques figurant à la CCAM et les modificateurs prévus au chapitre 19.03 de la CCAM ne peuvent pas être appliqués aux actes relevant de la NGAP.
 
 Par dérogation à cette disposition, sont autorisés :
 
@@ -105,3 +105,11 @@ Le code 4 est utilisé pour des actes spécifiques cités aux paragraphes 2 e ) 
 Le code 5 signifie que les actes sont tarifés à 100 % ; ce code est utilisé dans le cas décrit au paragraphe 2 h ) ci-dessus.
 
 Quand un acte de la classification commune des actes médicaux définie à la Section II est associé à un acte de la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages femmes et des auxiliaires médicaux, aucun code d'association ne doit être noté.
+
+C) Lorsqu'un gynécologue obstétricien ou un médecin généraliste, titulaire d'un diplôme inter-universitaire (DIU) d'échographie obstétricale assurant le suivi médical de grossesse, réalise un acte d'échographie biométrique et morphologique de la grossesse (JQQM010, JQQM015, JQQM016, JQQM017, JQQM018 ou JQQM019) et une consultation de suivi de la grossesse, il peut facturer les honoraires de ces actes d'échographie (dont les durées respectives établies par les experts lors de la hiérarchisation des actes ont été fixées à respectivement 23-38-33-56-40-60 mn) avec les honoraires correspondant à la consultation de suivi de la grossesse.
+
+Cette consultation doit comprendre les éléments suivants : examen clinique général et gynécologique, recherche des facteurs de risque, adaptation des traitements en cours, information générale sur la grossesse et l'accouchement, repérage des situations de vulnérabilité, prescription des examens de dépistage, orientation en fonction des situations à risque.
+
+Il est rappelé que ces actes d'échographie biométrique et morphologique de la grossesse ne peuvent être facturés qu'une seule fois par trimestre.
+
+Chacun de ces deux actes (acte d'échographie et consultation) est facturé à taux plein.
