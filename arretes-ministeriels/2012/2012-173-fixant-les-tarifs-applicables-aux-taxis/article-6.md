@@ -1,8 +1,8 @@
 # Article 6
 
-À titre de mesure accessoire, toute course d'un montant égal ou supérieur à 15 euro(s) (T.V.A. comprise) fera obligatoirement l'objet, avant le paiement du prix, de la délivrance d'une note.
+À titre de mesure accessoire, toute course d'un montant égal ou supérieur à 25 euro(s) (T.V.A. comprise) fera obligatoirement l'objet, avant le paiement du prix, de la délivrance d'une note.
 
-Pour les courses dont le montant n'atteint pas 15 euro(s) (T.V.A. comprise), la délivrance de la note est facultative mais celle-ci doit être immédiatement remise au client s'il la demande expressément.
+Pour les courses dont le montant n'atteint pas 25 euro(s) (T.V.A. comprise), la délivrance de la note est facultative mais celle-ci doit être immédiatement remise au client s'il la demande expressément.
 
 La note doit comporter, d'une manière très lisible, les indications suivantes :
 
