@@ -18,8 +18,6 @@ Les dispositions du protocole d'accord du 8 mars 1968, annexé au présent arrê
 
 - Foyer Sainte Dévote ;
 
-- Fondation Prince Pierre de Monaco ;
-
 - Musée national ;
 
 - Centre Scientifique ;
