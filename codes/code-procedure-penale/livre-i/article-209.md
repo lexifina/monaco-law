@@ -5,3 +5,5 @@ Si une nullité a été commise dans l'exécution d'une commission rogatoire, le
 S'il apparaît au juge d'instruction qu'un acte de l'information encourt la nullité, il saisit la chambre du conseil aux fins d'annulation, après avoir pris l'avis du procureur général et averti l'inculpé ainsi que la partie civile.
 
 Lorsque le procureur général estime qu'une nullité a été commise, il requiert du juge d'instruction communication de la procédure pour être transmise à la chambre du conseil et présente requête aux mêmes fins d'annulation, après avoir avisé lesdites parties.
+
+La cour d'appel peut, au cours de l'information, être saisie aux fins d'annulation d'un acte ou d'une pièce de la procédure par requête motivée du juge d'instruction, du procureur général, de l'inculpé ou de la partie civile.

@@ -1,5 +1,5 @@
 # Article 60-2
 
-Toute personne contre qui il existe une ou plusieurs raisons plausibles de soupçonner qu'elle a commis ou tenté de commettre un crime ou un délit peut, pour les nécessités des investigations, être gardée à vue par un officier de police judiciaire. Elle peut être soumise à une fouille à corps, sous réserve des dispositions de l'article suivant en ce qui concerne les investigations corporelles internes.
+La garde à vue est conduite conformément aux dispositions du présent titre sous le contrôle du procureur général ou du juge d'instruction lorsqu'une information est ouverte.
 
-La garde à vue emporte, pendant toute sa durée, le maintien de cette personne à la disposition de l'officier de police judiciaire.
+Le procureur général ou le juge d'instruction informe dans les meilleurs délais et par tous moyens le juge des libertés de la garde à vue. Le juge des libertés est un magistrat du siège désigné par le président du tribunal de première instance qui peut établir un tableau de roulement à cet effet.

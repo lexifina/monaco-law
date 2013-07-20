@@ -1,15 +1,11 @@
 # Article 60-4
 
-La personne gardée à vue ne peut être retenue plus de vingt-quatre heures.
+La garde à vue doit être exécutée dans des conditions assurant le respect de la dignité de la personne.
 
-Toutefois, cette mesure peut être prolongée pour un nouveau délai de vingt-quatre heures.
+L'officier de police judiciaire doit veiller à la sécurité de la personne gardée à vue, notamment en s'assurant qu'elle ne détient aucun objet dangereux pour elle-même ou pour autrui.
 
-Dans ce cas, le procureur général ou le juge d'instruction doit requérir l'approbation de la prolongation de la garde à vue par le juge des libertés, en joignant à sa demande tous documents utiles.
+Lorsqu'il est indispensable, à titre de mesure de sécurité ou pour les nécessités de l'enquête, de procéder à une fouille à corps intégrale d'une personne gardée à vue, celle-ci doit être décidée par un officier de police judiciaire et réalisée par un officier de police judiciaire de même sexe ou, en cas d'impossibilité, par un agent de police judiciaire de même sexe que la personne faisant l'objet de la fouille.
 
-Le juge des libertés est un magistrat du siège désigné par le Président du tribunal de première instance, qui peut établir un tableau de roulement à cet effet.
+Lorsqu'il est indispensable, à titre de mesure de sécurité ou pour les nécessités de l'enquête, de procéder à des investigations corporelles internes sur une personne gardée à vue, celles-ci ne peuvent être décidées que par le procureur général ou le juge d'instruction désignant, pour ce faire, un médecin seul habilité à être requis à cet effet. Cette mesure doit être proportionnée au but poursuivi. Tout élément de preuve recueilli irrégulièrement ne pourra constituer l'unique fondement à une condamnation.
 
-Il statue par ordonnance motivée immédiatement exécutoire.
-
-Sa décision doit être notifiée à la personne gardée à vue avant l'expiration des premières vingt-quatre heures du placement en garde à vue.
-
-Une nouvelle prolongation de quarante-huit heures peut être autorisée dans les mêmes conditions, lorsque les investigations concernent, soit le blanchiment du produit d'une infraction, prévu et réprimé par les articles 218 à 218-3 et 219 du Code pénal, soit une infraction à la législation sur les stupéfiants, soit les infractions contre la sûreté de l'État prévues et réprimées par les articles 50 à 71 du Code pénal, ainsi que toute infraction à laquelle la loi déclare applicable le présent alinéa.
+La personne gardée à vue est en outre tenue de se soumettre à toutes formalités d'identification et de vérification d'identité utiles.
