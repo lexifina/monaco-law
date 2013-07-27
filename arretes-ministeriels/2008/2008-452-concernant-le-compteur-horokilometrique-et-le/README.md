@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2008-452 du 8 août 2008 concernant le compteur horokilométrique et le dispositif répétiteur lumineux de tarifs des taxis
 
-Version en vigueur au 7 février 2009.
+Version en vigueur au 27 juillet 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2008/08-08-2008-452@2009.02.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2008/08-08-2008-452@2013.07.27/
 
 | | |
 | --- | --- |

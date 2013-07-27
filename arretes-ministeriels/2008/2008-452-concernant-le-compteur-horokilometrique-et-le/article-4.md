@@ -8,7 +8,7 @@ Le dispositif répétiteur lumineux de tarifs est constitué d'une boîte en mat
 
 - profondeur : 40 mm et 100 mm.
 
-Ce dispositif doit être fixé au centre du toit du taxi, sur l'axe longitudinal à l'avant et perpendiculairement à l'axe de marche du véhicule.
+Ce dispositif doit être fixé en partie avant du toit du véhicule taxi, perpendiculairement à l'axe de marche du véhicule.
 
 Il doit porter sur ses faces avant et arrière les inscriptions suivantes :
 
