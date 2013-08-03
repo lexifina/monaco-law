@@ -6,7 +6,7 @@ La composition de la Commission médico-pédagogique, instituée par l'article 2
 
 - le Directeur de l'Action Sanitaire et Sociale ou son représentant ;
 
-- un pédopsychiatre désigné par le Directeur de l'Action Sanitaire et Sociale ;
+- un médecin spécialiste en psychiatrie ou ayant une compétence en psychiatrie de l'enfant et de l'adolescent désigné par le Directeur de l'Action Sanitaire et Sociale ;
 
 - les médecins de l'Inspection Médicale des Scolaires ;
 
