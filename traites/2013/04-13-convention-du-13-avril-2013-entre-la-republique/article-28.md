@@ -1,0 +1,3 @@
+# Article 28
+
+La présente Convention demeurera en vigueur tant qu'elle n'aura pas été dénoncée par un État contractant. Chaque État contractant peut dénoncer la Convention par écrit et par la voie diplomatique à l'autre État contractant, au plus tard le 30 juin de chaque année civile postérieure à la cinquième année suivant celle de l'entrée en vigueur de la Convention ; dans ce cas, la Convention s'appliquera pour la dernière fois en ce qui concerne chaque État contractant, sur le revenu de l'année fiscale commençant à partir du 1er janvier qui suit immédiatement la notification de la dénonciation.
