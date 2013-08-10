@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2012-598 du 10 octobre 2012 portant règlement de publicité
 
-Version en vigueur au 20 octobre 2012.
+Version en vigueur au 10 août 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/10-10-2012-598@2012.10.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/10-10-2012-598@2013.08.10/
 
 | | |
 | --- | --- |
