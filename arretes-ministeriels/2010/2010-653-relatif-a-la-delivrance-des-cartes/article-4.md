@@ -10,10 +10,8 @@ En cas d'échec de téléchargement des données par l'entreprise, ou en cas de 
 
 Pour obtenir l'agrément prévu à l'article précédent, tout organisme doit adresser une demande au Département de l'Équipement, de l'Environnement et de l'Urbanisme.
 
-Cette demande, signée, est accompagnée d'un dossier administratif comportant des renseignements détaillés concernant la forme juridique de l'organisme demandeur, l'identification de ses dirigeants, la composition, la qualification et les fonctions du personnel qu'il emploie, ainsi que l'agrément dont il bénéficie dans le pays voisin.
+Sont agréés les organismes ayant reçu, en France, l'agrément prévu par l'article 12 du règlement CCE n° 3821/85 du Conseil du 20 décembre 1985, modifié, concernant l'appareil de contrôle dans le domaine des transports par route, modifié, et son annexe IB, pour l'installation et l'inspection des chronotachygraphes, dans la limite dudit agrément.
 
-La décision de prononcer l'agrément de l'organisme demandeur est prise par le Ministre d'État, dans les trois mois de la demande. L'agrément est attribué pour une durée de deux ans. Il est notifié à la Direction de la Sûreté Publique.
+L'entreprise doit conserver tout certificat de téléchargement ou d'impossibilité de téléchargement pendant un an à compter de la délivrance par un organisme agréé pour l'installation ou l'inspection des chronotachygraphes numériques, ainsi que tout justificatif de l'agrément de l'organisme de contrôle et de sa portée.
 
-L'entreprise doit conserver tout certificat de téléchargement ou d'impossibilité de téléchargement pendant un an à compter de la délivrance par un organisme agréé pour l'installation ou l'inspection des chronotachygraphes numériques.
-
-Les fichiers résultant du téléchargement des données des cartes de conducteur et de la mémoire des chronotachygraphes, les tickets d'impression et les feuilles ad hoc , les certificats de téléchargement et les certificats d'impossibilité de téléchargement émis par un organisme agréé, doivent être mis à disposition des agents en charge du contrôle dans l'établissement de rattachement du conducteur.
+Les fichiers résultant du téléchargement des données des cartes de conducteur et de la mémoire des chronotachygraphes, les tickets d'impression et les feuilles ad hoc, les certificats de téléchargement et les certificats d'impossibilité de téléchargement émis par un organisme agréé, ainsi que tout justificatif de l'agrément dudit organisme et de sa portée, doivent être mis à disposition des agents en charge du contrôle dans l'établissement de rattachement du conducteur.
