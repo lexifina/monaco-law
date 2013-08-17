@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2005-156 du 21 mars 2005 relatif aux règles techniques et de qualification que doivent respecter les entreprises effectuant des activités de confinement et de retrait d'amiante ou de fabrication et de transformation de matériaux contenant de l'amiante
 
-Version en vigueur au 26 mars 2005.
+Version en vigueur au 17 août 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/03-21-2005-156@2005.03.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/03-21-2005-156@2013.08.17/
 
 | | |
 | --- | --- |
