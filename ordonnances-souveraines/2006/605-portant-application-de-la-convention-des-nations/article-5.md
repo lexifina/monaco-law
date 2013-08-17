@@ -6,4 +6,4 @@ Constitue l'infraction de blanchiment du produit du crime au sens de l'article 6
 
 - 2) la dissimulation ou le déguisement de la nature véritable, de l'origine, de l'emplacement, de la disposition, des mouvements ou de la propriété des biens ou des droits y relatifs, dont l'auteur sait qu'ils sont le produit de l'une des infractions susénoncées.
 
-Quiconque a commis ou tenté de commettre l'infraction de blanchiment du produit du crime est puni d'un emprisonnement de dix à vingt ans et de l'amende prévue au chiffre 4 de l'article 26 du Code pénal, dont le maximum peut être porté au décuple.
+Quiconque a commis ou tenté de commettre l'infraction de blanchiment du produit du crime est puni d'un emprisonnement de dix à vingt ans et de l'amende prévue au chiffre 4 de l'article 26 du Code pénal, dont le maximum peut être multiplié par vingt.
