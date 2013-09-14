@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2013-427 du 5 septembre 2013 modifiant l'arrêté ministériel n° 2002-434 du 16 juillet 2002 portant application de l'ordonnance souveraine n° 15.321 du 8 avril 2002 relative aux procédures de gel des fonds aux fins de lutte contre le terrorisme
