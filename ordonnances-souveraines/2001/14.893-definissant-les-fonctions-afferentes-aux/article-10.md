@@ -4,7 +4,11 @@ La hiérarchie des grades, le nombre des classes ainsi que la durée de l'ancien
 
 - Greffier en chef - Catégorie A
 
-Échelle comprenant 6 classes :
+- Première échelle comprenant 6 classes
+
+Avancement normal et au choix après deux ans et six mois d'ancienneté dans une classe.
+
+- Échelle de principalat comprenant 7 classes
 
 Avancement normal et au choix après deux ans et six mois d'ancienneté dans une classe.
 
