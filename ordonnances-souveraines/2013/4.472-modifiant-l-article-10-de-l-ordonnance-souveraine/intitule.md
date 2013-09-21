@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 4.472 du 12 septembre 2013 modifiant l'article 10 de l'ordonnance souveraine n° 14.893 du 29 mai 2001 définissant les fonctions afférentes aux catégories d'emplois de greffiers
