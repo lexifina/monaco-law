@@ -196,6 +196,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
+46°-1 Surveillant saisonnier apte à prodiguer les premiers secours
+
+- échelle des Attachés (B 050)
+
 47° Technicien
 
 - échelle des Techniciens (B 075)

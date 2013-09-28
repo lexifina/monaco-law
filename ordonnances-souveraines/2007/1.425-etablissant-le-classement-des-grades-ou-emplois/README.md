@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 1.425 du 29 novembre 2007 établissant le classement des grades ou emplois de l'administration communale dans les échelles indiciaires de traitements
+# Ordonnance souveraine n° 1.425 du 29 novembre 2007 établissant le classement des grades ou emplois de l'administration communale dans les échelles indiciaires de traitements
 
-Version en vigueur au 2 mars 2013.
+Version en vigueur au 28 septembre 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/11-29-1.425@2013.03.02/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/11-29-1.425@2013.09.28/
 
 | | |
 | --- | --- |

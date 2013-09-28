@@ -40,7 +40,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle 2 (C 152)
 
-9°-1Agent technique Bâtiment
+9°-1 Agent technique Bâtiment
 
 - échelle 2 - (C 152)
 
@@ -79,6 +79,10 @@ I. Grades ou emplois communs et particuliers
 16° Brigadier des surveillants
 
 - échelle 5 (C 122)
+
+16°-5 Caissier saisonnier
+
+- échelle 2 (C 152)
 
 17° Chauffeur livreur magasinier
 
@@ -255,6 +259,14 @@ I. Grades ou emplois communs et particuliers
 - échelle des Sténodactylographes (C 050)
 
 59° Surveillant
+
+- échelle 1 (C 154)
+
+59°-1 Surveillant de cabine saisonnier
+
+- échelle 1 (C 154)
+
+59°-2 Surveillant - Contrôleur saisonnier
 
 - échelle 1 (C 154)
 

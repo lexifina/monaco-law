@@ -112,6 +112,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Rédacteurs principaux (A 110)
 
+23°-2 Responsable du dépôt légal
+
+- échelle des Rédacteurs Principaux (A 110)
+
 24° Secrétaire d'Administration
 
 - échelle des Administrateurs (A 132)
