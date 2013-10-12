@@ -1,51 +1,45 @@
 # Article 12
 
-Le territoire de la Principauté est divisé en trois secteurs :
+12.1 - Le territoire de la Principauté est divisé en trois secteurs :
 
-- A - Le secteur réservé, dont le caractère actuel doit être conservé, qui comprend le Quartier de Monaco-Ville et le Ravin de Sainte-Dévote.
+- A - Le secteur réservé, dont le caractère actuel doit être conservé, qui comprend le quartier de Monaco-Ville et le ravin de Sainte-Dévote.
 
-- B - Le secteur des quartiers ordonnancés qui comprend les quartiers suivants, dont la destination ou le caractère justifie des dispositions particulières et qui sont soumis à des plans de coordination et dont le périmètre est délimité en annexe à la présente ordonnance (annexe n° 3) :
+- B - Le secteur des quartiers ordonnancés qui comprend les quartiers suivants, dont la destination ou le caractère justifie un règlement d'urbanisme :
 
-  - - Quartier de Fontvieille ;
+  - - quartier de la Condamine ;
 
-  - - Quartier de la Gare ;
+  - - quartier de Fontvieille ;
 
-  - - Quartier de la Condamine ;
+  - - quartier du Jardin Exotique ;
 
-  - - Quartier du Port Hercule ;
+  - - quartier du Larvotto ;
 
-  - - Quartier des Spélugues ;
+  - - quartier des Moneghetti ;
 
-  - - Quartier des Bas-Moulins et du Larvotto ;
+  - - quartier de Monte-Carlo ;
 
-  - - Quartier de La Colle ;
+  - - quartier de La Rousse.
 
-  - - Quartier de Malbousquet ;
+- Une ordonnance souveraineportant délimitation et règlement d'urbanisme du secteur des quartiers ordonnancés définit :
 
-  - - Quartier de La Source ;
+  - - les dispositions générales applicables à l'ensemble du secteur des quartiers ordonnancés ;
 
-  - - Quartier des Moneghetti ;
+  - - un plan de zonage du secteur des quartiers ordonnancés fixant les limites des zones de chacun des quartiers ordonnancés et, le cas échéant, la subdivision en îlots de ces zones ;
 
-  - - Quartier des Moulins ;
+  - - un plan de répartition des indices de construction de référence ;
 
-  - - Quartier du Vallon de La Rousse ;
+  - - les dispositions particulières et les plans de coordination correspondants applicables à chacun des quartiers.
 
-  - - Quartier du Jardin Exotique ;
-
-  - - Quartier de Saint-Roman.
-
-- Les ordonnances souveraines portant règlement particulier d'urbanisme, de construction et de voirie des quartiers ordonnancés, rappellent les limites des quartiers ordonnancés, définissent, si nécessaire, la division en zones de chacun des quartiers ordonnancés et, éventuellement, la subdivision en îlots de ces zones.
-
-- Elles définissent également les dispositions générales des constructions à édifier dans chaque quartier ordonnancé. Dès leur publication, ces ordonnances ainsi que leurs annexes peuvent être consultées par tous les intéressés à la Direction de la Prospective, de l'Urbanisme et de la Mobilité.
+- Dès sa publication, cette ordonnance ainsi que ses annexes peuvent être consultées par tous les intéressés à la Direction de la Prospective, de l'Urbanisme et de la Mobilité.
 
 - C - Le secteur des opérations urbanisées qui comporte :
 
-  - - une zone à gabarit moyen,
+  - - une zone à gabarit moyen ;
 
-  - - une zone à gabarit élevé,
+  - - une zone à gabarit élevé ;
 
   - - une zone frontière.
 
-Le plan de zonage PU-ZG-PTE-D7, annexé à la présente ordonnance, en fixe les limites.
+12.2 - Le plan de zonage PU-ZG-PTE-D8, annexé à la présente ordonnance, en fixe les limites.
 
-Toutes les constructions à édifier sur le territoire de la Principauté doivent être établies en conformité des dispositions définies par les articles ci-après, sauf dispositions contraires des règlements et des plans de coordination relatifs aux quartiers compris dans le secteur des quartiers ordonnancés.
+12.3 - Toutes les constructions à édifier sur le territoire de la Principauté doivent être établies en conformité des dispositions définies par les articles ci-après, sauf dispositions contraires du règlement d'urbanisme et des plans de coordination relatifs aux quartiers compris dans le secteur des quartiers ordonnancés.
