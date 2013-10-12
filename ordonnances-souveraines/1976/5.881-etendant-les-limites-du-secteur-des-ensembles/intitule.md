@@ -1,1 +1,0 @@
-Ordonnance souveraine n° 5.881 du 21 septembre 1976 étendant les limites du secteur des ensembles ordonnancés prévu à l'ordonnance n° 3647 du 9 septembre 1966 au quartier du Carnier et portant règlement d'urbanisme, de construction et de voirie dudit quartier
