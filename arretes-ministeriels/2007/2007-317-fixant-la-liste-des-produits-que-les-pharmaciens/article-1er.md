@@ -44,4 +44,6 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 - 21° les compléments alimentaires ;
 
-- 22° les équipements de protection individuelle respiratoires.
+- 22° les équipements de protection individuelle respiratoires ;
+
+- 23° les éthylotests.

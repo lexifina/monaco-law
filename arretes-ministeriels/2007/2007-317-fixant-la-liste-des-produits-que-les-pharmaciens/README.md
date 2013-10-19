@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2007-317 du 15 juin 2007 fixant la liste des produits que les pharmaciens peuvent vendre dans leur officine
 
-Version en vigueur au 23 juin 2007.
+Version en vigueur au 19 octobre 2013.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2007/06-15-2007-317@2007.06.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2007/06-15-2007-317@2013.10.19/
 
 | | |
 | --- | --- |
