@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2013-518 du 10 octobre 2013 modifiant l'arrêté ministériel n° 2003-125 du 12 février 2003 fixant la liste des substances qui ne peuvent entrer dans la composition des produits cosmétiques
