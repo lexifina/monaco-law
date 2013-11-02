@@ -192,6 +192,6 @@ b) La circulation des véhicules et ensembles de véhicules d'un poids total aut
 
 a) Un sens unique de circulation est instauré du boulevard Charles III à l'avenue du Port et ce, dans ce sens.
 
-b)La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
+b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
 c) La circulation des piétons est interdite dans le tunnel.

@@ -20,9 +20,7 @@ b) La voie de circulation située côté aval est aménagée en couloir bus.
 
 c) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
-4) Antoine 1er (Quai)
-
-(4 abrogé).
+4) (4 abrogé).
 
 5) Armes (Place d')
 
@@ -112,7 +110,17 @@ Dans sa partie comprise entre le giratoire Auréglia et le droit de la rue Princ
 
 La circulation des autocars est interdite.
 
-16) Imberty (Rue)
+16) Honoré II (Promenade)
+
+La circulation de tous véhicules est interdite.
+
+Par dérogation, les véhicules de transport de marchandises pourront circuler dans cette promenade de 6 heures à 10 heures.
+
+Les véhicules des riverains désirant accéder à la Promenade Honoré II devront en solliciter l'autorisation.
+
+Ces dispositions ne s'appliquent pas aux véhicules d'urgences et de secours.
+
+17) Imberty (Rue)
 
 a) Un sens unique de circulation est instauré de la Princesse Florestine à la rue Louis Notari et ce, dans ce sens.
 
@@ -120,7 +128,7 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-17) Jardin Exotique (Boulevard du)
+18) Jardin Exotique (Boulevard du)
 
 a) Dans sa partie comprise entre le numéro 77 et l'intersection avec l'avenue Hector Otto, une voie de circulation côté amont est aménagée en couloir bus.
 
@@ -128,29 +136,39 @@ b) Dans sa partie comprise entre le numéro 58 et l'intersection avec l'avenue H
 
 La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
-18) Joseph Bressan (Rue)
+19) Joseph Bressan (Rue)
 
 La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-19) Langlé (Rue)
+20) Langlé (Rue)
 
 La circulation de tout véhicule est interdite du numéro 3 à la rue Princesse Caroline.
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-20) Louis Auréglia (Bretelle)
+21) Lazare Sauvaigo (Allée)
+
+La circulation de tous véhicules est interdite.
+
+Par dérogation, les véhicules de transport de marchandises pourront circuler dans cette allée de 6 heures à 10 heures.
+
+Les véhicules des riverains désirant accéder à l'allée Lazare Sauvaigo devront en solliciter l'autorisation.
+
+Ces dispositions ne s'appliquent pas aux véhicules d'urgences et de secours.
+
+22) Louis Auréglia (Bretelle)
 
 La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
-21) Louis Auréglia (Rue)
+23) Louis Auréglia (Rue)
 
 a) Un sens unique de circulation est instauré du boulevard Rainier III à la rue Grimaldi et ce, dans ce sens.
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
-22) Louis Notari (Rue)
+24) Louis Notari (Rue)
 
 a) Un sens unique de circulation est instauré de la rue Princesse Caroline à la rue Princesse Antoinette et ce, dans ce sens.
 
@@ -158,17 +176,15 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-23) Malbousquet (Rue)
+25) Malbousquet (Rue)
 
 a) Un sens unique de circulation est instauré du boulevard du Jardin Exotique à la frontière et ce, dans ce sens.
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
-c) (c abrogé).
-
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-24) Millo (Rue de)
+26) Millo (Rue de)
 
 a) Un sens unique de circulation est instauré de la rue Grimaldi à la rue Saige et ce, dans ce sens.
 
@@ -182,19 +198,19 @@ L'arrêt de leurs véhicules ne devra pas dépasser 15 minutes.
 
 Les dispositions de l'alinéa b) ne s'appliquent pas aux véhicules d'urgences et de secours.
 
-25) Orangers (Rue des)
+27) Orangers (Rue des)
 
 La circulation de tout véhicule est interdite.
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-26) Pasteur (Avenue)
+28) Pasteur (Avenue)
 
 La circulation des motocycles, tricycles, quadricycles à moteurs, est interdite de 22 heures à 6 heures, dans sa section comprise entre l'Athanée et l'entrée supérieure du tunnel reliant le boulevard de Belgique.
 
 Cette disposition ne s'applique pas aux engins de la force publique et de la sûreté publique.
 
-27) Plati (Rue)
+29) Plati (Rue)
 
 a) Un sens unique de circulation est instauré dans sa partie comprise entre le boulevard de Belgique et son intersection avec l'entrée du parking de l'immeuble « Les Mélèzes » et ce, dans ce sens.
 
@@ -202,13 +218,13 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-28) Port (Avenue du)
+30) Port (Avenue du)
 
 a) Un sens unique de circulation est instauré de la place d'Armes au boulevard Albert 1er et ce, dans ce sens.
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
-29) Prince Pierre (Avenue)
+31) Prince Pierre (Avenue)
 
 a) Sur la voie montante, un sens unique de circulation est instauré de la place d'Armes à la rue de la Colle.
 
@@ -218,7 +234,7 @@ c) La voie de circulation descendante, comprise entre la rue de la Colle et la p
 
 Ce couloir bus est interdit aux taxis compte tenu de sa spécificité.
 
-30) Princes (Rue des)
+32) Princes (Rue des)
 
 a) Un sens unique de circulation est instauré de la rue Louis Notari à la rue Princesse Florestine et ce, dans ce sens.
 
@@ -226,7 +242,7 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-31) Princesse Antoinette (Rue)
+33) Princesse Antoinette (Rue)
 
 a) Un sens unique de circulation est instauré, dans sa partie comprise entre son intersection avec la rue Louis Notari et le boulevard Albert 1er et ce, dans ce sens.
 
@@ -234,7 +250,7 @@ b) La circulation de tous les véhicules est interdite dans sa partie comprise e
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-32) Princesse Caroline (Rue)
+34) Princesse Caroline (Rue)
 
 La circulation de tous véhicules est interdite.
 
@@ -246,7 +262,7 @@ L'arrêt de leurs véhicules ne devra pas dépasser 15 minutes.
 
 Ces dispositions ne s'appliquent pas aux véhicules d'urgences et de secours.
 
-33) Princesse Florestine (Rue)
+35) Princesse Florestine (Rue)
 
 a) Un sens unique de circulation est instauré de la rue Grimaldi et la rue Suffren Reymond et ce, dans ce sens.
 
@@ -254,15 +270,15 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-34) Quarantaine (Avenue de la)
+36) Quarantaine (Avenue de la)
 
 La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée entre l'avenue du Port et le Fort Antoine, pour desservir les bâtiments à usage d'industrie.
 
-35) Rainier III (Boulevard)
+37) Rainier III (Boulevard)
 
 La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée entre le boulevard du Jardin Exotique et l'avenue Prince Pierre.
 
-36) Rocher (Rue du)
+38) Rocher (Rue du)
 
 a) Un sens unique de circulation est instauré de la rue de la Colle au boulevard Charles III et ce, dans ce sens.
 
@@ -270,11 +286,11 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-37) Saige (Rue)
+39) Saige (Rue)
 
 Un sens unique de circulation est instauré de la rue de Millo à l'avenue du Port et ce, dans ce sens.
 
-38) Suffren Reymond (Rue)
+40) Suffren Reymond (Rue)
 
 a) Un sens unique de circulation est instauré dans sa partie comprise entre la rue Grimaldi et la rue Louis Notari et ce, dans ce sens.
 
@@ -282,15 +298,15 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
-39) Terrazzani (Rue)
+41) Terrazzani (Rue)
 
 Un sens unique de circulation est instauré de l'avenue du Port à la rue de Millo, et ce, dans ce sens.
 
-40) Turbie (Chemin de la)
+42) Turbie (Chemin de la)
 
 Un sens unique de circulation est instauré de la frontière au boulevard du Jardin Exotique, et ce, dans ce sens.
 
-41) Turbie (Rue de la)
+43) Turbie (Rue de la)
 
 a) Un sens unique de circulation est instauré de la rue Grimaldi à la rue des Agaves, et ce, dans ce sens.
 
@@ -302,6 +318,6 @@ c) Le stationnement des véhicules est autorisé exclusivement sur le côté gau
 
 d) Le stationnement sur l'emplacement marqué au sol devant l'hôtel de France, est autorisé pour les clients de l'hôtel, pour une durée ne pouvant excéder 20 minutes.
 
-42) Vourette (Rue)
+44) Vourette (Rue)
 
 Un sens unique de circulation est instauré du boulevard du Jardin Exotique à la frontière et ce, dans ce sens.
