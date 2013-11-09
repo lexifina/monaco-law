@@ -14,10 +14,18 @@ La Direction de l'Expansion Économique est notamment chargée :
 
 - de la délivrance des titres de propriété industrielle et des inscriptions y relatives sur les registres nationaux.
 
-Cette Direction est en outre habilitée à :
+Au sein de cette Direction, le Service Monaco Welcome & Business Office est spécifiquement chargé :
 
-- mettre en œuvre, entretenir et optimiser les relations et contacts permanents avec l'ensemble des professionnels et partenaires économiques ;
+* d'informer et orienter les personnes qui ont le projet de s'installer en Principauté, à titre privé ou professionnel, ou qui sont en cours d'installation, en mettant à leur disposition les outils et renseignements nécessaires afin de faciliter leurs démarches et en leur permettant l'accès rapide aux entités publiques et privées concernées ;
 
-- participer à toute opération de prospection ou de développement économique organisés par les organismes compétents.
+* de mettre en œuvre, entretenir et optimiser les relations et contacts permanents avec l'ensemble des professionnels et partenaires économiques pouvant contribuer à la bonne installation des personnes et entreprises ;
+
+* de créer et alimenter les outils de communication et d'information utiles ;
+
+* de promouvoir le Service auprès des différents réseaux à Monaco et à l'étranger ;
+
+* d'assurer un point de contact privilégié pour les commerçants de la Principauté, coordonner le Groupe Commerce et créer des échanges personnalisés avec les acteurs du secteur ;
+
+* de participer à la mise en place des mesures concernant le secteur privé pour le plan accueil « Monaco Welcome » et au suivi et contrôle des dispositions du Plan Accueil.
 
 Au sein de cette Direction, le Service Espace Entreprises - Monaco Business Office est spécifiquement chargé de développer un service d'accueil de qualité et un accompagnement sur mesure dédiés au créateur d'entreprise.
