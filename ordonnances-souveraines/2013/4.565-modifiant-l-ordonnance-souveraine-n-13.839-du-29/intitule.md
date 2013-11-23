@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 4.565 du 13 novembre 2013 modifiant l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre Hospitalier Princesse Grace, modifiée
