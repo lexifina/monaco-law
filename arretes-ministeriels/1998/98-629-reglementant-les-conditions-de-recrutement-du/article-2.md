@@ -15,3 +15,7 @@ Sont habilités à faire acte de candidature aux concours de praticiens hospital
 - b) Pour les fonctions de praticiens hospitaliers :
 
   - les docteurs en médecine, les docteurs en pharmacie, et les docteurs en chirurgie dentaire, titulaires d'un diplôme de spécialité dans la discipline concernée, ou à défaut de spécialité, d'un diplôme ouvrant droit à une compétence reconnue.
+
+- c) Pour les fonctions de médecin-coordonnateur :
+
+  - les docteurs en médecine, les docteurs en pharmacie, et les docteurs en chirurgie dentaire, titulaires d'un diplôme de spécialité dans la discipline concernée, ou à défaut de spécialité, d'un diplôme ouvrant droit à une compétence reconnue.

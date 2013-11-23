@@ -4,7 +4,7 @@ Sont habilités à faire acte de candidature aux concours visés à l'article pr
 
 - a) Pour les fonctions d'assistant spécialiste :
 
-  - les docteurs en médecine, les docteurs en pharmacie, et les docteurs en chirurgie dentaire, titulaires d'un diplôme de spécialité, ou à défaut de spécialité, d'un diplôme ouvrant droit à une compétence reconnue.
+  - les docteurs en médecine, titulaires d'un diplôme d'études spécialisées complémentaires de gériatrie ou de la capacité de gérontologie ou d'un diplôme d'université de médecin coordonnateur d'établissement d'hébergement pour personnes âgées dépendantes.
 
 - b) Pour les fonctions d'assistant généraliste :
 
