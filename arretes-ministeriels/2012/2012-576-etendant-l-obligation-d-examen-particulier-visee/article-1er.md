@@ -1,6 +1,8 @@
 # Article 1er
 
-L'examen particulier visé à l'article 11 de la loi n° 1.362 du 3 août 2009, susvisée, est étendu aux opérations impliquant une contrepartie ayant des liens avec un des états listés ci-dessous :
+L'examen particulier visé à l'article 11 de la loi n° 1.362 du 3 août 2009 susvisée est étendue aux opérations impliquant une contrepartie ayant des liens avec un des états listés ci-dessous :
+
+- Algérie
 
 - Équateur
 
@@ -14,14 +16,10 @@ L'examen particulier visé à l'article 11 de la loi n° 1.362 du 3 août 2009, 
 
 - Pakistan
 
-- São Tomé et Príncipe
-
 - Syrie
 
 - Tanzanie
 
 - Turquie
-
-- Vietnam
 
 - Yémen.
