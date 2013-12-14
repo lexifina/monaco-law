@@ -24,12 +24,14 @@ Le taux de conversion entre l'unité euro et les unités monétaires visées à 
 
 - un euro pour 340,750 drachmes grecques (GRD) ;
 
-- un euro pour 239,640 tolars slovènes (SIT).
+- un euro pour 239,640 tolars slovènes (SIT) ;
 
-- un euro pour 0,585274 livre chypriote (CYP)
+- un euro pour 0,585274 livre chypriote (CYP) ;
 
-- un euro pour 0,429300 lire maltaise (MTL)
+- un euro pour 0,429300 lire maltaise (MTL) ;
 
-- un euro pour 30,1260 couronnes slovaques (SKK)
+- un euro pour 30,1260 couronnes slovaques (SKK) ;
 
-- un euro pour 15,6466 couronnes estoniennes (EEK).
+- un euro pour 15,6466 couronnes estoniennes (EEK) ;
+
+- un euro pour 0,702804 lats letton (LVL).
