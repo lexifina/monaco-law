@@ -1,3 +1,3 @@
 # Article 2050
 
-Quand on a commencé à posséder pour autrui, on est toujours présumé posséder au même titre, s'il n'y a preuve du contraire.
+Après dix ans, l'architecte et les entrepreneurs sont déchargés de la garantie des gros ouvrages qu'ils ont faits ou dirigés.

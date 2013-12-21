@@ -1,6 +1,6 @@
 # Article 200-5
 
-.Au jour indiqué, les parties sont tenues de comparaître en personne.
+Au jour indiqué, les parties sont tenues de comparaître en personne.
 
 Si l'une d'elles se trouve dans l'impossibilité de se rendre auprès du président du tribunal de première instance, celui-ci détermine le lieu où sera tentée la conciliation.
 

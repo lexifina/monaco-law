@@ -1,3 +1,3 @@
 # Article 2043
 
-La prescription peut être opposée en tout état de cause, à moins que la partie qui n'aurait pas opposé le moyen de la prescription ne doive, par les circonstances, être présumée y avoir renoncé.
+L'État, la commune et les établissements publics sont soumis aux mêmes prescriptions que les personnes privées, et peuvent également les opposer.

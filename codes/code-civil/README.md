@@ -1,11 +1,11 @@
 # Code civil
 
-Version en vigueur au 13 août 2011.
+Version en vigueur au 21 décembre 2013.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-civil@2011.08.13/
+Source : Legimonaco, https://legimonaco.mc/code/code-civil@2013.12.21/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code civil |
-| Dernière modification | 13 août 2011 |
+| Dernière modification | 21 décembre 2013 |

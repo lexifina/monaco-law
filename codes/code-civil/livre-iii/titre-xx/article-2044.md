@@ -1,3 +1,3 @@
 # Article 2044
 
-Les créanciers, ou toute autre personne ayant intérêt à ce que la prescription soit acquise, peuvent l'opposer, encore que le débiteur ou le propriétaire y renonce.
+Sauf disposition légale contraire, les actions réelles mobilières et les actions personnelles se prescrivent par cinq ans à compter du jour où le titulaire d'un droit a connu ou aurait dû connaître les faits lui permettant de les exercer.

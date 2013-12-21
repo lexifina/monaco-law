@@ -1,3 +1,3 @@
 # Article 2071
 
-La prescription court contre toutes personnes, à moins qu'elles ne soient dans quelque exception établie par une loi.
+Le paiement effectué pour éteindre une dette ne peut être répété au seul motif que le délai de prescription était expiré.

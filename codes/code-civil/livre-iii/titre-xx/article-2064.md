@@ -1,3 +1,3 @@
 # Article 2064
 
-Une citation en justice, un commandement ou une saisie, signifiés à celui qu'on veut empêcher de prescrire, forment l'interruption civile.
+L'interruption est non avenue si le demandeur se désiste de son action, s'il laisse périmer l'instance, si sa demande est définitivement rejetée ou encore si l'instance fait l'objet d'une radiation.

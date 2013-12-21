@@ -1,3 +1,3 @@
 # Article 2060
 
-On ne peut pas prescrire contre son titre, en ce sens que l'on ne peut point se changer à soi-même la cause et le principe de sa possession.
+L'interruption efface le délai de prescription acquis. Elle fait courir un nouveau délai de même durée que l'ancien.

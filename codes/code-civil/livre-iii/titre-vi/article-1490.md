@@ -1,7 +1,5 @@
 # Article 1490
 
-L'action résultant des vices rédhibitoires de la chose doit être intentée par l'acquéreur :
+En matière mobilière, l'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de six mois à compter de la découverte du vice.
 
-- S'il s'agit d'animaux domestiques, dans le délai de quarante jours ;
-
-- S'il s'agit d'autres effets mobiliers, dans le délai de trois mois, à moins que des usages anciens et reconnus n'aient établi d'autres termes.
+Néanmoins, ce délai est de quarante jours pour les animaux domestiques.

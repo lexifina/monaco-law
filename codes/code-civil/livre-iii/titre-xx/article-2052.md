@@ -1,3 +1,5 @@
 # Article 2052
 
-Les actes de violence ne peuvent fonder non plus une possession capable d'opérer la prescription.
+La prescription se compte par jours, et non par heures.
+
+Le jour où se produit l'événement faisant courir la prescription ne compte pas.

@@ -1,3 +1,3 @@
 # Article 2047
 
-La possession est la détention ou la jouissance d'une chose ou d'un droit que nous tenons ou que nous exerçons par nous-mêmes, ou par un autre qui la tient ou qui l'exerce en notre nom.
+L'action en réparation des dommages causés à l'environnement par leurs responsables se prescrit par trente ans à compter du fait générateur du dommage.
