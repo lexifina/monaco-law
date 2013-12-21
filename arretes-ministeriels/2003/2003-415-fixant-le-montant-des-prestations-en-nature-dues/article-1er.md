@@ -208,6 +208,14 @@ de 20 h à 8 h | 25,15 euro(s)
 
 IFD | Indemnité forfaitaire de déplacement | 3,81 euro(s)
 
+Des indemnités forfaitaires sont versées aux Médecins Généralistes de la Principauté par les Régimes obligatoires d'Assurance Maladie, pour chaque garde effectuée, soit du lundi au vendredi de 20 h à minuit, soit le samedi, le dimanche et les jours fériés.
+
+Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent à 75 euro(s) pour chaque tour de garde complet assuré.
+
+Le règlement des indemnités forfaitaires intervient trimestriellement, à compter du mois de janvier de chaque année, dans les 30 jours de la communication, par l'Ordre des Médecins de la Principauté de Monaco, à la Caisse de Compensation des Services Sociaux, d'un relevé nominatif des tours de garde assurés.
+
+Cette dernière procède au versement des indemnités forfaitaires et à la récupération de la contribution due par les autres Organismes sociaux, selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
+
 B - Soins externes hospitaliers - Établissements publics
 
 Lettre-clé | Acte | Tarifs d'autoritéen euro(s)
