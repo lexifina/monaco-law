@@ -1,11 +1,11 @@
 # Code de procédure civile
 
-Version en vigueur au 13 août 2011.
+Version en vigueur au 21 décembre 2013.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-procedure-civile@2011.08.13/
+Source : Legimonaco, https://legimonaco.mc/code/code-procedure-civile@2013.12.21/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de procédure civile |
-| Dernière modification | 13 août 2011 |
+| Dernière modification | 21 décembre 2013 |

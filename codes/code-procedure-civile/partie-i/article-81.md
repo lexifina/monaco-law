@@ -6,6 +6,6 @@ Les actions possessoires ne seront recevables que sous les conditions suivantes 
 
 - 2° Que le demandeur prouve avoir été en possession pendant une année au moins ;
 
-- 3° Que la possession remplisse les qualités requises par les articles 2047 à 2055 du Code civil ;
+- 3° Que la possession remplisse les qualités requises par les articles 2077 à 2079 et 2083 à 2087 du Code civil.
 
 - 4° Qu'il se soit écoulé moins d'une année depuis le trouble ou la dépossession.
