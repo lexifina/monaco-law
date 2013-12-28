@@ -50,11 +50,15 @@ En cas de modification(s) apportée(s) au projet initial, la maquette 3D réactu
 
 11. une notice dite «de sécurité' récapitulant les dispositions prises pour satisfaire aux mesures de sécurité contre les risques d'incendie et de panique conformément aux dispositions fixées par arrêtés ministériels ;
 
+En cas d'installation de dispositifs de production électrique de type photovoltaïque sur une nouvelle construction ou une construction existante, un dossier technique et de sécurité sur l'installation projetée conformément aux dispositions fixées par arrêté ministériel ;
+
 12. une note descriptive donnant toutes les indications et précisions utiles sur les travaux projetés, notamment sur les matériaux de revêtement des façades, les garde-corps et tous les ouvrages décoratifs (nature des matériaux, couleurs, modèles, etc.), la nature du gros-œuvre, les dispositions envisagées pour l'isolation phonique, thermique et hydrique, les installations mécaniques (ascenseur, monte-charge, etc.), la nature et la qualité des matériaux de revêtement des locaux privés intérieurs, ainsi que des menuiseries, équipements électriques, sanitaires, ménagers, etc. ;
 
-13. une note donnant toutes les précisions sur les besoins du projet en eau potable, en assainissement, en énergie (gaz, électricité et production chaud-froid), en distribution du courrier et en télécommunication ; sur les locaux destinés aux logements des compteurs, des postes de transformation ; sur les installations destinées à la réception du courrier ; sur toutes les tuyauteries et gaines de ventilation, aération, chute, ainsi que les dispositions précises adoptées pour les branchements d'égouts, etc. Ces divers locaux et aménagements doivent figurer d'une manière nette sur les plans.
+13. une note donnant toutes les précisions sur les besoins du projet en eau potable, en assainissement, en énergie (gaz, électricité et production chaud-froid), en distribution du courrier et en télécommunication ainsi que sur la production autonome d'énergie électrique projetée ; sur les locaux destinés aux logements des compteurs, des postes de transformation ; sur les installations destinées à la réception du courrier ; sur toutes les tuyauteries et gaines de ventilation, aération, chute, ainsi que les dispositions précises adoptées pour les branchements d'égouts, etc. Ces divers locaux et aménagements doivent figurer d'une manière nette sur les plans.
 
-Cette note doit être accompagnée de l'avis préalable des sociétés concessionnaires et de la Direction de l'Aménagement urbain pour le raccordement de l'immeuble projeté aux réseaux ;
+Cette note doit être accompagnée de l'avis préalable des sociétés concessionnaires et de la Direction de l'Aménagement Urbain pour le raccordement de l'immeuble projeté aux réseaux.
+
+Sont joints à cette note, les plans de synthèse indiquant le positionnement des futurs réseaux, les points de raccordement ainsi que les réseaux existants dans la zone concernée (vue en plan et coupes avec un positionnement en x, y et z). Les dates prévisionnelles des travaux de raccordement doivent être précisées dans la note.'
 
 14. un programme prévisionnel de la marche des travaux ;
 
