@@ -42,9 +42,11 @@ Les demandes d'autorisation d'exécuter des travaux visés à l'article 1er de l
 
 - 11. une notice dite « de sécurité » récapitulant les dispositions prises pour satisfaire aux mesures de sécurité contre les risques d'incendie et de panique conformément aux dispositions fixées par arrêtés ministériels ;
 
+- En cas d'installation de dispositifs de production électrique de type photovoltaïque sur une nouvelle construction ou une construction existante, un dossier technique et de sécurité sur l'installation projetée conformément aux dispositions fixées par arrêté ministériel ;
+
 - 12. une note descriptive donnant toutes les indications et précisions utiles sur les travaux projetés ;
 
-- 13. une note donnant toutes les précisions sur les besoins du projet en eau potable, en assainissement, en énergie (gaz, électricité et production chaud-froid), en distribution du courrier et en télécommunication ;
+- 13. une note donnant toutes les précisions sur les besoins du projet en eau potable, en assainissement, en énergie (gaz, électricité et production chaud-froid), en distribution du courrier et en télécommunication ainsi que sur la production autonome d'énergie électrique projetée ;
 
 - 14. un programme prévisionnel de la marche des travaux ;
 
