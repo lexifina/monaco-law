@@ -1,0 +1,7 @@
+# Article 4
+
+Les expéditions vers un Etat membre de l'Union européenne autre que la France ou un État partie à l'accord sur l'Espace économique européen autre que la France ainsi que les exportations vers un pays tiers sont exonérées de la taxe lorsqu'elles sont réalisées directement par les personnes mentionnées au 1 de l'article 3.
+
+Les personnes qui acquièrent auprès d'un redevable de la taxe, qui reçoivent en provenance d'un État membre de l'Union européenne autre que la France ou d'un État partie à l'accord sur l'Espace économique européen autre que la France, ou qui importent en provenance de pays tiers des boissons mentionnées à l'article premier qu'elles destinent à une livraison vers un État membre de l'Union européenne autre que la France ou un État partie à l'accord sur l'Espace économique européen autre que la France, ou à une exportation vers un pays tiers acquièrent, reçoivent ou importent ces boissons en franchise de la taxe.
+
+Pour bénéficier des dispositions du deuxième alinéa du présent article, les intéressés doivent adresser au fournisseur, lorsqu'il est situé à Monaco ou en France, et dans tous les cas à la Division des Droits de Régie de la Direction des Services Fiscaux, une attestation certifiant que les boissons sont destinées à faire l'objet d'une livraison ou d'une exportation mentionnée au même alinéa. Cette attestation comporte l'engagement d'acquitter la taxe au cas où la boisson ne recevrait pas la destination qui a motivé la franchise. Une copie de l'attestation est conservée à l'appui de la comptabilité des intéressés.
