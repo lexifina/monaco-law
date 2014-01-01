@@ -4,7 +4,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - a) les prestations relatives :
 
-  - à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement;
+- à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement;
 
 - b) les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont fixées par l'article A-132 de l'annexe au code ;
 
@@ -12,9 +12,9 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - d) les spectacles suivants :
 
-  - foires, salons, expositions autorisées ;
+- foires, salons, expositions autorisées ;
 
-  - jeux de manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines ;
+- jeux de manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines ;
 
 - e) les droits d'entrée pour la visite des parcs zoologiques et botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 

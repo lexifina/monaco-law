@@ -36,4 +36,4 @@
 
 - d) pour les acquisitions intracommunautaires et pour les livraisons et les transferts exonérés en application du I de l'article 31, le 15 du mois suivant celui au cours duquel s'est produit le fait générateur.
 
-Toutefois, la taxe devient exigible lors de la délivrance de la facture, à condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et qu'il ne s'agisse pas d'une facture d'acompte.
+- Toutefois, la taxe devient exigible lors de la délivrance de la facture, à condition qu'elle précède la date d'exigibilité prévue à l'alinéa précédent et qu'il ne s'agisse pas d'une facture d'acompte.

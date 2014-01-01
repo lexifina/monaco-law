@@ -48,4 +48,4 @@ La déclaration mentionnée à l'article 74 du Code des taxes sur le chiffre d'a
 
   - b) Les opérateurs ont la possibilité de regrouper, sous une position unique de la nomenclature combinée, les transactions dont le montant en valeur est inférieur à un seuil fixé par arrêté ministériel. Dans ce cas, les informations visées aux 4° à 8° ne sont pas renseignées.
 
-- Le montant total repris sous cette position unique de la nomenclature combinée ne peut cependant pas excéder une valeur fixée par arrêté ministériel.
+Le montant total repris sous cette position unique de la nomenclature combinée ne peut cependant pas excéder une valeur fixée par arrêté ministériel.

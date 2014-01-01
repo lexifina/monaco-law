@@ -16,7 +16,7 @@ I. - Les acquisitions intracommunautaires de biens meubles corporels situés à 
 
   - c) la mention : « Application de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ».
 
-- II. - Pour l'application du II de l'article 9, sont considérées comme soumises à la taxe sur la valeur ajoutée dans l'État membre, autre que la France, de destination des biens, les acquisitions qui y sont réalisées dans les conditions de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006, et sous réserve que l'acquéreur :
+II. - Pour l'application du II de l'article 9, sont considérées comme soumises à la taxe sur la valeur ajoutée dans l'État membre, autre que la France, de destination des biens, les acquisitions qui y sont réalisées dans les conditions de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006, et sous réserve que l'acquéreur :
 
 - 1° Se soit assuré qu'a été délivrée la facture mentionnée à l'article 71 au destinataire de la livraison consécutive dans l'État membre autre que la France où les biens ont été expédiés ou transportés et comportant :
 

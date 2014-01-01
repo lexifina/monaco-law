@@ -18,7 +18,7 @@ II. - Les activités de services à la personne soumises au taux réduit de taxe
 
 - 1° Entretien de la maison et travaux ménagers ;
 
-- 2° Travaux de petit bricolage dits« homme toutes mains » ;
+- 2° Travaux de petit bricolage dits « homme toutes mains » ;
 
 - 3° Garde d'enfants à domicile ;
 
