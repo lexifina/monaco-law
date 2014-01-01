@@ -1,6 +1,6 @@
 # Article 3
 
-Aux fins de la présente Convention, les États parties s'engagent à :
+Aux fins de la présente Convention, les Etats parties s'engagent à :
 
 - (a) adopter des mesures appropriées aux niveaux national et international qui soient conformes aux principes énoncés dans le Code ;
 

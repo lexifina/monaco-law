@@ -1,6 +1,6 @@
 # Article 40
 
-Le Directeur général de l'UNESCO est le dépositaire de la présente Convention et des amendements y relatifs. En sa qualité de dépositaire, il informe les États parties à la présente Convention ainsi que les autres États membres de l'Organisation :
+Le Directeur général de l'UNESCO est le dépositaire de la présente Convention et des amendements y relatifs. En sa qualité de dépositaire, il informe les Etats parties à la présente Convention ainsi que les autres Etats membres de l'Organisation :
 
 - (a) du dépôt de tout instrument de ratification, d'acceptation, d'approbation ou d'adhésion ;
 

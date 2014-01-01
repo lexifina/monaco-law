@@ -26,7 +26,7 @@ Aux fins de la présente Convention,
 
 - (h) l'administration ou la tentative d'administration d'une substance ou d'une méthode interdite à un sportif, ou l'assistance, l'encouragement, le concours, l'incitation, la dissimulation ou toute autre forme de complicité entraînant une violation ou une tentative de violation des règles antidopage.
 
-4. Aux fins du contrôle du dopage, on entend par «sportif' toute autre personne qui pratique une activité sportive au niveau international ou à un niveau national tel qu'il est défini par l'organisation antidopage nationale concerné et accepté par les États parties, et toute autre personne qui pratique un sport ou participe à une manifestation sportive à un niveau inférieur accepté par les États parties. Aux fins de l'éducation et de la formation, on entend par »sportif' toute personne qui pratique un sport sous l'autorité d'une organisation sportive.
+4. Aux fins du contrôle du dopage, on entend par «sportif' toute autre personne qui pratique une activité sportive au niveau international ou à un niveau national tel qu'il est défini par l'organisation antidopage nationale concerné et accepté par les Etats parties, et toute autre personne qui pratique un sport ou participe à une manifestation sportive à un niveau inférieur accepté par les Etats parties. Aux fins de l'éducation et de la formation, on entend par »sportif' toute personne qui pratique un sport sous l'autorité d'une organisation sportive.
 
 5. Par «personnel d'encadrement des sportifs', on entend tout entraîneur, soigneur, directeur sportif, agent personnel d'équipe, officiel, personnel médical ou paramédical qui travaille avec des sportifs ou qui traite des sportifs participant à une compétition sportive ou s'y préparant.
 

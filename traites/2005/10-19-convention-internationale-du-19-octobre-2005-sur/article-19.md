@@ -1,6 +1,6 @@
 # Article 19
 
-1. Les États parties s'emploient, dans les limites de leurs moyens, à soutenir, concevoir ou mettre en œuvre des programmes d'éducation et de formation sur la lutte contre le dopage. Pour la communauté sportive en général, ces programmes visent à donner des informations à jour et exactes sur :
+1. Les Etats parties s'emploient, dans les limites de leurs moyens, à soutenir, concevoir ou mettre en œuvre des programmes d'éducation et de formation sur la lutte contre le dopage. Pour la communauté sportive en général, ces programmes visent à donner des informations à jour et exactes sur :
 
 - (a) les effets négatifs du dopage sur les valeurs éthiques du sport ;
 
