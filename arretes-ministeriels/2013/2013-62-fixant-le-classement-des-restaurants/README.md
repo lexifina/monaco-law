@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2013-62 du 30 janvier 2013 fixant le classement des restaurants
 
-Version en vigueur au 9 février 2013.
+Version en vigueur au 11 janvier 2014.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/01-30-2013-62@2013.02.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/01-30-2013-62@2014.01.11/
 
 | | |
 | --- | --- |
