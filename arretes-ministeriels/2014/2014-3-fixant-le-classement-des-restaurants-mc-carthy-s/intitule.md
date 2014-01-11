@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2014-3 du 2 janvier 2014 fixant le classement des restaurants « MC CARTHY'S ET BO-ZINE », « BELLA VITA », « PINOCCHIO », « DA SERGIO », « ONEAPPLE CONCEPT BAR », « L'ADAGIO », « IL CAPITANO », « LA MAREE », « LA COTOLETTERIA », « PULCINELLA », « LA BIONDA », « LA MERENDA »
