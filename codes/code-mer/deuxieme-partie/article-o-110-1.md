@@ -14,7 +14,7 @@ Conformément à l'article L.110-2, le Conseil de la Mer est composé de douze m
 
 - Département de l'Intérieur ;
 
-- Département des Relations Extérieures ;
+- Département des Relations Extérieures et de la Coopération;
 
 * le Directeur des Affaires Juridiques ou son représentant ;
 
