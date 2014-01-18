@@ -132,7 +132,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 65 - les Directeurs de services relevant du Département des Finances et de l'Économie rangés dans le 1er groupe
 
-66 - les Directeurs de services relevant du Département des Relations extérieures rangés dans le 1er groupe
+66 - les Directeurs de services relevant du Département des Relations extérieures et de la Coopération rangés dans le 1er groupe
 
 67 - les Directeurs de services relevant du Département des Affaires Sociales et de la Santé rangés dans le 1er groupe
 
