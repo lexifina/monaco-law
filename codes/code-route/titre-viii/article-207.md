@@ -10,15 +10,13 @@ Il en sera de même dans le cas où l'infraction aura été la cause de blessure
 
 Les infractions aux dispositions des articles 4, alinéa 2, 5 et 39, en ce qui concerne les signaux lumineux de circulation, 47 à 53, 64 à 67, 70 à 100, 111, 112, 115, 116, 132, 136 à 140, 143 à 147, 149, 150, 154 à 168, 170, 181 et 182 ou aux arrêtés pris en vue de leur application seront punies d'une amende de 15 à 300 euros.
 
-Les infractions aux dispositions de l'article 102 sont punies, indépendamment du retrait du certificat d'immatriculation, de l'amende prévue au chiffre 2 de l'article 26 du Code pénal ; s'il ne réside pas habituellement à Monaco, le bénéficiaire de l'affectation non autorisée sera passible de la même peine.
-
 Les infractions aux dispositions de l'article 32 sont punies d'une amende de 45 à 75 euros.
 
 Les infractions aux dispositions de l'article 32-1 sont punies d'une amende de 75 à 150 euros.
 
 Les autres infractions qui sont commises en matière d'arrêt et de stationnement des véhicules sont punies d'une amende de 15 à 45 euros.
 
-Les infractions aux autres dispositions du présent Code de la route ou aux arrêtés pris en vue de leur application, seront punies d'une amende de 15 à 745 euros.
+Les infractions aux autres dispositions du présent Code de la route ou aux arrêtés pris en vue de leur application, seront punies d'une amende de 15 à 45 euros.
 
 Dans tous les cas prévus aux alinéas 7, 8, 9 et 10 ci-dessus, les agents verbalisateurs percevront, sauf refus du contrevenant, séance tenante, à titre transactionnel, et sans autre formalité, la moitié du maximum de l'amende encourue. Ils délivreront récépissé de la somme reçue qui sera ensuite versée à l'enregistrement.
 
