@@ -8,6 +8,6 @@ Cette Direction est chargée d'aider à la définition et de mettre en œuvre la
 
 - d'informer et de sensibiliser le public sur les questions environnementales ;
 
-- de participer, pour le compte de la Principauté, avec le Département des relations extérieures aux travaux des organisations internationales relevant de son domaine de compétence ;
+- de participer, pour le compte de la Principauté, avec le Département des relations extérieures et de la coopération aux travaux des organisations internationales relevant de son domaine de compétence ;
 
 - de toutes autres missions qui viendraient à lui être confiées par la voie législative ou réglementaire.
