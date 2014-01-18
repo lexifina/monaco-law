@@ -6,6 +6,6 @@ Pour l'application de cette disposition, il est procédé comme en matière de d
 
 La taxe doit être acquittée par la personne désignée comme destinataire réel des biens sur la déclaration d'importation. Toutefois, cette taxe est solidairement due par le déclarant en douane qui agit dans le cadre d'un mandat de représentation indirecte, tel que défini par l'article 5 du Code des douanes communautaire.
 
-Le taux de la taxe applicable aux importations est celui en vigueur au moment de la déclaration de mise à la consommation. Dans les cas de réimportation visés à l'article84, la taxe sur la valeur ajoutée est perçue au taux qui serait applicable, en régime intérieur, aux livraisons de biens et prestations de services correspondantes.
+Le taux de la taxe applicable aux importations est celui en vigueur au moment de la déclaration de mise à la consommation. Dans les cas de réimportation visés à l'article 84, la taxe sur la valeur ajoutée est perçue au taux qui serait applicable, en régime intérieur, aux livraisons de biens et prestations de services correspondantes.
 
 2. Par dérogation au 1, la taxe afférente à l'importation de l'or sous forme de matière première ou de produits semi-ouvrés d'une pureté égale ou supérieure à 325 millièmes est acquittée sur la déclaration mentionnée à l'article 70 par l'assujetti désigné comme destinataire réel du bien sur la déclaration d'importation.

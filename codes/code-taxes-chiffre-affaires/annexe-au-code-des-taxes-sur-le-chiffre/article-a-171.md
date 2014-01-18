@@ -1,3 +1,0 @@
-# Article A-171
-
-Les personnes qui réalisent les opérations définies à l'article 5-4° du code doivent, outre la tenue du livre spécial visé à l'article 66-3° dudit code, tenir deux répertoires à colonnes, non sujets au timbre, présentant jour par jour, sans blanc ni interligne et par ordre de numéro, tous les mandats, promesses de ventes, actes translatifs de propriété et, d'une manière générale, tous actes se rattachant à leur profession d'intermédiaire ou leur qualité de propriétaire ; l'un des répertoires est affecté aux opérations d'intermédiaire, l'autre aux opérations effectuées en qualité de propriétaire.

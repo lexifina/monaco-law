@@ -20,4 +20,4 @@ Toutefois, l'exonération ne s'applique pas :
 
 - b) Aux prestations de mise à disposition d'un local meublé ou garni effectuées à titre onéreux et de manière habituelle, comportant en sus de l'hébergement au moins trois des prestations suivantes, rendues dans des conditions similaires à celles proposées par les établissements d'hébergement à caractère hôtelier exploités de manière professionnelle : le petit déjeuner, le nettoyage régulier des locaux, la fourniture de linge de maison et la réception, même non personnalisée, de la clientèle.
 
-- c)aux locations de locaux nus, meublés ou garnis, consenties par bail ou convention de toute nature à l'exploitant d'un établissement d'hébergement qui remplit les conditions fixées au a) ou au b) ci-dessus.
+- c) aux locations de locaux nus, meublés ou garnis, consenties par bail ou convention de toute nature à l'exploitant d'un établissement d'hébergement qui remplit les conditions fixées au a) ou au b) ci-dessus.
