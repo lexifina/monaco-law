@@ -1,3 +1,3 @@
 # Article 1er
 
-Il est créé au Ministère d'État une direction des Relations diplomatiques et consulaires placée sous l'autorité du Conseiller de Gouvernement pour les Relations extérieures.
+Il est créé au Ministère d'État une direction des Relations diplomatiques et consulaires placée sous l'autorité du Conseiller de Gouvernement pour les Relations extérieures et de la Coopération.
