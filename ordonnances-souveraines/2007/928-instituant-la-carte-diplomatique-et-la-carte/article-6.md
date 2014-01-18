@@ -6,6 +6,6 @@ Elles comportent également :
 
 - la photographie du titulaire, tête nue, et sa signature,
 
-- la signature du Conseiller de Gouvernement pour les Relations Extérieures.
+- la signature du Conseiller de Gouvernement pour les Relations Extérieures et de la Coopération.
 
 En outre, elles précisent que les personnes visées au premier alinéa ne peuvent être soumises à aucune forme d'arrestation, ni de détention.

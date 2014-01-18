@@ -6,4 +6,4 @@ Le document délivré au consul de carrière exerçant ses fonctions dans la Pri
 
 Le document délivré au consul honoraire exerçant ses fonctions dans la Principauté, est de couleur jaune, noire et or.
 
-Le document délivré au consul honoraire de la Principauté de Monaco exerçant ses fonctions dans un Etat étranger, est de couleur rouge, noire et or.
+Le document délivré au consul honoraire de la Principauté de Monaco exerçant ses fonctions dans un État étranger, est de couleur rouge, noire et or.

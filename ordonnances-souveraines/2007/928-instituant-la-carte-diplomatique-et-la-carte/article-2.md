@@ -6,4 +6,4 @@ Cette carte est attribuée à toute personne physique autorisée à exercer soit
 
 Elle est attribuée au conjoint du consul de carrière ainsi qu'à ses enfants mineurs lorsque ces derniers résident dans la Principauté.
 
-Elle est également attribuée à toute personne physique autorisée à exercer les fonctions de consul de la Principauté de Monaco dans un Etat étranger.
+Elle est également attribuée à toute personne physique autorisée à exercer les fonctions de consul de la Principauté de Monaco dans un État étranger.

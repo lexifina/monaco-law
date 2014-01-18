@@ -20,4 +20,4 @@ Elle comporte :
 
 - la photographie du titulaire, tête nue, et sa signature ;
 
-- la signature du Conseiller de Gouvernement pour les Relations Extérieures.
+- la signature du Conseiller de Gouvernement pour les Relations Extérieures et de la Coopération.

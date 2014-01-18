@@ -16,10 +16,10 @@ f ) la date de délivrance et la période de validité ;
 
 g ) le numéro d'ordre ;
 
-h ) la dénomination de l'Etat accréditant, le cas échéant.
+h ) la dénomination de l'État accréditant, le cas échéant.
 
 Elles comportent :
 
 - la photographie du titulaire, tête nue, et sa signature ;
 
-- la signature du Conseiller de Gouvernement pour les Relations Extérieures. En outre, elles mentionnent que le titulaire ayant la qualité de diplomate ou de consul de carrière, ne peut être soumis à aucune forme d'arrestation, ni de détention.
+- la signature du Conseiller de Gouvernement pour les Relations Extérieures et de la Coopération. En outre, elles mentionnent que le titulaire ayant la qualité de diplomate ou de consul de carrière, ne peut être soumis à aucune forme d'arrestation, ni de détention.

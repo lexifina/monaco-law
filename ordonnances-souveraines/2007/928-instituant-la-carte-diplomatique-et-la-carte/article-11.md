@@ -4,4 +4,4 @@ Les personnes physiques non titulaires d'une carte diplomatique ou d'une carte c
 
 Cette carte est délivrée, sans frais, sur présentation d'une attestation émise par l'Autorité compétente.
 
-Elle a une durée de validité de cinq années. Elle est restituée au Département des Relations Extérieures, soit à la date de son expiration, soit à la cessation des fonctions ayant justifié son attribution.
+Elle a une durée de validité de cinq années. Elle est restituée au Département des Relations Extérieures et de la Coopération, soit à la date de son expiration, soit à la cessation des fonctions ayant justifié son attribution.
