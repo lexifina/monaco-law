@@ -30,4 +30,4 @@ c) de s'assurer que les manifestations à caractère exceptionnel, récurrentes 
 
 d) de vérifier les conditions de transport des matières dangereuses.
 
-e) ainsi que toute mission qui pourrait lui être confiée sur saisine du Département des Relations Extérieures en regard des engagements internationaux de la Principauté de Monaco.
+e) ainsi que toute mission qui pourrait lui être confiée sur saisine du Département des Relations Extérieures et de la Coopération en regard des engagements internationaux de la Principauté de Monaco.
