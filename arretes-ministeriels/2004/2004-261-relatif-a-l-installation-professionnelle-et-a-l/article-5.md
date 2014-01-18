@@ -12,7 +12,7 @@ Elle est composée comme suit :
 
 - un représentant du Département des Affaires Sociales et de la Santé ;
 
-- un représentant du Département des Relations Extérieures ;
+- un représentant du Département des Relations Extérieures et de la Coopération ;
 
 - le Contrôleur Général des Dépenses ou son représentant ;
 
