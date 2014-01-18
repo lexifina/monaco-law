@@ -12,7 +12,7 @@ c) du régime visé à l'article 10 ci-dessus en ce qui concerne l'entrée et le
 
 d) s'ils résidaient auparavant à l'étranger, du droit d'importer en franchise leurs mobiliers et effets personnels à l'occasion de leur première installation ;
 
-e) d'un titre de séjour spécial délivré par le Département des Relations Extérieures ;
+e) d'un titre de séjour spécial délivré par le Département des Relations Extérieures et de la Coopération;
 
 f) en période de tension internationale, des facilités de rapatriement accordées aux membres des missions diplomatiques.
 
