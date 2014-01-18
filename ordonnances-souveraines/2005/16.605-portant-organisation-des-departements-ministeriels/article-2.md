@@ -2,7 +2,7 @@
 
 Les attributions des départements se répartissent comme suit :
 
-1 - département des Relations extérieures:
+1 - département des Relations extérieures et de la Coopération:
 
 - a) Immunités, gestion diplomatique et affaires consulaires,
 
