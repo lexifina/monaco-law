@@ -1,3 +1,0 @@
-# Article 8
-
-Pour réduire au minimum l'activité microbiologique, les denrées précuites destinées à être surgelées ne doivent pas être maintenues dans la zone des températures comprise entre + 10°C et + 60°C. Elles doivent être refroidies aussi rapidement que possible à l'aide d'un équipement convenable de prérefroidissement dans des conditions compatibles avec l'hygiène. Le refroidissement et la surgélation doivent se faire immédiatement mais, en cas d'impossibilité, les denrées devraient être maintenues à une température supérieure à 60°C en attendant qu'elles puissent être refroidies et ensuite surgelées.
