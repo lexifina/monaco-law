@@ -1,15 +1,15 @@
 # Article 2
 
-Pour l'année 2013, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
+Pour l'année 2014, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
 
 Pour les particuliers :
 
-Découverts : 15,10 %
+- Découverts : 15,44 %
 
-Prêts personnels : 5,33 %
+- Prêts personnels : 5,31 %
 
-Prêts immobiliers : 4,95 %
+- Prêts immobiliers : 5,32 %
 
 Pour les entreprises et entrepreneurs individuels :
 
-Découverts : 9,18 %.
+- Découverts : 8,91 %
