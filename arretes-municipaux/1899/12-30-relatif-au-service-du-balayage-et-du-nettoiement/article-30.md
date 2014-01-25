@@ -1,3 +1,0 @@
-# Article 30
-
-La société générale des engrais est obligée d'effectuer les vidanges et curages des fosses quatre jours francs après la demande écrite, faite par les particuliers dans son bureau, et de jeter les matières en provenant dans les déversoirs établis ou à établir. Les propriétaires sont invités, en conséquence de l'article qui précède, à ne pas attendre que leur fosse déborde pour faire la demande de vidange, et tout débordement de fosse donnant lieu à de mauvaises odeurs, constituera une contravention, sans préjudice d'un supplément de un franc par mètre cube extrait à payer par les propriétaires à la société pour opération urgente et commandée par la police.
