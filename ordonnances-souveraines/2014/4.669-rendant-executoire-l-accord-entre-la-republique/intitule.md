@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 4.669 du 15 janvier 2014 rendant exécutoire l'Accord entre la République française et la Principauté de Monaco relatif à la prise en charge sur le territoire français de déchets radioactifs monégasques, signé à Paris le 9 novembre 2010
