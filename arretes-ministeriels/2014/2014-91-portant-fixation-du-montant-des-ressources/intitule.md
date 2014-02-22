@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2014-91 du 10 février 2014 portant fixation du montant des ressources personnelles telles que prévues par l'ordonnance souveraine n° 4.712 du 10 février 2014 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
