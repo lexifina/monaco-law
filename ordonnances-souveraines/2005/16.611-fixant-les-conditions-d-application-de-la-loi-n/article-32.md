@@ -8,4 +8,6 @@ Des autorisations exceptionnelles d'absence peuvent, sur leur demande, être acc
 
 - 3° - de remplir, à Monaco, un mandat syndical ;
 
-- 4° - de poursuivre des études susceptibles de parfaire des connaissances utiles à l'exercice d'une fonction publique.
+- 4° - de poursuivre des études susceptibles de parfaire des connaissances utiles à l'exercice d'une fonction publique ;
+
+- 5° - d'accomplir, au titre de la Coopération Internationale, une mission de volontariat civil.
