@@ -4,7 +4,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - a) les prestations relatives :
 
-- à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement;
+  - à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement;
 
 - b) les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont fixées par l'article A-132 de l'annexe au code ;
 
@@ -20,7 +20,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - f) les transports de voyageurs ;
 
-- g) les droits d'entrée dans les salles de spectacles cinématographiques quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres et documents audiovisuels qui sont présentés ;
+- g) (g abrogé) ; ;
 
 - h) Les abonnements souscrits par les usagers afin de recevoir les services de télévision.
 
@@ -34,7 +34,19 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - i) les cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres.
 
-- Cette disposition n'est pas applicable aux cessions de droits portant sur des œuvres d'architecture et des logiciels.
+- Cette disposition n'est pas applicable aux cessions de droits portant sur des œuvres d'architecture et des logiciels, ainsi qu'aux cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées dans le cadre de festivals de cinéma ou au cours des séances de spectacles cinématographiques suivantes :
+
+  - 1° Les séances publiques et payantes organisées exceptionnellement par les associations et les autres groupements légalement constitués agissant sans but lucratif ;
+
+  - 2° Les séances privées organisées par des associations et organismes assimilés habilités à diffuser la culture par le cinéma ;
+
+  - 3° Les séances organisées par les associations et organismes qui ont pour objet la collecte, la conservation, la restauration et la diffusion du patrimoine cinématographique ;
+
+  - 4° Les séances organisées dans le cadre des services publics à caractère non commercial ;
+
+  - 5° Les séances gratuites ;
+
+  - 6° Les séances en plein air autres que celles organisées par les exploitants d'établissements de spectacles cinématographiques en raison de la suspension du fonctionnement d'une de leurs salles.
 
 - j) (j abrogé) ;
 

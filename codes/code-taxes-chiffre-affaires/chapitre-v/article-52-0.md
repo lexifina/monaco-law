@@ -1,6 +1,6 @@
 # Article 52-0
 
-La taxe sur la valeur ajoutée est perçue au taux réduit de 5 % en ce qui concerne :
+La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui concerne :
 
 - A. - Les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur :
 
@@ -8,7 +8,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5 % en ce qui conc
 
     - a) Les produits de confiserie ;
 
-    - b) Les chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit de 5 % ;
+    - b) Les chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit de 5,5 % ;
 
     - c) Les margarines et graisses végétales ;
 
@@ -28,7 +28,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5 % en ce qui conc
 
 - La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site.
 
-- C. - La fourniture de logement et de nourriture dans les maisons de retraite et les établissements accueillant des personnes handicapées. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne.
+- C. - La fourniture de logement et de nourriture dans les maisons de retraite, les établissements accueillant des personnes handicapées et les logements-foyers. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne.
 
 - D. - Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes, qui sont dans l'incapacité de les accomplir, fournies par des entreprises agréées.
 
@@ -37,3 +37,11 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5 % en ce qui conc
 - F. - 1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques, concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
 
 - 2° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans des établissements où il est servi facultativement des consommations pendant le spectacle.
+
+- G. - Les droits d'entrée dans les salles de spectacles cinématographiques, quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents audiovisuels qui sont présentés.
+
+- H. - Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article 56 du code des taxes sur le chiffre d'affaires ou dans le cadre de festivals de cinéma.
+
+- I- 1° Les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires, effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un État membre de l'Union européenne autre que la France ;
+
+- 2° Les acquisitions intracommunautaires d'œuvres d'art qui ont fait l'objet d'une livraison dans un État membre autre que la France par d'autres assujettis que des assujettis revendeurs.

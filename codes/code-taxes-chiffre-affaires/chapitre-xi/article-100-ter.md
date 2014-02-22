@@ -12,4 +12,4 @@
 
 - e. les produits pétroliers utilisés pour la lubrification des véhicules et engins exclus du droit à déduction ainsi que des véhicules et engins pris en location quand le preneur ne peut pas déduire la taxe relative à cette location.
 
-2° Les dispositions du 1° ne s'appliquent pas lorsque les produits sont ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
+- 2° Les dispositions du 1° ne s'appliquent pas lorsque les produits sont ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.

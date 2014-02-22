@@ -12,7 +12,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 3 - Biens usagés. Déchets neufs d'industrie et matières de récupération :
 
-  - 1° Sous réserve le cas échéant, des dispositions de l'article 5 -1 et 2 du III, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
+  - 1° Sous réserve le cas échéant, des dispositions de l'article 5 - 1 et 2 du III, les ventes de biens usagés faites par les personnes qui les ont utilisés pour les besoins de leurs exploitations.
 
   - Toutefois, l'exonération ne s'applique pas aux biens qui ont ouvert droit à déduction complète ou partielle de la taxe sur la valeur ajoutée lors de leur achat à Monaco et en France, acquisition intracommunautaire, importation ou livraison à soi-même.
 

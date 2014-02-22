@@ -26,7 +26,7 @@ Elle peut être établie de manière périodique pour plusieurs livraisons de bi
 
 II. - Une ordonnance souveraine fixe les mentions obligatoires qui doivent figurer sur les factures. Cette ordonnance détermine notamment les éléments d'identification des parties, les données concernant les biens livrés ou les services rendus et celles relatives à la détermination de la TVA.
 
-III. - Les montants figurant sur la facture peuvent être exprimés dans toute monnaie, pour autant que le montant de taxe à payer ou à régulariser soit déterminé en euros en utilisant le mécanisme de conversion prévu au 2 de l'article 35.
+III. - Les montants figurant sur la facture peuvent être exprimés dans toute monnaie, pour autant que le montant de taxe à payer ou à régulariser soit déterminé en € en utilisant le mécanisme de conversion prévu au 2 de l'article 35.
 
 Lorsqu'elle est rédigée dans une langue étrangère, la direction des Services fiscaux peut, à des fins de contrôle, exiger une traduction en français.
 

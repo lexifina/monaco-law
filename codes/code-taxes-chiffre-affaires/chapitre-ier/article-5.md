@@ -48,7 +48,7 @@ II - Les opérations suivantes sont assimilées, selon le cas, à des livraisons
 
 - 2° Les prestations de services à titre gratuit effectuées par l'assujetti pour ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise ;
 
-3. Une ordonnance souveraine définit les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible.
+- 3. Une ordonnance souveraine définit les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible.
 
 III - Sont également soumises à la taxe sur la valeur ajoutée :
 

@@ -20,8 +20,8 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - 5° Produits suivants à usage agricole :
 
-  - a) amendements calcaires ;
+  - a) (a abrogé) ;
 
-  - b) engrais ;
+  - b) engrais et amendements calcaires mentionnés à l'annexe I au règlement (CE) n° 889/2008 de la Commission du 5 septembre 2008 portant modalités d'application du règlement (CE) n° 834/2007 du Conseil relatif à la production biologique et à l'étiquetage des produits biologiques en ce qui concerne la production biologique, l'étiquetage et les contrôles ;
 
-  - c) soufre, sulfate de cuivre et grenaille utilisée pour la fabrication du sulfate de cuivre, ainsi que les produits cupriques contenant au minimum 10 % de cuivre.
+  - c) matières fertilisantes ou supports de culture d'origine organique agricole.
