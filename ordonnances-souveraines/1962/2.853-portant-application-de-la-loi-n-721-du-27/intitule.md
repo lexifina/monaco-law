@@ -1,1 +1,1 @@
-Ordonnance Souveraine n° 2.853 du 22 juin 1962 portant application de la loi n° 721 du 27 décembre 1961 instituant un répertoire du commerce et de l'industrie
+Ordonnance Souveraine n° 2.853 du 22 juin 1962 portant application de la loi n° 721 du 27 décembre 1961 instituant un Répertoire du commerce et de l'industrie
