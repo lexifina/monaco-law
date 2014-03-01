@@ -110,6 +110,8 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 54 - les Représentants Permanents de Monaco auprès des Organismes Internationaux
 
+54 bis - le Haut Commissaire à la protection des droits, des libertés et à la Médiation
+
 55 - les Directeurs Généraux des Départements
 
 56 - le Directeur Général du Conseil national

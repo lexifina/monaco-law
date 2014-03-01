@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 724 du 5 octobre 2006 réglant les rangs et préséances entre les autorités et les fonctionnaires de la Principauté
 
-Version en vigueur au 18 janvier 2014.
+Version en vigueur au 1er mars 2014.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2006/10-05-724@2014.01.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2006/10-05-724@2014.03.01/
 
 | | |
 | --- | --- |
