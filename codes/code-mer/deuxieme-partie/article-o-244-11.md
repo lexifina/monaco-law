@@ -8,7 +8,7 @@ Sont interdites de pêche les espèces suivantes :
 
 3° thon rouge ( Thunnus thynnus ) ;
 
-4° homard ( Homarus gammarus ) et langouste ( Palinuridae ) du 15 août au 15 février pour les homards et langoustes mâles ou non oeuvés ; les femelles de langoustes et de homards oeuvées sont immédiatement remises à la mer en cas de capture accidentelle ;
+4° homard ( Homarus gammarus ) et langouste ( Palinuridae ) du 15 août au 15 février pour les homards et langoustes mâles ou non œuvés ; les femelles de langoustes et de homards œuvées sont immédiatement remises à la mer en cas de capture accidentelle ;
 
 5° oursin violet ( Paracentrotus lividus ), du 1er avril au 31 août ;
 

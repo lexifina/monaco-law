@@ -1,5 +1,11 @@
 # Article O. 311-3
 
-L'acte de naturalisation ne peut être prêté ou loué qu'au cas où le navire est lui-même prêté ou loué. Il ne peut être prêté ou loué qu'à une personne physique ou morale remplissant les conditions prévues à l'article O.311-1.
+Un navire peut être prêté ou loué sous réserve de la rédaction d'une attestation de prêt ou d'un contrat de location.
 
-L'acte de naturalisation prêté ou loué est annoté en conséquence par le Directeur des affaires maritimes.
+Le prêt est limité aux personnes physiques ou morales remplissant les conditions prévues à l'article O.311-1.
+
+La location est autorisée lorsque l'acte de naturalisation mentionne s'il s'agit d'un armement à la plaisance locative ou au commerce à condition que l'armateur remplisse les conditions prévues à l'article O.311-1.
+
+Un armement à la plaisance locative autorise les périodes de location qui ne doivent pas dépasser trois mois au plus dans l'année et alterner avec un usage privé du navire qui constitue son mode d'exploitation principal ; en outre, les contrats de location doivent être visés par la Direction des Affaires Maritimes.
+
+Un armement au commerce implique une activité commerciale permanente sans possibilité pour son propriétaire d'en faire un usage personnel direct quelconque.
