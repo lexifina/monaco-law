@@ -10,18 +10,18 @@
 
 - du plan de répartition des indices de construction de référence PU-IC-PTE-D (annexe n° 3) ;
 
-- des dispositions particulières RU-CDN-DP-V1D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de la Condamine ;
+- des dispositions particulières RU-CDN-DP-V2D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de la Condamine ;
 
-- des dispositions particulières RU-FON-DP-V1D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
+- des dispositions particulières RU-FON-DP-V2D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
 
-- des dispositions particulières RU-EXO-DP-V1D (annexe n° 6) et des plans de coordination correspondants applicables au quartier du Jardin Exotique ;
+- des dispositions particulières RU-EXO-DP-V2D (annexe n° 6) et des plans de coordination correspondants applicables au quartier du Jardin Exotique ;
 
 - des dispositions particulières RU-LVT-DP-V1D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
 
-- des dispositions particulières RU-MGI-DP-V1D (annexe n° 8) et des plans de coordination correspondants applicables au quartier des Moneghetti ;
+- des dispositions particulières RU-MGI-DP-V2D (annexe n° 8) et des plans de coordination correspondants applicables au quartier des Moneghetti ;
 
-- des dispositions particulières RU-MCO-DP-V1D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
+- des dispositions particulières RU-MCO-DP-V2D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
 
-- des dispositions particulières RU-LRS-DP-V1D (annexe n° 10) et des plans de coordination correspondants applicables au quartier de La Rousse.
+- des dispositions particulières RU-LRS-DP-V2D (annexe n° 10) et des plans de coordination correspondants applicables au quartier de la Rousse.
 
 Ce règlement d'urbanisme est annexé à la présente ordonnance. Les dispositions particulières visées aux annexes n° 4 et suivantes et les plans correspondants complètent et/ou précisent, pour chaque quartier et de manière indissociable, les dispositions générales visées à l'annexe n° 1. Elles peuvent également s'y substituer.
