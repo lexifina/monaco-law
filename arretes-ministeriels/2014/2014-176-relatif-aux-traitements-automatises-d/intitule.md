@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2014-176 du 28 mars 2014 relatif aux traitements automatisés d'informations nominatives mis en œuvre par les personnes morales de droit public, autorités publiques, organismes de droit privé investis d'une mission d'intérêt général ou concessionnaires d'un service public
