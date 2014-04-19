@@ -4,7 +4,7 @@ Sont habilités à faire acte de candidature aux concours de praticiens hospital
 
 - a) Pour les fonctions de chef de service et chef de service adjoint :
 
-  - les praticiens inscrits ou ayant été inscrits sur une liste d'aptitude aux fonctions de maître de conférences agrégé des universités, ou ayant le titre de Professeur des Universités ;
+  - les praticiens inscrits ou ayant été inscrits sur une liste d'aptitude aux fonctions de maître de conférences agrégé des universités, ou ayant le titre de Professeur des Universités ou la qualification de praticien Professeur agrégé du Service de Santé des Armées ;
 
   - les docteurs en médecine, les docteurs en pharmacie, et les docteurs en chirurgie dentaire, titulaires d'un diplôme de spécialité ou à défaut de spécialité, d'un diplôme ouvrant droit à une compétence reconnue, et ayant exercé à la date de la prise de fonction deux ans au moins en qualité de chef de clinique des universités assistant des hôpitaux dans un centre hospitalier universitaire ;
 
