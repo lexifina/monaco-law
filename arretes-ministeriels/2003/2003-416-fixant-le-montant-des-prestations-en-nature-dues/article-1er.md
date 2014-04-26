@@ -272,11 +272,9 @@ DAMO | Indemnité de déplacement pour l'Orthophoniste | 1,52 euro(s)
 
 - lorsque, en l'absence de mention expresse du prescripteur interdisant la substitution par le pharmacien, le pharmacien délivre la spécialité prescrite alors qu'il existe une spécialité appartenant au même groupe générique.
 
-* le prix de vente inscrit sur la vignette du médicament délivré lorsque le médecin a exclu par mention expresse portée sur la prescription la possibilité de délivrer par substitution à la spécialité prescrite une spécialité du même groupe générique.
+* Le prix de vente public opposable aux officines à la date de la délivrance en application de la réglementation française lorsque le médecin a exclu par mention expresse portée sur la prescription la possibilité de délivrer par substitution à la spécialité prescrite une spécialité du même groupe générique.
 
-2. Pour les spécialités pharmaceutiques n'appartenant à aucun des groupes génériques définis en France, le prix de vente inscrit sur la vignette du médicament délivré.
-
-Dans les cas visés aux points 1. et 2., le service des prestations ne pourra intervenir que contre remise de la vignette délivrée en même temps que le produit par le pharmacien.
+2. Pour les spécialités pharmaceutiques n'appartenant à aucun des groupes génériques le prix de vente public opposable aux officines à la date de la délivrance en application de la réglementation française.
 
 3. Les médicaments officinaux mentionnés à l'article 38 de la loi n° 1.029 du 16 juillet 1980, modifiée, concernant l'exercice de la pharmacie et les préparations magistrales délivrés sur prescription médicale ne sont pas remboursés, sauf autorisation exceptionnelle pouvant être accordée par le service médical de la Caisse d'Assurance Maladie des Travailleurs Indépendants lorsqu'ils appartiennent à l'une des catégories ci-après :
 
