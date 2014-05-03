@@ -54,4 +54,6 @@ Conformément aux dispositions de l'article 3 de la loi n° 822 du 23 juin 1967,
 
 - 26° Opérateur public des télécommunications ;
 
-- 27° Société d'exploitation des ports de Monaco
+- 27° Société d'exploitation des ports de Monaco ;
+
+- 28° Les entreprises, associations, et organismes divers, dont l'activité principale consiste en l'organisation, la promotion, la gestion ou la supervision d'événements sportifs, pour les seuls salariés participant directement à l'organisation de ces événements.
