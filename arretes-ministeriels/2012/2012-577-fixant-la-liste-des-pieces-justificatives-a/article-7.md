@@ -1,3 +1,0 @@
-# Article 7
-
-Pour les demandes d'autorisation de constitution de sociétés anonymes ou en commandite par actions en application de l'ordonnance du 5 mars 1895, modifiée, susvisée, et lorsque l'activité envisagée est assujettie à une procédure d'agrément ou d'autorisation spécifique comme, notamment, les activités régies par la loi n° 1.264 du 23 décembre 2002, susvisée, par la loi n° 1.266 du 23 décembre 2002, susvisée, ou par la loi n° 1.338 du 7 septembre 2007, modifiée, susvisée, le demandeur doit fournir à la Direction de l'Expansion Économique, en sus des pièces et documents mentionnés à l'article 6, la décision d'agrément ou d'autorisation ou l'accusé de réception du dépôt du dossier auprès du service administratif ou de l'organisme compétent.
