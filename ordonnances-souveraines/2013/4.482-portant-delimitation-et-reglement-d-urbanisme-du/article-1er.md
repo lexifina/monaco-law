@@ -16,12 +16,12 @@
 
 - des dispositions particulières RU-EXO-DP-V2D (annexe n° 6) et des plans de coordination correspondants applicables au quartier du Jardin Exotique ;
 
-- des dispositions particulières RU-LVT-DP-V1D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
+- des dispositions particulières RU-LVT-DP-V2D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
 
 - des dispositions particulières RU-MGI-DP-V2D (annexe n° 8) et des plans de coordination correspondants applicables au quartier des Moneghetti ;
 
 - des dispositions particulières RU-MCO-DP-V2D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
 
-- des dispositions particulières RU-LRS-DP-V2D (annexe n° 10) et des plans de coordination correspondants applicables au quartier de la Rousse.
+- des dispositions particulières RU-LRS-DP-V2D (annexe n° 10) et des plans de coordination correspondants applicables au quartier de la Rousse
 
 Ce règlement d'urbanisme est annexé à la présente ordonnance. Les dispositions particulières visées aux annexes n° 4 et suivantes et les plans correspondants complètent et/ou précisent, pour chaque quartier et de manière indissociable, les dispositions générales visées à l'annexe n° 1. Elles peuvent également s'y substituer.
