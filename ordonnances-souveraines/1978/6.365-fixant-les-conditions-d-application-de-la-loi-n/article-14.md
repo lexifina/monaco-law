@@ -1,6 +1,6 @@
 # Article 14
 
-La durée du stage est de six mois. Elle est toutefois de douze mois pour les fonctions relevant de l'enseignement ou de la Sûreté publique.
+La durée du stage est de six mois. Elle est toutefois de douze mois pour les fonctions relevant de l'enseignement et de quatorze pour celles de la sûreté publique.
 
 Le stage peut être prolongé pour une période de six mois sur proposition du chef de service.
 
