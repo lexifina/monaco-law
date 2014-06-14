@@ -1,6 +1,6 @@
 # Article 6
 
-1. Aux fins du présent accord, la notion de « paiement d'intérêts » vise :
+1. Aux fins du présent accord, la notion de » paiement d'intérêts « vise :
 
 - a) les intérêts payés ou inscrits en compte, qui se rapportent à des titres de créance ou résultant de dépôts effectués par la clientèle, assortis ou non de garanties hypothécaires ou d'une clause de participation aux bénéfices du débiteur, et notamment les intérêts des titres du Trésor et des obligations d'emprunts, y compris les primes et lots attachés à ceux-ci. Les pénalisations pour paiement tardif ne sont pas considérées comme des paiements d'intérêts. Toutefois sont exclus les intérêts résultant de prêts consentis entre personnes physiques agissant à titre privé en dehors de toute activité commerciale ou d'affaires ;
 

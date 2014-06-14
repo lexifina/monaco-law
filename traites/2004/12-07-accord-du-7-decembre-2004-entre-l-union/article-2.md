@@ -1,6 +1,6 @@
 # Article 2
 
-1. Aux fins du présent accord, la notion de « bénéficiaire effectif » vise toute personne physique qui reçoit des paiements d'intérêts ou toute personne physique à laquelle un paiement d'intérêts est attribué, sauf dans le cas où cette personne apporte la preuve que ce paiement n'a pas été reçu ou attribué pour son bénéfice propre, à savoir qu'elle :
+1. Aux fins du présent accord, la notion de » bénéficiaire effectif « vise toute personne physique qui reçoit des paiements d'intérêts ou toute personne physique à laquelle un paiement d'intérêts est attribué, sauf dans le cas où cette personne apporte la preuve que ce paiement n'a pas été reçu ou attribué pour son bénéfice propre, à savoir qu'elle :
 
 - a) intervient en qualité d'agent payeur au sens de l'article 4 ;
 
