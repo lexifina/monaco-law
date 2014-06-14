@@ -10,4 +10,4 @@ Pour les actes identiques réalisés sur des organes ou des sites anatomiques pa
 
 - soit il existe un libellé sans précision de latéralité ; dans ce cas, ce libellé concerne un acte unilatéral ; pour coder la réalisation bilatérale de l'acte, quand celle-ci n'est pas interdite par les règles d'incompatibilité définies à l'article 12 du présent arrêté, il convient de coder deux fois l'acte en respectant les règles d'association décrites dans les articles 11 et 20 du présent arrêté.
 
-Cas particulier : pour les actes d'anatomie et de cytologie pathologiques, les actes identiques d'examen de prélèvement sur des organes pairs ou sur plusieurs structures anatomiques sont identifiés par un code et un libellé spécifique.
+Cas particulier : pour les actes d'anatomie et de cytologie pathologiques, les actes identiques d'examen de prélèvement sur plusieurs structures anatomiques sont identifiés par un code et un libellé spécifique.

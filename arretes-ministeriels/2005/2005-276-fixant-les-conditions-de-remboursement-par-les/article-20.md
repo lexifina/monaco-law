@@ -12,7 +12,27 @@ Par dérogation à cette disposition, sont autorisés :
 
 4. Le cumul des honoraires de l'ostéodensitométrie [Absorptiométrie osseuse] sur «2 sites, par méthode biphotonique, avec ceux de la consultation pour les rhumatologues et les médecins de médecine physique et de réadaptation.
 
-5. Le cumul des honoraires des actes de biopsie dermo-épidermique, par abord direct (QZHA001) et de biopsie des tissus sous-cutanés susfasciaux, par abord direct (QZHA005) avec ceux de la consultation pour les dermatologues.
+5. le cumul des honoraires de la consultation avec ceux des actes de biopsie suivants :
+
+- QZHA001 : Biopsie dermoépidermique, par abord direct ;
+
+- QZHA005 : Biopsie des tissus souscutanés susfasciaux, par abord direct ;
+
+- BAHA001 : Biopsie unilatérale ou bilatérale de paupière ;
+
+- CAHA001 : Biopsie unilatérale ou bilatérale de la peau de l'oreille externe ;
+
+- CAHA002 : Biopsie unilatérale ou bilatérale du cartilage de l'oreille externe ;
+
+- GAHA001 : Biopsie de la peau du nez et/ou de la muqueuse narinaire ;
+
+- HAHA002 : Biopsie de lèvre ;
+
+- QEHA001 : Biopsie de la plaque aréolomamelonnaire ;
+
+- JHHA001 : Biopsie du pénis ;
+
+- JMHA001 : Biopsie de la vulve.
 
 Dans ce cas, l'acte de consultation est tarifé à taux plein et l'acte technique est tarifé à 50 % de sa valeur.
 
