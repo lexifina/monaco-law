@@ -1,0 +1,3 @@
+# Article 9
+
+Si, compte tenu des éléments communiqués par chaque conducteur de taxi dans les conditions prévues à l'article 4, il apparaît que, pour certains week-end de la période de « haute saison » ou lors des manifestations ou évènements visés à l'article 3, le nombre prévisionnel de véhicules taxi en service effectif est inférieur au nombre minimal requis pour assurer le service minimum, le Ministre d'État a la possibilité de mettre en demeure l'ensemble des conducteurs de taxi de se déclarer, dans un délai de huit jours, volontaires pour assurer un service les jours et sur les tranches horaires journalières concernées et ce, afin d'atteindre le nombre minimal requis pour garantir le service minimum.
