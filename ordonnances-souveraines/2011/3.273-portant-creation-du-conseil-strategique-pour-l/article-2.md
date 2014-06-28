@@ -1,12 +1,14 @@
 # Article 2
 
-Le Conseil stratégique pour l'attractivité est présidé par le Ministre d'État ou son représentant.
+Le Conseil Stratégique pour l'Attractivité est présidé par le Ministre d'État ou son représentant.
 
 Il comprend en outre :
 
 - le Conseiller de Gouvernement pour les Finances et l'Économie ou son représentant ;
 
 - le Conseiller de Gouvernement pour l'Équipement, l'Environnement et l'Urbanisme ou son représentant ;
+
+- le Maire ou son représentant ;
 
 - deux Conseillers Nationaux ;
 
