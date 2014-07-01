@@ -16,9 +16,11 @@ Les infractions aux dispositions de l'article 32-1 sont punies d'une amende de 7
 
 Les autres infractions qui sont commises en matière d'arrêt et de stationnement des véhicules sont punies d'une amende de 15 à 45 euros.
 
+Les infractions aux dispositions du second alinéa de l'article 130 sont punies d'une amende de 200 à 600 euros.
+
 Les infractions aux autres dispositions du présent Code de la route ou aux arrêtés pris en vue de leur application, seront punies d'une amende de 15 à 45 euros.
 
-Dans tous les cas prévus aux alinéas 7, 8, 9 et 10 ci-dessus, les agents verbalisateurs percevront, sauf refus du contrevenant, séance tenante, à titre transactionnel, et sans autre formalité, la moitié du maximum de l'amende encourue. Ils délivreront récépissé de la somme reçue qui sera ensuite versée à l'enregistrement.
+Dans tous les cas prévus aux alinéas 7, 8, 9, 10 et 11 ci-dessus, les agents verbalisateurs percevront, sauf refus du contrevenant, séance tenante, à titre transactionnel, et sans autre formalité, la moitié du maximum de l'amende encourue. Ils délivreront récépissé de la somme reçue qui sera ensuite versée à l'enregistrement.
 
 En cas d'infraction aux articles 31, 32, 32-1 et 33, le véhicule pourra être mis en fourrière par les agents de l'autorité aux frais, risques et périls du contrevenant.
 

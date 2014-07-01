@@ -30,7 +30,9 @@ Elle peut être prescrite soit par les agents du Service des titres de circulati
 
 - 11 - lorsque le dispositif de limitation de vitesse par construction a fait l'objet d'une modification affectant son fonctionnement normal ;
 
-- 12 - lorsque les conditions d'attelage des remorques et semi-remorques telles que définies à l'article 95 ne sont pas respectées.
+- 12 - lorsque les conditions d'attelage des remorques et semi-remorques telles que définies à l'article 95 ne sont pas respectées ;
+
+- 13 - lorsque le conducteur ne respecte pas les prescriptions du second alinéa de l'article 130.
 
 Le contrevenant, le propriétaire du véhicule ou toute personne habilitée mandatée par ce dernier peuvent obtenir restitution sans frais du véhicule, dans un délai de 36 heures si la levée de l'immobilisation est possible.
 
