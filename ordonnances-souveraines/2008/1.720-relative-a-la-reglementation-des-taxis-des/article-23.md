@@ -1,7 +1,7 @@
 # Article 23
 
-Les conducteurs de taxis assurent un service continu selon les modalités fixées par arrêté ministériel.
+Les conducteurs de taxi assurent un service minimum selon les modalités fixées par arrêté ministériel.
 
-Lorsque ce service est défaillant ou insuffisant pour satisfaire les besoins de la population, le Ministre d'État peut, après une mise en demeure adressée à l'ensemble des conducteurs des taxis et non suivie d'effet dans un délai de quinze jours, prendre toutes mesures utiles afin de mettre fin à cette défaillance ou cette insuffisance.
+Lorsque ce service est défaillant ou insuffisant pour satisfaire les besoins de la population, le Ministre d'État peut, dans des conditions fixées par arrêté ministériel, prendre toutes mesures utiles afin de remédier à cette défaillance ou cette insuffisance.
 
-Le Directeur de la Sûreté publique veille au respect de ces mesures.
+Le Directeur de l'Expansion Économique, le cas échéant, en coopération avec la Direction de la Sûreté Publique, veille au respect de ces mesures. À cette fin, peut être requise l'assistance de l'organisme chargé d'assurer, au plan technique, l'exécution du service de centralisation téléphonique des demandes de courses et leur distribution visé au chiffre 4 de l'article 14.

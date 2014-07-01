@@ -1,18 +1,20 @@
 # Article 43
 
-La commission mentionnée à l'article précédent est présidée par le Conseiller de Gouvernement pour l'Équipement, l'Environnement et l'Urbanisme ou son représentant.
+La commission mentionnée à l'article précédent est présidée par le Conseiller de Gouvernement pour les Finances et l'Économie ou son représentant.
 
 Elle comprend :
 
 - le Directeur de la Sûreté Publique ou son représentant ;
 
-- le Directeur de l'Expansion l'Économique ou son représentant ;
+- le Directeur de l'Expansion Économique ou son représentant ;
 
-- le Chef du Service des Titres de circulation ou son représentant ;
+- le Chef du Service des Titres de Circulation ou son représentant ;
+
+- un fonctionnaire ou un agent du Département de l'Équipement, de l'Environnement et de l'Urbanisme ;
 
 - deux représentants au plus de la profession concernée, désignés par le Ministre d'État.
 
-Le secrétariat est assuré par un fonctionnaire du Département de l'Équipement, de l'Environnement et de l'Urbanisme.
+Le secrétariat est assuré par un fonctionnaire ou un agent du Département des Finances et de l'Économie.
 
 La commission se réunit sur convocation de son président. La convocation précise l'ordre du jour et est adressée dix jours au moins avant la date de séance.
 
