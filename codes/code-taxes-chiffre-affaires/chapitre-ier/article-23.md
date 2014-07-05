@@ -58,36 +58,36 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 6 - Organismes d'utilité générale :
 
-- 1° a) Les services de caractère social, éducatif, culturel ou sportif rendus à leurs membres par les organismes légalement constitués agissant sans but lucratif, et dont la gestion est désintéressée.
+  - 1° a) Les services de caractère social, éducatif, culturel ou sportif rendus à leurs membres par les organismes légalement constitués agissant sans but lucratif, et dont la gestion est désintéressée.
 
-- Il en est de même des ventes consenties à leurs membres par ces organismes, dans la limite de 10 % de leurs recettes totales.
+  - Il en est de même des ventes consenties à leurs membres par ces organismes, dans la limite de 10 % de leurs recettes totales.
 
-- Toutefois, demeurent soumises à la taxe sur la valeur ajoutée, sous réserve des dispositions du b) :
+  - Toutefois, demeurent soumises à la taxe sur la valeur ajoutée, sous réserve des dispositions du b) :
 
-  - les opérations d'hébergement et de restauration ;
+    - les opérations d'hébergement et de restauration ;
 
-  - l'exploitation des bars et buvettes.
+    - l'exploitation des bars et buvettes.
 
-- Ces dispositions sont également applicables aux unions d'associations qui répondent aux conditions ci-dessus, dans leurs rapports avec les membres des associations faisant partie de ces unions ;
+  - Ces dispositions sont également applicables aux unions d'associations qui répondent aux conditions ci-dessus, dans leurs rapports avec les membres des associations faisant partie de ces unions ;
 
-- b) les opérations faites au bénéfice de toutes personnes par des œuvres sans but lucratif qui présentent un caractère social ou philanthropique et dont la gestion est désintéressée, lorsque les prix pratiqués ont été homologués par l'autorité publique ou que des opérations analogues ne sont pas couramment réalisées à des prix comparables par des entreprises commerciales, en raison notamment du concours désintéressé des membres de ces organismes ou des contributions publiques ou privées dont ils bénéficient ;
+  - b) les opérations faites au bénéfice de toutes personnes par des œuvres sans but lucratif qui présentent un caractère social ou philanthropique et dont la gestion est désintéressée, lorsque les prix pratiqués ont été homologués par l'autorité publique ou que des opérations analogues ne sont pas couramment réalisées à des prix comparables par des entreprises commerciales, en raison notamment du concours désintéressé des membres de ces organismes ou des contributions publiques ou privées dont ils bénéficient ;
 
-- Les associations constituées conformément à la loi n° 1.072 du 27 juin 1984 et les fondations régies par la loi n° 56 du 29 janvier 1922 dont la gestion est désintéressée et dont les activités non lucratives restent significativement prépondérantes sont également exonérées pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 60 000 €.
+  - Les associations constituées conformément à la loi n° 1.072 du 27 juin 1984 et les fondations régies par la loi n° 56 du 29 janvier 1922 dont la gestion est désintéressée et dont les activités non lucratives restent significativement prépondérantes sont également exonérées pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 60 000 €.
 
-- Les opérations mentionnées au I de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 60 000 €.
+  - Les opérations mentionnées au I de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 60 000 €.
 
-- Lorsque la limite de 60 000 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
+  - Lorsque la limite de 60 000 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
 
-- c) les recettes de six manifestations de bienfaisance ou de soutien organisées dans l'année à leur profit exclusif par les organismes désignés aux a) et b) ainsi que par les organismes permanents à caractère social de la commune et des entreprises ;
+  - c) les recettes de six manifestations de bienfaisance ou de soutien organisées dans l'année à leur profit exclusif par les organismes désignés aux a) et b) ainsi que par les organismes permanents à caractère social de la commune et des entreprises ;
 
-- d) le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
+  - d) le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
 
-  - l'organisme doit être géré et administré à titre bénévole par des personne n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation ;
+    - l'organisme doit être géré et administré à titre bénévole par des personne n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation ;
 
-  - l'organisme ne doit procéder à aucune distribution directe ou indirecte de bénéfice, sous quelque forme que ce soit ;
+    - l'organisme ne doit procéder à aucune distribution directe ou indirecte de bénéfice, sous quelque forme que ce soit ;
 
-  - les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
+    - les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
 
-- Les obligations des organismes visés ci-dessus ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction sont fixées par les articles A-129 et A-180 de l'annexe au code.
+  - Les obligations des organismes visés ci-dessus ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction sont fixées par les articles A-129 et A-180 de l'annexe au code.
 
-- 2° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés légalement agréés, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues aux articles A-38 à A-40 de l'annexe au code.
+  - 2° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés légalement agréés, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues aux articles A-38 à A-40 de l'annexe au code.

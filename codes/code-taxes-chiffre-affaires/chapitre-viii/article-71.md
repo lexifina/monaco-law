@@ -4,7 +4,7 @@ I. - 1° Tout assujetti est tenu de s'assurer qu'une facture est émise, par lui
 
 - a) Pour les livraisons de biens ou les prestations de services qu'il effectue pour un autre assujetti, ou pour une personne morale non assujettie, et qui ne sont pas exonérées en application des articles 23 à 27 ;
 
-- b) Pour les livraisons de biens visées aux articles 8 et 9 et pour les livraisons de biens exonérées en application du I de l'article 31 et II de l'article 94 ;
+- b) Pour les livraisons de biens visées aux articles 7 et 8 et pour les livraisons de biens exonérées en application du I de l'article 31 et II de l'article 94 ;
 
 - c) Pour les acomptes qui lui sont versés avant que l'une des opérations visées aux a et b ne soit effectuée, à l'exception des livraisons de biens exonérées en application du I de l'article 31 et du II de l'article 94 ;
 
@@ -26,7 +26,7 @@ Elle peut être établie de manière périodique pour plusieurs livraisons de bi
 
 II. - Une ordonnance souveraine fixe les mentions obligatoires qui doivent figurer sur les factures. Cette ordonnance détermine notamment les éléments d'identification des parties, les données concernant les biens livrés ou les services rendus et celles relatives à la détermination de la TVA.
 
-III. - Les montants figurant sur la facture peuvent être exprimés dans toute monnaie, pour autant que le montant de taxe à payer ou à régulariser soit déterminé en € en utilisant le mécanisme de conversion prévu au 2 de l'article 35.
+III. - Les montants figurant sur la facture peuvent être exprimés dans toute monnaie, pour autant que le montant de taxe à payer ou à régulariser soit déterminé en euros en utilisant le mécanisme de conversion prévu au 2 de l'article 35.
 
 Lorsqu'elle est rédigée dans une langue étrangère, la direction des Services fiscaux peut, à des fins de contrôle, exiger une traduction en français.
 

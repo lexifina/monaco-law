@@ -1,6 +1,6 @@
 # Article 80 bis
 
-Pour l'application des dispositions de l'article 90, les factures émises par les assujettis ou, en leur nom et pour leur compte, par leur client ou par un tiers, ainsi que toutes les factures qu'ils ont reçues, doivent être stockées sur le territoire monégasque, lorsque ce stockage n'est pas effectué par voie électronique garantissant un accès immédiat, complet et en ligne aux données concernées.
+Pour l'application des dispositions de l'article 80, les factures émises par les assujettis ou, en leur nom et pour leur compte, par leur client ou par un tiers, ainsi que toutes les factures qu'ils ont reçues, doivent être stockées sur le territoire monégasque, lorsque ce stockage n'est pas effectué par voie électronique garantissant un accès immédiat, complet et en ligne aux données concernées.
 
 Afin de garantir le respect des exigences mentionnées au IV de l'article 71, les factures doivent être stockées sous la forme originelle, papier ou électronique, sous laquelle elles ont été transmises ou mises à disposition.
 
