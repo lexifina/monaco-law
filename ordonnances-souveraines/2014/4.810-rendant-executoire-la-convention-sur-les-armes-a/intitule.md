@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 4.810 du 2 mai 2014 rendant exécutoire la Convention sur les armes à sous-munitions, adoptée le 30 mai 2008 à Dublin, ouverte à la signature le 3 décembre 2008 à Oslo et entrée en vigueur le 1er août 2010
