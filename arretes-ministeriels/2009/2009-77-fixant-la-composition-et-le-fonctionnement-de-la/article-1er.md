@@ -10,4 +10,4 @@ Présidée par le Directeur de l'Éducation Nationale ou son représentant, elle
 
 - trois professeurs principaux.
 
-Le Directeur de l'Éducation Nationale procède à la convocation des membres de la Commission Supérieure d'Orientation. Ils sont issus chacun d'un établissement d'enseignement du secondaire du secteur public ; seuls participent aux délibérations les personnels des établissements non concernés par les dossiers examinés lors de la séance en cours.
+Le Directeur de l'Éducation Nationale procède à la convocation des membres de la Commission Supérieure d'Orientation. Ils sont issus chacun d'un établissement d'enseignement du secondaire du secteur public et privé sous contrat.
