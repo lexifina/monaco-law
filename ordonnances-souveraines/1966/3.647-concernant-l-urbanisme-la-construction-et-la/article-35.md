@@ -1,3 +1,3 @@
 # Article 35
 
-La demande d'autorisation doit être constituée d'un dossier comprenant, outre la demande d'autorisation, le titre justifiant la qualité du demandeur, un plan de situation permettant de localiser le lieu d'implantation, un plan détaillé et coté de la publicité ou de l'enseigne, ainsi que l'accord du propriétaire sur le domaine privé.
+La demande d'autorisation effectuée en application des articles 33 et 34 doit être constituée d'un dossier dont les pièces sont précisées dans les textes d'application.

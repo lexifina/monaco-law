@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.647 du 9 septembre 1966 concernant l'urbanisme, la construction et la voirie
 
-Version en vigueur au 28 décembre 2013.
+Version en vigueur au 1er novembre 2014.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1966/09-09-3.647@2013.12.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1966/09-09-3.647@2014.11.01/
 
 | | |
 | --- | --- |

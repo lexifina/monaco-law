@@ -30,7 +30,7 @@ Toute opération de construction doit comporter, pour le pétitionnaire, l'oblig
 
   - - une voiture pour 80 m² de surface de plancher.
 
-Aucun emplacement de stationnement n'est exigé pour les locaux à usage commercial ou de bureaux dont la surface de plancher est inférieure ou égale à 50 m².
+- Aucun emplacement de stationnement n'est exigé pour les locaux à usage commercial ou de bureaux dont la surface de plancher est inférieure ou égale à 50 m².
 
 - 3°) Locaux à usage industriel ou d'entrepôts :
 
