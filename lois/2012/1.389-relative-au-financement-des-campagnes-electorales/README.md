@@ -1,8 +1,8 @@
 # Loi n° 1.389 du 2 juillet 2012 relative au financement des campagnes électorales
 
-Version en vigueur au 7 juillet 2012.
+Version en vigueur au 1er novembre 2014.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2012/07-02-1.389@2012.07.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2012/07-02-1.389@2014.11.01/
 
 | | |
 | --- | --- |
