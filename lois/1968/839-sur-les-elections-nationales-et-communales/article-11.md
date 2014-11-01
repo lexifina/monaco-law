@@ -1,6 +1,6 @@
 # Article 11
 
-La commission de révision de la liste électorale statue sur les réclamations en inscription ou en radiation dans les dix jours qui suivent l'expiration du délai prévu pour formuler ces réclamations.
+La commission de révision de la liste électorale statue sur les réclamations en inscription ou en radiation dans les sept jours qui suivent l'expiration du délai prévu pour formuler ces réclamations.
 
 Les décisions de la commission sont notifiées par le maire dans les quarante-huit heures de leur date.
 

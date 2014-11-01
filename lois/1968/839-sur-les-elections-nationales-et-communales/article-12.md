@@ -4,7 +4,7 @@ Les opérations de révision de la liste électorale sont clôturées définitiv
 
 La liste électorale révisée reste jusqu'au 31 décembre de l'année suivante telle qu'elle a été clôturée. Elle sert seule de base aux élections qui ont lieu entre le 1er janvier et le 31 mars de l'année suivante.
 
-Lorsque des élections ont lieu entre le 1er avril et le 31 décembre de l'année suivante, la Commission de révision procède aux opérations de révision de la liste électorale qui doivent être achevées un mois avant la date du scrutin.
+Toutefois lorsque des élections ont lieu entre le 1er avril et le 31 décembre de l'année suivante, la Commission de révision procède alors aux opérations de révision de la liste électorale qui doivent être achevées un mois avant la date du scrutin.
 
 Ces opérations comportent l'inscription du nom :
 

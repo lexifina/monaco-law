@@ -12,7 +12,7 @@ Sont privés du droit de vote :
 
   - délit dont la répression n'est pas subordonnée à la preuve de la mauvaise foi de l'auteur, hors les infractions aux lois sur les sociétés ;
 
-- 4° ceux qui auront été condamnés deux fois en police correctionnelle pour délit d'ivrognerie, lorsque le second jugement a prononcé la peine de l'emprisonnement ;
+- 4° (4° abrogé) ;
 
 - 5° les faillis non réhabilités dont la faillite a été prononcée soit à Monaco, soit à l'étranger par un jugement exécutoire à Monaco ;
 

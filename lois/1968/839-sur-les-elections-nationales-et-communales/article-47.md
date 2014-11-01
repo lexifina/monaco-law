@@ -4,6 +4,8 @@ Le vote est nul si l'enveloppe ne contient aucun bulletin.
 
 Sont nuls :
 
+- les bulletins non conformes aux prescriptions de l'article 39 ;
+
 - les bulletins multiples contenus dans la même enveloppe lorsqu'ils sont constitués par des listes différentes ;
 
 - les bulletins multiples qui comportent les mêmes listes identiquement panachées ;

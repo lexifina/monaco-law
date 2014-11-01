@@ -1,6 +1,10 @@
 # Article 43
 
-Nul ne peut être admis à voter s'il n'est inscrit sur la liste électorale.
+Peuvent exercer, sur leur demande, leur droit de vote par procuration, lorsqu'ils sont admis à voter au sens de l'article précédent, les électeurs qui établissent :
+
+* 1° soit résider de manière permanente ou à des fins d'études ou de formation à l'étranger, hors le département français limitrophe et la province italienne la plus proche ;
+
+* 2° soit être empêchés de se rendre au bureau de vote le jour du scrutin en raison de leur détention, d'un handicap, de leur état de santé ou d'obligations professionnelles ou sportives qu'ils doivent assumer personnellement.
 
 Sont toutefois admis à voter, bien que non inscrits, les électeurs porteurs d'une décision de justice définitive ordonnant leur inscription.
 

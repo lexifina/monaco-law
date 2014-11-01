@@ -1,10 +1,10 @@
 # Article 5
 
-La liste électorale comprend tous les électeurs qui ne sont pas privés du droit de vote.
+La liste électorale comprend tous les électeurs qui ne sont pas privés du droit de vote. À cet effet, le Maire peut se référer aux informations résultant des actes de l'état civil et du sommier de la nationalité monégasque.
 
 La liste électorale mentionne, par ordre alphabétique :
 
-- le nom patronymique et les prénoms de l'électeur, ainsi que, pour les femmes, la situation de famille et, le cas échéant, le nom d'usage,
+- le nom patronymique et les prénoms de l'électeur et, le cas échéant, le nom d'usage,
 
 - le lieu et la date de naissance,
 

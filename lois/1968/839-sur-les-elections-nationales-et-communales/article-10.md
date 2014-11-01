@@ -1,6 +1,6 @@
 # Article 10
 
-Tout électeur dont le nom a été omis sur la liste électorale peut adresser au maire une réclamation écrite, accompagnée de pièces justificatives, dans les vingt jours, à peine de déchéance, de la publication au Journal de Monaco de l'avis de dépôt du tableau de révision.
+Tout électeur dont le nom a été omis sur la liste électorale peut adresser au maire une réclamation écrite, accompagnée de pièces justificatives, dans les quinze jours, à peine de déchéance, de la publication au Journal de Monaco de l'avis de dépôt du tableau de révision.
 
 Tout électeur inscrit sur la liste électorale peut, dans les formes et conditions prévues ci-dessus, demander l'inscription d'une personne qui a été omise ou la radiation d'une personne qui a été irrégulièrement inscrite.
 

@@ -1,3 +1,3 @@
 # Article 29
 
-Les heures d'ouverture des bureaux de la mairie seront publiées au Journal de Monaco quinze jours au moins et vingt jours au plus avant la date du scrutin.
+Les heures d'ouverture des bureaux de la Mairie seront publiées au Journal de Monaco dans le mois précédant la période de déclaration des candidatures et au plus tard dix jours avant le début de celle-ci.
