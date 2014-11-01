@@ -8,4 +8,4 @@ Les peines d'amende concernant une personne morale reconnue coupable, en faveur 
 
 - en matière contraventionnelle, le minimum du chiffre 1 de l'article 29.
 
-- Les dispositions du présent article seront applicables à toutes les peines édictées même par des textes distincts pris en matière criminelle et correctionnelle
+Les dispositions du présent article seront applicables à toutes les peines édictées même par des textes distincts pris en matière criminelle et correctionnelle

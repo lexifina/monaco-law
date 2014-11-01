@@ -1,11 +1,11 @@
 # Code pénal
 
-Version en vigueur au 13 octobre 2012.
+Version en vigueur au 1er novembre 2014.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-penal@2012.10.13/
+Source : Legimonaco, https://legimonaco.mc/code/code-penal@2014.11.01/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code pénal |
-| Dernière modification | 13 octobre 2012 |
+| Dernière modification | 1 novembre 2014 |
