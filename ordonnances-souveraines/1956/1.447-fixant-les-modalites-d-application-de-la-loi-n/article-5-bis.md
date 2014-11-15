@@ -49,5 +49,3 @@ D. - Sont considérés comme chef de foyer, au regard des enfants envers lesquel
 E. - Est considéré comme chef de foyer au regard de son pupille :
 
 - le tuteur, ou subsidiairement son conjoint, de l'enfant orphelin de père et de mère, à condition de rapporter la preuve qu'il assume personnellement à charge effective et permanente de l'enfant en tutelle.
-
-Les précédents alinéas cessent d'avoir effet dans le cas où une personne autre que le chef de foyer au sens de la présente ordonnance, bénéficie de la même qualification en vertu des dispositions d'une législation étrangère qui lui est applicable.
