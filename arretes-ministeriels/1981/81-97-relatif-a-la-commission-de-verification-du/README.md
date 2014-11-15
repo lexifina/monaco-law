@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 81-97 du 10 mars 1981 relatif à la commission de vérification du diplôme de pharmacien
 
-Version en vigueur au 14 avril 2012.
+Version en vigueur au 15 novembre 2014.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1981/03-10-81-97@2012.04.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1981/03-10-81-97@2014.11.15/
 
 | | |
 | --- | --- |
