@@ -12,4 +12,6 @@ La Commission de vérification du diplôme de chirurgien-dentiste instituée par
 
 - le Directeur des Affaires Juridiques ou son représentant ;
 
-- un professeur des universités de la discipline concernée.
+- un professeur des universités de la discipline concernée ;
+
+Le secrétariat de la Commission est assuré par la Direction de l'Action Sanitaire et Sociale.

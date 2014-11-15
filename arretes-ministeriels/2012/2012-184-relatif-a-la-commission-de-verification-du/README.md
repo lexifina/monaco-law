@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2012-184 du 5 avril 2012 relatif à la Commission de vérification du diplôme de chirurgien-dentiste
 
-Version en vigueur au 14 avril 2012.
+Version en vigueur au 15 novembre 2014.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-05-2012-184@2012.04.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-05-2012-184@2014.11.15/
 
 | | |
 | --- | --- |
