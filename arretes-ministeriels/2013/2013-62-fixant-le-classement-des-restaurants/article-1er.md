@@ -2,6 +2,10 @@
 
 Les restaurants dont les noms figurent ci-après sont classés dans les catégories suivantes :
 
+Catégorie « 0 losange » :
+
+- STREET FOOD
+
 Catégorie «1 losange' :
 
 - BAMBI
@@ -49,6 +53,8 @@ Catégorie »2 losanges'
 - IL GIARDINO
 
 - L'ADAGIO
+
+- L'INATTENDU
 
 - LA BIONDA
 
@@ -120,6 +126,8 @@ Catégorie «3 losanges'
 
 - ADDRESS
 
+- BISTRO LATINO MONTE-CARLO
+
 - BOUCHON MONTE-CARLO
 
 - CASTELROC
@@ -128,9 +136,13 @@ Catégorie «3 losanges'
 
 - IL TERRAZZINO
 
+- JACK
+
 - JADE & JASMIN
 
 - LA CAVE DE MAX
+
+- LA MARQUISE
 
 - LA PIAZZA
 
@@ -172,6 +184,10 @@ Catégorie «3 losanges'
 
 - SEM-ART MONACO
 
+- TWIGA
+
+- ZEST ZAFFERANO RESTAURANT
+
 Catégorie »4 losanges'
 
 - AVENUE 31
@@ -181,6 +197,8 @@ Catégorie »4 losanges'
 - BLACK LEGEND (RED)
 
 - CAFÉ DE PARIS
+
+- CAFÉ LLORCA
 
 - CIPRIANI
 
@@ -201,6 +219,8 @@ Catégorie »4 losanges'
 - QUAI DES ARTISTES
 
 - RAMPOLDI
+
+- SONG QI
 
 - VIRAGE
 
@@ -227,6 +247,8 @@ Catégorie «5 losanges'
 - L'INTEMPO
 
 - MAYA BAY
+
+- NOBU
 
 - TRATTORIA
 
