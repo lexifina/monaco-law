@@ -1,0 +1,3 @@
+# Article 8
+
+À moins que les Autorités compétentes des Parties n'en décident autrement, les frais indirects encourus pour la fourniture de l'assistance sont à la charge de la Partie requise, et, les frais directs supportés pour la fourniture de l'assistance (y compris les coûts d'embauche de conseillers externes en cas de litiges ou autre) sont à la charge de la Partie requérante. Les Autorités compétentes respectives se consultent, de temps en temps, en ce qui concerne le présent article, et en particulier l'Autorité compétente de la Partie requise se concerte à l'avance avec l'Autorité de la Partie requérante si elle s'attend à ce que la fourniture de renseignement, en ce qui concerne une demande spécifique, donne lieu à des frais importants.
