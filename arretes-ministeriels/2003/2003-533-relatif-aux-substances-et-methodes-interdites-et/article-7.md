@@ -1,6 +1,6 @@
 # Article 7
 
-L'obtention de l'autorisation d'usage à des fins thérapeutiques est soumise au respect des critères suivants :
+L'obtention de l'AUT est soumise au respect des critères suivants :
 
 - le sportif subirait un préjudice de santé significatif si la substance ou la méthode interdite n'était pas administrée dans le cadre de la prise en charge d'un état pathologique aigu ou chronique ;
 
