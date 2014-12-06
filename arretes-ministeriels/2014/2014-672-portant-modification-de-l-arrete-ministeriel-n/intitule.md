@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2014-672 du 3 décembre 2014 portant modification de l'arrêté ministériel n° 2003-531 du 21 octobre 2003 relatif à l'agrément, l'assermentation, la formation initiale et continue des médecins chargés des contrôles antidopage
