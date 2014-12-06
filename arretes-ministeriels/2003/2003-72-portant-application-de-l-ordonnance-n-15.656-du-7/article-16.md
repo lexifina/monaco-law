@@ -1,3 +1,5 @@
 # Article 16
 
-Le Président de la Chambre Disciplinaire informe dans les mêmes conditions le Président du groupement sportif auquel appartient l'intéressé et lui demande de désigner le représentant dudit groupement au sein de la Chambre Disciplinaire.
+Le Président de la Chambre Disciplinaire informe l'intéressé ou le cas échéant son responsable légal, de la saisine de celle-ci par lettre recommandée avec demande d'avis de réception.
+
+Cette lettre précise le fondement sur lequel la Chambre Disciplinaire est saisie. Elle indique les griefs formulés à l'encontre de l'intéressé et mentionne les droits dont il dispose pour présenter sa défense.

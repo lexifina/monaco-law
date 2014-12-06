@@ -1,17 +1,7 @@
 # Article 9
 
-Dans le cas où le résultat d'analyse de l'échantillon A serait anormal, le secrétariat permanent du Comité Monégasque Antidopage informe dans le même temps que le sportif, le groupement national et la fédération internationale dont il relève, ainsi que l'Agence Mondiale antidopage et le préleveur spécialement habilité à cet effet ayant réalisé le prélèvement.
+L'examen de défauts potentiels d'information sur la localisation et de contrôles de potentiels se fera conformément aux dispositions du Standard international pour les contrôles et les enquêtes figurant à l'appendice Il de la Convention internationale contre le dopage dans le sport de l'UNESCO.
 
-Cette notification devra mentionner :
+Dès lors que le Comité Monégasque Antidopage est convaincu qu'une violation des règles antidopage au titre de l'article 6.4 de l'ordonnance souveraine n° 15.656 du 7 février 2003 modifiée, a été commise, il en informera rapidement le sportif et lui communiquera les fondements de cet allégation.
 
-- le nom du sportif, son pays ;
-
-- le type de test effectué ;
-
-- la période (pendant ou hors compétition) ;
-
-- la date de la collecte ;
-
-- le résultat d'analyse rapporté par le laboratoire.
-
-De même, une information périodique sera adressée au sportif, à l'Agence Mondiale Antidopage, à la Fédération Internationale et au groupement auquel appartient le sportif, afin de les tenir informés de l'état de la procédure et des résultats de tout appel entrepris.
+Les autres organisations antidopage en seront également informées conformément à l'article 11 ci-après.

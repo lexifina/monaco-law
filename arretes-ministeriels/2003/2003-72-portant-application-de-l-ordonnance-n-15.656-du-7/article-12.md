@@ -1,5 +1,3 @@
 # Article 12
 
-Dans le cas où l'analyse de l'échantillon B ne confirme pas les résultats de l'analyse de l'échantillon A, le sportif ne pourra faire l'objet d'aucune mesure disciplinaire.
-
-Le sportif, sa fédération nationale et l'Agence Mondiale Antidopage en seront informés, à moins que le Comité Monégasque Antidopage ne continue la procédure en tant que violation des règles antidopage aux termes de l'article 6-2 de l'ordonnance souveraine n° 15.656 du 7 février 2003, modifiée, susvisée.
+Si le sportif ou une autre personne intéressée prend sa retraite au cours du processus de gestion des résultats ou avant que celui-ci n'ait été amorcé, le Comité Monégasque Antidopage est compétent pour conduire le processus de gestion des résultats jusqu'à son terme. Si un sportif ou une autre personne prend sa retraite avant que le processus de gestion des résultats n'ait été amorcé, l'organisation antidopage qui aurait eu compétence sur le sportif ou l'autre personne en matière de gestion des résultats au moment où le sportif ou l'autre personne a commis une violation des règles antidopage, reste habilitée à gérer les résultats.

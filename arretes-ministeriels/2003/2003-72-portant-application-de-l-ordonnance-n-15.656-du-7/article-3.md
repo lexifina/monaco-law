@@ -10,4 +10,4 @@ En cas d'empêchement, les membres informent le secrétariat de leur absence.
 
 Pour délibérer valablement, la majorité des membres du Comité doit être présente.
 
-Les séances du Comité font l'objet d'un procès-verbal établi par le secrétariat permanent.
+Les séances du Comité font l'objet d'un procès-verbal établi par le secrétariat.

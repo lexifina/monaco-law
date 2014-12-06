@@ -1,5 +1,3 @@
 # Article 34
 
-La décision du Comité Monégasque Antidopage en matière disciplinaire est rendue publique par publication au « Journal de Monaco ».
-
-Il peut être décidé de ne pas faire figurer lors de la publication les mentions notamment patronymiques qui pourraient porter atteinte au respect de la vie privée ou au secret médical.
+En plus de l'annulation automatique des résultats obtenus à la compétition au cours de laquelle un échantillon positif a été recueilli en vertu de l'article 26, tous les autres résultats de compétition obtenus par le sportif à compter de la date du prélèvement de l'échantillon positif (en compétition ou hors compétition) ou de la perpétration d'une autre violation des règles antidopage seront annulés, avec toutes les conséquences qui en résultent, incluant le retrait de l'ensemble des médailles, points et prix, jusqu'au début de la suspension provisoire ou de la suspension, à moins qu'un autre traitement ne se justifie pour des raisons d'équité.

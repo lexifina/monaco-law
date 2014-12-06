@@ -1,15 +1,13 @@
 # Article 21
 
-La Chambre Disciplinaire a pour charge d'instruire les affaires de dopage.
+Le rapporteur établit un exposé des faits et rappelle les conditions de déroulement de la procédure.
 
-Pour ce faire, à l'issue des débats, elle :
+Le rapporteur procède, sans pouvoir les assortir de mesures de contrainte, à toutes investigations utiles dont le résultat est versé au dossier et communiqué avant la séance à l'intéressé.
 
-- détermine en cas de contestation la régularité du processus de contrôle ou d'analyse du laboratoire ;
+Pour établir son rapport, le rapporteur, avec l'aide du secrétariat du Comité Monégasque Antidopage, procède à des contrôles qui seront entrepris afin d'obtenir des preuves analytiques du respect (ou du non-respect) par le sportif de la stricte interdiction imposée par le Code quant à la présence et/ou à l'usage d'une substance interdite ou d'une méthode interdite.
 
-- prend en compte toute explication fournie par l'intéressé ;
+De même, une enquête sera entreprise :
 
-- demande la mise en œuvre d'une instruction complémentaire qui pourrait s'avérer nécessaire ;
+- - en relation avec des résultats atypiques et des résultats de Passeport anormaux afin de rassembler des renseignements ou des preuves (y compris, notamment, des preuves analytiques) visant à déterminer si une violation des règles antidopage a été commise au titre de l'article 6.1 et/ou de l'article 6.2 de l'ordonnance souveraine n° 15.656 du 7 février 2003, modifiée et
 
-- tire toutes les conséquences du refus par le sportif ou par toute autre personne, dûment convoquée dans un délai raisonnable avant l'audience, de comparaître par devant elle et de répondre à ses questions ;
-
-- émet une proposition de sanction en tenant compte des articles 9 à 11 du Code Mondial Antidopage figurant à l'Appendice I de la Convention Internationale contre le dopage dans le sport de l'UNESCO.
+- - en relation avec d'autres indications de violations potentielles des règles antidopage, au titre des articles 8 et 10, afin de rassembler des renseignements ou des preuves (y compris, notamment, des preuves non analytiques) visant à déterminer si une violation des règles antidopage a été commise au titre des articles 6.2 à 6.10 de l'ordonnance souveraine n° 15.656 du 7 février 2003, modifiée.

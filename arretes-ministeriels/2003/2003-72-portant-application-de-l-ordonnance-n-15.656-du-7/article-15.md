@@ -1,5 +1,3 @@
 # Article 15
 
-Le Président de la Chambre Disciplinaire informe l'intéressé ou le cas échéant son responsable légal, de la saisine de celle-ci par lettre recommandée avec demande d'avis de réception.
-
-Cette lettre précise le fondement sur lequel la Chambre Disciplinaire est saisie. Elle indique les griefs formulés à l'encontre de l'intéressé et mentionne les droits dont il dispose pour présenter sa défense.
+La Chambre Disciplinaire instituée par les articles 11 et 12 de l'ordonnance souveraine n° 15.656 du 7 février 2003, modifiée, susvisée, est saisie par le Président du Comité Monégasque Antidopage.

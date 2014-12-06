@@ -1,5 +1,3 @@
 # Article 24
 
-Les membres de la Chambre Disciplinaire sont astreints à une obligation de confidentialité pour les faits, actes et informations dont ils ont pu avoir connaissance en raison de leurs fonctions.
-
-Toute infraction à cette disposition entraîne la cessation des pouvoirs du membre de l'organe disciplinaire ou de secrétaire de séance.
+La Chambre Disciplinaire établit son rapport à huis clos hors de la présence de l'intéressé, de ses défenseurs et des personnes entendues à l'audience.

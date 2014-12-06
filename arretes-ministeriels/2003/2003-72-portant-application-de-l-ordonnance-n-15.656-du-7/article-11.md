@@ -1,3 +1,3 @@
 # Article 11
 
-Si le sportif ou autre personne intéressé prend sa retraite au cours du processus de gestion des résultats ou avant que celui-ci n'ait été amorcé, le Comité Monégasque Antidopage est compétent pour conduire le processus de gestion des résultats jusqu'à son terme.
+Si le Comité Monégasque Antidopage décide de ne pas présenter le résultat d'analyse anormal comme une violation des règles antidopage, il en informera le sportif, la Fédération internationale du sportif et l'Agence Mondiale Antidopage.

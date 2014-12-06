@@ -1,3 +1,7 @@
 # Article 23
 
-La Chambre Disciplinaire délibère à huis clos hors de la présence de l'intéressé, de ses défenseurs et des personnes entendues à l'audience. Lorsque les fonctions de secrétaire de séance sont assurées par une personne qui n'est pas membre de la Chambre, celle-ci peut assister au délibéré sans y participer.
+Le rapporteur présente oralement son rapport à la Chambre Disciplinaire.
+
+L'intéressé et le cas échéant ses défenseurs sont invités à prendre la parole en dernier.
+
+Les débats ne sont pas publics sauf demande contraire formulée, avant l'ouverture de la séance, par l'intéressé ou ses défenseurs ou décision de la Chambre.
