@@ -1,6 +1,6 @@
 # Article 9
 
-Le Comité Monégasque Antidopage diligente les contrôles antidopage conformément aux Standards internationaux de contrôle :
+Le Comité Monégasque Antidopage diligente les contrôles antidopage conformément au Standard international pour les contrôles et les enquêtes :
 
 a) pendant les manifestations sportives nationales ;
 
@@ -8,4 +8,6 @@ b) pendant les manifestations sportives internationales organisées sur le terri
 
 c) pendant les périodes en ou hors compétition pour les sportifs constituant le groupe cible, désignés dans des conditions prévues par arrêté ministériel.
 
-Les modalités d'organisation des contrôles sont définies par arrêté ministériel conformément aux Standards Internationaux de contrôle figurant à l'Appendice III de la Convention internationale contre le dopage dans le sport de l'UNESCO et mis à jour par l'Agence Mondiale Antidopage.
+Le Comité Monégasque Antidopage est également compétent pour les contrôles en compétition et les contrôles hors compétition portant sur les sportifs qui sont citoyens, résidents, titulaires de licence ou membres d'organisations sportives du pays de cette organisation nationale antidopage ou qui sont présents en Principauté de Monaco.
+
+Les modalités d'organisation des contrôles sont définies par arrêté ministériel conformément au Standard international pour les contrôles et les enquêtes figurant à l'Appendice III de la Convention internationale contre le dopage dans le sport (UNESCO) et mis à jour par l'Agence Mondiale Antidopage.

@@ -2,11 +2,7 @@
 
 La chambre disciplinaire prévue à l'article précédent se compose de :
 
-- un représentant du Comité Monégasque Antidopage, Président de la chambre,
-
-- le Médecin-Inspecteur des sportifs, membre du Comité Monégasque Antidopage, rapporteur,
-
-- le Président du groupement sportif auquel appartient l'athlète, ou son représentant,
+- un membre du Comité Monégasque Antidopage, Président de la chambre,
 
 - un médecin expert,
 

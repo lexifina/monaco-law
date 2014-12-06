@@ -1,23 +1,15 @@
 # Article 1er
 
-Il est institué un Comité Monégasque Antidopage. Ce Comité est l'agence nationale de lutte contre le dopage.
+Il est institué un organisme de droit privé, investi d'une mission d'intérêt général et dénommé « Comité Monégasque Antidopage ». Ce Comité est l'organisation nationale de lutte contre le dopage.
 
-Le Comité Monégasque Antidopage participe à la prévention du dopage et met en œuvre les politiques antidopage.
+Doté de la personnalité juridique, le Comité dispose d'un budget propre. Le Comité jouit de la capacité de réaliser tous les actes de la vie civile sous réserve des dispositions ciaprès :
 
-Il encourage les organisations sportives à élaborer et appliquer des initiatives antidopage complètes.
+1°) le Comité ne peut acquérir que les immeubles utiles à son activité ;
 
-Il promeut et soutient les recherches antidopage visant à prévenir l'usage des substances et méthodes interdites dans le sport.
+2°) il ne peut accepter les dispositions entre vifs ou par testament faites à son profit, qu'avec l'autorisation du Prince, délivré par ordonnance souveraine après avis du Conseil d'État. Si les immeubles compris dans une donation ou une disposition testamentaire ne sont pas utiles à l'activité du Comité, l'autorisation prévue au présent chiffre peut, dans les délais et formes qu'elle prescrit, assortir l'acceptation de la libéralité de l'obligation d'aliéner tout ou partie des biens concernés. Le prix est versé au budget du Comité. Lorsque le Comité donne à une libéralité ou au produit de sa cession une affectation différente de celle en vue de laquelle elle a été autorisée à l'accepter, l'autorisation prévue au présent chiffre peut être rapportée dans les mêmes formes, les représentants du Comité préalablement entendus en leurs explications ou dûment appelées à les fournir ;
 
-Le Comité Monégasque Antidopage est signataire du Code mondial antidopage figurant à l'appendice I de la convention internationale contre le dopage dans le sport de l'UNESCO, adoptée à Paris le 19 octobre 2005. Il agit conformément aux principes énoncés dans ledit Code aux travers de ses règles et commentaires.
+3°) le Comité ne peut accepter les dons manuels.
 
-Il coopère avec les organisations nationales antidopage étrangères et avec les organismes sportifs internationaux suivants :
+Sans préjudice des dispositions du précédent alinéa, les ressources du Comité sont constituées d'une subvention versée par l'État dans le respect des dispositions de la loi n° 885 du 29 mai 1970 relative au contrôle financier des organismes de droit privé bénéficiant d'une subvention de l'État et de ses textes d'application.
 
-1. le Comité International Olympique ;
-
-2. le Comité International Paralympique ;
-
-3. l'Agence Mondiale Antidopage ;
-
-4. les fédérations sportives internationales qui ont signé le Code mondial antidopage figurant à l'appendice I de la convention internationale contre le dopage dans le sport de l'UNESCO, adoptée à Paris le 19 octobre 2005 ;
-
-5. les organisations responsables de grandes manifestations sportives internationales, signataires du Code mondial antidopage mentionné au chiffre 4°.
+Une convention est, à ce titre, conclue entre le Comité Monégasque Antidopage et l'État laquelle définit l'objet, le montant et les conditions d'utilisation de la subvention.

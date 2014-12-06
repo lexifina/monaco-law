@@ -2,23 +2,17 @@
 
 Le Comité Monégasque Antidopage est composé comme suit :
 
-* le Conseiller de Gouvernement pour l'Intérieur, Président, ou son représentant,
+- un conseiller d'État, désigné par le président du Conseil d'État, président ;
 
-* un représentant du Conseil d'État, désigné par le Président du Conseil d'État,
+- un conseiller à la Cour d'Appel, désigné par le premier président de cette cour, vice-président ;
 
-* le Directeur de l'Education Nationale, de la Jeunesse et des Sports ou son représentant,
+- un sportif de haut niveau à la retraite sportive désigné par le Comité Olympique Monégasque ;
 
-* le Directeur de l'Action Sanitaire et Sociale ou son représentant,
+- deux médecins qualifiés en médecine du sport désignés par le Président du Conseil de l'Ordre des médecins, dont un médecin spécialisé dans les questions de dopage ;
 
-* un représentant du Département des Finances et de l'Economie,
+- un représentant du Comité Olympique Monégasque. Les membres du Comité Monégasque Antidopage sont désignés par ordonnance souveraine pour une durée de trois ans, renouvelable.
 
-* un Médecin-Inspecteur de sportifs,
-
-* un représentant du Comité Olympique Monégasque,
-
-* trois personnes choisies en raison de leur compétence.
-
-Les membres du Comité Monégasque Antidopage sont désignés par ordonnance souveraine pour une durée de trois ans, renouvelable.
+En cas d'empêchement du président, le Conseil d'Administration du Comité est présidé par le vice-président lequel exerce toutes les compétences du président pendant tout le temps de l'empêchement de celui-ci.
 
 Pour l'accomplissement de ses missions, le Comité Monégasque Antidopage peut s'adjoindre à titre consultatif toute personne experte des domaines concernés par le cas qui lui est soumis.
 
