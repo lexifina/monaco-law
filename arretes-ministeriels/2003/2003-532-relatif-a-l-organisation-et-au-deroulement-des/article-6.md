@@ -1,6 +1,6 @@
 # Article 6
 
-Les manquements aux obligations de transmissions d'informations relatives à la localisation des sportifs constituant le groupe cible du Comité Monégasque Antidopage sont :
+Les manquements aux obligations de transmissions d'informations relatives à la localisation des sportifs constituant le groupe cible du Comité Monégasque Antidopage sont, tels que définis dans le Standard international pour les contrôles et les enquêtes :
 
 1°) la non transmission au Comité Monégasque Antidopage des informations de localisation requises dans le délai de quinze jours avant le début du trimestre ;
 

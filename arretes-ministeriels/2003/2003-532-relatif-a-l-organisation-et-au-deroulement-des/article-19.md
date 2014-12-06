@@ -4,4 +4,4 @@ Dans le cadre d'un contrôle effectué lors d'une manifestation sportive, une co
 
 La convocation précise l'heure, le lieu et la nature du contrôle.
 
-Le sportif qui refuse de signer la convocation est réputé s'être soustrait aux mesures de contrôle Antidopage.
+Le sportif qui refuse de signer la convocation est réputé s'être soustrait aux mesures de contrôle antidopage.
