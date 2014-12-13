@@ -4,4 +4,4 @@ Tout candidat ou les candidats d'une même liste peuvent faire déposer, préala
 
 Lorsqu'ils se rapportent à une liste de candidats, ces bulletins comportent exclusivement, à peine de nullité, l'indication de la dénomination de la liste puis, par ordre alphabétique, celle des noms des candidats suivis de leurs prénoms, tels que mentionnés lors de l'enregistrement de la déclaration de candidature.
 
-Lorsque le candidat se présente en son nom personnel à une élection communale, les bulletins comportent exclusivement, à peine de nullité, l'indication de son nom et de ses prénoms tels que mentionnés lors de l'enregistrement de sa déclaration de candidature.
+Lorsque le candidat se présente en son nom personnel à une élection communale, ces bulletins comportent exclusivement, à peine de nullité, l'indication de son nom et de ses prénoms tels que mentionnés lors de l'enregistrement de sa déclaration de candidature.

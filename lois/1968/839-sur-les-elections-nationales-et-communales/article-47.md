@@ -4,19 +4,19 @@ Le vote est nul si l'enveloppe ne contient aucun bulletin.
 
 Sont nuls :
 
-- les bulletins non conformes aux prescriptions de l'article 39 ;
+- - les bulletins non conformes aux prescriptions de l'article 39 ; toutefois, aucune nullité n'est encourue par les bulletins du seul fait d'une modification qui leur serait apportée par l'électeur pour l'expression de son vote ; aucune nullité n'est également encourue par le bulletin que l'électeur aurait rédigé lui-même pour l'expression de son vote du seul fait qu'il n'aurait pas observé les conditions de forme prévues à l'article 39 ;
 
-- les bulletins multiples contenus dans la même enveloppe lorsqu'ils sont constitués par des listes différentes ;
+- - les bulletins multiples contenus dans la même enveloppe lorsqu'ils sont constitués par des listes différentes ;
 
-- les bulletins multiples qui comportent les mêmes listes identiquement panachées ;
+- - les bulletins multiples qui comportent les mêmes listes identiquement panachées ;
 
-- les bulletins illisibles, ceux qui ne contiennent pas une désignation suffisante ou dans lesquels les votants se sont fait connaître, ceux qui sont trouvés dans l'urne sans enveloppe ou dans des enveloppes non réglementaires, ceux qui portent ou dont les enveloppes portent des signes intérieurs ou extérieurs de reconnaissance ou des mentions injurieuses pour les candidats ou pour des tiers ;
+- - les bulletins illisibles, ceux qui ne contiennent pas une désignation suffisante ou dans lesquels les votants se sont fait connaître, ceux qui sont trouvés dans l'urne sans enveloppe ou dans des enveloppes non réglementaires, ceux qui portent ou dont les enveloppes portent des signes intérieurs ou extérieurs de reconnaissance ou des mentions injurieuses pour les candidats ou pour des tiers ;
 
-- les bulletins comportant le nom d'un candidat dont la déclaration de candidature n'a pas été enregistrée ;
+- - les bulletins comportant le nom d'un candidat dont la déclaration de candidature n'a pas été enregistrée ;
 
-- les bulletins comportant plus de noms que de sièges à pourvoir ;
+- - les bulletins comportant plus de noms que de sièges à pourvoir ;
 
-- les bulletins comportant une mention au verso.
+- - les bulletins comportant une mention au verso.
 
 Ne sont pas valables les bulletins blancs ; toutefois, ces bulletins sont considérés comme suffrages exprimés pour le calcul de la majorité absolue.
 
