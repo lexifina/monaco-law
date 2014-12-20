@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2014-692 du 12 décembre 2014 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2012-2013
