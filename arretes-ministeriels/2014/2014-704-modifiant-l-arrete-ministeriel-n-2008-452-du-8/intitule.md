@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2014-704 du 18 décembre 2014 modifiant l'arrêté ministériel n° 2008-452 du 8 août 2008, modifié, concernant le compteur horokilométrique et le dispositif répétiteur lumineux de tarif des taxis
