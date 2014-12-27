@@ -312,4 +312,34 @@ Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'as
 
 Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le Directeur de la Caisse de Compensation des Services Sociaux, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
 
+5. Honoraires de dispensation
+
+L'exécution d'une prescription de médicaments inscrits sur la liste des spécialités remboursables par les régimes d'assurance maladie obligatoires, ouvre droit à la facturation d'honoraires de dispensation dans les conditions suivantes.
+
+5.1. Honoraires de dispensation simple
+
+Pour chaque conditionnement de médicament remboursable facturé, un honoraire de dispensation simple facturable par le pharmacien d'officine, sous réserve que le médicament délivré comporte un code CIP.
+
+Le montant de l'honoraire des grands conditionnements, qui correspondent à trois mois de traitement, est distinct de l'honoraire de base et ne se cumule pas avec ce dernier.
+
+5.2. Honoraires de dispensation complexe
+
+Lorsqu'une même prescription comporte au moins cinq lignes différentes de spécialités pharmaceutiques remboursables, et que son exécution fait l'objet d'une seule délivrance, un honoraire de dispensation complexe est facturable par le pharmacien d'officine.
+
+Cet honoraire est cumulable avec les honoraires de Dispensation simple facturés pour l'exécution de cette même prescription.
+
+5.3. Tarifs de facturation et de remboursement des honoraires de dispensation
+
+La tarification des différents honoraires facturables par les pharmaciens d'officine ne peut faire l'objet de dépassement d'aucune sorte.
+
+Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance facturables au cours des services de garde.
+
+- Honoraires de Dispensation simple 0,81 euro(s)
+
+- -Honoraires de Dispensation simple grand conditionnement 2,21 euro(s)
+
+- Honoraires de Dispensation complexe 0,51 euro(s)
+
+Ces tarifs entrent en vigueur à compter du 1er janvier 2015.
+
 D - Frais d'orthopédie
