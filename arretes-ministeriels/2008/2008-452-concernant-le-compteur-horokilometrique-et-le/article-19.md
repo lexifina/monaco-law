@@ -10,7 +10,9 @@ Les vérifications mentionnées au premier alinéa de l'article précédent comp
 
 - la présence et de l'intégrité du carnet métrologique ;
 
-- la conformité du tarif en vigueur.
+- la conformité du tarif en vigueur ;
+
+- la fixation et le positionnement des dispositifs spéciaux.
 
 2° - Les essais métrologiques comprennent le contrôle de l'adaptation du compteur horokilométrique au véhicule porteur et la vérification du respect des erreurs maximales tolérées selon les limites et marges appliquées par l'organisme.
 
