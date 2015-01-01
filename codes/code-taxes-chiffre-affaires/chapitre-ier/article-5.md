@@ -2,33 +2,33 @@
 
 I. - Les opérations concourant à la production ou à la livraison d'immeubles sont soumises à la taxe sur la valeur ajoutée dans les conditions qui suivent.
 
-- 1. Sont assimilés à des biens corporels et suivent le régime du bien immeuble auquel ils se rapportent :
+1. Sont assimilés à des biens corporels et suivent le régime du bien immeuble auquel ils se rapportent :
 
-  - 1° Les droits réels immobiliers, à l'exception des locations résultant de baux qui confèrent un droit de jouissance ;
+- 1° Les droits réels immobiliers, à l'exception des locations résultant de baux qui confèrent un droit de jouissance ;
 
-  - 2° Les droits relatifs aux promesses de vente ;
+- 2° Les droits relatifs aux promesses de vente ;
 
-  - 3° Les parts d'intérêts et actions dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien immeuble.
+- 3° Les parts d'intérêts et actions dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien immeuble.
 
-- 2. Sont considérés :
+2. Sont considérés :
 
-  - 1° Comme terrains à bâtir, les terrains sur lesquels des constructions peuvent être autorisées en application d'un plan local d'urbanisme ou d'un autre document d'urbanisme en tenant lieu ;
+- 1° Comme terrains à bâtir, les terrains sur lesquels des constructions peuvent être autorisées en application d'un plan local d'urbanisme ou d'un autre document d'urbanisme en tenant lieu ;
 
-  - 2° Comme immeubles neufs, les immeubles qui ne sont pas achevés depuis plus de cinq années, qu'ils résultent d'une construction nouvelle ou de travaux portant sur des immeubles existants qui ont consisté en une surélévation ou qui ont rendu à l'état neuf :
+- 2° Comme immeubles neufs, les immeubles qui ne sont pas achevés depuis plus de cinq années, qu'ils résultent d'une construction nouvelle ou de travaux portant sur des immeubles existants qui ont consisté en une surélévation ou qui ont rendu à l'état neuf :
 
-    - a) Soit la majorité des fondations ;
+  - a) Soit la majorité des fondations ;
 
-    - b) Soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
+  - b) Soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
 
-    - c) Soit la majorité de la consistance des façades hors ravalement ;
+  - c) Soit la majorité de la consistance des façades hors ravalement ;
 
-    - d) Soit l'ensemble des éléments de second œuvre tels qu'énumérés par ordonnance souveraine, dans une proportion fixée par cette ordonnance qui ne peut être inférieure à la moitié pour chacun d'entre eux.
+  - d) Soit l'ensemble des éléments de second œuvre tels qu'énumérés par ordonnance souveraine, dans une proportion fixée par cette ordonnance qui ne peut être inférieure à la moitié pour chacun d'entre eux.
 
-- 3. Sont également soumises à la taxe sur la valeur ajoutée :
+3. Sont également soumises à la taxe sur la valeur ajoutée :
 
-  - 1° Lorsqu'elles sont réalisées par des personnes assujetties au sens de l'article 3, sans préjudice des dispositions du II, les livraisons à soi-même d'immeubles neufs lorsque ceux-ci ne sont pas vendus dans les deux ans qui suivent leur achèvement ;
+- 1° Lorsqu'elles sont réalisées par des personnes assujetties au sens de l'article 3, sans préjudice des dispositions du II, les livraisons à soi-même d'immeubles neufs lorsque ceux-ci ne sont pas vendus dans les deux ans qui suivent leur achèvement ;
 
-  - 2° (2° abrogé) ;
+- 2° (2° abrogé) ;
 
 II - Les opérations suivantes sont assimilées, selon le cas, à des livraisons de biens ou à des prestations de services effectuées à titre onéreux.
 
@@ -48,7 +48,7 @@ II - Les opérations suivantes sont assimilées, selon le cas, à des livraisons
 
   - 2° Les prestations de services à titre gratuit effectuées par l'assujetti pour ses besoins privés ou pour ceux de son personnel ou, plus généralement, à des fins étrangères à son entreprise ;
 
-  - 3. Une ordonnance souveraine définit les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible.
+- 3. Une ordonnance souveraine définit les opérations désignées ci-dessus ainsi que le moment où la taxe devient exigible.
 
 III - Sont également soumises à la taxe sur la valeur ajoutée :
 

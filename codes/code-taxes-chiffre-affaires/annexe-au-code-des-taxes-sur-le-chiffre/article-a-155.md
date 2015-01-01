@@ -1,6 +1,6 @@
 # Article A-155
 
-1. - La déclaration mentionnée à l'article 74 du code est produite auprès de la direction des Services fiscaux sur support papier ou par voie électronique au plus tard le dixième jour ouvrable qui suit :
+I. - La déclaration mentionnée à l'article 74 du code est produite auprès de la direction des Services fiscaux sur support papier ou par voie électronique au plus tard le dixième jour ouvrable qui suit :
 
 - pour les livraisons, le mois au cours duquel la taxe est devenue exigible dans l'État membre de la Communauté économique européenne autre que la France de destination des biens, conformément au 1 de l'article 69 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ;
 
