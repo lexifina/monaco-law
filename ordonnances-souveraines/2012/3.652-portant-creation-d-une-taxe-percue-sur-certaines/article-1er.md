@@ -10,4 +10,4 @@ Il est institué une taxe perçue sur les boissons et préparations liquides pou
 
 - 4° Dont le titre alcoométrique n'excède pas 1,2 % vol. ou 0,5 % vol. dans le cas des bières au sens du a de l'article 224A de l'ordonnance n° 2.666 du 14 août 1942, modifiée, susvisée.
 
-Sont exclus du périmètre de cette taxe les laits infantiles premier et deuxième âges, les laits de croissance et les produits de nutrition entérale pour les personnes malades.
+Sont exclus du périmètre de cette taxe les laits infantiles premier et deuxième âges, les laits de croissance, les produits de nutrition entérale pour les personnes malades et les boissons à base de soja avec au minimum 2.9 % de protéines issues de la graine de soja.
