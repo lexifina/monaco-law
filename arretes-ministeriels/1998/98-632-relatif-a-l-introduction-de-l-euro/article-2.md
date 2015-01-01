@@ -34,4 +34,6 @@ Le taux de conversion entre l'unité euro et les unités monétaires visées à 
 
 - un euro pour 15,6466 couronnes estoniennes (EEK) ;
 
-- un euro pour 0,702804 lats letton (LVL).
+- un euro pour 0,702804 lats letton (LVL) ;
+
+- un euro pour 3,45280 litas lituaniens (LTL).
