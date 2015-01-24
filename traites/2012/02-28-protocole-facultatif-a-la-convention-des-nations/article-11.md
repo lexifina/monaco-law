@@ -1,0 +1,5 @@
+# Article 11
+
+1. L'État partie prend dûment en considération les constatations et les éventuelles recommandations du Comité et lui soumet une réponse écrite contenant des informations sur toute mesure prise ou envisagée à la lumière de ses constatations et recommandations. L'État partie soumet sa réponse dès que possible, dans un délai de six mois.
+
+2. Le Comité peut inviter l'État partie à lui soumettre un complément d'information sur toute mesure prise pour donner suite à ses constatations ou à ses recommandations ou sur l'application d'un éventuel accord de règlement amiable, y compris, si le Comité le juge approprié, dans les rapports ultérieurs de l'État partie présentés au titre de l'article 44 de la Convention, de l'article 12 du Protocole facultatif à la Convention, concernant la vente d'enfants, la prostitution des enfants et la pornographie mettant en scène des enfants, ou de l'article 8 du Protocole facultatif à la Convention, concernant l'implication d'enfants dans les conflits armés, selon les cas.
