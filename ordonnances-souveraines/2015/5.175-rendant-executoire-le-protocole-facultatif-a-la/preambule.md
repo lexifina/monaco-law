@@ -1,0 +1,3 @@
+Notre instrument d'adhésion au Protocole facultatif à la Convention des Nations Unies relative aux droits de l'enfant établissant une procédure de présentation de communications ouvert à la signature le 28 février 2012, ayant été déposé le 24 septembre 2014 auprès du Secrétaire Général de l'Organisation des Nations Unies, ledit Protocole est entrée en vigueur pour Monaco le 24 décembre 2014 et recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.
+
+Notre Secrétaire d'Etat, Notre Directeur des Services Judiciaires et Notre Ministre d'Etat sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
