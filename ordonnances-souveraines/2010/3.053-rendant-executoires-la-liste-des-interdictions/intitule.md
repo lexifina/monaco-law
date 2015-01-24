@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 3.053 du 23 décembre 2010 rendant exécutoires la Liste des Interdictions - Standard International 2011, et la Liste des Autorisations à des fins thérapeutiques - Standard AUT 2011, amendant les Annexes I et II de la Convention internationale contre le dopage dans le sport (UNESCO)
