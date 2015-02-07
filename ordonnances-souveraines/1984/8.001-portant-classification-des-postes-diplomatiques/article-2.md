@@ -94,6 +94,8 @@ Les postes consulaires sont les suivants :
 
 - Liechtenstein : Vaduz ;
 
+- Lituanie : Vilnius ;
+
 - Luxembourg : Luxembourg ;
 
 - Madagascar : Antananarivo ;
@@ -148,7 +150,7 @@ Les postes consulaires sont les suivants :
 
 - Roumanie : Bucarest ;
 
-- Russie (Fédération de) : Moscou, Saint-Pétersbourg ;
+- Russie (Fédération de) : Moscou, Rostov-sur-le-Don, Saint-Pétersbourg ;
 
 - Saint-Marin : Saint-Marin ;
 
