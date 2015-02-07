@@ -1,5 +1,0 @@
-# Article 31
-
-La personne responsable désigne une ou plusieurs personnes responsables intérimaires. La personne responsable intérimaire se voit conférer pour la période de remplacement les mêmes pouvoirs et attributions que ceux conférés à la personne responsable et doit les exercer effectivement pendant la durée du remplacement.
-
-La personne responsable intérimaire doit répondre aux conditions de qualification et d'expérience mentionnées à l'article précédent.
