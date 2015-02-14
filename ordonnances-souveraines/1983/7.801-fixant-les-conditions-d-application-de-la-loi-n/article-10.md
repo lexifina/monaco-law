@@ -1,5 +1,3 @@
 # Article 10
 
-Toute personne intéressée peut prendre connaissance, sans frais, du registre, tenu par le service, dans lequel sont insérées les notices explicatives en autant d'exemplaires que la marque intéresse de classes de produits ou services.
-
-Toute personne intéressée peut obtenir une reproduction photographique du modèle d'une marque enregistrée moyennant le remboursement des frais correspondants.
+À compter du jour de la publication au Journal de Monaco , toute personne intéressée peut prendre connaissance, sans frais, de la notice prévue à l'article premier.
