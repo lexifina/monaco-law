@@ -1,14 +1,14 @@
 # Article 1er
 
-Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2014 :
+Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2015 :
 
-Nourriture :
+* Nourriture :
 
-Un repas au cours d'une journée : | 3,51 euro(s)
+Un repas au cours d'une journée : 3,52 euro(s)
 
-Deux repas au cours d'une journée : | 7,02 euro(s)
+Deux repas au cours d'une journée : 7,04 euro(s)
 
-Logement pour les salariés des catégories suivantes :
+* Logement pour les salariés des catégories suivantes :
 
 - Gens de maison,
 
@@ -20,9 +20,9 @@ Logement pour les salariés des catégories suivantes :
 
 - Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
 
-Par semaine : | 17,55 euro(s)
+Par semaine : 17,60 euro(s)
 
-Par mois : | 70,20 euro(s)
+Par mois : 70,40 euro(s)
 
 Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé.
 
