@@ -1,0 +1,3 @@
+# Article 2
+
+L'allocation de soutien à l'emploi est attribuée, pour chaque salarié dans la limite de 800 heures de travail non effectuées payées par l'employeur sur la période de douze mois prévue au premier alinéa de l'article premier.
