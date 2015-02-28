@@ -1,0 +1,3 @@
+# Article 63
+
+Lorsqu'une Partie a, sur la base d'informations à sa disposition, de sérieuses raisons de penser qu'une personne risque d'être soumise de manière immédiate à l'un des actes de violence visés par les articles 36, 37, 38 et 39 de la présente Convention sur le territoire d'une autre Partie, la Partie disposant de l'information est encouragée à la transmettre sans délai à l'autre Partie dans le but d'assurer que les mesures de protection appropriées soient prises. Cette information doit contenir, le cas échéant, des indications sur des dispositions de protection existantes établies au bénéfice de la personne en danger.
