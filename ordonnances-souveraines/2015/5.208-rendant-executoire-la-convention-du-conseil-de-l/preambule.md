@@ -1,0 +1,3 @@
+Notre Instrument de ratification de la Convention du Conseil de l'Europe sur la prévention et la lutte contre la violence à l'égard des femmes et la violence domestique, ouverte à la signature à Istanbul le 11 mai 2011, ayant été déposé le 7 octobre 2014 auprès du Conseil de l'Europe, ladite Convention est entrée en vigueur pour Monaco le 1er février 2015 et recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.
+
+Notre Secrétaire d'État, Notre Directeur des Services Judiciaires et Notre Ministre d'État sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
