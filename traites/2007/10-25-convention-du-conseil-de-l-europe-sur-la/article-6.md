@@ -1,0 +1,3 @@
+# Article 6
+
+Chaque Partie prend les mesures législatives ou autres nécessaires pour que les enfants reçoivent, au cours de la scolarité primaire et secondaire, des informations sur les risques d'exploitation et d'abus sexuels, ainsi que sur les moyens de se protéger, adaptées à leur stade de développement. Cette information, dispensée, le cas échéant, en association avec les parents, s'inscrit dans une information plus générale sur la sexualité et porte une attention particulière aux situations à risque, notamment celles résultant de l'utilisation des nouvelles technologies de l'information et de la communication.
