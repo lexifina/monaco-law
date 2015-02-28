@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 4.698 du 30 janvier 2014 portant création d'une taxe perçue sur certaines boissons contenant de la caféine
 
-Version en vigueur au 1er janvier 2014.
+Version en vigueur au 28 février 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2014/01-30-4.698@2014.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2014/01-30-4.698@2015.02.28/
 
 | | |
 | --- | --- |
