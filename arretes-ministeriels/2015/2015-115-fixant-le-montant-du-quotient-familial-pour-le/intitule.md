@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2015-115 du 26 février 2015 fixant le montant du quotient familial pour le bénéfice du remboursement des frais de voyage et de l'indemnité pour frais d'hébergement lors de cures thermales
