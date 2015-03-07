@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2014-116 du 27 février 2014 fixant le montant du quotient familial pour le bénéfice du remboursement des frais de voyage et de l'indemnité pour frais d'hébergement lors de cures thermales
