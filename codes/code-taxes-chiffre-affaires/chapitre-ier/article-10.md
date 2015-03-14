@@ -10,11 +10,11 @@ I. - Les acquisitions intracommunautaires de biens meubles corporels situés à 
 
 - 4° L'acquéreur s'assure qu'est délivrée au destinataire de la livraison mentionné au 2° une facture hors taxe comportant :
 
-- a) le numéro d'identification à la taxe sur la valeur ajoutée de l'acquéreur ;
+  - a) le numéro d'identification à la taxe sur la valeur ajoutée de l'acquéreur ;
 
-- b) le numéro d'identification à la taxe sur la valeur ajoutée à Monaco du destinataire de la livraison ;
+  - b) le numéro d'identification à la taxe sur la valeur ajoutée à Monaco du destinataire de la livraison ;
 
-- c) la mention : « Application de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ».
+  - c) la mention : « Application de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ».
 
 II. - Pour l'application du II de l'article 9, sont considérées comme soumises à la taxe sur la valeur ajoutée dans l'État membre, autre que la France, de destination des biens, les acquisitions qui y sont réalisées dans les conditions de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006, et sous réserve que l'acquéreur :
 

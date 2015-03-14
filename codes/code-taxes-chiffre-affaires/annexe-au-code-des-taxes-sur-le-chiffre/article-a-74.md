@@ -68,7 +68,7 @@ V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du 
 
 - 2° Après chaque régularisation opérée en application des dispositions des 3° à 5° du 1 du III du présent article, ils prennent la valeur des coefficients mentionnés respectivement aux 3° à 5° du 2 de ce même III.
 
-Le coefficient de déduction de référence est égal au produit des coefficients d'assujettissement, de taxation et d'admission de référence résultant des dispositions qui précèdent.
+- Le coefficient de déduction de référence est égal au produit des coefficients d'assujettissement, de taxation et d'admission de référence résultant des dispositions qui précèdent.
 
 VI. - Le montant de la taxe dont la déduction a déjà été opérée doit être reversé dans les cas suivants :
 

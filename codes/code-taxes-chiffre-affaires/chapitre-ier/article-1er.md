@@ -20,7 +20,7 @@ III. - Est assimilé à une livraison de biens, le transfert par un assujetti d'
 
 Est considéré comme un transfert au sens des dispositions qui précèdent, l'expédition ou le transport, par un assujetti ou pour son compte, d'un bien meuble corporel pour les besoins de son entreprise, à l'exception de l'expédition ou du transport d'un bien qui, dans l'État membre d'arrivée autre que la France est destiné :
 
-a) à être utilisé temporairement pour les besoins de prestations de services effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit, si ce bien était importé, au bénéfice de l'admission temporaire en exonération totale de droits ;
+- a) à être utilisé temporairement pour les besoins de prestations de services effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit, si ce bien était importé, au bénéfice de l'admission temporaire en exonération totale de droits ;
 
 - b) à faire l'objet d'expertises ou de travaux à condition que le bien soit réexpédié ou transporté à Monaco ou en France à destination de cet assujetti ;
 

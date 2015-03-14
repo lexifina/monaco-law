@@ -2,7 +2,7 @@
 
 I. - 1° La base d'imposition des livraisons par un assujetti revendeur de biens d'occasion, d'œuvres d'art, d'objets de collection ou d'antiquité qui lui ont été livrés par un non redevable de la taxe sur la valeur ajoutée ou par une personne qui n'est pas autorisée à facturer la taxe sur la valeur ajoutée au titre de cette livraison est constituée de la différence entre le prix de vente et le prix d'achat.
 
-La définition des biens d'occasion, des œuvres d'art, des objets de collection et d'antiquité est fixée par l'article A-41 de l'annexe au Code des taxes ;
+La définition des biens d'occasion, des œuvres d'art, des objets de collection et d'antiquité est fixée par l'article A-187 A de l'annexe au Code des taxes.
 
 2° Pour les livraisons aux enchères publiques de biens d'occasion, d'œuvres d'art, d'objets de collection ou d'antiquité réalisées par un assujetti agissant en son nom propre pour le compte d'un non redevable de la taxe sur la valeur ajoutée ou d'une personne qui n'est pas autorisée à facturer la taxe sur la valeur ajoutée au titre de sa livraison, la base d'imposition est constituée par la différence entre le prix total payé par l'adjudicataire et le montant net payé par cet assujetti à son commettant ;
 

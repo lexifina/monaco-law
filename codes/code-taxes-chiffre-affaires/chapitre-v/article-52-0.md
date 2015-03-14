@@ -44,4 +44,8 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - I- 1° Les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires, effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un État membre de l'Union européenne autre que la France ;
 
-- 2° Les acquisitions intracommunautaires d'œuvres d'art qui ont fait l'objet d'une livraison dans un État membre autre que la France par d'autres assujettis que des assujettis revendeurs.
+- 2° Les acquisitions intracommunautaires d'œuvres d'art qui ont fait l'objet d'une livraison dans un État membre autre que la France par d'autres assujettis que des assujettis revendeurs ;
+
+- 3° Les livraisons d'œuvres d'art effectuées par leur auteur ou ses ayants droit.
+
+- J. - Les droits d'entrée perçus par les organisateurs de réunions sportives.

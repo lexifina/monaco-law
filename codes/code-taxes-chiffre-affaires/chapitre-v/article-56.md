@@ -30,7 +30,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - On entend par réseau de communications électroniques toute installation ou tout ensemble d'installations de transport ou de diffusion ainsi que, le cas échéant, les autres moyens assurant l'acheminement de communications électroniques, notamment ceux de commutation et de routage.
 
-- Néanmoins, lorsque les droits de distribution des services de télévision ont été acquis en tout ou partie contre rémunération par le fournisseur des services, le taux réduit de 10 % est applicable à la part de l'abonnement correspondante. Cette part est égale, en fonction du choix opéré par le distributeur des services, soit aux sommes payées, par usager, pour l'acquisition des droits susmentionnés, soit au prix auquel les services correspondant aux mêmes droits sont distribués effectivement par ce distributeur dans une offre de services de télévision distincte de l'accès à un réseau de communications électroniques.
+- Néanmoins, lorsque les droits de distribution des services de télévision ont été acquis en tout ou partie contre rémunération par le fournisseur des services, le taux réduit de 10 % est applicable à la part de l'abonnement correspondante. Cette part est égale aux sommes payées, par usager, pour l'acquisition des droits susmentionnés.
 
 - i) les cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres.
 

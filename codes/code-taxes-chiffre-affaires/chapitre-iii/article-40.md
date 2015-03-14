@@ -12,7 +12,7 @@
 
 - c ter) pour les livraisons et transferts mentionnés au I de l'article 31 effectués de manière continue pendant une période de plus d'un mois civil, à l'expiration de chaque mois civil ;
 
-- d) Pour les livraisons à soi-même visées au a du 1° du 3 du I de l'article 5, au moment de la livraison qui intervient, au plus tard, lors de la délivrance de l'autorisation d'habiter prévue par l'article 118 de l'ordonnance souveraine n° 3.647 du 9 septembre 1966, modifiée, susvisée ; les modalités d'application du présent paragraphe sont fixées par les articles A-1 à A-3 de l'annexe au code ;
+- d) pour les livraisons à soi-même d'immeubles neufs taxées en application du 2° du 1 du II de l'article 5, au moment de la livraison qui intervient, au plus tard, lors de la délivrance de l'autorisation d'occuper les locaux prévue par l'article 118 de l'ordonnance souveraine n° 3.647 du 9 septembre 1966 modifiée ; les modalités d'application du présent paragraphe sont fixées par les articles A-2 à A-3 de l'annexe au présent Code ;
 
 2. La taxe est exigible :
 
