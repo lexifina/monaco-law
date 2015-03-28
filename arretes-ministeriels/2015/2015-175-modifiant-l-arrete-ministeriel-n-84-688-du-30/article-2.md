@@ -1,0 +1,3 @@
+# Article 2
+
+Dans la deuxième partie « Nomenclature des actes médicaux n'utilisant pas les radiations ionisantes » de la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux, à l'article 1er « Prélèvements et Injections », du Chapitre I « Soins de pratique courante », du Titre XVI « Soins Infirmiers », il est inséré après les actes « Injection intramusculaire » et « Injection sous-cutanée » le libellé suivant : Voir l'article 1er de la deuxième partie de la Nomenclature publiée par l'arrêté ministériel n° 84-688 du 30 novembre 1984.
