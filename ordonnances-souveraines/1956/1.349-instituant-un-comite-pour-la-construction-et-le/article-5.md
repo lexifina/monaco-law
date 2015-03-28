@@ -1,3 +1,3 @@
 # Article 5
 
-Le secrétaire du comité sera désigné par le président, parmi les fonctionnaires de l'ordre administratif.
+Les chefs de service placés sous l'autorité des conseillers de gouvernement adresseront au président des rapports écrits sur les affaires préparées entre eux. À réception de ces rapports, le président désignera, sur chaque affaire, un rapporteur pris parmi les membres du comité.

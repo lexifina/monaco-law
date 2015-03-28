@@ -1,3 +1,3 @@
 # Article 7
 
-Le Comité Consultatif pour la Construction se réunira sur la convocation de son Président qui en fixera l'ordre du jour. Il ne pourra délibérer que s'il est composé d'au moins sept membres.
+Les délibérations sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante.

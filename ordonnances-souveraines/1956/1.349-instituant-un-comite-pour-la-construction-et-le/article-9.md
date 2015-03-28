@@ -1,3 +1,3 @@
 # Article 9
 
-Le secrétaire dressera le procès-verbal des séances, qui contiendra, avec les noms et prénoms des membres présents, leurs opinions et les termes précis de la délibération.
+Le titre « comité pour la construction et le logement » se substituera à celui de « comité consultatif des travaux publics » dans les textes en vigueur.
