@@ -1,3 +1,0 @@
-# Article 3
-
-Lorsqu'ils délivrent des billets en euros au public au moyen d'automates en libre-service, les établissements de crédit et les établissements de paiement utilisent pour leur alimentation, sous réserve des dispositions prévues à l'article suivant, des billets prélevés directement auprès de la Banque de France ou d'une autre banque centrale appartenant à l'Eurosystème.
