@@ -2,20 +2,18 @@
 
 Le personnel concourant à l'exploitation des jeux dits automatiques comprend :
 
-- des agents d'exploitation placés sous l'autorité du Directeur des jeux accessoires ;
+- Des agents d'exploitation placés sous l'autorité de la Direction des Appareils Automatiques ;
 
-- des surveillants placés sous l'autorité du Directeur responsable de la sécurité ;
+- Des personnels chargés du contrôle relevant de l'autorité de la Direction des Casinos.
 
-- des personnels du service du contrôle opérationnel placés sous l'autorité de la Direction Générale des Jeux.
+23-1 Le personnel d'exploitation comprend :
 
-23-1 - Le personnel d'exploitation comprend :
+- Des superviseurs chargés de contrôler l'exploitation des appareils, d'en remettre les clés d'ouverture aux mécaniciens, d'appliquer les procédures comptables, de diriger les opérations de relève, de surveiller les changes et les paiements manuels et d'assurer les relations avec la clientèle ;
 
-- des superviseurs chargés de contrôler l'exploitation des appareils et notamment de remettre les clés d'ouverture des appareils aux surveillants ou aux mécaniciens selon le cas, de prévoir le remplissage des appareils, d'appliquer les procédures comptables, de surveiller le change et d'assurer les relations avec la clientèle ;
+- Des mécaniciens dépannant et vérifiant le fonctionnement des appareils ;
 
-- des mécaniciens dépannant et vérifiant le fonctionnement des appareils.
+- Des changeurs qui assurent le change.
 
-- des changeurs qui assurent le change.
+23-2 Le personnel de surveillance est composé d'agents assermentés ayant une mission de surveillance générale, dans le cadre de laquelle ils assurent la sécurité des opérations de relève lorsque celles-ci sont exécutées en exploitation.
 
-23-2 - Le personnel de surveillance est composé d'agents assermentés ayant une mission de surveillance générale dans le cadre de laquelle ils suivent les interventions sur les appareils, surveillent les opérations de relève, assistent aux opérations d'ajoutés et contrôlent les paiements des » jack pots ".
-
-Ils doivent rendre compte à leur hiérarchie de tout incident et de toute anomalie constatés sur les appareils et en informer le superviseur.
+Ils doivent rendre compte à leur hiérarchie de tout incident ainsi qu'au superviseur responsable de l'exploitation.

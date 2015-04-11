@@ -100,6 +100,6 @@ Les trois combinaisons gagnantes et leurs paiements respectifs sont les suivants
 
 - » Mixed pairs « (ou la paire mixte constituée par exemple d'un roi de cœur et d'un roi de trèfle) payée 6 fois la mise.
 
-Après la distribution de deux cartes, à chaque joueur, le croupier procède au ramassage des mises perdantes sur »Perfect pairs' et au paiement des mises gagnantes sur cette même chance.
+Après la distribution de deux cartes, à chaque joueur, le croupier procède au ramassage des mises perdantes sur » Perfect pairs « et au paiement des mises gagnantes sur cette même chance.
 
 Ensuite, la partie se poursuit selon les règles en vigueur au Black Jack.

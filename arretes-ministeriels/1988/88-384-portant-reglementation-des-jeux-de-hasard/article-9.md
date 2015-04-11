@@ -6,13 +6,13 @@ Le personnel à la table comprend :
 
 - un chef de table, responsable de la clarté et de la régularité du jeu, des paiements et de toutes opérations effectuées à sa table,
 
-- un employé dit « bout de table » (selon les besoins du jeu),
+- un employé dit » bout de table « (selon les besoins du jeu),
 
-- deux croupiers dénommés l'un « contrôleur » et l'autre « tailleur ».
+- deux croupiers dénommés l'un » contrôleur « et l'autre » tailleur «.
 
-L'usage d'une mini-table est autorisé. Dans ce cas, un croupier chargé des deux fonctions de « tailleur » et de « contrôleur » est affecté à chaque table, placée sous la responsabilité d'un chef de table.
+L'usage d'une mini-table est autorisé. Dans ce cas, un croupier chargé des deux fonctions de » tailleur « et de » contrôleur « est affecté à chaque table, placée sous la responsabilité d'un chef de table.
 
-Une fois les cartes comptées et vérifiées, le « contrôleur » les mélange figures en dessous. Le « tailleur » reforme alors le sixain en procédant à un autre mélange par petits paquets de cartes ; puis il prend les cinq ou six premières cartes du sixain et les intercales une après l'autre dans le paquet, à intervalles réguliers.
+Une fois les cartes comptées et vérifiées, le » contrôleur ' les mélange figures en dessous. Le « tailleur » reforme alors le sixain en procédant à un autre mélange par petits paquets de cartes ; puis il prend les cinq ou six premières cartes du sixain et les intercales une après l'autre dans le paquet, à intervalles réguliers.
 
 Le mélange terminé, le « tailleur » coupe une première fois, à l'aide d'une carte de coupe ; il offre ensuite la coupe, au moyen d'une autre carte particulière, aux clients de la table, en commençant par le premier assis à sa droite. Par l'usage des cartes de coupe, la figure de la dernière carte du sixain demeure toujours invisible aux croupiers et aux joueurs ; après la coupe, le croupier place une carte d'arrêt avant les cinq dernières cartes du sixain. Cette carte marque la fin de la partie et annule le coup dès qu'elle apparaît, lorsque le point n'est pas connu ; les cinq cartes du talon sont ensuite étalées, figures contre le tapis, et comptées à haute et intelligible voix.
 
