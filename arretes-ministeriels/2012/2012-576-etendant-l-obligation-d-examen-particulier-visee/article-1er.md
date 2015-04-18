@@ -4,8 +4,6 @@ L'examen particulier visé à l'article 11 de la loi n° 1.362 du 3 août 2009 s
 
 - Algérie
 
-- Indonésie
-
 - Équateur
 
 - Myanmar.
