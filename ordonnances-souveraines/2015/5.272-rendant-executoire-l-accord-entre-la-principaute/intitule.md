@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.272 du 1er avril 2015 rendant exécutoire l'Accord entre la Principauté de Monaco et la République d'Afrique du Sud relatif à l'échange de renseignements en matière fiscale, signé à Monaco le 23 septembre 2013
