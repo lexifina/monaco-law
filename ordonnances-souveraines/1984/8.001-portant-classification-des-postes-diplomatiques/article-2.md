@@ -90,6 +90,8 @@ Les postes consulaires sont les suivants :
 
 - Kenya : Nairobi ;
 
+- Lettonie : Riga ;
+
 - Liban : Beyrouth, Tripoli ;
 
 - Liechtenstein : Vaduz ;
