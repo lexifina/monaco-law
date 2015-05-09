@@ -1,0 +1,9 @@
+# Article 7
+
+1. Les bénéfices d'une entreprise d'une Partie ne sont imposables que dans cette Partie, à moins que l'entreprise n'exerce son activité dans l'autre Partie par l'entremise d'un établissement stable qui y est situé. Si l'entreprise exerce son activité d'une telle façon, les bénéfices de l'entreprise sont imposables dans l'autre Partie mais uniquement dans la mesure où ils sont imputables à cet établissement stable et cela conformément aux dispositions du paragraphe 2.
+
+2. Aux fins du présent article, les bénéfices qui sont attribuables à chacune des Parties à l'établissement stable visé au paragraphe 1 sont les bénéfices qu'il aurait pu faire, en particulier dans ses relations avec les autres parties de l'entreprise, si elle était une entreprise distincte et indépendante exerçant des activités identiques ou analogues dans le cadre des conditions identiques ou similaires, en tenant compte des fonctions exercées, des actifs utilisés et des risques assumés par l'entreprise à travers l'établissement stable et par les autres parties de l'entreprise.
+
+3. Lorsque, conformément au paragraphe 2, une Partie ajuste les bénéfices imputables à un établissement stable d'une entreprise de l'une des Parties et impose en conséquence des bénéfices de l'entreprise qui ont été assujettis à l'impôt dans l'autre Partie, dans la mesure nécessaire pour éliminer la double imposition sur ces profits, procède à un ajustement approprié du montant de l'impôt perçu sur ces bénéfices. Pour déterminer cet ajustement, les autorités compétentes des Parties se consultent mutuellement, dans un délai de temps raisonnable.
+
+4. Lorsque les bénéfices comprennent des éléments des revenus traités séparément dans d'autres articles du présent Accord, les dispositions de ces articles ne sont pas affectées par les dispositions du présent article.
