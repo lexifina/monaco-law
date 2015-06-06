@@ -1,8 +1,8 @@
 # Loi n° 1.364 du 16 novembre 2009 portant statut de la magistrature
 
-Version en vigueur au 21 novembre 2009.
+Version en vigueur au 6 juin 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2009/11-16-1.364@2009.11.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2009/11-16-1.364@2015.06.06/
 
 | | |
 | --- | --- |
