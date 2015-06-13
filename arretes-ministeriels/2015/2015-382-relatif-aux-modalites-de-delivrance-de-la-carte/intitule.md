@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2015-382 du 8 juin 2015 relatif aux modalités de délivrance de la carte de stationnement pour personnes handicapées, de la carte de transport public gratuit, de la carte « priorité pour personne handicapée » et de la carte « personne handicapée »
