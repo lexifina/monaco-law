@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2015-381 du 8 juin 2015 fixant les modalités et les conditions de l'attribution d'une aide financière afin de faciliter l'accès des travailleurs handicapés à l'emploi en milieu ordinaire de travail
