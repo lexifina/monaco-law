@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2004-627 du 21 décembre 2004 définissant les modalités d'examen en vue de l'obtention du permis de conduire
