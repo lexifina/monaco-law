@@ -1,0 +1,3 @@
+# Article 2
+
+Le Conseiller de Gouvernement pour l'Équipement, l'Environnement et l'Urbanisme et le Conseiller de Gouvernement pour les Relations Extérieures et la Coopération sont chargés de l'exécution du présent arrêté.
