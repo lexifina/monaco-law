@@ -2,6 +2,6 @@
 
 Après l'appel des parties, le président donne la parole au rapporteur, qui résume les faits, les moyens et les conclusions, sans ouvrir d'avis.
 
-Les mandataires des parties peuvent ensuite présenter des observations orales à l'appui des mémoires écrits.
+Le Procureur Général conclut ensuite au nom de la loi.
 
-Le Procureur Général conclut au nom de la loi ; après ses conclusions. les avocats ne peuvent plus prendre la parole.
+Les conseils des parties sont invités par le Président à prendre la parole, s'ils le souhaitent, après le Procureur Général à l'effet de présenter d'ultimes observations, le conseil du défendeur s'exprimant le dernier.

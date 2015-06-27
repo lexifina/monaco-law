@@ -1,6 +1,6 @@
 # Article 18
 
-Sur la demande de l'une des parties formée soit dans la requête introductive du recours, soit par requête distincte déposée au Greffe général contre récépissé dans les huit jours qui suivent la remise de la copie de la requête introductive du recours, le Président du Tribunal Suprême peut ordonner que le Greffier en chef communique la procédure à la personne désignée par la partie commune susceptible d'être intéressée par le recours.
+À la demande de l'une des parties formée soit dans la requête introductive du recours, soit par requête distincte déposée au Greffe Général contre récépissé dans les huit jours qui suivent la remise de la copie de cette requête, le Président peut ordonner que le Greffier en chef communique la procédure à une ou plusieurs personnes dont les droits lui semblent susceptibles d'être affectés par le recours. Le Président peut décider une telle communication de son propre chef dans les quinze jours suivant la réception de la requête introductive.
 
 Cette personne peut intervenir. Dans les deux mois qui suivent la communication de la procédure, elle dépose alors au Greffe général, contre récépissé, ses observations signées d'un avocat-défenseur. Ces observations font l'objet des transmissions prévues à l'article 17.
 

@@ -1,5 +1,5 @@
 # Article 37
 
-La décision est adressée au Prince par le président du Tribunal Suprême. Elle est publiée, par extrait, au « Journal de Monaco » aux diligences du Greffe général.
+La décision est publiée, par extraits, au « Journal de Monaco » à la diligence du Greffe Général.
 
-Notification en est faite dans les cinq jours par le Greffier en Chef aux parties.
+Notification en est faite par le Greffier en chef aux parties. Copie en est délivrée au Procureur Général.

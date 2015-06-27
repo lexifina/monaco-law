@@ -6,4 +6,4 @@ Sur requête de l'une des parties le Président peut accorder son ultime délai 
 
 Cette requête est déposée au Greffe général avant l'expiration du délai de trois jours visé à l'article 20 et communiquée selon les règles de l'article 17. Elle suit la procédure prévue aux articles 17 et 18.
 
-Jusqu'à la clôture de la procédure, le Président peut toujours ordonner les mesures d'instruction qu'il juge utiles à la manifestation de la vérité.
+Jusqu'à la notification aux parties de la date prévue pour l'audience, le Président peut toujours ordonner les mesures d'instruction qu'il juge utiles à la manifestation de la vérité.

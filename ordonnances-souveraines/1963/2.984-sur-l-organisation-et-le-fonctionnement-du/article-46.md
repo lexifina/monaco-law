@@ -4,6 +4,4 @@ Les réquisitions motivées du Procureur général entraînent de plein droit, e
 
 Les parties ont un délai d'un mois, à compter du réquisitoire de renvoi, pour déposer au greffe général leurs observations accompagnées de toutes pièces utiles.
 
-À l'expiration de ce délai le Greffier en Chef transmet au Procureur Général les mémoires et pièces déposés.
-
-Le Procureur Général transmet, dans les quinze jours, le dossier de l'affaire, ainsi que tous documents de nature à l'éclairer, au président du Tribunal Suprême. Il y joint des conclusions écrites.
+À l'expiration de ce délai le Greffier en chef transmet au Président ainsi qu'au Procureur Général les mémoires et pièces déposés.
