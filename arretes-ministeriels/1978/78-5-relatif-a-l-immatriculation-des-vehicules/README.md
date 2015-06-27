@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 78-5 du 9 janvier 1978 relatif à l'immatriculation des véhicules automobiles
 
-Version en vigueur au 29 mars 2014.
+Version en vigueur au 27 juin 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1978/01-09-78-5@2014.03.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1978/01-09-78-5@2015.06.27/
 
 | | |
 | --- | --- |

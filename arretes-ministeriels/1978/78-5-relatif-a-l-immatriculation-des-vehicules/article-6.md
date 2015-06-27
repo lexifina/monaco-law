@@ -274,13 +274,15 @@ Le numéro d'immatriculation est composé des lettres " CD " suivies d'un numér
 
 L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
 
-- Véhicules des membres du personnel administratif et technique des Ambassades et des fonctionnaires des Organismes Internationaux Couleur des caractères : bleu.
+- Véhicules des membres du personnel administratif et technique, porteurs du passeport de service délivré par le Ministère des Affaires Etrangères de l'État accréditant s'agissant du personnel des Ambassades en Principauté, et des fonctionnaires des Organismes internationaux ne bénéficiant pas d'un statut diplomatique.
 
-Le numéro d'immatriculation est composé d'un numéro d'identification identique à celui attribué aux membres du corps diplomatique suivi de la lettre " K " et de deux chiffres classant les véhicules des membres du personnel administratif et technique des Ambassades et des fonctionnaires des Organismes Internationaux ne bénéficiant pas d'un statut diplomatique.
+Couleur des caractères : bleu
 
-Il ne peut être attribué qu'un seul numéro d'immatriculation par membre du personnel administratif et technique des Ambassades et par fonctionnaire des Organismes Internationaux.
+Le numéro d'immatriculation est composé d'un numéro d'identification identique à celui attribué aux membres du corps diplomatique suivi de la lettre " K " et de deux chiffres classant les véhicules.
 
-Les immatriculations des véhicules de cette sous-catégorie ne peuvent pas bénéficier de l'exonération de droits ayant trait à l'application du Code de la route.
+Il ne peut être attribué qu'un seul numéro d'immatriculation par membre du personnel administratif et technique des Ambassades concerné et par fonctionnaire des Organismes Internationaux.
+
+L'immatriculation des véhicules de cette sous-catégorie au nom des membres du personnel administratif et technique des Ambassades, porteurs du passeport de service délivré par le Ministère des affaires étrangères de l'État accréditant s'agissant du personnel des Ambassades en Principauté, est exonérée des droits ayant trait à l'application du Code de la Route.
 
 * Véhicules automobiles ou remorqués de plus de 25 ans d'âge ;
 
