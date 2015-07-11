@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.376 du 2 juillet 2015 modifiant l'ordonnance souveraine n° 3.095 du 24·janvier 2011 portant création de l'Institut Monégasque de la Statistique et des Études Économiques et du Conseil Scientifique de la Statistique et des Études Économiques, modifiée
