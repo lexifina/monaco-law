@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.095 du 24 janvier 2011 portant création de l'Institut Monégasque de la Statistique et des Études Économiques et du Conseil Scientifique de la Statistique et des Études Économiques
 
-Version en vigueur au 20 mars 2013.
+Version en vigueur au 11 juillet 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/01-24-3.095@2013.03.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/01-24-3.095@2015.07.11/
 
 | | |
 | --- | --- |
