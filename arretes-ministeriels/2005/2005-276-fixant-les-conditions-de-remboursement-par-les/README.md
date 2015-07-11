@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2005-276 du 7 juin 2005 fixant les conditions de remboursement par les régimes d'assurance maladie des actes relevant de la Classification commune des actes médicaux
 
-Version en vigueur au 14 juin 2014.
+Version en vigueur au 11 juillet 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/06-07-2005-276@2014.06.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/06-07-2005-276@2015.07.11/
 
 | | |
 | --- | --- |
