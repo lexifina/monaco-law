@@ -2,7 +2,7 @@
 
 La copie de l'exploit est laissée :
 
-- 1° Pour l'État, selon le cas, au Ministre d'État ou aux services spécialement désignés par arrêté ministériel ou au directeur des services judiciaires ou à sa direction.
+- 1° pour l'État, selon le cas, au Ministre d'État ou aux services spécialement désignés par arrêté ministériel, au Président du Conseil National ou à son Secrétariat Général, ou au Directeur des Services Judiciaires ou à sa Direction ;
 
 - 1°-1 Pour la Commune, au Maire ou au service spécialement désigné par arrêté municipal.
 
