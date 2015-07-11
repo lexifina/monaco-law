@@ -1,3 +1,3 @@
 # Article 22
 
-Le Ministre d'État et les conseillers de gouvernement doivent être entendus quand ils le demandent.
+Lors des séances de l'Assemblée le Ministre d'Etat et les Conseillers de Gouvernement doivent être entendus quand ils le demandent.
