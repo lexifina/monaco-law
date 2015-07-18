@@ -126,6 +126,8 @@ Le code 5 signifie que les actes sont tarifés à 100 % ; ce code est utilisé d
 
 Quand un acte de la classification commune des actes médicaux définie à la Section II est associé à un acte de la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages femmes et des auxiliaires médicaux, aucun code d'association ne doit être noté.
 
+j) Pour les actes d'endoscopie, lorsque l'examen porte sur les régions anatomiques du nez, du cavum, du larynx ou du pharynx, un seul acte doit être tarifé, sauf dans les indications médicales prévues par la note de facturation de la subdivision » 06.01.08. Endoscopie de l'appareil respiratoire '.
+
 C) Lorsqu'un gynécologue obstétricien ou un médecin généraliste, titulaire d'un diplôme inter-universitaire (DIU) d'échographie obstétricale assurant le suivi médical de grossesse, réalise un acte d'échographie biométrique et morphologique de la grossesse (JQQM010, JQQM015, JQQM016, JQQM017, JQQM018 ou JQQM019) et une consultation de suivi de la grossesse, il peut facturer les honoraires de ces actes d'échographie (dont les durées respectives établies par les experts lors de la hiérarchisation des actes ont été fixées à respectivement 23-38-33-56-40-60 mn) avec les honoraires correspondant à la consultation de suivi de la grossesse.
 
 Cette consultation doit comprendre les éléments suivants : examen clinique général et gynécologique, recherche des facteurs de risque, adaptation des traitements en cours, information générale sur la grossesse et l'accouchement, repérage des situations de vulnérabilité, prescription des examens de dépistage, orientation en fonction des situations à risque.
