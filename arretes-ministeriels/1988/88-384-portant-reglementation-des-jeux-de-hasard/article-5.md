@@ -94,12 +94,32 @@ Le pari « Perfect Pairs » gagne uniquement si les deux premières cartes distr
 
 Les trois combinaisons gagnantes et leurs paiements respectifs sont les suivants :
 
-- « Perfect pairs » (ou la paire «idéale' constituée par exemple de deux rois de cœur) payée 25 fois la mise ;
+- « Perfect pairs » (ou la paire « idéale » constituée par exemple de deux rois de cœur) payée 25 fois la mise ;
 
-- » Coloured pairs « (ou la paire à la couleur constituée par exemple d'un roi de cœur et d'un roi de carreau) payée 12 fois la mise ;
+- « Coloured pairs » (ou la paire à la couleur constituée par exemple d'un roi de cœur et d'un roi de carreau) payée 12 fois la mise ;
 
-- » Mixed pairs « (ou la paire mixte constituée par exemple d'un roi de cœur et d'un roi de trèfle) payée 6 fois la mise.
+- « Mixed pairs » (ou la paire mixte constituée par exemple d'un roi de cœur et d'un roi de trèfle) payée 6 fois la mise.
 
-Après la distribution de deux cartes, à chaque joueur, le croupier procède au ramassage des mises perdantes sur » Perfect pairs « et au paiement des mises gagnantes sur cette même chance.
+Après la distribution de deux cartes, à chaque joueur, le croupier procède au ramassage des mises perdantes sur « Perfect pairs » et au paiement des mises gagnantes sur cette même chance.
 
 Ensuite, la partie se poursuit selon les règles en vigueur au Black Jack.
+
+7° Le jeu du « 21+3 » :
+
+Le joueur a la possibilité d'engager, avant la distribution des cartes, une mise dénommée « 21+3 » sur chaque case où il a engagé une mise pour le jeu de black-jack.
+
+Le pari « 21+3 » gagne uniquement si la combinaison de ses deux premières cartes avec la carte initiale de la banque présente une des figures suivantes :
+
+- Couleur
+
+- Suite
+
+- Brelan
+
+- Suite à la couleur
+
+Chacune de ces combinaisons est payée neuf fois la mise.
+
+Après la distribution des cartes (deux pour chaque joueur et une pour la banque), le croupier procède au ramassage des mises perdantes sur « 21+3 » puis au paiement des mises gagnantes sur cette même chance.
+
+Ensuite, la partie se poursuit selon les règles en vigueur au black-jack
