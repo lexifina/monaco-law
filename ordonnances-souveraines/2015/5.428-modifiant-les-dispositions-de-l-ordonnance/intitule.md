@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.428 du 20 juillet 2015 modifiant les dispositions de l'ordonnance souveraine n° 4.482 du 13 septembre 2013 portant délimitation et règlement d'urbanisme du secteur des quartiers ordonnancés, modifiée
