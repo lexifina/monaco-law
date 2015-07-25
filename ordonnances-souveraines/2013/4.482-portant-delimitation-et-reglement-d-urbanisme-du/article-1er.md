@@ -4,23 +4,23 @@
 
 1.2 - Il est constitué :
 
-- des dispositions générales RU-ZQ-GEN-V2D (annexe n° 1) applicables à l'ensemble du secteur des quartiers ordonnancés ;
+- des dispositions générales RU-ZQ-GEN-V3D (annexe n° 1) applicables à l'ensemble du secteur des quartiers ordonnancés ;
 
-- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D1 (annexe n° 2) ;
+- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D2 (annexe n° 2) ;
 
-- du plan de répartition des indices de construction de référence PU-IC-PTE-D (annexe n° 3) ;
+- du plan de répartition des indices de construction de référence PU-IC-PTE-D1 (annexe n° 3) ;
 
-- des dispositions particulières RU-CDN-DP-V3D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de la Condamine ;
+- des dispositions particulières RU-CDN-DP-V4D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de la Condamine ;
 
-- des dispositions particulières RU-FON-DP-V3D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
+- des dispositions particulières RU-FON-DP-V4D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
 
 - des dispositions particulières RU-EXO-DP-V3D (annexe n° 6) et des plans de coordination correspondants applicables au quartier du Jardin Exotique ;
 
-- des dispositions particulières RU-LVT-DP-V3D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
+- des dispositions particulières RU-LVT-DP-V4D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
 
 - des dispositions particulières RU-MGI-DP-V3D (annexe n° 8) et des plans de coordination correspondants applicables au quartier des Moneghetti ;
 
-- des dispositions particulières RU-MCO-DP-V3D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
+- des dispositions particulières RU-MCO-DP-V4D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
 
 - des dispositions particulières RU-LRS-DP-V3D (annexe n° 10) et des plans de coordination correspondants applicables au quartier de la Rousse.
 
