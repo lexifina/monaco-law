@@ -20,7 +20,9 @@ b) La voie de circulation située côté aval est aménagée en couloir bus.
 
 c) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
-4) (4 abrogé).
+4) Antoine 1er (Quai)
+
+(4 abrogé).
 
 5) Armes (Place d')
 

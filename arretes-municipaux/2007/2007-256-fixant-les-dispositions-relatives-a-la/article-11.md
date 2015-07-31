@@ -53,3 +53,11 @@ a) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite sauf à ceux effectuant des livraisons dans la section comprise entre l'avenue Albert II et la rue du Campanin.
 
 Cette disposition ne s'applique pas aux autobus, aux autocars inter urbains, aux véhicules d'urgences et de secours.
+
+8) Jean-Charles Rey (Quai)
+
+a) Un sens unique de circulation est instauré depuis le giratoire de l'avenue Albert II au tunnel Jean-Charles Rey et ce, dans ce sens.
+
+b) La circulation des véhicules et ensemble de véhicules dont la longueur est supérieure à 6 mètres est interdite.
+
+c) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est interdite.
