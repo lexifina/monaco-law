@@ -78,4 +78,8 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Ruelle Saint Jean.
 
+- le Quai Jean-Charles Rey, excepté pour les plaisanciers ayant acquis, auprès du mandataire désigné par l'Administration, une carte d'abonnement qui devra être placée en évidence sur leur véhicule pendant la durée du stationnement ;
+
+- ainsi que la voie publique mentionnée dans l'arrêté ministériel n° 2015-426 [du 2 juillet 2015] susvisé.
+
 Ces emplacements sont équipés d'appareils de type « horodateurs ». L'usager devra se conformer rigoureusement aux prescriptions indiquées sur ces appareils et sur les tickets qu'ils délivrent.
