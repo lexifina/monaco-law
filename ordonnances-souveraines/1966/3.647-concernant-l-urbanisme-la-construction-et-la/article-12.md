@@ -40,6 +40,6 @@
 
   - - une zone frontière.
 
-12.2 - Le plan de zonage PU-ZG-PTE-D9, annexé à la présente ordonnance, en fixe les limites.
+12.2 - Le plan de zonage PU-ZG-PTE-D10, annexé à la présente ordonnance, en fixe les limites.
 
 12.3 - Toutes les constructions à édifier sur le territoire de la Principauté doivent être établies en conformité des dispositions définies par les articles ci-après, sauf dispositions contraires du règlement d'urbanisme et des plans de coordination relatifs aux quartiers compris dans le secteur des quartiers ordonnancés.
