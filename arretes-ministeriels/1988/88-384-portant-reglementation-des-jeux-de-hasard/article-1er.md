@@ -22,6 +22,16 @@ Aux jeux de Baccara (Banque ouverte et Chemin de fer), le croupier remonte le je
 
 Aux autres jeux, une seconde opération est effectuée après la salade. Le croupier remonte le jeu en mélangeant des petits paquets de cartes qu'il prélève du tas de la salade.
 
+Les jeux et les sabots ne sont extraits des dépôts de cartes qu'au moment où il en est fait usage. Les jeux neufs doivent être décachetés à table et vérifiés dans les conditions du deuxième contrôle ci-après définies. Pour les autres jeux, un premier contrôle des cartes doit être assuré par un cartier de la Direction des jeux. À table, en début de séance, un deuxième contrôle a lieu : les cartes sont alors étalées sur la table, les figures en dessus, et le croupier procède à leur contrôle et à leur vérification dans l'ordre de classement dit « du fabricant ».
+
+Les cartes sont ensuite brassées sur le tapis, figures en dessous en un seul tas. Cette opération, qui s'effectue les doigts écartés, porte le nom de « salade ».
+
+Au jeux de Baccara (Banque ouverte et Chemin de fer), le croupier remonte le jeu en prélevant des petits paquets de cartes du tas de la salade en ayant soin de ne pas les détacher du tapis et de ne pas modifier l'ordre résultant du mélange, aucune carte ne pouvant être déplacée ou piquée.
+
+Au jeu de punto banco, l'utilisation des jeux de 52 cartes - « prêts à l'emploi » - est autorisée uniquement sur les tables exploitées dans les salons dits « super privés » ou aménagés comme tels. Au Dépôt Central des Cartes, avant leur usage, les cartes sont vérifiées dans l'ordre dit « du fabricant », brassées et mélangées par les personnels de ce service, sous surveillance vidéo. À leur arrivée aux tables de jeu, un deuxième brassage - figure en dessous- et un deuxième mélange sont opérés par les employés de jeux. L'utilisation d'un mélangeur de cartes ou d'un mélangeur distributeur de cartes, d'un modèle agréé, est autorisée.
+
+Aux autres jeux, une seconde opération est effectuée après la salade. Le croupier remonte le jeu en mélangeant des petits paquets de cartes qu'il prélève du tas de la salade
+
 1.3. - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
 
 Aux jeux de Black-jack et de Punto-Banco, lorsque la partie s'interrompt avant la fin de la taille, un nouveau mélange est effectué pour la reprise de celle-ci.
