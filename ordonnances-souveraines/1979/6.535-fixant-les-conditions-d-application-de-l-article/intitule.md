@@ -1,1 +1,0 @@
-Ordonnance souveraine n° 6.535 du 20 avril 1979 fixant les conditions d'application de l'article 3, alinéa c, de la loi n° 954 du 19 avril 1974 en ce qui concerne la lutte contre la pollution de l'eau
