@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2015-504 du 7 août 2015 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2013-2014
