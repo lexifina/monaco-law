@@ -8,6 +8,6 @@ L'autorisation est personnelle et incessible.
 
 Elle mentionne le numéro unique d'identification de son titulaire ainsi que le nombre de vignettes auquel celui-ci a droit compte tenu du nombre de véhicules simultanément exploités sur le territoire de la Principauté.
 
-Elle indique également que seuls les véhicules disposant d'une vignette pourront accéder au quartier de Monaco Ville, afin de prendre en charge ou de déposer la clientèle sur la place de la visitation uniquement.
+Elle indique également que seuls les véhicules disposant d'une vignette pourront accéder à l'ensemble des rues du quartier de Monaco-Ville, afin de prendre en charge ou de déposer la clientèle, les véhicules ne disposant pas d'une vignette ne pouvant que déposer leur clientèle sur la Place de la Visitation uniquement
 
 L'autorisation est notifiée à son titulaire par lettre recommandée avec avis de réception postal ou lors de la délivrance de la ou des vignettes par les services de la Sûreté publique.
