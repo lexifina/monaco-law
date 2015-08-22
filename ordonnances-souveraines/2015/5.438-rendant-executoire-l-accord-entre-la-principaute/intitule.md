@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.438 du 4 août 2015 rendant exécutoire l'Accord entre la Principauté de Monaco et le Royaume Uni de Grande Bretagne et d'Irlande du Nord en vue de l'échange de renseignements en matière fiscale, signé à Monaco le 23 décembre 2014
