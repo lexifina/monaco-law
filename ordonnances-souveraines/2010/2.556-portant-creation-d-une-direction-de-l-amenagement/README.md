@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.556 du 11 janvier 2010 portant création d'une Direction de l'Aménagement Urbain
 
-Version en vigueur au 23 janvier 2010.
+Version en vigueur au 19 septembre 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2010/01-11-2.556@2010.01.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2010/01-11-2.556@2015.09.19/
 
 | | |
 | --- | --- |
