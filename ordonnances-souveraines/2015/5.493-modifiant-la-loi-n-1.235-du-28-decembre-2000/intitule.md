@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.493 du 16 septembre 2015 modifiant la loi n° 1.235 du 28 décembre 2000, modifiée, relative aux conditions de location de certains locaux à usage d'habitation construits ou achevés avant le 1er septembre 1947 et définissant les plafonds de ressources pour les personnes protégées
