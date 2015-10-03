@@ -1,9 +1,13 @@
 # Article 4
 
-Le droit pour frais divers, prévu à l'article 1er, chiffre 3°, de la loi est appliqué comme suit et selon un tarif fixé par arrêté ministériel :
+Le droit pour frais divers, prévu au chiffre 3 de l'article premier de la loi n° 1.060 du 28 juin 1983, susvisée, désigne les droits suivants :
 
-- 1° pour toute formalité mentionnée à l'article précédent, un droit de pagination ;
+1°) un droit de pagination pour toute formalité relevant de l'article précédent ;
 
-- 2° pour tout usage d'un procédé de photocopie, un droit pour service rendu ;
+2°) un droit de service rendu pour tout usage d'un procédé de photocopie ;
 
-- 3° pour toute lettre expédiée par le greffe général, un droit pour frais de poste.
+3°) un droit de frais de poste pour toute lettre expédiée par le greffe ;
+
+4°) un droit supplémentaire de frais de matériel pour tout usage d'un support numérique.
+
+Les tarifs de chacun de ces droits sont fixés par arrêté du Direction des Services Judiciaires.
