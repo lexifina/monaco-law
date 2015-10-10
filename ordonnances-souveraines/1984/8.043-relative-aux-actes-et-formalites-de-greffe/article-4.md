@@ -10,4 +10,4 @@ Le droit pour frais divers, prévu au chiffre 3 de l'article premier de la loi n
 
 4°) un droit supplémentaire de frais de matériel pour tout usage d'un support numérique.
 
-Les tarifs de chacun de ces droits sont fixés par arrêté du Direction des Services Judiciaires.
+Les tarifs de chacun de ces droits sont fixés par arrêté du Directeur des Services Judiciaires.
