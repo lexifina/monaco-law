@@ -6,6 +6,6 @@ La « Commission » ne peut en aucun cas accepter comme équivalent un diplôme 
 
 Sauf exception approuvée par l'AMAF, le diplôme obtenu dans un pays membre de l'OCDE ne peut être reconnu équivalent que s'il est délivré par une autorité gouvernementale ou une autorité de tutelle des activités de gestion de ce pays.
 
-Au fur et à mesure de ses travaux, la « Commission » établira une liste des diplômes étrangers jugés équivalents.
+Au fur et à mesure de ses travaux, la « Commission » établit une liste des diplômes étrangers jugés équivalents.
 
-En cas de refus de la « Commission » d'une équivalence, le collaborateur ne disposera d'aucune voie de recours et devra se conformer aux exigences de formation et d'examen, définies au présent règlement, en conformité avec la réglementation.
+En cas de refus de la « Commission » d'une équivalence, le collaborateur ne dispose d'aucune voie de recours et doit se conformer aux exigences de formation et d'examen, définies au présent règlement, en conformité avec la réglementation.
