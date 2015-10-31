@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.534 du 27 octobre 2015 portant modification de l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des Praticiens Hospitaliers au Centre Hospitalier Princesse Grace, modifiée
