@@ -9,3 +9,5 @@ En cas d'avis défavorable de la commission médicale, il est :
 - 2. En cas d'inaptitude définitive, soit mis à la retraite, soit radié des cadres, sans que soit ouvert le droit à la retraite.
 
 Dans le cas où le praticien hospitalier est radié des cadres, il bénéficie d'une indemnité en capital égale à la rémunération semestrielle dont il jouissait au moment de sa cessation d'activité.
+
+Pour pouvoir être mis à la retraite en cas d'inaptitude définitive, le praticien hospitalier doit avoir accompli au moins quinze ans de service effectif et régulièrement acquitté ses cotisations.
