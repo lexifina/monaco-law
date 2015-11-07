@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2014-589 du 9 octobre 2014 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2014-2015
