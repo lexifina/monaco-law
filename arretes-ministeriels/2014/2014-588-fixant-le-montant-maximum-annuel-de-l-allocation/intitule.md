@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2014-588 du 9 octobre 2014 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2013-2014
