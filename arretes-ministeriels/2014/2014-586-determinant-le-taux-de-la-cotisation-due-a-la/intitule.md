@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2014-586 du 9 octobre 2014 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2014-2015
