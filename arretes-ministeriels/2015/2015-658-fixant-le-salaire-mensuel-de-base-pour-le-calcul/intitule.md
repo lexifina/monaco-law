@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2015-658 du 29 octobre 2015 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2015-2016
