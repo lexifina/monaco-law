@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 3.191 du 29 mai 1964 sur l'organisation et le fonctionnement du Conseil d'État
 
-Version en vigueur au 15 mars 2008.
+Version en vigueur au 21 novembre 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/05-29-3.191@2008.03.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/05-29-3.191@2015.11.21/
 
 | | |
 | --- | --- |
