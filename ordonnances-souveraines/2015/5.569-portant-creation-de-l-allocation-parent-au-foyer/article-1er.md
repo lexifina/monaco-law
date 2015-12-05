@@ -1,0 +1,3 @@
+# Article 1er
+
+Toute personne, mariée ou vivant maritalement, ayant la charge effective et permanente d'un enfant de nationalité monégasque, âgé de moins de douze ans ou de moins de seize ans s'il est atteint d'un handicap l'empêchant de poursuivre une scolarité en milieu ordinaire et qui se consacre à son éducation, bénéficie de l'allocation parent au foyer, à la condition qu'elle n'exerce aucune activité professionnelle, qu'elle ne soit titulaire d'aucun contrat d'apprentissage, ou qu'elle ne perçoive aucune rente, pension ou allocation issue d'une activité professionnelle présente ou passée.
