@@ -1,5 +1,5 @@
 # Article 459-4
 
-Sauf s'il en est dispensé par une disposition expresse de l'arrêt, le demandeur au pourvoi qui succombe est condamné au paiement d'une amende civile de*30 à 300 euros qui est prélevée sur la somme consignée dont le reliquat, s'il existe, lui est restitué.
+Le demandeur en révision qui succombe dans son pourvoi ou dont le pourvoi n'est pas admis peut, en cas de recours jugé abusif, être condamné à une amende civile dont le montant ne peut excéder 3 000 euros.
 
-Il peut être condamné, en outre, même d'office, à une indemnité, fixée entre les mêmes limites, envers chacun des défenseurs ayant un intérêt distinct sans préjudice de plus amples dommages-intérêts, s'il y a lieu.
+Il peut être condamné, en outre, même d'office, à une indemnité, fixée dans la même limite, envers chacun des défenseurs sans préjudice de plus amples dommages-intérêts, s'il y a lieu.

@@ -1,0 +1,9 @@
+# Article 459-12
+
+La demande en reprise du procès est formée par requête au directeur des services judiciaires énonçant, avec les preuves à l'appui, les moyens sur lesquels elle est fondée.
+
+La requête est déposée auprès du greffe général avec les pièces qui l'accompagnent et inscrite sur un registre à ce destiné.
+
+Le greffier délivre un récépissé des pièces dont il dresse l'inventaire et le joint au dossier de la procédure avec une expédition de la décision attaquée et un extrait de la feuille d'audience qui s'y rapporte.
+
+Il adresse ensuite le dossier au procureur général qui le transmet sans délai, avec son avis motivé, au premier président de la cour de révision.

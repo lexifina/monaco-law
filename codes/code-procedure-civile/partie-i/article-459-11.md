@@ -1,0 +1,3 @@
+# Article 459-11
+
+À peine d'irrecevabilité de la demande, toutes les parties au litige ayant donné lieu à la décision de justice irrévocable, à partir de laquelle la Cour européenne des droits de l'homme a conclu à une violation de la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ou de ses protocoles additionnels applicables dans la Principauté, sont appelées à l'instance de réouverture du procès. En cas de décès ou d'absence déclarée, les ayants cause universels ou à titre universel des parties ou les personnes qui en ont reçu d'elles la mission expresse sont appelés en leurs lieu et place.
