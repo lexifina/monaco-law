@@ -2,7 +2,7 @@
 
 Les magistrats ont droit ou ouvrent droit au profit de leurs ayants cause conformément à la législation en vigueur pour les fonctionnaires de l'État et dans les conditions générales d'attribution prévues pour ces fonctionnaires :
 
-- 1° - à des prestations familiales et à des avantages sociaux ;
+- 1° - à des prestations familiales et à des avantages sociaux;
 
 - 2° - à des prestations médicales, pharmaceutiques et chirurgicales ;
 
