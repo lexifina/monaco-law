@@ -6,4 +6,4 @@ La requête des parties est déposée avec les pièces qui l'accompagnent au gre
 
 Le greffier délivre un récépissé des pièces dont il dresse l'inventaire et le joint au dossier de la procédure avec une expédition de la décision attaquée et un extrait de la feuille d'audience qui s'y rapporte.
 
-Il adresse ensuite le dossier au procureur général qui le transmet sans délai, avec son avis motivé, au président de la cour de révision.
+Il adresse ensuite le dossier au procureur général qui le transmet sans délai, avec son avis motivé, au premier président de la cour de révision.
