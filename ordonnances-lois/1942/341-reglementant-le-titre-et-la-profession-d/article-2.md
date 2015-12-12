@@ -10,6 +10,6 @@ La possession d'une simple patente ou même d'un certificat d'aptitude ou d'agr�
 
 2° Avoir recueilli l'avis du conseil de l'ordre, qui vérifiera si l'intéressé remplit les conditions ci-dessus et présente les garanties d'ordre professionnel et de moralité nécessaires.
 
-En outre des conditions fixées ci-dessus, le candidat ressortissant d'un État étranger ne pourra être autorisé à exercer la profession d'architecte à Monaco que dans les conditions de réciprocité fixées par les conventions diplomatiques qui peuvent exister entre cet État et la Principauté.
+En outre des conditions fixées ci-dessus, le candidat ressortissant d'un Etat étranger ne pourra être autorisé à exercer la profession d'architecte à Monaco que dans les conditions de réciprocité fixées par les conventions diplomatiques qui peuvent exister entre cet Etat et la Principauté.
 
 À titre exceptionnel, l'autorisation pourra cependant être accordée à un étranger, dans les formes et conditions prévues par le présent article, alors même que son pays d'origine n'aurait pas conclu de traité de réciprocité en matière d'exercice de la profession d'architecte avec la Principauté de Monaco.

@@ -1,6 +1,6 @@
 # Article 5
 
-Les architectes établis à l'étranger désireux de faire œuvre d'architecte à titre particulier dans la Principauté doivent adresser au ministre d'État une demande préalable et joindre toutes pièces justificatives ou nécessaires à la constitution du dossier prévu à l'article 4.
+Les architectes établis à l'étranger désireux de faire œuvre d'architecte à titre particulier dans la Principauté doivent adresser au ministre d'Etat une demande préalable et joindre toutes pièces justificatives ou nécessaires à la constitution du dossier prévu à l'article 4.
 
 Cette demande devra contenir la désignation du confrère établi dans la Principauté, choisi comme associé, avec acceptation et déclaration formelle de celui-ci d'assumer la responsabilité solidaire prévue par la présente ordonnance-loi.
 
