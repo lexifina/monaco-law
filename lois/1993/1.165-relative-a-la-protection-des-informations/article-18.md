@@ -1,0 +1,17 @@
+# Article 18
+
+La Commission de Contrôle des Informations Nominatives fait procéder aux vérifications et investigations nécessaires au contrôle de la mise en œuvre des traitements soit par ses membres, soit par des agents de son secrétariat, soit par des investigateurs nommés par le Président sur proposition de la Commission et soumis aux obligations prescrites à l'article 5-1. Les agents et les investigateurs sont commissionnés et assermentés à cet effet.
+
+Les agents ou les investigateurs mentionnés au précédent alinéa doivent être munis d'une lettre de mission du Président de la Commission de Contrôle des Informations Nominatives précisant expressément le nom et l'adresse de la personne physique ou morale concernée, ainsi que l'objet de la mission.
+
+Les opérations de contrôle ne peuvent être effectuées qu'entre 6 et 21 heures ou, en dehors de ces heures, lorsque l'accès au public est autorisé ou lorsqu'une activité est en cours.
+
+Lors desdites opérations, les agents ou les investigateurs peuvent procéder à toutes vérifications nécessaires, consulter tout traitement, demander communication, quel qu'en soit le support, ou prendre copie, par tous moyens, ou de tout document professionnel et recueillir, auprès de toute personne compétente, les renseignements utiles à leur mission. Ils peuvent accéder aux programmes informatiques et aux informations et en demander la transcription, par tout traitement approprié, dans des documents directement utilisables pour les besoins du contrôle.
+
+Toutefois, seul un médecin désigné par le Président de la Commission de Contrôle des Informations Nominatives parmi les médecins figurant sur une liste établie par le Conseil de l'Ordre des médecins de Monaco et comportant au moins cinq noms peut requérir la communication d'informations médicales individuelles incluses dans un traitement nécessaire aux fins de la médecine préventive, de la recherche médicale, des diagnostics médicaux, de l'administration de soins ou de traitements ou à la gestion de service de santé, et qui est mis en œuvre par un membre d'une profession de santé. Le médecin ainsi désigné transmet à la Commission de Contrôle des Informations Nominatives les seules informations nécessaires aux besoins du contrôle sans faire état, en aucune manière, des informations médicales individuelles auxquelles il a eu accès.
+
+Dans le cadre de la mission de contrôle de la Commission, les personnes interrogées sont tenues de fournir les renseignements demandés sauf dans les cas où elles sont astreintes au secret professionnel tel que défini à l'article 308 du Code pénal.
+
+En dehors des contrôles sur place et sur convocation, les agents ou les investigateurs peuvent procéder à toute constatation utile ; ils peuvent notamment, à partir d'un service de communication au public en ligne, consulter les données librement accessibles ou rendues accessibles, y compris par imprudence, par négligence ou par le fait d'un tiers, le cas échéant en accédant et en se maintenant dans des systèmes de traitement automatisé d'information le temps nécessaire aux constatations ; ils peuvent retranscrire les données par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
+
+Il est dressé procès-verbal des constatations, vérifications et visites menées en application du présent article. Ce procès-verbal est dressé contradictoirement lorsque les vérifications et visites sont effectuées sur place ou sur convocation.
