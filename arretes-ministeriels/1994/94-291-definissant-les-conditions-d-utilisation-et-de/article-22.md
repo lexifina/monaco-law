@@ -1,3 +1,3 @@
 # Article 22
 
-Les arrêtés n° 81-389 du 31 août 1981, n° 85-712 du 23 décembre 1985 et n° 90-127 du 6 mars 1990 sont abrogés.
+Toute opération de maintenance n'entrant pas dans la définition de l'article 21 est considérée comme une opération de maintenance hors ligne.

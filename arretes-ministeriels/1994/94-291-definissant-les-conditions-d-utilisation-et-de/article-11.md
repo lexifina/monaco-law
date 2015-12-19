@@ -1,3 +1,3 @@
 # Article 11
 
-Les formalités de contrôle des bagages et des passagers sont définies conjointement par le service de l'aviation civile et le service chargé du contrôle aux frontières.
+Les règles d'accès des personnes et les modalités des contrôles de sûreté effectués sur les bagages et les personnes sont définies par le programme national de sûreté de l'aviation civile institué par l'arrêté ministériel n° 2008-276 du 26 mai 2008

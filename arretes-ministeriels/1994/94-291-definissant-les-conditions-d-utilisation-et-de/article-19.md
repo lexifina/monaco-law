@@ -4,7 +4,7 @@ L'avitaillement est normalement assuré lorsque le moteur et le rotor sont arrê
 
 L'avitaillement peut être effectué moteur en fonctionnement, dans les conditions suivantes :
 
-- le carburant est constitué par du kérosène et non par de l'AVGAS ;
+- le carburant est constitué uniquement par du kérosène ;
 
 - des contraintes d'exploitation justifient cet avitaillement ;
 
