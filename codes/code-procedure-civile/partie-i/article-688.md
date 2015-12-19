@@ -1,6 +1,6 @@
 # Article 688
 
-Les créanciers non comparants seront condamnés à une amende de 150 à 300 euros par ordonnance du juge, à moins qu'ils ne l'aient informé en temps utile, par lettre recommandée avec signature dûment légalisée, qu'ils renoncent à leurs droits ou qu'ils n'en ont plus à faire valoir.
+Les créanciers non comparants pourront être condamnés à une amende de 150 à 300 euros par ordonnance du juge, à moins qu'ils ne l'aient informé en temps utile, par lettre recommandée avec signature dûment légalisée, qu'ils renoncent à leurs droits ou qu'ils n'en ont plus à faire valoir.
 
 L'ordonnance du juge sera signifiée par extrait à la partie défaillante, à la requête du ministère public.
 
