@@ -1,7 +1,5 @@
 # Article 14
 
-Le nombre total de vacations effectuées hebdomadairement par un médecin attaché au Centre hospitalier Princesse Grace ne peut être supérieur à six.
+Les praticiens attachés exercent des fonctions hospitalières et participent exclusivement à l'ensemble de l'activité du service public hospitalier.
 
-Sur demande du chef de service intéressé, ce nombre peut être ponctuellement porté à huit, dans l'hypothèse où l'effectif médical du service s'avère momentanément insuffisant pour couvrir les besoins.
-
-Cette dérogation est accordée par le conseil d'administration, sur proposition du directeur de l'établissement, après avis de la commission médicale d'établissement.
+Ils sont notamment chargés de seconder le chef de service et ses collaborateurs permanents soit dans les divers aspects de leurs activités de diagnostic et de soins, soit dans la mise en œuvre de techniques d'examen ou de traitement non habituellement pratiqués par les praticiens hospitaliers de l'établissement.

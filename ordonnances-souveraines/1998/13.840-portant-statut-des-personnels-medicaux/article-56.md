@@ -1,5 +1,3 @@
 # Article 56
 
-Les internes sont affiliés au régime général des salariés de la Principauté de Monaco.
-
-Les prestations garanties par ce régime sont assurées par la caisse de compensation des services sociaux.
+L'interne relève du Centre hospitalier Princesse Grace pour ce qui est de sa rémunération et de l'ensemble des décisions relatives à la gestion de sa carrière.

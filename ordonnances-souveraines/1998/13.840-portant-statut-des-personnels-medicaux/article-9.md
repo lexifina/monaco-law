@@ -1,5 +1,3 @@
 # Article 9
 
-Les médecins attachés du Centre hospitalier Princesse Grace, exercent des fonctions hospitalières et participent exclusivement à l'ensemble de l'activité du service public hospitalier.
-
-Ils sont notamment chargés de seconder le chef de service et ses collaborateurs permanents soit dans les divers aspects de leurs activités de diagnostic et de soins, soit dans la mise en œuvre de techniques d'examen ou de traitement non habituellement pratiqués par les praticiens hospitaliers, les biologistes, les pharmaciens ou les odontologistes de l'établissement.
+Le respect du bon déroulement de l'activité des praticiens associés ainsi que des dispositions réglementaires et contractuelles la régissant est assuré par la commission d'activité libérale mentionnée aux articles 114 et suivants de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée.

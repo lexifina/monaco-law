@@ -1,3 +1,5 @@
 # Article 21
 
-Pendant leurs congés annuels, les médecins attachés dont il est fait mention à l'article 20, perçoivent, par semaine, la totalité de la rémunération correspondant à la moyenne de leur rémunération hebdomadaire calculée sur la période de onze mois précédant le début de leur congé, à l'exclusion des rémunérations allouées pour les activités prévues à l'article 27.
+Les praticiens attachés consacrent aux services hospitaliers auxquels ils sont affectés le nombre de vacations hebdomadaires fixées par leur contrat dans les conditions déterminées à l'article 22.
+
+Ces obligations de service ne peuvent être supérieures à trois vacations hebdomadaires, chaque vacation correspondant à une durée de trois heures trente.

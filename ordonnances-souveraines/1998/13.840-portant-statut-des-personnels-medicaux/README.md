@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement au Centre hospitalier Princesse Grace
+# Ordonnance Souveraine n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement ou occasionnellement au Centre Hospitalier Princesse Grace
 
-Version en vigueur au 10 janvier 2009.
+Version en vigueur au 26 décembre 2015.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/12-29-13.840@2009.01.10/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/12-29-13.840@2015.12.26/
 
 | | |
 | --- | --- |

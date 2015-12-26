@@ -1,7 +1,5 @@
 # Article 35
 
-Ses obligations normales de jour sont de dix demi-journées par semaine pour les internes à temps plein, et de cinq demi-journées par semaine pour ceux exerçant à mi-temps.
+Les praticiens extérieurs sont placés sous l'autorité du chef de service.
 
-Il participe au service de garde et d'astreinte selon des modalités fixées par arrêté ministériel.
-
-Il reçoit sur son lieu d'affectation, la formation théorique et pratique nécessaire à l'exercice de ses fonctions.
+L'organisation et l'indemnisation de leur participation aux services de garde et d'astreinte sont réalisées dans les conditions fixées par arrêté ministériel.

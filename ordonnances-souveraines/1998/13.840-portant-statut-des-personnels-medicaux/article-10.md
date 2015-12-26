@@ -1,5 +1,5 @@
 # Article 10
 
-Les médecins attachés sont placés sous l'autorité du chef de service et exécutent les tâches que celui-ci leur confie.
+Les praticiens associés peuvent, selon leur discipline et concurremment avec les autres praticiens de l'établissement, participer aux différents services de garde et d'astreinte, de nuit, des samedis, des dimanches et des jours fériés.
 
-L'exécution de leur activité personnelle donne lieu à l'établissement par leurs soins d'un relevé mensuel, intégré dans le système d'information hospitalier.
+Leur participation est rémunérée dans les conditions fixées par arrêté ministériel.

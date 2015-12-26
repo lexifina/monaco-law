@@ -1,5 +1,11 @@
 # Article 13
 
-Le nombre total de vacations susceptibles d'être effectuées par les médecins attachés et nécessaires au fonctionnement des services hospitaliers, ainsi que leur répartition entre les services, est déterminé annuellement par le conseil d'administration, sur proposition du directeur de l'établissement, après avis de la commission médicale d'établissement et au vu des demandes du ou des chef(s) de service intéressé(s).
+Les praticiens associés cessent leur activité à l'âge de 65 ans.
 
-Le nombre total de vacations ainsi déterminé doit être compatible avec l'effectif des médecins attachés que le conseil d'administration définit annuellement, au vu des besoins de l'établissement.
+Par dérogation à l'alinéa précédent, un praticien associé peut, lorsque l'intérêt de l'établissement le justifie, être autorisé à prolonger son activité au-delà de la limite d'âge.
+
+La dérogation est accordée pour une durée d'un an, renouvelable une fois par avenant dans les mêmes formes que le recrutement.
+
+La demande motivée de dérogation est adressée au directeur de l'établissement par l'intéressé au moins six mois avant l'échéance de la fin de l'activité. L'avis favorable du chef de département ou du chef de service est joint à la demande.
+
+La dérogation ne peut être accordée sans que le praticien de la médecine préventive du travail ait préalablement donné son avis, après examen médical, sur le respect des conditions prévues par le chiffre 4 de l'article 3.

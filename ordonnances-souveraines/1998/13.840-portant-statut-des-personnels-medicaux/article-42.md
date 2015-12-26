@@ -1,9 +1,17 @@
 # Article 42
 
-L'interne en activité dans un service perçoit, après service fait :
+La convention mentionnée à l'article 41 définit notamment :
 
-- 1. des émoluments forfaitaires mensuels d'un montant égal à ceux versés aux internes des établissements de santé publics de la région économique voisine ;
+- 1°) le type d'activité réalisée ;
 
-- 2. s'il ne bénéficie pas d'un logement, de la nourriture, du chauffage et de l'éclairage, une indemnité représentative de tout ou partie de ces avantages, en conformité avec les pratiques existantes dans les établissements de santé de la région économique voisine ;
+- 2°) les obligations de service du praticien concerné ;
 
-- 3. des indemnités liées au service de garde et d'astreinte dans les conditions fixées par arrêté ministériel.
+- 3°) le cas échéant, les modalités de rémunération de l'établissement de santé d'origine ou du praticien concerné ;
+
+- 4°) les responsabilités des établissements et du praticien ;
+
+- 5°) la durée de validité de ladite convention ;
+
+- 6°) les conditions et les modalités de dénonciation de ladite convention.
+
+Ladite convention est soumise préalablement à l'avis de la commission médicale d'établissement et à la délibération du conseil d'administration.

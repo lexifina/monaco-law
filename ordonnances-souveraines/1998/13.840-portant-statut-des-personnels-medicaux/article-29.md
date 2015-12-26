@@ -1,17 +1,7 @@
 # Article 29
 
-Les sanctions disciplinaires applicables aux médecins attachés sont :
+Le praticien attaché victime d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions, notamment lors du trajet, est, de droit, en congé.
 
-- 1. L'avertissement ;
+Il en est de même en cas de maladie contractée ou aggravée dans ces conditions.
 
-- 2. Le blâme avec inscription au dossier ;
-
-- 3. L'exclusion temporaire de fonctions prononcée pour une durée qui ne peut excéder six mois, et privative de toute rémunération ;
-
-- 4. Le licenciement ;
-
-- 5. Le licenciement avec exclusion de toute fonction hospitalière.
-
-L'avertissement et le blâme avec inscription au dossier sont prononcés par le directeur de l'établissement après avis de la commission médicale d'établissement.
-
-Les autres sanctions sont prononcées par le directeur de l'action sanitaire et sociale, sur proposition du conseil de discipline visé à l'article 30, après avis du directeur de l'établissement.
+L'intéressé conserve l'intégralité de ses émoluments correspondant à ses obligations de service normales, dans la limite de six mois, après avis de la commission médicale visée à l'article 38 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée. Ce congé peut être prolongé par période de trois mois maximum, dans les mêmes conditions de rémunération, sans que la durée totale du congé accordé au titre du présent article puisse excéder la durée du contrat.

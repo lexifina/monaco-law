@@ -1,5 +1,5 @@
 # Article 53
 
-En cas de maladie ou d'accident imputable à l'exercice des fonctions exercées dans le cadre de sa formation ou en cas de maladie contractée ou d'accident survenu à l'occasion de l'exercice de ses fonctions, l'interne bénéficie, après avis de la commission médicale mentionnée à l'article 47, d'un congé.
+Les internes sont soumis aux dispositions du règlement intérieur du Centre hospitalier Princesse Grace.
 
-Pendant ce congé, il reçoit la totalité de la rémunération prévue à l'article 42, alinéas 1 et 2.
+Ils doivent en toute circonstance, s'acquitter des tâches qui leur sont confiées de telle façon que la continuité et le bon fonctionnement du service soient assurés.

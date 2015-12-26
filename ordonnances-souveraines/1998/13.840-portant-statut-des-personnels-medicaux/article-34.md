@@ -1,3 +1,3 @@
 # Article 34
 
-L'interne est un praticien en formation spécialisée. Il consacre la totalité de son temps à ses activités médicales ou pharmaceutiques et à sa formation.
+Les praticiens extérieurs sont appelés à participer aux services de garde et d'astreinte dans les conditions fixées par arrêté ministériel.
