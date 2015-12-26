@@ -8,7 +8,9 @@ Cette Direction est chargée :
 
 3) d'assurer les prérogatives de contrôle et de sanction qui incombent à l'État concernant l'application des contrats et des cahiers des charges des Concessions ;
 
-4) de définir les règles et les limitations éventuelles concernant l'usage des Réseaux et des Services de Communications Électroniques en application des lois et règlements et des problématiques d'environnement et de santé publique, d'assurer la certification des équipements de Communications Électroniques et d'assurer un rôle de consultation et de proposition concernant les problématiques d'urbanisme et de sécurité nationale ;
+4) de définir les règles et les limitations éventuelles concernant l'usage des Réseaux et des Services de Communications Électroniques en application des lois et règlements et des problématiques d'environnement et de santé publique, d'assurer la certification des équipements de communications électroniques, d'assurer un rôle de consultation et de proposition concernant les problématiques d'urbanisme et, à la demande de l'Agence Monégasque de Sécurité Numérique, concernant celles de sécurité nationale ;
+
+4 bis) d'apporter son concours à l'Agence Monégasque de Sécurité Numérique pour l'exercice de ses missions ;
 
 5) de favoriser le développement du secteur des Communications Électroniques en Principauté de Monaco notamment en soutenant le développement à l'international des acteurs existants, en facilitant l'installation de nouveaux acteurs dans les domaines non monopolistiques, en prenant l'initiative et en pilotant le développement de programmes spécifiques d'innovation ;
 
