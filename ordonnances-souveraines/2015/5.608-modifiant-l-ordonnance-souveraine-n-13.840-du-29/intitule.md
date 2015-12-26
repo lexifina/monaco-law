@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.608 du 11 décembre 2015 modifiant l'ordonnance souveraine n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement au Centre Hospitalier Princesse Grace, modifiée
