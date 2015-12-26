@@ -48,7 +48,9 @@ Les attributions des départements se répartissent comme suit :
 
 - f) Cultes,
 
-- g) Relations avec la Commune.
+- g) Relations avec la Commune,
+
+- h) Sécurité numérique.
 
 4 - Département des Affaires sociales et de la Santé:
 
