@@ -1,5 +1,3 @@
 # Article 2
 
-Le médecin-inspecteur de l'Action sanitaire et sociale joue encore le rôle de conseiller technique du Conseiller de Gouvernement pour l'Intérieur et du directeur de l'Action sanitaire et sociale.
-
-Il donne tous les avis qui lui sont demandés ou qu'il estime devoir formuler. Il fournit annuellement un rapport sur ses activités.
+Le médecin-inspecteur de santé publique rend les avis qui lui sont demandés par les autorités compétentes conformément aux dispositions légales ou réglementaires. Il peut également, de sa propre initiative, formuler, à leur intention, toutes recommandations, le cas échéant assorties de rapports explicatifs, qu'il transmet par la voie hiérarchique.
