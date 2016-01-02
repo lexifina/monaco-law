@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2012-185 du 5 avril 2012 relatif à la Commission de vérification du diplôme de sage-femme
 
-Version en vigueur au 15 novembre 2014.
+Version en vigueur au 2 janvier 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-05-2012-185@2014.11.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-05-2012-185@2016.01.02/
 
 | | |
 | --- | --- |

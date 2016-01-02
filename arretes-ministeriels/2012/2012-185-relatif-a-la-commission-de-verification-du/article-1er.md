@@ -8,10 +8,10 @@ Est instituée une Commission de vérification du diplôme de sage-femme, ainsi 
 
 - - une sage-femme enseignante ;
 
-- - le Directeur de l'Action Sanitaire et Sociale ou son représentant ;
+- - le Directeur de l'Action Sanitaire ou son représentant ;
 
 - - le Directeur des Affaires Juridiques ou son représentant ;
 
 - - un professeur des universités de la discipline concernée ;
 
-- - le secrétariat de la Commission est assuré par la Direction de l'Action Sanitaire et Sociale.
+- - le secrétariat de la Commission est assuré par la Direction de l'Action Sanitaire.
