@@ -6,4 +6,4 @@ Le salaire minimal de référence net mentionné à l'alinéa précédent est fi
 
 L'allocation n'est cependant pas due à l'attributaire du statut de personne handicapée lorsqu'il est employé dans un établissement adapté à l'emploi de personnes ayant le statut de travailleur handicapé et qu'il y a été admis comme interne en bénéficiant d'une prise en charge totale des frais de séjour.
 
-L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire et Sociale.
+L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire.

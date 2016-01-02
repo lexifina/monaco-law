@@ -14,6 +14,6 @@ Toutefois, cette allocation n'est pas due lorsque la location a été consentie 
 
 - - un frère, une sœur, un ascendant ou un descendant de l'attributaire, de son conjoint ou de la personne avec laquelle il vit maritalement.
 
-L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire et Sociale.
+L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire.
 
 Il n'est dû qu'une allocation par foyer.

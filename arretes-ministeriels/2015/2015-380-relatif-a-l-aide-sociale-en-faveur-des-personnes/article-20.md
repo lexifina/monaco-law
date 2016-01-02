@@ -2,7 +2,7 @@
 
 Si le bénéficiaire de l'allocation aux adultes handicapés est hospitalisé dans un établissement de santé pendant plus de soixante jours, le montant de ladite allocation est réduit, soit de 35 % si l'allocataire est marié ou s'il n'est pas en situation de personne isolée, soit de 20 % s'il est en situation de personne isolée.
 
-Aucune réduction n'est faite lorsque l'allocataire a au moins un ascendant ou un descendant à sa charge ou, sur décision du Directeur de l'Action Sanitaire et Sociale prise après avis de la Commission d'évaluation du handicap, lorsqu'il peut justifier de tout autre motif légitime.
+Aucune réduction n'est faite lorsque l'allocataire a au moins un ascendant ou un descendant à sa charge ou, sur décision du Directeur de l'Action Sanitaire prise après avis de la Commission d'évaluation du handicap, lorsqu'il peut justifier de tout autre motif légitime.
 
 La réduction de l'allocation n'est opérée que pendant les périodes où l'allocataire est effectivement accueilli dans l'établissement.
 
