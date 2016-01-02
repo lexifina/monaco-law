@@ -14,4 +14,4 @@ Les personnes composant les équipages des véhicules spécialement adaptés au 
 
 - 4) conducteurs d'ambulance.
 
-Les intéressés doivent être titulaires du permis de conduire catégorie B assorti d'une carte professionnelle délivrée par le Service des Titres de Circulation et satisfaire à un examen médical selon les conditions définies par la Direction de l'Action Sanitaire et Sociale.
+Les intéressés doivent être titulaires du permis de conduire catégorie B assorti d'une carte professionnelle délivrée par le Service des Titres de Circulation et satisfaire à un examen médical selon les conditions définies par la Direction de l'Action Sanitaire.
