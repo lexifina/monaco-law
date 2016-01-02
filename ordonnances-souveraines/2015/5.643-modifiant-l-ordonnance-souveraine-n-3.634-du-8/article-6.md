@@ -1,0 +1,3 @@
+# Article 6
+
+Dans les textes en vigueur relatifs aux matières relevant de la compétence de la Direction de l'Action Sanitaire, au sens de l'article 2 de l'ordonnance souveraine n° 5.640 du 14 décembre 2015, susvisée, au sein desquels il est fait mention des termes « médecin-inspecteur de l'Action sanitaire et sociale », ceux-ci doivent être considérés comme faisant référence au « médecin-inspecteur de santé publique ».
