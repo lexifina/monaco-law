@@ -124,11 +124,15 @@ Ces dispositions ne s'appliquent pas aux véhicules d'urgences et de secours.
 
 17) Imberty (Rue)
 
-a) Un sens unique de circulation est instauré de la Princesse Florestine à la rue Louis Notari et ce, dans ce sens.
+La circulation de tous véhicules est interdite.
 
-b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite.
+Par dérogation, les véhicules de transport de marchandises, dont le poids total autorisé en charge ne devra pas être supérieur à 6 tonnes, pourront circuler dans cette rue de 6 heures à 10 heures.
 
-Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
+Les véhicules des riverains désirant accéder à la rue Imberty devront en solliciter l'autorisation.
+
+L'arrêt de leur véhicule ne devra pas dépasser 15 minutes.
+
+Ces dispositions ne s'appliquent pas aux véhicules d'urgences et de secours.
 
 18) Jardin Exotique (Boulevard du)
 
@@ -238,7 +242,7 @@ Ce couloir bus est interdit aux taxis compte tenu de sa spécificité.
 
 32) Princes (Rue des)
 
-a) Un sens unique de circulation est instauré de la rue Louis Notari à la rue Princesse Florestine et ce, dans ce sens.
+a) Un sens unique de circulation est instauré de la rue Princesse Florestine à la rue Louis Notari et ce, dans ce sens.
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite.
 
@@ -266,9 +270,13 @@ Ces dispositions ne s'appliquent pas aux véhicules d'urgences et de secours.
 
 35) Princesse Florestine (Rue)
 
-a) Un sens unique de circulation est instauré de la rue Grimaldi et la rue Suffren Reymond et ce, dans ce sens.
+a) Un sens unique de circulation est instauré de la rue Grimaldi à la rue Suffren Reymond et ce, dans ce sens.
 
-b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite.
+b) Un sens unique de circulation est instauré entre la rue Baron de Sainte Suzanne et la rue des Princes et ce, dans ce sens.
+
+c) La circulation de tous véhicules est interdite dans sa section comprise entre les rues Baron de Sainte Suzanne et Imberty et la rue Princesse Caroline.
+
+d) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite.
 
 Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
