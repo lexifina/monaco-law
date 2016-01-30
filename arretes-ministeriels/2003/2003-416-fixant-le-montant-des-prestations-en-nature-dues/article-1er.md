@@ -324,10 +324,12 @@ La tarification des différents honoraires facturables par les pharmaciens d'off
 
 Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance facturables au cours des services de garde.
 
-- Honoraires de Dispensation simple : 0,82 euro(s)
+- Honoraires de Dispensation simple : 1,02 euro(s)
 
-- -Honoraires de Dispensation simple grand conditionnement : 2,21 euro(s)
+- Honoraires de Dispensation simple
+
+grand conditionnement : 2,76 euro(s)
 
 - Honoraires de Dispensation complexe : 0,51 euro(s)
 
-Ces tarifs entrent en vigueur à compter du 1er janvier 2015.
+Ces tarifs entrent en vigueur à compter du 1er janvier 2016.
