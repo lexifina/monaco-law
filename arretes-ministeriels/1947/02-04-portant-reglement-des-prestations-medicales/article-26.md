@@ -12,4 +12,4 @@ Les heures de sortie sont inscrites par le praticien sur la feuille de maladie. 
 
 Les médicaments et remèdes seront employés suivant les indications données par le praticien. Ils ne doivent être demandés la nuit qu'en cas d'urgence justifiée par une visite médicale de nuit.
 
-Le malade dont l'envoi en convalescence est jugé nécessaire par le médecin traitant doit en aviser la direction des services sociaux. Il devra se soumettre au contrôle dans les conditions fixées par ce service.
+Le malade dont l'envoi en convalescence est jugé nécessaire par le médecin traitant doit en aviser le Service des Prestations Médicales de l'État. Il devra se soumettre au contrôle dans les conditions fixées par ce service.

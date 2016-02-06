@@ -1,9 +1,7 @@
 # Article 6
 
-En cas de maladie ou d'accident survenant soit à l'agent, soit à un membre de sa famille bénéficiant des dispositions du présent règlement, l'intéressé doit se procurer, à la direction des services sociaux, une feuille de maladie et la présenter au praticien.
+En cas de maladie ou d'accident survenant soit au fonctionnaire, à l'agent ou à l'employé, soit à un membre de sa famille bénéficiant des dispositions du présent règlement, la constatation des soins et l'ouverture des droits au remboursement des prestations médicales, chirurgicales et pharmaceutiques sont subordonnées à la production d'une feuille de soins. Celle-ci peut être établie sur support papier ou au moyen d'une feuille de soins électronique, dite « F.S.E », mentionnant les actes effectués et les prestations servies.
 
-En même temps que la feuille de maladie, il est remis à l'intéressé une carte-lettre qui doit être retournée à la direction des services sociaux dans les quatre jours de la maladie ou de l'accident à peine de déchéance du droit aux prestations.
+Dans tous les cas, la feuille doit être dûment remplie.
 
-La carte et la feuille devront être soigneusement remplies par les intéressés. Toute fausse indication ou toute omission priveront ces derniers de leur droit au remboursement.
-
-La remise de la carte ne dispense pas l'employé des obligations imposées par le statut des fonctionnaires pour les congés de maladie.
+Le fonctionnaire, l'agent ou l'employé de l'État ou de la Commune a l'obligation de jouir sans abus ni fraude des avantages auxquels il peut prétendre. À défaut, le service des prestations peut être immédiatement suspendu ou refusé.

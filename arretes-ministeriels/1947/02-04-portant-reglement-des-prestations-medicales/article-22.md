@@ -8,4 +8,4 @@ Les appareils thérapeutiques sont ceux qui seraient nécessaires à une personn
 
 Les appareils fonctionnels sont ceux qui seraient nécessaires pour lui permettre de remplir convenablement la fonction masticatoire.
 
-Le remboursement des frais de prothèse ne pourra avoir lieu que si l'exécution de l'appareil a été autorisée, au préalable, par la direction des services sociaux.
+Le remboursement des frais de prothèse ne pourra avoir lieu que si l'exécution de l'appareil a été autorisée, au préalable, par le Service des Prestations Médicales de l'État.

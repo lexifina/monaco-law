@@ -1,6 +1,6 @@
 # Article 29
 
-L'intéressé s'engage à prévenir immédiatement la direction des services sociaux :
+L'intéressé s'engage à prévenir immédiatement le Service des Prestations Médicales de l'État :
 
 - 1 ° de son changement de domicile ;
 

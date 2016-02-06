@@ -6,4 +6,4 @@ Sous peine de déchéance, le bénéficiaire des prestations doit indiquer au m�
 
 - 2° Si l'accident dont il a été victime est susceptible d'entraîner la responsabilité d'un tiers.
 
-Dans ce dernier cas, l'ayant droit doit en outre aviser la direction des services sociaux de son accident.
+Dans ce dernier cas, l'ayant droit doit en outre aviser le Service des Prestations Médicales de l'État de son accident.
