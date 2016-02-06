@@ -16,9 +16,7 @@ Les autorisations exceptionnelles d'absence visées au chiffre 1° de l'article 
 
 Les autorisations visées par le présent chiffre sont délivrées par le Secrétaire général de la Mairie. Les temps de service non accomplis sont rémunérés intégralement.
 
-2° - La période pendant laquelle la femme fonctionnaire peut être autorisée à s'absenter pour prendre soin d'un enfant nouveau-né est limitée aux quatre semaines suivant la fin du congé de maternité.
-
-Les autorisations visées par le présent chiffre sont délivrées par le Secrétaire général de la Mairie, sur la proposition du Chef de service. Les temps de service non accomplis donnent lieu à une rémunération réduite de moitié, les prestations familiales restant dues, le cas échéant, dans leur totalité.
+2° - La période pendant laquelle la femme fonctionnaire peut être autorisée à s'absenter pour prendre soin d'un enfant nouveau-né ou d'un enfant adopté est limitée à quatre semaines suivant la fin du congé de maternité ou du congé d'adoption
 
 3° - La présence auprès de l'enfant à charge, au sens des règles sur les prestations familiales, doit avoir été jugée indispensable par le médecin et être justifiée par la remise au Chef de service d'un certificat médical dans les deux jours ouvrables suivant l'interruption des fonctions.
 
