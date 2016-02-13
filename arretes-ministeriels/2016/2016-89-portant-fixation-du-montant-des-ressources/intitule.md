@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-89 du 8 février 2016 portant fixation du montant des ressources personnelles telles que prévues à l'ordonnance souveraine n° 5.711 du 8 février 2016 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
