@@ -4,72 +4,70 @@ La définition et le tarif de cession des produits sanguins labiles sont les sui
 
 En Euros HT
 
-Sang humain total (unité adulte, unité enfant et unité pédiatrique) | 111,16
+Sang humain total (unité adulte, unité enfant et unité pédiatrique) | 114,74
 
-Concentré de globules rouges humains homologues (unité adulte, unité enfant et unité pédiatrique) | 183,84
+Concentré de globules rouges humains homologues (unité adulte, unité enfant et unité pédiatrique) | 189,77
 
-Concentré de globules rouges humains homologues déleucocyté (unité adulte, unité enfant et unité pédiatrique) | 183,84
+Concentré de globules rouges humains homologues déleucocyté (unité adulte, unité enfant et unité pédiatrique) | 189,77
 
-Concentré unitaire de granulocytes d'aphérèse | 538,83
+Concentré unitaire de granulocytes d'aphérèse | 556,21
 
 Mélange de concentrés de plaquettes standard :
 
-Concentration minimale de 1 x 1011 plaquettes par poche | 75,02
+Concentration minimale de 1 x 1011 plaquettes par poche | 77,44
 
-puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 37,51
+puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 38,72
 
 Concentré de plaquettes d'aphérèse :
 
-Concentration minimale de 2 x 1011 plaquettes par poche | 217,56
+Concentration minimale de 2 x 1011 plaquettes par poche | 224,57
 
-puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 54,39
+puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 56,14
 
 Mélange de concentrés de plaquettes standard viro atténué par amotosalen :
 
-Concentration minimale de 1 x 1011 plaquettes par poche | 75,02
+Concentration minimale de 1 x 1011 plaquettes par poche | 77,44
 
-puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 37,51
+puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 | 38,72
 
 Concentré de plaquettes d'aphérèse viro atténué par amotosalen :
 
-Concentration minimale de 2 x 1011 plaquettes par poche | 217,56
+Concentration minimale de 2 x 1011 plaquettes par poche | 224,57
 
 - puis par tranche supplémentaire d'unité thérapeutique de 0,5 x1011 | 54,39
 
-Plasma frais congelé humain homologue solidarisé pour sang reconstitué : | 34,50
+Plasma frais congelé humain homologue solidarisé pour sang reconstitué : | 35,62
 
 Plasma frais congelé humain homologue d'aphérèse sécurisé par quarantaine
 
-- unité adulte (200 ml au minimum), unité enfant et unité pédiatrique | 97,21
+- unité adulte (200 ml au minimum), unité enfant et unité pédiatrique | 100,35
 
-- puis par tranche supplémentaire de 50 ml | 24,30
+- puis par tranche supplémentaire de 50 ml | 25,08
 
-Plasma frais congelé viro atténué par solvant détergent (200 ml au minimum) | 97,21
+Plasma frais congelé viro atténué par amotosalen (200 ml au minimum) | 100,35
 
-Plasma frais congelé viro atténué par amotosalen (200 ml au minimum) | 97,21
+Plasma lyophilisé (200 ml au minimum après reconstitution) | 374,81
 
-Plasma lyophilisé (200 ml au minimum après reconstitution) | 370,00
+Forfait pour concentrés globules rouges autologues (unités adultes SAGM-M par érythraphérèse) | 444,70
 
-Forfait pour concentrés globules rouges autologues (unités adultes SAGM-M par érythraphérèse) | 430,80
+Forfait pour transfusion autologue programmée (comprenant un concentré de globules rouges et un plasma frais congelé autologues), par prélèvement | 230,00
 
-Forfait pour transfusion autologue programmée (comprenant un concentré de globules rouges et un plasma frais congelé autologues), par prélèvement | 222,82
+Majoration pour transformation «déleucocyté» (applicable sur concentré de globules rouges autologue) | 25,72
 
-Majoration pour transformation «déleucocyté» (applicable sur concentré de globules rouges autologue) | 24,92
+Majoration pour transformation «cryoconservé» | 122,10
 
-Majoration pour transformation «cryoconservé» | 118,28
+Majoration pour qualification «phénotypé Rh Kell» | 3,33
 
-Majoration pour qualification «phénotypé Rh Kell» | 3,23
+Majoration pour qualification «phénotype étendu» | 15,49
 
-Majoration pour qualification «phénotype étendu» | 15,00
+Majoration pour qualification «CMV négatif» | 10,95
 
-Majoration pour qualification «CMV négatif» | 10,61
+Majoration pour transformation «déplasmatisé» | 74,12
 
-Majoration pour transformation «déplasmatisé» | 71,81
+Majoration pour transformation «irradié» (applicable sur chaque produit) | 14,99
 
-Majoration pour transformation «irradié» (applicable sur chaque produit) | 14,52
+Majoration pour transformation «réduction volume» | 23,55
 
-Majoration pour transformation «réduction volume» | 22,82
+Majoration pour transformation «reconstitution du sang à usage pédiatrique» | 24,82
 
-Majoration pour transformation «reconstitution du sang à usage pédiatrique» | 24,04
-
-Majoration pour transformation «CGR cryoconservé suspendu en solution SAG-M après décongélation» | 166,63
+Majoration pour transformation «CGR cryoconservé suspendu en solution SAG-M après décongélation» | 172,01
