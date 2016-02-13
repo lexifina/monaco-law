@@ -1,0 +1,1 @@
+Vu Notre ordonnance n° 4.079 du 11 décembre 2012 prorogeant le privilège concédé à la Société Hôtelière et de Loisirs de Monaco d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français ;

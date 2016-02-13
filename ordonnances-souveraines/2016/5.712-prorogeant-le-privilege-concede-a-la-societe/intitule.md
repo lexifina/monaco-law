@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.712 du 8 février 2016 prorogeant le privilège concédé à la Société Hôtelière et de Loisirs de Monaco d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français
