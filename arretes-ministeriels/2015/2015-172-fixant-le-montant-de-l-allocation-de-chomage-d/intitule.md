@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2015-172 du 12 mars 2015 fixant le montant de l'allocation de chômage d'emploi et le plafond mensuel de ressources pour en bénéficier en application de l'ordonnance-loi n° 300 du 16 septembre 1940
