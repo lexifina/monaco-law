@@ -10,7 +10,7 @@ Le terme «un» est employé comme adjectif numéral et non comme article indéf
 
 C) Indication numérique :
 
-Quand le libellé d'un acte comporte une indication numérique tel qu'un nombre, une dimension, une surface ou les termes «plusieurs» ou «multiples», le médecin doit utiliser le code du libellé décrivant le plus exactement la totalité des gestes effectués au cours de son acte.
+Quand le libellé d'un acte comporte une indication numérique tel qu'un nombre, une dimension, une surface ou les termes «plusieurs» ou «multiples», le médecin ou la sage-femme doit utiliser le code du libellé décrivant le plus exactement la totalité des gestes effectués au cours de son acte.
 
 D) La conjonction «et» :
 
