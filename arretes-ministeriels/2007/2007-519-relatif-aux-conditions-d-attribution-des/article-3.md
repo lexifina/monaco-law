@@ -12,7 +12,7 @@ Chaque demande est examinée par une Commission présidée par le Conseiller de 
 
 - le Directeur de l'Habitat ou son représentant,
 
-- le Directeur de l'Action Sanitaire et Sociale ou son représentant,
+- le Directeur de l'Action et de l'Aide Sociales ou son représentant,
 
 - le Président du Conseil National,
 
