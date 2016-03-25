@@ -16,12 +16,12 @@ II. - Dans l'état récapitulatif relatif aux livraisons de biens doivent figure
 
 III. - Dans l'état récapitulatif relatif aux prestations de services doivent figurer :
 
-1° Le numéro d'identification sous lequel l'assujetti a effectué ces prestations de services ;
+- 1° Le numéro d'identification sous lequel l'assujetti a effectué ces prestations de services ;
 
-2° Le numéro par lequel chaque client est identifié à la taxe sur la valeur ajoutée dans l'État membre autre que la France où les services lui ont été fournis ;
+- 2° Le numéro par lequel chaque client est identifié à la taxe sur la valeur ajoutée dans l'État membre autre que la France où les services lui ont été fournis ;
 
-3° Pour chaque preneur, le montant total des prestations de services effectuées par l'assujetti. Ces montants sont déclarés au titre du mois au cours duquel la taxe est devenue exigible dans l'État membre autre que la France ;
+- 3° Pour chaque preneur, le montant total des prestations de services effectuées par l'assujetti. Ces montants sont déclarés au titre du mois au cours duquel la taxe est devenue exigible dans l'État membre autre que la France ;
 
-4° Le montant des régularisations effectuées en application du 1 de l'article 44. Ces montants sont déclarés au titre du mois au cours duquel la régularisation est notifiée au preneur.
+- 4° Le montant des régularisations effectuées en application du 1 de l'article 44. Ces montants sont déclarés au titre du mois au cours duquel la régularisation est notifiée au preneur.
 
 IV. - L'état récapitulatif mentionné au III est souscrit selon des modalités fixées par ordonnance souveraine.

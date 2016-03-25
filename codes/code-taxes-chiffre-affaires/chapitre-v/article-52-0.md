@@ -22,7 +22,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
   - 5° les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté ministériel ;
 
-  - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
+- 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
 
 - B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération ;
 

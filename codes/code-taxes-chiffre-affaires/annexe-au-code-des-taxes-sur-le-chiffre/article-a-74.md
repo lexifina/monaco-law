@@ -58,7 +58,7 @@ IV. - 1. (1 abrogé) ;
 
 2. Lorsqu'un bien en stock, ou un bien immobilisé non encore utilisé, vient à être utilisé à des opérations ouvrant droit à déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement.
 
-3. - Pour l'application du II et des 1° et 2° du 1. du III, un immeuble ou une fraction d'immeuble en stock est considéré comme immobilisé lorsque, au-delà de la date d'échéance mentionnée au 3ème alinéa de l'article 41 du Code des taxes sur le chiffre d'affaires, il est utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article 3 du même Code.
+3. - Pour l'application du II et des 1° et 2° du 1. du III, un immeuble ou une fraction d'immeuble en stock est considéré comme immobilisé lorsque, au 31 décembre de la deuxième année qui suit celle au cours de laquelle est intervenu l'achèvement de l'immeuble, il est utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article 3 du même Code.
 
 V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 42 du Code des taxes ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 de l'article A-77.
 
