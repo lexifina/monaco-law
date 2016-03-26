@@ -60,6 +60,8 @@ Maladies infectieuses :
 
 - Rougeole.
 
-Autre maladie :
+Autres maladies :
+
+- mésothéliomes ;
 
 - saturnisme chez les enfants mineurs.

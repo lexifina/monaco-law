@@ -1,8 +1,8 @@
-# Arrêté ministériel n° 2005-59 du 19 janvier 2005 fixant la liste des maladies contagieuses soumises à déclaration
+# Arrêté ministériel n° 2005-59 du 19 janvier 2005 fixant la liste des maladies soumises à déclaration obligatoire
 
-Version en vigueur au 6 septembre 2008.
+Version en vigueur au 26 mars 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/01-19-2005-59@2008.09.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/01-19-2005-59@2016.03.26/
 
 | | |
 | --- | --- |
