@@ -2,7 +2,7 @@
 
 L'entreposage des concentrés de globules rouges au-delà des six heures est soumis à une convention passée entre l'établissement de santé et le centre de transfusion sanguine.
 
-Cette convention est soumise à l'avis du médecin-inspecteur de la Direction de l'Action Sanitaire et Sociale et du comité de sécurité transfusionnelle et d'hémovigilance.
+Cette convention est soumise à l'avis du médecin-inspecteurde la Direction de l'Action Sanitaire et Sociale et du comité de sécurité transfusionnelle et d'hémovigilance.
 
 Cette convention précise notamment :
 
