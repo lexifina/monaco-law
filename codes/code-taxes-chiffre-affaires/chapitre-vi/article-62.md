@@ -18,7 +18,7 @@ Les dispositions du présent article s'appliquent à compter du 1er janvier 1993
 
 4 bis. Pour les livraisons à un autre assujetti d'or sous forme de matière première ou de produits semi-ouvrés d'une pureté égale ou supérieure à 325 millièmes, la taxe est acquittée par le destinataire. Toutefois, le vendeur est solidairement tenu au paiement de la taxe.
 
-4 bis-1. Pour les livraisons mentionnées au III de l'article 6, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée à Monaco lorsque son fournisseur est établi hors du territoire franco-monégasque.
+4 bis -1. Pour les livraisons mentionnées au III de l'article 6, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée à Monaco lorsque son fournisseur est établi hors du territoire franco-monégasque.
 
 Pour les livraisons de gaz naturel ou d'électricité mentionnées au b) du même III, ainsi que pour les services mentionnés au 12° de l'article 13 qui leur sont directement liés, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à la TVA en Principauté, y compris lorsque son fournisseur est établi à Monaco ou en France.
 
@@ -40,7 +40,7 @@ La sous-traitance, au sens du précédent alinéa, est l'opération par laquelle
 
 6 bis. L'assujetti en faveur duquel a été effectuée une livraison de biens ou une prestation de services et qui savait, ou ne pouvait ignorer, que tout ou partie de la taxe sur la valeur ajoutée due sur cette livraison, ou sur toute livraison antérieure des mêmes biens, ou sur cette prestation ou toute prestation antérieure des mêmes services, ne serait pas reversée de manière frauduleuse, est solidairement tenu, avec la personne redevable, d'acquitter cette taxe.
 
-Les dispositions du premier alinéa et celles prévues au 3 de l'article 44 ne peuvent pas être cumulativement mises en œuvre pour un même bien.
+Les dispositions du premier alinéa et celles prévues au 3 de l'article 44 ne peuvent pas être cumulativement mises en œuvre pour un même bien ou pour un même service.
 
 6 ter. L'assujetti en faveur duquel a été effectuée une livraison de véhicules terrestres à moteur et qui savait ou ne pouvait ignorer que tout ou partie de cette livraison ou de toute livraison antérieure des mêmes véhicules ne pouvait pas bénéficier du régime prévu à l'article 93 A est solidairement tenu d'acquitter avec tout assujetti partie à cette livraison ou à toute livraison antérieure des mêmes véhicules, la taxe frauduleusement éludée.
 

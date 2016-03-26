@@ -12,7 +12,9 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
     - c) Les margarines et graisses végétales ;
 
-    - d) Le caviar ;
+  - d) Le caviar ;
+
+  - 1° bis Les produits de protection hygiénique féminine ;
 
   - 2° les appareillages pour handicapés ainsi que sur les équipements spéciaux, dénommés aides techniques et autres appareillages, dont la liste est fixée par l'article A-130 de l'annexe au code et qui sont conçus exclusivement pour les personnes handicapées en vue de la compensation d'incapacités graves.
 
@@ -22,7 +24,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
   - 5° les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté ministériel ;
 
-- 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
+  - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
 
 - B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération ;
 
@@ -36,7 +38,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - F. - 1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques, concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
 
-- 2° Le prix du billet d'entrée donnant exclusivement accès à des concerts donnés dans des établissements où il est servi facultativement des consommations pendant le spectacle.
+- 2° Le prix du billet d'entrée donnant accès à des interprétations originales d'œuvres musicales nécessitant la présence physique d'au moins un artiste du spectacle percevant une rémunération dans des établissements où il est servi facultativement des consommations pendant le spectacle.
 
 - G. - Les droits d'entrée dans les salles de spectacles cinématographiques, quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents audiovisuels qui sont présentés.
 

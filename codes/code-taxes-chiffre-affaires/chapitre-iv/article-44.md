@@ -1,6 +1,6 @@
 # Article 44
 
-1 - La taxe sur la valeur ajoutée qui a été perçue à l'occasion de ventes ou de services est imputée ou remboursée dans les conditions prévues à l'article 42 lorsque ces ventes ou services sont par la suite résiliés ou annulés ou lorsque les créances correspondantes sont devenues définitivement irrécouvrables.
+1. - La taxe sur la valeur ajoutée qui a été perçue à l'occasion de ventes ou de services est imputée ou remboursée dans les conditions prévues à l'article 42 lorsque ces ventes ou services sont par la suite résiliés ou annulés ou lorsque les créances correspondantes sont devenues définitivement irrécouvrables.
 
 Toutefois, l'imputation ou le remboursement de la taxe peuvent être effectués dès la date de la décision de justice qui prononce la liquidation judiciaire.
 
@@ -8,4 +8,4 @@ L'imputation ou la restitution est subordonnée à la justification, auprès de 
 
 2. - La taxe sur la valeur ajoutée facturée dans les conditions définies à l'article 62-6 ne peut faire l'objet d'aucune déduction par celui qui a reçu la facture.
 
-3. - La TVA afférente à une livraison de biens ne peut faire l'objet d'aucune déduction lorsqu'il est démontré que l'acquéreur savait, ou ne pouvait ignorer que, par son acquisition, il participait à une fraude consistant à ne pas reverser la taxe due à raison de cette livraison.
+3. - La TVA afférente à une livraison de biens ou à une prestation de services ne peut faire l'objet d'aucune déduction lorsqu'il est démontré que l'acquéreur savait, ou ne pouvait ignorer que, par son acquisition, il participait à une fraude consistant à ne pas reverser la taxe due à raison de cette livraison ou de cette prestation.

@@ -32,8 +32,6 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
 
-- c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
-
 II. - 1. La sortie du bien de l'un des régimes mentionnés au I met fin à la suspension du paiement de la taxe sur la valeur ajoutée.
 
 Le retrait de l'autorisation mentionnée au 2° du I met également fin à la suspension du paiement de la taxe sur la valeur ajoutée.
@@ -62,7 +60,7 @@ c) Dans les cas visés au a et b du présent 2, la personne qui a obtenu l'autor
 
 - 4° La taxe due conformément aux 1° à 3° ci-dessus est assortie de l'intérêt de retard mentionné au I de l'article 110 lorsque les biens placés sous un régime fiscal suspensif, mentionné au a du 2° du I du présent article, en vue de leur expédition ou de leur exportation hors de Monaco et de la France, sont reversés sur le marché franco-monégasque.
 
-L'intérêt de retard est calculé à compter du premier jour du mois suivant celui au cours duquel la taxe devenue exigible a été suspendue conformément au I du présent article, jusqu'au dernier jour du mois précédant celui au cours duquel les biens sont sortis du régime fiscal suspensif.
+- L'intérêt de retard est calculé à compter du premier jour du mois suivant celui au cours duquel la taxe devenue exigible a été suspendue conformément au I du présent article, jusqu'au dernier jour du mois précédant celui au cours duquel les biens sont sortis du régime fiscal suspensif.
 
 4. Par dérogation au 2, la personne qui doit acquitter la taxe est dispensée du paiement lorsque le bien fait l'objet d'une exportation ou d'une livraison exonérée en vertu de l'article 29 ou du I de l'article 31.
 

@@ -1,6 +1,6 @@
 # Article A-154 A
 
-1. - Pour l'application de l'article 70 du Code des taxes, les représentants désignés en vertu du III de l'article 72 du même code doivent souscrire auprès de la direction des services fiscaux un état trimestriel comportant les informations suivantes :
+I. - Pour l'application de l'article 70 du Code des taxes, les représentants désignés en vertu du III de l'article 72 du même code doivent souscrire auprès de la direction des services fiscaux un état trimestriel comportant les informations suivantes :
 
 - 1. Le nom ou la dénomination et l'adresse du représentant, et le numéro d'identification à la taxe sur la valeur ajoutée sous lesquels sont effectuées les opérations visées au III de l'article 72 du Code des taxes ;
 

@@ -6,15 +6,17 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - 2° (2° abrogé) ;
 
-- 3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation. Ces dispositions ne s'appliquent pas aux opérations relatives aux équidés lorsque ceux-ci ne sont normalement pas destinés à être utilisés dans la préparation des denrées alimentaires ou dans la production agricole ;
+- 3° Produits d'origine agricole, de la pêche, de la pisciculture et de l'aviculture n'ayant subi aucune transformation et qui sont normalement destinés à être utilisés dans la préparation des denrées alimentaires ou dans la production agricole ;
 
-- 3° bis Produits suivants à l'usage domestique :
+- 3° bis Produits suivants :
 
   - a) Bois de chauffage ;
 
   - b) Produits de la sylviculture agglomérés destinés au chauffage ;
 
   - c) Déchets de bois destinés au chauffage ;
+
+  - d) Produits de l'horticulture et de la floriculture d'ornement n'ayant subi aucune transformation ;
 
 - 4° Aliments simples ou composés utilisés pour la nourriture du bétail, des animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine et des abeilles, ainsi que les produits entrant dans la composition de ces aliments et dont la liste est fixée par l'article A-133 de l'annexe au code ;
 

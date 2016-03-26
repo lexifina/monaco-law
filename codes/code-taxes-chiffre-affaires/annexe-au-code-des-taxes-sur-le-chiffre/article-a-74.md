@@ -60,7 +60,7 @@ IV. - 1. (1 abrogé) ;
 
 3. - Pour l'application du II et des 1° et 2° du 1. du III, un immeuble ou une fraction d'immeuble en stock est considéré comme immobilisé lorsque, au 31 décembre de la deuxième année qui suit celle au cours de laquelle est intervenu l'achèvement de l'immeuble, il est utilisé pendant plus d'un an pour une opération relevant d'une activité économique mentionnée à l'article 3 du même Code.
 
-V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 42 du Code des taxes ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article ou au 3 de l'article A-77.
+V. - 1. La taxe initiale s'entend, selon le cas, de la taxe mentionnée au 1 du II de l'article 42 du Code des taxes ou de la fraction de taxe mentionnée sur les attestations prévues au 3 du III du présent article.
 
 2. Les coefficients d'assujettissement, de taxation et d'admission de référence sont initialement égaux aux coefficients retenus pour le calcul de la déduction opérée en application de l'article A-73 lors de l'acquisition, de l'importation ou de la livraison à soi-même du bien. Le cas échéant :
 
