@@ -1,10 +1,10 @@
 # Article 6
 
-La commission consultative des marchés des établissements publics est composée comme suit :
+La Commission consultative des marchés des établissements publics est composée comme suit :
 
-- le président du conseil d'administration ou de la commission administrative de l'établissement concerné, président,
+- le Président du Conseil d'Administration ou de la commission administrative de l'établissement concerné, ou son représentant désigné au sein de ce Conseil ou de cette Commission, président ;
 
-- deux membres du conseil d'administration ou de la commission administrative de l'établissement concerné ;
+- deux membres du Conseil d'Administration ou de la Commission administrative de l'établissement concerné ;
 
 - trois représentants de l'autorité de tutelle désignés es-qualités pour trois ans par arrêté ministériel.
 

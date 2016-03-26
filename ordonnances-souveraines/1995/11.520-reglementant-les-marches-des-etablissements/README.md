@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 11.520 du 4 avril 1995 réglementant les marchés des établissements publics
 
-Version en vigueur au 26 juillet 2008.
+Version en vigueur au 26 mars 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1995/04-04-11.520@2008.07.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1995/04-04-11.520@2016.03.26/
 
 | | |
 | --- | --- |
