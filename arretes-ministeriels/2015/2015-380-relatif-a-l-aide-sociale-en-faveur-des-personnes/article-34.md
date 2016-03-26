@@ -1,19 +1,11 @@
 # Article 34
 
-L'allocation logement, prévue par l'article 45 de la loi n° 1.410 du 2 décembre 2014, susvisée, est due à l'attributaire du statut de personne handicapée lorsqu'il satisfait aux conditions cumulatives suivantes :
+Le bénéficiaire de l'allocation aux adultes handicapés et, le cas échéant, de son complément, de l'aide financière supplémentaire, de la majoration pour enfant à charge, de l'aide alimentaire et de la participation aux frais d'hébergement et d'entretien en foyer de vie pour personnes handicapées est tenu d'informer, dans le délai d'un mois, le Directeur de l'Action Sanitaire et Sociale de tout changement intervenu, notamment, dans sa situation locative, familiale ou professionnelle, qui serait de nature à modifier son droit ou à remettre en cause son ouverture.
 
-- - l'attributaire dispose d'un logement indépendant et n'excédant pas les besoins normaux de son foyer ;
+En cas de manquement à cette obligation, le Directeur peut, après que l'allocataire ait été entendu en ses explications ou dûment appelé à les fournir, faire suspendre, à titre conservatoire pour une durée ne pouvant excéder quatre mois, le versement par l'Office de Protection Sociale de l'allocation, y compris du complément, de l'aide, de la majoration susmentionnés, de l'aide alimentaire et de la participation aux frais d'hébergement et d'entretien en foyer de vie pour personnes handicapées, en vue de réexaminer son droit à celle-ci.
 
-- - l'attributaire est locataire dudit logement, conjoint du locataire ou vit maritalement avec le locataire ;
+Le versement de l'allocation n'est, le cas échéant, rétroactivement rétabli, qu'après présentation des justificatifs demandés.
 
-- - l'attributaire n'est pas propriétaire, nu-propriétaire ou usufruitier à Monaco ou dans un rayon de quinze kilomètres de locaux à usage d'habitation correspondant à ses besoins normaux et qu'il pourrait légalement occuper.
+Les sommes indûment perçues sont restituées à l'Office.
 
-Toutefois, cette allocation n'est pas due lorsque la location a été consentie par :
-
-- - le conjoint de l'attributaire ou la personne avec laquelle il vit maritalement ;
-
-- - un frère, une sœur, un ascendant ou un descendant de l'attributaire, de son conjoint ou de la personne avec laquelle il vit maritalement.
-
-L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire.
-
-Il n'est dû qu'une allocation par foyer.
+En outre, l'allocataire est tenu de justifier chaque année qu'il continue de remplir les conditions prévues pour le service de l'allocation aux adultes handicapés et, le cas échéant, de son complément, de l'aide financière supplémentaire, de la majoration pour enfant à charge, de l'aide alimentaire et de la participation aux frais d'hébergement et d'entretien en foyer de vie pour personnes handicapées et de déclarer le montant des ressources de son foyer au cours des douze derniers mois. À défaut, le Directeur peut, après que l'allocataire ait été entendu en ses explications ou dûment appelé à les fournir, faire suspendre le versement par l'Office de Protection Sociale de ladite allocation, y compris du complément, des aides, de la majoration et de la participation susmentionnés, jusqu'à la transmission des pièces justificatives requises.

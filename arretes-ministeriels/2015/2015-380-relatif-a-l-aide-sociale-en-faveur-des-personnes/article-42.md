@@ -1,6 +1,6 @@
 # Article 42
 
-Le bénéficiaire de l'allocation logement est tenu d'informer, dans le délai d'un mois, le Directeur de l'Action Sanitaire de tout changement intervenu, notamment, dans sa situation locative, familiale ou professionnelle, qui serait de nature à modifier son droit ou à remettre en cause son ouverture.
+Le bénéficiaire de l'allocation logement est tenu d'informer, dans le délai d'un mois, le Directeur de l'Action Sanitaire et Sociale de tout changement intervenu, notamment, dans sa situation locative, familiale ou professionnelle, qui serait de nature à modifier son droit ou à remettre en cause son ouverture.
 
 En cas de manquement à cette obligation, le Directeur peut, après que l'allocataire ait été entendu en ses explications ou dûment appelé à les fournir, faire suspendre, à titre conservatoire pour une durée ne pouvant excéder quatre mois, le versement par l'Office de Protection Sociale de l'allocation en vue de réexaminer son droit à celle-ci.
 

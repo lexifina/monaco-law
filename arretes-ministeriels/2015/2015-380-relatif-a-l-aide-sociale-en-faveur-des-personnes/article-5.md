@@ -1,7 +1,7 @@
 # Article 5
 
-Un complément d'allocation d'éducation spéciale, servi par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire, est dû au demandeur lorsqu'il bénéficie de l'allocation d'éducation spéciale et que le mineur attributaire du statut de personne handicapée, au titre duquel ladite allocation est servie, est atteint d'un handicap dont la nature ou la gravité nécessite soit des dépenses particulièrement coûteuses, soit le recours quotidien ou constant à l'aide d'une tierce personne pour accomplir les actes essentiels de l'existence.
+Une aide financière supplémentaire, servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire et Sociale, est due au demandeur lorsqu'il bénéficie de l'allocation aux adultes handicapés et que le complément servi en application de l'article 22 ne permet pas de couvrir le coût du plan d'aide à la compensation du handicap, sous réserve que l'intéressé ne puisse prétendre au bénéfice de la prestation d'autonomie prévue par l'ordonnance souveraine n° 904 du 8 janvier 2007, modifiée, susvisée.
 
-Lorsque l'une de ces nécessités le justifie, le Directeur classe le mineur, après avis de la Commission d'évaluation du handicap, dans l'une des deux catégories prévues à l'article suivant.
+Cette aide est allouée en fonction des besoins identifiés dans ledit plan et de la situation sociale, matérielle et familiale du demandeur.
 
-Le montant du complément est fonction de ce classement en première ou deuxième catégorie.
+L'aide peut être affectée mensuellement au règlement des prestataires intervenant dans le cadre du plan d'aide à la compensation du handicap.
