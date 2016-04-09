@@ -18,6 +18,6 @@ c) les zones de départ des passagers de l'aviation commerciale comprises entre 
 
 d) les hangars de maintenance et de stationnement.
 
-En zone de sûreté, seuls peuvent circuler les personnes et les véhicules autorisés par le Chef du Service de l'Aviation Civile, ainsi que les personnes qui les accompagnent.
+En zone de sûreté, seuls peuvent circuler les personnes et les véhicules autorisés par le Directeur de l'Aviation Civilee, ainsi que les personnes qui les accompagnent.
 
-Les modalités pratiques de mise en œuvre du présent article sont définies par le Chef du Service de l'Aviation Civile ; des mesures de contrôle renforcé peuvent être prises temporairement.
+Les modalités pratiques de mise en œuvre du présent article sont définies par le Directeur de l'Aviation Civile ; des mesures de contrôle renforcé peuvent être prises temporairement.
