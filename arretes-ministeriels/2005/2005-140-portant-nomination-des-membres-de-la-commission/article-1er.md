@@ -4,7 +4,7 @@ Sont nommés membres de la Commission spéciale des accidents du travail et de l
 
 - le Conseiller de Gouvernement pour les Affaires Sociales et la Santé ou son représentant, Président ;
 
-- le Directeur de l'Action Sanitaire et Sociale ou son représentant ;
+- le Directeur de l'Action Sanitaire ou son représentant ;
 
 - le Directeur du Travail ou son représentant ;
 
