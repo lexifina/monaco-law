@@ -4,7 +4,7 @@ Toute contestation portant sur une décision d'un médecin du travail peut être
 
 Cette commission est composée :
 
-- du médecin inspecteur de l'action sanitaire et sociale, qui la préside ;
+- d'un Médecin-Inspecteur de Santé Publique désigné par le Directeur de l'Action Sanitaire, qui la préside ;
 
 - du médecin du travail intéressé ;
 
