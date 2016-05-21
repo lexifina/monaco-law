@@ -2,13 +2,13 @@
 
 Le Ministre d'État peut, par arrêté, consentir des délégations de signature, à l'exclusion de toute délégation de pouvoirs :
 
-- au Secrétaire Général du Ministère d'État ;
+- au Secrétaire Général du Gouvernement ;
 
-- au Secrétaire Général Adjoint du Ministère d'État ;
+- au Secrétaire Général Adjoint du Gouvernement ;
 
-- à l'Adjoint au Secrétaire Général du Ministère d'État ;
+- à l'Adjoint au Secrétaire Général du Gouvernement ;
 
-- au Secrétaire au Secrétariat Général du Ministère d'État ;
+- au Secrétaire au Secrétariat Général du Gouvernement ;
 
 - aux membres du Cabinet du Ministre d'État ;
 
