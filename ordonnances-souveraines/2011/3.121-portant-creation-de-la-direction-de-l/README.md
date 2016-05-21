@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 3.121 du 11 février 2011 portant création de la Direction de l'Administration Électronique et de l'Information aux Usagers
+# Ordonnance souveraine n° 3.121 du 11 février 2011 portant création de la Direction de l'Administration Électronique et de l'Information aux Usagers
 
-Version en vigueur au 26 février 2011.
+Version en vigueur au 21 mai 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/02-11-3.121@2011.02.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/02-11-3.121@2016.05.21/
 
 | | |
 | --- | --- |

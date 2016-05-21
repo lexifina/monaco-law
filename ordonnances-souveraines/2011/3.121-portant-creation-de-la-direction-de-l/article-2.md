@@ -10,7 +10,7 @@ Cette Direction est chargée :
 
 4) d'assurer la gestion des demandes relatives aux procédures administratives, aux systèmes d'information et aux sites Internet issues des Départements et Services administratifs et leur concordance avec le schéma directeur ;
 
-5) d'organiser la préparation et le suivi de la commission annuelle en charge des arbitrages des demandes de développements informatiques, d'en assurer le secrétariat et d'en évaluer les implications budgétaires, sous l'autorité du Secrétaire Général du Ministère d'État et en relation avec la Direction Informatique ;
+5) d'organiser la préparation et le suivi de la commission annuelle en charge des arbitrages des demandes de développements informatiques, d'en assurer le secrétariat et d'en évaluer les implications budgétaires, sous l'autorité du Secrétaire Général du Gouvernement et en relation avec la Direction Informatique ;
 
 6) de réaliser les actions d'assistance à la maîtrise d'ouvrage dans le cadre des projets informatiques ;
 
