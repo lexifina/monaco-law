@@ -24,7 +24,7 @@ Participent régulièrement aux travaux du comité :
 
 - le chef du service des affaires culturelles,
 
-- le chef du centre de presse,
+- le chef de la Direction de la Communication,
 
 - le chef du service du tourisme.
 
