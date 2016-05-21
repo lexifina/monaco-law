@@ -6,7 +6,7 @@ Les emplois supérieurs, visés au deuxième alinéa de l'article 4 de la loi n�
 
 - Contrôleur Général des Dépenses ;
 
-- Secrétaire Général du ministre d'État ;
+- Secrétaire Général du Gouvernement ;
 
 - Inspecteurs Généraux, Inspecteurs et Inspecteurs-Adjoints de l'Administration ;
 
