@@ -2,7 +2,7 @@
 
 Toute déclaration de modification de la dénomination ou de l'objet de l'association, ainsi que de toute autre disposition statutaire est signée par le président ou un administrateur et mentionne les modifications opérées.
 
-Elle est déposée au Secrétariat Général du Ministère d'État et, à peine d'irrecevabilité, est accompagnée des pièces ci-après :
+Elle est déposée au Secrétariat Général du Gouvernement et, à peine d'irrecevabilité, est accompagnée des pièces ci-après :
 
 - 1°- les statuts modifiés de l'association établis en double exemplaire, paraphés à chaque page et signés par un administrateur ;
 
