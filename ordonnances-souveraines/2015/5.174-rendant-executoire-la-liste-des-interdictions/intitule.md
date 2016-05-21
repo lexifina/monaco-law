@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 5.174 du 15 janvier 2015 rendant exécutoire la Liste des Interdictions - Standard International 2015, et la Liste des Autorisations à des fins thérapeutiques - Standard AUT 2015, amendant les Annexes I et II de la Convention internationale contre le dopage dans le sport (UNESCO)
