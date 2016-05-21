@@ -76,7 +76,7 @@ CATÉGORIE « B »
 
 - Chef de bureau et assimilé, assistante sociale chef, infirmière chef. Grades ou emplois particuliers :
 
-- Centre de presse
+- Direction de la Communication
 
 - Attaché de presse.
 
