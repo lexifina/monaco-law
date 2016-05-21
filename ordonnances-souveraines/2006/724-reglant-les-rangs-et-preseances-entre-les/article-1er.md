@@ -14,13 +14,13 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 6 - le Secrétaire d'État
 
-7 - le Directeur de Cabinet du Prince
+7 - le Chef de Cabinet du Prince
 
 8 - Le Chambellan du Prince et le Premier Aide de Camp du Prince
 
 9 - les Ministres Plénipotentiaires du Prince
 
-10 - les Conseillers de Gouvernement
+10 - les Conseillers de Gouvernement-Ministres
 
 11 - le Nonce Apostolique
 
@@ -34,7 +34,15 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 16 - le Chancelier et les Grands Croix des Ordres Princiers
 
-17 - les Conseillers au Cabinet du Prince et le Secrétaire Général de la Chancellerie des Ordres Princiers
+17-1 les Conseillers au Cabinet,
+
+17-2 le Secrétaire Général de la Chancellerie des Ordres Princiers,
+
+17-3 les Chargés de mission,
+
+17-4 les Conseillers privés,
+
+17-5 les Conseillers
 
 18 - l'Administrateur des Biens du Prince
 
@@ -52,7 +60,11 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 25 - le Président de la Commission Supérieure des Comptes
 
-26 - le Vice-président du Conseil National
+26-1 le Secrétaire Général du Gouvernement,
+
+26-2 le Vicaire Général,
+
+26-3 le Vice-président du Conseil National
 
 27 - le Vice-président du Conseil d'État
 
@@ -188,9 +200,15 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 92 - les Directeurs d'établissements primaires publics et privés
 
-93 - les membres du Conseil Diocésain du Temporel
+93. les Curés des Paroisses,
 
-94 - les curés des paroisses
+93-1 les Chanoines,
+
+93-2 les Curés,
+
+93-3 les membres de la Curie
+
+94 - les membres du Conseil Diocésain
 
 95 - les Marguilliers des paroisses
 
@@ -226,7 +244,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 111 - le Receveur principal des Douanes
 
-112 - le Receveur principal des Postes
+112 - le Directeur de la Poste Monaco
 
 113 - le Chef de Gare
 
