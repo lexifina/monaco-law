@@ -4,4 +4,4 @@ Durant la période de campagne officielle, les interventions de chaque liste de 
 
 Les interventions sont réalisées exclusivement avec les moyens techniques et humains mis gracieusement à disposition par «Monaco Info', dans les conditions fixées par le présent arrêté.
 
-Ces interventions sont également mises en ligne par le Centre de Presse sur le site internet www.gouv.mc.
+Ces interventions sont également mises en ligne par la Direction de la Communication sur le site internet www.gouv.mc.

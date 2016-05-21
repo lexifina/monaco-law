@@ -10,4 +10,4 @@ Ce comité comprend :
 
 - le Chef de l'Inspection générale de l'Administration.
 
-Le comité de coordination de la campagne électorale télévisuelle est assisté du Directeur du centre de presse, Conseiller technique auprès du Ministre d'État chargé de la communication.
+Le comité de coordination de la campagne électorale télévisuelle est assisté du Directeur de la Communication, Conseiller technique auprès du Ministre d'État chargé de la communication.

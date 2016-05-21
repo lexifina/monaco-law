@@ -6,6 +6,6 @@ Des documents vidéographiques ou sonores réalisés grâce aux moyens propres d
 
 - ils doivent respecter les dispositions de l'article 17 ;
 
-- ils doivent être déposés au centre de presse au plus tard une heure avant le début de l'enregistrement ;
+- ils doivent être déposés à la Direction de la Communication au plus tard une heure avant le début de l'enregistrement ;
 
 - ils doivent être compatibles avec les standards techniques définis à l'article 19.
