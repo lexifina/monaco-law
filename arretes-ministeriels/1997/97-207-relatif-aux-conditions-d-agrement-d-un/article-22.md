@@ -1,3 +1,0 @@
-# Article 22
-
-Pour exercer l'activité de laboratoire d'analyses d'immuno-hématologie, le centre de transfusion sanguine doit disposer, dans chaque site dans lequel cette activité est exercée, de techniciens, conformément aux règles fixées pour la bonne exécution des analyses, placés sous la responsabilité d'un médecin ou d'un pharmacien possédant les qualifications requises par l'article 3 de l'arrêté ministériel n° 2003-577 du 10 novembre 2003, susvisé. Ces techniciens peuvent, en fonction du volume d'activité d'analyses du laboratoire, intervenir dans un autre laboratoire du site. L'établissement doit également disposer, dans chacun des sites concernés, d'un laboratoire distinct du laboratoire d'immuno-hématologie du don.
