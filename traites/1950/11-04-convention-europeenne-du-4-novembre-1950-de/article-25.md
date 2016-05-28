@@ -1,5 +1,15 @@
 # Article 25
 
-[1 - ] La Cour dispose d'un greffe dont les tâches et l'organisation sont fixées par le règlement de la Cour. Elle est assistée de référendaires.
+La Cour réunie en Assemblée plénière :
 
-2 - Lorsqu'elle siège en formation de juge unique, la Cour est assistée de rapporteurs qui exercent leurs fonctions sous l'autorité du président de la Cour. Ils font partie du greffe de la Cour.
+- a) Élit, pour une durée de trois ans, son président et un ou deux vice-présidents ; ils sont rééligibles ;
+
+- b) Constitue des Chambres pour une période déterminée ;
+
+- c) Élit les présidents des Chambres de la Cour, qui sont rééligibles ;
+
+- d) Adopte le règlement de la Cour ;
+
+- e) Élit le greffier et un ou plusieurs greffiers adjoints ;
+
+- f fait toute demande au titre de l'article 26, paragraphe 2.
