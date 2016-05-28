@@ -12,6 +12,8 @@ Astreinte opérationnelle :
 
 - Indemnité due pour chaque déplacement supplémentaire | 42,00 euro(s)
 
+- Indemnité due pour l'acte médical d'interprétation d'images radiologiques réalisées au domicile du praticien radiologue | 30,00 euro(s)
+
 Astreinte de sécurité :
 
 - Indemnité forfaitaire de base | 29,50 euro(s)
