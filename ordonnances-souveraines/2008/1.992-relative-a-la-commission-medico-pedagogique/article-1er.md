@@ -4,11 +4,13 @@ La composition de la Commission médico-pédagogique, instituée par l'article 2
 
 - le Directeur de l'Éducation Nationale, de la Jeunesse et des Sports, président ou son représentant, lequel peut s'adjoindre deux personnes de sa Direction, désignées pour leurs compétences ;
 
-- le Directeur de l'Action Sanitaire et Sociale ou son représentant ;
+- le Directeur de l'Action Sanitaire ou son représentant ;
 
-- un médecin spécialiste en psychiatrie ou ayant une compétence en psychiatrie de l'enfant et de l'adolescent désigné par le Directeur de l'Action Sanitaire et Sociale ;
+- le Directeur de l'Action et de l'Aide Sociales ou son représentant ;
 
-- les médecins de l'Inspection Médicale des Scolaires ;
+- un médecin spécialiste en psychiatrie ou ayant une compétence en psychiatrie de l'enfant et de l'adolescent désigné par le Directeur de l'Action Sanitaire ;
+
+- les médecins de l'Inspection Médicale des Scolaires relevant de la Direction de l'Action Sanitaire ;
 
 - un représentant de l'Inspection Académique de Nice (adaptation scolaire et scolarisation des élèves handicapés, ASH) ;
 
