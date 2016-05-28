@@ -1,0 +1,1 @@
+Fait à Strasbourg, le 13 mai 2004, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l'Europe. Le Secrétaire Général du Conseil de l'Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l'Europe.
