@@ -6,9 +6,9 @@
 
 - des dispositions générales RU-ZQ-GEN-V5D (annexe n° 1) applicables à l'ensemble du secteur des quartiers ordonnancés ;
 
-- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D4 (annexe n° 2) ;
+- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D5 (annexe n° 2) ;
 
-- du plan de répartition des indices de construction de référence PU-IC-PTE-D1 (annexe n° 3) ;
+- du plan de répartition des indices de construction de référence PU-IC-PTE-D2 (annexe n° 3) ;
 
 - des dispositions particulières RU-CDN-DP-V5D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de la Condamine ;
 
@@ -16,11 +16,11 @@
 
 - des dispositions particulières RU-EXO-DP-V4D (annexe n° 6) et des plans de coordination correspondants applicables au quartier du Jardin Exotique ;
 
-- des dispositions particulières RU-LVT-DP-V6D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
+- des dispositions particulières RU-LVT-DP-V7D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
 
 - des dispositions particulières RU-MGI-DP-V4D (annexe n° 8) et des plans de coordination correspondants applicables au quartier des Moneghetti ;
 
-- des dispositions particulières RU-MCO-DP-V6D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
+- des dispositions particulières RU-MCO-DP-V7D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
 
 - des dispositions particulières RU-LRS-DP-V4D (annexe n° 10) et des plans de coordination correspondants applicables au quartier de La Rousse.
 
