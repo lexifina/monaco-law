@@ -4,7 +4,7 @@ La commission médicale supérieure est chargée de connaître des contestations
 
 Cette commission est composée :
 
-- du médecin-inspecteur de l'Action sanitaire et sociale, qui la préside, avec voix prépondérante en cas de partage ;
+- d'un médecin-inspecteur de santé publique, qui la préside, avec voix prépondérante en cas de partage, désigné par le Directeur de l'Action Sanitaire ;
 
 - de deux praticiens de médecine générale ou, lorsqu'il y a lieu, d'un praticien de médecine générale et d'un praticien spécialiste de l'affection ou de l'infirmité dont est atteint le fonctionnaire ;
 

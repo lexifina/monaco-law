@@ -1,11 +1,12 @@
-# Ordonnance souveraine n° 6.365 du 17 août 1978 fixant les conditions d'application de la loi n° 975 du 12 juillet 1975 portant statut des fonctionnaires de l'État
+# Ordonnance Souveraine n° 6.365 du 17 août 1978 fixant les conditions d'application de la loi n° 975 du 12 juillet 1975 portant statut des fonctionnaires de l'État
 
-Version en vigueur au 31 octobre 2015.
+Version en vigueur au 4 juin 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1978/08-17-6.365@2015.10.31/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1978/08-17-6.365@2016.06.04/
 
 | | |
 | --- | --- |
 | Type | Texte réglementaire |
 | Nature | Ordonnance Souveraine |
 | Date du texte | 17 août 1978 |
+| Publication | Journal de Monaco du 25 août 1978 |
