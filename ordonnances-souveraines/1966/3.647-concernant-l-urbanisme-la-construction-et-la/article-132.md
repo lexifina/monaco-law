@@ -4,7 +4,7 @@ Pour les immeubles de plus d'un étage sur rez-de-chaussée et comportant plus d
 
 Les constructions nouvelles devront être munies d'une antenne collective de télévision. Ces installations devront être établies en conformité des prescriptions en vigueur et en accord avec les services publics intéressés.
 
-Pour les nouvelles constructions, le projet doit mentionner la création d'un local «déchets » capable d'accueillir les conteneurs « ordures ménagères » et « tri sélectif » en nombre suffisant. Cet aménagement doit être inclus au dossier de demande d'autorisation de construire.
+Pour les nouvelles constructions, le projet doit mentionner la création d'un local « déchets » capable d'accueillir les conteneurs « ordures ménagères » et « tri sélectif » en nombre suffisant. Cet aménagement doit être inclus au dossier de demande d'autorisation de construire.
 
 Pour les constructions de plus de 10 logements, il doit être prévu l'emplacement de conteneurs à « verre » et de conteneurs à « vieux papiers et journaux / magazines ».
 
