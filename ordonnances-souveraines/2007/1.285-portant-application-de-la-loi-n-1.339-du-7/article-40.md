@@ -8,6 +8,6 @@ Le compte de résultat d'un fonds commun de placement doit faire apparaître not
 
 - le montant des lots et primes de remboursement attachés aux obligations ;
 
-- les frais de gestion prévus par le règlement ;
+- les frais de gestion prévus par le prospectus complet ;
 
 - éventuellement, la charge des emprunts.
