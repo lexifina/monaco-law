@@ -1,0 +1,12 @@
+# Ordonnance Souveraine n° 5.869 du 6 juin 2016 modifiant l'ordonnance souveraine n° 1.447 du 28 décembre 1956 fixant les modalités d'application des lois n° 595 et n° 618 sur le régime des prestations, des 15 juillet 1954 et 26 juillet 1956, modifiée
+
+Version en vigueur au 11 juin 2016.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2016/06-06-5.869@2016.06.11/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 6 juin 2016 |
+| Publication | Journal de Monaco du 10 juin 2016 |
