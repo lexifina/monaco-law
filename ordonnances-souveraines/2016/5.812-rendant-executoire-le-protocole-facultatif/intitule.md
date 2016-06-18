@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.812 du 22 avril 2016 rendant exécutoire le Protocole facultatif relatif à la Convention sur la sécurité du personnel des Nations Unies et du personnel associé adopté à New York le 8 décembre 2005
