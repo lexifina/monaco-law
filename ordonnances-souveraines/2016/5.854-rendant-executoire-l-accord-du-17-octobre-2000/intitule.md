@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.854 du 30 mai 2016 rendant exécutoire l'Accord du 17 octobre 2000 sur l'application de l'article 65 de la Convention sur la délivrance de brevets européens du 5 octobre 1973
