@@ -10,6 +10,4 @@ Champ d'application matériel . - Le présent accord s'applique à la législati
 
 - d) les prestations de vieillesse ;
 
-- e) les prestations de survivants ;
-
-- f) les prestations familiales.
+- e) les prestations de survivants.
