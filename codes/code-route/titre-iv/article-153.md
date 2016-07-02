@@ -4,7 +4,7 @@ Pour l'application des dispositions du présent titre, les définitions suivante
 
 - Motocyclettes :
 
-Véhicules à deux roues à moteur ne répondant pas à la définition du cyclomoteur et dont la puissance n'excède pas 73,6 kilowatts ; l'adjonction d'un side-car à une motocyclette ne modifie pas le classement de celle-ci.
+Véhicules à deux roues à moteur ne répondant pas à la définition du cyclomoteur ; l'adjonction d'un side-car à une motocyclette ne modifie pas le classement de celle-ci.
 
 - Motocyclettes légères :
 
