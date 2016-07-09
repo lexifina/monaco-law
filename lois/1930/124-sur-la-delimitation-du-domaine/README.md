@@ -1,8 +1,8 @@
 # Loi n° 124 du 15 janvier 1930 sur la délimitation du domaine
 
-Version en vigueur au 24 janvier 1930.
+Version en vigueur au 9 juillet 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1930/01-15-124@1930.01.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1930/01-15-124@2016.07.09/
 
 | | |
 | --- | --- |

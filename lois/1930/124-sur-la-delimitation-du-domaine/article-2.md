@@ -10,4 +10,6 @@ Le palais du Gouvernement ;
 
 Le palais de justice ;
 
-La cathédrale et les églises paroissiales de Saint-Martin, de Sainte-Dévote et de Saint-Charles, sans qu'il soit innové aux dispositions de la bulle « Quemadmodum ».
+La cathédrale et les églises paroissiales de Saint-Martin, de Sainte-Dévote et de Saint-Charles, sans qu'il soit innové aux dispositions de la bulle « Quemadmodum » ;
+
+L'emprise de l'infrastructure maritime dite de « l'Anse du Portier », ainsi que les volumes situés au-dessus et au-dessous de ladite emprise.
