@@ -1,0 +1,5 @@
+# Article 5
+
+Dans le cas mentionné au premier alinéa de l'article 2, l'activité de télétravail et les lieux où elle est exercée sont mentionnés, conformément aux dispositions de la loi n° 629 du 17 juillet 1957 tendant à réglementer les conditions d'embauchage et de licenciement en Principauté, modifiée, dans la demande de permis de travail ou, pour les salariés de nationalité monégasque, dans la déclaration d'embauche.
+
+Dans le cas mentionné au second alinéa de l'article 2 ou lorsque le contrat de travail se poursuit mais qu'il est mis fin à l'activité de télétravail d'un commun accord entre le salarié et l'employeur ou en application de l'article suivant, une demande de modification du permis de travail ou, pour les salariés de nationalité monégasque, une déclaration modificative d'embauche, mentionnant l'instauration d'une activité de télétravail et les lieux où elle est exercée ou sa cessation, est adressée, conformément aux dispositions de la loi n° 629 du 17 juillet 1957, modifiée, dans le mois, à la Direction du Travail.
