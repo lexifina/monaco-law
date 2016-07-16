@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 5.892 du 20 juin 2016 rendant exécutoire le Traité bilatéral d'entraide judiciaire en matière pénale entre la Principauté de Monaco et la République du Kazakhstan, signé à Monaco le 5 mars 2015
