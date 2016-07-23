@@ -1,6 +1,6 @@
 # Article 231
 
-Le procureur général est chargé de la recherche et de la poursuite des crimes et délits.
+Le procureurgénéral est chargé de la recherche et de la poursuite des crimes et délits.
 
 Il procède, dans l'exercice de ses fonctions, en conformité des dispositions du Code d'instruction criminelle.
 
