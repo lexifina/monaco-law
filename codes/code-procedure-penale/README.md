@@ -1,11 +1,11 @@
 # Code de procédure pénale
 
-Version en vigueur au 12 décembre 2015.
+Version en vigueur au 23 juillet 2016.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2015.12.12/
+Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2016.07.23/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de procédure pénale |
-| Dernière modification | 12 décembre 2015 |
+| Dernière modification | 23 juillet 2016 |

@@ -12,4 +12,4 @@ En cas de classement de l'affaire, il notifie sa décision en mentionnant les mo
 
 Toute personne ayant dénoncé des faits au procureur général peut former un recours, dans le délai de deux mois à compter de la notification de la décision de classement sans suite prise à la suite de cette dénonciation, auprès du directeur des services judiciaires. Le directeur des services judiciaires peut enjoindre au procureur général d'engager des poursuites, par instructions écrites versées au dossier de la procédure. S'il estime le recours infondé, il en informe l'intéressé en y indiquant les motifs de fait ou de droit qui le justifient.
 
-Le plaignant peut alors se constituer partie civile conformément aux dispositions des articles 73 à 81.
+Le plaignant peut alors se constituer partie civile conformément aux dispositions des articles 73 à 81
