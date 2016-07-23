@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-447 du 15 juillet 2016 fixant la composition et le fonctionnement de la commission médicale instituée par l'article 38 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre Hospitalier Princesse Grace, modifiée
