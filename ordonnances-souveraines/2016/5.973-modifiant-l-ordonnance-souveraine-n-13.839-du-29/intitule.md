@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.973 du 15 juillet 2016 modifiant l'ordonnance souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre Hospitalier Princesse Grace, modifiée
