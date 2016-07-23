@@ -6,6 +6,6 @@ La dérogation est accordée pour une durée d'un an, renouvelable une fois, sur
 
 La demande motivée de dérogation doit être adressée au Directeur du Centre Hospitalier Princesse Grace par le Chef de Département ou le Chef de Service, au moins trois mois avant l'échéance de la fin d'activité.
 
-La dérogation ne peut être accordée qu'après délivrance par la Commission Médicale visée à l'article 38 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée, du certificat médical d'aptitude physique et mentale.
+La dérogation ne peut être accordée sans qu'un praticien de la médecine préventive du travail ait préalablement donné son avis, après examen médical, sur le respect des conditions prévues par le chiffre 4 du premier alinéa de l'article 5.
 
 Toute demande de renouvellement est instruite dans les mêmes formes que la demande initiale

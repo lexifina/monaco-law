@@ -1,6 +1,6 @@
 # Article 2
 
-Les praticiens hospitaliers assurent les actes médicaux de diagnostic, de traitement, de soins d'urgence dispensés au Centre hospitalier Princesse Grace.
+À l'exception des médecins coordonnateurs mentionnés au chiffre 3.1 de l'article 4, les praticiens hospitaliers assurent les actes médicaux de diagnostic, de traitement, de soins d'urgence dispensés au Centre Hospitalier Princesse Grace.
 
 Ils peuvent participer aux actions d'enseignement, de prévention et de recherche.
 
