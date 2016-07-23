@@ -1,9 +1,5 @@
 # Article 19
 
-Leur exercice donne lieu à l'établissement d'un contrat conclu avec le directeur de l'établissement fixant les conditions et les modalités de leur activité.
+Pour chaque vacation de 3 h 30 effectuée, les médecins attachés perçoivent une rémunération délibérée par le Conseil d'administration et approuvée par le Ministre d'État.
 
-Le contrat précise en outre les obligations du praticien attaché en matière de déontologie médicale et de responsabilité.
-
-Préalablement à sa conclusion, il doit être soumis à l'avis du conseil de l'Ordre ou du conseil du Collège dont relève l'intéressé.
-
-Les droits accordés par le contrat sont personnels et incessibles.
+L'évolution de cette rémunération est calquée sur l'augmentation de la valeur du point indiciaire en vigueur dans les établissements hospitaliers publics de la région économique voisine.

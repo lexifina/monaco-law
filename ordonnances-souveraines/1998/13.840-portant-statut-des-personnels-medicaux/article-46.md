@@ -1,7 +1,3 @@
 # Article 46
 
-La sanction est notifiée à l'intéressé par lettre recommandée avec demande d'avis de réception postal.
-
-Lorsque l'une des sanctions mentionnées aux chiffres 3°) et 4°) de l'article 43 est prononcée, la décision est également transmise au conseil de l'Ordre ou au conseil du Collège auquel il appartient.
-
-La rupture du contrat prévu à l'article 19 pour motif disciplinaire n'ouvre droit à aucune indemnité.
+L'interne en congé de maladie a droit au versement, pendant les trois premiers mois de ce congé, des deux tiers de la rémunération mentionnée à l'article 42, alinéas 1 et 2, du présent titre, et de la moitié de celle-ci pendant les six mois suivants.

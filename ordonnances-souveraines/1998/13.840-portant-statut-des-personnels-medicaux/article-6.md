@@ -1,13 +1,15 @@
 # Article 6
 
-Le contrat prévu à l'article 5 est conclu pour une durée maximale d'un an, renouvelable par avenant.
+L'exercice de leur activité donne lieu à l'établissement d'un contrat définissant en particulier le type de leur activité et les modalités de celle-ci.
 
-La demande de renouvellement est adressée par le praticien associé au directeur de l'établissement au plus tard trois mois avant le terme du contrat. L'avis favorable du chef de département ou du chef de service est joint à la demande.
+Ce contrat doit en outre prévoir la durée maximal de l'activité des praticiens associés exerçant en secteur privé, laquelle ne saurait être supérieure à trois demi-journées par semaine et, le cas échéant, la redevance appliquée au profit de l'établissement.
 
-La révision et le renouvellement du contrat sont soumis à l'avis de la commission médicale d'établissement et du conseil d'administration.
+Préalablement à sa conclusion, et après avis du Conseil de l'ordre des médecins, il doit être soumis au conseil d'administration.
 
-En cas de non-respect de ses engagements par le praticien, le directeur de l'établissement peut mettre fin au contrat de sa propre initiative, après avis de la commission médicale d'établissement et du conseil d'administration. Cette mesure est prise après mise en demeure du praticien associé intéressé.
+Ce contraire indique le mode de recouvrement des honoraires retenu par le praticien associé entre les deux possibilités suivantes :
 
-Il peut être immédiatement mis fin au contrat lorsque le praticien associé fait l'objet d'une sanction pénale, ou d'une sanction ordinale d'une durée égale ou supérieure à trois mois d'interdiction d'exercer.
+- la perception directe de leurs honoraires ; dans ce cas, les praticiens associés sont tenus de fournir à l'administration hospitalière les éléments nécessaires au calcul de la redevance qu'ils doivent acquitter : la redevance due fait l'objet d'un paiement mensuel à l'administration hospitalière ;
 
-En cas de non renouvellement du contrat par l'une ou l'autre des parties au contrat, le préavis est de quinze jours pour les contrats d'une durée inférieure à six mois et de deux mois pour les contrats d'une durée au plus égale à un an.
+- la perception des honoraires par l'établissement : dans l'hypothèse où l'établissement recouvre directement les honoraires, il les reverse mensuellement au praticien associé intéressé et prélève le montant de la redevance due à l'établissement.
+
+L'activité libérale du praticien associé doit être planifiée et figurer dans les tableaux de service de l'établissement.

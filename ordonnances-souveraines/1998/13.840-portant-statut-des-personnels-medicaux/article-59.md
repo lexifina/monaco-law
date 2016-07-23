@@ -1,5 +1,11 @@
 # Article 59
 
-L'interne bénéficie d'un congé de maternité d'une durée égale à celle prévue par la loi n° 870 du 17 juillet 1969 relative au travail des femmes salariées en cas de grossesse ou de maternité, modifiée.
+Après accord du directeur du Centre hospitalier Princesse Grace, l'interne peut être mis en disponibilité dans l'un des cas suivants :
 
-Pendant la durée de ce congé, la rémunération visée à l'article 42, alinéas 1 et 2, est garantie.
+- a) accident ou maladie grave du conjoint ou d'un enfant : la durée de l'interruption ne peut, en ce cas, sauf dérogation, excéder une année renouvelable une fois ;
+
+- b) études ou recherches présentant un intérêt général : la durée de l'interruption ne peut, en ce cas, excéder une année renouvelable une fois ;
+
+- c) stage de formation ou de perfectionnement en France ou à l'étranger : la durée de l'interruption ne peut, en ce cas, excéder une année renouvelable une fois ;
+
+- d) convenances personnelles, dans la limite d'un an renouvelable une fois.

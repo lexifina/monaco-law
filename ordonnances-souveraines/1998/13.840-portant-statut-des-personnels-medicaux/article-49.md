@@ -1,3 +1,5 @@
 # Article 49
 
-L'interne est un praticien en formation spécialisée. Il consacre la totalité de son temps à ses activités médicales ou pharmaceutiques et à sa formation.
+Si à l'issue de ce congé l'intéressé ne peut reprendre ses activités, il lui est accordé, sur sa demande, un congé sans rémunération de dix-huit mois au maximum.
+
+Si la commission visée à l'article 47, estime qu'à l'issue de ce dernier congé, l'interne ne peut reprendre ses activités, il est mis fin à celles-ci par décision du directeur du Centre hospitalier Princesse Grace.

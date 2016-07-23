@@ -1,3 +1,3 @@
 # Article 33
 
-Toute demande de démission d'un praticien attaché doit être assortie d'un préavis d'un mois.
+Les présentes dispositions s'appliquent aux Internes en médecine et en pharmacie qui accomplissent leur troisième cycle d'études médicales et qui effectuent une partie de leur formation au Centre hospitalier Princesse Grace.

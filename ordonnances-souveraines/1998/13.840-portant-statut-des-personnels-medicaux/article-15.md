@@ -1,5 +1,5 @@
 # Article 15
 
-Les praticiens attachés sont placés sous l'autorité du chef de service et exécutent les tâches que celui-ci leur confie.
+Le recrutement des médecins attachés est effectué par le directeur de l'établissement sur proposition du chef de service intéressé, après avis de la commission médicale d'établissement. Il intervient après avis du conseil d'administration, dans la limite du nombre de vacations attribuées au service en application des dispositions de l'article 13 ci-dessus, et du directeur de l'action sanitaire et sociale.
 
-L'exécution de leur activité personnelle donne lieu à l'établissement par leurs soins d'un relevé mensuel, intégré dans le système d'information hospitalier.
+La décision de recrutement de chaque médecin attaché précise le nombre de vacations qu'il peut effectuer par semaine.
