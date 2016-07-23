@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 13.841 du 29 décembre 1998 portant règlement relatif à l'activité des assistants au Centre hospitalier Princesse Grace
 
-Version en vigueur au 1er juillet 2001.
+Version en vigueur au 23 juillet 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/12-29-13.841@2001.07.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/12-29-13.841@2016.07.23/
 
 | | |
 | --- | --- |

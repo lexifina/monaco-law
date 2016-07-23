@@ -1,9 +1,13 @@
 # Article 3
 
-Aucun assistant spécialiste ou généraliste ne peut être admis à exercer ses fonctions :
+Nul ne peut être admis à exercer l'une des fonctions visées à l'article précédent :
 
-- s'il a été privé de ses droits civils ou politiques ;
+- 1) s'il a été privé de ses droits civils ou politiques ;
 
-- s'il n'est pas de bonne moralité ;
+- 2) s'il n'est pas de bonne moralité ;
 
-- s'il ne remplit pas les conditions d'aptitude physique nécessaires pour l'exercice de la fonction et s'il n'est pas reconnu soit indemne, soit définitivement guéri de toute affection tuberculeuse, cancéreuse, neuromusculaire, mentale, ou liée à l'immunodéficience acquise, le tout par une commission dont la composition est fixée par arrêté ministériel.
+- 3) s'il ne remplit pas les conditions d'aptitude physique exigées pour l'exercice de la fonction et s'il n'est pas reconnu indemne ou définitivement guéri de toute affection mentale cliniquement décelable.
+
+Une décision d'admission ou de refus d'admission ne peut être prise sans qu'un praticien de la médecine préventive du travail ait préalablement donné son avis, après examen médical, sur le respect des conditions prévues par le chiffre 3 du précédent alinéa.
+
+En cas de recours gracieux formé, dans les conditions prévues par l'article 15 de l'ordonnance souveraine n° 2.984 du 16 avril 1963 sur l'organisation et le fonctionnement du Tribunal Suprême, modifiée, contre cette décision au motif qu'elle méconnaîtrait les dispositions du chiffre 3 du premier alinéa, le directeur de l'établissement sollicite l'avis de la commission médicale supérieure instituée par l'article 5 de l'ordonnance souveraine n° 13.839 du 29 décembre1998, modifiée, susvisée.
