@@ -4,4 +4,4 @@ Le praticien victime d'un accident survenu dans l'exercice ou à l'occasion de l
 
 Il en est de même en cas de maladie contractée ou aggravée dans ces conditions.
 
-Il est alors soumis à la législation générale relative aux accidents du travail, toute décision le concernant étant prise sur la proposition de la commission médicale prévue à l'article 39.
+Il est alors soumis à la législation générale relative aux accidents du travail, toute décision le concernant étant prise sur la proposition de la commission médicale visée à l'article 39.

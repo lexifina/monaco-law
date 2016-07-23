@@ -4,7 +4,7 @@ Lorsqu'il est atteint d'une affection dûment constatée qui, inscrite sur une l
 
 Le praticien en congé de longue maladie perçoit son traitement pendant une période d'une année, le montant du traitement est réduit de moitié pendant les deux années suivantes.
 
-La décision est prise sur la proposition de la commission médicale mentionnée à l'article précédent.
+La décision est prise sur la proposition de la commission médicale visée à l'article 39.
 
 Le praticien qui a obtenu un congé de longue maladie ne peut bénéficier, en cas de rechute, d'un autre congé de même nature s'il n'a pas auparavant repris l'exercice de ses fonctions pendant au moins un an.
 
