@@ -11,3 +11,15 @@ Sont convenus des dispositions suivantes :
 En foi de quoi, les soussignés, dûment autorisés à cet effet, ont signé le présent Avenant.
 
 Fait à Bamako le trente août deux mille treize, en double exemplaire, en langue française.
+
+Pour le Gouvernement de la République du Mali,
+
+Le Ministre des Affaires Étrangères et de la Coopération Internationale,
+
+Tiéman Hubert Coulibaly
+
+Pour le Gouvernement de la Principauté de Monaco,
+
+Conseiller de Gouvernement pour les Relations Extérieures,
+
+José Badia
