@@ -1,0 +1,11 @@
+# Article 12
+
+1. Les redevances provenant d'un État contractant et payées à un résident de l'autre État contractant sont imposables dans cet autre État.
+
+2. Toutefois, ces redevances sont aussi imposables dans l'État contractant d'où elles proviennent mais dans ce cas l'impôt ainsi établi ne peut excéder 15 % du montant brut des redevances.
+
+3. Le terme « redevances » employé dans le présent article désigne les rémunérations de toute nature payées pour l'usage ou la concession de l'usage d'un droit d'auteur sur une œuvre littéraire, artistique ou scientifique, de films cinématographiques, ou les films ou bandes utilisés pour les émissions radiophoniques ou télévisées d'un brevet, un savoir-faire, d'une marque de fabrique ou de commerce, d'un dessin ou d'un modèle, d'un plan, d'une formule ou d'un procédé secret ainsi que pour l'usage ou la concession de l'usage d'un équipement industriel, commercial ou scientifique et pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.
+
+4. Les dispositions du paragraphe 1 ne s'appliquent pas lorsque le bénéficiaire effectif des redevances, résident d'un État contractant, exerce dans l'autre État contractant d'où proviennent les redevances, soit une activité industrielle ou commerciale par l'intermédiaire d'un établissement stable qui y est situé, soit une profession indépendante au moyen d'une base fixée qui y est située et que le droit ou le bien générateur des redevances s'y rattache effectivement. Dans ce cas, les dispositions de l'article 7 sont applicables.
+
+5. Lorsqu'en raison de relations spéciales existant entre le débiteur et le bénéficiaire effectif ou que l'un et l'autre, entretiennent avec de tierces personnes, le montant des redevances, compte tenu de la prestation pour laquelle elles sont payées, excède celui dont seraient convenus le débiteur et le bénéficiaire effectif en l'absence de pareilles relations, les dispositions du présent article ne s'appliquent qu'à ce dernier montant. Dans ce cas, la partie excédentaire des paiements reste imposable selon la législation de chaque État contractant et compte tenu des autres dispositions de la présente Convention.

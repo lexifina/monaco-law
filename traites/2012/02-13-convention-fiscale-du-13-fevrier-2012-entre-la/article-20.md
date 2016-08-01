@@ -1,0 +1,3 @@
+# Article 20
+
+Les rémunérations qu'une personne physique qui est, ou qui était immédiatement avant de se rendre dans un État contractant, un résident de l'autre État contractant et qui séjourne dans le premier État à seule fin d'y enseigner, d'y donner des conférences ou de s'y livrer à des recherches dans une université, un institut, une école ou un établissement d'enseignement ou de recherche reconnu par le Gouvernement de cet État, reçoit au titre de ces activités ne sont pas imposables dans cet État pendant une période totale n'excédant pas trois ans, à compter de la date de son arrivée dans cet État.

@@ -1,0 +1,11 @@
+# Article 10
+
+1. Les dividendes payés par une société qui est un résident d'un État contractant à un résident de l'autre État contractant sont imposables dans cet autre État.
+
+2. Toutefois ces dividendes sont aussi imposables dans l'État contractant dont la société qui paie les dividendes est un résident, mais dans ce cas l'impôt ainsi établi ne peut excéder 10 % du montant brut des dividendes.
+
+3. Le terme « dividendes » utilisé dans le présent article désigne les revenus provenant de parts ou actions, de parts ou actions de jouissance ou de droits à jouissance, de parts de mine, de parts de fondateur ou d'autres droits, à l'exception des créances de dettes, de participation aux bénéfices, ainsi que les revenus d'autres droits sociétaires soumis au même régime fiscal que les revenus de parts ou d'actions par la législation de l'État dont la société distributrice est un résident.
+
+4. Les dispositions du premier paragraphe ne s'appliquent pas si le bénéficiaire effectif des dividendes, résident d'un État contractant, exerce dans l'autre État contractant dont la société qui paie les dividendes est un résident, une activité par l'entremise d'un établissement stable qui y est situé, et si la participation génératrice des dividendes s'y rattache effectivement. Dans ce cas, les dispositions de l'article 7 sont applicables.
+
+5. Lorsqu'une société qui est un résident d'un État contractant, tire des bénéfices ou des revenus de l'autre État contractant, cet autre État ne peut percevoir aucun impôt sur les dividendes payés par la société, sauf dans la mesure où ces dividendes sont payés à un résident de cet autre État ou dans la mesure où la participation génératrice des dividendes se rattache effectivement à un établissement stable situé dans cet autre État, ni prélever aucun impôt, au titre de l'imposition des bénéfices non distribués, sur les bénéfices non distribués de la société, même si les dividendes payés ou les bénéfices non distribués consistent en tout ou en partie en bénéfices ou revenus provenant de cet autre État.
