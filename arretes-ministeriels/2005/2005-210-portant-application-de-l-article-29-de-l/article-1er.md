@@ -2,7 +2,7 @@
 
 L'attribution des prestations en espèces telle que prévue par l'article 29 de l'ordonnance souveraine n° 4.739 du 22 juin 1971 fixant le régime des prestations dues aux salariés, en vertu de l'ordonnance-loi n° 397 du 27 septembre 1944, en cas de maladie, accident, maternité, invalidité et décès, modifiée, est subordonnée aux conditions suivantes :
 
-1°) L'assuré est tenu d'adresser à l'organisme d'affiliation la prescription médicale d'arrêt de travail dans les 48 heures à compter du début de l'interruption de travail.
+1°) l'assuré est tenu d'adresser à l'Organisme d'affiliation, soit directement, soit par l'intermédiaire de son médecin-traitant, la prescription d'arrêt de travail dans les 48 heures à compter du début de l'interruption de travail.
 
 En cas de prolongation, la même formalité doit être observée dans les deux jours de l'échéance de la précédente interruption de travail.
 
