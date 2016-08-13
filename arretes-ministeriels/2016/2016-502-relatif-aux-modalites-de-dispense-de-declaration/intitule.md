@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-502 du 5 août 2016 relatif aux modalités de dispense de déclaration des traitements automatisés d'informations nominatives relatifs à la gestion des fichiers de paie des personnels
