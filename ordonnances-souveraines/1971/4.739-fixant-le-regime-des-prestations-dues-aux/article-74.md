@@ -1,6 +1,6 @@
 # Article 74
 
-À défaut d'initiative de la caisse le salarié peut demander lui-même le bénéfice des prestations prévues en cas d'invalidité.
+À défaut d'initiative de la Caisse le salarié peut demander lui-même, soit directement, soit par l'intermédiaire de son médecin-traitant, le bénéfice des prestations prévues en cas d'invalidité.
 
 Cette demande doit, sous peine d'irrecevabilité, être présentée dans les douze mois qui suivent, selon le cas, la date :
 
