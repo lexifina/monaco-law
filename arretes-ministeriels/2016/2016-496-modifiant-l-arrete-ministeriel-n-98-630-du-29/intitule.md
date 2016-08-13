@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-496 du 4 août 2016 modifiant l'arrêté ministériel n° 98-630 du 29 décembre 1998 relatif à l'organisation et à l'indemnisation des gardes et astreinte au Centre Hospitalier Princesse Grace, modifié
