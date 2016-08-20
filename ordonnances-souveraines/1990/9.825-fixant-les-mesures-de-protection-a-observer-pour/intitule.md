@@ -1,1 +1,1 @@
-Ordonnance souveraine n° 9.825 du 28 juin 1990 fixant les mesures de protection à observer pour éviter la propagation des maladies contagieuses et épidémiques dans les établissements d'enseignement, d'éducation et d'aide sociale à l'enfance
+Ordonnance souveraine n° 9.825 du 28 juin 1990 fixant les mesures de protection à observer pour éviter la propagation des maladies infectieuses dans les collectivités d'enfants
