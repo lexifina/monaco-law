@@ -56,6 +56,10 @@ Maladies infectieuses :
 
 - Dengue ;
 
+- Zika et autres arboviroses ;
+
+- Schistosomiase (bilharziose) urogénitale ;
+
 - Hépatite aiguë A ;
 
 - Rougeole.
