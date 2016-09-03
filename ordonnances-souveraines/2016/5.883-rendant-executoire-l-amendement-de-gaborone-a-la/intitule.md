@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 5.883 du 10 juin 2016 rendant exécutoire l'Amendement de Gaborone à la Convention de Washington sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction (CITES), adopté le 30 avril 1983
