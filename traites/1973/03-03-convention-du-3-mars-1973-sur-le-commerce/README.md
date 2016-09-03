@@ -1,8 +1,8 @@
 # Convention du 3 mars 1973 sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction (Convention de Washington - CITES)
 
-Version en vigueur au 12 juin 2013.
+Version en vigueur au 3 septembre 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/1973/03-03-tai1l000788@2013.06.12/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/1973/03-03-tai1l000788@2016.09.03/
 
 | | |
 | --- | --- |
