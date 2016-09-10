@@ -32,6 +32,8 @@ Les postes diplomatiques sont les suivants :
 
 - Ambassade en Pologne (République de Pologne) : en résidence à Berlin (République Fédérale d'Allemagne),
 
+- Ambassade au Portugal (République du Portugal) : Lisbonne,
+
 - Ambassade en Roumanie (République de Roumanie) : en résidence à Rome (Italie),
 
 - Ambassade au Royaume-Uni de Grande-Bretagne et d'Irlande du Nord : Londres,
