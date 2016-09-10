@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.008 du 28 juillet 2016 rendant exécutoire le Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques, adopté à Madrid le 27 juin 1989
