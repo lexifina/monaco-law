@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.009 du 28 juillet 2016 rendant exécutoire la Convention sur la protection internationale des adultes, conclue à La Haye le 13 janvier 2000 et entrée en vigueur le 1er janvier 2009
