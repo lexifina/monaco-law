@@ -60,7 +60,7 @@ Les postes consulaires sont les suivants :
 
 - Finlande : Helsinki ;
 
-- France : Bordeaux, Calais, Le Havre, Lyon, Marseille, Montpellier, Nice, Papeete, Strasbourg, Toulouse ;
+- France : Bordeaux, Lille, Lyon, Marseille, Nantes, Strasbourg, Toulouse ;
 
 - Gabon : Libreville ;
 
