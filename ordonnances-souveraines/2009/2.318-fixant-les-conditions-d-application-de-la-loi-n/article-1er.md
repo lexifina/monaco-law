@@ -6,7 +6,9 @@ Pour l'application de la présente ordonnance, on entend par :
 
 - 2°) «professionnel » : un organisme ou une personne morale ou physique relevant d'une des catégories énumérées aux articles 1 et 2 de la loi ;
 
-- 3°) «opération occasionnelle » : opération visée au second alinéa de l'article 3 de la loi ;
+- 3°) - a « opération occasionnelle » : une opération visée au second alinéa de l'article 3 de la loi et, plus généralement, toute opération qui s'adresse à un professionnel dans le but exclusif de préparer ou d'effectuer une opération ponctuelle ou d'être assisté dans la préparation ou la réalisation d'une telle opération, que celle-ci soit réalisée en une seule opération ou en plusieurs opérations apparaissant comme liées entre elles.
+
+- - b « client occasionnel » : toute personne physique ou morale ainsi que toute entité qui exécute une « opération occasionnelle » ;
 
 - 4°) «bénéficiaire économique effectif » : la ou les personnes physiques qui in fine possèdent ou contrôlent le client et/ou la personne physique pour laquelle une transaction est effectuée. Ceci comprend également les personnes physiques qui exercent en dernier ressort un contrôle effectif sur une personne morale ou une construction juridique ;
 
