@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-556 du 13 septembre 2016 relatif à la classification et aux règles de construction parasismique applicables aux bâtiments et portant abrogation de l'arrêté ministériel n° 2003-351 du 11 juin 2003
