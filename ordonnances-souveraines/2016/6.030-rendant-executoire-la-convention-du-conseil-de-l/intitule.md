@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.030 du 9 septembre 2016 rendant exécutoire la Convention du Conseil de l'Europe pour la prévention du terrorisme (STCE n° 196), ouverte à la signature à Varsovie le 16 mai 2005 et entrée en vigueur le 1er juin 2007
