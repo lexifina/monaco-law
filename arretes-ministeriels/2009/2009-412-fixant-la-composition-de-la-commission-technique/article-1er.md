@@ -10,7 +10,7 @@ La composition de la Commission Technique d'Hygiène, de Sécurité et de Protec
 
 - le Directeur du Travail ou son représentant ;
 
-- le Directeur de l'Action Sanitaire et Sociale ou son représentant ;
+- le Directeur de l'Action Sanitaire ou son représentant ;
 
 - le Directeur de la Sûreté Publique ou son représentant ;
 
