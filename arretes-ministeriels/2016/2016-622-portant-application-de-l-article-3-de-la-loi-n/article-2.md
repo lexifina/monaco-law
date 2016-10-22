@@ -1,0 +1,3 @@
+# Article 2
+
+L'arrêté ministériel n° 2016-573 du 16 septembre 2016 portant application de l'article 3 de la loi n° 1.430 du 13 juillet 2016 portant diverses mesures relatives à la préservation de la sécurité nationale est abrogé.
