@@ -20,7 +20,9 @@
 
 - Les membres monégasques des équipages des navires de commerce ou des bateaux de pêche battant pavillon français sont soumis à la législation française, quel que soit le lieu de leur résidence ;
 
-- g) Les travailleurs salariés ou assimilés travaillant à leur propre domicile sont soumis aux dispositions en vigueur au lieu de leur domicile, quel que soit le lieu du siège de l'établissement employeur
+- g) Les travailleurs salariés ou assimilés travaillant à leur propre domicile sont soumis aux dispositions en vigueur au lieu de leur domicile, quel que soit le lieu du siège de l'établissement employeur :
+
+- h) les travailleurs salariés ou assimilés aux salariés, résidant dans l'un des deux pays contractants, qui exercent, pour le compte exclusif d'un employeur dont le siège social ou le domicile est établi dans l'un des deux Etats, une activité en télétravail depuis le territoire de l'autre Etat, sont soumis à la législation de l'Etat où l'employeur a son siège social ou son domicile, à condition d'effectuer au moins un tiers de leur temps de travail hebdomadaire dans les locaux de l'employeur.
 
 § III. - Les ressortissants monégasques ou français autres que les travailleurs salariés ou assimilés sont soumis à la législation française concernant les prestations familiales s'ils exercent en France une activité professionnelle. Au cas où ils n'exercent aucune activité professionnelle, ils sont soumis à la législation des prestations familiales françaises s'ils ont en France leur résidence habituelle.
 
