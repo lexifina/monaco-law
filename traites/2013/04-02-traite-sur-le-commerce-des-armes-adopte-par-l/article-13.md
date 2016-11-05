@@ -1,0 +1,7 @@
+# Article 13
+
+1. Dans un délai d'un an à compter de l'entrée en vigueur du présent Traité à son égard, chaque État Partie adresse au secrétariat, conformément à l'article 22, un rapport initial sur les mesures prises pour mettre en œuvre le Traité, y compris les lois nationales, listes de contrôle nationales et autres règlements et mesures administratives internes adoptés. Chaque État Partie rend compte au secrétariat, selon qu'il convient, de toute nouvelle mesure prise pour mettre en œuvre le présent Traité. Les rapports sont mis à disposition, et distribués aux États Parties par le secrétariat.
+
+2. Les États Parties sont encouragés à rendre compte aux autres États Parties, par l'intermédiaire du secrétariat, des mesures prises qui se sont révélées efficaces pour lutter contre le détournement des armes classiques visées à l'article 2 (1) au moment de leur transfert.
+
+3. Chaque État Partie présente au secrétariat, au plus tard le 31 mai, un rapport annuel portant sur l'année civile précédente concernant les exportations et importations d'armes classiques visées par l'article 2 (1) autorisées ou effectuées. Les rapports sont mis à disposition, et distribués aux États Parties par le secrétariat. Le rapport présenté au secrétariat peut contenir les mêmes informations que celles communiquées par l'État Partie dans le cadre d'autres dispositifs pertinents des Nations Unies, y compris le Registre des Nations Unies sur les armes classiques. Toute information de nature commerciale sensible ou relevant de la sécurité nationale peut être exclue des rapports.

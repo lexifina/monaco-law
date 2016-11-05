@@ -1,0 +1,9 @@
+# Article 20
+
+1. Six ans après l'entrée en vigueur du présent Traité, tout État Partie pourra y proposer des amendements. À l'expiration de ce délai, les amendements proposés pourront uniquement être examinés par la Conférence des États Parties tous les trois ans.
+
+2. Toute proposition d'amendement au présent Traité est présentée par écrit au secrétariat, qui la diffuse à tous les États Parties, au moins cent quatre-vingts jours avant la prochaine réunion de la Conférence des États Parties à laquelle les amendements pourront être examinés conformément au paragraphe 1. L'amendement est examiné à la prochaine Conférence des États Parties à laquelle les amendements pourront être examinés conformément au paragraphe 1 si, au plus tard cent vingt jours après la distribution du texte par le secrétariat, la majorité des États Parties informe le secrétariat qu'ils sont favorables à l'examen de la proposition.
+
+3. Les États Parties font tout leur possible pour parvenir à un consensus sur chaque amendement. Si aucun accord n'est trouvé malgré les efforts déployés, l'amendement est, en dernier ressort, adopté par un vote majoritaire des trois-quarts des États Parties présents et votant à la Conférence des États Parties. Aux fins du présent article, les États Parties présents et votants sont ceux qui sont présents et qui votent pour ou contre. Le Dépositaire communique aux États Parties tout amendement ainsi adopté.
+
+4. Tout amendement adopté conformément au paragraphe 3 entre en vigueur pour chaque État Partie qui a déposé un instrument, d'acceptation de cet amendement quatre-vingt-dix jours après que la majorité des États qui étaient Parties au Traité au moment de l'adoption de l'amendement ont déposé leurs instruments auprès du Dépositaire. Par la suite, il entrera en vigueur pour tout autre État Partie quatre-vingt-dix jours après le dépôt de l'instrument d'acceptation de l'amendement.

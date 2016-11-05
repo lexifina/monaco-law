@@ -1,0 +1,13 @@
+# Article 11
+
+1. Chaque État Partie qui participe au transfert d'armes classiques visées à l'article 2 (1) prend des mesures pour prévenir leur détournement.
+
+2. En cas de transfert d'armes classiques visées à l'article 2 (1), l'État Partie exportateur s'emploie à prévenir le détournement desdites armes au moyen du régime de contrôle national qu'il aura institué en application de l'article 5 (2), en évaluant le risque de détournement des armes exportées et en envisageant l'adoption de mesures d'atténuation des risques, telles que des mesures de confiance ou des programmes élaborés et arrêtés d'un commun accord par les États exportateurs et importateurs. Au besoin, d'autres mesures de prévention, comme l'examen des parties participant à l'exportation, la demande de documents, certificats ou assurances supplémentaires, l'interdiction de l'exportation ou d'autres mesures appropriées, pourront être adoptées.
+
+3. Les États Parties d'importation, de transit, de transbordement et d'exportation coopèrent et échangent des informations, dans le respect de leur droit interne, si nécessaire et possible, afin de réduire le risque de détournement lors du transfert d'armes classiques visées à l'article 2 (1).
+
+4. L'État Partie qui détecte un détournement d'armes classiques visées à l'article 2 (1) au moment de leur transfert prend les mesures qui s'imposent, dans la mesure où son droit interne le lui permet et dans le respect du droit international, pour mettre fin à ce détournement. Ces mesures peuvent consister à alerter les États Parties potentiellement touchés, à inspecter les cargaisons d'armes classiques visées à l'article 2 (1) qui ont été détournées et à prendre des mesures de suivi par l'ouverture d'une enquête et la répression de l'infraction.
+
+5. Afin d'améliorer la compréhension et la prévention du détournement d'armes classiques visées à l'article 2 (1) au moment de leur transfert, les États Parties sont encouragés à s'échanger les informations pertinentes sur les moyens de lutter efficacement contre les détournements. Ces informations peuvent porter sur les activités illicites, comme la corruption, les circuits de trafic internationaux, le courtage illicite, les sources d'approvisionnement illicite, les méthodes de dissimulation et les lieux d'expédition habituels, ou les destinations utilisées par les groupes organisés se livrant aux détournements.
+
+6. Les États Parties sont encouragés à communiquer aux autres États Parties, par l'intermédiaire du secrétariat, les mesures qu'ils ont prises pour lutter contre le détournement d'armes classiques visées à l'article 2 (1).
