@@ -1,3 +1,3 @@
 # Article 3
 
-Sont membres de l'Organisation les gouvernements parties à la présente Convention.
+Sont États membres de l'Organisation les États Parties à cette Convention.

@@ -1,15 +1,39 @@
 # Article 6
 
-1. La Conférence se compose des représentants des gouvernements membres. Elle se réunit en session ordinaire tous les cinq ans. Elle peut être réunie en session extraordinaire à la requête d'un gouvernement membre ou du Bureau sous réserve de l'approbation de la majorité des gouvernements membres.
+(a) Un quart des États membres, mais pas moins de trente, siègent au Conseil, les deux premiers tiers sur la base d'une représentation régionale et le tiers restant sur la base des intérêts hydrographiques, qui sont définis dans le Règlement général.
 
-2. La Conférence est convoquée par le Bureau au moins six mois à l'avance. Un ordre du jour provisoire est annexé à la convocation.
+(b) Les principes qui régissent la composition du Conseil sont exposés dans le Règlement général.
 
-3. La Conférence élit son président et un vice-président.
+(c) Les membres du Conseil restent en fonction jusqu'à la clôture de la session ordinaire suivante de l'Assemblée.
 
-4. Chaque gouvernement membre dispose d'une voix. Toutefois dans les votes concernant les questions visées à l'article V (b), chaque gouvernement membre dispose d'un nombre de voix déterminé par un barème établi en fonction du tonnage de ses flottes.
+(d) Deux tiers des membres du Conseil constituent le quorum.
 
-5. Les décisions de la Conférence sont prises à la majorité simple des gouvernements membres qui y sont représentés, sauf lorsque la Convention prévoit d'autres dispositions à ce sujet. Lorsque les votes sont également partagés, le président a le pouvoir de prendre une décision. En cas de résolution à insérer dans le répertoire des résolutions techniques la majorité devra comprendre en tout état de cause les votes affirmatifs d'au moins un tiers des gouvernements membres.
+(e) Le Conseil se réunit au moins une fois par an.
 
-6. Dans l'intervalle des sessions de la Conférence, le Bureau peut consulter les gouvernements membres par correspondance sur des questions concernant le fonctionnement technique de l'Organisation. La procédure de vote sera conforme aux dispositions du paragraphe 5 du présent article, la majorité étant calculée, dans ce cas, sur la base de la totalité des membres de l'organisation.
+(f) Les États membres qui ne sont pas membres du Conseil peuvent participer aux délibérations de celui-ci, sans droit de vote.
 
-7. La Conférence constitue ses propres commissions, y compris la commission des finances mentionnée à l'article 7.
+(g) Le Conseil a pour attributions :
+
+- (i) d'élire son Président et son Vice-président, lesquels restent en fonction jusqu'à la clôture de la session ordinaire suivante de l'Assemblée ;
+
+- (ii) d'exercer les responsabilités qui peuvent lui être déléguées par l'Assemblée ;
+
+- (iii) de coordonner les activités de l'Organisation entre les sessions de l'Assemblée, dans le cadre de la stratégie, du programme de travail et des dispositions financières décidés par l'Assemblée ;
+
+- (iv) de faire rapport à l'Assemblée, à chaque session ordinaire, du travail accompli par l'Organisation ;
+
+- (v) de préparer, avec l'aide du Secrétaire général, les propositions relatives à la stratégie d'ensemble et au programme de travail qui sont adoptées par l'Assemblée ;
+
+- (vi) d'examiner les comptes et prévisions budgétaires préparés par le Secrétaire général et de les soumettre, pour approbation, à l'Assemblée, accompagnés de ses observations et recommandations quant à la ventilation des prévisions budgétaires ;
+
+- (vii) d'examiner les propositions qui lui sont soumises par les organes subsidiaires et :
+
+  - * de les soumettre à l'Assemblée pour toutes les questions nécessitant des décisions par l'Assemblée ;
+
+  - * de les renvoyer devant l'organe subsidiaire qui en est à l'origine, si le Conseil le juge nécessaire ;
+
+  - * ou de les adresser aux États membres pour adoption, par correspondance ;
+
+- (viii) de proposer à l'Assemblée la création d'organes subsidiaires ; et
+
+- (ix) d'examiner les projets d'accords entre l'Organisation et d'autres organisations puis de les soumettre à l'Assemblée, pour approbation.

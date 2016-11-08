@@ -1,19 +1,17 @@
 # Article 8
 
-Pour la réalisation des objectifs définis à l'article 2 le Bureau est notamment chargé :
+(a) Le Secrétariat comprend un Secrétaire général, des Directeurs ainsi que tout personnel dont l'Organisation peut avoir besoin.
 
-- a) d'assurer une liaison étroite et permanente entre les services hydrographiques nationaux ;
+(b) Le Secrétaire général est chargé de tenir à jour tous les enregistrements nécessaires à l'accomplissement des tâches de l'Organisation et de préparer, recueillir et distribuer tous renseignements demandés.
 
-- b) d'étudier toute question ayant trait à l'hydrographie ainsi qu'aux sciences et techniques qui s'y rapportent et de recueillir les documents nécessaires ;
+(c) Le Secrétaire général est le plus haut fonctionnaire de l'Organisation.
 
-- c) de favoriser l'échange de cartes et documents nautiques entre les services hydrographiques des gouvernements membres ;
+(d) Le Secrétaire général :
 
-- d) de diffuser toute documentation utile ;
+- (i) établit et soumet à la Commission des finances et au Conseil les comptes annuels ainsi qu'un budget triennal indiquant séparément les prévisions correspondant à chaque année ; et
 
-- e) de donner tous avis et conseils qui lui seront demandés, notamment aux pays dont les services hydrographiques sont en cours de création ou de développement ;
+- (ii) est chargé de tenir les États membres au courant de l'activité de l'Organisation.
 
-- f) d'encourager la coordination des levés hydrographiques avec les activités océanographiques qui s'y rapportent ;
+(e) Le Secrétaire général assume toutes les autres tâches qui peuvent lui être attribuées par la Convention, l'Assemblée ou le Conseil.
 
-- g) d'étendre et de faciliter l'application des connaissances océanographiques dans l'intérêt des navigateurs ;
-
-- h) de coopérer avec les organisations internationales et les institutions scientifiques qui ont des objectifs apparentés.
+(f) Dans l'accomplissement de leurs devoirs, le Secrétaire général, les Directeurs et le personnel ne sollicitent ou n'acceptent d'instructions d'aucun État membre ni d'aucune autorité extérieure à l'Organisation. Ils s'abstiennent de tout acte incompatible avec leur situation de fonctionnaires internationaux. Chaque État membre, pour sa part, s'engage à respecter le caractère purement international des fonctions du Secrétaire général, des Directeurs et du personnel et à ne pas chercher à les influencer dans l'exécution de leur tâche.

@@ -1,11 +1,17 @@
 # Article 2
 
-L'Organisation a un caractère consultatif et purement technique. Elle a pour but d'assurer :
+L'Organisation a un caractère consultatif et technique. Elle a pour but :
 
-- a) la coordination des activités des services hydrographiques nationaux ;
+(a) de promouvoir l'utilisation de l'hydrographie pour la sécurité de la navigation ainsi que pour toute autre activité maritime et d'accroître la prise de conscience générale de l'importance de l'hydrographie ;
 
-- b) la plus grande uniformité possible dans les cartes et documents nautiques ;
+(b) d'améliorer, au niveau mondial, la disponibilité et la qualité des données, informations, produits et services hydrographiques ainsi que de rendre leur accès plus facile ;
 
-- c) l'adoption de méthodes sûres et efficaces pour l'exécution et l'exploitation des levés hydrographiques ;
+(c) d'améliorer, au niveau mondial, les capacités, les moyens, la formation, les sciences et les techniques hydrographiques ;
 
-- d) le progrès des sciences relatives à l'hydrographie et des techniques utilisées pour les levés océanographiques.
+(d) d'organiser et d'améliorer le développement de normes internationales pour les données, informations, produits, services et techniques hydrographiques ainsi que de parvenir à la plus grande uniformité possible dans l'utilisation de ces normes ;
+
+(e) de donner des conseils faisant autorité, en temps opportun, aux États et organisations internationales, sur tout sujet ayant trait à l'hydrographie ;
+
+(f) de faciliter la coordination des activités hydrographiques des États membres ; et
+
+(g) d'accroître la coopération des activités hydrographiques entre les États, sur une base régionale.

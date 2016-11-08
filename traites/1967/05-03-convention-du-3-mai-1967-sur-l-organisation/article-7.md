@@ -1,5 +1,9 @@
 # Article 7
 
-1. Le contrôle de la gestion financière de l'Organisation est assuré par une Commission des finances où chaque gouvernement membre peut se faire représenter par un délégué.
+(a) La Commission des finances est ouverte à tous les États membres. Chaque État membre dispose d'une voix.
 
-2. La Commission se réunit à l'occasion des sessions de la Conférence. Elle peut être réunie en session extraordinaire.
+(b) La Commission des finances se réunit normalement conjointement avec chaque session ordinaire de l'Assemblée et peut, en outre, tenir d'autres réunions en tant que de besoin.
+
+(c) La Commission des finances a pour attributions d'examiner les comptes, prévisions budgétaires et rapports sur des questions administratives préparés par le Secrétaire général. Elle soumet à l'Assemblée observations et recommandations à leur sujet.
+
+(d) La Commission des finances élit son Président et son Vice-président.
