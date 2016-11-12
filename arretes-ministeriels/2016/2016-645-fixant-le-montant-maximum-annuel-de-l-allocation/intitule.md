@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-645 du 3 novembre 2016 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2015-2016
