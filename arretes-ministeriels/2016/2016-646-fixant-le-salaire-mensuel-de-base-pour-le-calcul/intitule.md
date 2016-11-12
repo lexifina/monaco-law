@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-646 du 3 novembre 2016 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2016-2017
