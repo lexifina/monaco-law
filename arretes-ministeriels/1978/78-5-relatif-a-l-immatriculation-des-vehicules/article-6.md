@@ -330,21 +330,19 @@ Pour les véhicules automobiles :
 
 Pour les motocycles et assimilés, y compris les cyclomoteurs :
 
-- les deux lettres VE suivies d'un groupe de deux chiffres,
+- les deux lettres VE suivies d'un groupe de deux chiffres, soit du n° VE01 au n° VE99,
 
-soit du n° VE01 au n° VE99,
+- ou un groupe de deux chiffres suivi des deux lettres VE, soit du n° 01VE au n° 99VE,
 
-- ou un groupe de deux chiffres suivi des deux lettres VE,
+- ou un groupe de deux chiffres suivi des deux lettres EV, soit du n° 01EV au n° 99EV,
 
-soit du n° 01VE au n° 99VE,
+- ou un groupe de deux chiffres suivi des deux lettres EE, soit du n° 01EE au n° 99EE,
 
-- ou un groupe de deux chiffres suivi des deux lettres EV,
+- ou un groupe de deux chiffres suivi de deux lettres EL, soit du n° 01EL au n° 99EL,
 
-soit du n° 01EV au n° 99EV,
+- ou un groupe de deux chiffres suivi de deux lettres EP, soit du n° 01EP au n° 99EP,
 
-- ou un groupe de deux chiffres suivi des deux lettres EE,
-
-soit du n° 01EE au n° 99 EE.
+- ou un groupe de deux chiffres suivi des deux lettres PE, soit du n° 01PE au n° 99PE.
 
 Véhicules appartenant aux agents consulaires honoraires accrédités auprès de S.A.S. le Prince Souverain :
 
