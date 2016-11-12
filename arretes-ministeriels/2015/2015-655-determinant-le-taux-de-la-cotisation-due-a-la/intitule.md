@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2015-655 du 29 octobre 2015 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2015-2016
