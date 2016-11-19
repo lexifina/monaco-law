@@ -8,4 +8,6 @@ Les délits de vol, d'escroquerie et d'abus de confiance seront considérés com
 
 Il en sera de même pour les délits prévus ou punis par les articles 362 à 365 inclus.
 
+Il en sera également ainsi pour les délits punis par les articles 389-1 à 389-16 inclus.
+
 Le recel sera considéré, au point de vue de la récidive, comme le délit qui a procuré la chose recelée.

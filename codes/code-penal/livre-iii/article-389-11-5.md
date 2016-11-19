@@ -1,0 +1,9 @@
+# Article 389-11-5
+
+Les données conservées et traitées dans les conditions définies aux articles 389-11-2 à 389-11-4 portent exclusivement sur l'identification des personnes bénéficiaires ou utilisatrices des services fournis par les opérateurs et les prestataires de services, sur les caractéristiques techniques des communications assurées par ces derniers et sur la localisation des équipements terminaux. Elles ne peuvent en aucun cas porter sur le contenu des correspondances échangées ou des informations consultées, sous quelque forme que ce soit, dans le cadre de ces communications. La conservation et le traitement de ces données s'effectuent dans le respect des dispositions de la loi n° 1.165 du 23 décembre 1993 relative à la protection des informations nominatives, modifiée.
+
+Les opérateurs et les prestataires de services prennent toutes mesures pour empêcher une utilisation de ces données à des fins autres que celles prévues au présent article.
+
+Le fait, pour les opérateurs ou les prestataires de services chargés de l'exploitation de réseaux et de services de télécommunications et de communications électroniques, ou un de leurs agents, de ne pas procéder aux opérations tendant à effacer ou à rendre anonymes les données relatives au trafic, dans les cas où ces opérations sont prescrites par la loi est puni d'un emprisonnement d'un an et de l'amende prévue au chiffre 3 de l'article 26.
+
+Le fait, pour les opérateurs et les prestataires de services chargés de l'exploitation des réseaux et des services de télécommunications et de communications électroniques, ou un de leurs agents, de ne pas conserver les données techniques dans les conditions où cette conservation est exigée par la loi, est puni d'un emprisonnement d'un an et de l'amende prévue au chiffre 3 de l'article 26.
