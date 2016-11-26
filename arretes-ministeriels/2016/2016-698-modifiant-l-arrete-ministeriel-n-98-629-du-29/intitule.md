@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-698 du 22 novembre 2016 modifiant l'arrêté ministériel n° 98-629 du 29 décembre 1998 réglementant les conditions de recrutement du personnel médical du Centre Hospitalier Princesse Grace, modifié
