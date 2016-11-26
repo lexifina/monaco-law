@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.128 du 21 novembre 2016 modifiant l'ordonnance souveraine n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement ou occasionnellement au Centre Hospitalier Princesse Grace, modifiée
