@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-693 du 21 novembre 2016 modifiant l'arrêté ministériel n° 98-631 du 29 décembre 1998 réglementant l'exercice d'une activité libérale au Centre Hospitalier Princesse Grace, modifié
