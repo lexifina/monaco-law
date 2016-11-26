@@ -1,9 +1,3 @@
 # Article 60
 
-Les sanctions disciplinaires applicables aux internes sont :
-
-- 1. l'avertissement,
-
-- 2. le blâme avec inscription au dossier,
-
-- 3. la révocation.
+Si à l'expiration du congé de maternité, l'intéressée ne peut reprendre ses fonctions en raison d'une maladie survenue au cours de ce congé, le point de départ du congé de maladie auquel elle a droit est la date de l'acte médical qui a constaté cette maladie.

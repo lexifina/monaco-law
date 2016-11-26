@@ -1,5 +1,11 @@
 # Article 13
 
-Le nombre total de vacations susceptibles d'être effectuées par les médecins attachés et nécessaires au fonctionnement des services hospitaliers, ainsi que leur répartition entre les services, est déterminé annuellement par le conseil d'administration, sur proposition du directeur de l'établissement, après avis de la commission médicale d'établissement et au vu des demandes du ou des chef(s) de service intéressé(s).
+Les praticiens associés cessent leur activité à l'âge de 65 ans.
 
-Le nombre total de vacations ainsi déterminé doit être compatible avec l'effectif des médecins attachés que le conseil d'administration définit annuellement, au vu des besoins de l'établissement.
+Par dérogation à l'alinéa précédent, un praticien associé peut, lorsque l'intérêt de l'établissement le justifie, être autorisé à prolonger son activité au-delà de la limite d'âge.
+
+La dérogation est accordée pour une durée d'un an, renouvelable une fois par avenant dans les mêmes formes que le recrutement.
+
+La demande motivée de dérogation est adressée au directeur de l'établissement par l'intéressé au moins six mois avant l'échéance de la fin de l'activité. L'avis favorable du chef de département ou du chef de service est joint à la demande.
+
+La dérogation ne peut être accordée sans qu'un praticien de la médecine préventive du travail ait préalablement donné son avis, après examen médical, sur l'aptitude physique de l'intéressé à poursuivre l'exercice de sa fonction et sur l'absence de toute affection mentale cliniquement décelable. En cas de recours gracieux formé, dans les conditions prévues par l'article 15 de l'ordonnance souveraine n° 2.984 du 16 avril 1963 sur l'organisation et le fonctionnement du Tribunal Suprême, modifiée, contre un refus de dérogation fondé sur l'aptitude physique ou mentale de l'intéressé, le directeur de l'établissement sollicite l'avis de la commission médicale supérieure instituée par l'article 5 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée.

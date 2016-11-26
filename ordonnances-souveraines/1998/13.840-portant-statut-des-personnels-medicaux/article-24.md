@@ -1,5 +1,5 @@
 # Article 24
 
-Les médecins attachés visés à l'article 20 ont droit à un congé de maternité d'une durée égale à celle prévue par la loi n° 870 du 17 juillet 1969 relative au travail des femmes salariées en cas de grossesse ou de maternité, modifiée.
+Les praticiens attachés perçoivent, après service fait, des émoluments mensuels variant selon la durée des obligations hebdomadaires de service hospitalier fixés sur la base du tarif en vigueur de la vacation délibéré par le conseil d'administration et approuvée par le Ministre d'État.
 
-Pendant cette période, ils perçoivent la totalité de la rémunération correspondant à leurs obligations de service.
+La revalorisation de ces émoluments est calquée sur l'augmentation de la valeur du point indiciaire en vigueur dans les établissements hospitaliers publics de la région économique voisine.

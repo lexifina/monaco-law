@@ -1,3 +1,7 @@
 # Article 54
 
-À l'issue d'une période de douze mois de congé, la commission précitée peut proposer la reprise de l'activité de l'intéressé, la prolongation du congé, avec maintien des deux tiers de la rémunération mentionnée à l'article 42, alinéas 1 et 2, pour une période qui ne peut excéder vingt-quatre mois, ou l'arrêt définitif de l'activité, par décision du directeur du Centre hospitalier Princesse Grace.
+L'interne ne peut être admis à exercer ses fonctions s'il ne remplit pas les conditions d'aptitude physique exigées pour l'exercice de la fonction et s'il n'est pas reconnu indemne ou définitivement guéri de toute affection mentale cliniquement décelable.
+
+Une décision d'admission ou de refus d'admission ne peut être prise sans qu'un praticien de la médecine préventive du travail ait préalablement donné son avis, après examen médical, sur le respect des conditions prévues au précédent alinéa.
+
+En cas de recours gracieux formé, dans les conditions prévues par l'article 15 de l'ordonnance souveraine n° 2.984 du 16 avril 1963, modifiée, susvisée, contre cette décision au motif qu'elle méconnaîtrait les dispositions du premier alinéa, le directeur de l'établissement sollicite l'avis de la commission médicale supérieure instituée par l'article 5 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée.

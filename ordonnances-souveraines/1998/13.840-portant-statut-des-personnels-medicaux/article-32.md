@@ -1,5 +1,5 @@
 # Article 32
 
-Lorsque l'intérêt du service l'exige, un attaché peut être suspendu de ses fonctions par décision du directeur de l'action sanitaire et sociale, sur proposition du directeur de l'établissement, pour une période maximum de trois mois.
+Après avis de la commission médicale instituée par l'article 38 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée, le directeur de l'établissement peut mettre fin aux fonctions d'un médecin attaché lorsque, en raison de son état de santé, il est inapte à exercer ses fonctions.
 
-Si l'intéressé ne fait pas ultérieurement l'objet d'une mesure d'exclusion de ses fonctions, il perçoit pour la période de suspension la rémunération correspondant à ses obligations normales de service.
+En cas de recours gracieux formé, dans les conditions prévues par l'article 15 de l'ordonnance souveraine n° 2.984 du 16 avril 1963, modifiée, susvisée, contre cette décision, le directeur sollicite l'avis de la commission médicale supérieure instituée par l'article 5 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée.

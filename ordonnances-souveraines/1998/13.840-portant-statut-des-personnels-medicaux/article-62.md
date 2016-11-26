@@ -1,11 +1,5 @@
 # Article 62
 
-Le conseil de discipline comprend cinq membres choisis dans les conditions ci-après :
+Un congé sans rémunération de douze mois au maximum peut être accordé par le directeur du Centre hospitalier Princesse Grace, sur sa demande, et après avis de la Commission médicale instituée par l'article 38 de l'ordonnance souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée à l'interne qui ne peut, à l'expiration d'un congé de maladie de neuf mois consécutifs, reprendre ses activités pour raison de santé.
 
-- le président du conseil d'administration ou son représentant, président ;
-
-- deux membres, dont un rapporteur, désignés par le président du conseil d'administration ;
-
-- deux membres, choisis par la commission médicale d'établissement.
-
-Le conseil de discipline est saisi soit par le directeur du centre hospitalier Princesse Grace, soit par le président du conseil d'administration dans les conditions définies à l'article 63.
+Si la commission médicale précitée estime qu'à l'issue de ce nouveau congé de douze mois l'intéressé ne peut reprendre ses activités, le directeur du Centre hospitalier Princesse Grace met fin à celles-ci.

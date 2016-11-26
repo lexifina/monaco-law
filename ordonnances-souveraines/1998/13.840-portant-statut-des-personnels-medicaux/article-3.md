@@ -1,5 +1,11 @@
 # Article 3
 
-Leur recrutement se fait sur proposition d'un chef de service et du directeur de l'établissement, après avis de la commission médicale d'établissement, du conseil d'administration et du Conseil de l'Ordre des médecins.
+Pour pouvoir être recruté en qualité de praticien associé, l'intéressé doit :
 
-Les praticiens associés doivent justifier d'un niveau de diplôme au moins égal à celui fixé par l'article 2 b de l'arrêté ministériel n° 98-629 du 29 décembre 1998 régissant les conditions de recrutement du personnel médical du Centre hospitalier Princesse Grace.
+- 1°) être titulaire des diplômes, certificats ou titres en médecine ou chirurgie dentaire permettant l'exercice sur le territoire français ou délivrés conformément aux obligations communautaires par un État membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
+
+- 2°) justifier d'une inscription au tableau de l'Ordre ou du Collège dont il relève ;
+
+- 3°) jouir de ses droits civils et politiques et offrir toutes les garanties de moralité ;
+
+- 4°) justifier par un certificat dûment établi par son médecin qu'il remplit les conditions d'aptitude physique exigées pour l'exercice de la fonction à laquelle il postule et qu'il est reconnu indemne ou définitivement guéri de toute affection mentale cliniquement décelable.

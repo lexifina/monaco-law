@@ -1,7 +1,9 @@
 # Article 2
 
-L'établissement peut faire appel ou recruter des praticiens associés possédant des titres, une compétence ou une expérience hospitalière reconnus dans leurs pays d'établissement, et nécessaires au fonctionnement du Centre hospitalier Princesse Grace.
+Les praticiens associés ne peuvent exercer qu'une activité libérale en secteur privé au bénéfice de leurs malades personnels. Dans le cadre de leur activité libérale, les praticiens associés sont autorisés à n'effectuer que des actes et des consultations à titre externe. Ils ont accès :
 
-Les praticiens habilités à exercer ponctuellement mais de façon régulière leur art au Centre hospitalier Princesse Grace ont la qualité de praticiens associés permanents. Les praticiens intervenant de façon épisodique ont la qualité de praticiens associés occasionnels.
+- 1°) aux lits d'hospitalisation ambulatoire ;
 
-Ces praticiens intervenant en secteur public peuvent, après avis du Conseil de l'Ordre des médecins, être autorisés à exercer en secteur libéral si leur statut d'origine le leur permet.
+- 2°) aux lits d'hospitalisation complète, sur décision du directeur de l'établissement, prise après accord du chef de département ou du chef de service, et avis de la commission médicale d'établissement et du conseil d'administration.
+
+Toutefois, au regard de la nécessité du service, motivée par le chef de département ou le chef de service, les praticiens associés peuvent intervenir en secteur public dans les conditions prévues à l'article 7.
