@@ -1,3 +1,0 @@
-# Article 6
-
-Dans tous les cas où la période propre du sol serait mesurée par une méthode expérimentale, il sera possible de remplacer les spectres normalisés annexés au présent arrêté, par des spectres spécifiques adaptés à la nature exacte du sol rencontré après que les dispositions de la méthode de mesure, la manière dont elles ont effectivement été réalisées, et l'interprétation des résultats correspondants aient bien été validées par un bureau de contrôle agréé en Principauté et que l'ensemble des dispositions dérogatoires ainsi proposé ait été approuvé par le Service compétent de l'État.
