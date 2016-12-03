@@ -6,6 +6,10 @@ Le personnel soignant et assimilé comprend :
 
 - les monitrices de l'École d'infirmières ;
 
+- le chef de la division de radiophysique et de radioprotection ;
+
+- les radiophysiciens ;
+
 - la Directrice de la crèche ;
 
 - les monitrices de jardins d'enfants ;
