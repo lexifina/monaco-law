@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 86-620 du 10 novembre 1986 portant établissement du règlement intérieur du centre hospitalier Princesse Grace
 
-Version en vigueur au 24 janvier 2015.
+Version en vigueur au 3 décembre 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1986/11-10-86-620@2015.01.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1986/11-10-86-620@2016.12.03/
 
 | | |
 | --- | --- |
