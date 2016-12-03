@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-711 du 29 novembre 2016 modifiant l'arrêté ministériel n° 84-276 du 3 mai 1984 relatif aux conditions d'accès aux emplois du personnel de service du Centre Hospitalier Princesse Grace
