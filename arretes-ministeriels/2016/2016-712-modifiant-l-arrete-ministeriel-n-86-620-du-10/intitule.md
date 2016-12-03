@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-712 du 29 novembre 2016 modifiant l'arrêté ministériel n° 86-620 du 10 novembre 1986 portant établissement du règlement intérieur du Centre Hospitalier Princesse Grace, modifié
