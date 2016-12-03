@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 5.095 du 14 février 1973 sur l'organisation et le fonctionnement du Centre hospitalier Princesse Grace
 
-Version en vigueur au 3 septembre 2011.
+Version en vigueur au 3 décembre 2016.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1973/02-14-5.095@2011.09.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1973/02-14-5.095@2016.12.03/
 
 | | |
 | --- | --- |
