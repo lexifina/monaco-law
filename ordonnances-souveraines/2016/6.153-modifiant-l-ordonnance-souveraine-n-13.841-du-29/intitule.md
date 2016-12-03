@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.153 du 23 novembre 2016 modifiant l'ordonnance souveraine n° 13.841 du 29 décembre 1998 portant règlement relatif à l'activité des assistants au Centre Hospitalier Princesse Grace, modifiée
