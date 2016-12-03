@@ -1,6 +1,6 @@
 # Article 3
 
-Nul ne peut être admis à exercer l'une des fonctions visées à l'article précédent :
+Aucun assistant ne peut être admis à exercer ses fonctions :
 
 - 1) s'il a été privé de ses droits civils ou politiques ;
 

@@ -2,7 +2,7 @@
 
 Les assistants perçoivent, après service fait :
 
-- 1. Des émoluments forfaitaires mensuels différents selon qu'ils exercent en qualité d'assistant généraliste ou spécialiste à temps plein ou à mi-temps.
+- 1. Des émoluments forfaitaires mensuels variant selon le temps d'activité des intéressés.
 
 - Ces émoluments sont déterminés par le conseil d'administration.
 
