@@ -1,11 +1,11 @@
 # Code de la mer
 
-Version en vigueur au 1er janvier 2016.
+Version en vigueur au 3 décembre 2016.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-mer@2016.01.01/
+Source : Legimonaco, https://legimonaco.mc/code/code-mer@2016.12.03/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de la mer |
-| Dernière modification | 1 janvier 2016 |
+| Dernière modification | 3 décembre 2016 |
