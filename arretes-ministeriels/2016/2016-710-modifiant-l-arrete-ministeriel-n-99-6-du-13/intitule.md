@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2016-710 du 29 novembre 2016 modifiant l'arrêté ministériel n° 99-6 du 13 janvier 1999 relatif à l'organisation et aux modalités générales de fonctionnement du Centre Hospitalier Princesse Grace
