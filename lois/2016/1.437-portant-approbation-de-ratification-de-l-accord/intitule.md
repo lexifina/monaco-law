@@ -1,0 +1,1 @@
+Loi n° 1.437 du 2 décembre 2016 portant approbation de ratification de l'Accord multilatéral entre les autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers
