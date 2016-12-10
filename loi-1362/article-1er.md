@@ -40,7 +40,9 @@ Sont soumis aux dispositions de la présente loi les organismes et les personnes
 
 - 14°) les commissionnaires du concessionnaire de prêts sur gage ;
 
-- 15°) les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux.
+- 15°) Les multi family offices ;
+
+- 16°) Les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux.
 
 Ne sont pas soumis aux dispositions de la présente loi les organismes et les personnes, exerçant une activité financière remplissant les conditions suivantes :
 
