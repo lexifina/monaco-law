@@ -10,7 +10,9 @@ Sans préjudice des dispositions légales en vigueur, les autorisations de const
 
 - 4° la société ne se livre pas à une activité conforme à ses statuts ;
 
-- 5° la société, sous quelque forme et à quelque titre que ce soit, a admis que soient exercées ou domiciliées dans ses locaux des activités non déclarées ou non autorisées, ou les a sciemment laissées s'exercer ou y être domiciliées.
+- 5° la société, sous quelque forme et à quelque titre que ce soit, a admis que soient exercées ou domiciliées dans ses locaux des activités non déclarées ou non autorisées, ou les a sciemment laissées s'exercer ou y être domiciliées ;
+
+- 6° dans l'exercice de son activité autorisée, la société a méconnu les dispositions législatives ou réglementaires qui lui sont applicables.
 
 Indépendamment de toute mesure de révocation, le Ministre d'État peut, par décision motivée, prescrire la fermeture des locaux de la société et la saisie, à titre provisoire, de documents ou du matériel d'exploitation.
 
