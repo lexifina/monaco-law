@@ -1,3 +1,3 @@
 # Article 77-3
 
-S'il ne l'a déjà, l'enfant légitimé prend le nom de son père.
+L'enfant légitimé garde le nom choisi ou dévolu en application des articles 77-2 à 77-2-2.
