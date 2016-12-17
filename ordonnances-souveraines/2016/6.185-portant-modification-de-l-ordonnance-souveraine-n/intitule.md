@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.185 du 12 décembre 2016 portant modification de l'ordonnance souveraine n° 765 du 13 novembre 2006 relative à l'organisation et au fonctionnement de la Direction de la Sûreté Publique, modifiée
