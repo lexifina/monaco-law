@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.206 du 16 décembre 2016 rendant exécutoire l'Accord multilatéral entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers
