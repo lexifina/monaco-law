@@ -1,0 +1,7 @@
+# Article 18
+
+1. L'Organe subsidiaire de conseil scientifique et technologique et l'Organe subsidiaire de mise en œuvre créés par les articles 9 et 10 de la Convention font office, respectivement, d'Organe subsidiaire de conseil scientifique et technologique et d'Organe subsidiaire de mise en œuvre du présent Accord. Les dispositions de la Convention relatives au fonctionnement de ces deux organes s'appliquent mutatis mutandis au présent Accord. Les réunions de l'Organe subsidiaire de conseil scientifique et technologique et de l'Organe subsidiaire de mise en œuvre du présent Accord coïncident avec celles de l'Organe subsidiaire de conseil scientifique et technologique et de l'Organe subsidiaire de mise en œuvre de la Convention.
+
+2. Les Parties à la Convention qui ne sont pas Parties au présent Accord peuvent participer en qualité d'observateurs aux travaux de toute session des organes subsidiaires. Lorsque les organes subsidiaires agissent en tant qu'organes subsidiaires du présent Accord, les décisions au titre dudit Accord sont prises uniquement par les Parties à la Convention qui sont Parties à l'Accord.
+
+3. Lorsque les organes subsidiaires créés par les articles 9 et 10 de la Convention exercent leurs fonctions dans un domaine qui relève du présent Accord, tout membre de leurs bureaux représentant une Partie à la Convention mais qui, à ce moment-là, n'est pas Partie au présent Accord, est remplacé par un nouveau membre élu par les Parties à l'Accord et parmi celles-ci.

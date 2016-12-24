@@ -1,0 +1,5 @@
+# Article 5
+
+1. Les Parties devraient prendre des mesures pour conserver et, le cas échéant, renforcer les puits et réservoirs de gaz à effet de serre comme le prévoit l'alinéa d) du paragraphe 1 de l'article 4 de la Convention, notamment les forêts.
+
+2. Les Parties sont invitées à prendre des mesures pour appliquer et étayer, notamment par des versements liés aux résultats, le cadre existant défini dans les directives et les décisions pertinentes déjà adoptées en vertu de la Convention pour : les démarches générales et les mesures d'incitation positive concernant les activités liées à la réduction des émissions résultant du déboisement et de la dégradation des forêts, et le rôle de la conservation, de la gestion durable des forêts et de l'accroissement des stocks de carbone forestiers dans les pays en développement ; et d'autres démarches générales, notamment des démarches conjointes en matière d'atténuation et d'adaptation pour la gestion intégrale et durable des forêts, tout en réaffirmant qu'il importe de promouvoir, selon qu'il convient, les avantages non liés au carbone associés à de telles démarches.

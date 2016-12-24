@@ -1,0 +1,7 @@
+# Article 20
+
+1. Le présent Accord est ouvert à la signature et soumis à la ratification, l'acceptation ou l'approbation des États et des organisations régionales d'intégration économique qui sont Parties à la Convention. Il sera ouvert à la signature au Siège de l'Organisation des Nations Unies à New York du 22 avril 2016 au 21 avril 2017 et sera ouvert à l'adhésion dès le lendemain du jour où il cessera d'être ouvert à la signature. Les instruments de ratification, d'acceptation, d'approbation ou d'adhésion sont déposés auprès du Dépositaire.
+
+2. Toute organisation régionale d'intégration économique qui devient Partie au présent Accord sans qu'aucun de ses États membres y soit Partie est liée par toutes les obligations découlant du présent Accord. Lorsqu'un ou plusieurs États membres d'une organisation régionale d'intégration économique sont Parties au présent Accord, cette organisation et ses États membres conviennent de leurs responsabilités respectives aux fins de l'exécution de leurs obligations au titre du présent Accord. En pareil cas, l'organisation et ses États membres ne sont pas habilités à exercer concurremment les droits découlant du présent Accord.
+
+3. Dans leurs instruments de ratification, d'acceptation, d'approbation ou d'adhésion, les organisations régionales d'intégration économique indiquent l'étendue de leur compétence à l'égard des questions régies par le présent Accord. En outre, ces organisations informent le Dépositaire, qui en informe à son tour les Parties, de toute modification importante de l'étendue de leur compétence.
