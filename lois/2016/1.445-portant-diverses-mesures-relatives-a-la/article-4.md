@@ -1,0 +1,3 @@
+# Article 4
+
+Est puni d'un emprisonnement de un à six mois et de l'amende prévue au chiffre 4 de l'article 26 du Code pénal ou de l'une de ces deux peines seulement, quiconque donne intentionnellement une auto-certification incorrecte à une institution financière au sens de la norme commune en matière de déclaration et de diligence raisonnable concernant les informations relatives aux comptes financiers, ou ne lui communique pas les changements de circonstances ou donne intentionnellement des indications fausses sur ces changements, en méconnaissance des dispositions applicables en matière d'échange automatique de renseignements relatifs aux comptes financiers.
