@@ -1,0 +1,5 @@
+Vu la loi n° 1.438 du 2 décembre 2016 portant approbation de ratification du Protocole de modification de l'accord entre la Principauté de Monaco et la Communauté Européenne prévoyant des mesures équivalentes à celles que porte la Directive 2003/48/CE du Conseil ;
+
+Nos instruments de ratification du Protocole de modification de l'accord entre la Principauté de Monaco et la Communauté Européenne prévoyant des mesures équivalentes à celles que porte la Directive 2003/48/CE du Conseil ayant été déposés le 9 décembre 2016 auprès du Secrétariat Général du Conseil de l'Union Européenne, ledit Protocole recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance. Il entrera en vigueur pour Monaco à compter du 1er février 2017 et, dans l'attente, sera appliqué à titre provisoire à partir du 1er janvier 2017.
+
+Notre Secrétaire d'État, Notre Directeur des Services Judiciaires et Notre Ministre d'État sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
