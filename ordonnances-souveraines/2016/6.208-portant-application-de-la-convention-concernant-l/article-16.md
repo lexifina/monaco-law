@@ -1,0 +1,3 @@
+# Article 16
+
+Conformément au chiffre 4 de l'article 2 du Protocole de modification de l'accord entre la Communauté Européenne et la Principauté de Monaco prévoyant des mesures équivalentes à celles que portent la Directive 2003/48/CE du Conseil, les obligations de la Principauté de Monaco et les obligations sous-jacentes des agents payeurs établis sur son territoire visées aux articles 8 et 9 de l'Accord entre la Communauté Européenne et la Principauté de Monaco prévoyant des mesures équivalentes à celles que portent la Directive 2003/48/CE du Conseil, rendu exécutoire par Notre ordonnance n° 100 du 20 juin 2005, continuent d'être appliquées jusqu'au 30 juin 2017 ou jusqu'à ce que ces obligations soient entièrement remplies.
