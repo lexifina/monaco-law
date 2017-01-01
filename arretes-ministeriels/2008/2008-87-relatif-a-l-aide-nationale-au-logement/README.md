@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2008-87 du 15 février 2008 relatif à l'Aide nationale au logement
 
-Version en vigueur au 1er janvier 2015.
+Version en vigueur au 1er janvier 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2008/02-15-2008-87@2015.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2008/02-15-2008-87@2017.01.01/
 
 | | |
 | --- | --- |
