@@ -2,7 +2,7 @@
 
 Pour l'application du 2ème alinéa de l'article 6 de la loi n° 1.235 du 28 décembre 2000, modifiée, susvisée, les personnes visées aux catégories 2, 3 et 4 de l'article 3 de ladite loi doivent attester que les ressources de leur foyer ne dépassent pas les montants fixés ainsi qu'il suit :
 
-Montant
+Montant |
 
 Personne seule | 66.400 euro(s)
 
