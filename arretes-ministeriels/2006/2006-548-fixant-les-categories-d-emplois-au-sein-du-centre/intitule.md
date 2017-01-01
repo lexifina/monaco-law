@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2006-548 du 3 novembre 2006 fixant les catégories d'emplois au sein du Centre Hospitalier Princesse Grace, en application de l'ordonnance souveraine n° 14.749 du 15 février 2001 portant création d'un Comité technique d'établissement
