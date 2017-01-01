@@ -12,7 +12,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
     - c) Les margarines et graisses végétales ;
 
-  - d) Le caviar ;
+    - d) Le caviar ;
 
   - 1° bis Les produits de protection hygiénique féminine ;
 
@@ -51,3 +51,5 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 - 3° Les livraisons d'œuvres d'art effectuées par leur auteur ou ses ayants droit.
 
 - J. - Les droits d'entrée perçus par les organisateurs de réunions sportives.
+
+- K. - Les autotests de détection de l'infection par les virus de l'immunodéficience humaine.

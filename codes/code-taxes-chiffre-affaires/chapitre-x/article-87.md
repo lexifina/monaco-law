@@ -10,9 +10,9 @@ I - Pour leurs livraisons de biens et leurs prestations de services, les assujet
 
 - 2° Et un chiffre d'affaires afférent à des prestations de services, hors ventes à consommer sur place et prestations d'hébergement, supérieur à :
 
-  - a) 32.900 € l'année civile précédente ;
+- a) 32.900 € l'année civile précédente ;
 
-  - b) Ou 34.900 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a).
+- b) Ou 34.900 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a).
 
 II - 1. Le I cesse de s'appliquer :
 

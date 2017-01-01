@@ -24,7 +24,7 @@ Le preneur est solidairement tenu au paiement du complément de taxe si les ment
 
   - 3° L'acquisition et la pose de matériaux d'isolation thermique des parois opaques ainsi que l'acquisition de matériaux de calorifugeage de tout ou partie d'une installation de production ou de distribution de chaleur ou d'eau chaude sanitaire ;
 
-- 4° L'acquisition d'appareils de régulation de chauffage ;
+  - 4° L'acquisition d'appareils de régulation de chauffage ;
 
 - b. Au coût des équipements de production d'énergie utilisant une source d'énergie renouvelable, à l'exception des équipements de production d'électricité utilisant l'énergie radiative du soleil, ou des pompes à chaleur, autres que air/air, dont la finalité essentielle est la production de chaleur ou d'eau chaude sanitaire, ainsi qu'au coût de la pose de l'échangeur de chaleur souterrain des pompes à chaleur géothermiques ;
 
