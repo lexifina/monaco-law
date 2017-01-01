@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.719 du 8 février 1943 majorant des pénalités
 
-Version en vigueur au 12 février 1943.
+Version en vigueur au 1er janvier 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1943/02-08-2.719@1943.02.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1943/02-08-2.719@2017.01.01/
 
 | | |
 | --- | --- |
