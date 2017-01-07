@@ -18,7 +18,7 @@ Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-
 
 Le croupier extrait les cartes du sabot et les dispose alternativement sur les emplacements marqués « punto » et « banco ».
 
-13.4 - En début de partie et en présence de la clientèle, les jeux sont comptés, vérifiés et mélangés par le croupier « tailleur » dans les conditions prévues au 1.2 de l'article premier de l'arrêté ministériel n° 88-384 du 26 juillet 1988.
+13.4 - En début de partie et en présence de la clientèle, les jeux sont comptés, vérifiés et mélangés par le croupier « tailleur » dans les conditions prévues au 1.2 de l'article premier de l' arrêté ministériel n° 88-384 du 26 juillet 1988.
 
 Le joueur placé à la gauche du croupier « tailleur » a le droit de couper ; en cas de refus, la coupe échoit au joueur assis à sa gauche ; dans la négative, la coupe sera faite par un employé.
 
@@ -96,8 +96,54 @@ Les gains de « punto » sont payés à égalité, les gains de « banco » sont
 
 Dans ce dernier cas, pour les enjeux sur « punto » et « banco », le coup est nul.
 
-13.7. - Pendant la durée des opérations de paiement, les cartes doivent demeurer sur la table de façon à laisser aux joueurs la possibilité de contrôler le point : elles sont ensuite introduites par le « tailleur » dans un réceptacle qui, sur les grandes tables, est dénommé « polochon », et doit être fermé par un couvercle entre deux introductions de cartes.
+13.7 - Pendant la durée des opérations de paiement, les cartes doivent demeurer sur la table de façon à laisser aux joueurs la possibilité de contrôler le point : elles sont ensuite introduites par le « tailleur » dans un réceptacle qui, sur les grandes tables, est dénommé « polochon », et doit être fermé par un couvercle entre deux introductions de cartes.
 
 Il est interdit d'extraire les cartes du sabot avant l'arrêt des jeux par le « tailleur ». Les cartes détachées ne peuvent, sous quelque prétexte que ce soit, être réintégrées dans le sabot : le croupier est tenu de donner le coup dès qu'il a détaché une seule carte.
 
 Tout faux tirage annule le coup dans la mesure où celui-ci ne peut être rétabli immédiatement.
+
+13.8 - Variante du jeu du Punto Banco dénommée Punto 2000 :
+
+Le Punto 2000 se joue selon les règles régissant le Punto Banco, édictées dans les paragraphes 1 à 7, à l'exception du paiement des mises gagnantes sur la chance « banco ».
+
+Les gains sur « banco » sont payés à égalité, sauf si « banco » gagne avec le point « 6 » pour lequel le paiement est alors d'une demi fois la mise.
+
+13.9 - Le pari « Dragon Bonus » :
+
+Le pari « Dragon Bonus » est un pari facultatif associé au jeu du Punto Banco et à ses variantes.
+
+Avant la distribution des cartes, le joueur a la possibilité d'engager une mise sur la chance « Dragon Bonus » en face, à son choix, des emplacements marqués « punto » ou « banco ».
+
+Le joueur peut miser sur la chance « Dragon Bonus » sans avoir engagé d'enjeu sur « punto », « banco » ou « égalité ».
+
+Le joueur a deux manières de gagner le « Dragon Bonus » :
+
+- sur une main gagnante dite « naturelle » (point de « 8 » ou « 9 » obtenu avec deux cartes) :
+
+● la mise « Dragon Bonus » est payée à égalité.
+
+Si la main « naturelle » fait « égalité », la mise « Dragon Bonus » est rendue au joueur.
+
+- sur une main gagnante « non naturelle » (point obtenu avec trois cartes) :
+
+● la mise « Dragon Bonus » est payée selon les cotes définies ci-dessous, à la condition que la main gagne avec un écart de quatre points minimum :
+
+Écart de points sur une main gagnante « non gagnante » | Cote de paiement de la mise « Dragon Bonus »
+
+9 points d'écart | 20 fois la mise
+
+8 points d'écart | 8 fois la mise
+
+7points d'écart | 7 fois la mise
+
+6 points d'écart | 4 fois la mise
+
+5 points d'écart | 3 fois la mise
+
+4 points d'écart | 1 fois la mise
+
+● Si la main du joueur est une main gagnante « non naturelle », avec un écart inférieur à quatre points, la mise « Dragon Bonus » est perdue.
+
+Si la main du joueur perd, la mise « Dragon Bonus » est perdue.
+
+Après la détermination de la chance gagnante, le croupier ramasse les mises perdantes et paie les mises gagnantes avant de procéder aux mêmes opérations sur les paris du « Dragon Bonus ».
