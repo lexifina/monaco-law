@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-4 du 12 janvier 2017 relatif à l'autorisation de sortie du territoire, pour un motif de voyage à l'étranger, d'un mineur non accompagné par un titulaire de l'autorité parentale
