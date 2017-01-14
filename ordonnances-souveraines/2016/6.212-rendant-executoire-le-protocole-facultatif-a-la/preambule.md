@@ -1,0 +1,3 @@
+Notre Instrument d'adhésion au Protocole facultatif à la Convention sur l'élimination de toutes les formes de discrimination à l'égard des femmes, adopté le 6 octobre 1999, ayant été déposé le 3 mai 2016 auprès de l'Organisation des Nations Unies, ledit Protocole facultatif est entré en vigueur pour Monaco à compter du 3 août 2016 et recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.
+
+Notre Secrétaire d'État, Notre Directeur des Services Judiciaires et Notre Ministre d'État sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
