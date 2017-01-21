@@ -1,8 +1,8 @@
 # Loi n° 1.109 du 16 décembre 1987 concernant la protection de la vie privée et familiale
 
-Version en vigueur au 26 décembre 1987.
+Version en vigueur au 21 janvier 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1987/12-16-1.109@1987.12.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1987/12-16-1.109@2017.01.21/
 
 | | |
 | --- | --- |
