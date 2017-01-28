@@ -4,7 +4,7 @@ Tout dépôt de dessin ou modèle doit faire l'objet d'une demande, établie sur
 
 - d'une part :
 
-  - a) Les nom, prénoms, profession et domicile du créateur. S'il s'agit d'une femme mariée, le nom du mari précédera son nom patronymique de la façon ci-après : Madame X..., épouse (veuve ou divorcée) Y... ;
+  - a) Les nom, prénoms, profession et domicile du créateur. S'il s'agit d'une femme mariée, le nom du mari précédera son nom de la façon ci-après : Madame X..., épouse (veuve ou divorcée) Y... ;
 
   - b) S'il s'agit d'une personne morale, la dénomination ou raison sociale, l'adresse du siège social de la société, et, s'il n'y a pas désignation d'un mandataire, la qualité de la personne signataire de la demande ;
 
