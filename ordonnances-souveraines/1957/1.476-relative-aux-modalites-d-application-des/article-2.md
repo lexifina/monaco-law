@@ -12,9 +12,9 @@ La demande de brevet d'invention, établie sur timbre, conformément aux disposi
 
   - le pays dans lequel il réside au moment du dépôt.
 
-- Le nom patronymique devra se distinguer nettement des autres indications ;
+- Le nom devra se distinguer nettement des autres indications ;
 
-- b) Si la demande est formulée par une femme mariée, le nom du mari précédera son nom patronymique, sous la forme Mme X... épouse (veuve ou divorcée) Y... ;
+- b) Si la demande est formulée par une femme mariée, le nom du mari précédera son nom, sous la forme Mme X... épouse (veuve ou divorcée) Y... ;
 
 - c) S'il y a plusieurs déposants, chacun d'eux devra observer les indications ci-dessus, mais la personne à laquelle doivent être envoyées les communications officielles devra être spécialement mentionnée ;
 
