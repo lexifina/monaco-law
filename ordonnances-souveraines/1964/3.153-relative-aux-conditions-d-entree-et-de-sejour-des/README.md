@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 3.153 du 19 mars 1964 relative aux conditions d'entrée et de séjour des étrangers dans la Principauté
 
-Version en vigueur au 17 juillet 2010.
+Version en vigueur au 28 janvier 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/03-19-3.153@2010.07.17/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/03-19-3.153@2017.01.28/
 
 | | |
 | --- | --- |
