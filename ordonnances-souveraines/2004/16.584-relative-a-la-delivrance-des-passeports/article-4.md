@@ -2,7 +2,7 @@
 
 Le passeport mentionne :
 
-- le nom patronymique, les prénoms dans l'ordre de l'état civil, la date et le lieu de naissance, le sexe et, si l'intéressé(e) le demande, le nom d'usage autorisé par la loi ;
+- le nom, les prénoms dans l'ordre de l'état civil, la date et le lieu de naissance, le sexe et, si l'intéressé(e) le demande, le nom d'usage autorisé par la loi ;
 
 - l'autorité de délivrance du document, sa date de délivrance ainsi que sa date limite de validité ;
 
