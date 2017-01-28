@@ -2,7 +2,7 @@
 
 La carte d'identité mentionne :
 
-- 1 - Le nom patronymique, le nom d'usage autorisé par la loi, les prénoms dans l'ordre de l'état civil, la date et le lieu de naissance de l'intéressé, le sexe ainsi que son domicile ;
+- 1 - Le nom, le nom d'usage autorisé par la loi, les prénoms dans l'ordre de l'état civil, la date et le lieu de naissance de l'intéressé, le sexe ainsi que son domicile ;
 
 - 2 - L'autorité de délivrance du document et la signature de l'autorité qui a délivré la carte ;
 
