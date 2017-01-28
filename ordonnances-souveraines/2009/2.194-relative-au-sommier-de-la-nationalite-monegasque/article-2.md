@@ -2,7 +2,7 @@
 
 L'inscription comporte les mentions suivantes :
 
-- le nom patronymique et les prénoms de chaque personne concernée ;
+- le nom et les prénoms de chaque personne concernée ;
 
 - sa date et son lieu de naissance ;
 
