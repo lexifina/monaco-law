@@ -2,19 +2,19 @@
 
 La carte spéciale énonce :
 
-a ) le nom patronymique ;
+a) le nom ;
 
-b ) les prénoms dans l'ordre de l'état-civil ;
+b) les prénoms dans l'ordre de l'état-civil ;
 
-c ) la date et le lieu de naissance ;
+c) la date et le lieu de naissance ;
 
-d ) la nationalité ;
+d) la nationalité ;
 
-e ) la fonction du titulaire ;
+e) la fonction du titulaire ;
 
-f ) la date de délivrance et le numéro d'ordre ;
+f) la date de délivrance et le numéro d'ordre ;
 
-g ) l'organisme employeur.
+g) l'organisme employeur.
 
 Elle comporte :
 

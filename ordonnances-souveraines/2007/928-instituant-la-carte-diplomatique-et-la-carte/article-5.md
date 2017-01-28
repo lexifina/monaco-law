@@ -2,7 +2,7 @@
 
 La carte diplomatique et la carte consulaire énoncent les mentions suivantes :
 
-a ) le nom patronymique ;
+a ) le nom ;
 
 b ) les prénoms dans l'ordre de l'état-civil ;
 
