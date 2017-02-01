@@ -1,15 +1,3 @@
 # Article 9
 
-1. La Principauté de Monaco prévoit une procédure permettant au bénéficiaire effectif tel que défini à l'article 2 d'éviter la retenue prévue à l'article 7 en autorisant expressément son agent payeur établi dans la Principauté de Monaco à communiquer les paiements d'intérêts à l'autorité compétente de la Principauté de Monaco. Cette autorisation couvre l'ensemble des paiements d'intérêts effectués en faveur du bénéficiaire effectif par cet agent payeur.
-
-2. L'information minimale à communiquer par l'agent payeur en cas d'autorisation expresse du bénéficiaire effectif comprendra les éléments suivants :
-
-- a) identité et résidence du bénéficiaire effectif, établies conformément à l'article 3 du présent accord ;
-
-- b) nom ou dénomination et adresse de l'agent payeur ;
-
-- c) numéro de compte du bénéficiaire effectif ou identification du titre de créance donnant lieu au paiement des intérêts ;
-
-- d) montant du paiement des intérêts, établi conformément à l'article 6 du présent accord.
-
-3. L'autorité compétente de la Principauté de Monaco communique les informations visées au paragraphe 2 à l'autorité compétente de l'État membre de la Communauté européenne de résidence du bénéficiaire effectif. Cette communication est fournie au moins une fois l'an, dans un délai de six mois à compter de la clôture de l'année fiscale dans la Principauté de Monaco, pour l'ensemble des paiements d'intérêts effectués au cours de l'année considérée.
+Chacune des Parties contractantes peut dénoncer le présent Accord moyennant un préavis écrit adressé à l'autre Partie contractante. Cette dénonciation prend effet le premier jour du mois suivant l'expiration d'une période de 12 mois après la date du préavis. En cas de dénonciation, toutes les informations déjà reçues au titre du présent Accord restent confidentielles et soumises, i) pour les États membres, aux dispositions des lois et règlements des États membres mettant en œuvre la directive 95/46/CE et ii) pour Monaco, aux dispositions de la loi n° 1.165, du 23 décembre 1993, relative à la protection des données à caractère personnel, telle que modifiée par la loi n° 1.240 du 2 juillet 2001 et par la loi n° 1.353 du 4 décembre 2008, entrée en vigueur le 1er avril 2009, y compris les conditions de mise en œuvre telles qu'elles figurent dans l'ordonnance souveraine n° 2.230 du 19 juin 2009 et, dans les deux cas, aux garanties spécifiques en matière de protection des données prévues dans le présent Accord, y compris l'Annexe III.

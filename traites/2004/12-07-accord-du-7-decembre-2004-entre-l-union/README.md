@@ -1,8 +1,8 @@
-# Accord du 7 décembre 2004 entre la Principauté de Monaco et la Communauté Européenne prévoyant des mesures équivalentes à celles que porte la directive 2003/48/CE du Conseil en matière de fiscalité des revenus de l'épargne sous forme des paiements d'intérêts
+# Accord du 7 décembre 2004 entre l'Union européenne et la Principauté de Monaco sur l'échange d'informations relatives aux comptes financiers en vue d'améliorer le respect des obligations fiscales à l'échelle internationale, en conformité avec la norme d'échange automatique de renseignements relatifs aux comptes financiers établie par l'Organisation de coopération et de développement économiques (OCDE)
 
-Version en vigueur au 14 juin 2014.
+Version en vigueur au 1er février 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tai/accord/2004/12-07-tai1l010126@2014.06.14/
+Source : Legimonaco, https://legimonaco.mc/tai/accord/2004/12-07-tai1l010126@2017.02.01/
 
 | | |
 | --- | --- |

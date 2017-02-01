@@ -1,11 +1,21 @@
 # Article 2
 
-1. Aux fins du présent accord, la notion de » bénéficiaire effectif « vise toute personne physique qui reçoit des paiements d'intérêts ou toute personne physique à laquelle un paiement d'intérêts est attribué, sauf dans le cas où cette personne apporte la preuve que ce paiement n'a pas été reçu ou attribué pour son bénéfice propre, à savoir qu'elle :
+1. En vertu des dispositions du présent article et sous réserve des règles applicables en matière de déclaration et de diligence raisonnable cohérentes avec les Annexes I et II, qui font partie intégrante du présent Accord, l'Autorité compétente de Monaco échange chaque année avec chacune des Autorités compétentes des États membres, et chacune des Autorités compétentes des États membres échange chaque année avec l'Autorité compétente de Monaco, de manière automatique, les informations obtenues conformément à ces règles et visées au paragraphe 2.
 
-- a) intervient en qualité d'agent payeur au sens de l'article 4 ;
+2. Les informations qui doivent être échangées, dans le cas d'un État membre concernant chaque Compte déclarable de Monaco, et dans le cas de Monaco concernant chaque Compte déclarable d'un État membre, sont les suivantes :
 
-- b) intervient au nom d'une personne morale, d'une entité assujettie aux dispositions de l'ordonnance souveraine n° 3.152 du 19 mars 1964 instituant un impôt sur les bénéfices, d'un organisme de placement collectif en valeurs mobilières (OPCVM), d'un organisme équivalent à un OPCVM qui soit établi sur le territoire de la Principauté de Monaco et chargé de réaliser des investissements en placement d'épargne ;
+a) le nom, l'adresse, le NIF et la date et le lieu de naissance (dans le cas d'une personne physique) de chaque Personne devant faire l'objet d'une déclaration qui est Titulaire de ce compte et, dans le cas d'une Entité qui est Titulaire de ce compte et pour laquelle, après application des procédures de diligence raisonnable cohérentes avec les Annexes I et II, il apparaît qu'une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l'objet d'une déclaration, le nom, l'adresse et le NIF de cette Entité et le nom, l'adresse et le NIF ainsi que la date et le lieu de naissance de chacune de ces Personnes devant faire l'objet d'une déclaration. Monaco ne dispose pas de NIF pour les Personnes de Monaco à la date de signature du Protocole de modification, soit le 12 juillet 2016 ;
 
-- c) intervient au nom d'une autre personne physique, qui est le bénéficiaire effectif, et communique à l'agent payeur l'identité et la résidence de ce bénéficiaire effectif conformément à l'article 3, paragraphe 2.
+b) le numéro de compte (ou son équivalent fonctionnel en l'absence de numéro de compte) ;
 
-2. Dans les cas où un agent payeur détient des informations indiquant qu'il est possible que la personne physique qui reçoit un paiement d'intérêts ou à laquelle un paiement d'intérêts est attribué n'en soit pas le bénéficiaire effectif, et dans les cas où ni le paragraphe l, point a) , ni le paragraphe 1, point b) ne s'appliquent à cette personne physique, cet agent payeur prend des mesures raisonnables afin de déterminer l'identité du bénéficiaire effectif conformément à l'article 3, paragraphe 2. Dans l'hypothèse où l'agent payeur n'est pas en mesure d'identifier le bénéficiaire effectif, il traitera la personne physique qui reçoit le paiement d'intérêts ou à laquelle le paiement d'intérêts est attribué comme si elle était le bénéficiaire effectif.
+c) le nom et le numéro d'identification (éventuel) de l'Institution financière déclarante ;
+
+d) le solde ou la valeur portée sur le compte (y compris, dans le cas d'un Contrat d'assurance avec valeur de rachat ou d'un Contrat de rente, la Valeur de rachat) à la fin de l'année civile considérée ou d'une autre période de référence adéquate ou, si le compte a été clos au cours de l'année ou de la période en question, la clôture du compte ;
+
+e) dans le cas d'un Compte conservateur :
+
+i) le montant brut total des intérêts, le montant brut total des dividendes et le montant brut total des autres revenus produits par les actifs détenus sur le compte, versés ou crédités sur le compte (ou au titre du compte) au cours de l'année civile ou d'une autre période de référence adéquate ; et
+
+ii) le produit brut total de la vente ou du rachat d'Actifs financiers versé ou crédité sur le compte au cours de l'année civile ou d'une autre période de référence adéquate au titre de laquelle l'Institution financière déclarante a agi en tant que dépositaire, courtier, « nominée » ou représentant du Titulaire du compte ;
+
+f) dans le cas d'un Compte de dépôt, le montant brut total des intérêts versés ou crédités sur le compte au cours de l'année civile ou d'une autre période de référence adéquate ; et g) dans le cas d'un compte qui n'est pas visé au paragraphe 2, point e) ou f), le montant brut total versé au Titulaire du compte ou porté à son crédit au titre de ce compte, au cours de l'année civile ou d'une autre période de référence adéquate, dont l'Institution financière déclarante est la débitrice, y compris le montant total de toutes les sommes remboursées au Titulaire du compte au cours de l'année civile ou d'une autre période de référence adéquate.

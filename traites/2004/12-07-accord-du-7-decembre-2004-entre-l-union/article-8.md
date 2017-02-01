@@ -1,7 +1,17 @@
 # Article 8
 
-1. La Principauté de Monaco conserve 25 % des recettes générées au titre de la retenue à la source prélevée dans les conditions prévues à l'article 7 et transfère 75 % de ces recettes à l'État membre de la Communauté européenne où le bénéficiaire effectif des intérêts a sa résidence aux termes de l'article 3, paragraphe 2, point b) .
+1. Les Parties contractantes se consultent chaque fois qu'un changement important est apporté par l'OCDE à des éléments de la norme d'échange automatique de renseignements relatifs aux comptes financiers (ci-après dénommée « norme mondiale ») établie par l'OCDE ou, si elles le jugent nécessaire, afin d'améliorer le fonctionnement technique du présent Accord ou d'évaluer et de refléter d'autres évolutions sur le plan international. Les consultations ont lieu dans un délai d'un mois à compter de la demande de l'une des Parties contractantes ou dès que possible dans les cas urgents.
 
-2. Ces transferts ont lieu pour chaque exercice en une seule opération par État membre de la Communauté européenne au plus tard dans les six mois après la fin de l'année fiscale de la Principauté de Monaco.
+2. Sur la base d'un tel contact, les Parties contractantes peuvent se consulter afin d'examiner s'il est nécessaire de modifier le présent Accord.
 
-3. La Principauté de Monaco prend les mesures nécessaires afin d'assurer le bon fonctionnement du système de partage des recettes. À cet effet, la Principauté de Monaco opère le transfert des recettes au bénéfice de l'État membre concerné auprès de l'autorité compétente désignée dans l'annexe I du présent accord.
+3. Aux fins des consultations visées aux paragraphes 1 et 2, chaque Partie contractante informe l'autre des développements éventuels susceptibles d'affecter le bon fonctionnement du présent Accord. Cela comprend également tout accord pertinent éventuel entre l'une des Parties contractantes et un État tiers.
+
+4. À la suite des consultations, le présent Accord peut être modifié par un protocole ou un nouvel accord entre les Parties contractantes.
+
+5. Lorsqu'une Partie contractante a mis en œuvre une modification apportée par l'OCDE à la norme mondiale et souhaite apporter un changement correspondant aux Annexes I et/ou II du présent Accord, elle en informe l'autre Partie contractante. Une procédure de consultation entre les Parties contractantes a lieu dans un délai d'un mois à compter de cette notification. Sans préjudice du paragraphe 4, dans le cas où les Parties contractantes se mettent d'accord, dans le cadre de cette procédure de consultation, sur le changement qu'il convient d'apporter aux Annexes I et/ou II du présent Accord, et pendant le délai nécessaire à la mise en œuvre de ce changement par voie d'une modification formelle du présent Accord, la Partie contractante qui a demandé le changement peut appliquer provisoirement la version révisée des Annexes I et/ou II du présent Accord, telle qu'approuvée dans le cadre de la procédure de consultation, à compter du premier jour de janvier de l'année qui suit l'année de la conclusion de ladite procédure.
+
+Une Partie contractante est réputée avoir mis en œuvre une modification apportée par l'OCDE à la norme mondiale, si :
+
+a) en ce qui concerne les États membres, ladite modification a été incorporée à la directive 2011/16/UE du Conseil relative à la coopération administrative dans le domaine fiscal ;
+
+b) en ce qui concerne Monaco, ladite modification a été incorporée à un accord passé avec un État tiers ou dans sa législation nationale.
