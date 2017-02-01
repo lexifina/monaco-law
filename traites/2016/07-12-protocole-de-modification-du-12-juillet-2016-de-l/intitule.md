@@ -1,0 +1,1 @@
+Protocole de modification du 12 juillet 2016 de l'accord entre la Communauté Européenne et la Principauté de Monaco prévoyant des mesures équivalentes à celles que porte la Directive 2003/48/CE du Conseil
