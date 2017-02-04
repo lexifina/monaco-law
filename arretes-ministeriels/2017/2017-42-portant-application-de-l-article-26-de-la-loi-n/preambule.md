@@ -1,0 +1,21 @@
+Vu la Constitution ;
+
+Vu la loi n° 975 du 12 juillet 1975 portant statut des fonctionnaires de État, modifiée ;
+
+Vu la loi n° 1.165 du 23 décembre 1993 relative à la protection des informations nominatives, modifiée ;
+
+Vu la loi n° 1.383 du 2 août 2011 sur l'économie numérique ;
+
+Vu la loi n° 1.430 du 13 juillet 2016 portant diverses mesures relatives à la préservation de la sécurité nationale ;
+
+Vu la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique ;
+
+Vu l'Ordonnance Souveraine n° 6.365 du 17 août 1978 fixant les conditions d'application de la loi n° 975 du 12 juillet 1975, modifiée, susvisée ;
+
+Vu l'Ordonnance Souveraine n° 16.605 du 10 janvier 2005 portant organisation des Départements ministériels, modifiée ;
+
+Vu l'Ordonnance Souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré ;
+
+Vu l'Ordonnance Souveraine n° 5.664 du 23 décembre 2015 créant l'Agence Monégasque de Sécurité Numérique ;
+
+Vu la délibération du Conseil de Gouvernement en date du 11 janvier 2017 ;
