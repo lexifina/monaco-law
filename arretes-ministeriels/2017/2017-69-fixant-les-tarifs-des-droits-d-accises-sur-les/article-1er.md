@@ -1,0 +1,3 @@
+# Article 1er
+
+Les tarifs des droits d'accises sur les alcools et les boissons alcooliques prévus par l'Ordonnance Souveraine n° 2.666 du 14 août 1942, modifiée, susvisée, de la taxe sur certaines boissons alcooliques créée par l'Ordonnance Souveraine n° 7.659 du 6 avril 1983, modifiée, susvisée, de la taxe perçue sur certaines boissons contenant des sucres ajoutés créée par l'Ordonnance Souveraine n° 3.652 du 30 janvier 2012, modifiée, susvisée, et de la taxe perçue sur certaines boissons contenant des édulcorants de synthèse créée par l'Ordonnance Souveraine n° 3.653 du 30 janvier 2012, susvisée, fixés, pour l'année 2016, par l'arrêté ministériel n° 2016-78 du 3 février 2016, susvisé, sont inchangés pour l'année 2017.
