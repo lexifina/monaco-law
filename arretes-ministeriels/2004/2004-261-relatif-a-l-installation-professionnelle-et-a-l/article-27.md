@@ -1,9 +1,11 @@
 # Article 27
 
-À l'appui des demandes de bonification, doivent être fournis les pièces ou documents suivants :
+À l'appui des demandes de bonification, doivent être fournies les pièces ou documents suivants :
 
-- le plan de financement de l'investissement considéré ;
+- - le plan de financement de l'investissement considéré,
 
-- le contrat de prêt de l'organisme financier ;
+- - le contrat de prêt de l'organisme financier,
 
-- le tableau d'amortissement du prêt.
+- - le tableau d'amortissement du prêt,
+
+- - le code IBAN de l'entreprise.
