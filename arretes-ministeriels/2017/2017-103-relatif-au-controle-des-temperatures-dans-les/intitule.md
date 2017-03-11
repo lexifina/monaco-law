@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-103 du 1er mars 2017 relatif au contrôle des températures dans les moyens de transport et les locaux d'entreposage et de stockage des aliments surgelés destinés à l'alimentation humaine
