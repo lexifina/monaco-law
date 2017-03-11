@@ -18,6 +18,6 @@ Cette Direction est chargée :
 
 8) de mener toutes études prospectives s'inscrivant dans son champ de compétence dans le but d'améliorer le cadre de vie et la mobilité et d'élaborer les bases techniques d'une communication dans les domaines ainsi définis ;
 
-9) de recueillir et de gérer l'ensemble des données topographiques et cadastrales de la Principauté, de délivrer les numéros de voirie et les extraits de la matrice cadastrale, de proposer et de mettre en œuvre une modernisation du cadastre ;
+9) de recueillir et de gérer l'ensemble des données topographiques, foncières et immobilières de la Principauté ;
 
 10) de toutes autres missions qui viendraient à lui être confiées par la voie législative ou réglementaire
