@@ -10,14 +10,16 @@ Lorsque la taxe exigible annuellement est inférieure à 4 000 € les redevable
 
 4. Dans la déclaration prévue au 1, doivent notamment être identifiés :
 
-- a) d'une part, le montant total hors taxe sur la valeur ajoutée, des livraisons de biens exonérées en vertu du I de l'article 31, des livraisons de biens installés ou montés sur le territoire d'un État membre de la Communauté économique européenne autre que la France et des livraisons dont le lieu n'est pas situé à Monaco ou en France et des livraisons dont le lieu est situé à Monaco ou en France en application des dispositions de l'article 7 ;
+- a) le montant total hors taxe sur la valeur ajoutée, des livraisons de biens exonérées en vertu du I de l'article 31, des livraisons de biens installés ou montés sur le territoire d'un État membre de l'Union européenne autre que la France et des livraisons dont le lieu n'est pas situé à Monaco ou en France et des livraisons dont le lieu est situé à Monaco ou en France en application des dispositions de l'article 7 ;
 
-- b) d'autre part, le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 2 et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un État membre de la Communauté économique européenne autre que la France et installés ou montés à Monaco ou en France, et des livraisons de biens dont le lieu est situé à Monaco ou en France en application des dispositions de l'article 8 et des livraisons de biens effectuées à Monaco ou en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 4 de l'article 62.
+- b) le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 2 et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un État membre de l'Union européenne autre que la France et installés ou montés à Monaco ou en France, et des livraisons de biens dont le lieu est situé à Monaco ou en France en application des dispositions de l'article 8 et des livraisons de biens effectuées à Monaco ou en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 4 de l'article 62.
 
 - b bis) le montant hors taxes des opérations mentionnées au 4 ter de l'article 62 réalisées ou acquises par l'assujetti ;
 
 - b ter) le montant total, hors taxe sur la valeur ajoutée, des services pour lesquels le preneur est redevable de la taxe en application, d'une part, du second alinéa du 1, d'autre part et distinctement, du 2 de l'article 62 ;
 
-- c) enfin, le montant hors taxes des transmissions mentionnées à l'article 5 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.
+- b quater) Le montant total, hors taxe sur la valeur ajoutée, des importations mentionnées à l'article 81 pour lesquelles le redevable bénéficie de l'autorisation prévue au II de l'article 104 ;
+
+- c) le montant hors taxes des transmissions mentionnées à l'article 5 bis, dont a bénéficié l'assujetti ou qu'il a réalisées.
 
 5. Le redevable exerçant des activités de nature différente remet à la Recette des taxes une déclaration particulière pour chaque activité.

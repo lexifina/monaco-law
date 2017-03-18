@@ -1,12 +1,12 @@
 # Article 65
 
-1. Les éditeurs, sociétés de perception et de répartition de droits et les producteurs qui versent des droits mentionnés au III de l'article 87 doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3, retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
+1. Les éditeurs, organismes de gestion collective de droits et les producteurs qui versent des droits mentionnés au III de l'article 87 doivent, sauf lorsque l'auteur a renoncé à ce dispositif en application du 3, retenir sur le montant de ces droits la taxe sur la valeur ajoutée due par l'auteur et acquitter cette taxe au Trésor.
 
 2. À défaut d'indication contraire de l'auteur formulée dans les conditions prévues au 3, les sommes qui lui sont dues par des personnes mentionnées au 1 sont réputées passibles de la retenue de taxe sur la valeur ajoutée, y compris en ce qui concerne les auteurs qui bénéficient de la franchise mentionnée au III de l'article 87.
 
 3. La renonciation par l'auteur au dispositif de retenue vaut pour l'ensemble des droits qu'il perçoit.
 
-Cette renonciation doit être notifiée à toutes les personnes visées au 1 qui versent des droits à l'auteur ainsi qu'à la direction des services fiscaux.
+Cette renonciation doit être notifiée à toutes les personnes visées au 1 qui versent des droits à l'auteur ainsi qu'à la direction des Services fiscaux.
 
 Elle prend effet le premier jour du mois qui suit celui au cours duquel elle est déclarée.
 

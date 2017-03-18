@@ -4,4 +4,4 @@ Les assujettis revendeurs peuvent demander à appliquer les dispositions de l'ar
 
 L'option est valable à compter du premier jour du mois suivant celui de la demande et jusqu'à la fin de la deuxième année civile suivante.
 
-Elle est renouvelable par tacite reconduction, par période de deux années civiles, sauf dénonciation formulée au moins deux mois avant l'expiration de chaque période.
+Elle est renouvelable par tacite reconduction, par période de deux années civiles, sauf dénonciation formulée avant l'expiration de chaque période.

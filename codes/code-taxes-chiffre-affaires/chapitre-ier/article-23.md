@@ -4,7 +4,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 1 - Affaires ou opérations soumises à un autre impôt :
 
-  - les opérations assujetties en France à l'impôt sur les opérations de bourse de commerce, à l'exclusion de celles qui déterminent l'arrêt de la filière ;
+  - les opérations à terme sur marchandises réalisées sur un marché réglementé à l'exclusion de celles qui déterminent l'arrêt de la filière ;
 
 - 2 - Pêche :
 
@@ -72,11 +72,11 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
   - b) les opérations faites au bénéfice de toutes personnes par des œuvres sans but lucratif qui présentent un caractère social ou philanthropique et dont la gestion est désintéressée, lorsque les prix pratiqués ont été homologués par l'autorité publique ou que des opérations analogues ne sont pas couramment réalisées à des prix comparables par des entreprises commerciales, en raison notamment du concours désintéressé des membres de ces organismes ou des contributions publiques ou privées dont ils bénéficient ;
 
-  - Les associations constituées conformément à la loi n° 1.072 du 27 juin 1984 et les fondations régies par la loi n° 56 du 29 janvier 1922 dont la gestion est désintéressée et dont les activités non lucratives restent significativement prépondérantes sont également exonérées pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 60 000 €.
+  - Les associations constituées conformément à la loi n° 1.072 du 27 juin 1984 et les fondations régies par la loi n° 56 du 29 janvier 1922 dont la gestion est désintéressée et dont les activités non lucratives restent significativement prépondérantes sont également exonérées pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 61.145 €.
 
-  - Les opérations mentionnées au I de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 60 000 €.
+  - Les opérations mentionnées au I de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 61.145 €.
 
-  - Lorsque la limite de 60 000 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
+  - Lorsque la limite de 61.145 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
 
   - Les limites mentionnées aux deuxième à avant-dernier alinéas du présent b sont actualisées par arrêté ministériel ;
 

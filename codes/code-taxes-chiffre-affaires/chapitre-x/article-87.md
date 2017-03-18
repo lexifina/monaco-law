@@ -4,15 +4,15 @@ I - Pour leurs livraisons de biens et leurs prestations de services, les assujet
 
 - 1° Un chiffre d'affaires supérieur à :
 
-  - a) 82 200 € l'année civile précédente ;
+  - a) 82.800 € l'année civile précédente ;
 
-  - b) Ou 90 300 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a) ;
+  - b) Ou 90.900 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a) ;
 
 - 2° Et un chiffre d'affaires afférent à des prestations de services, hors ventes à consommer sur place et prestations d'hébergement, supérieur à :
 
-- a) 32.900 € l'année civile précédente ;
+  - a) 33.100 € l'année civile précédente ;
 
-- b) Ou 34.900 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a).
+  - b) Ou 35.100 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a).
 
 II - 1. Le I cesse de s'appliquer :
 
@@ -22,7 +22,7 @@ II - 1. Le I cesse de s'appliquer :
 
 2. Les assujettis visés au 1 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
-III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42 600 € :
+III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 42.900 € :
 
 - 1. Pour la livraison de leurs œuvres désignées à l'article 2 de l'ordonnance souveraine du 27 février 1989 sur la propriété littéraire et artistique et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'œuvres de l'esprit, à l'exception des architectes.
 

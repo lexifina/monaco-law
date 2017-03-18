@@ -4,4 +4,6 @@ Les livres, registres, documents ou pièces sur lesquels peuvent s'exercer les d
 
 Sans préjudice des dispositions du premier alinéa, lorsque les livres, registres, documents ou pièces mentionnés au premier alinéa sont établis ou reçus sur support informatique, ils doivent être conservés sous cette forme pendant une durée au moins égale au délai prévu à l'article 118.
 
-Les pièces justificatives d'origine relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.
+Sans préjudice du premier alinéa, lorsque les documents et pièces sont établis ou reçus sur support papier, ils peuvent être conservés sur support informatique ou sur support papier, pendant une durée égale au délai prévu au même premier alinéa. Les modalités de numérisation des factures papier sont fixées par arrêté ministériel.
+
+Les pièces justificatives relatives à des opérations ouvrant droit à une déduction en matière de taxes sur le chiffre d'affaires sont conservées pendant le délai prévu au premier alinéa.

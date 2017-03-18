@@ -2,8 +2,6 @@
 
 Pour l'application des dispositions de l'article 80, les factures émises par les assujettis ou, en leur nom et pour leur compte, par leur client ou par un tiers, ainsi que toutes les factures qu'ils ont reçues, doivent être stockées sur le territoire monégasque, lorsque ce stockage n'est pas effectué par voie électronique garantissant un accès immédiat, complet et en ligne aux données concernées.
 
-Afin de garantir le respect des exigences mentionnées au IV de l'article 71, les factures doivent être stockées sous la forme originelle, papier ou électronique, sous laquelle elles ont été transmises ou mises à disposition.
-
 Les assujettis ne peuvent stocker les factures transmises par voie électronique dans un pays avec lequel il n'existe pas de convention prévoyant une assistance mutuelle dans le domaine de la TVA, le téléchargement et l'utilisation de l'ensemble des données concernées.
 
 Les assujettis sont tenus de déclarer, en même temps que leur déclaration de chiffre d'affaires du mois de décembre ou du dernier trimestre civil, le lieu de stockage de leurs factures ainsi que toute modification de ce lieu lorsque celui-ci est situé hors de Monaco.

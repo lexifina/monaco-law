@@ -6,7 +6,7 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - 2° Les livraisons de biens destinés à être placés sous l'un des régimes suivants :
 
-  - a) Le régime fiscal suspensif ; ;
+  - a) Le régime fiscal suspensif ;
 
   - b) (b abrogé) ;
 
@@ -28,7 +28,7 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - 7° a) Les livraisons de biens placés sous le régime de l'admission temporaire en exonération totale des droits à l'importation, du transit externe ou du transit communautaire interne, avec maintien du même régime ;
 
-- b) Les importations de biens en provenance des départements français de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion et les importations de biens en provenance d'une partie du territoire douanier de la Communauté européenne exclue de son territoire fiscal qui rempliraient les conditions pour bénéficier du régime d'admission temporaire en exonération totale s'il s'agissait de biens en provenance de pays tiers, ainsi que les livraisons de ces biens, avec maintien du même régime ou situation ;
+- b) Les importations de biens en provenance des départements français de la Guadeloupe, de la Guyane, de Mayotte, de la Martinique et de la Réunion et les importations de biens en provenance d'une partie du territoire douanier de la Communauté européenne exclue de son territoire fiscal qui rempliraient les conditions pour bénéficier du régime d'admission temporaire en exonération totale s'il s'agissait de biens en provenance de pays tiers, ainsi que les livraisons de ces biens, avec maintien du même régime ou situation ;
 
 - c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
 
@@ -56,7 +56,7 @@ c) Dans les cas visés au a et b du présent 2, la personne qui a obtenu l'autor
 
 - 2° Lorsque le bien a fait l'objet d'une ou plusieurs livraisons mentionnées aux 6° et 7° du I pendant son placement sous le régime, la taxe afférente à la dernière de ces livraisons, augmentée, le cas échéant, de la taxe afférente aux prestations de services mentionnées aux 5°, 6° et 7° du I, effectuées soit après cette dernière livraison soit avant cette dernière livraison si le preneur est la personne mentionnée au b du 2.
 
-- 3° Lorsque le bien ne représente qu'une partie des biens placés sous le régime, la taxe afférente, selon le cas, aux opérations visées aux 1° et 2° ci-dessus, pour leur quote-part se rapportant audit bien. 4. Par dérogation au 2, la personne qui doit acquitter la taxe est dispensée du paiement lorsque le bien fait l'objet d'une exportation ou d'une livraison exonérée en vertu du I de l'article 31.
+- 3° Lorsque le bien ne représente qu'une partie des biens placés sous le régime, la taxe afférente, selon le cas, aux opérations visées aux 1° et 2° ci-dessus, pour leur quote-part se rapportant audit bien.
 
 - 4° La taxe due conformément aux 1° à 3° ci-dessus est assortie de l'intérêt de retard mentionné au I de l'article 110 lorsque les biens placés sous un régime fiscal suspensif, mentionné au a du 2° du I du présent article, en vue de leur expédition ou de leur exportation hors de Monaco et de la France, sont reversés sur le marché franco-monégasque.
 
