@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-182 du 27 mars 2017 abrogeant l'arrêté ministériel n° 84-466 du 2 août 1984 fixant la composition de la Commission d'aptitude à des fonctions hospitalières de caractère médical
