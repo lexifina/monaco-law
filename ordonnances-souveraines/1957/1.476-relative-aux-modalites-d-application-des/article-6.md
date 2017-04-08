@@ -1,3 +1,7 @@
 # Article 6
 
-Lorsque le dépôt est consécutif à la transformation d'un certificat d'addition en brevet principal, ou au fractionnement en plusieurs brevets distincts d'une demande initiale complexe, mention de cette transformation ou de ce fractionnement devra être indiquée dans la demande, avec référence au dépôt primitif (date et heure du dépôt, numéro de procès-verbal, titre de l'invention ayant fait l'objet du dépôt primitif).
+La description, prévue au chiffre 2 de l'article 5 de la loi susvisée, expose l'invention de façon suffisamment claire et complète pour qu'un homme du métier puisse l'exécuter. Sont annexés à la description :
+
+- 1) une ou plusieurs revendications ;
+
+- 2) et un abrégé du contenu technique de l'invention.

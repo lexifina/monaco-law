@@ -1,3 +1,3 @@
 # Article 11
 
-Aucun dessin ne devra figurer dans le texte ni en marge de la description.
+L'abrégé visé à l'article 6 résume les points caractéristiques de l'invention. Il est établi exclusivement à des fins d'information technique.

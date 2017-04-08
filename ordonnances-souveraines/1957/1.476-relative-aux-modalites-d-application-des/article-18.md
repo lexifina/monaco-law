@@ -1,3 +1,13 @@
 # Article 18
 
-Sous le titre de résumé, la description sera terminée par un résumé aussi concis que possible des points caractéristiques de l'invention. Ce résumé comportera l'énoncé succinct du principe fondamental de l'invention et, s'il a lieu, des points secondaires qui le caractérisent. Le résumé sera énonciatif et non descriptif.
+La surface utile d'une planche de dessin n'excède pas 26,2 cm x 17 cm. Elle n'est pas délimitée par un cadre.
+
+Les marges minimales suivantes sont respectées :
+
+- - marge du haut : 2,5 cm,
+
+- - marge de gauche : 2,5 cm,
+
+- - marge de droite : 1,5 cm,
+
+- - marge du bas : 1 cm.

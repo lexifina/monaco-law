@@ -1,23 +1,17 @@
 # Article 2
 
-La demande de brevet d'invention, établie sur timbre, conformément aux dispositions de l'article 5 de la loi susvisée, devra être datée, signée par l'inventeur ou son mandataire et indiquer :
+La demande, prévue au chiffre premier de l'article 5 de la loi susvisée, est signée du demandeur ou de son mandataire. Y figurent, notamment :
 
-- a) Si le demandeur est une seule personne physique :
+- 1) la nature du titre de propriété industrielle demandé ;
 
-  - ses nom et prénoms ;
+- 2) la désignation de l'inventeur ; toutefois, si le demandeur n'est pas l'inventeur ou l'unique inventeur, la désignation est effectuée dans un document séparé contenant l'identification précise et l'adresse complète de l'inventeur ainsi que la signature du demandeur ou de son mandataire ;
 
-  - son adresse exacte ;
+- 3) l'identification précise et l'adresse complète du demandeur ;
 
-  - sa nationalité ;
+- 4) le cas échéant, l'identification précise et l'adresse complète du mandataire ;
 
-  - le pays dans lequel il réside au moment du dépôt.
+- 5) sans préjudice du délai prévu à l'article 7 de la loi susvisée, en cas de revendication d'un droit de priorité attaché à un précédent dépôt étranger, la date et le numéro de dépôt antérieur ainsi que l'État dans lequel il a eu lieu ;
 
-- Le nom devra se distinguer nettement des autres indications ;
+- 6) en cas de demande de certificat d'addition, le numéro de délivrance, la date de dépôt et le nom du titulaire du brevet principal ;
 
-- b) Si la demande est formulée par une femme mariée, le nom du mari précédera son nom, sous la forme Mme X... épouse (veuve ou divorcée) Y... ;
-
-- c) S'il y a plusieurs déposants, chacun d'eux devra observer les indications ci-dessus, mais la personne à laquelle doivent être envoyées les communications officielles devra être spécialement mentionnée ;
-
-- d) S'il s'agit d'une personne morale, la demande portera mention de la raison sociale, de l'adresse du siège social ainsi que de la qualité de la personne signataire qui devra annexer à la demande le pouvoir qui l'autorise à la formuler ;
-
-- e) S'il y a constitution d'un mandataire, le demandeur devra faire élection de domicile chez son mandataire ; toutefois, l'adresse exacte du demandeur sera indiquée dans la demande.
+- 7) en cas de transformation d'un certificat d'addition en brevet principal, ou suite au fractionnement en plusieurs brevets distincts d'une demande initiale complexe, mention de cette transformation ou de ce fractionnement, avec références précises à la demande primitive.

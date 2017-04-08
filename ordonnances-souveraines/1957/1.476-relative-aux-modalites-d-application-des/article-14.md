@@ -1,3 +1,5 @@
 # Article 14
 
-Les indications de poids et mesures seront données d'après le système métrique, les indications de température en degrés centigrades ; la densité des corps sera donnée à l'exclusion du poids spécifique ; pour les unités électriques, on observera les prescriptions admises dans le régime international et, pour les formules chimiques, il sera fait usage des symboles des éléments, des poids atomiques et des formules moléculaires généralement employés.
+S'il est reconnu que le mémoire descriptif ne se limite pas à une seule invention, le demandeur est autorisé à diviser la demande initiale en autant de demandes divisionnaires qu'elle comporte d'objets principaux ; le dossier de la première de ces demandes est constitué par la demande primitive, après suppression de toutes les parties étrangères, au seul objet qu'elle doit concerner.
+
+Les corrections du mémoire descriptif et, le cas échéant, des dessins sont effectuées par des suppressions de figures et des suppressions de phrases sans autre modification ou adjonction que celles qui découlent de la limitation même ou des nécessités de liaison de style.

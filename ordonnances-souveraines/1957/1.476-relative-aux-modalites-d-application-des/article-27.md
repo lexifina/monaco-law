@@ -4,4 +4,4 @@
 
 2 - La date et l'heure du dépôt et le numéro du procès-verbal seront portés sur cette enveloppe pour permettre de la distinguer.
 
-3. - Lorsque, par application des dispositions du deuxième alinéa de l'article 5 de la présente ordonnance, la déclaration de priorité sera fournie postérieurement au dépôt, mention de cette revendication sera portée sur l'enveloppe, ainsi que sur le registre de dépôt en marge du procès-verbal correspondant.
+3. - Lorsque, par application des dispositions de l'article 7 de la loi susvisée, la déclaration de priorité est fournie postérieurement au dépôt, mention de cette revendication est portée sur l'enveloppe, ainsi que sur le registre de dépôt.

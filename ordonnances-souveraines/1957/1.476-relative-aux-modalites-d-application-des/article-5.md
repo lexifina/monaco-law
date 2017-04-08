@@ -1,5 +1,7 @@
 # Article 5
 
-1. - En cas de dépôt avec revendication de priorité, la demande devra comporter, en plus, la date du premier dépôt fait à l'étranger et le pays dans lequel il a eu lieu. Cette indication devra être reportée, le cas échéant, sur le pouvoir du mandataire.
+1 - Toute invention, pour laquelle un brevet est demandé, est distinguée par un titre qui fait apparaître de manière claire et concise la désignation technique de l'invention, sans aucune dénomination de fantaisie.
 
-2. - Lorsque la déclaration de priorité n'aura pas été mentionnée sur la requête et le pouvoir, elle pourra être valablement fournie dans un délai maximum de 60 jours à partir du dépôt de la demande.
+2 - Le titre ne peut comporter plus de 200 caractères et espaces.
+
+3 - Il est reproduit sur la demande et l'abrégé prévu à l'article 6.

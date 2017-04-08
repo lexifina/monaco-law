@@ -1,3 +1,3 @@
 # Article 20
 
-L'original et les duplicata de la description et des dessins seront signés par le demandeur ou son mandataire. En ce qui concerne les dessins, la signature sera placée au dos des planches. Il en sera de même des désignations « original » et « duplicata ». Le nom du demandeur et de son mandataire, s'il y a lieu, devra y être mentionné d'une façon très lisible, après la signature. Le duplicata sera, en outre, sous la responsabilité du signataire, certifié conforme à l'original. La description et les dessins ne porteront aucune date. Le mandataire fera précéder sa signature de l'indication « par procuration de M... » ou de « par procuration de la Société... ».
+La signature du demandeur ou de son mandataire est portée au dos des planches de dessins. Le nom du demandeur et, le cas échéant, de son mandataire est mentionné de façon lisible, après la signature.
