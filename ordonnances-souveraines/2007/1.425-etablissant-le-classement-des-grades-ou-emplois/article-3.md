@@ -20,6 +20,10 @@ I. Grades ou emplois communs et particuliers
 
 - échelle 1 (C 154)
 
+4°-1 Agent Qualifié
+
+- échelle 4 (C 132)
+
 5° Agent Technique
 
 - échelle 5 (C 122)
@@ -60,6 +64,10 @@ I. Grades ou emplois communs et particuliers
 
 échelle 5 - (C 122)
 
+11°-3 Assistant Bâtiment
+
+- échelle 5 (C 122)
+
 12° Auxiliaire de puériculture
 
 - échelle 3 (C 142)
@@ -79,6 +87,10 @@ I. Grades ou emplois communs et particuliers
 16° Brigadier des surveillants
 
 - échelle 5 (C 122)
+
+16°-1 Brigadier des Surveillants Adjoint
+
+- échelle 3 (C 142)
 
 16°-5 Caissier saisonnier
 
@@ -134,9 +146,7 @@ I. Grades ou emplois communs et particuliers
 
 28° (28° abrogé)
 
-29° Éducateur de jeunes enfants
-
-- échelle des monitrices de jardins d'enfants (C 180)
+29° (29 ° abrogé)
 
 30° Électricien
 
@@ -237,6 +247,10 @@ I. Grades ou emplois communs et particuliers
 53° Ouvrier mécanicien
 
 - échelle 4 (C 132)
+
+53°-5 Plagiste Saisonnier
+
+- échelle 1 (C 154)
 
 54° Plongeur
 

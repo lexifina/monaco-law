@@ -88,7 +88,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux (B 040)
 
-22° Chef Comptable au Service d'Actions Sociales et de loisirs
+22° Chef Comptable
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
@@ -100,13 +100,15 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
+24°-5 Conseillère en Économie Sociale et Familiale
+
+- échelle des Éducateurs Spécialisés (B 522)
+
 25° Diététicien
 
 - échelle des Diététiciennes (B 444)
 
-26° Directrice Puéricultrice
-
-- échelle des Infirmières Chefs (B 445)
+26° (26° abrogé)
 
 27° Dessinateur - projeteur
 
@@ -120,9 +122,9 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Attachés principaux (B 040)
 
-30° Inspecteur-Chef Adjoint, Lieutenant de la Police Municipale
+30° Éducateur de Jeunes Enfants
 
-- échelle des Chefs de bureau et assimilés (B 020)
+- échelle des Éducateurs Spécialisés (B 522)
 
 31° Intendant d'immeuble municipal
 
@@ -172,9 +174,9 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de bureau et assimilés - (B 020)
 
-41° Responsable des auxiliaires de vie
+41° Responsable du Pôle Technique de la Police Municipale
 
-- échelle des Infirmières Chefs (B 445)
+- échelle des Attachés Principaux (B 040)
 
 42° Responsable - Mini-club du Larvotto
 
@@ -182,7 +184,7 @@ I. Grades ou emplois communs et particuliers
 
 43° Major de la Police Municipale
 
-- échelle des Attachés principaux hautement qualifiés (B 030)
+- échelle des Chefs de bureau et Assimilés (B 020)
 
 44° Secrétaire - Attaché d'administration
 

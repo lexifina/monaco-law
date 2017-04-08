@@ -10,15 +10,15 @@ I. Grades ou emplois communs et particuliers
 
 2° Adjoint au Directeur de l'Académie de Musique Fondation Prince Rainier III
 
-- échelle des Administrateurs (A 132)
+- échelle des Chefs de Section (A 100)
 
 3° Adjoint au Directeur de l'École Supérieure d'Arts Plastiques
 
-- échelle des Administrateurs (A 132)
+- échelle des Chefs de Section (A 100)
 
 3°-1 Adjoint au Directeur du Jardin Exotique
 
-- échelle des administrateurs (A 132)
+- échelle des Chefs de Section (A 100)
 
 4° Administrateur
 
@@ -35,6 +35,10 @@ I. Grades ou emplois communs et particuliers
 7° Analyste programmeur
 
 - échelle des Administrateurs (A 132)
+
+7°-1 Analyste Principal,
+
+- échelle des Administrateurs Principaux (A 111)
 
 8° Chargé de mission
 
@@ -68,9 +72,13 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de division (A 090)
 
+15°-1 Conservateur Adjoint
+
+- échelle des Chefs de Section (A 100)
+
 16° Coordinatrice des crèches
 
-- échelle des Rédacteurs principaux (A 110)
+- échelle des Administrateurs (A 132)
 
 16°-1 Coordinateur
 
@@ -80,9 +88,21 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de service - 3ème groupe (A 070)
 
+17°-1 Directrice Puéricultrice
+
+- échelle des Rédacteurs Principaux (A 110) ;
+
+17°-2 Directrice Puéricultrice Adjointe
+
+- échelle des Rédacteurs (A 130)
+
 18° Inspecteur-Chef, Capitaine de la Police Municipale
 
 - échelle des Chefs de division (A 090)
+
+18°-1 Inspecteur-Chef Adjoint, Lieutenant de la Police Municipale
+
+- échelle des Chefs de Section (A 100)
 
 19° Receveur Municipal
 
@@ -106,13 +126,17 @@ I. Grades ou emplois communs et particuliers
 
 23° Responsable de la Section Maintien à domicile
 
-- échelle des Rédacteurs principaux (A 110)
+- échelle des Administrateurs (A 132)
 
 23°-1 Responsable du Fonds Régional
 
 - échelle des Rédacteurs principaux (A 110)
 
 23°-2 Responsable du dépôt légal
+
+- échelle des Rédacteurs Principaux (A 110)
+
+23°-3 Responsable des Auxiliaires de Vie
 
 - échelle des Rédacteurs Principaux (A 110)
 
@@ -131,6 +155,10 @@ I. Grades ou emplois communs et particuliers
 26° Secrétaire de Mairie
 
 - échelle des Chefs de division (A 090)
+
+27° Secrétaire Particulier du Maire
+
+- échelle des Rédacteurs Principaux (A 110)
 
 II. Grades ou emplois spécifiques à l'enseignement
 
@@ -153,6 +181,10 @@ II. Grades ou emplois spécifiques à l'enseignement
 4°-1 Conseiller aux Études
 
 - échelle des Conseillers d'orientation (A 460)
+
+4°-2 Coordinateur aux Études
+
+- échelle des Conseillers d'Orientation (A 460)
 
 5° Directeur adjoint à l'Académie de Musique Fondation Prince Rainier III
 
