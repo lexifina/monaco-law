@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.335 du 5 avril 2017 rendant exécutoire l'Accord entre la Principauté de Monaco et la République italienne en vue de l'échange de renseignements en matière fiscale, signé à Monaco le 2 mars 2015
