@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-217 du 5 avril 2017 relatif aux modalités d'application des dispositions de l'Ordonnance Souveraine n° 1.476 du 30 janvier 1957 relative aux modalités d'application des dispositions de la loi n° 606 du 20 juin 1955, modifiée, sur les brevets d'invention, modifiée
