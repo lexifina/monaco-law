@@ -82,7 +82,7 @@ Les postes consulaires sont les suivants :
 
 - Israël : Tel Aviv ;
 
-- Italie : Bari, Bologne, Cagliari, Florence, Gênes, Livourne, Milan, Naples, Palerme, Rome, Trieste, Turin, Venise, Vintimille ;
+- Italie : Ancône, Bari, Bologne, Cagliari, Florence, Gênes, Milan, Naples, Palerme, Turin, Venise ;
 
 - Jamaïque : Kingston ;
 
