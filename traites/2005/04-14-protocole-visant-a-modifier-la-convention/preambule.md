@@ -1,0 +1,1 @@
+CONFORMEMENT à l'article XXI (3) de la Convention relative à l'OHI, les modifications mentionnées ci-dessus, de l'article 1 à l'article 20 entrent en vigueur à l'égard de toutes les Parties Contractantes trois mois après que les notifications d'approbation des deux tiers des États membres ont été reçues par le Dépositaire.
