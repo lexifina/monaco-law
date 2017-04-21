@@ -54,15 +54,15 @@ Cette majoration ne s'applique pas aux actes de radiographie du squelette entier
 
 Cette majoration couvre le parage ou la suture de plaie qui ne peuvent donc pas être facturés avec l'acte de réduction ou d'ostéosynthèse.
 
-- Majoration transitoire de chirurgie, applicable aux actes thérapeutiques sanglants non répétitifs réalisés en équipe sur un plateau technique lourd ; le code est J.
+Majoration transitoire de chirurgie, applicable aux actes thérapeutiques sanglants non répétitifs réalisés en équipe sur un plateau technique lourd ; le code est J.
 
-Cette majoration concerne les actes de chirurgie générale, digestive, orthopédique traumatologique, vasculaire, cardio-thoracique et vasculaire, urologique, pédiatrique, gynécologique et de neurochirurgie. Sont également concernés les actes de chirurgie cervico-faciale, de chirurgie mammaire à visée thérapeutique ou réparatrice et de chirurgie réparatrice par lambeaux, communs à plusieurs spécialités.
+Cette majoration concerne les actes de chirurgie générale, digestive, orthopédique traumatologique, vasculaire, cardio-thoracique et vasculaire, urologique, pédiatrique, gynécologique et de neurochirurgie. Sont également concernés les actes de chirurgie cervico-faciale, de chirurgie mammaire à visée thérapeutique ou réparatrice et de chirurgie réparatrice par lambeaux, communs à plusieurs spécialités ainsi que les actes de chirurgie otologique (y compris la plastie d'oreilles décollées), de méatotomie, d'amygdalectomie et d'adénoïdectomie.
 
 - Majoration pour présence permanente du médecin anesthésiste, pour les actes pour lesquels le médecin anesthésiste peut surveiller simultanément deux patients anesthésiés, lorsque le médecin anesthésiste se consacre exclusivement à un seul patient ; le code est 7
 
 - Majoration du tarif pour acte de contrôle radiographique de segment de squelette immobilisé par contention rigide ; le code est D
 
-- Majoration du tarif pour acte de radiographie réalisé par un radiologue ; le code est Z - Majoration du tarif pour acte de radiographie réalisé par un pneumologue ou un rhumatologue ; le code est Y
+- Majoration du tarif pour acte de radiographie réalisé par un radiologue, un pneumologue ou un rhumatologue - le code est Y.
 
 - Majoration du tarif pour acte de radiographie réalisé au bloc opératoire, en unité de réanimation ou au lit du patient intransportable ; le code est B.
 

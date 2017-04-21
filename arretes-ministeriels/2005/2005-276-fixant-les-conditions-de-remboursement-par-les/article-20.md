@@ -60,7 +60,7 @@ c. Pour les actes de chirurgie carcinologique en ORL associant une exérèse, un
 
 d. Pour les actes d'échographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé, sauf dans le cas de l'examen d'organes intra-abdominaux et/ou pelviens et d'un ou plusieurs des organes suivants : sein, thyroïde, testicules. L'acte de guidage échographique YYYY028 ne peut être tarifé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage échographique. Dans les cas où l'association est autorisée, la règle générale s'applique.
 
-e. Pour les actes de scanographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé, sauf dans le cas où est effectué l'examen conjoint des régions anatomiques suivantes : membres et tête, membres et thorax, membres et abdomen, tête et abdomen, thorax et abdomen complet, tête et thorax, quel que soit le nombre de coupes nécessaires, avec ou sans injection de produit de contraste. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 75 % de son tarif. Quand un libellé décrit l'examen conjoint de plusieurs régions anatomiques, il ne peut être tarifé avec aucun autre acte de scanographie. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 75 % de son tarif. L'acte de guidage scanographique ne peut être facturé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage scanographique. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein.
+e. Pour les actes de scanographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé, sauf dans le cas où est effectué l'examen conjoint des régions anatomiques suivantes : membres et tête, membres et thorax, membres et abdomen, tête et abdomen, thorax et abdomen complet, tête et thorax, quel que soit le nombre de coupes nécessaires, avec ou sans injection de produit de contraste. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 85 % de son tarif. Quand un libellé décrit l'examen conjoint de plusieurs régions anatomiques, il ne peut être tarifé avec aucun autre acte de scanographie. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 85 % de son tarif. L'acte de guidage scanographique ne peut être facturé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage scanographique. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein.
 
 f. Pour les actes de remnographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé. Un acte de remnographie, à l'exception du guidage remnographique, ne peut être associé à aucun autre acte. Le guidage remnographique ne peut être facturé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage remnographique. Dans ce cas, la règle générale s'applique.
 
@@ -93,38 +93,6 @@ Le guidage radiologique est considéré comme un acte de radiologie conventionne
 Par actes de radiologie conventionnelle, on entend les actes diagnostiques de radiologie, en dehors de ceux portant sur l'appareil circulatoire du paragraphe 04.01.04, des actes par scanographie et des actes du sous-paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle.
 
 Les radiographies de l'appareil circulatoire du paragraphe 04.01.04 sont tarifées selon la règle générale.
-
-Cas particulier
-
-Quand un médecin ou une sage-femme réalise, dans le même temps des actes techniques de la Classification Commune des Actes Médicaux définie à la Section II et des actes issus de la Nomenclature Générale des Actes Professionnels, deux actes au plus peuvent être tarifés hors actes de radiologie conventionnelle dont le nombre n'est pas limité.
-
-L'acte dont le tarif est le plus élevé est tarifé à 100 % de sa valeur et le second à 50 % ; les actes de radiologie conventionnelle sont tarifés selon les règles du paragraphe i) ci-dessus.
-
-Le nombre d'actes dentaires de la nomenclature générale des actes professionnels associés n'est pas limité et ces actes sont tarifés à taux plein dans les cas qui suivent :
-
-- Actes pratiqués par des médecins :
-
-* Soins conservateurs,
-
-* Traitement d'orthopédie dento-faciale,
-
-* Actes de prothèse dentaire.
-
-- Extraction(s) dentaire(s) faisant exception à l'application de l'article 11B des dispositions générales de la nomenclature générale des actes professionnels, c'est-à-dire les extractions de dents permanentes, de dents lactéales, de dents de sagesse incluses, enclavées ou à l'état de germe.
-
-Codes associations
-
-Le code 1 signifie que l'acte est tarifé à 100 %.
-
-Le code 2 signifie que l'acte est tarifé à 50 %.
-
-Le code 3 signifie que l'acte est tarifé à 75 %.
-
-Le code 4 est utilisé pour des actes spécifiques cités aux paragraphes 2e ) et 2g ) ci-dessus. Il signifie que tous les actes de l'association sont tarifés à 100 %.
-
-Le code 5 signifie que les actes sont tarifés à 100 % ; ce code est utilisé dans le cas décrit au paragraphe 2h) ci-dessus.
-
-Quand un acte de la classification commune des actes médicaux définie à la Section II est associé à un acte de la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux, aucun code d'association ne doit être noté.
 
 j. Pour les actes d'endoscopie, lorsque l'examen porte sur les régions anatomiques du nez, du cavum, du larynx ou du pharynx, un seul acte doit être tarifé, sauf dans les indications médicales prévues par la note de facturation de la subdivision « 06.01.08. Endoscopie de l'appareil respiratoire ».
 
