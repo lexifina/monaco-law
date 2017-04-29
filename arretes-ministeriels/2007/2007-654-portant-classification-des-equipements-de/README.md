@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2007-654 du 17 décembre 2007 portant classification des équipements de scanographie, de remnographie et de tomographie à émission de positons et tarification des forfaits techniques rémunérant leurs coûts de fonctionnement
 
-Version en vigueur au 3 octobre 2015.
+Version en vigueur au 29 avril 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2007/12-17-2007-654@2015.10.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2007/12-17-2007-654@2017.04.29/
 
 | | |
 | --- | --- |

@@ -36,4 +36,4 @@ Un seul forfait technique doit être coté par examen sauf dans les cas suivants
 
 - 2°) si le libellé de l'acte, inscrit à la Classification commune des actes médicaux, décrit l'examen conjoint de plusieurs régions anatomiques.
 
-Dans les situations visées au 1° et 2 ° ci-dessus, deux forfaits techniques peuvent être cotés, le second avec une minoration de 10 % de son tarif.
+Dans les situations visées au 1° et 2° ci-dessus, deux forfaits techniques peuvent être cotés, le second avec une minoration de 85% de son tarif.
