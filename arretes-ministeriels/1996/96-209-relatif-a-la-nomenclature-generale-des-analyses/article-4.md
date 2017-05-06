@@ -8,6 +8,8 @@ Lorsque cette règle a lieu de s'appliquer, le complément de facturation pour a
 
 9910 | Complément à la cotation minimale de valeur B 10 | B 10
 
+9914 | Complément à la cotation minimale de valeur B 14 | B 14
+
 9915 | Complément à la cotation minimale de valeur B 15 | B 15
 
 9916 | Complément à la cotation minimale de valeur B 1 | B 1
