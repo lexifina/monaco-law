@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-281 du 2 mai 2017 modifiant l'arrêté ministériel n° 98-628 du 29 décembre 1998 relatif aux dispositions transitoires applicables aux chefs de service, médecins adjoints et praticiens en activité ainsi qu'aux résidents en poste au Centre Hospitalier Princesse Grace au 1er janvier 1999
