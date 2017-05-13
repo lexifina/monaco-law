@@ -8,7 +8,7 @@ Ne peuvent prétendre à l'attribution d'un appartement domanial :
 
 3) les propriétaires, en nom propre ou à travers une société, d'un appartement à Monaco correspondant ou supérieur à leur besoin normal, sauf si le foyer bénéficie du critère de points lié à la santé ou de celui relatif aux difficultés d'accessibilité ;
 
-4) les demandeurs ayant effectué une déclaration volontairement erronée ;
+4) les demandeurs ayant effectué une déclaration erronée ;
 
 5) les demandeurs ayant opposé un refus à la demande de visite formulée par la Direction de l'Habitat dans le cadre de l'instruction du dossier ;
 
