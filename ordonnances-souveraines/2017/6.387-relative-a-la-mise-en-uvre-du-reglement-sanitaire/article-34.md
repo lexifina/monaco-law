@@ -1,0 +1,3 @@
+# Article 34
+
+Les résultats des inspections et les copies des certificats de contrôle sanitaire ou d'exemption de contrôle sanitaire délivrés au nom de l'État sont conservés pendant une durée de cinq ans par la Direction de l'Action Sanitaire ou, le cas échéant, par les personnes agréées mentionnées au dernier alinéa de l'article 3. Ces dernières en adressent une copie à ladite Direction dans les quinze jours de leur établissement. Elles les tiennent également à la disposition de la Direction et lui donnent un accès gratuit à toutes les informations pertinentes concernant les navires pour lesquels elles délivrent des certificats, notamment l'accès direct aux documents et rapports de visites appropriés.
