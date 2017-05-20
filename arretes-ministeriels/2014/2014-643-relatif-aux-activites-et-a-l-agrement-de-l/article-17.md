@@ -1,3 +1,3 @@
 # Article 17
 
-L'établissement de transfusion sanguine dispose d'un délai de dix-huit mois, à compter de la publication du présent arrêté, pour se mettre en conformité avec ses dispositions.
+L'établissement de transfusion sanguine dispose jusqu'au 31 décembre 2018 pour se mettre en conformité avec les dispositions du présent arrêté.
