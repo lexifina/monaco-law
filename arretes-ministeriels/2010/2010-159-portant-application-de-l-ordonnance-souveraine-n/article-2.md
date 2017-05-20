@@ -1,13 +1,11 @@
 # Article 2
 
-Cette commission, présidée par le Conseiller de Gouvernement pour les Relations Extérieures et de la Coopération, ou son représentant, comprend :
+La composition de la commission est fixée comme suit :
 
-- le Conseiller de Gouvernement pour les Finances et l'Économie ou son représentant,
+- le Conseiller de Gouvernement-Ministre des Finances et de l'Économie ou son représentant, président ;
 
-- le Directeur des Services Fiscaux ou son représentant,
+- le Directeur des Services Fiscaux ou son représentant ;
 
-- un fonctionnaire ou un agent du Département des Relations Extérieures et de la Coopération,
+- un fonctionnaire ou un agent du Département des Finances et de l'Économie ;
 
-- deux personnes, désignées par arrêté ministériel, en raison de leur compétence, pour une période de trois ans renouvelable.
-
-L'arrêté ministériel mentionné au précédent alinéa désigne, également, en raison de leur compétence, deux suppléants appelés, en cas d'absence ou d'empêchement pour quelque cause que ce soit, à siéger en remplacement respectivement de chaque titulaire.
+- une personne désignée par le Conseiller de Gouvernement-Ministre des Finances et de l'Économie en considération de ses compétences.
