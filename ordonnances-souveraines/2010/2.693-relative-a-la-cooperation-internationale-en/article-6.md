@@ -1,5 +1,11 @@
 # Article 6
 
-Le Conseiller de Gouvernement pour les Finances et l'Économie notifie par lettre recommandée avec accusé d'avis de réception postal, à la personne concernée, la décision mentionnée au chiffre 2) de l'article 5 et le fait que le détenteur des renseignements est enjoint de les communiquer au Directeur des Services fiscaux.
+La décision du Ministre d'État visée au chiffre 2 de l'article 5 est notifiée à la personne concernée et le cas échant, au détenteur de renseignements par voie postale.
 
-Il notifie également, dans la même forme, au détenteur des renseignements cette décision et l'obligation qui lui est faite de communiquer dans un délai de trente jours, les éléments d'informations et les pièces justificatives demandés par l'État requérant au Directeur des Services fiscaux.
+Toutefois, par exception, la procédure de notification prévue à l'alinéa précédent n'est pas applicable en cas de demande valide et motivée de l'État requérant justifiant :
+
+- - du caractère très urgent d'une demande de renseignements,
+
+- ou
+
+- - de motifs sérieux permettant de considérer qu'une telle procédure serait de nature à compromettre les chances de succès de l'enquête menée par ledit État, sous réserve de la justification par celui-ci du respect de ses obligations consistant en particulier à avoir procédé à toutes les investigations possibles sur son territoire.

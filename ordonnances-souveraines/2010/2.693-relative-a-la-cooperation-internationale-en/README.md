@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.693 du 23 mars 2010 relative à la coopération internationale en matière fiscale
 
-Version en vigueur au 22 juin 2013.
+Version en vigueur au 20 mai 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2010/03-23-2.693@2013.06.22/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2010/03-23-2.693@2017.05.20/
 
 | | |
 | --- | --- |
