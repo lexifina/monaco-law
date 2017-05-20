@@ -1,0 +1,5 @@
+# Article 40
+
+Dans le délai de un mois de la notification à la partie de l'arrêté ministériel pris sur proposition de la chambre de discipline, le recours devant la chambre supérieure de discipline est adressé à son président par la partie, par lettre recommandée avec demande d'avis de réception postal.
+
+Lorsque dans les quatre mois de la notification de la décision de la chambre de discipline proposant des sanctions prévues au chiffre 3 ou 4 de l'article 28 de la loi n° 1.434 du 8 novembre 2016, susvisée, l'arrêté ministériel prononçant ladite sanction n'a pas été pris, le silence ainsi gardé vaut décision de refus de prononcer une sanction. Le recours contre cette décision implicite est ouvert au président du conseil de l'Ordre des chirurgiens-dentistes à compter de l'expiration dudit délai de quatre mois et pendant le mois qui suit cette expiration. Toutefois, ce délai de quatre mois est réduit à deux mois lorsque l'action disciplinaire a été engagée en application des dispositions de l'article 6 de ladite loi.
