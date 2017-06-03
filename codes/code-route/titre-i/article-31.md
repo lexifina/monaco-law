@@ -6,7 +6,7 @@ Est en outre interdit le stationnement effectué dans les conditions ci-après :
 
 - 1 ° Le stationnement abusif.
 
-- Est considéré comme abusif le stationnement ininterrompu d'un véhicule en un même point de la voie publique ou de ses dépendances, pendant une durée excédant 48 heures.
+  - Est considéré comme abusif le stationnement ininterrompu d'un véhicule en un même point de la voie publique ou de ses dépendances, pendant une durée excédant 48 heures.
 
 - 2° Le stationnement dans une zone réglementée payante lorsque l'usager :
 
