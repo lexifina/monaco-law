@@ -18,4 +18,6 @@ Les dépenses comprennent :
 
 - 4° le remboursement des frais d'administration et de gestion de toute nature,
 
-- 5° le prix d'achat des valeurs acquises à titre de placement à la demande du comité financier de la caisse autonome des retraites.
+- 5° le prix d'achat des valeurs acquises à titre de placement à la demande du comité financier de la caisse autonome des retraites ;
+
+- 6° le remboursement des avances consenties au titre de l'aide sociale par la Caisse de Compensation des Services Sociaux, aux salariés dont les droits auprès de cet Organisme sont ouverts par l'effet d'une interruption de travail indemnisée en application des lois n° 444 du 16 mai 1946 et n° 636 du 11 janvier 1958, ou par le versement de rentes résultant d'un accident du travail ou d'une maladie professionnelle.
