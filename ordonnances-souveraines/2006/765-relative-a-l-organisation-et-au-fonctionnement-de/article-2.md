@@ -12,10 +12,10 @@ La Direction de la Sûreté Publique comprend des personnels en civil ou en tenu
 
 - la Division de Police Maritime et Aéroportuaire (DPMA) ;
 
+- la Division du Renseignement Intérieur ;
+
 - l'Inspection Générale des Services de Police (IGSP) ;
 
-- le Groupe de sécurité de la Famille Souveraine ;
+- le Groupe de Sécurité de la Famille Souveraine ;
 
-- le Secrétariat de la Direction ;
-
-- la Section des informations générales, des études et du renseignement (SIGER).
+- le Secrétariat de la Direction.
