@@ -4,15 +4,13 @@ Le contrat « habitation-capitalisation » comporte :
 
 - 1°) la description précise de l'appartement faisant l'objet du contrat qui mentionne notamment la surface habitable contractuelle ;
 
-- 2°) le prix du contrat, sa méthode de calcul, ses modalités de paiement et son mode de financement ;
+- 2°) le prix du contrat, sa méthode de calcul, ses modalités de paiement et son mode de financement. Dans l'hypothèse d'un paiement à crédit, le contrat présente les conditions et modalités de variation du taux d'intérêt ;
 
 - 3°) le mode de calcul du capital exigible en cas d'extinction du contrat pour une cause de rupture anticipée ou l'arrivée du terme ;
 
 - 4°) la date d'effet du contrat, son terme ainsi que la date d'entrée en jouissance du titulaire ;
 
-- 5°) la part du capital exigible à l'extinction du contrat constitutive de la retenue de garantie dont le montant ne peut être supérieur à deux mois de loyer moyen de l'appartement ayant servi de référence à la détermination du prix ;
-
-- 6°) un tableau d'amortissement en cas de crédit de la part de l'État.
+- 5°) la part du capital exigible à l'extinction du contrat constitutive de la retenue de garantie dont le montant ne peut être supérieur à deux mois de loyer moyen de l'appartement ayant servi de référence à la détermination du prix.
 
 Le contrat « habitation-capitalisation » indique en outre :
 

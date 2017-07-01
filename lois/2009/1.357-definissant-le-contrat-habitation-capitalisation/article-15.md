@@ -12,4 +12,6 @@ Par le contrat « habitation-capitalisation », l'État s'engage à :
 
 - informer au moins annuellement le titulaire de la situation de son compte individuel et de l'état de son contrat ;
 
-- verser au titulaire le capital exigible, dans tous les cas où il est mis fin au contrat « habitation-capitalisation », selon les modalités prévues par la présente loi.
+- verser au titulaire le capital exigible, dans tous les cas où il est mis fin au contrat « habitation-capitalisation », selon les modalités prévues par la présente loi ;
+
+- en cas de paiement à crédit, informer le souscripteur du taux d'intérêt qui lui est applicable pour l'année civile à venir.
