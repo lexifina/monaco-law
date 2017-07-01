@@ -4,7 +4,7 @@ Les catégories d'actes et de décisions administratives donnant lieu à des enq
 
 - 1. délivrance et renouvellement des permis de travail et des autorisations d'embauchage ;
 
-- 2. recrutement des fonctionnaires et agents de l'État ;
+- 2. Recrutement des fonctionnaires et agents publics ou préposés des services publics ;
 
 - 3. autorisation d'exercice d'activités économiques et juridiques prévues par les lois et règlements ;
 
