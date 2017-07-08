@@ -6,4 +6,4 @@ Les informations et supports classifiés visées au premier alinéa de l'article
 
 - 2° Secret de Sécurité Nationale ;
 
-- 3° Confidentiel-Sécurité Nationale.
+- 3° Confidentiel de Sécurité Nationale
