@@ -8,6 +8,6 @@ Les formalités pour parvenir à la levée des scellés seront ;
 
 - 3° Une sommation d'assister à cette levée, faite au conjoint survivant, aux présomptifs héritiers, à l'exécuteur testamentaire, aux légataires universels et à titre universel s'ils sont connus et aux opposants.
 
-Il ne sera pas besoin d'appeler les intéressés demeurant hors de la Principauté ; mais on appellera pour eux à la levée et à l'inventaire, un notaire nommé d'office par le président du tribunal de première instance.
+Il ne sera pas besoin d'appeler les intéressés demeurant hors de la Principauté ; mais on appellera pour eux à la levée et à l'inventaire, un notaire nommé d'office par le président du tribunal de première instance .
 
 Les opposants seront appelés au domicile par eux élu.
