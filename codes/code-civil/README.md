@@ -1,11 +1,11 @@
 # Code civil
 
-Version en vigueur au 17 décembre 2016.
+Version en vigueur au 8 juillet 2017.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-civil@2016.12.17/
+Source : Legimonaco, https://legimonaco.mc/code/code-civil@2017.07.08/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code civil |
-| Dernière modification | 17 décembre 2016 |
+| Dernière modification | 8 juillet 2017 |

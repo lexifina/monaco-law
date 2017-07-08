@@ -8,4 +8,4 @@ Le changement homologué produit effet entre les parties, lorsque la décision d
 
 Il n'est pas opposable aux tiers dont le droit est né antérieurement à la publication prévue à l'article 821 du Code de procédure civile.
 
-Le changement de régime matrimonial ou de conventions matrimoniales régissant l'union des époux étrangers obéit aux prescriptions précédentes, lorsque le mariage a été célébré à Monaco ou lorsque le régime matrimonial ou les conventions matrimoniales sont soumis au droit monégasque.
+Le changement de régime matrimonial ou de convention matrimoniale obéit aux prescriptions précédentes, lorsque le régime matrimonial ou les conventions matrimoniales sont soumis au droit monégasque.
