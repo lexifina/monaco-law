@@ -1,5 +1,5 @@
 # Article 303
 
-À la demande du père, de la mère, de tout intéressé ou du ministère public, le juge tutélaire statue sur les conditions d'exercice de l'autorité parentale ou les difficultés qu'elles soulèvent, en fonction de l'intérêt de l'enfant.
+À la demande du père, de la mère ou du ministère public, qui peut lui-même être saisi par tout intéressé, le juge tutélaire statue, en fonction de l'intérêt de l'enfant, sur les modalités d'exercice de l'autorité parentale, dont celles relatives à la résidence et, lorsque la résidence de l'enfant est fixée au domicile de l'un des parents, celles relatives à l'organisation du droit de visite et d'hébergement. Le juge tutélaire statue également sur la fixation de la contribution due pour son entretien et son éducation ou sur les difficultés qu'elles soulèvent.
 
-À l'effet de faciliter la recherche par les parents d'un exercice consensuel de l'autorité parentale, le juge tutélaire peut leur proposer ou leur enjoindre de se soumettre à une mesure de médiation familiale.
+À l'effet de faciliter la recherche par les père et mère d'un exercice consensuel de l'autorité parentale, le juge tutélaire peut leur proposer une mesure de médiation familiale et, après avoir recueilli leur accord, désigner un médiateur familial pour y procéder. Il peut également leur enjoindre, sauf si des violences ont été commises par l'un des parents sur l'autre parent ou sur l'enfant, de rencontrer un médiateur familial qu'il désigne et qui les informera sur l'objet et le déroulement d'une médiation.
