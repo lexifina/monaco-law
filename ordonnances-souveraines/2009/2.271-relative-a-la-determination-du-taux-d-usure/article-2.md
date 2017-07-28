@@ -1,15 +1,15 @@
 # Article 2
 
-Pour l'année 2016, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
+Pour l'année 2017, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
 
 Pour les particuliers :
 
-Découverts : 15,62 %
+Découverts : 15,39 %
 
-Prêts personnels : 4,36 %
+Prêts personnels : 3,68 %
 
-Prêts immobiliers : 3,32 %
+Prêts immobiliers : 2,46 %
 
 Pour les entreprises et entrepreneurs individuels :
 
-Découverts :6,42 %.
+Découverts : 5,39 %
