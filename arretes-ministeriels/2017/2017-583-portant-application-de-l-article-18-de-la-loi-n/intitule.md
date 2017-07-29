@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-583 du 19 juillet 2017 portant application de l'article 18 de la loi n° 1.430 du 13 juillet 2016 portant diverses mesures relatives à la préservation de la sécurité nationale fixant les conditions de déclassification des informations
