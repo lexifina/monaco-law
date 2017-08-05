@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 82-567 du 22 novembre 1982 portant exonération de la réglementation des substances, plantes et produits vénéneux destinés à la médecine humaine
 
-Version en vigueur au 11 septembre 1999.
+Version en vigueur au 5 août 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1982/11-22-82-567@1999.09.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1982/11-22-82-567@2017.08.05/
 
 | | |
 | --- | --- |
