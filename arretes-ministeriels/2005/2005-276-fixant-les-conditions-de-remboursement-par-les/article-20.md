@@ -1,46 +1,46 @@
 # Article 20
 
-A) Quand des actes techniques sont effectués dans le même temps qu'une consultation ou une visite mentionnées à la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux/ les honoraires de celle-ci ne se cumulent pas avec ceux des actes techniques. Par extension, les majorations prévues à la NGAP ne peuvent pas être appliquées à des actes techniques figurant à la CCAM et les modificateurs prévus au chapitre 19.03 de la CCAM ne peuvent pas être appliqués aux actes relevant de la NGAP.
+A) Quand des actes techniques sont effectués dans le même temps qu'une consultation ou une visite mentionnées dans l'arrêté ministériel n° 84-688 du 30 novembre 1984, relatif à la nomenclature générale des actes professionnels des médecins, chirurgiens-dentistes, sages-femmes et auxiliaires médicaux (NGAP), modifié, les honoraires de celle-ci ne se cumulent pas avec ceux des actes techniques. Par extension, les majorations prévues à la NGAP ne peuvent pas être appliquées à des actes techniques figurant à la CCAM et les modificateurs prévus au chapitre 19.03 de la CCAM ne peuvent pas être appliqués aux actes relevant de la NGAP.
 
 Par dérogation à cette disposition, sont autorisés :
 
-1. le cumul des honoraires de la radiographie pulmonaire avec ceux de la consultation, pour les pneumologues ;
+1. Le cumul des honoraires de la radiographie pulmonaire avec ceux de la consultation, pour les pneumologues ;
 
-2. le cumul des honoraires de la consultation, donnée par un médecin qui examine un patient pour la première fois dans un établissement de soins, avec ceux de l'intervention qu'il réalise et qui lui fait immédiatement suite, lorsque cette intervention est pratiquée en urgence et entraîne l'hospitalisation du patient ;
+2. Le cumul des honoraires de la consultation donnée par un médecin qui examine un patient pour la première fois dans un établissement de soins, avec ceux de l'intervention qu'il réalise et qui lui fait immédiatement suite, lorsque cette intervention est pratiquée en urgence et entraîne l'hospitalisation du patient ;
 
-3. le cumul des honoraires de l'électrocardiogramme avec ceux de la consultation ou de la visite : C ou CS, V ou VS ou, pour les patients hospitalisés, C x 0,80 ou CS x 0,80 ;
+3. Le cumul des honoraires de l'électrocardiogramme avec ceux de la consultation ou de la visite : C ou CS, V ou VS ou, pour les patients hospitalisés, C × 0,80 ou CS × 0,80.
 
-4. Le cumul des honoraires de l'ostéodensitométrie [Absorptiométrie osseuse] sur «2 sites, par méthode biphotonique, avec ceux de la consultation pour les rhumatologues et les médecins de médecine physique et de réadaptation.
+Cependant, en cas d'actes multiples dans le même temps, les règles de cumul telles que prévues au paragraphe B ci-dessous s'appliquent sans cumul possible avec les honoraires de la consultation ou de la visite ;
 
-5. le cumul des honoraires de la consultation avec ceux des actes de biopsie suivants :
+4. Le cumul des honoraires de l'ostéodensitométrie [Absorptiométrie osseuse] sur deux sites par méthode biphotonique avec ceux de la consultation, pour les rhumatologues et les médecins de médecine physique et de réadaptation ;
 
-- QZHA001 : Biopsie dermoépidermique, par abord direct ;
+5. Le cumul des honoraires de l'acte de prélèvement cervico-vaginal (JKHD001) avec ceux de la consultation.
 
-- QZHA005 : Biopsie des tissus souscutanés susfasciaux, par abord direct ;
+Ce prélèvement n'est pris en charge qu'une fois tous les trois ans, dans le cadre du dépistage du cancer du col utérin, après la réalisation de 2 frottis cervico-utérins annuels normaux chez les femmes de 25 à 65 ans.
 
-- BAHA001 : Biopsie unilatérale ou bilatérale de paupière ;
+6. Le cumul des honoraires de la consultation avec ceux des actes de biopsie suivants :
 
-- CAHA001 : Biopsie unilatérale ou bilatérale de la peau de l'oreille externe ;
+QZHA001 : Biopsie dermoépidermique, par abord direct
 
-- CAHA002 : Biopsie unilatérale ou bilatérale du cartilage de l'oreille externe ;
+QZHA005 : Biopsie des tissus sous-cutanés susfasciaux, par abord direct
 
-- GAHA001 : Biopsie de la peau du nez et/ou de la muqueuse narinaire ;
+BAHA001 : Biopsie unilatérale ou bilatérale de paupière
 
-- HAHA002 : Biopsie de lèvre ;
+CAHA001 : Biopsie unilatérale ou bilatérale de la peau de l'oreille externe
 
-- QEHA001 : Biopsie de la plaque aréolomamelonnaire ;
+CAHA002 : Biopsie unilatérale ou bilatérale du cartilage de l'oreille externe
 
-- JHHA001 : Biopsie du pénis ;
+GAHA001 : Biopsie de la peau du nez et/ou de la muqueuse narinaire
 
-- JMHA001 : Biopsie de la vulve.
+HAHA002 : Biopsie de lèvre
 
-Dans ce cas, l'acte de consultation est tarifé à taux plein et l'acte technique est tarifé à 50 % de sa valeur.
+QEHA001 : Biopsie de la plaque aréolomamelonnaire
 
-6. Le cumul des honoraires de l'acte de prélèvement cervico-vaginal (JKHD001) avec ceux de la consultation.
+JHHA001 : Biopsie du pénis
 
-Dans ce cas, l'acte de consultation est tarifé à taux plein et l'acte technique est tarifé à 50% de sa valeur. Ce prélèvement n'est pris en charge qu'une fois tous les trois ans dans le cadre du dépistage du cancer du col utérin, après la réalisation de deux frottis cervico-utérins annuels normaux chez les femmes de 25 à 65 ans.
+JMHA001 : Biopsie de la vulve
 
-Cependant, en cas d'actes multiples dans le même temps, les règles de cumul telles que prévues au paragraphe B ci-dessous s'appliquent sans cumul possible avec les honoraires de la consultation ou de la visite.
+Dans ce cas, l'acte de consultation est tarifé à taux plein et l'acte technique est tarifé à 50 %.
 
 B) Pour l'association d'actes techniques, le médecin ou la sage-femme code les actes réalisés et indique, pour chacun d'entre eux, le code correspondant à la règle d'association devant être appliquée. Ces règles sont précisées ci-dessous et leurs modalités de codage sont décrites à l'annexe 2.
 
@@ -76,7 +76,7 @@ g. Dans les cas suivants, les actes associés sont tarifés à taux plein :
 
 * les actes de médecine nucléaire sont associés à taux plein ; deux actes au plus peuvent être tarifés ;
 
-* les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note » facturation : éventuellement en supplément. '
+* les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note « facturation : éventuellement en supplément. »
 
 h. Si pour des raisons médicales ou dans l'intérêt du patient, un médecin ou une sage-femme réalise des actes à des moments différents et discontinus de la même journée, à l'exclusion de ceux effectués dans une unité de réanimation ou dans une unité de soins intensifs de cardiologie, sur un même patient et qu'il facture ces actes à taux plein, il doit le justifier dans le dossier médical du patient qui est tenu à la disposition du contrôle médical.
 
