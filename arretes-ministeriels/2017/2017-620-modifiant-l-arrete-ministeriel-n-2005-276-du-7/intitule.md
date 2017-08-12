@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-620 du 3 août 2017 modifiant l'arrêté ministériel n° 2005-276 du 7 juin 2005 fixant les conditions de remboursement par les régimes d'assurance maladie des actes relevant de la classification commune des actes médicaux, modifié
