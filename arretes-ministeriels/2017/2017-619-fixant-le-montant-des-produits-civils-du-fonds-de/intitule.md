@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-619 du 3 août 2017 fixant le montant des produits civils du fonds de réserve de la Caisse Autonome des Retraites, ayant la nature de fruits civils, à affecter au déficit de l'activité du régime général pour l'exercice 2015-2016
