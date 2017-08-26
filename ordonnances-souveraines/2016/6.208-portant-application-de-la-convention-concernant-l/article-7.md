@@ -14,7 +14,7 @@ Les institutions financières de Monaco peuvent :
 
 - 6°) appliquer la procédure alternative prévue pour les Contrats d'assurance de groupe avec valeur de rachat ou un Contrat de rente de groupe, tel que prévu à la Section VII paragraphe B alinéa 2 et suivants, de l'Annexe I ;
 
-- 7°) pour identifier les Comptes déclarables, appliquer à certaines catégories de comptes clairement identifiées ou à tous les comptes de personnes physiques préexistants de faible valeur la procédure de l'adresse de résidence ou la recherche par voie électronique des dossiers qu'elles conservent ;
+- 7°) pour identifier les Comptes détenus par des résidents d'une Juridiction étrangère, appliquer à certaines catégories de comptes clairement identifiées ou à tous les comptes de personnes physiques préexistants de faible valeur la procédure de l'adresse de résidence ou la recherche par voie électronique des dossiers qu'elles conservent ;
 
 - 8°) appliquer la définition élargie de l'expression « Comptes préexistants », tel que prévu à la Section VIII paragraphe C alinéa 9 de l'Annexe I ;
 
