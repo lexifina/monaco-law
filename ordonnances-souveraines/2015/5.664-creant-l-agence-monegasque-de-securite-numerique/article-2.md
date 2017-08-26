@@ -1,8 +1,6 @@
 # Article 2
 
-L'Agence Monégasque de Sécurité Numérique est l'autorité nationale en charge de la sécurité des systèmes d'information.
-
-Elle constitue un centre d'expertise, de réponse et de traitement en matière de sécurité et d'attaques numériques et a, à ce titre, en particulier pour missions :
+L'Agence Monégasque de Sécurité Numérique est l'autorité nationale en charge de la sécurité des systèmes d'information. Elle constitue un centre d'expertise, de réponse et de traitement en matière de sécurité et d'attaques numériques et a, à ce titre, en particulier pour missions :
 
 - a) de prévenir, détecter et de traiter les cyberattaques, notamment par l'élaboration de plans, de procédures, de dispositifs de protection et de précaution et, plus généralement, de toutes mesures à proposer au titre de la sécurité numérique ;
 

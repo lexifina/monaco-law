@@ -1,6 +1,6 @@
 # Article 5
 
-Aux fins d'assurer l'accomplissement des missions définies aux articles 2 et 3, le directeur peut mettre en œuvre des traitements, automatisés ou non, d'informations nominatives permettant l'identification, par tous procédés techniques et/ou moyens informatiques, des personnes et des biens, dans le respect des dispositions de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée.
+Aux fins d'assurer l'accomplissement des missions définies aux articles 2 à 3, le directeur peut mettre en œuvre des traitements, automatisés ou non, d'informations nominatives permettant l'identification, par tous procédés techniques et/ou moyens informatiques, des personnes et des biens, dans le respect des dispositions de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée.
 
 Lesdits traitements ont la qualité de traitements de sécurité publique au sens de ladite loi.
 
