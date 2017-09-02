@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.494 du 28 juillet 2017 rendant exécutoire le Protocole additionnel à la Convention du Conseil de l'Europe pour la prévention du terrorisme (STCE n° 217), ouvert à la signature à Riga le 22 octobre 2015 et entré en vigueur le 1er juillet 2017
