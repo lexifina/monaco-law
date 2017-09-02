@@ -1,0 +1,3 @@
+# Article 1er
+
+Le but du présent Protocole est de compléter les dispositions de la Convention du Conseil de l'Europe pour la prévention du terrorisme, ouverte à la signature à Varsovie le 16 mai 2005 (ci-après dénommée « la Convention ») eu égard à l'incrimination des actes décrits aux articles 2 à 6 du présent Protocole, améliorant ainsi les efforts des Parties dans la prévention du terrorisme et de ses effets négatifs sur la pleine jouissance des droits de l'homme, en particulier du droit à la vie, à la fois par des mesures à prendre au niveau national et dans le cadre de la coopération internationale, en tenant compte des traités ou des accords multilatéraux ou bilatéraux existants, applicables entre les Parties.

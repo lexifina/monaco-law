@@ -1,0 +1,5 @@
+# Article 8
+
+1. Chaque Partie doit s'assurer que la mise en œuvre du présent Protocole, y compris l'établissement, la mise en œuvre et l'application de l'incrimination visée aux articles 2 à 6, soit réalisée en respectant les obligations relatives aux droits de l'homme lui incombant, notamment la liberté de circulation, la liberté d'expression, la liberté d'association et la liberté de religion, telles qu'établies dans la Convention de sauvegarde des droits de l'homme et des libertés fondamentales, dans le Pacte international relatif aux droits civils et politiques et d'autres obligations découlant du droit international, lorsqu'ils lui sont applicables.
+
+2. L'établissement, la mise en œuvre et l'application de l'incrimination visée aux articles 2 à 6 du présent Protocole devraient en outre être subordonnés au principe de proportionnalité, eu égard aux buts légitimes poursuivis et à leur nécessité dans une société démocratique, et devraient exclure toute forme d'arbitraire, de traitement discriminatoire ou raciste.
