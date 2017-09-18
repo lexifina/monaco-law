@@ -1,0 +1,3 @@
+# Article 11B
+
+Aucune disposition de la présente Convention ne doit être interprétée comme impliquant une obligation d'extradition ou d'entraide judiciaire si l'État partie requis a des raisons sérieuses de croire que la demande d'extradition pour les infractions visées à l'article 7 ou la demande d'entraide concernant de telles infractions a été présentée aux fins de poursuivre ou de punir une personne pour des considérations de race, de religion, de nationalité, d'origine ethnique ou d'opinions politiques, ou que donner suite à cette demande porterait préjudice à la situation de cette personne pour l'une quelconque de ces considérations.

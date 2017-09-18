@@ -1,1 +1,1 @@
-Convention du 3 mars 1980 sur la protection physique des matières nucléaires, faite à Vienne
+Convention sur la protection physique des matières nucléaires et des installations nucléaires
