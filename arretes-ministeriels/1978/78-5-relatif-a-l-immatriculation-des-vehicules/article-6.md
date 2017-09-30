@@ -86,9 +86,13 @@ Ces numéros sont réservés aux véhicules admis en circulation sur la voie pub
 
 - a) véhicule neuf carrossé ou non, à vide ou lesté, mais non chargé, à l'exception des personnes et du matériel nécessaires aux essais, et dont la mise en circulation provisoire, avant la déclaration de mise en circulation, est strictement limitée aux opérations suivantes :
 
-  - 1° déplacement entre le dépôt, le magasin ou l'atelier du concessionnaire ou de l'agent chargé de la vente et un lieu spécialisé dans lequel l'équipement doit être complété, modifié ou adapté ;
+- 1° déplacement entre le dépôt, le magasin ou l'atelier du concessionnaire ou de l'agent chargé de la vente et un lieu spécialisé dans lequel l'équipement doit être complété, modifié ou adapté ;
 
-  - 2° déplacement entre, d'une part, le dépôt, le magasin, l'atelier du concessionnaire ou de l'agent chargé de la vente ou l'atelier spécialisé où l'équipement a été complété et, d'autre part, un lieu de contrôle administratif ou un lieu d'exposition a la clientèle.
+- 2° déplacement entre, d'une part, le dépôt, le magasin, l'atelier du concessionnaire ou de l'agent chargé de la vente ou l'atelier spécialisé ou l'équipement a été complété et, d'autre part, un lieu de contrôle administratif ou un lieu d'exposition de la clientèle ;
+
+- 3° présentation à un client éventuel ;
+
+- 4° essai par un client éventuel
 
 - b) véhicules déjà immatriculés dont la mise en circulation a strictement pour objet :
 
