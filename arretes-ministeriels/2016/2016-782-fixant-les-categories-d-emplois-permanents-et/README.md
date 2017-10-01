@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2016-782 du 20 décembre 2016 fixant les catégories d'emplois permanents et établissant les échelles indiciaires de traitement applicables au personnel de service du Centre Hospitalier Princesse Grace
 
-Version en vigueur au 1er janvier 2017.
+Version en vigueur au 1er octobre 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2016/12-20-2016-782@2017.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2016/12-20-2016-782@2017.10.01/
 
 | | |
 | --- | --- |
