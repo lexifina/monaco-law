@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.085 du 25 septembre 1945 relative aux droits et devoirs des agents des services fiscaux
 
-Version en vigueur au 21 juin 2014.
+Version en vigueur au 14 octobre 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1945/09-25-3.085@2014.06.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1945/09-25-3.085@2017.10.14/
 
 | | |
 | --- | --- |
