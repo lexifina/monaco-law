@@ -1,0 +1,5 @@
+# Article 65
+
+En cas de refus de prise en charge des déchets d'activités de soins à risques infectieux et assimilés, des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement ou par les utilisateurs d'autotests ou des pièces anatomiques d'origine humaine, pour non-compatibilité avec la filière d'élimination, l'exploitant de l'installation destinataire prévient sans délai l'émetteur du bordereau de suivi et le lui renvoie en mentionnant le motif du refus. La personne responsable de l'élimination des déchets prend alors toutes les dispositions nécessaires pour les éliminer dans le délai prévu par le présent arrêté et applique les dispositions imposées par les articles 34 ou 35 pour l'émission d'un nouveau bordereau de suivi. Le bordereau mentionnant le refus de prise en charge est joint au document de suivi nouvellement émis.
+
+L'exploitant de l'installation destinataire signale sans délai tout refus de prise en charge aux autorités compétentes.
