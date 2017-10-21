@@ -1,0 +1,3 @@
+# Article 22
+
+Toute personne, tenue ou chargée d'éliminer des déchets d'activités de soins à risques infectieux et assimilés, des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement et par les utilisateurs d'autotests, des pièces anatomiques d'origine humaine ou des médicaments à usage humain non utilisés, qui incinère ou fait sciemment incinérer lesdits déchets, pièces ou médicaments dans des installations non conformes à la législation et à la réglementation en vigueur est punie d'un emprisonnement de un à six mois et de l'amende prévue au chiffre 2 de l'article 26 du Code pénal.

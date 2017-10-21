@@ -1,0 +1,9 @@
+# Article 4
+
+Sans préjudice des dispositions de la législation et de la réglementation relatives aux installations, toute installation de prétraitement par désinfection de déchets d'activités de soins à risques infectieux et assimilés fait l'objet d'une déclaration adressée au Directeur de l'Action Sanitaire par son exploitant, au moins un mois avant sa mise en service, son transfert, sa modification concernant un changement soit d'appareil de prétraitement mis en œuvre, soit de la provenance des déchets d'activités de soins à risques infectieux et assimilés, ou sa cessation d'activité. Cette déclaration est adressée par lettre recommandée avec demande d'avis de réception postal. Elle peut également être déposée contre récépissé. Le contenu du dossier de déclaration est fixé par arrêté ministériel.
+
+Toute installation de prétraitement par désinfection est soumise à des conditions d'aménagement et d'exploitation fixées par arrêté ministériel, notamment à une surveillance régulière des paramètres de désinfection et autres paramètres de fonctionnement des appareils de prétraitement qu'elle met en œuvre. Les frais occasionnés sont supportés par l'exploitant de l'installation.
+
+En cas de signalement ou de constat d'un risque grave pour la santé publique présenté par un appareil de prétraitement, le Directeur de l'Action Sanitaire en informe le Ministre d'État qui peut prononcer la suspension ou l'interdiction de son utilisation. En cas d'urgence, cette mesure peut être prononcée sans que l'exploitant ait été préalablement entendu en ses explications ou dûment appelé à les fournir.
+
+Un arrêté ministériel définit les limites et les prescriptions relatives à la valorisation de la matière des déchets issus du prétraitement par désinfection, compte tenu de l'impératif de protection de la santé publique.
