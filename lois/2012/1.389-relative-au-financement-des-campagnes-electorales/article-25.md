@@ -1,6 +1,6 @@
 # Article 25
 
-Dans les huit jours de la publication du rapport, et si celui-ci constate un dépassement du plafond légal des dépenses électorales par un candidat ou une liste de candidats ou l'absence de dépôt de leur compte de campagne, tout candidat déclaré peut, pour ces motifs, arguer de nullité l'élection de ce candidat ou des candidats de cette liste auprès du tribunal de première instance.
+Dans les huit jours de la publication du rapport, et si celui-ci constate un dépassement du plafond légal des dépenses électorales par un candidat ou une liste de candidats, l'absence de dépôt de leur compte de campagne ou une irrégularité grave dans le décompte des recettes électorales, tout électeur peut, pour ces motifs, arguer de nullité l'élection de ce candidat ou des candidats de cette liste auprès du tribunal de première instance.
 
 Le Ministre d'État peut, dans les mêmes conditions, déférer ces élections audit tribunal.
 

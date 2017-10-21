@@ -2,7 +2,7 @@
 
 Au sens de la présente loi, la campagne électorale comprend trois périodes : la période de campagne préalable, la période de déclaration des candidatures et la période de campagne officielle.
 
-La période de campagne préalable débute le 75ème jour et s'achève le 21ème jour précédant le jour du scrutin sauf lorsque les élections ont lieu en application des articles 74 ou 84 de la Constitution ou en application des articles 23, 23-1 ou 58 de la loi n° 839 du 23 février 1968, modifiée. Pour ces élections, la période de campagne préalable débute, selon les cas, le lendemain :
+La période de campagne préalable débute le 150ème jour et s'achève le 21ème jour précédant le jour du scrutin sauf lorsque les élections ont lieu en application des articles 74 ou 84 de la Constitution ou en application des articles 23, 23-1 ou 58 de la loi n° 839 du 23 février 1968, modifiée. Pour ces élections, la période de campagne préalable débute, selon les cas, le lendemain :
 
 - 1°) de la publication de l'ordonnance souveraine prévue à l'article 74 de la Constitution ;
 
