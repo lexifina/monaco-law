@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 6.251 du 20 janvier 2017 relative aux déchets
 
-Version en vigueur au 4 février 2017.
+Version en vigueur au 21 octobre 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/01-20-6.251@2017.02.04/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/01-20-6.251@2017.10.21/
 
 | | |
 | --- | --- |

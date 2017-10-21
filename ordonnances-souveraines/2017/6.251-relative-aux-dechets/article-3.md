@@ -28,13 +28,7 @@ h) « déchet inerte » : déchet qui ne subit aucune modification physique, chi
 
 i) « déchet dangereux » : déchet qui est caractérisé par sa nature ou l'activité qu'il produit ou qui est rendu dangereux par ses constituants ou ses propriétés ;
 
-j) « déchet d'activités de soins à risque infectieux et assimilé », dits « DASRIA » :
-
-- les déchets issus des activités de diagnostic, de suivi et de traitement préventif, curatif ou palliatif, dans les domaines de la médecine humaine et vétérinaire, lorsqu'ils peuvent présenter un risque infectieux ou mécanique, savoir, dans ce dernier cas, les déchets perforants ou tranchants notamment les aiguilles, les seringues, les lancettes, les stylos et les cathéters ;
-
-- les produits sanguins à usage thérapeutique incomplètement utilisés ou arrivés à péremption ;
-
-- les déchets anatomiques humains, correspondant à des fragments humains non aisément identifiables. Sont assimilés à ces déchets, les déchets issus des activités d'enseignement, de recherche et de production industrielle dans les domaines de la médecine humaine et vétérinaire, ainsi que ceux issus des activités de thanatopraxie, lorsqu'ils présentent l'une des caractéristiques mentionnées ci-dessus ;
+j) « déchets d'activités de soins à risques infectieux et assimilés », « déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement et par les utilisateurs d'autotests », « pièces anatomiques d'origine humaine » et « médicaments à usage humain non utilisés » : ceux définis par Notre Ordonnance n° 6.596 du 12 octobre 2017 relative aux déchets d'activités de soins à risques infectieux et assimilés, aux déchets d'activités de soins à risques infectieux perforants, aux pièces anatomiques d'origine humaine et aux médicaments à usage humain non utilisés ;
 
 k) « déchet radioactif » : objet ou matière contenant des substances radioactives, dont aucun usage ultérieur n'est envisagé et dont la radioactivité entraîne une gestion spécifique ;
 
