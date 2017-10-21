@@ -1,8 +1,8 @@
 # Arrêté ministériel du 14 janvier 1947 fixant le taux d'incapacité des victimes d'accidents du travail
 
-Version en vigueur au 31 janvier 1947.
+Version en vigueur au 21 octobre 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1947/01-14-L000536@1947.01.31/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1947/01-14-L000536@2017.10.21/
 
 | | |
 | --- | --- |
