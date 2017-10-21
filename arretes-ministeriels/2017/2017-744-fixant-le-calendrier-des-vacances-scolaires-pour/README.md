@@ -1,0 +1,12 @@
+# Arrêté ministériel n° 2017-744 du 11 octobre 2017 fixant le calendrier des vacances scolaires pour l'année 2018/2019
+
+Version en vigueur au 21 octobre 2017.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/10-11-2017-744@2017.10.21/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 11 octobre 2017 |
+| Publication | Journal de Monaco du 20 octobre 2017 |
