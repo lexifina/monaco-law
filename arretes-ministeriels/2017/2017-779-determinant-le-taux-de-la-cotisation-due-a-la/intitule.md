@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-779 du 2 novembre 2017 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2017-2018
