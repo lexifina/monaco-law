@@ -8,4 +8,4 @@ Cette transcription tient lieu d'acte de naissance.
 
 Les extraits d'acte devront, sans aucune référence au jugement d'adoption légitimante, indiquer les adoptants comme père et mère de l'enfant.
 
-L'acte de naissance qui aurait été antérieurement établi à Monaco, est, à la diligence du Ministère public, revêtu de la mention « adoption légitimante » ; aucun extrait ou copie ne peut plus en être délivré.
+L'acte de naissance qui aurait été antérieurement établi à Monaco, est, à la diligence du Ministère public, revêtu de la mention « adoption légitimante »; aucun extrait ou copie ne peut plus en être délivré.

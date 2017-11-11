@@ -34,6 +34,6 @@ Les créances privilégiées sur certains meubles sont :
 
 - 9° La créance du Trésor et éventuellement du sauveteur pour les frais engagés à l'occasion du sauvetage d'une épave maritime, sur l'épave ;
 
-- 10° La créance de l'État résultant d'un contrat « habitation-capitalisation », sur le prix de tout ce qui garnit l'appartement objet du contrat.
+- 10° La créance de l'État résultant d'un contrat « habitation-capitalisation » sur le prix de tout ce qui garnit l'appartement objet du contrat.
 
 - Le même privilège a lieu pour les réparations locatives et pour tout ce qui concerne l'exécution du contrat.
