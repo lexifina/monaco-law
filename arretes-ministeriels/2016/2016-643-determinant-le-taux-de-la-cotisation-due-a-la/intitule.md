@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2016-643 du 3 novembre 2016 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2016-2017
