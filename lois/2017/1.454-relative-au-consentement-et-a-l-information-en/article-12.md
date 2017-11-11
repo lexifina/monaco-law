@@ -1,0 +1,7 @@
+# Article 12
+
+Toute personne peut demander l'accès à l'ensemble des informations concernant sa santé détenues, à quelque titre que ce soit, par des professionnels ou établissements de santé, que ces informations soient formalisées par écrit ou sur tout autre support, y compris celles ayant fait l'objet d'un échange entre professionnels de santé, à l'exception des informations concernant des tiers et des annotations personnelles des professionnels de santé.
+
+Elle peut accéder à ces informations et en obtenir communication, directement ou par l'intermédiaire d'un médecin, de son conjoint, de la personne de confiance mentionnée à l'article 20 ou de l'un de ses ascendants, descendants, frères ou sœurs, qu'elle désigne, dans les quinze jours suivant sa demande ou, lorsque ces informations datent de plus de cinq ans, dans les deux mois. Toutefois, à la demande du professionnel ou de l'établissement de santé, le président de la Commission de contrôle des informations nominatives peut, après avis favorable de celle-ci, accorder des délais de réponse ou dispenser de l'obligation de répondre à des demandes abusives par leur nombre, leur caractère répétitif ou systématique, la personne concernée dûment avisée.
+
+À défaut de réponse dans le délai imparti, la demande d'accès est réputée rejetée. Les modalités de la procédure d'accès à ces informations sont fixées par ordonnance souveraine.
