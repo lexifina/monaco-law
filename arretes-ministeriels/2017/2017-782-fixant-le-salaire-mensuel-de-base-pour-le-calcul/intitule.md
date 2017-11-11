@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2017-782 du 2 novembre 2017 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2017-2018
