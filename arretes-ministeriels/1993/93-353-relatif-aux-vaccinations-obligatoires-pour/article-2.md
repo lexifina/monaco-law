@@ -2,40 +2,42 @@
 
 Les activités se rapportant à la santé ou assimilées sont celles :
 
-- du personnel des établissements de soins ;
+1° du personnel des établissements de soins ;
 
-- des médecins, infirmiers, infirmières exerçant à titre libéral ;
+2° tout élève ou étudiant d'un établissement préparant à l'exercice des professions médicales et des autres professions de santé ;
 
-- du personnel des établissements relevant de l'aide sociale à l'enfance, qu'il appartienne soit à des services externes, soit à des services internes ;
+3° les médecins, infirmiers, infirmières exerçant à titre libéral ;
 
-- du personnel des services sanitaires et sociaux de maintien à domicile ;
+4° du personnel des établissements relevant de l'aide sociale à l'enfance, qu'il appartienne soit à des services externes, soit à des services internes ;
 
-- des ambulanciers ;
+5° du personnel des services sanitaires et sociaux de maintien à domicile ;
 
-- des sapeurs-pompiers ;
+6° du personnel assurant des activités de services à la personne ;
 
-- Ces personnes sont soumises, quel que soit leur âge. à toutes les vaccinations prévues à l'article 10 de la loi n° 882 du 29 mai 1970 susvisée, à l'exception de la vaccination contre les fièvres typhoïde et paratyphoïde A et B ; cependant la vaccination contre la rubéole n'est imposée qu'aux femmes.
+7° des ambulanciers ;
 
-- des chirurgiens-dentistes ;
+8° des sapeurs-pompiers ; Les personnes mentionnées aux chiffres 1 à 8 sont soumises, quel que soit leur âge, à toutes les vaccinations prévues à l'article 10 de la loi n° 882 du 29 mai 1970, susvisée, à l'exception de la vaccination contre les fièvres typhoïde et paratyphoïde A et B.
 
-- du personnel du Service municipal d'hygiène ;
+9° des chirurgiens-dentistes ;
 
-- du personnel de la Police municipale ;
+10° du personnel du Service municipal d'hygiène ;
 
-- des carabiniers ;
+11° du personnel de la Police municipale ;
 
-- du personnel de la Sûreté publique ;
+12° des carabiniers ;
 
-- du personnel de la Maison d'arrêt ;
+13° du personnel de la Sûreté publique ;
 
-- du personnel des Établissements d'hébergement pour personnes âgées ou handicapées ;
+14° du personnel de la Maison d'arrêt ;
 
-- du personnel de l'Inspection médicale des scolaires et des sportifs ;
+15° du personnel des Établissements d'hébergement pour personnes âgées ou handicapées ;
 
-- du personnel de l'Office de la médecine du travail ;
+16° du personnel de l'Inspection Médicale des scolaires et des sportifs ;
 
-- des médecins et des chirurgiens-dentistes-contrôleurs ;
+17° du personnel de l'Office de la médecine du travail ;
 
-- Ces personnes sont soumises, quel que soit leur âge, à la vaccination contre l'hépatite B.
+18° des médecins et des chirurgiens-dentistes contrôleurs ;
 
-- du personnel des laboratoires d'analyses de biologie médicale. Ces personnes sont soumises, quel que soit leur âge, à la vaccination contre l'hépatite B et à la vaccination contre les fièvres typhoïde et paratyphoïde A et B.
+Les personnes mentionnées aux chiffres 9 à 18 sont soumises, quel que soit leur âge, à la vaccination contre l'hépatite B.
+
+19° du personnel des laboratoires d'analyses de biologie médicale. Ces personnes sont soumises quel que soit leur âge, à la vaccination contre l'hépatite B et à la vaccination contre la fièvre typhoïde.

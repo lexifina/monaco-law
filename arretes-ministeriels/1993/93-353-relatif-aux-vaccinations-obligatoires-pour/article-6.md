@@ -8,4 +8,4 @@ Les activités pratiquées dans le domaine de l'assainissement sont celles :
 
 - des égoutiers.
 
-Ces personnes sont soumises, quel que soit leur âge, à la vaccination antitétanique.
+Ces personnes sont soumises, quel que soit leur âge, à la vaccination antidiphtérique, antitétanique et antipoliomyélitique.
