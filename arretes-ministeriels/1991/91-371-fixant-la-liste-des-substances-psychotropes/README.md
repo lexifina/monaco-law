@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 91-371 du 2 juillet 1991 fixant la liste des substances psychotropes
 
-Version en vigueur au 19 novembre 2013.
+Version en vigueur au 18 novembre 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/07-02-91-371@2013.11.19/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/07-02-91-371@2017.11.18/
 
 | | |
 | --- | --- |
