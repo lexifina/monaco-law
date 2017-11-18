@@ -1,3 +1,13 @@
 # Article 22
 
-L'orthoptie consiste en des actes d'exploration, de rééducation et de réadaptation de la vision utilisant éventuellement des appareils et destinés à traiter les anomalies fonctionnelles de la vision.
+Le protocole organisationnel permet à un orthoptiste de participer à la prise en charge de patients suivis par un médecin ophtalmologiste signataire de ce protocole.
+
+Il peut concerner :
+
+1° La préparation par l'orthoptiste de l'examen médical du médecin ophtalmologiste ;
+
+2° Le suivi par l'orthoptiste d'un patient dont la pathologie visuelle est déjà diagnostiquée, sans examen ophtalmologique réalisé le même jour, afin de vérifier que l'état reste stabilisé.
+
+Le protocole organisationnel décrit les situations médicales concernées et les actes orthoptiques nécessaires.
+
+Le patient est informé de sa prise en charge dans le cadre d'un protocole organisationnel.

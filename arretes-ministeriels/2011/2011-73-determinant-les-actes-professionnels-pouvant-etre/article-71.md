@@ -1,7 +1,15 @@
 # Article 71
 
-L'opticien-lunetier peut adapter, dans le cadre d'un renouvellement, les prescriptions médicales initiales de verres correcteurs datant de moins de trois ans, à l'exclusion de celles établies pour les personnes âgées de moins de seize ans et sauf opposition du médecin.
+La délivrance des verres correcteurs est subordonnée à la présentation ou à la vérification de l'existence d'une prescription médicale en cours de validité comportant la prescription de ces produits.
 
-Pour les patients atteints de presbytie, les dispositions de l'alinéa précédent s'appliquent sous réserve que le médecin ait prescrit la première correction de ce trouble de la vision.
+La durée de validité de l'ordonnance médicale est fixée à :
 
-L'opticien-lunetier est tenu d'informer le médecin prescripteur lorsque la correction est différente de celle inscrite dans l'ordonnance initiale, et la personne appareillée que l'examen de la réfraction pratiqué en vue de l'adaptation ne constitue pas un examen médical.
+- un an pour les patients âgés de moins de 16 ans ;
+
+- cinq ans pour les patients âgés de 16 à 42 ans ;
+
+- trois ans pour les patients âgés de plus de 42 ans.
+
+Une copie de cette ordonnance est conservée par l'opticien-lunetier jusqu'à l'expiration de sa validité, sauf opposition du patient.
+
+L'opticien-lunetier qui réalise une réfraction lors de la première délivrance suivant la prescription de verres correcteurs ne peut pas adapter cette prescription.

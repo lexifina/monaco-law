@@ -1,13 +1,11 @@
 # Article 24
 
-L'orthoptiste est seul habilité, sur prescription médicale et dans le cadre du traitement des déséquilibres oculomoteurs et des déséquilibres neurosensoriels y afférents, à effectuer les actes professionnels suivants:
+Sur prescription médicale, ou dans le cadre d'un protocole organisationnel tel que défini à l'article 23, l'orthoptiste est habilité à :
 
-1° Détermination subjective et objective de la fixation et étude des mouvements oculaires ;
+1° Déterminer l'acuité visuelle et la réfraction, avec ou sans dilatation, les médicaments nécessaires à la réalisation étant prescrits par le médecin ophtalmologiste ;
 
-2° Bilan des déséquilibres oculomoteurs ;
+2° Procéder à l'irrigation de l'œil et instillation de collyres ;
 
-3° Rééducation des personnes atteintes de strabisme, d'hétérophories, d'insuffisance de convergence ou de déséquilibres binoculaires ;
+3° Recueillir des sécrétions lacrymales ;
 
-4° Rééducation des personnes atteintes d'amblyopie fonctionnelle.
-
-Il est en outre habilité à effectuer les actes de rééducation de la vision fonctionnelle chez les personnes atteintes de déficience visuelle d'origine organique ou fonctionnelle.
+4° Réaliser les séances d'apprentissage à la manipulation et à la pose de lentilles de contact oculaire et des verres scléraux.

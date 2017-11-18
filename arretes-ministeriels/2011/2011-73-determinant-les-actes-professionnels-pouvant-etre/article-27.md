@@ -1,7 +1,11 @@
 # Article 27
 
-L'orthoptiste est habilité à participer, sous la responsabilité d'un médecin en mesure d'en contrôler l'exécution et d'intervenir immédiatement, aux enregistrements effectués à l'occasion des explorations fonctionnelles suivantes :
+L'orthoptiste est habilité à participer, sur prescription médicale ou dans le cadre d'un protocole organisationnel défini à l'article 23 et sous la responsabilité d'un médecin ophtalmologiste en mesure d'en contrôler l'exécution et d'intervenir immédiatement, aux enregistrements effectués à l'occasion des explorations fonctionnelles suivantes :
 
-1° Rétinographie mydriatique ;
+1° Angiographie rétinienne, à l'exception de l'injection qui est effectuée par un professionnel de santé habilité ;
 
-2° Electrophysiologie oculaire.
+2° Électrophysiologie oculaire ;
+
+3° Biométrie oculaire avec contact ;
+
+4° Pachymétrie avec contact. L'interprétation des résultats est de la compétence du médecin responsable de l'exécution de l'examen.
