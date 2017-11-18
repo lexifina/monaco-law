@@ -4,17 +4,39 @@ I. - À l'exclusion du petit matériel nécessaire à la réalisation de l'acte 
 
 1. Articles pour pansement :
 
-- compresses stériles ou non ;
+- pansements adhésifs stériles avec compresse intégrée ;
 
-- filet tubulaire de maintien des pansements élastique ou non ;
+- compresses stériles de coton hydrophile à bords adhésifs ;
 
-- jersey tubulaire de maintien des pansements élastique ou non ;
+- compresses stériles de coton hydrophile non adhérentes ;
 
-- bandes de crêpe et de maintien : coton, laine, extensible ;
+- pansements et compresses stériles absorbants non adhérents pour plaies productives ;
 
-- coton hydrophile, gaze et ouate ;
+- compresses stériles non tissées ;
 
-- sparadraps élastique et non élastique ;
+- compresses stériles de gaze hydrophile ;
+
+- gaze hydrophile non stérile ;
+
+- compresses de gaze hydrophile non stériles et non tissées non stériles ;
+
+- coton hydrophile non stérile ;
+
+- ouate de cellulose chirurgicale ;
+
+- sparadraps élastiques et non élastiques ;
+
+- filets et jerseys tubulaires ;
+
+- bandes de crêpe en coton avec ou sans présence d'élastomère ;
+
+- bandes extensibles tissées ou tricotées ;
+
+- bandes de crêpe en laine ;
+
+- films adhésifs semi-perméables stériles ;
+
+- sets pour plaie ;
 
 2. Cerceaux pour lit de malade ;
 
@@ -24,7 +46,7 @@ I. - À l'exclusion du petit matériel nécessaire à la réalisation de l'acte 
 
 - plat bassin et urinal ;
 
-- dispositifs médicaux et accessoires communs pour incontinents urinaires, fécaux et stomisés : poches, raccord, filtre, tampon, supports avec ou sans anneau de gomme, ceinture, clamp, pâte pour protection péristomiale, ceinture, tampon absorbant, bouchon de matières fécales, ceinture, collecteur d'urines ;
+- dispositifs médicaux et accessoires communs pour incontinents urinaires, fécaux et stomisés : poches, raccord, filtre, tampon, supports avec ou sans anneau de gomme, ceinture, clamp, pâte pour protection péristomiale, tampon absorbant, bouchon de matières fécales, collecteur d'urines et de matières fécales ;
 
 - dispositifs pour colostomisés pratiquant l'irrigation ;
 
@@ -60,9 +82,35 @@ II. - Par ailleurs, peuvent également être prescrits dans les mêmes condition
 
 1. Matelas ou surmatelas d'aide à la prévention des escarres en mousse de haute résilience type gaufrier ;
 
-2. Coussin d'aide à la prévention des escarres en fibres siliconées ou en mousse monobloc ;
+2. Coussin d'aide à la prévention des escarres :
 
-3. Pansements hydrocolloïde, hydrocellulaire, en polyuréthane, hydrofibre, hydrogel, siliconés ;
+- coussins à air statique ;
+
+- coussins en mousse structurée formés de modules amovibles ;
+
+- coussins en gel ;
+
+- coussins en mousse et gel ;
+
+3. Pansements :
+
+- hydrocolloides ;
+
+- hydrocellulaires ;
+
+- alginates ;
+
+- hydrogels ;
+
+- en fibres de carboxyméthylcellulose (CMC) ;
+
+- à base de charbon actif ;
+
+- à base d'acide hyaluronique seul ;
+
+- interfaces, y compris ceux silliconés et à base de carboxyméthylcellulose (CMC) ;
+
+- pansements vaselinés ;
 
 4. Pansements d'alginate, à base de charbon actif, vaselinés, à base d'acide hyaluronique ;
 
@@ -70,4 +118,18 @@ II. - Par ailleurs, peuvent également être prescrits dans les mêmes condition
 
 6. Dans le cadre d'un renouvellement à l'identique, bas de contention ;
 
-7. Dans le cadre d'un renouvellement à l'identique, accessoires pour lecteur de glycémie et autopiqueurs : aiguilles, bandelettes, lancettes, aiguille adaptable au stylo injecteur non réutilisable et stérile.
+7. Dans le cadre d'un renouvellement à l'identique, accessoires pour lecteur de glycémie :
+
+- lancettes ;
+
+- bandelettes d'autosurveillance glycémique ;
+
+- autopiqueurs à usage unique ;
+
+- seringues avec aiguilles pour autotraitement ;
+
+- aiguilles non réutilisables pour stylo injecteur ;
+
+- ensemble stérile non réutilisable : aiguilles et réservoir ;
+
+- embout perforateur stérile.
