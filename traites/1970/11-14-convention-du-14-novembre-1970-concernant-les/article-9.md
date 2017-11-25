@@ -1,0 +1,3 @@
+# Article 9
+
+Tout État partie à la présente Convention et dont le patrimoine culturel est mis en danger par certains pillages archéologiques ou ethnologiques peut faire appel aux États qui sont concernés. Les États parties à la présente Convention s'engagent à participer à toute opération internationale concertée dans ces circonstances, en vue de déterminer et d'appliquer les mesures concrètes nécessaires, y compris le contrôle de l'exportation, de l'importation et du commerce international des biens culturels spécifiques concernés. En attendant un accord chaque État concerné prendra, dans la mesure du possible, des dispositions provisoires pour prévenir un dommage irrémédiable au patrimoine culturel de l'État demandeur.

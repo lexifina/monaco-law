@@ -1,0 +1,3 @@
+# Article 22
+
+Les États parties à la présente Convention reconnaissent que celle-ci est applicable non seulement à leurs territoires métropolitains mais aussi aux territoires dont ils assurent les relations internationales ; ils s'engagent à consulter, si nécessaire, les gouvernements ou autres autorités compétentes desdits territoires, au moment de la ratification, de l'acceptation ou de l'adhésion, ou auparavant, en vue d'obtenir l'application de la Convention à ces territoires, ainsi qu'à notifier au Directeur général de l'Organisation des Nations Unies pour l'éducation, la science et la culture, les territoires auxquels la Convention s'appliquera, cette ratification devant prendre effet trois mois après la date de sa réception.
