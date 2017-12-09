@@ -32,19 +32,29 @@ Les provisions qui, en tout ou en partie, reçoivent un emploi non conforme à l
 
 3. - Qu'elles soient supportées directement par l'entreprise sous forme d'allocations forfaitaires ou de remboursement de frais, sont exclues des charges déductibles pour l'établissement de l'impôt, d'une part, les dépenses et charges de toute nature ayant trait à l'exercice de la chasse ainsi qu'à l'exercice non professionnel de la pêche et, d'autre part, les charges, à l'exception de celles ayant un caractère social, résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de résidences de plaisance ou d'agrément, ainsi que l'entretien de ces résidences.
 
-Sauf justification, les dispositions de l'alinéa qui précède sont applicables à l'amortissement des voitures de tourisme pour la fraction de leur prix d'acquisition qui dépasse :
+Sauf justifications, les dispositions de l'alinéa qui précède sont applicables :
 
-- 18 300 euro(s) pour les véhicules mis en circulation à compter du 1er novembre 1996,
+À l'amortissement des véhicules de tourisme pour la fraction de leur prix d'acquisition qui dépasse 18.300 euro(s).
 
-- 15 300 euro(s) pour les véhicules mis en circulation entre le 1er novembre 1993 et le 1er novembre 1996,
+Cette somme est portée à 30.000 euro(s) lorsque les véhicules mentionnés à l'alinéa précédent ont un taux d'émission de dioxyde de carbone inférieur à 20 grammes par kilomètre, et à 20.300 euro(s) lorsque leur taux d'émission de dioxyde de carbone est supérieur ou égal à 20 grammes et inférieur à 60 grammes par kilomètre.
 
-- 10 000 euro(s) pour les véhicules mis en circulation entre le 1er janvier 1988 et le 1er novembre 1993,
+Elle est ramenée à 9.900 euro(s) lorsque ces véhicules ont un taux d'émission de dioxyde de carbone supérieur à :
 
-- 7 700 euro(s) pour les véhicules mis en circulation entre le 1er juillet 1985 et le 1er janvier 1988,
+- - 155 grammes par kilomètre, pour ceux acquis ou loués entre le 1er janvier 2017 et le 31 décembre 2017 ;
 
-- 5 400 euro(s) pour les autres véhicules,
+- - 150 grammes par kilomètre, pour ceux acquis ou loués entre le 1er janvier 2018 et le 31 décembre 2018 ;
 
-- Ainsi qu'aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien. La fraction de l'amortissement des véhicules de tourisme ainsi exclue des charges déductibles est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure de ces véhicules.
+- - 140 grammes par kilomètre, pour ceux acquis ou loués entre le 1er janvier 2019 et le 31 décembre 2019 ;
+
+- - 135 grammes par kilomètre, pour ceux acquis ou loués entre le 1er janvier 2020 et le 31 décembre 2020 ;
+
+- - 130 grammes par kilomètre, pour ceux acquis ou loués à compter du 1er janvier 2021.
+
+En cas d'opérations de crédit-bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des véhicules de tourisme, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule qui excède les limites déterminées conformément au a.
+
+Aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien ; les amortissements sont regardés comme faisant partie de ces dépenses.
+
+La fraction de l'amortissement des véhicules de tourisme exclue des charges déductibles par les limitations ci-dessus est néanmoins retenue pour la détermination des plus-values résultant de la vente ultérieures des véhicules ainsi amortis.
 
 4. - Les sommes versées ou les avantages octroyés, directement ou indirectement, à quiconque, pour lui-même ou pour autrui, pour obtenir d'une personne physique ou morale qu'elle accomplisse ou s'abstienne d'accomplir un acte de sa fonction ou facilité par sa fonction ou pour avoir accompli ou s'être abstenu d'accomplir un acte de sa fonction ou facilité par sa fonction, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
 
