@@ -2,11 +2,11 @@
 
 Les Biens de la Couronne de nature mobilière, quel que soit le lieu où ils se trouvent, sont ceux qui :
 
-- soit présentent le caractère d'objet d'art et/ou de collection, au nombre desquels figurent notamment les collections de timbres-poste et de monnaies ;
+a) soit présentent le caractère d'objet d'art et/ou de collection, au nombre desquels figurent notamment les collections de timbres-poste et de monnaies ;
 
-- soit sont des biens mobiliers ou meubles meublants présentant un intérêt historique, familial ou patrimonial en rapport direct avec la dynastie ou la Souveraineté, ou contribuant au prestige ou au rayonnement de la Famille Souveraine ou de la Principauté ;
+b) soit sont des biens mobiliers ou meubles meublants présentant un intérêt historique, familial ou patrimonial en rapport direct avec la dynastie ou la Souveraineté, ou contribuant au prestige ou au rayonnement de la Famille Souveraine ou de la Principauté ;
 
-- soit sont constitués par des fonds, valeurs ou titres dépendant de comptes bancaires ou de portefeuilles financiers, spécialement affectés aux Biens de la Couronne par le Prince.
+c) soit sont constitués par des fonds, valeurs ou titres dépendant de comptes bancaires ou de portefeuilles financiers, spécialement affectés aux Biens de la Couronne par le Prince.
 
 Les Biens de la Couronne de nature mobilière peuvent être complétés par tous autres biens dont le Prince estime qu'ils remplissent les conditions fixées aux lettres a) et b).
 

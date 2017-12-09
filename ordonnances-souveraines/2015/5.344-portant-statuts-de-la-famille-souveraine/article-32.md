@@ -22,7 +22,9 @@ La Maison Souveraine se compose des personnes affectées :
 
 - à la Commission d'amélioration environnementale ;
 
-- au Centre d'études prospectives pour Monaco (C.E.P.R.O.M.).
+- au Centre d'études prospectives pour Monaco (C.E.P.R.O.M.) ;
+
+- les musées du Palais Princier tels que définis par Décision Souveraine.
 
 La Maison Souveraine comprend également le Grand Aumônier, le Chapelain, le Maître de Chapelle, le Médecin et l'Architecte Conservateur du Palais, les Conseillers auprès du Prince, le Régisseur du Palais ainsi que toute personne que le Prince nomme en cette qualité par Décision Souveraine.
 
