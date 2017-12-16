@@ -26,6 +26,10 @@ Par dérogation aux dispositions précédentes et en cas :
 
     - le nouveau mari de la mère et subsidiairement la mère.
 
+  - c) au regard des enfants pour lesquels la résidence est alternée entre leurs père et mère :
+
+  - - le père et subsidiairement la mère.
+
 B. - Sont considérés comme chef de foyer, au regard des enfants naturels dont la filiation est régulièrement établie :
 
 - le père et subsidiairement la mère lorsqu'elle vit avec celui-ci,
