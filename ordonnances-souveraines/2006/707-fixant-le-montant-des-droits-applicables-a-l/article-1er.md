@@ -91,3 +91,11 @@ Délivrance d'une copie certifiée de toutes les inscriptions ou radiations ou d
 Droit de transmission d'une demande internationale : 54 euros
 
 Droit pour la préparation d'exemplaires complémentaires, par page et par exemplaire : 1,5 euro
+
+12°) Rapport de recherche
+
+- Traitement de la requête : 60 euros
+
+- Établissement du rapport de recherche : 2.689 euros
+
+- Délivrance d'une copie du rapport de recherche : 15 euros
