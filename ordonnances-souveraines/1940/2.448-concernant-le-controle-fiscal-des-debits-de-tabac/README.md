@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.448 du 1er août 1940 concernant le contrôle fiscal des débits de tabac
 
-Version en vigueur au 1er janvier 2017.
+Version en vigueur au 16 décembre 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1940/08-01-2.448@2017.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1940/08-01-2.448@2017.12.16/
 
 | | |
 | --- | --- |
