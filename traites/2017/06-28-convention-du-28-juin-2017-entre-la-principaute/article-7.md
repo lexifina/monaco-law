@@ -1,0 +1,9 @@
+# Article 7
+
+1. Les bénéfices d'une entreprise d'un État contractant ne sont imposables que dans cet État, à moins que l'entreprise n'exerce son activité dans l'autre État contractant par l'intermédiaire d'un établissement stable qui y est situé. Si l'entreprise exerce son activité d'une telle façon, les bénéfices de l'entreprise sont imposables dans l'autre État mais seulement dans la mesure où ils sont imputables à cet établissement stable selon les dispositions du paragraphe 2.
+
+2. Sous réserve de cet article et de l'article 22, les bénéfices imputables à l'établissement stable mentionné au paragraphe 1 dans chaque État contractant sont ceux qu'il aurait pu réaliser, en particulier dans ses opérations internes avec d'autres parties de l'entreprise, s'il avait constitué une entreprise distincte et indépendante exerçant des activités identiques ou analogues dans des conditions identiques ou analogues, compte tenu des fonctions exercées, des actifs utilisés et des risques assumés par l'entreprise par l'intermédiaire de l'établissement stable et des autres parties de l'entreprise.
+
+3. Lorsque, conformément au paragraphe 2, un État contractant ajuste les bénéfices qui sont attribuables à un établissement stable d'une entreprise d'un des États contractants et impose en conséquence des bénéfices de l'entreprise qui ont été imposés dans l'autre État, cet autre État procède à un ajustement approprié du montant de l'impôt qui a été perçu sur ces bénéfices dans la mesure nécessaire pour éliminer la double imposition de ces bénéfices. Pour déterminer cet ajustement, les autorités compétentes des États contractants se consultent si nécessaire.
+
+4. Lorsque les bénéfices comprennent des éléments de revenu traités séparément dans d'autres articles de la présente Convention, les dispositions de ces articles ne sont pas affectées par les dispositions du présent article.
