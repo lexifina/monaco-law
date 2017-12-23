@@ -1,3 +1,0 @@
-# Article 59
-
-Le possesseur, le détenteur ou le pilote qui aura apposé ou fait apposer sur l'aéronef des marques d'immatriculation non conformes à celles du certificat de navigabilité ou qui aura supprimé ou fait supprimer, rendu ou fait rendre illisibles les marques exactement apposées, sera puni d'une amende de 10 000 à 200 000 francs et d'un emprisonnement de six mois à trois ans. Seront punis des mêmes peines ceux qui auront apposé ou fait apposer sur des aéronefs privés les marques distinctives réservées aux aéronefs publics ou qui auront fait usage d'un aéronef privé portant lesdites marques.
