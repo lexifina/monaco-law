@@ -1,8 +1,8 @@
 # Ordonnance-Loi n° 674 du 3 novembre 1959 concernant l'urbanisme, la construction et la voirie
 
-Version en vigueur au 15 juillet 2000.
+Version en vigueur au 23 décembre 2017.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1959/11-03-674@2000.07.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1959/11-03-674@2017.12.23/
 
 | | |
 | --- | --- |
