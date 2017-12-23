@@ -42,4 +42,16 @@ Pour l'application de la Norme commune de déclaration, sont considérés comme 
 
 - Samoa,
 
-- Les Seychelles
+- Les Seychelle,
+
+- les Bermudes,
+
+- le Brésil,
+
+- la Colombie,
+
+- le Mexique,
+
+- l'Indonésie,
+
+- le Japon.
