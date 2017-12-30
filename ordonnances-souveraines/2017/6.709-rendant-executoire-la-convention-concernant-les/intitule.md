@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.709 du 13 décembre 2017 rendant exécutoire la Convention concernant les mesures à prendre pour interdire et empêcher l'importation, l'exportation et le transfert de propriété illicites de biens culturels adoptée à Paris le 14 novembre 1970

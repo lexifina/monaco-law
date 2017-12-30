@@ -1,0 +1,3 @@
+Notre Instrument de ratification à la Convention concernant les mesures à prendre pour interdire et empêcher l'importation, l'exportation et le transfert de propriété illicites de biens culturels, ayant été déposé auprès du Directeur Général de l'Organisation des Nations Unis pour l'éducation, la science et la culture le 25 août 2017, ladite Convention est entrée en vigueur pour Monaco le 25 novembre 2017 et recevra sa pleine et entière exécution à dater de la publication de la présente ordonnance.
+
+Notre Secrétaire d'État, Notre Directeur des Services Judiciaires et Notre ministre d'État sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
