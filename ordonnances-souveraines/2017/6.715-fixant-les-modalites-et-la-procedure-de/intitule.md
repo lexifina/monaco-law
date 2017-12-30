@@ -1,0 +1,1 @@
+Ordonnance souveraine n° 6.715 du 21 décembre 2017 fixant les modalités et la procédure de dérogation partielle aux règles d'accessibilité du cadre bâti neuf ou de mise en accessibilité du cadre bâti existant
