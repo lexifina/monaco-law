@@ -1,0 +1,9 @@
+# Article 82
+
+Toute cabine et tout espace à usage individuel adaptés d'un établissement recevant du public neuf est doté :
+
+- d'un espace de manœuvre avec possibilité de demi-tour, dont les caractéristiques dimensionnelles sont définies en annexe 1 ;
+
+- d'un équipement permettant de s'asseoir et de disposer d'un appui en position « debout ».
+
+Toutefois, s'il s'agit de douches adaptées, celles-ci sont soumises aux dispositions de l'article 52.
