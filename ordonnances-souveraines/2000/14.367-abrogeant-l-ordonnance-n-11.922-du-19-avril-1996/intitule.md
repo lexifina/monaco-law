@@ -1,1 +1,0 @@
-Ordonnance souveraine n° 14.367 du 14 mars 2000 abrogeant l'ordonnance n° 11.922 du 19 avril 1996 portant création de redevances à la Direction du commerce, de l'industrie et de la propriété industrielle Centre d'informations sur les brevets d'Invention de Monaco
