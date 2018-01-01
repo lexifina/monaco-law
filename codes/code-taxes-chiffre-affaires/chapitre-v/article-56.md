@@ -20,7 +20,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - f) les transports de voyageurs ;
 
-- g) (g abrogé) ;
+- g) (g abrogé) ; ;
 
 - h) Les abonnements souscrits par les usagers afin de recevoir les services de télévision.
 

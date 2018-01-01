@@ -52,4 +52,4 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - J. - Les droits d'entrée perçus par les organisateurs de réunions sportives.
 
-- K. - Les autotests de détection de l'infection par les virus de l'immunodéficience humaine.
+- K. - (K abrogé).

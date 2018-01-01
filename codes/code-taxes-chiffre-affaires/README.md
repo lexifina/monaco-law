@@ -1,11 +1,11 @@
 # Code des taxes sur le chiffre d'affaires
 
-Version en vigueur au 18 mars 2017.
+Version en vigueur au 1er janvier 2018.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2017.03.18/
+Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2018.01.01/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code des taxes sur le chiffre d'affaires |
-| Dernière modification | 18 mars 2017 |
+| Dernière modification | 1 janvier 2018 |
