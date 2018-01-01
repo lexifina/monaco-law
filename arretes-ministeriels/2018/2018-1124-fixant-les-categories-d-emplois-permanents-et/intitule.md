@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-1124 du 30 novembre 2018 fixant les catégories d'emplois permanents et établissant les échelles indiciaires de traitement applicables au personnel de service du Centre Hospitalier Princesse Grace
