@@ -1,0 +1,13 @@
+# Article 10
+
+Le montant des redevances est fixé comme suit :
+
+- 1) Expédition : 15 euros
+
+- 2) Registre spécial
+
+  - - Demande d'inscription, par titre : 3 euros
+
+  - - État des inscriptions, par titre : 2 euros
+
+  - - Certificat d'identité : 15 euros
