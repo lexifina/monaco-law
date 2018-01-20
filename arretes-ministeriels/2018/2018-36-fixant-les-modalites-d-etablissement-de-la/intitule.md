@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-36 du 12 janvier 2018 fixant les modalités d'établissement de la comptabilité des associations déclarées apportant leur soutien à un candidat ou à une liste de candidats à une élection nationale ou communale
