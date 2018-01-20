@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-35 du 12 janvier 2018 portant fixation du taux de la contribution des employeurs et de la Caisse des Congés payés du Bâtiment au « Fonds Complémentaire de Réparation des Accidents du Travail et des Maladies Professionnelles » au titre de l'année 2018
