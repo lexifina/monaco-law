@@ -1,6 +1,6 @@
 # Article 1er
 
-La procédure de déclaration simplifiée de conformité prévue à l'article 6, alinéa 2 de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée, est applicable aux traitements automatisés d'informations nominatives relatifs à la "gestion des services de téléphonie fixe et mobile sur le lieu de travail', dès lors :
+La procédure de déclaration simplifiée de conformité prévue à l'article 6, alinéa 2 de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée, est applicable aux traitements automatisés d'informations nominatives relatifs à la « gestion des services de téléphonie fixe et mobile sur le lieu de travail », dès lors :
 
 - qu'ils concernent uniquement ceux exploités par les responsables de traitements, personnes physiques ou morales de droit privé, visées à l'article 6 de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée ;
 
@@ -10,11 +10,9 @@ La procédure de déclaration simplifiée de conformité prévue à l'article 6,
 
 - qu'ils n'intéressent que des données contenues dans des fichiers appartenant au responsable de traitement ;
 
-- qu'ils ne donnent pas lieu à d'autres interconnexions que celles nécessaires à l'accomplissement des fonctionnalités énoncées à l'article 2 ci-après ;
+- qu'ils ne font l'objet d'aucun hébergement auprès d'une personne physique ou morale établie dans un pays ne disposant pas d'un niveau de protection adéquat au sens de l'article 20 de la loi n°1.165 du 23 décembre 1993, modifiée, susvisée ;
 
-- qu'ils ne font l'objet d'aucun hébergement auprès d'une personne physique ou morale établie dans un pays ne disposant pas d'un niveau de protection adéquat au sens de l'article 20 de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée ;
-
-- qu'ils ne font l'objet d'aucun transfert d'informations vers une personne physique ou morale établie dans un pays ne disposant pas d'un niveau de protection adéquat au sens de l'article 20 de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée ;
+-qu'ils ne font l'objet d'aucun transfert d'informations vers une personne physique ou morale établie dans un pays ne disposant pas d'un niveau de protection adéquat au sens de l'article 20 de la loi n°1.165 du 23 décembre 1993, modifiée, susvisée ;
 
 - qu'ils comportent des mesures techniques et organisationnelles propres à assurer un niveau de sécurité adéquat au regard des risques présentés par le traitement et la nature des données et à répondre aux exigences légales prescrites en cas de recours à un prestataire de services pour la réalisation du traitement, telles que visées à l'article 17 de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée ;
 
