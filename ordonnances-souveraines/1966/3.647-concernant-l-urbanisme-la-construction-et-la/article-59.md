@@ -1,6 +1,6 @@
 # Article 59
 
-La Direction de la Prospective, de l'Urbanisme et de la Mobilité est chargée de veiller à ce que les conditions et charges imposées dans l'arrêté d'autorisation ou l'Avis d'autorisation soient observées.
+La Direction de la Prospective, de l'Urbanisme et de la Mobilité est chargée de veiller à ce que les conditions et charges imposées dans les autorisations soient observées.
 
 Les permissionnaires doivent se conformer strictement à ces conditions.
 

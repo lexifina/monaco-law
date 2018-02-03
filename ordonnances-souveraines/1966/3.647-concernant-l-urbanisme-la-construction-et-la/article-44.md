@@ -1,6 +1,6 @@
 # Article 44
 
-Les cours et courettes et les plates-formes des terrasses doivent être aménagées avec des pentes égales ou supérieures à 0,02 m de manière qu'il ne s'y forme aucun dépôt ni cloaque.
+Les cours et courettes et les plates-formes des terrasses doivent être aménagées avec des pentes suffisantes de manière qu'il ne s'y forme aucun dépôt ni cloaque.
 
 Elles doivent toujours être accessibles.
 

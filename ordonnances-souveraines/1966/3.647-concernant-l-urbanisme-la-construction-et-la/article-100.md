@@ -1,6 +1,6 @@
 # Article 100
 
-Les clôtures nouvelles des propriétés doivent être d'un type agréé par la Direction de la Prospective, de l'Urbanisme et de la Mobilité sur avis du comité consultatif pour la construction.
+Les clôtures nouvelles des propriétés doivent être d'un type agréé par la Direction de la Prospective, de l'Urbanisme et de la Mobilité.
 
 Les murs de soutènement doivent faire l'objet d'un traitement décoratif de qualité, approprié, ou, à défaut, être végétalisés.
 

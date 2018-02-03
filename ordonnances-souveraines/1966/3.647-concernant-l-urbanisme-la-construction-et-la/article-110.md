@@ -1,3 +1,3 @@
 # Article 110
 
-Il ne peut être placé d'étais, tant à l'intérieur qu'à l'extérieur des maisons dont la démolition est reconnue nécessaire, que sur autorisation du maire.
+Tout dispositif permettant d'assurer la stabilité de l'immeuble dont la démolition est reconnue nécessaire peut être autorisé par la Direction de la Prospective, de l'Urbanisme et de la Mobilité.

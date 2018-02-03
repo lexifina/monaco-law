@@ -8,7 +8,7 @@ L'ouverture d'une tranchée ne peut s'effectuer qu'avec l'autorisation du chef d
 
 Le permissionnaire doit se conformer à toutes les mesures prescrites par l'administration.
 
-Il ne peut entreprendre les travaux ni les reprendre s'il les a suspendus sans en prévenir la Direction de l'Aménagement Urbain chargé de la surveillance.
+Il ne peut entreprendre les travaux ni les reprendre s'il les a suspendus sans en prévenir la Direction de l'Aménagement Urbain chargée de la surveillance.
 
 Tous objets trouvés dans les fouilles sous le sol de la voie publique doivent être remis immédiatement à la direction de la sûreté publique qui constate la remise, sans préjudice, s'il y a lieu, des droits attribués à l'auteur de la découverte par l'article 600 du Code civil.
 

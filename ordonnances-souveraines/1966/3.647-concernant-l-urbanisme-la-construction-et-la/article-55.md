@@ -1,6 +1,6 @@
 # Article 55
 
-Tous appentis ou constructions légères ou de caractère provisoire ne pourront être autorisés qu'à titre exceptionnel et après avis du comité consultatif pour la construction.
+Tous appentis ou constructions légères ou de caractère provisoire ne pourront être autorisés qu'à titre exceptionnel.
 
 Toutes installations provisoires raccordées sur le réseau d'égouts publics notamment destinées à desservir des chantiers ou des manifestations temporaires telles que des expositions, des marchés, des foires ou des cirques, ne doivent en aucun cas pouvoir compromettre le fonctionnement dudit réseau.
 

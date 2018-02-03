@@ -1,3 +1,3 @@
 # Article 126
 
-Les cabinets d'aisances et salles de bains en position centrale doivent être ventilés dans les conditions fixées par arrêté ministériel.
+Les cabinets d'aisances, salles de bains et cuisine en position centrale doivent être convenablement ventilés au moyen d'une ventilation mécanique contrôlée.

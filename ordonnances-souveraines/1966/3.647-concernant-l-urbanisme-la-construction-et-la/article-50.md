@@ -1,12 +1,12 @@
 # Article 50
 
-Les tuyaux d'évacuation doivent avoir une pente minimum de 0,03 mètre par mètre. La Direction de l'aménagement Urbain peut toutefois autoriser des pentes plus faibles avec addition de réservoirs de chasse ou d'autres moyens d'expulsion.
+Les tuyaux d'évacuation doivent avoir une pente minimum de 0,03 mètre par mètre. Le Directeur de l'Aménagement Urbain peut toutefois autoriser des pentes plus faibles avec addition de réservoirs de chasse ou d'autres moyens d'expulsion.
 
 Le diamètre de ces tuyaux est fixé, sur la proposition des intéressés, à raison des caractéristiques géométriques et hydrauliques du collecteur et du débit à évacuer.
 
 Les caractéristiques techniques (matériaux, lieux de branchement, type de connexion[mldr]) des branchements des canalisations privées au collecteur public doivent être agréées par la Direction de l'Aménagement Urbain en fonction de la spécificité des matériaux rencontrés et des dimensions de l'ouvrage.
 
-Chaque tuyau d'évacuation d'eaux usées, d'eaux vannes, d'eaux pluviales doit être raccordé sur une inflexion siphoïde close par un regard étanche et située dans les parties privatives de la propriété intéressée. En cas de contrainte technique majeure, une dérogation peut être accordée par la Direction de l'Aménagement Urbain. Chaque siphon doit être muni d'une tubulure de visite avec fermetures étanches placées, de part et d'autre, sur l'inflexion siphoïde.
+Chaque tuyau d'évacuation d'eaux usées, d'eaux vannes, d'eaux pluviales doit être raccordé sur une inflexion siphoïde close par un regard étanche et située dans les parties privatives de la propriété intéressée. En cas de contrainte technique majeure, une exception peut être accordée par le Directeur de l'Aménagement Urbain. Chaque siphon doit être muni d'une tubulure de visite avec fermetures étanches placées, de part et d'autre, sur l'inflexion siphoïde.
 
 Les dispositions adoptées pour la construction de cette chambre siphoïde ainsi que le type du regard doivent être soumis à l'agrément de la Direction de l'Aménagement Urbain.
 

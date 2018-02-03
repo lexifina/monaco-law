@@ -8,10 +8,10 @@ Si aucune réponse ne lui est parvenue à l'expiration de ce délai de un mois, 
 
 II. - Les autorisations accordées en vertu des dispositions de l'article 8 ci-dessus ne seront valables que pour les personnes qu'elles désignent nominativement.
 
-En cas de transfert du droit de propriété, le nouveau propriétaire doit solliciter le renouvellement de l'autorisation précédemment accordée, en précisant qu'il fait siens le dossier et les plans précédemment déposés : ce renouvellement ne pourra être refusé que dans les cas où les garanties financières ou techniques présentées par le cessionnaire ne sont pas reconnues valables. L'examen de ces garanties et la décision devront intervenir dans un délai de trente (30) jours à compter du dépôt des documents constituant ces garanties.
+En cas de transfert du droit de propriété pendant la période de validité de l'autorisation, le nouveau propriétaire doit solliciter le transfert de l'autorisation précédemment accordée après accord du bénéficiaire de l'autorisation initiale, en précisant qu'il fait siens le dossier et les plans précédemment déposés. Ce transfert ne pourra être refusé que dans les cas où les garanties financières présentées par le cessionnaire ne sont pas reconnues valables. L'examen de ces garanties et la décision devront intervenir dans un délai de trente (30) jours à compter du dépôt des documents constituant ces garanties.
 
 La nouvelle autorisation qui sera accordée par l'autorité qui a délivré la précédente sera assortie des mêmes obligations, notamment en ce qui concerne les conditions d'esthétique et d'intérêt général ; elle prendre effet à partir de la date de la délivrance de l'autorisation initiale.
 
-III. - L'autorisation est toujours accordée sous réserve des droits des tiers et aux risques et périls de tous les intéressés.
+III. - L'autorisation de construire et/ou de démolir est toujours accordée sous réserve des droits des tiers et aux risques et périls de tous les intéressés.
 
 IV. - En cas de refus de l'autorisation ou de l'accord préalable, il est donné connaissance au pétitionnaire, dans les délais fixés à l'article 8 ci-dessus, des motifs qui l'ont provoqué.

@@ -10,7 +10,7 @@
 
 - La « façade préjudiciable » est la façade qui impose au voisinage ou à la voie publique les moins bonnes conditions d'ensoleillement, d'éclairement et d'aération.
 
-- En cas de difficulté dans la détermination de la « façade préjudiciable », la décision sera prise sur proposition du comité consultatif pour la construction.
+- En cas de difficulté dans la détermination de la « façade préjudiciable », la décision sera prise après avis du comité consultatif pour la construction.
 
 2° De la hauteur :
 
@@ -22,13 +22,15 @@
 
 3° De l'indice de construction :
 
-- Dans la zone à gabarit moyen, l'indice de construction, tel qu'il est défini ci-après, n'excédera pas 15 m3 par mètre carré de la surface totale de la propriété.
+- Dans la zone à gabarit moyen, l'indice de construction, tel qu'il est défini ci-après, n'excédera pas 15 m3 par mètre carré.
 
-- Dans la zone à gabarit élevé et dans la zone frontière, l'indice n'excédera pas 12 m3 par mètre carré de la surface totale de la propriété.
+- Dans la zone à gabarit élevé et dans la zone frontière, l'indice n'excédera pas 12 m3 par mètre carré.
 
-- L'indice de construction est le quotient du volume total bâti au-dessus du niveau du terrain naturel par la surface totale de la propriété.
+- L'indice de construction est le quotient du volume total bâti au-dessus du niveau du terrain naturel ou, lorsqu'une disposition particulière le précise, de la cote du terrain de référence par la surface totale du terrain.
 
-- Le volume de tous les ouvrages techniques sur terrasse (édicule d'accès, logement des machineries des ascenseurs et monte-charge, chambres d'expansion des gaz brûlés, etc.) n'est pas pris en compte pour le calcul de l'indice.
+- Le volume des ouvrages techniques sur terrasse et/ou dans les combles, l'épaisseur de l'isolation thermique par l'extérieur en toiture comme en façade, les volumes autorisés à titre précaire et révocable, ainsi que les loggias, ne sont pas pris en compte pour le calcul de l'indice de construction.
+
+- Il est entendu par surface totale de la propriété la superficie du terrain avant déduction des parcelles à incorporer au Domaine de l'État (voie ou emprise publique).
 
 4° Des limites bâtissables :
 
@@ -50,7 +52,7 @@
 
 - Des constructions dans ces espaces de recul pourront être admises après avis du comité consultatif pour la construction.
 
-- Les limites bâtissables ci-dessus définies ne s'appliquent pas toutefois aux constructions en sous-sol, à usage de garages, caves et locaux techniques qui pourront être réalisées jusqu'en limite de propriété.
+- Les limites bâtissables ci-dessus définies ne s'appliquent pas toutefois aux constructions en sous-sol qui pourront être réalisées jusqu'en limite de propriété.
 
 - Le niveau supérieur de ces ouvrages doit se tenir à un mètre cinquante au moins sous le niveau de la voie publique la plus basse bordant l'opération pour permettre l'aménagement d'espaces plantés, conformément à l'article 56 ci-après et pour permettre le passage de réseaux publics.
 
