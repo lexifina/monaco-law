@@ -1,12 +1,12 @@
 # Article 1er
 
-Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2017 :
+Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2018 :
 
 Nourriture :
 
-Un repas au cours d'une journée : 3,54 euro(s)
+Un repas au cours d'une journée : 3,57 euro(s)
 
-Deux repas au cours d'une journée : 7,08 euro(s)
+Deux repas au cours d'une journée : 7,14 euro(s)
 
 Logement pour les salariés des catégories suivantes :
 
@@ -20,8 +20,8 @@ Logement pour les salariés des catégories suivantes :
 
 * Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
 
-Par semaine : 17,70 euro(s)
+Par semaine : 17,85 euro(s)
 
-Par mois : 70,80 euro(s)
+Par mois : 71,40 euro(s)
 
-Ces valeurs sont majorées de l'indemnité de 5% prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé. La valeur des avantages relatifs à la nourriture pour le personnel rémunéré au mois représente trente fois la valeur fixée pour un jour.
+Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé. La valeur des avantages relatifs à la nourriture pour le personnel rémunéré au mois représente trente fois la valeur fixée pour un jour.
