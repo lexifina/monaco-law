@@ -148,119 +148,131 @@ Ces numéros ne pourront être utilisés qu'accompagnés d'un certificat d'immat
 
   - 2. la mise à disposition au bénéfice d'un client dont le véhicule personnel se trouve être en réparation dans un des ateliers mécaniques du professionnel de l'automobile concerné. Ces véhicules sont communément désignés sous l'expression "véhicules de courtoisie". La mention "véhicule de courtoisie" doit être apposée sur le certificat d'immatriculation du véhicule dédié à cet effet à l'exclusion de tout certificat d'immatriculation provisoire non approprié.
 
-* Véhicules achetés en Principauté par des personnes domiciliées hors de la Principauté :
+Peuvent bénéficier d'une immatriculation dans la série provisoire les véhicules en provenance de la Principauté de Monaco destinés à des personnes domiciliées en Principauté ainsi que les véhicules achetés en Principauté par des personnes domiciliées hors de la Principauté à destination de l'étranger. Le numéro d'immatriculation provisoire est composé :
 
-- Couleur des caractères : blanc sur fond bleu.
+* a) d'un groupe de 4 chiffres pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques ou de 2 lettres et 2 chiffres pour les motocycles et assimilés ;
 
-- Le numéro d'immatriculation est composé :
+* b) suivi du symbole WW ou WW2, suivi, le cas échéant, d'une lettre de série (A, B, C, etc.) ;
 
-  - a) d'un groupe de 4 chiffres ;
+* c) suivi des lettres MC.
 
-  - b) du symbole WW ou WW2, suivi, le cas échéant, d'une lettre de série (A, B, C, etc.) ;
+Le numéro d'immatriculation provisoire figure sur des bandes autocollantes conformes aux modèles déposés auprès du Service des Titres de Circulation et dont le modèle figure en annexe. Elles doivent être apposées sur le véhicule aux emplacements prévus pour les plaques d'immatriculation.
 
-  - c) des lettres MC.
+Ces bandes autocollantes doivent être de couleur bleue avec des caractères blancs, encadrés d'un trait blanc sur lequel est insérée, sur la partie du bas à l'horizontale, la mention " PRINCIPAUTÉ DE MONACO ".
 
-Les cartes WW sont des certificats d'immatriculation provisoire de véhicules automobiles ou remorqués qui sont délivrés par l'intermédiaire des constructeurs, importateurs, carrossiers ou commerçants de l'automobile et sous leur entière responsabilité, afin de permettre, pendant la période de validité de ces cartes, la circulation de ces véhicules dans l'attente de la délivrance d'un certificat d'immatriculation définitif ou de leur sortie temporaire ou définitive à l'étranger.
+Sur ces bandes, la date de fin de validité de l'immatriculation provisoire est placée à gauche du numéro d'immatriculation.
 
-Il existe deux sortes de cartes WW :
+Elles doivent en outre correspondre aux caractéristiques suivantes :
 
-- les cartes WW normales destinées aux véhicules neufs ou d'occasion devant recevoir une immatriculation dans les séries normales ;
+- dimensions des bandes :
 
-- les cartes WW2 destinées aux véhicules neufs achetés hors taxes ou aux véhicules d'occasion exportés vers des pays autres que la France.
+* pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques : longueur : 45,5 cm ; largeur : 8,5 cm,
 
-Peuvent également recevoir une immatriculation provisoire sous carte WW2, les véhicules en attente d'immatriculation dans la série TT ou la série " Diplomatique ". L'attribution d'une carte WW2 est toutefois, dans ce cas, subordonnée à la présentation :
+* pour les motocycles, cyclomoteurs et assimilés : longueur : 20,5 cm ; largeur : 10 cm.
 
-- pour les véhicules devant recevoir une immatriculation TT, du certificat 846 B délivré par les douanes ;
+- police et taille des caractères figurant sur ces bandes :
+
+* pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques :
+
+* numéro d'immatriculation : police : Swiss721 BT ; taille : 160,
+
+* date de fin de validité : police : Swiss721 BT ; taille : 58.
+
+* pour les motocycles, cyclomoteurs et assimilés :
+
+* numéro d'immatriculation : police : Swiss721 BT ; taille : 85,
+
+* date de fin de validité : police : Swiss721 BT ; taille : 36.
+
+Les certificats d'immatriculation provisoire sont délivrés par le Service des Titres de Circulation ou par l'intermédiaire d'un professionnel de l'automobile (constructeurs, importateurs, carrossiers ou commerçants), sous son entière responsabilité, afin de permettre, pendant une période de validité, la circulation des véhicules dans l'attente de la délivrance d'un certificat d'immatriculation définitif ou de leur sortie temporaire ou définitive à l'étranger.
+
+Il existe deux sortes d'immatriculations provisoires :
+
+- la série WW normale destinée aux véhicules neufs ou d'occasion devant recevoir une immatriculation en Principauté de Monaco ou en France,
+
+- la série WW2 destinée aux véhicules neufs achetés hors taxes ou aux véhicules d'occasion exportés vers des pays autres que la France.
+
+Peuvent également recevoir une immatriculation provisoire dans la série WW2, les véhicules en attente d'immatriculation dans la série " TT " ou la série " Diplomatique ".
+
+L'attribution d'un certificat d'immatriculation WW2 est toutefois, dans ce cas, subordonnée à la présentation :
+
+- pour les véhicules devant recevoir une immatriculation TT, du certificat 846 B délivré par les douanes,
 
 - pour les véhicules devant recevoir une immatriculation CD ou CC, d'une autorisation de la direction générale des douanes.
 
-Pour obtenir ces cartes WW les professionnels de l'automobile doivent adresser au service de la circulation une demande établie sur un imprimé disponible audit service.
+Pour obtenir les certificats d'immatriculation provisoire, les professionnels de l'automobile doivent adresser au Service des Titres de Circulation une demande établie sur un imprimé disponible audit service.
 
 À l'appui de cette demande, les professionnels doivent présenter les pièces justificatives de leur situation industrielle ou commerciale (extrait du registre du commerce).
 
-Une notice rappelant les prescriptions réglementaires relatives à l'immatriculation dans la série WW est remise aux requérants.
+Les certificats d'immatriculation provisoire remis aux professionnels de l'automobile sont extraits de carnets à souches attribués par le Service des Titres de Circulation et comportant chacun dix feuillets numérotés qui se suivent sans interruption. Les numéros d'immatriculation sont attribués par le Service des Titres de Circulation.
 
-Les cartes WW sont extraites de carnets à souches attribués par le service de la circulation et comportant chacun dix feuillets numérotés qui se suivent sans interruption.
-
-Sur chacun des feuillets numérotés de 1 à 10 qui forment le carnet doit figurer le cachet du service de la circulation ainsi que le millésime de l'année de leur délivrance.
+Sur chacun des feuillets numérotés de 1 à 10 qui forment le carnet doit figurer le cachet du Service des Titres de Circulation ainsi que le millésime de l'année de leur délivrance.
 
 Les demandes de carnets WW peuvent être adressées à partir du 1er décembre pour l'année suivante.
 
-Tout bénéficiaire de carnets WW qui aura épuisé en cours d'année le ou les carnets qui lui auront été attribués devra, pour en obtenir le renouvellement, restituer au service de la circulation les souches justifiant de l'usage régulier des cartes WW mises à sa disposition.
+Tout bénéficiaire de carnets WW qui aura épuisé en cours d'année le ou les carnets qui lui auront été attribués devra, pour en obtenir le renouvellement, restituer au Service des Titres de Circulation les souches justifiant de l'usage régulier des certificats d'immatriculation provisoire mis à sa disposition.
 
-Il doit, en fin d'année, restituer les souches et les cartes non utilisées, que cette restitution soit liée ou non à une demande de renouvellement de carnets.
+Il doit, en fin d'année ou en cas de cessation d'activité, restituer les souches et les certifications d'immatriculation provisoire non utilisés, que cette restitution soit liée ou non à une demande de renouvellement de carnets.
 
-Les carnets à souches sont oblitérés, tous les mois, après contrôle, par le service de la circulation.
-
-Toute carte WW2 doit être remise à la Douane française lors de la sortie du véhicule du territoire français.
-
-Ce document doit être revêtu du cachet et du visa des agents ayant constaté le passage à l'étranger du véhicule, et renvoyé par eux au négociant vendeur qui doit le restituer au service de la circulation.
+Les carnets à souches sont oblitérés, tous les mois, après contrôle, par le Service des Titres de Circulation.
 
 Les carnets détruits ou perdus ne sont pas remplacés en cours d'année.
 
-Pour les cartes WW2 les numéros des cartes d'un carnet épuisé ne peuvent être attribués à nouveau qu'un an après la date de délivrance de la dernière carte détachée de la souche. En revanche, les mêmes numéros peuvent être attribués d'une année sur l'autre au même bénéficiaire lors du renouvellement pur et simple d'un carnet WW à indicatif normal.
+Le professionnel de l'automobile qui attribue un certificat d'immatriculation provisoire doit avoir, au préalable, enregistré le véhicule à son nom auprès du Service des Titres de Circulation et remplir, d'une manière indélébile, toutes les rubriques figurant sur le talon du certificat d'immatriculation provisoire et du talon correspondant.
 
-Les cartes et carnets WW non utilisés doivent être restitués au service de la circulation en cas de cessation de l'activité professionnelle des bénéficiaires.
+Le certificat d'immatriculation provisoire et son talon doivent porter la signature et le cachet de l'entité le délivrant et sa date de validité.
 
-Le vendeur qui attribue une carte WW doit, au moment où il la délivre, remplir, d'une manière indélébile, toutes les rubriques figurant sur le talon de la carte détachée du carnet, comme sur cette carte elle-même.
+L'attributaire doit également signer le certificat d'immatriculation provisoire qui lui a été remis.
 
-La carte et son talon doivent porter la signature et le cachet du constructeur ou du négociant et la date d'attribution temporaire.
+Par ailleurs, le professionnel de l'automobile doit reporter sur un registre spécial l'identité et l'adresse de l'attributaire du certificat d'immatriculation provisoire ainsi que le numéro WW, la validité, la marque, le type, le numéro dans la série du type de véhicule, son origine (véhicule neuf ou d'occasion) et son État de destination accompagné le cas échéant du nouveau numéro d'immatriculation.
 
-L'attributaire doit également signer la carte qui lui a été remise.
+La durée de validité des certificats d'immatriculation provisoire est de :
 
-Par ailleurs, le vendeur doit reporter sur un registre spécial l'identité et l'adresse de l'attributaire de la carte WW ainsi que le numéro de cette carte WW, la marque, le type et le numéro dans la série du type de véhicule.
+- un mois calendaire pour les véhicules destinés à une immatriculation en Principauté,
 
-Tout véhicule automobile circulant avec une carte WW doit être muni de deux plaques reproduisant le matricule de la carte.
+- deux mois pour les véhicules exportés en France et dans les autres États.
 
-Dans le cas où le numéro WW ou WW2 est employé pour un véhicule automobile ou remorqué déjà immatriculé, ce numéro doit seul apparaître.
+La durée de validité de ces certificats ne peut être prorogée.
 
-La durée de validité des cartes WW est de quinze jours non compris les samedis, dimanches et jours fériés qui doivent être retirés à ce délai lors de la fixation de la période de validité de la carte WW.
+De même, il ne peut être délivré plus d'une carte pour le même véhicule au nom de la même personne.
 
-La durée de validité de ces cartes ne peut être prorogée.
+Les certificats d'immatriculation provisoire ne sont valables que pour l'année calendaire. Ils le restent toutefois jusqu'à leur terme lorsque qu'ils ont été délivrés avant la fin de l'année concernée.
 
-De même, il ne peut être délivré plus d'une carte pour le même véhicule.
+Les certificats d'immatriculation provisoire et numéros associés permettent de circuler dans la Principauté de Monaco et en France pendant la période indiquée.
 
-Les cartes WW ne sont valables que pour l'année calendaire. Elles le restent toutefois jusqu'à leur terme lorsque celui-ci échoit dans le courant du mois de janvier de l'année suivante.
-
-Les cartes et numéros WW permettent de circuler dans la Principauté et en France pendant la période indiquée. Seuls les véhicules sous couvert d'un numéro WW2 peuvent circuler dans les autres pays, dans les conditions prévues ci-après :
+Seuls les véhicules sous couvert d'un numéro WW2 peuvent circuler dans les autres pays, dans les conditions prévues ci-après :
 
 À l'issue de cette période :
 
-- les véhicules bénéficiant d'un numéro WW doivent être immatriculés dans une série normale ;
+- les véhicules bénéficiant d'un numéro WW doivent être immatriculés en Principauté de Monaco ou en France ;
 
-- les véhicules bénéficiant d'un numéro WW2 doivent, selon le cas, avoir quitté définitivement la Principauté ou la France ou être immatriculés dans la série TT ou la série Diplomatique.
+- les véhicules bénéficiant d'un numéro WW2 doivent, selon le cas, avoir quitté définitivement la Principauté ou la France ou être immatriculés dans la série " TT " ou la série " Diplomatique ".
 
 Sous couvert d'un numéro WW2 un véhicule peut ne pas être conforme aux dispositions techniques du Code de la route.
 
-Les cartes WW2 ne dispensent pas l'attributaire des formalités à remplir en douane conformément aux règlements en vigueur.
+Les certificats d'immatriculation provisoire WW2 ne dispensent pas l'attributaire des formalités à remplir en douane conformément aux règlements en vigueur.
 
 Tout véhicule de transport de marchandises ou de transport en commun de personnes couvert par un numéro WW2 doit circuler à vide.
 
-Sous couvert d'un numéro WW les véhicules neufs ou d'occasion de transport de marchandises et de transport en commun de personnes doivent circuler à vide, tant que leur situation n'est pas en règle au regard des diverses réglementations régissant ces transports, et notamment, de la réglementation relative aux visites techniques définie par les articles 111 à 115 du Code de la route.
+Sous couvert d'un numéro WW, les véhicules neufs ou d'occasion de transport de marchandises et de transport en commun de personnes doivent circuler à vide, tant que leur situation n'est pas en règle au regard des diverses réglementations régissant ces transports, et notamment, de la réglementation relative aux visites techniques définie par les articles 111 à 115 du Code de la route.
 
 Pour être admis en circulation internationale, un véhicule circulant avec un numéro WW2 doit être couvert par un certificat international pour automobiles.
 
-La délivrance de ce certificat pour véhicule exporté sous couvert d'un numéro WW2 est subordonnée à la présentation en sus de la carte WW2 correspondante :
+La délivrance de ce certificat pour véhicule exporté sous couvert d'un numéro WW2 est subordonnée à la présentation en sus du certificat d'immatriculation provisoire correspondant :
 
-* Pour un véhicule neuf :
+- pour un véhicule neuf :
 
-- de la notice du constructeur s'il n'est pas conforme à un type réceptionné ;
+* de la notice du constructeur s'il n'est pas conforme à un type réceptionné,
 
-- des certificats de conformité barrés et non barrés d'une diagonale rouge s'il est conforme à un type réceptionné. Dans ce cas, il sera apposé sur ce certificat un cachet portant la mention " véhicule exporté sous le numéro... " (indication du numéro de la carte WW2 délivrée) ;
+* du certificat de conformité ; dans ce cas, il sera apposé sur ce certificat un cachet portant la mention " véhicule exporté sous le numéro... " (indication du numéro WW2 délivré),
 
-- dans les deux cas ci-dessus, du certificat de cession établi par le négociant vendeur au nom du titulaire de la carte WW2, sauf si le nom de l'acheteur est déjà mentionné sur le certificat de conformité.
+* dans les deux cas ci-dessus, du certificat de cession établi par le vendeur au nom du titulaire de la carte WW2, sauf si le nom de l'acheteur est déjà mentionné sur le certificat de conformité.
 
-* Pour un véhicule d'occasion :
+- pour un véhicule d'occasion : du certificat d'immatriculation accompagné du certificat de cession établi par le vendeur au nom du titulaire du certificat d'immatriculation provisoire.
 
-- du certificat d'immatriculation accompagné, le cas échéant, du certificat de non-gage pour obtention du susdit certificat et/ou du certificat de cession établi par le négociant vendeur au nom du titulaire de la carte WW2.
+Les carnets WW pourront ne pas être renouvelés dans le cas où les certificats d'immatriculation provisoire ne sont pas délivrés dans les conditions édictées par le présent arrêté ministériel.
 
-Avant restitution de ces documents, il sera apposé sur le certificat d'immatriculation ou le certificat de non-gage la mention " véhicule exporté sous le numéro... " (indication du numéro de la carte WW2 délivrée).
-
-Sur toute carte WW2, au vu de laquelle il est délivré un certificat international pour automobiles, il est apposé au verso, par le service de la circulation, la mention suivante : certificat international pour automobiles délivré le...
-
-Les carnets WW pourront ne pas être renouvelés dans l'année en cas d'emploi abusif des cartes d'immatriculation.
-
-Le nombre des carnets attribués aux professionnels pourra de même être réduit dans une forte proportion ou leur délivrance refusée en cas d'infractions répétées.
+Le nombre des carnets attribués aux professionnels pourra de même être réduit ou leur délivrance refusée en cas d'infractions répétées.
 
 Véhicules appartenant au Ministère d'État, aux membres du corps diplomatique accrédités auprès de S.A.S. le Prince Souverain ainsi qu'aux membres du personnel administratif et technique des Ambassades et aux fonctionnaires des Organismes Internationaux :
 
