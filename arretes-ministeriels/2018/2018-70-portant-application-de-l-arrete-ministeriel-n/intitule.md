@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-70 du 30 janvier 2018 portant application de l'arrêté ministériel n° 2017‑835 du 29 novembre 2017 portant application l'article 54 de l'Ordonnance Souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré, modifiée
