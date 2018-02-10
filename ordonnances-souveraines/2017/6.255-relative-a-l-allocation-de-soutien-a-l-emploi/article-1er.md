@@ -6,4 +6,4 @@ La fermeture temporaire ou la réduction de l'horaire de travail habituellement 
 
 En cas de fermeture temporaire de l'établissement, l'allocation de soutien à l'emploi est versée pour une durée maximale de vingt-huit jours et uniquement pour les journées n'ayant pas donné lieu au versement d'indemnités au titre du régime conventionnel d'assurance chômage.
 
-Le dispositif relatif à l'allocation de soutien à l'emploi demeure en vigueur jusqu'au 31 décembre 2017.
+Le dispositif relatif à l'allocation de soutien à l'emploi demeure en vigueur jusqu'au 31 décembre 2017. Dispositions prorogées du 1er janvier 2018 au 31 décembre 2018 par l'ordonnance n° 6.789 du 2 février 2018.
