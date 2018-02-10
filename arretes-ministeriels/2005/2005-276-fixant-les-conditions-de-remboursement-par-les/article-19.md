@@ -4,19 +4,21 @@ Les modificateurs et leurs codes sont les suivants :
 
 - Réalisation d'une radiographie comparative ; le code est C
 
-- Urgence : Réalisation d'un acte non prévu 8 heures auparavant, entre 20 heures et 8 heures, le dimanche ou un jour férié, pour une affection ou la suspicion d'une affection mettant en jeu la vie du patient ou l'intégrité de son organisme et entraînant la mobilisation rapide des ressources humaines et matérielles
+- Urgence : pour une affection ou la suspicion d'une affection mettant en jeu la vie du patient ou l'intégrité de son organisme et entraînant la mobilisation rapide des ressources humaines et matérielles : réalisation d'un acte non prévu 8 heures auparavant, entre 20 heures et 8 heures, le dimanche ou un jour férié, ou réalisation d'un acte de 8 heures à 20 heures dans un délai maximum de 6 heures après l'admission du patient dans un établissement privé disposant d'une autorisation de service d'urgence.
 
-* Acte réalisé en urgence par les médecins et chirurgiens-dentistes, autres que les omnipraticiens et les pédiatres, la nuit entre 20 heures et 8 heures ; le code est U
+* Acte chirurgical réalisé en urgence vitale ou en urgence d'organe, de 8 heures à 20 heures, par les chirurgiens, ORL, stomatologues, ophtalmologues, anesthésistes ou gynécologues-obstétriciens, dans un délai maximum de 6 heures après l'admission du patient dans un établissement privé disposant d'une autorisation de service d'urgence : le code est O ;
 
-* Acte réalisé en urgence par les pédiatres, omnipraticiens et sages-femmes de 20 heures à 00 heure ou de 6 heures à 8 heures ; le code est P
+* Acte réalisé en urgence par les médecins entre 20 heures et 8 heures et acte réalisé en urgence par les chirurgiens, ORL, stomatologues, ophtalmologues, les gynécologues-obstétriciens ou les anesthésistes entre 20 heures et minuit : le code est U ;
 
-* Acte réalisé en urgence par les pédiatres, les médecins généralistes et les sages-femmes ou acte thérapeutique réalisé en urgence sous anesthésie générale ou locorégionale par les autres médecins, la nuit de 00 heure à 06 heures ; le code est S.
+* Acte réalisé en urgence par les pédiatres, les omnipraticiens et les sages-femmes de 20 heures à minuit : le code est P ;
 
-Ces trois modificateurs ne concernent pas les forfaits et surveillances par vingt-quatre heures.
+* Acte réalisé en urgence par les pédiatres, les omnipraticiens et les sages-femmes ou acte thérapeutique réalisé en urgence sous anesthésie générale ou locorégionale par les médecins des autres spécialités, la nuit de 0 heures à 8 heures et acte réalisé en urgence par les chirurgiens, les gynécologues-obstétriciens ou les anesthésistes, entre 0 heure et 8 heures : le code est S.
+
+Ces quatre modificateurs ne concernent pas les forfaits et surveillances par vingt-quatre heures.
 
 * Acte réalisé en urgence un dimanche ou un jour férié : le code est F.
 
-Les codes U, P, S et F sont exclusifs les uns des autres et ne peuvent être facturés qu'une seule fois par intervenant quel que soit le nombre d'actes qu'il réalise.
+Les codes O, U, P, S et F sont exclusifs les uns des autres et ne peuvent être facturés qu'une seule fois par intervenant et par patient, quel que soit le nombre d'actes qu'il réalise.
 
 - Majoration pour soins d'urgence faits au cabinet du médecin généraliste, du pédiatre ou de la sage-femme, après examen en urgence du patient ; le code est M
 
