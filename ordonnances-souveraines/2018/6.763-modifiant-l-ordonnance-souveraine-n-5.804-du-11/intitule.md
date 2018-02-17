@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.763 du 25 janvier 2018 modifiant l'Ordonnance Souveraine n° 5.804 du 11 avril 2016 rendant exécutoire la Liste des interdictions - Standard International 2016 et la Liste des autorisations à des fins thérapeutiques - Standard AUT 2016, amendant les Annexes I et II à la Convention Internationale contre le dopage dans le sport (UNESCO)
