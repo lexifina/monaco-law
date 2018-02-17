@@ -2,6 +2,8 @@
 
 La définition et le tarif de cession des produits sanguins labiles sont les suivants :
 
+En Euros HT
+
 Sang humain total (unité adulte, unité enfant et unité pédiatrique) | 116,81
 
 Concentré de globules rouges humains homologues (unité adulte, unité enfant et unité pédiatrique) | 193,19
