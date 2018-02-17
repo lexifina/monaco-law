@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-106 du 7 février 2018 fixant les taux des allocations d'aide publique pour privation totale et partielle d'emploi et des plafonds journaliers de ressources pour en bénéficier
