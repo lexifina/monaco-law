@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-128 du 20 février 2018 portant fixation du montant des ressources personnelles telles que prévues à l'Ordonnance Souveraine n° 6.802 du 20 février 2018 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
