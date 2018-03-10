@@ -16,21 +16,21 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
   - jeux de manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines ;
 
-- e) les droits d'entrée pour la visite des parcs zoologiques et botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
+- e) les droits d'entrée pour la visite des parcs botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
 
 - f) les transports de voyageurs ;
 
 - g) (g abrogé) ; ;
 
-- h) Les abonnements souscrits par les usagers afin de recevoir les services de télévision.
+- h) Les abonnements souscrits par les clients afin de recevoir les services de télévision.
 
-- Est considéré comme service de télévision tout service de communication au public par voie électronique destiné à être reçu simultanément par l'ensemble du public ou par une catégorie de public et dont le programme principal est composé d'une suite ordonnée d'émissions comportant des images et des sons.
+- Lorsque la distribution de services de télévision est comprise dans une offre, composée ou non de plusieurs autres offres, qui comprend l'accès à un réseau de communications électroniques ou à un équipement terminal, le taux réduit est applicable au supplément de prix payé par le client par rapport à une offre identique, mais ne comprenant pas tout ou partie de ces services de télévision, commercialisée dans des conditions comparables. Le cas échéant, cette assiette est majorée de celle établie pour l'application du taux réduit à cette autre offre.
 
 - Le taux prévu à l'article 51 est applicable lorsque la distribution de services de télévision est comprise dans une offre unique qui comporte pour un prix forfaitaire l'accès à un réseau de communications électroniques.
 
-- On entend par réseau de communications électroniques toute installation ou tout ensemble d'installations de transport ou de diffusion ainsi que, le cas échéant, les autres moyens assurant l'acheminement de communications électroniques, notamment ceux de commutation et de routage.
+- On entend par réseau de communications électroniques toute installation ou tout ensemble d'installations de transport ou de diffusion ainsi que, le cas échéant, les autres moyens assurant l'acheminement de communications électroniques, notamment ceux de commutation et de routage et par équipement terminal, tout équipement destiné à être connecté directement ou indirectement à un point de terminaison d'un réseau en vue de la transmission, du traitement ou de la réception d'informations.
 
-- Néanmoins, lorsque les droits de distribution des services de télévision ont été acquis en tout ou partie contre rémunération par le fournisseur des services, le taux réduit de 10 % est applicable à la part de l'abonnement correspondante. Cette part est égale aux sommes payées, par usager, pour l'acquisition des droits susmentionnés.
+- À défaut d'une telle autre offre, le taux réduit est applicable aux sommes payées, par client, pour l'acquisition des droits de distribution des services de télévision, dans la limite, le cas échéant, du prix auquel les services de télévision afférents aux mêmes droits sont commercialisés par ailleurs par le fournisseur.
 
 - i) les cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres.
 
@@ -60,4 +60,4 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - o) les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51 ;
 
-- p) Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51.
+- p) Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51

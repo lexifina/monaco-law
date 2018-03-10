@@ -20,7 +20,7 @@ II.- L'opérateur de détaxe agréé :
 
 - 4° Porte à la connaissance de l'autorité administrative, dans un délai fixé par l'administration des douanes, toute modification de ses statuts et tout changement ne lui permettant plus d'assurer le respect des critères mentionnés au I.
 
-- III.- En cas de non-respect des obligations prévues au II du présent article, l'autorité administrative peut prononcer une amende dont le montant ne peut pas excéder :
+III.- En cas de non-respect des obligations prévues au II du présent article, l'autorité administrative peut prononcer une amende dont le montant ne peut pas excéder :
 
 - 1° 60 € par bordereau en cas de manquement aux obligations prévues au 1° du II ;
 

@@ -52,21 +52,17 @@ IV. - 1. Le coefficient d'admission d'un bien ou d'un service est égal à l'uni
 
 - 6° Pour les éléments constitutifs, pièces détachées et accessoires des véhicules et engins mentionnés au premier alinéa du 5° ;
 
-- 7° Pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers :
+- 7° À l'exception des cas prévus au 3° de l'article 100 ter du Code des taxes sur le chiffre d'affaires :
 
-  - a. Pour les essences utilisées comme carburants mentionnées au tableau B de l'article 265 du Code des douanes, à l'exception de celles utilisées pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur ;
+  - a) Pour les carburéacteurs mentionnés au d du 2° du même article ;
 
-  - b. Pour les carburéacteurs mentionnés à la position 27.10.00 du tableau B de l'article 265 du Code des douanes utilisés pour les aéronefs et engins mentionnés au premier alinéa du 5° ;
-
-  - c. Pour les produits pétroliers utilisés pour la lubrification des véhicules et engins mentionnés au premier alinéa du 5° ;
+  - b) Pour les produits pétroliers mentionnés au e du 2° du même article ;
 
 - 8° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison à soi-même est prise en compte pour l'application des dispositions du g du 1 de l'article 35 ainsi que de l'article 93 A du Code des taxes ;
 
 - 9° Pour les prestations de services de toute nature, notamment la location, afférentes aux biens dont le coefficient d'admission est nul en application des dispositions du 1° au 7°.
 
-3. Le coefficient d'admission est égal à 0,5 pour les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux (position 27.11.29 du tarif des douanes) et le pétrole lampant (position 27.10.19.21 du tarif des douanes) utilisés comme carburants, lorsque ces produits sont utilisés pour des véhicules et engins mentionnés au premier alinéa du 5° du 2 et pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
-
-4. Le coefficient d'admission est égal à 0,8 pour les gazoles et le superéthanol E 85 mentionnés au tableau B de l'article 265 du Code des douanes utilisés comme carburants pour des véhicules et engins mentionnés au premier alinéa du 5° du 2, à l'exception de ceux utilisés pour les essais effectués pour les besoins de la fabrication de moteurs ou d'engins à moteur et pour autant qu'ils ne soient pas ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
+3. À l'exception des cas prévus au 3° de l'article 100 ter du Code des taxes sur le chiffre d'affaires, le coefficient d'admission est calculé en application des dispositions relatives à l'exclusion du droit à déduction fixées aux a, b et c du 2° du même article concernant, respectivement, les essences, les gazoles et le superéthanol E 85 et les gaz de pétrole et autres hydrocarbures présentés à l'état gazeux et le pétrole lampant.
 
 V. - 1. L'assujetti peut, par année civile, retenir :
 
