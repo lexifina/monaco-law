@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.859 du 19 mars 2018 modifiant l'Ordonnance Souveraine n° 13.840 du 29 décembre 1998 portant statut des personnels médicaux intervenant ponctuellement au Centre Hospitalier Princesse Grace, modifiée
