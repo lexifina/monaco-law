@@ -1,6 +1,8 @@
 # Article 2
 
-Les praticiens associés ne peuvent exercer qu'une activité libérale en secteur privé au bénéfice de leurs malades personnels. Dans le cadre de leur activité libérale, les praticiens associés sont autorisés à n'effectuer que des actes et des consultations à titre externe. Ils ont accès :
+Les praticiens associés ne peuvent exercer qu'une activité libérale en secteur privé au bénéfice de leurs malades personnels.
+
+Dans le cadre de leur activité libérale, les praticiens associés sont autorisés à n'effectuer que des actes et des consultations à titre externe. Ils ont accès :
 
 - 1°) aux lits d'hospitalisation ambulatoire ;
 
