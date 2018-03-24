@@ -12,6 +12,6 @@ Le conducteur de tout véhicule ou ensemble de véhicules est tenu de présenter
 
 Sans préjudice des dispositions prévues à l'alinéa précédent, le conducteur d'un véhicule taxi ou d'un véhicule de location avec chauffeur immatriculé à l'étranger, qui stationne ou circule sur la voie publique, est tenu, sur réquisition des agents de l'autorité publique, de :
 
-- 1°) justifier de l'accomplissement des formalités relatives à la déclaration préalable de course dans les conditions prévues à l'article 45 bis de Notre ordonnance n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise et des véhicules de service de ville et des motos à la demande, modifiée ;
+1°) justifier de l'accomplissement des formalités relatives à la déclaration préalable de course dans les conditions prévues à l'article 45 bis de Notre ordonnance n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise et des véhicules de service de ville et des motos à la demande, modifiée ;
 
-- 2°) d'apposer la vignette à l'intérieur du véhicule, conformément aux dispositions de l'article 45 de Notre ordonnance n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise, des véhicules de service de ville et des motos à la demande, modifiée.
+2°) d'apposer la vignette à l'intérieur du véhicule, conformément aux dispositions de l'article 45 de Notre ordonnance n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise, des véhicules de service de ville et des motos à la demande, modifiée.

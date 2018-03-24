@@ -10,11 +10,11 @@ Il en sera de même dans le cas où l'infraction aura été la cause de blessure
 
 Les infractions aux dispositions de l'article 11 seront punies :
 
-- - pour un dépassement de vitesse inférieur à 30 kilomètres à l'heure, de l'amende prévue au chiffre 1 de l'article 29 du Code pénal ;
+- pour un dépassement de vitesse inférieur à 30 kilomètres à l'heure, de l'amende prévue au chiffre 1 de l'article 29 du Code pénal ;
 
-- - pour un dépassement de vitesse supérieur ou égal à 30 kilomètres à l'heure et inférieur à 50 kilomètres à l'heure, de l'amende prévue au chiffre 2 de l'article 29 du Code pénal ;
+- pour un dépassement de vitesse supérieur ou égal à 30 kilomètres à l'heure et inférieur à 50 kilomètres à l'heure, de l'amende prévue au chiffre 2 de l'article 29 du Code pénal ;
 
-- - pour un dépassement de vitesse supérieur ou égal à 50 kilomètres à l'heure, de l'amende prévue au chiffre 3 de l'article 29 du Code pénal.
+- pour un dépassement de vitesse supérieur ou égal à 50 kilomètres à l'heure, de l'amende prévue au chiffre 3 de l'article 29 du Code pénal.
 
 Les infractions aux dispositions des articles 4, alinéa 2, 5 et 39, en ce qui concerne les signaux lumineux de circulation, 47 à 53, 64 à 67, 70 à 100, 111, 112, 115, 116, 132, 136 à 140, 143 à 147, 149, 150, 154 à 168, 170, 181 et 182 ou aux arrêtés pris en vue de leur application seront punies d'une amende de 15 à 300 euros.
 
