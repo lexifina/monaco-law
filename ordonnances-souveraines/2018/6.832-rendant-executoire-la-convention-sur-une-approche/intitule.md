@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.832 du 8 mars 2018 rendant exécutoire la Convention sur une approche intégrée de la sécurité, de la sûreté et des services lors des matches de football et autres manifestations sportives, signée à Saint-Denis le 3 juillet 2016
