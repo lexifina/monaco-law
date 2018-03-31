@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.821 du 6 mars 2018 rendant exécutoire l'Accord entre la Principauté de Monaco et le Gouvernement de la République italienne concernant la réglementation du transport international de voyageurs et de marchandises par route, signé à Rome le 8 novembre 2012
