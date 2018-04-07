@@ -2,7 +2,7 @@
 
 Lorsqu'une demande de brevet européen est transformée en demande de brevet national, le service de la propriété industrielle notifie au demandeur, par lettre recommandée avec AR, qu'il dispose d'un délai de 3 mois à compter de la date d'envoi de la notification pour :
 
-- a) payer le droit de dépôt visé à l'article 4 de la loi n° 606 du 20 juin 1955 et, le cas échéant, ceux visés à l'article 7 de ladite loi ;
+- a) payer le droit de dépôt visé à l'article 4 de la loi n° 606 du 20 juin 1955 ;
 
 - b) produire, le cas échéant, une traduction de la demande en français.
 
