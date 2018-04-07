@@ -22,6 +22,4 @@ Les dispositions du protocole d'accord du 8 mars 1968, annexé au présent arrê
 
 - Centre Scientifique ;
 
-- Office d'Assistance Sociale ;
-
-- l'association dénommée « Fondation Yersin - Monaco Oceans Coopération Scientifique. ».
+- Office d'Assistance Sociale.
