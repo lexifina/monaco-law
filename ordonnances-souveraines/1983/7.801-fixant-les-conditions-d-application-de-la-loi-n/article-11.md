@@ -1,3 +1,3 @@
 # Article 11
 
-Les droits réglementaires applicables à l'occasion des diverses opérations portant sur les marques de fabrique, de commerce ou de service sont fixés par l'ordonnance souveraine n° 707 du 3 octobre 2006.
+Le montant des droits applicables à l'occasion de l'accomplissement des formalités devant le service de la propriété industrielle, est fixé par ordonnance souveraine.
