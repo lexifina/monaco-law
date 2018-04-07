@@ -1,6 +1,6 @@
 # Article 8
 
-Le certificat d'enregistrement prévu à l'article 4 de l'ordonnance souveraine n° 7.801 du 21 septembre 1983 comporte, notamment, les mentions ci-après :
+Le certificat d'enregistrement comporte notamment les mentions ci-après :
 
 1° - l'identification précise et l'adresse complète du titulaire ;
 
