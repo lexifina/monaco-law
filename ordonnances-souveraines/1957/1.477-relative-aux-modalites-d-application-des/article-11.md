@@ -1,3 +1,7 @@
 # Article 11
 
-Lorsque le dépôt aura été reconnu conforme aux prescriptions réglementaires, le service remet au déposant un des exemplaires de la représentation des objets ou des dessins revêtu du visa et du sceau dudit service. Cet exemplaire constitue le titre officiel du dessin ou du modèle déposé.
+Lorsque le dépôt est recevable, il est procédé, par le service de la propriété industrielle, à l'enregistrement du dessin ou modèle sur le registre spécial.
+
+Un certificat d'enregistrement est remis au déposant contre reçu.
+
+L'insertion au Journal de Monaco fait connaître le dessin ou modèle enregistré.

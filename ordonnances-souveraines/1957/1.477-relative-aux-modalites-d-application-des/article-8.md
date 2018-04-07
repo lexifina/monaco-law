@@ -1,3 +1,7 @@
 # Article 8
 
-Le service ne reçoit le dépôt que si celui-ci est conforme aux dispositions de la loi et de la présente ordonnance et notamment si les formalités prescrites aux articles 2 et 7 ci-dessus ont été remplies.
+À la réception du dépôt, il est établi, en double exemplaire, un récépissé de dépôt.
+
+La date de réception et le numéro de récépissé de dépôt sont mentionnés sur la demande.
+
+Il est remis au déposant, contre paiement des droits réglementairement fixés, un exemplaire du récépissé de dépôt et de la demande.

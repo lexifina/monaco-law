@@ -1,19 +1,9 @@
 # Article 10
 
-Le service dresse ensuite sur un registre coté et paraphé le procès-verbal du dépôt dans l'ordre des présentations. Il indique :
+Le déposant peut, avant l'enregistrement du dessin ou modèle, déclarer le retrait de sa demande. En cas de pluralité de déposants, le retrait ne peut être effectué que s'il est requis par l'ensemble de ceux-ci ou, le cas échéant, par leur mandataire commun.
 
-- 1° Le jour, l'heure et la minute du dépôt ;
+Une déclaration de retrait ne peut viser qu'un seul dépôt. Le retrait peut être limité à une partie des dessins ou modèles de la demande.
 
-- 2° Le nom et le domicile du créateur et, le cas échéant, le nom du fondé de pouvoir ;
+La déclaration mentionne le numéro de dépôt, l'identification précise et l'adresse complète du demandeur ainsi que l'étendue du retrait, à peine d'irrecevabilité.
 
-- 3° La profession du propriétaire et son domicile ;
-
-- 4° Le nombre de dessins ou modèles déposés.
-
-Le service inscrit, en outre, un numéro d'ordre sur chaque procès-verbal. Il reproduit ce numéro sur chacune des pièces déposées.
-
-Le procès-verbal et les pièces déposées sont signés par le chef du service ou son délégué et par le déposant ou par son fondé de pouvoir.
-
-Une expédition dudit procès-verbal est immédiatement remise au déposant contre reçu et paiement des droits de timbre.
-
-Des expéditions ultérieures pourront être remises dans les mêmes conditions au déposant ou à ses ayants droit moyennant le remboursement des frais d'établissement.
+Les droits versés sont partiellement remboursés au déposant selon les modalités réglementairement fixées.
