@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 6.256 du 30 janvier 2017 réglementant la navigation, le mouillage, la pêche, la pêche sous-marine, la pratique des bains de mer et des sports nautiques et la plongée sous-marine dans la zone des travaux d'extension en mer dans l'Anse du Portier
