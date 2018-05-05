@@ -8,6 +8,8 @@ Le prélèvement n'est pas autorisé s'il est décelé un défaut de compréhens
 
 Le candidat est ajourné du don s'il présente une contre-indication mentionnée dans l'un des tableaux figurant en Annexe IV.
 
+La liste des médicaments dont l'utilisation chez un candidat au don de sang entraîne l'ajournement, en complément des médicaments dont l'indication autorisée dans leurs autorisations de mise sur le marché est une pathologie excluant du don, figure à l'Annexe V.
+
 En fonction de situations épidémiologiques particulières ou de données de l'hémovigilance, des contre-indications au don de sang peuvent être modifiées, ajoutées ou supprimées.
 
 Une masse minimum de 50 kg est requis pour tout type de don.
