@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-364 du 27 avril 2018 modifiant l'arrêté ministériel n° 2017-854 du 7 décembre 2017 relatif au prétraitement par désinfection des déchets d'activités de soins à risques infectieux et assimilés
