@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-367 du 30 avril 2018 portant application de l'article 7 2°) de l'Ordonnance Souveraine n° 1.284 du 10 septembre 2007, modifiée, fixant l'expertise requise des personnes physiques placées sous l'autorité d'une société ou d'un établissement agréé
