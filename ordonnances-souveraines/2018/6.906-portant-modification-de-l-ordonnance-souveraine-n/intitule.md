@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.906 du 27 avril 2018 portant modification de l'Ordonnance Souveraine n° 1.425 du 29 novembre 2007 établissant le classement des grades ou emplois de l'Administration Communale dans les échelles indiciaires de traitement, modifiée
