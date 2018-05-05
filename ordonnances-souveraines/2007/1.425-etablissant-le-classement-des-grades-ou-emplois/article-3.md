@@ -128,9 +128,7 @@ I. Grades ou emplois communs et particuliers
 
 - échelle 4 (C 132)
 
-24° Contrôleur au Service du Domaine Communal - Halles et Marchés
-
-- échelle 4 (C 132)
+24° (24° abrogé)
 
 25° Coursier
 
@@ -146,7 +144,7 @@ I. Grades ou emplois communs et particuliers
 
 28° (28° abrogé)
 
-29° (29 ° abrogé)
+29° (29° abrogé)
 
 30° Électricien
 

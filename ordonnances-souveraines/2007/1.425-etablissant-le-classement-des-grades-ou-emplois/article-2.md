@@ -100,9 +100,17 @@ I. Grades ou emplois communs et particuliers
 
 - échelle des Chefs de bureau et assimilés (B 020)
 
+24°-1 Contrôleur au Service du Domaine Communal - Halles et Marchés
+
+- échelle des Attachés Principaux Hautement Qualifiés (B 030)
+
 24°-5 Conseillère en Économie Sociale et Familiale
 
 - échelle des Éducateurs Spécialisés (B 522)
+
+24°-8 Coordinateur Technique
+
+- échelle des Chefs de bureau et Assimilés (B 020)
 
 25° Diététicien
 
@@ -141,6 +149,10 @@ I. Grades ou emplois communs et particuliers
 34° Moniteur
 
 - échelle des Surveillants (B 420)
+
+34°-1 Moniteur à la Salle de Sport
+
+- échelle des Maîtres Auxiliaires de 3ème catégorie (B 400)
 
 35° Premier comptable
 
