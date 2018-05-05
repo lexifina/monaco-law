@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 6.004 du 28 juillet 2016 portant création du Comité National des Vaccinations
 
-Version en vigueur au 20 août 2016.
+Version en vigueur au 5 mai 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2016/07-28-6.004@2016.08.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2016/07-28-6.004@2018.05.05/
 
 | | |
 | --- | --- |
