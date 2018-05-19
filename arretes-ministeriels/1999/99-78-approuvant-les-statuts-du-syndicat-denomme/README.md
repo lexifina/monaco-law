@@ -1,8 +1,8 @@
-# Arrêté ministériel n° 99-78 du 17 février 1999 approuvant les statuts du Syndicat dénommé « Chambre Monégasque des Nouvelles Technologies »
+# Arrêté ministériel n° 99-78 du 17 février 1999 approuvant les statuts du Syndicat dénommé « Chambre Monégasque du Numérique »
 
-Version en vigueur au 21 février 2009.
+Version en vigueur au 19 mai 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1999/02-17-99-78@2009.02.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1999/02-17-99-78@2018.05.19/
 
 | | |
 | --- | --- |
