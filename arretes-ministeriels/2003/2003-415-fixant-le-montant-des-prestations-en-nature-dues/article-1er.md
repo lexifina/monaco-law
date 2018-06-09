@@ -300,7 +300,7 @@ Des indemnités de délivrance sont facturables aux patients lorsque la dispensa
 
 - indemnité de nuit : | 8,00 euro(s) ;
 
-- indemnité de dimanche ou jour férié | 5,00 euro(s) ;
+indemnité de samedi, dimanche ou jour férié | 5,00 euro(s) ;
 
 - indemnité jours ouvrables | 2,00 euro(s).
 
@@ -308,7 +308,7 @@ Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'as
 
 - la nuit : | à 150,00 euro(s) ;
 
-- la journée du dimanche ou d'un jour férié | à 150,00 euro(s) ;
+la journée du samedi, du dimanche ou d'un jour férié | à 150,00 euro(s) ;
 
 Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le Directeur de la Caisse de Compensation des Services Sociaux, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
 
