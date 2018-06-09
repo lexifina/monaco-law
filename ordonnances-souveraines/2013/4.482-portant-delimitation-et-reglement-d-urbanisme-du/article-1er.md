@@ -6,7 +6,7 @@
 
 - des dispositions générales RU-ZQ-GEN-V7D (annexe n° 1) applicables à l'ensemble du secteur des quartiers ordonnancés ;
 
-- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D7 (annexe n° 2) ;
+- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D8 (annexe n° 2) ;
 
 - du plan de répartition des indices de construction de référence PU-IC-PTE-D2 (annexe n° 3) ;
 
@@ -16,7 +16,7 @@
 
 - des dispositions particulières RU-EXO-DP-V6D (annexe n° 6) et des plans de coordination correspondants applicables au quartier du Jardin Exotique ;
 
-- des dispositions particulières RU-LVT-DP-V7D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
+- des dispositions particulières RU-LVT-DP-V8D (annexe n° 7) et des plans de coordination correspondants applicables au quartier du Larvotto ;
 
 - des dispositions particulières RU-MGI-DP-V5D (annexe n° 8) et des plans de coordination correspondants applicables au quartier des Moneghetti ;
 
