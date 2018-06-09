@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-496 du 30 mai 2018 modifiant l'arrêté ministériel n° 2003-415 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse de compensation des services sociaux, modifié
