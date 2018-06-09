@@ -26,6 +26,8 @@ Des emplacements payants, désignés par une signalisation particulière, sont m
 
 - Avenue de la Quarantaine
 
+- Avenue Saint-Laurent
+
 - Avenue Saint Michel
 
 - Boulevard Albert 1er
