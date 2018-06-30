@@ -1,6 +1,6 @@
 # Article L. 513-1
 
-Il y a convention de remorquage lorsqu'un ou plusieurs remorqueurs fournissent à un navire la puissance lui permettant de se déplacer ou de manœuvrer sans que ce service ait un caractère d'assistance ou de sauvetage.
+Il y a convention de remorquage lorsqu'un ou plusieurs remorqueurs fournissent à un navire la puissance lui permettant de se déplacer ou de manœuvre r sans que ce service ait un caractère d'assistance ou de sauvetage.
 
 La convention de remorquage se prouve par tous moyens, notamment par l'acceptation par le capitaine du navire remorqué des services offerts par le navire remorqueur.
 
