@@ -1,9 +1,13 @@
 # Article 15
 
-Le Service d'Information et de Contrôle sur les Circuits Financiers (SICCFIN) est l'autorité centrale nationale chargée de recueillir, analyser et transmettre les informations en lien avec la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption.
+Lorsque les organismes et personnes visés aux chiffres 1°) à 4°) de l'article premier, entretiennent une relation transfrontalière de correspondant, avec un établissement situé sur le territoire d'un État qui n'impose pas d'obligations équivalentes à la présente loi, ils mettent en œuvre, en plus des mesures de vigilance définies à la Section I, des mesures de vigilance renforcées. Pour ce faire, ils doivent :
 
-À ce titre, il est chargé de recevoir, d'analyser et de traiter les déclarations transmises par les organismes et les personnes visés à l'article premier et au chiffre 3° de l'article 2, conformément aux dispositions du Chapitre VI.
+- - recueillir des informations suffisantes pour comprendre pleinement la nature des activités de l'établissement client et pour apprécier, grâce à des informations accessibles au public, sa réputation et la qualité de la surveillance ;
 
-Le Service est chargé, sous réserve de réciprocité, de répondre aux demandes de renseignements émanant de services étrangers qui exercent des compétences analogues, sous réserve que ceux-ci soient soumis aux mêmes obligations de secret professionnel et dès lors que les renseignements fournis ne peuvent être utilisés à d'autres fins que celles de la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption.
+- - évaluer les contrôles mis en place par l'établissement client pour lutter contre le blanchiment de capitaux et le financement du terrorisme ;
 
-Les attributions du Service sont précisées par ordonnance souveraine.
+- - obtenir l'autorisation d'un membre d'un niveau élevé de la hiérarchie avant d'établir de nouvelles relations de correspondant ;
+
+- - établir par écrit les responsabilités respectives de chaque établissement ;
+
+- - s'assurer, en ce qui concerne les comptes de passage, que l'établissement client a vérifié l'identité des clients ayant un accès direct aux comptes de l'établissement correspondant et que celui-ci a exercé à leur égard une vigilance constante, et qu'il peut fournir des données pertinentes concernant ces mesures de vigilance à la demande de l'établissement correspondant.

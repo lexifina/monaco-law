@@ -1,7 +1,5 @@
 # Article 26
 
-Les personnes visées à l'article premier, dont le siège social est situé dans la Principauté et qui disposent à l'étranger d'une succursale ou d'une filiale, doivent veiller à ce que celle-ci respecte des mesures au moins équivalentes aux dispositions de la présente loi, et lui communiquent les mesures et procédures pertinentes à cet effet.
+En cas de cessation d'activité, quelle qu'en soit la cause, les organismes et personnes visés à l'article premier doivent, dans des conditions définies par ordonnance souveraine, désigner un mandataire, domicilié dans la Principauté soumis aux dispositions de la présente loi, chargé de la conservation, pendant une durée de cinq années à compter de la cessation d'activité, des documents et données recueillis dans le cadre de la présente loi.
 
-Si la législation étrangère fait obstacle à l'application de telles mesures ou procédures, elles doivent en informer le Service d'Information et de Contrôle sur les Circuits Financiers.
-
-Ces personnes ne peuvent ni ouvrir une succursale ou un bureau de représentation domicilié, enregistré ou établi dans l'un des États ou territoires désignés par arrêté ministériel en application de l'article 24, ni acquérir ou créer, directement ou indirectement, une filiale exerçant l'activité d'un établissement de crédit ou d'une entreprise d'investissement ou d'une entreprise d'assurances, domiciliée, enregistrée ou établie dans l'un de ces États ou territoires.
+Le mandataire doit, pendant cette durée, être en mesure de répondre de manière rapide et complète à toute demande d'information du Service d'Information et de Contrôle sur les Circuits Financiers et de lui faire parvenir une copie de tout document justificatif.

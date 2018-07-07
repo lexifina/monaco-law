@@ -1,9 +1,5 @@
 # Article 20
 
-L'opposition peut être prorogée en ses effets au delà de la durée légale par ordonnance du Président du Tribunal de Première Instance sur réquisition du Procureur Général, saisi par le Service d'Information et de Contrôle sur les Circuits Financiers, conformément aux articles 851 et 852 du Code de procédure civile, qui peut, à toute fin de sauvegarde, placer sous séquestre les fonds, titres ou matières concernés par la déclaration.
+Tous les renseignements et documents relatifs aux transactions sur l'or, l'argent, le platine ou tout autre métal précieux, tels que la nature, le nombre, le poids et le titre des matières et ouvrages d'or, d'argent, de platine ou tout autre métal précieux, achetés ou vendus, ainsi que les noms et adresses des personnes les ayant cédés et celles pour le compte desquelles les personnes visées à l'article premier les ont achetés, doivent être inscrits sur un registre conservé dans les conditions prévues à l'article 23.
 
-L'ordonnance est exécutoire sur minute après son enregistrement, ou même avant l'accomplissement de cette formalité, si le Président du Tribunal de Première Instance l'ordonne exceptionnellement à raison de l'urgence.
-
-Les organismes ou les personnes visés à l'article premier détenant les fonds, titres ou matières objet de la mesure conservatoire sont chargés d'assurer les fonctions de gardien.
-
-Lorsque l'opération n'a pas fait l'objet d'opposition, les dirigeants ou les préposés des organismes financiers ne peuvent, sauf concertation frauduleuse avec le propriétaire des sommes ou l'auteur de l'opération, être poursuivis du chef des infractions visées par la loi n° 890 du 1er juillet 1970 sur les stupéfiants et les articles 218-2 et 339 du Code pénal.
+Tous les renseignements et documents relatifs aux opérations de change manuel dont le montant total atteint ou excède une somme fixée par ordonnance souveraine doivent être inscrits sur un registre conservé dans les conditions prévues à l'article 23. Ces renseignements incluent l'identité du client, la nature de l'opération, la ou les devises concernées, les sommes changées ainsi que les cours pratiqués.

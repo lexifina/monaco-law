@@ -1,29 +1,19 @@
 # Article 4
 
-Les organismes et les personnes visés aux articles premier et 2 doivent exercer une vigilance constante à l'égard de la relation d'affaires :
+Avant d'établir une relation d'affaires avec leur client ou de l'assister dans la préparation ou la réalisation d'une transaction, les organismes et les personnes visés aux articles premier et 2 :
 
-- - en examinant les transactions ou opérations conclues pendant toute sa durée et, si nécessaire, sur l'origine des fonds, de manière à vérifier qu'elles sont cohérentes par rapport à la connaissance qu'ont lesdits organismes ou personnes de leurs clients, de leur arrière plan socio-économique, de leurs activités commerciales et de leur profil de risque ;
+- 1°) identifient le client, le mandataire et, le cas échéant, le bénéficiaire effectif ;
 
-- - en tenant à jour les documents, données ou informations détenus par un examen continu et attentif des opérations ou transactions effectuées.
+- 2°) vérifient ces éléments d'identification au moyen d'un document justificatif probant, portant leur photographie ;
 
-Lorsque les organismes et les personnes visés aux articles premier et 2 ne peuvent remplir les obligations prescrites à l'article 3 et au premier alinéa du présent article, ils ne peuvent nouer ni maintenir une relation d'affaires. Ils apprécient s'il y a lieu d'en informer le Service d'Information et de Contrôle sur les Circuits Financiers, conformément aux dispositions du Chapitre VI.
+- 3°) recueillent les informations adaptées et proportionnées concernant ce client, notamment relativement à son arrière-plan socio-économique.
 
-Les organismes et les personnes visés aux chiffres 1° à 5° de l'article premier sont autorisés à faire exécuter les obligations prescrites à l'article 3 et au premier alinéa du présent article par un tiers, si celui-ci est un établissement de crédit ou une institution financière répondant aux deux conditions suivantes :
+Les dispositions du premier alinéa s'appliquent également lorsque lesdits organismes ou personnes ont des doutes quant à la véracité ou à l'exactitude des données d'identification au sujet d'un client avec lequel ils sont d'ores et déjà en relation d'affaires.
 
-- - s'être lui-même acquitté de son devoir de vigilance ;
+L'identification et la vérification du client et de son mandataire portent sur le nom, le prénom, et l'adresse pour les personnes physiques.
 
-- - être établi dans un État dont la législation comporte des dispositions réputées équivalentes à celles des articles 3 à 5 et faire l'objet d'une surveillance pour le respect de ces obligations.
+Pour les personnes morales, les entités juridiques et les trusts, elles portent sur la dénomination sociale, le siège social, la liste et l'identification des dirigeants, ainsi que la connaissance des dispositions régissant le pouvoir d'engager la personne morale, l'entité juridique ou le trust.
 
-Les organismes et les personnes visés aux chiffres 6° à 15° de l'article premier, ainsi que les personnes visées à l'article 2, sont autorisés à faire exécuter les obligations prescrites à l'article 3 et au premier alinéa du présent article par un tiers, si celui-ci est un établissement de crédit ou une institution financière soumise à la présente loi ou une des personnes visées à l'article 2, qui s'est lui-même acquitté de son devoir de vigilance.
+Ils doivent notamment identifier le client et vérifier son identité au moyen de documents, données et informations, issus de sources fiables et indépendantes et prendre toutes les mesures raisonnables pour vérifier l'identité de la ou des personnes au profit de laquelle ou desquelles l'opération ou la transaction est effectuée : identifier les bénéficiaires effectifs des personnes morales et constructions juridiques. Dans ce dernier cas, les mesures doivent permettre de comprendre la structure de propriété et de contrôle du client.
 
-Les organismes visés à l'article premier dont l'activité couvre les virements et transferts de fonds sont tenus d'incorporer à ces opérations ainsi qu'aux messages s'y rapportant, des renseignements exacts et utiles relatifs à leurs clients donneurs d'ordre.
-
-Ces mêmes organismes conservent tous ces renseignements et les transmettent lorsqu'ils interviennent en qualité d'intermédiaire dans une chaîne de paiement.
-
-Des mesures spécifiques peuvent être prises pour les virements transfrontaliers transmis par lots et les virements et transferts de fonds à caractère permanent de salaires, pensions ou retraites qui ne génèrent pas un risque accru de blanchiment de capitaux, de financement du terrorisme ou de corruption.
-
-Les conditions dans lesquelles ces renseignements doivent être conservés ou mis à disposition des autorités ou des autres institutions financières sont précisées par ordonnance souveraine.
-
-Les organismes visés au chiffre 6° de l'article premier doivent identifier leurs clients et vérifier leur identité, au moyen d'un document probant, dont il est pris copie, lorsque ceux-ci achètent ou échangent des plaques ou jetons pour des montants égaux ou supérieurs à des montants fixés par ordonnance souveraine ainsi que lorsque ceux-ci souhaitent réaliser toute autre opération financière en relation avec le jeu, sans préjudice de l'application des mesures prévues à l'article 5.
-
-Les modalités d'application des obligations prescrites au présent article en fonction du risque que représente le client, la relation d'affaires ou l'opération sont fixées par ordonnance souveraine.
+Les modalités d'application du présent article sont précisées par ordonnance souveraine.

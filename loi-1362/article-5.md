@@ -1,11 +1,7 @@
 # Article 5
 
-Les organismes et les personnes visés aux articles premier et 2 doivent identifier et prendre toutes les mesures raisonnables pour vérifier l'identité de la ou des personnes au profit de laquelle ou desquelles l'opération ou la transaction est effectuée :
+Les organismes et les personnes visés aux articles premier et 2 exercent une vigilance constante à l'égard de la relation d'affaires :
 
-- 1°) lorsqu'ils doutent qu'un client avec lequel ils sont d'ores et déjà en relation d'affaires agisse pour son propre compte ;
+- - en examinant les transactions ou opérations conclues pendant toute sa durée et, si nécessaire, sur l'origine des fonds, de manière à vérifier qu'elles sont cohérentes par rapport à la connaissance qu'ont lesdits organismes ou personnes de leurs clients, de leur arrière-plan socio-économique, de leurs activités commerciales et de leur profil de risque ;
 
-- 2°) lorsque le client est une personne morale, une entité juridique ou un trust.
-
-Dans ce dernier cas, les mesures incluent l'identification de la ou des personnes physiques qui, en dernier ressort, possèdent ou contrôlent le client.
-
-Les conditions d'application des obligations prescrites au présent article, en fonction du risque que représentent le client, la relation d'affaires, l'opération ou la transaction, sont fixées par ordonnance souveraine.
+- - en tenant à jour les documents, données ou informations détenus par un examen continu et attentif des opérations ou transactions effectuées.

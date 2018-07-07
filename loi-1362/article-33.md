@@ -1,7 +1,9 @@
 # Article 33
 
-Les personnes visées aux chiffres 3° à 5° et 7° à 15° de l'article premier sont tenues de faire établir par un expert-comptable ou un comptable agréé inscrit au tableau de l'Ordre un rapport annuel permettant d'évaluer l'application de la présente loi et des mesures prises pour son exécution.
+Les organismes et les personnes visés à l'article premier employant un ou plusieurs salariés désignent, en leur sein, une ou plusieurs personnes responsables de l'application de la présente loi dont ils communiquent l'identité au Service d'Information et de Contrôle sur les Circuits Financiers.
 
-Sans préjudice des dispositions de l'article 31, sont exonérées de l'obligation prévue au premier alinéa, les sociétés de personnes et les entreprises en nom personnel, dont le chiffre d'affaires et l'effectif de salariés sont inférieurs à un seuil fixé par ordonnance souveraine.
+Ces personnes responsables, exerçant en Principauté, sont notamment chargées d'établir des procédures de contrôle interne, de communication et de centralisation des informations, afin de prévenir, repérer et empêcher la réalisation d'opérations liées au blanchiment de capitaux, au financement du terrorisme ou à la corruption. Elles établissent, annuellement, un rapport d'activité selon les modalités prévues par ordonnance souveraine. Elles doivent avoir accès à toutes les informations nécessaires à l'accomplissement de leur mission et disposer des moyens adaptés à cette fin.
 
-Une copie de ce rapport est adressée au Service d'Information et de Contrôle sur les Circuits Financiers et à la direction de ces personnes.
+En l'absence de personne responsable désignée au sens de l'alinéa premier, les organismes et les personnes visés à l'article premier sont néanmoins tenus aux obligations prescrites à l'alinéa précédent.
+
+Les personnes visées à l'article 2 doivent également se doter de procédures de contrôle interne, de communication et de centralisation des informations, afin de prévenir, repérer et empêcher la réalisation d'opérations liées au blanchiment de capitaux, au financement du terrorisme ou à la corruption. Elles transmettent annuellement un rapport d'activité au Procureur Général selon des modalités prévues par ordonnance souveraine.

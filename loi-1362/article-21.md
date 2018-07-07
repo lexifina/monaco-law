@@ -1,7 +1,13 @@
 # Article 21
 
-Dans l'hypothèse où les organismes ou les personnes visés à l'article premier savent ou soupçonnent qu'une opération est liée au blanchiment de capitaux, au financement du terrorisme ou à la corruption, mais ne peuvent effectuer de déclarations prévues à l'article 18 avant d'exécuter cette opération, soit parce que son report n'est pas possible, soit parce qu'il serait susceptible d'empêcher la poursuite des bénéficiaires d'infractions présumées de blanchiment de capitaux, de financement du terrorisme ou de corruption, ces organismes ou ces personnes procèdent à cette déclaration immédiatement après avoir exécuté l'opération.
+Au sens de la présente loi, le bénéficiaire effectif est :
 
-Dans ce cas, ils indiquent également la raison pour laquelle il n'a pu être procédé à la déclaration préalablement à l'exécution de l'opération.
+- - la ou les personnes physiques qui, en dernier ressort, possèdent ou contrôlent le client ou ;
 
-Les dispositions du dernier alinéa de l'article 18 sont applicables aux obligations du présent article.
+- - la ou les personnes physiques, pour lesquelles une opération est effectuée ou une activité est exercée.
+
+Les modalités d'application du présent alinéa sont définies par ordonnance souveraine.
+
+Les sociétés commerciales et les groupements d'intérêt économique immatriculés au répertoire du commerce et de l'industrie ainsi que les sociétés civiles inscrites sur le registre spécial tenu par le service du répertoire du commerce et de l'industrie, sont tenus d'obtenir et de conserver les informations adéquates, exactes et actuelles sur leurs bénéficiaires effectifs définis au premier alinéa et sur les intérêts effectifs détenus.
+
+Les personnes morales et entités visées au précédent alinéa sont tenues de fournir, aux organismes et personnes visés aux articles premier et 2, pour l'accomplissement des obligations de la présente loi, toutes les informations adéquates, exactes et actuelles qu'elles possèdent sur leurs bénéficiaires effectifs.

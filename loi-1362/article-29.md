@@ -1,7 +1,7 @@
 # Article 29
 
-Une déclaration effectuée de bonne foi en vertu du présent Chapitre ne peut faire l'objet de poursuites sur le fondement de l'article 308 du Code pénal.
+Les organismes et les personnes visés à l'article premier et le cas échéant l'entreprise mère du groupe imposent, à leurs succursales et à leurs filiales établies à l'étranger, dans lesquelles ils détiennent une participation majoritaire, dans les conditions fixées par ordonnance souveraine, d'appliquer des mesures équivalentes à celles prévues à la présente loi en matière de vigilance à l'égard du client, de partage et de conservation des informations et de protection des informations nominatives.
 
-Aucune action en responsabilité civile ne peut être intentée, ni aucune sanction professionnelle prononcée contre un organisme ou une personne visés aux articles premier et 2, ses dirigeants ou ses préposés habilités, qui font de bonne foi une telle déclaration.
+Lorsque le droit de l'État sur le territoire duquel se trouvent situées leurs succursales ou filiales ne leur permet pas de mettre en œuvre les mesures équivalentes à celles prévues par la présente loi, ils veillent à ce que leurs succursales et filiales appliquent des mesures de vigilance spécifiques.
 
-Ces dispositions sont applicables même lorsque la preuve du caractère délictueux des faits qui ont suscité la déclaration n'est pas rapportée ou lorsque ces faits ont fait l'objet d'une décision de non-lieu, de relaxe ou d'acquittement.
+Ils en informent le Service d'Information et de Contrôle sur les Circuits Financiers qui, s'il estime lesdites mesures spécifiques insuffisantes, impose des mesures de surveillance supplémentaires, en exigeant notamment que le groupe n'établisse pas de relations d'affaires ou qu'il y mette fin, qu'il n'effectue pas d'opérations, et, le cas échéant, qu'il cesse ses activités dans le pays tiers concerné.

@@ -1,3 +1,3 @@
 # Article 42
 
-Quiconque contrevient à l'obligation déclarative énoncée à l'article 35 est puni d'une amende égale au quart de la somme sur laquelle aura porté l'infraction ou la tentative d'infraction, sans préjudice de l'éventuelle saisie et confiscation des espèces ou instruments au porteur concernés, prononcée dans les conditions prévues à l'article 12 du Code pénal.
+Les obligations de déclarations du présent Chapitre, mises à la charge des organismes et personnes visés aux articles premier et 2, sont étendues aux opérations et aux faits concernant des personnes physiques ou morales visées par des procédures de gel de fonds aux fins de lutte contre le terrorisme ou mettant en œuvre des sanctions économiques, publiées par arrêté ministériel.

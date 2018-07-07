@@ -1,7 +1,5 @@
 # Article 43
 
-Sont punis de l'amende prévue au chiffre 4 de l'article 26 du Code pénal, les dirigeants ou les préposés des organismes financiers qui ont :
+Les déclarations et les transmissions de renseignements du présent Chapitre sont effectuées, selon le cas, par la ou les personnes désignées au sein des organismes ou des personnes visés à l'article premier, conformément à l'article 33, ou par les personnes visées à l'article 2.
 
-- - informé sciemment le propriétaire des sommes, l'auteur de l'une des opérations, ou un tiers de l'existence de la déclaration ou de la transmission de renseignements prévus au Chapitre VI ;
-
-- - divulgué à quiconque des informations sur les suites données à la déclaration.
+Les règles relatives aux modalités de ces déclarations et transmissions sont fixées, notamment en ce qui concerne leur forme et leur contenu, par arrêté ministériel.

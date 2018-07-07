@@ -1,21 +1,7 @@
 # Article 3
 
-Les organismes et les personnes visés aux articles premier et 2 doivent, lorsqu'ils nouent une relation d'affaires, identifier leurs clients habituels ainsi que leurs mandataires et vérifier les identités de chacun d'entre eux au moyen d'un document probant, dont ils conservent copie.
+Les organismes et les personnes visés aux articles premier et 2 appliquent les mesures de vigilance appropriées, qui sont proportionnées à leur nature et à leur taille pour répondre aux obligations du présent Chapitre en fonction de l'évaluation des risques présentés par leurs activités en matière de blanchiment de capitaux, de financement du terrorisme et de corruption.
 
-Lesdits organismes ou personnes procèdent de la même manière pour les clients occasionnels, lorsque ceux-ci souhaitent réaliser :
+À cette fin, ils définissent et mettent en place des dispositifs d'identification et d'évaluation des risques de blanchiment de capitaux, de financement du terrorisme ou de corruption auxquels ils sont exposés, ainsi qu'une politique adaptée à ces risques. Ils élaborent en particulier une classification des risques, en fonction de la nature des produits ou des services offerts, des conditions de transactions proposées, des canaux de distribution utilisés, des caractéristiques des clients, et de l'État ou du territoire d'origine ou de destination des fonds.
 
-- - un transfert de fonds ;
-
-- - une opération dont le montant atteint ou excède un montant fixé par ordonnance souveraine, qu'elle soit effectuée en une seule ou en plusieurs opérations entre lesquelles semble exister un lien ;
-
-- - une opération, même d'une somme inférieure audit montant, dès qu'il y a soupçon de blanchiment de capitaux, de financement du terrorisme ou de corruption.
-
-Les dispositions du premier alinéa s'appliquent également lorsque lesdits organismes ou personnes ont des doutes quant à la véracité ou à l'exactitude des données d'identification au sujet d'un client avec lequel ils sont d'ores et déjà en relation d'affaires.
-
-L'identification et la vérification portent sur le nom, le prénom, et l'adresse pour les personnes physiques.
-
-Pour les personnes morales, les entités juridiques et les trusts, elles portent sur la dénomination sociale, le siège social, la liste des dirigeants et la connaissance des dispositions régissant le pouvoir d'engager la personne morale, l'entité juridique ou le trust, sans préjudice des mesures prévues au premier alinéa de l'article 5.
-
-L'identification porte également sur l'objet et la nature envisagée de la relation d'affaires.
-
-Les modalités d'application du présent article sont précisées par ordonnance souveraine.
+Pour l'identification et l'évaluation des risques de blanchiment de capitaux, de financement du terrorisme et de corruption, ils tiennent compte des facteurs inhérents aux clients, aux produits, services et canaux de distribution, des documents, recommandations ou déclarations émanant de sources fiables, comme les organismes internationaux spécialisés dans la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, ainsi que de l'analyse des risques effectuée au plan national.

@@ -1,5 +1,9 @@
 # Article 37
 
-Les agents de l'autorité de contrôle sont chargés de recueillir et de contrôler sur place les déclarations. Ils ne peuvent utiliser les déclarations à d'autres fins que celles prévues par la présente loi, sous peine de l'application des sanctions prévues à l'article 308 du Code pénal.
+Dès réception de la déclaration, le Service d'Information et de Contrôle sur les Circuits Financiers en accuse réception, sauf si la personne déclarante a indiqué expressément ne pas le souhaiter.
 
-S'il existe des indices permettant de soupçonner une déclaration frauduleuse ou que les espèces ou instruments au porteur déclarés sont en lien avec le blanchiment de capitaux, le financement du terrorisme ou la corruption, ces agents peuvent exiger la présentation des pièces établissant l'identité des personnes physiques concernées et les soumettre à des mesures de contrôle, ainsi que leurs bagages et leurs moyens de transport.
+Si, en raison de la gravité ou de l'urgence de l'affaire, le Service d'Information et de Contrôle sur les Circuits Financiers l'estime nécessaire, il peut faire opposition à l'exécution de toute opération pour le compte du client concerné par la déclaration.
+
+Cette opposition est notifiée par écrit ou, à défaut, par télécopie ou par un moyen électronique approprié, avant l'expiration du délai dans lequel l'opération doit être exécutée visé à l'article précédent. Elle fait obstacle à l'exécution de toute opération pendant une durée maximale de cinq jours ouvrables à compter de la notification.
+
+À défaut d'opposition notifiée dans le délai prescrit, l'organisme ou la personne concernée est libre d'exécuter l'opération.

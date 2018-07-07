@@ -1,17 +1,7 @@
 # Article 35
 
-Toute personne physique entrant ou sortant du territoire de la Principauté en possession d'espèces ou d'instruments au porteur dont le montant total est supérieur à un montant fixé par ordonnance souveraine doit, sur demande de l'autorité de contrôle, faire une déclaration au moyen du formulaire prévu à cet effet.
+Les personnes physiques ou morales qui, à titre professionnel, négocient des biens ou des services ne peuvent effectuer ou recevoir des paiements en espèces dont la valeur totale atteint ou excède un montant de 30.000 euros.
 
-Sont considérés comme instruments au porteur au sens de la présente loi :
+Si le montant total des paiements atteint ou excède un montant de 10.000 euros, ces personnes doivent mettre en œuvre, selon le cas, les mesures de vigilance définies à la Section I du Chapitre II ou à l'article 14 selon le niveau de risque présenté par le client ou la nature de la relation d'affaires ou de l'opération réalisée.
 
-- - les instruments négociables au porteur tels que les chèques de voyage ;
-
-- - les autres instruments négociables, y compris les chèques, billets à ordre et mandats, qui sont :
-
-  - * soit endossables sans restriction ;
-
-  - * soit établis à l'ordre d'un bénéficiaire fictif ou qui se présentent sous une forme opérant transfert de la propriété de l'instrument au moment de sa cession ;
-
-- - les instruments incomplets, y compris les chèques, billets à ordre et mandats, signés mais sur lesquels le nom du bénéficiaire n'a pas été indiqué.
-
-L'autorité de contrôle et le contenu du formulaire mentionnés au premier alinéa sont déterminés par ordonnance souveraine.
+Les dispositions des alinéas précédents s'appliquent à toute vente ou fourniture de biens ou de services effectuée en une seule ou en plusieurs fois, cumulée sur une période de six mois calendaires, entre lesquelles un lien semble exister.

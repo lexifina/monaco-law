@@ -1,11 +1,5 @@
 # Article 30
 
-L'interdiction énoncée à l'article 43 n'empêche pas la divulgation entre les organismes et personnes visés aux chiffres 1° et 2° de l'article premier, qu'elles soient établies en Principauté ou dans un État tiers, soit :
+Les organismes et les personnes visés aux articles premier et 2 prennent les mesures appropriées, en considération de leur taille, des risques auxquels ils sont exposés et de la nature de ces risques pour informer leurs préposés qui sont concernés par les dispositions de la présente loi, sur la réglementation applicable en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, y compris en ce qui concerne les exigences en matière de protection des informations nominatives.
 
-- - lorsqu'elles appartiennent au même groupe ;
-
-- - dans les cas concernant le même client et la même opération faisant intervenir au moins deux établissements. Dans ce cas, ces organismes et personnes doivent relever de la même catégorie professionnelle et être soumis à des obligations équivalentes en matière de secret professionnel et de protection des données à caractère personnel.
-
-Les personnes établies dans le pays tiers doivent remplir les conditions fixées par le 2ème tiret du 1er alinéa de l'article 8.
-
-Les informations échangées sont utilisées exclusivement à des fins de prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption.
+Ils mettent en place une action de formation continue et d'information régulière, destinée à sensibiliser leurs préposés aux opérations et aux faits qui peuvent être liés au blanchiment de capitaux, au financement du terrorisme ou à la corruption et à les instruire sur la manière de procéder en pareil cas.

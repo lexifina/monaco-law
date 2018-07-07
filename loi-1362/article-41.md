@@ -1,5 +1,5 @@
 # Article 41
 
-Quiconque, par méconnaissance des obligations professionnelles de diligence mises à sa charge par la présente loi, contrevient aux dispositions des articles 18 à 24, est puni de l'amende prévue au chiffre 3 de l'article 26 du Code pénal.
+Les obligations de déclaration du présent Chapitre sont étendues aux opérations et aux faits concernant des personnes physiques ou morales domiciliées, enregistrées ou établies dans un État ou un territoire dont la législation est reconnue insuffisante ou dont les pratiques sont considérées comme faisant obstacle à la lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption.
 
-Quiconque contrevient aux dispositions des articles 6, 7 et 10, est puni de l'amende prévue au chiffre 2 de l'article 26 du Code pénal.
+Un arrêté ministériel détermine l'État ou le territoire, les faits et le type d'opérations qui sont concernés.
