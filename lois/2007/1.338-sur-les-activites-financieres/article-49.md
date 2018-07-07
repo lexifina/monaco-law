@@ -5,3 +5,9 @@ Est puni de deux ans d'emprisonnement et de l'amende prévue au chiffre 4) de l'
 Est puni de six mois d'emprisonnement et de l'amende prévue au chiffre 3) de l'article 26 du Code pénal le fait, pour toute personne disposant, dans l'exercice de sa profession ou de ses fonctions, d'une information privilégiée sur les perspectives ou la situation d'un émetteur dont les titres sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'une valeur mobilière ou d'un instrument financier à terme admis sur un marché réglementé, de la communiquer à un tiers en dehors du cadre normal de sa profession ou de ses fonctions.
 
 Est puni des peines prévues au premier alinéa le fait, pour toute personne, de répandre sciemment dans le public, par des voies et moyens quelconques, des informations fausses ou trompeuses sur les perspectives ou la situation d'un émetteur dont les titres sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'une valeur mobilière ou d'un instrument financier à terme admis sur un marché réglementé, de nature à agir sur les cours.
+
+Est puni de deux ans d'emprisonnement et de l'amende prévue au chiffre 4 de l'article 26 du Code pénal dont le montant peut être porté jusqu'au décuple du montant du profit éventuellement réalisé sans que l'amende puisse être inférieure à ce même profit, le fait, pour toute personne de réaliser une opération, de passer un ordre ou d'adopter un comportement qui :
+
+- - donne ou est susceptible de donner des indications trompeuses sur l'offre, la demande ou le cours d'un instrument financier ou qui fixe ou est susceptible de fixer à un niveau anormal ou artificiel le cours d'un instrument financier ;
+
+- - affecte le cours d'un instrument financier, en ayant recours à des procédés fictifs ou à toute autre forme de tromperie ou d'artifice afin d'entraver le fonctionnement régulier d'un marché d'instruments financiers en induisant autrui en erreur.
