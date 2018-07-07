@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.988 du 29 juin 2018 modifiant l'Ordonnance Souveraine n° 1.742 du 1er août 2008 portant application de la loi n° 1.348 du 25 juin 2008, modifiée, relative au reclassement des salariés déclarés inapte, par le médecin du travail
