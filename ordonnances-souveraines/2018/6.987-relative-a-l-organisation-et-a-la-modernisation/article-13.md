@@ -1,0 +1,7 @@
+# Article 13
+
+La fréquence des examens médicaux périodiques mentionnée au chiffre 2 de l'article 2-1 de la loi n° 637 du 11 janvier 1958, modifiée, susvisée, est appréciée par le médecin du travail en fonction de l'état de santé et de l'âge du salarié, du poste de travail qu'il occupe et, le cas échéant, des recommandations de bonnes pratiques existantes, sous réserve qu'au moins un examen médical ait lieu tous les trois ans ou, pour les postes à risques, tous les deux ans.
+
+Toutefois, la périodicité de l'examen peut excéder trois années, sans pouvoir excéder cinq années, ou, pour les postes à risque, deux années, sans pouvoir excéder quatre années, lorsque le salarié a bénéficié d'un entretien réalisé, sous la responsabilité du médecin du travail, par un infirmier de l'équipe pluridisciplinaire. Cet entretien est pratiqué selon un protocole établi dans le respect du cadre des compétences des infirmiers et des règles professionnelles qui leur sont applicables. Il ne peut y avoir lieu à plus d'un entretien infirmier entre deux examens médicaux. L'examen médical périodique a lieu dans les plus brefs délais après l'entretien infirmier lorsque, pendant sa réalisation, l'infirmier l'estime nécessaire ou lorsque le salarié demande à en bénéficier.
+
+L'entretien infirmier mentionné à l'alinéa précédent donne lieu à la délivrance au salarié, par l'infirmier, d'une attestation de suivi infirmier qui ne comporte aucune mention relative à son aptitude ou inaptitude médicale.
