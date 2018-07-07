@@ -1,0 +1,1 @@
+Loi n° 1.461 du 28 juin 2018 prononçant la désaffectation de parcelles et de volumes dépendant du domaine public de la Commune et du Domaine public de l'État sis aux 3 et 5, avenue John Fitzgerald Kennedy et en tréfonds de l'avenue d'Ostende
