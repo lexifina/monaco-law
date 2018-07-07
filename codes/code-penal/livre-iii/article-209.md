@@ -1,3 +1,3 @@
 # Article 209
 
-Toute association, toute entente établies en vue de préparer ou de commettre des crimes contre les personnes ou les propriétés, constituent un crime contre la paix publique.
+Toute association, toute entente établies en vue de préparer ou de commettre un ou des crimes ou un ou des délits punis d'au moins cinq ans d'emprisonnement, constitue une association de malfaiteurs.
