@@ -1,3 +1,0 @@
-# Article 5
-
-En ce qui concerne les logements, les locaux et les établissements ou sont donnés des soins médicaux à des personnes non hospitalisées, les établissements hospitaliers et les logements, locaux et établissements où sont logées ou hébergées des personnes âgées ou des enfants en bas âge, un arrêté ministériel, pris après avis de la commission de contrôle de la distribution du fuel-oil domestique, prévue à l'article 18 de l'arrêté ministériel n° 74-575 du 13 décembre 1974, fixe, par catégories les limites supérieures de chauffage calculées conformément aux dispositions de l'article 1er ci-dessus qui sont applicables à ces locaux ou établissements.
