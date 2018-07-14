@@ -1,5 +1,9 @@
 # Article 3
 
-L'administration, la gestion financière et le fonctionnement de l'office sont assurés par un comité, présidé par le conseiller de gouvernement pour l'intérieur et dont la composition est fixée par ordonnance souveraine. Le secrétaire de ce comité, nommé à ses fonctions par ordonnance souveraine, dirige l'office ; il le représente en justice et dans tous les actes de la vie civile.
+L'Office de la médecine du travail est administré par un directeur sous l'autorité et le contrôle d'un comité, présidé par le Conseiller de Gouvernement-Ministre des Affaires Sociales et de la Santé.
 
-Le contrôle technique médical est exercé par le Directeur de l'Action Sanitaire et Sociale.
+La composition de ce Comité est fixée par ordonnance souveraine.
+
+Le Directeur de l'Office est nommé par ordonnance souveraine, sur proposition du Président du Comité.
+
+Le Directeur représente l'Office en justice et dans tous les actes de la vie civile. Il prend toutes mesures nécessaires à la gestion administrative et financière de l'Office dans les matières relevant de ses compétences en application des directives arrêtées par le Comité.
