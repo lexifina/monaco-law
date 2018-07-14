@@ -1,0 +1,9 @@
+# Article 18
+
+En cas de désaccord, le candidat peut procéder à une demande de recours par courrier motivé adressé au Directeur de l'Éducation Nationale, de la Jeunesse et des Sports, dans un délai maximal de deux mois à compter de la date de la notification de la décision.
+
+Le requérant doit s'engager sur l'honneur à prévenir, en temps utile, la Direction de l'Éducation Nationale, de la Jeunesse et des Sports de l'interruption de ses études ou de tout changement d'inscription en cours d'année scolaire ou universitaire, ainsi que de toute modification de sa situation civile ou financière.
+
+Un nouvel examen du dossier est alors effectué et le montant de la bourse éventuellement révisé.
+
+Les bourses qui auraient été attribuées soit par suite de fausses déclarations, soit en raison du fait que le boursier aurait négligé de signaler une modification de sa situation ou une interruption de ses études seront supprimées et les sommes indûment perçues devront être restituées à l'Administration.
