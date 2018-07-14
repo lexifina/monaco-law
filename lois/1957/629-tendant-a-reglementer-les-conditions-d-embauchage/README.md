@@ -1,8 +1,8 @@
 # Loi n° 629 du 17 juillet 1957 tendant à réglementer les conditions d'embauchage et de licenciement en Principauté
 
-Version en vigueur au 16 juillet 2016.
+Version en vigueur au 14 juillet 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1957/07-17-629@2016.07.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1957/07-17-629@2018.07.14/
 
 | | |
 | --- | --- |
