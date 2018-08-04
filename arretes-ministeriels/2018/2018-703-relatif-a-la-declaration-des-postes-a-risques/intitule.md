@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-703 du 18 juillet 2018 relatif à la déclaration des postes à risques, prévue à l'article 2.6 de la loi n° 1.451 du 4 juillet 2017 modifiant certaines dispositions relatives à la médecine du travail
