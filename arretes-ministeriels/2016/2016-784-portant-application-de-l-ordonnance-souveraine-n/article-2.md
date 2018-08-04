@@ -54,4 +54,50 @@ Pour l'application de la Norme commune de déclaration, sont considérés comme 
 
 - l'Indonésie,
 
-- le Japon.
+- le Japon,
+
+- L'Arabie Saoudite
+
+- L'Azerbaïdjan
+
+- Le Brunei Darussalam
+
+- Le Chili
+
+- La Chine
+
+- La Corée du Sud
+
+- Curaçao
+
+- Les Émirats Arabes Unis
+
+- Le Groenland
+
+- L'Île de Man
+
+- Les Îles Cook
+
+- Les Îles Turques-et-Caïques
+
+- Israël
+
+- Le Koweït
+
+- Le Liban
+
+- La Malaisie
+
+- Montserrat
+
+- Nauru
+
+- Le Pakistan
+
+- La Russie
+
+- Saint-Vincent-et-les-Grenadines
+
+- L'Uruguay
+
+- Le Vanuatu
