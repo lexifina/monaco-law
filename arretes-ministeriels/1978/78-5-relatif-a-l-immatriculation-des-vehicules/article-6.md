@@ -34,9 +34,9 @@ A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
 
 - ou une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999 ;
 
-les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B,C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, Y,
+les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, Y.
 
-- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci après : B, C, D, F, G, H, J, K, L, N, P, Q, R, S, T, U, Y ;
+- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, Y
 
 la lettre Z étant réservée aux personnes physiques visées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée, justifiant en nom personnel d'un titre de propriété ou d'un bail à loyer concernant un logement en Principauté.
 
@@ -324,7 +324,7 @@ Les véhicules automobiles ou remorqués de plus de 25 ans d'âge jusqu'alors im
 
 * Couleur des caractères : bleu.
 
-* Le numéro d'immatriculation est composé d'une lettre V suivie d'un groupe de trois chiffres, soit V001 à V999, ou bien d'un groupe de trois chiffres suivi de la lettre V, soit 001V à 999V.
+L'immatriculation des véhicules de location est composée des mêmes caractères que la série normale. Cette série étant attribuée aux véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'Ordonnance Souveraine n° 1.691 du 17 décembre 1957, modifiée, susvisée.
 
 Est qualifié de " location longue durée " la mise à disposition d'un véhicule pour une durée supérieure à un an en contrepartie du versement, à titre de loyer, d'une somme d'argent.
 
