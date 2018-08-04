@@ -5,3 +5,7 @@ Sans préjudice des dispositions de l'article L.150-1, les agents de la Directio
 Ils sont tenus au secret professionnel dans les conditions prévues à l'article 308 du Code pénal.
 
 Les agents peuvent, lors du contrôle, recueillir auprès de toute personne, sur convocation ou sur place, tous renseignements ou toutes informations utiles.
+
+Ils peuvent procéder à toutes vérifications et tous prélèvements utiles.
+
+Le capitaine du navire ou la personne qui a la responsabilité du navire est tenu de recevoir à bord lesdits agents et de répondre à toute requête présentée.
