@@ -1,25 +1,7 @@
 # Article 47
 
-Sous l'autorité du Ministre d'État, il est institué un Comité de liaison de la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+En application de l'article 28 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, les organismes et les personnes visés aux chiffres 1° à 4° et 8° de l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, établis sur le territoire de la Principauté qui appartiennent à un groupe financier ou à un groupe comprenant au moins une société de financement ou, à un groupe d'entreprises exerçant des activités d'assurance au sens du chiffre 22 de l'article premier, ou à un groupe mixte ou à un conglomérat financier, dont l'entreprise mère est établie dans la Principauté ou dans un État dont la législation comporte des dispositions équivalentes à celles de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, et qui font l'objet d'une surveillance pour la conformité de ces obligations, transmettent aux entreprises du même groupe les informations nécessaires à l'organisation de la lutte contre le blanchiment de capitaux et le financement du terrorisme.
 
-Ce Comité a pour objet d'assurer une information réciproque entre les services de l'État concernés par la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption et les professionnels, ainsi que de connaître de toute question d'intérêt commun afin d'améliorer l'efficacité du dispositif mis en place, notamment, par l'échange d'informations relatives aux tendances et aux évolutions des méthodes et techniques de blanchiment de capitaux, de financement du terrorisme et de corruption.
+Les informations ne sont communiquées qu'entre des organismes et des personnes présentant des garanties équivalentes en matière de secret professionnel et de protection des informations nominatives.
 
-Ce Comité présidé par le Conseiller de Gouvernement pour les Finances et l'Économie assisté du Directeur du Service d'information et de Contrôle sur les Circuits Financiers, comprend :
-
-- - le Directeur des Services Judiciaires ou son représentant ;
-
-- - le Procureur Général ou son représentant ;
-
-- - le Conseiller de Gouvernement pour l'Intérieur ou son représentant ;
-
-- - le Directeur de la Sûreté Publique ou son représentant plus spécialement chargé de la lutte contre le blanchiment de capitaux et le financement du terrorisme ;
-
-- - le Directeur du Budget et du Trésor ou son représentant plus spécialement chargé de recevoir les informations relatives aux gels de fonds aux fins de lutte contre le terrorisme et/ou de mise en œuvre de sanctions économiques ;
-
-- - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant ;
-
-- - le Chef du Service de Contrôle des Jeux ou son représentant ;
-
-- - des représentants de chaque catégorie de professionnels visés aux deux premiers articles de la loi, désignés pour une durée de trois années par arrêté ministériel à raison de leur compétence et, le cas échéant, sur proposition de l'organisation professionnelle ou ordinale dont ils dépendent.
-
-En cas d'empêchement ou d'absence du Conseiller de Gouvernement pour les Finances et l'Économie, le Directeur du Service d'information et de Contrôle sur les Circuits Financiers assure la présidence du Comité.
+Les informations nécessaires à la vigilance dans le groupe en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme, y compris pour les informations relatives à la clientèle sont transmises dans les mêmes conditions qu'au précédent alinéa. Les personnes recevant ces informations sont tenues au secret professionnel pour tous renseignements ou documents qu'elles seraient ainsi amenées à recevoir.

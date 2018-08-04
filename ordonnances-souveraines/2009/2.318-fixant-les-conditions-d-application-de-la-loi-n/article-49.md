@@ -1,21 +1,25 @@
 # Article 49
 
-Le montant prévu au premier tiret du deuxième alinéa de l'article premier de la loi est fixé à la somme de 750.000 euros.
+Sous l'autorité du Ministre d'État, il est institué un Comité de liaison de la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption.
 
-Le montant prévu au deuxième tiret du deuxième alinéa de l'article premier de la loi est fixé à la somme de 1.500 euros.
+Ce Comité a pour objet d'assurer une information réciproque entre les services de l'État concernés par la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption et les professionnels, ainsi que de connaître de toute question d'intérêt commun afin d'améliorer l'efficacité du dispositif mis en place, notamment, par l'échange d'informations relatives aux tendances et aux évolutions des méthodes et techniques de blanchiment de capitaux, de financement du terrorisme et de corruption.
 
-Le pourcentage prévu au troisième tiret du deuxième alinéa de l'article premier de la loi est fixé à 3 %.
+Ce Comité présidé par le Conseiller de Gouvernement-Ministre des Finances et de l'Économie assisté du Directeur du Service d'information et de Contrôle sur les Circuits Financiers, comprend :
 
-Le montant prévu au deuxième tiret du deuxième alinéa de l'article 3 la loi est fixé à la somme de 15.000 euros.
+- - le Directeur des Services Judiciaires ou son représentant ;
 
-Les montants prévus au neuvième alinéa de l'article 4 de la loi sont fixés à la somme de 3.000 euros pour les jeux de table et pour les machines à sous.
+- - le Procureur Général ou son représentant ;
 
-Le montant prévu au deuxième alinéa de l'article 7 de la loi est fixé à la somme de 1.500 euros.
+- - le Conseiller de Gouvernement-Ministre de l'Intérieur ou son représentant ;
 
-L'effectif de salariés prévu au premier alinéa de l'article 13 de la loi est fixé à une personne.
+- - le Directeur de la Sûreté Publique ou son représentant plus spécialement chargé de la lutte contre le blanchiment de capitaux et le financement du terrorisme ;
 
-Le montant prévu au deuxième alinéa de l'article 33 de la loi est fixé à 400.000 euros.
+- - le Directeur du Budget et du Trésor ou son représentant plus spécialement chargé de recevoir les informations relatives aux gels de fonds aux fins de lutte contre le terrorisme et, ou de mise en œuvre de sanctions économiques ;
 
-L'effectif de salariés prévu au deuxième alinéa de l'article 33 de la loi est fixé à 3 personnes.
+- - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant ;
 
-Le montant prévu à l'article 35 de la loi est fixé à la somme de 10.000 euros.
+- - le Chef du Service de Contrôle des Jeux ou son représentant ;
+
+- - des représentants de chaque catégorie de professionnels visés aux deux premiers articles de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, désignés pour une durée de trois années par arrêté ministériel à raison de leur compétence et, le cas échéant, sur proposition de l'organisation professionnelle ou ordinale dont ils dépendent.
+
+En cas d'empêchement ou d'absence du Conseiller de Gouvernement-Ministre des Finances et de l'Économie, le Directeur du Service d'information et de Contrôle sur les Circuits Financiers assure la présidence du Comité.

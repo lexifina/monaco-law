@@ -1,9 +1,25 @@
 # Article 51
 
-Sont abrogées :
+Sous l'autorité du Directeur des Services Judiciaires, il est institué un Groupe de contact de lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption.
 
-- - l'ordonnance souveraine n° 11.160 du 24 janvier 1994 fixant les conditions d'application de la loi n° 1.162 du 7 juillet 1993 relative à la participation des organismes financiers à la lutte contre le blanchiment de capitaux et le financement du terrorisme, modifiée ;
+Ce Groupe a pour objet d'assurer une information réciproque entre les autorités de poursuite pénale et les services de l'État concernés par la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, ainsi que de connaître toute question d'intérêt commun afin d'améliorer l'efficacité des mécanismes de coopération et de coordination mis en place au niveau opérationnel.
 
-- - l'ordonnance souveraine n° 11.246 du 12 avril 1994 constituant un Service d'Information et de Contrôle sur les Circuits Financiers (S.I.C.C.F.I.N.), modifiée ;
+Ce Groupe présidé par le Directeur des Services Judiciaires comprend :
 
-- - l'ordonnance souveraine n° 16.552 du 20 décembre 2004 créant un Comité de liaison de la lutte contre le blanchiment de capitaux et le financement du terrorisme, modifiée.
+- - le Directeur des Services Judiciaires ou son représentant, éventuellement assisté de membres de la Direction des Services Judiciaires ;
+
+- - le Procureur Général ou son représentant, éventuellement assisté de membres du Parquet Général ;
+
+- - les Juges d'Instruction ;
+
+- - le Directeur de la Sûreté Publique ou son représentant, éventuellement assisté de membres de la Direction de la Sûreté Publique plus spécialement chargés de la lutte contre le blanchiment de capitaux et le financement du terrorisme ;
+
+- - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant, éventuellement assisté de membres du Service d'Information et de Contrôle sur les Circuits Financiers.
+
+En cas d'empêchement ou d'absence du Directeur des Services Judiciaires, le Procureur Général assure la présidence du Groupe.
+
+Le Groupe de contact peut s'adjoindre, en tant que de besoin, toute personne qualifiée intervenant ou exerçant une activité dans le domaine de la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+
+La Direction des Services Judiciaires assure le secrétariat de ce Groupe.
+
+Le Groupe de contact se réunit au minimum deux fois par an sur convocation du Président qui fixe l'ordre du jour. Il peut pour cela recueillir l'avis des autres membres. Ceux-ci peuvent lui demander de tenir une réunion extraordinaire sur une question importante et urgente.

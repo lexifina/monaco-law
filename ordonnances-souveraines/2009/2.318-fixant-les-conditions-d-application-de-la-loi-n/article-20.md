@@ -1,13 +1,7 @@
 # Article 20
 
-Les professionnels peuvent faire exécuter par un tiers dans les conditions fixées au premier alinéa de l'article 17 :
+Lorsqu'un client souscrit à un contrat d'assurance-vie auprès d'une entreprise d'assurances par le biais d'un intermédiaire d'assurances, agent ou courtier, visé au chiffre 4° de l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, l'identification du client et la vérification de son identité peuvent être opérées par ce dernier simultanément pour son propre compte et pour le compte de l'entreprise d'assurances. Il en va de même concernant l'identification et la vérification de l'identité du bénéficiaire effectif d'un contrat d'assurance-vie, lorsque celui-ci s'adresse à un tel intermédiaire en vue d'obtenir le paiement par l'entreprise d'assurances de la prestation prévue par un contrat d'assurance-vie.
 
-- - leurs obligations d'identification et de vérification de l'identité des clients et leurs obligations d'identification de l'objet et de la nature envisagée de la relation d'affaires conformément aux articles 3 et 4 de la loi ;
+Dans ces hypothèses, l'intermédiaire d'assurances, agent ou courtier, communique sans retard à l'entreprise d'assurances les données d'identification du client ou du bénéficiaire effectif, ainsi qu'une copie des documents probants sur la base desquels l'identité du client ou du bénéficiaire effectif a été vérifiée.
 
-- - leurs obligations d'identification et de vérification de l'identité des bénéficiaires économiques effectifs conformément à l'article 5 de la loi ;
-
-- - leurs obligations de collecte des autres informations visées à l'article 10.
-
-Les professionnels ne peuvent faire exécuter par un tiers leurs obligations de vigilance constante à l'égard de la relation d'affaire, à l'exception de leurs obligations de mise à jour des données d'identification et autres informations définies à l'article 29.
-
-Les professionnels qui nouent des relations d'affaires ou réalisent des opérations occasionnelles avec des clients identifiés par un tiers requièrent que celui-ci leur communique les informations ainsi que, le cas échéant, les documents visés au deuxième tiret du premier alinéa de l'article 17, et s'assurent du bon accomplissement de cette communication.
+Lorsque, conformément aux précédents alinéas, un intermédiaire d'assurances, agent ou courtier, intervient, il relève de la responsabilité de l'entreprise d'assurances de contrôler que l'identification du client ou du bénéficiaire effectif et la vérification de leur identité ont été complètement et correctement opérées par l'intermédiaire d'assurances. Au besoin, l'entreprise doit procéder elle-même aux compléments nécessaires d'identification et de vérification, ainsi que, le cas échéant, à une nouvelle identification et à une nouvelle vérification de l'identité du client ou du bénéficiaire effectif.

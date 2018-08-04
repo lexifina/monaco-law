@@ -1,9 +1,11 @@
 # Article 18
 
-Lorsqu'une personne gérant des fonds communs de placement ou d'autres organismes de placement collectif reçoit les ordres de souscription et de rachat, elle doit identifier les porteurs de parts ou d'actions y relatifs conformément à l'article 3 de la loi.
+Afin de déterminer si un État dispose d'une législation pouvant être considérée comme imposant des obligations équivalentes à celles prévues par la loi n° 1.362 du 3 août 2009, modifiée, susvisée, en application de l'article 8 de ce texte, il convient de prendre en compte les éléments suivants :
 
-Lorsqu'une personne gérant des fonds communs de placement ou d'autres organismes de placement collectif ne reçoit pas les ordres de souscription et de rachat, elle s'assure que l'établissement de crédit ou l'institution financière qui recueille ces ordres réponde aux conditions fixées par l'alinéa 3 de l'article 4 de la loi. Elle conserve la documentation sur laquelle elle s'est fondée pour vérifier que ces conditions sont remplies.
+- - existence d'un système de surveillance du respect de l'application de la législation de lutte contre le blanchiment de capitaux et le financement du terrorisme ;
 
-L'établissement de crédit dépositaire des actifs de fonds communs de placement ou d'autres organismes de placement collectif s'assure que la société de gestion remplit les obligations prévues aux précédents alinéas. Il conserve la documentation sur laquelle il s'est fondé pour vérifier que ces conditions sont remplies.
+- - adhésion de l'État à une instance internationale dont le mandat impose de s'assurer que les standards de lutte contre le blanchiment de capitaux et le financement du terrorisme soient mis en œuvre par ses membres ;
 
-Lorsqu'un professionnel recueille les ordres de souscription et de rachat pour le compte de fonds communs de placement ou d'autres organismes collectif, il doit identifier les porteurs de parts ou d'actions y relatifs conformément à l'article 3 de la loi.
+- - déclarations ou rapports émanant d'organisations internationales, d'instances internationales de concertation et de coordination ou de sources publiques spécialisées dans la lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption ;
+
+- - toutes informations utiles, publiquement disponibles, relatives à la conformité au regard des recommandations internationalement reconnues en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, des dispositifs légaux et réglementaires et des mécanismes de lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption de cet État.

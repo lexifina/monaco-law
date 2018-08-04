@@ -6,4 +6,4 @@ Lesdits professionnels vérifient ces informations au moyen de tous documents é
 
 Les professionnels doivent également comprendre la structure de propriété et de contrôle de l'entité juridique ou du trust.
 
-Lorsque le client est une entité juridique ou un trust, les obligations d'identification du client et de vérification de son identité conformément à l'article 3 de la loi portent également sur le ou les constituants de l'entité juridique ou du trust ainsi que, le cas échéant, sur le ou les protecteurs de l'entité juridique ou du trust.
+Lorsque le client est une entité juridique ou un trust, les obligations d'identification du client et de vérification de son identité conformément à l'article 4 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, portent également sur le ou les constituants de l'entité juridique ou du trust ainsi que, le cas échéant, sur le ou les protecteurs de l'entité juridique ou du trust.

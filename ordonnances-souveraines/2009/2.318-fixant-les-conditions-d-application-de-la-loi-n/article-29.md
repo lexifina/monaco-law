@@ -1,5 +1,5 @@
 # Article 29
 
-Le devoir de vigilance constante des professionnels prévu par le premier alinéa de l'article 4 de la loi inclut celui de vérifier et, le cas échéant, de mettre à jour, dans un délai déterminé en fonction du risque, les données d'identification et les autres informations visées à l'article 10, lorsqu'ils ont des raisons de penser que ces données ne sont plus actuelles.
+Les professionnels mettent en œuvre des procédures appropriées afin de procéder dans les plus brefs délais à l'analyse, sous la coordination du responsable de la prévention du blanchiment de capitaux et du financement du terrorisme, des rapports écrits conformément à l'article 14 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, afin de déterminer s'il y a lieu de procéder à la communication de ces opérations ou de ces faits au Service d'Information et de Contrôle sur les Circuits Financiers, en application du Chapitre V de ce texte.
 
-La mise à jour des données d'identification visées à l'article 3 de la loi requiert que les nouvelles données soient vérifiées au moyen d'un document probant au sens de cet article et des dispositions de la présente ordonnance, dont une copie doit être conservée.
+Le rapport écrit, son analyse et, le cas échéant, la déclaration de soupçon à laquelle cette analyse a conduit sont conservés conformément aux modalités définies à l'article 23 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, et tenus à la disposition du Service d'Information et de Contrôle sur les Circuits Financiers.

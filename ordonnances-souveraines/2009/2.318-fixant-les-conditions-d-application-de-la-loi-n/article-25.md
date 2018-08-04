@@ -1,39 +1,11 @@
 # Article 25
 
-Lorsque des personnes politiquement exposées souhaitent nouer avec les professionnels des relations d'affaires ou les sollicitent pour la réalisation d'opérations occasionnelles, l'acceptation de ces clients est soumise à un examen particulier et doit être décidée à un niveau hiérarchiquement approprié. Ladite acceptation requiert de prendre toute mesure appropriée afin d'établir l'origine de leur patrimoine ainsi que celle des fonds qui sont ou seront engagés dans la relation d'affaires ou dans l'opération occasionnelle envisagée.
+L'acceptation des clients susceptibles de présenter des niveaux particuliers de risque est soumise à un examen spécifique. Elle est décidée à un niveau hiérarchique approprié. Ces clients sont notamment ceux :
 
-Sont considérées comme politiquement exposées, qu'elles soient clientes, bénéficiaires économiques effectifs ou mandataires, les personnes qui exercent ou ont exercé au cours des trois dernières années, dans un pays étranger, des fonctions publiques importantes, savoir, notamment :
+- - qui sollicitent l'ouverture de comptes à intitulé conventionnel visés à l'article 3 ;
 
-- - les chefs d'État ;
+- - qui résident ou ont leur domicile dans un pays ou un territoire qualifié de pays ou territoire non coopératif par les instances internationales de concertation et de coordination spécialisées dans la lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption ;
 
-- - les membres de gouvernements ;
+- - dont l'identification a été opérée à distance sur la base d'une copie de document probant ;
 
-- - les membres d'assemblées parlementaires ;
-
-- - les membres des cours suprêmes, des cours constitutionnelles ou d'autres hautes juridictions dont les décisions ne sont pas susceptibles de recours, sauf circonstances exceptionnelles ;
-
-- - les responsables et dirigeants de partis politiques ;
-
-- - les membres des cours des comptes et des conseils des banques centrales ;
-
-- - les ambassadeurs, les chargés d'affaires et les officiers supérieurs des forces armées ;
-
-- - les membres des organes d'administration, de direction ou de surveillance des entreprises publiques ;
-
-- - les hauts responsables politiques et les hauts fonctionnaires d'organisations internationales ou supranationales.
-
-Les conjoints et ascendants ou descendants directs de ces personnes doivent être traités comme s'ils étaient eux-mêmes des personnes politiquement exposées.
-
-Doivent également être considérées comme des personnes politiquement exposées les personnes connues pour être étroitement associées à l'une de celles visées aux deux précédents alinéas et notamment :
-
-- - toute personne physique connue pour être conjointement avec l'une d'elles, le bénéficiaire économique effectif d'une personne morale ou d'une entité juridique ou pour entretenir toute autre relation d'affaires étroite avec celles-ci ;
-
-- - toute personne physique qui est le seul bénéficiaire économique effectif d'une personne morale ou d'une entité juridique connue pour avoir été, de facto, créée au profit d'une des personnes précitées.
-
-La politique d'acceptation des clients précise les critères et les méthodes permettant de déterminer s'ils sont des personnes politiquement exposées.
-
-Les professionnels entretenant une relation d'affaires avec des personnes politiquement exposées sont tenus de soumettre celles-ci à une surveillance renforcée continue.
-
-Les mesures de vigilance s'appliquent également lorsqu'il apparaît ultérieurement qu'un client existant est une personne politiquement exposée ou qu'il le devient.
-
-Ces mesures de vigilance s'appliquent que les personnes politiquement exposées soit clientes, bénéficiaires économiques effectifs ou mandataires.
+- - qui, par application des critères visés au 2ème alinéa de l'article 23, sont considérés comme susceptibles de présenter un niveau particulier de risque.

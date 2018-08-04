@@ -1,11 +1,19 @@
 # Article 48
 
-Le Service d'Information et de Contrôle sur les Circuits Financiers assure le secrétariat du Comité.
+Au sens du I de l'article 45 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée :
 
-Le Comité peut s'adjoindre, en tant que de besoin, toute personne qualifiée intervenant ou exerçant une activité dans le domaine de la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+- 1°) une personne, physique ou morale, est considérée, comme en contrôlant une autre :
 
-Les représentants de chaque catégorie de professionnels énoncée au 7ème tiret du troisième alinéa sont chargés de diffuser, auprès des professionnels qu'ils représentent, les informations communiquées lors des réunions du Comité.
+  - a) lorsqu'elle détient directement ou indirectement une fraction du capital lui conférant la majorité des droits de vote dans les assemblées générales de cette société ;
 
-Le Comité de liaison se réunit au minimum deux fois par an sur convocation du Président qui fixe l'ordre du jour. Il peut pour cela recueillir l'avis des autres membres.
+  - b) lorsqu'elle dispose seule de la majorité des droits de vote dans cette société en vertu d'un accord conclu avec d'autres associés ou actionnaires et qui n'est pas contraire à l'intérêt de la société ;
 
-Ceux-ci peuvent lui demander de tenir une réunion extraordinaire sur une question importante et urgente.
+  - c) lorsqu'elle détermine en fait, par les droits de vote dont elle dispose, les décisions dans les assemblées générales de cette société ;
+
+  - d) lorsqu'elle est associée ou actionnaire de cette société et dispose du pouvoir de nommer ou de révoquer la majorité des membres des organes d'administration, de direction ou de surveillance de cette société.
+
+- Elle est présumée exercer ce contrôle lorsqu'elle dispose directement ou indirectement, d'une fraction des droits de vote supérieure à 40 % et qu'aucun autre associé ou actionnaire ne détient directement ou indirectement une fraction supérieure à la sienne.
+
+- Deux ou plusieurs personnes agissant de concert sont considérées comme en contrôlant conjointement une autre lorsqu'elles déterminent en fait les décisions prises en assemblée générale ;
+
+- 2°) lorsqu'une société possède plus de la moitié du capital d'une autre société, la seconde est considérée, comme filiale de la première.
