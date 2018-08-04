@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-789 du 31 juillet 2018 modifiant l'Arrêté Ministériel n° 2007-654 du 17 décembre 2007 portant classification des équipements de scanographie, de remnographie et de tomographie à émission de positons et tarification des forfaits techniques rémunérant leurs coûts de fonctionnement, modifié
