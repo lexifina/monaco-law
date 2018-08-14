@@ -1,0 +1,11 @@
+# Article 6
+
+1) Les Parties à la Convention coopèrent à la recherche des infractions et à la mise en œuvre des dispositions de la présente Convention en utilisant tous les moyens pratiques appropriés de recherche et de surveillance continue du milieu ainsi que des méthodes satisfaisantes de transmission des renseignements et de rassemblement des preuves.
+
+2) Tout navire auquel la présente Convention s'applique peut être soumis, dans tout port ou terminal au large d'une Partie, à l'inspection de fonctionnaires désignés ou autorisés par ladite Partie, en vue de vérifier s'il a rejeté des substances nuisibles en infraction aux dispositions des règles. Au cas où l'inspection fait apparaître une infraction aux dispositions de la Convention, le compte rendu en est communiqué à l'Autorité pour que celle-ci prenne des mesures appropriées.
+
+3) Toute Partie fournit à l'Autorité la preuve, si elle existe, que ce navire a rejeté des substances nuisibles ou des effluents contenant de telles substances en infraction aux dispositions des règles. Dans toute la mesure du possible, cette infraction est portée à la connaissance du capitaine du navire par l'autorité compétente de cette Partie.
+
+4) Dès réception de cette preuve, l'Autorité examine l'affaire et peut demander à l'autre Partie de lui fournir sur l'infraction des éléments de fait plus complets ou plus concluants. Si l'Autorité estime que la preuve est suffisante pour lui permettre d'intenter une action, elle intente une action dès que possible et conformément à sa législation. L'Autorité informe rapidement la Partie qui lui a signalé l'infraction présumée, ainsi que l'Organisation, des poursuites engagées.
+
+5) Une partie peut inspecter tout navire, auquel la présente Convention s'applique, qui fait escale dans un port ou un terminal au large relevant de sa juridiction lorsqu'une autre Partie lui demande de procéder à cette enquête en fournissant suffisamment de preuves que le navire a rejeté dans un lieu quelconque des substances nuisibles ou des effluents contenant de telles substances. Il est rendu compte de l'enquête à la Partie qui l'a demandée ainsi qu'à l'Autorité, afin que des mesures appropriées soient prises conformément aux dispositions de la présente Convention.
