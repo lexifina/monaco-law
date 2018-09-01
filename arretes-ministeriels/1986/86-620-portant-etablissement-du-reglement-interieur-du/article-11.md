@@ -1,7 +1,9 @@
 # Article 11
 
-Chacune des deux écoles est dirigée par une directrice, assistée, pour la première, d'un conseil technique et, pour la seconde, d'un comité technique.
+Chacun des deux Instituts de Formation est dirigé par un directeur, assisté, pour le premier, d'un conseil pédagogique, et pour le second, d'un conseil technique.
 
-La crèche est gérée par une directrice.
+La direction de l'Institut de Formation d'Aides-Soignants est assurée par le Directeur de l'Institut de Formation en Soins Infirmiers.
 
-L'école d'infirmières et la crèche sont régies, chacune d'entre elles, par un règlement intérieur.
+La crèche est gérée par un directeur.
+
+Les deux Instituts de Formation et la crèche sont régis, chacun d'entre eux, par un règlement intérieur.

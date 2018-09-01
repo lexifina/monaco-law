@@ -1,9 +1,9 @@
 # Article 10
 
-Sous l'autorité du directeur, le centre hospitalier Princesse Grace assure le fonctionnement :
+Sous l'autorité du Directeur, le Centre Hospitalier Princesse Grace assure le fonctionnement :
 
-- d'une école d'infirmières, préparant, sur la base des programmes français, au diplôme d'État français ;
+- d'un Institut de Formation en Soins Infirmiers, préparant sur la base des programmes français, au diplôme d'État français ;
 
-- d'une école d'aides-soignantes ;
+- d'un Institut de Formation d'Aides-Soignants, préparant sur la base des programmes français, au diplôme d'État français ;
 
 - d'une crèche destinée, en priorité, aux enfants du personnel hospitalier.
