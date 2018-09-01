@@ -2,7 +2,7 @@
 
 Le personnel soignant et assimilé comprend :
 
-- la Directrice de l'École d'infirmières ;
+- le Directeur de l'Institut de Formation en Soins Infirmiers et de l'Institut de Formation d'Aides-Soignants ;
 
 - les monitrices de l'École d'infirmières ;
 

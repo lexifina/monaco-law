@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 84-276 du 3 mai 1984 relatif aux conditions d'accès aux emplois du personnel de service du Centre hospitalier Princesse Grace
 
-Version en vigueur au 3 décembre 2016.
+Version en vigueur au 1er septembre 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1984/05-03-84-276@2016.12.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1984/05-03-84-276@2018.09.01/
 
 | | |
 | --- | --- |

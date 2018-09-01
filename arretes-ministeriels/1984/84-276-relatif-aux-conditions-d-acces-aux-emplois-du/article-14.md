@@ -1,6 +1,6 @@
 # Article 14
 
-La directrice de l'école est désignée par le directeur du Centre hospitalier parmi les personnes satisfaisant à l'ensemble des conditions suivantes :
+Le Directeur de l'Institut de Formation en Soins Infirmiers et de l'Institut de Formation d'Aides-Soignants est désignée par le directeur du Centre hospitalier parmi les personnes satisfaisant à l'ensemble des conditions suivantes :
 
 - être titulaire d'un diplôme d'État français d'infirmière ou d'un diplôme équivalent ;
 
