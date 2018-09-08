@@ -1,6 +1,6 @@
 # Article 106
 
-Le comité consultatif pour la construction, après vérification de l'état des bâtiments, délibère sur la possibilité de les réparer ou la nécessité de procéder à leur démolition.
+Le comité consultatif, après vérification de l'état des bâtiments, délibère sur la possibilité de les réparer ou la nécessité de procéder à leur démolition.
 
 La démolition peut être ordonnée notamment :
 

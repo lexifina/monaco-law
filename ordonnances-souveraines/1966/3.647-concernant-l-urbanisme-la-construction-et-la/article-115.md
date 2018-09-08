@@ -8,7 +8,7 @@
 
 - Dans le cas où l'immeuble est bordé par deux voies distinctes, le calcul du 4ème étage se fait sur chacune des voies.
 
-- En cas de difficultés pour déterminer l'implantation du 4ème étage, la décision est prise après avis du Comité Consultatif pour la Construction et sur la base d'une proposition justifiée du pétitionnaire.
+- En cas de difficultés pour déterminer l'implantation du 4ème étage, la décision est prise après avis du Comité Consultatif et sur la base d'une proposition justifiée du pétitionnaire.
 
 115.2. Dispositions particulières aux immeubles situés dans un périmètre de protection
 
@@ -22,7 +22,7 @@
 
   - - verte, pour la zone 3 : zone de protection allégée.
 
-115.2.1 Prescriptions particulières applicables à la Zone 1
+- 115.2.1 Prescriptions particulières applicables à la Zone 1
 
 - 1. Interventions sur les toitures
 
@@ -56,7 +56,7 @@
 
   - Les verrières peuvent être accordées, au cas par cas, pour remplacer une verrière existante ou pour regrouper à des fins esthétiques l'ensemble des fenêtres de toit existantes.
 
-2. Traitement des façades
+- 2. Traitement des façades
 
 - 2.1 Interventions sur la façade
 
@@ -72,7 +72,7 @@
 
   - Les façades doivent être enduites. L'enduit est réalisé à base de chaux et doit être coloré. Hormis les encadrements, il n'est pas accepté de moellons et de pierres apparents.
 
-3. Ouvertures dans les façades
+- 3. Ouvertures dans les façades
 
 - 3.1 Portes d'entrée :
 
@@ -80,7 +80,9 @@
 
 - 3.2 Encadrement, fenêtres et persiennes
 
-  - L'encadrement de la fenêtre ne doit pas être en saillie de la façade. L'encadrement de la fenêtre est réalisé à l'aide d'enduit en pourtour ou en pierre.
+  - L'encadrement de la fenêtre ne doit pas être en saillie de la façade.
+
+  - L'encadrement de la fenêtre est réalisé à l'aide d'enduit en pourtour ou en pierre.
 
   - Dans le cas d'une démolition-reconstruction, toutes les menuiseries des fenêtres de l'immeuble doivent être identiques.
 
@@ -88,7 +90,7 @@
 
   - Le partage des menuiseries se fait par un découpage par 3 (voire 4) carreaux par vantail, légèrement plus hauts que larges à l'aide de petits bois.
 
-4. Matériaux
+- 4. Matériaux
 
 - 4.1 Fenêtres
 
@@ -116,15 +118,15 @@
 
   - L'encadrement de l'entrée de l'immeuble est composé d'un linteau clavé monolithe en pierre.
 
-5. Balcons et terrasses
+- 5. Balcons et terrasses
 
-- Le revêtement de la terrasse réalisé sur le 4ème étage en retrait doit être en matériau terre-cuite de la même couleur que la toiture.
+  - Le revêtement de la terrasse réalisé sur le 4ème étage en retrait doit être en matériau terre-cuite de la même couleur que la toiture.
 
-- Les ferronneries en aluminium pour les garde-corps sont proscrites.
+  - Les ferronneries en aluminium pour les garde-corps sont proscrites.
 
-- Les balustres pour les garde-corps sont proscrites.
+  - Les balustres pour les garde-corps sont proscrites.
 
-6. Réseaux, coffrets techniques
+- 6. Réseaux, coffrets techniques
 
 - 6.1 Réseaux
 
@@ -138,9 +140,11 @@
 
   - Les coffrets techniques ne doivent pas être posés en applique mais encastrés suffisamment en retrait pour pouvoir installer une petite porte, peinte de la teinte de la façade. Leur pose doit éviter de percer un linteau ou de détruire un élément de modénature.
 
-- 6.3 Boîtes aux lettres Les boîtes aux lettres ne doivent pas être posées en applique sur la façade.
+- 6.3 Boîtes aux lettres
 
-7. Traitement des commerces, activités
+  - Les boîtes aux lettres ne doivent pas être posées en applique sur la façade.
+
+- 7. Traitement des commerces, activités
 
 - Les devantures commerciales doivent s'inscrire dans la structure de l'immeuble et respecter les prescriptions suivantes :
 
@@ -164,4 +168,4 @@
 
 - Les dispositions de l'article 115.2.1 s'appliquent aux immeubles situés dans cette zone à l'exception de celles prévues par ledit article au 3ème alinéa du point 1, aux points 2, 4.1 et dernier alinéa du point 5.
 
-115.2.4 Le Comité Consultatif pour la Construction peut être appelé à se prononcer sur un éventuel non-respect des prescriptions particulières applicables à chaque zone, justifié par des considérations esthétiques.
+115.2.4 Le Comité Consultatif peut être appelé à se prononcer sur un éventuel non-respect des prescriptions particulières applicables à chaque zone, justifié par des considérations esthétiques.

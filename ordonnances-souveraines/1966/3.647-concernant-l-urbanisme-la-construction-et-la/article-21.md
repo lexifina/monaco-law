@@ -4,7 +4,7 @@ Les façades ainsi que les saillies présentes sur celles-ci doivent présenter 
 
 Un traitement végétalisé peut être proposé.
 
-Un échantillon des matériaux utilisés devra être soumis à l'appréciation du service de l'urbanisme et de la construction pour assurer l'harmonie des diverses parties de chaque façade et des façades voisines entre elles.
+Un échantillon des matériaux utilisés devra être soumis à l'appréciation de la Direction de la Prospective, de l'Urbanisme et de la Mobilité pour assurer l'harmonie des diverses parties de chaque façade et des façades voisines entre elles.
 
 Les devantures des magasins et boutiques devront, également, être revêtues de matériaux de qualité ; elles devront être tenues constamment en parfait état d'entretien.
 

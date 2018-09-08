@@ -10,7 +10,7 @@
 
 - La « façade préjudiciable » est la façade qui impose au voisinage ou à la voie publique les moins bonnes conditions d'ensoleillement, d'éclairement et d'aération.
 
-- En cas de difficulté dans la détermination de la « façade préjudiciable », la décision sera prise après avis du comité consultatif pour la construction.
+- En cas de difficulté dans la détermination de la « façade préjudiciable », la décision sera prise après avis du comité consultatif.
 
 2° De la hauteur :
 
@@ -50,7 +50,7 @@
 
 - Des constructions établies sur une même propriété doivent être tenues à 8 mètres, 12 mètres et 16 mètres au moins les unes des autres, respectivement dans les zones à gabarit moyen, élevé et frontière.
 
-- Des constructions dans ces espaces de recul pourront être admises après avis du comité consultatif pour la construction.
+- Des constructions dans ces espaces de recul pourront être admises après avis du comité consultatif.
 
 - Les limites bâtissables ci-dessus définies ne s'appliquent pas toutefois aux constructions en sous-sol qui pourront être réalisées jusqu'en limite de propriété.
 

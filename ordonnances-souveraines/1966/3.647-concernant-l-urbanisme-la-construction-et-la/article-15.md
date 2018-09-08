@@ -52,4 +52,4 @@ Dans le cas d'augmentation de la surface de plancher d'un bâtiment existant, le
 
 En cas de changement total de destination d'un local existant, le pétitionnaire est soumis à l'obligation de réaliser des emplacements de stationnement. Le nombre d'emplacement de stationnement est calculé après déduction des stationnements théoriquement exigés en fonction de la destination du bâtiment avant changement de destination.
 
-Le Comité Consultatif pour la Construction apprécie, dans chaque cas, si le pétitionnaire doit aménager ces garages dans la propriété et de préférence en sous-sol ou en dehors de l'immeuble mais sur le territoire national.
+Le Comité Consultatif apprécie, dans chaque cas, si le pétitionnaire doit aménager ces garages dans la propriété et de préférence en sous-sol ou en dehors de l'immeuble mais sur le territoire national.

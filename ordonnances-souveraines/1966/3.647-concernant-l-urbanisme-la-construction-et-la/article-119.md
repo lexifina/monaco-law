@@ -1,5 +1,5 @@
 # Article 119
 
-Il est procédé au récolement prévu par l'article 118 par une Commission qui peut être composée : d'un représentant de la Direction de la Prospective, de l'Urbanisme et de la Mobilité, d'un représentant de la Direction des Travaux Publics, d'un représentant de la Direction de l'Action Sanitaire, d'un représentant de la Direction du Travail, d'un représentant de la Direction de l'Aménagement Urbain, d'un représentant du Corps des Sapeurs-Pompiers, d'un membre du Comité Consultatif pour la Construction et d'un Conseiller Communal.
+Il est procédé au récolement prévu à l'article 118 par une Commission composée par des représentants des services administratifs à raison de leurs compétences au regard de la nature des travaux à récoler.
 
 La Commission dresse un procès-verbal de récolement des travaux.
