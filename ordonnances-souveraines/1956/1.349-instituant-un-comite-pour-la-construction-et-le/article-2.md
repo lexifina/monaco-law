@@ -1,6 +1,6 @@
 # Article 2
 
-Le Comité Consultatif pour la Construction est composé ainsi qu'il suit :
+Le Comité Consultatif est composé ainsi qu'il suit :
 
 - Le Conseiller de Gouvernement pour l'Équipement, l'Environnement et l'Urbanisme ou son représentant, Président ;
 
@@ -26,6 +26,6 @@ Le Comité Consultatif pour la Construction est composé ainsi qu'il suit :
 
 Le Comité peut s'adjoindre des experts désignés par arrêté ministériel ; ceux-ci siègent avec voix consultative.
 
-Le Président du Comité Consultatif pour la Construction peut, dans certains cas justifiés, entendre tout architecte ou expert qu'il sollicite pour contribuer à l'exposé d'un projet.
+Le Président du Comité Consultatif peut, dans certains cas justifiés, entendre tout architecte ou expert qu'il sollicite pour contribuer à l'exposé d'un projet.
 
 Le secrétariat du Comité est assuré par un fonctionnaire du Département de l'Équipement, de l'Environnement et de l'Urbanisme

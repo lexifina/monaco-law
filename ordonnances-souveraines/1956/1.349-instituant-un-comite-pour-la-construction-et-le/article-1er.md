@@ -1,10 +1,10 @@
 # Article 1er
 
-Il est institué un comité consultatif pour la construction.
+Il est institué un comité consultatif.
 
-Sous réserve des dispositions du cinquième alinéa de l'article 6 de Notre ordonnance n° 2.120 du 16 novembre 1959 (tel qu'il résulte de l'article 2 de Notre ordonnance n° 2.783, du 17 mars 1962 ), le comité consultatif pour la construction est obligatoirement consulté, donne son avis et formule des suggestions :
+Sous réserve des dispositions du septième alinéa de l'article 8 de l'Ordonnance Souveraine n° 3.647 du 9 septembre 1966, modifiée, susvisée, le comité consultatif est obligatoirement consulté, donne son avis et formule des suggestions :
 
-- 1° Sur tous les projets de travaux à exécuter par des particuliers et soumis à autorisation préalable en application des dispositions de l'article 1er de l'ordonnance-loi n° 674, du 3 novembre 1959, et de l'article 1er de Notre ordonnance n° 2.120, du 16 novembre 1959 ;
+- 1° Sur tous les projets de travaux à exécuter par des particuliers et soumis à autorisation préalable en application des dispositions de l'article 1er de l'ordonnance-loi n° 674, du 3 novembre 1959, et de l'article 1er de Notre ordonnance n° 3.647 du 9 septembre 1966, modifiée ;
 
 - 2° Sur tous les projets, plans, opérations d'ensemble, constructions et travaux à exécuter pour le compte de l'État ou de la commune ;
 
