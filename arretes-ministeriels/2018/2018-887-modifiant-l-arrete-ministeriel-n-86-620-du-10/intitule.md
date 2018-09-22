@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-887 du 14 septembre 2018 modifiant l'arrêté ministériel n° 86-620 du 10 novembre 1986 portant établissement du règlement intérieur du Centre Hospitalier Princesse Grace, modifié
