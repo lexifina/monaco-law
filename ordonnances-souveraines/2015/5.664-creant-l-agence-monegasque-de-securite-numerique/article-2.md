@@ -10,7 +10,7 @@ L'Agence Monégasque de Sécurité Numérique est l'autorité nationale en charg
 
 - d) de sensibiliser et inciter les services publics et les opérateurs d'importance vitale (O.I.V.) aux exigences de la sécurité numérique ;
 
-- e) de contrôler le niveau de sécurité des opérateurs d'importance vitale (O.I.V.) avec la collaboration de la Direction des communications électroniques en ce qui concerne les opérateurs de communications électroniques exploitant de réseau ou fournisseur de services de télécommunications ou d'accès à internet.
+- e) de contrôler le niveau de sécurité des opérateurs d'importance vitale (O.I.V.) avec la collaboration de la Direction du Développement des Usages Numériquesen ce qui concerne les opérateurs de communications électroniques exploitant de réseau ou fournisseur de services de télécommunications ou d'accès à internet.
 
 Aux sens de la présente ordonnance et des textes pris pour son application, les opérateurs d'importance vitale s'entendent d'opérateurs publics ou privés :
 
