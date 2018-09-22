@@ -2,7 +2,7 @@
 
 Les numéros courts nationaux réservés pour les services d'urgence, d'intérêt général et à valeur sociale harmonisés sont précisés dans le tableau suivant :
 
-Numéros | Numéros
+Numéros | Services
 
 17 | Sûreté Publique
 

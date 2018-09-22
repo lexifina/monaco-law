@@ -2,4 +2,4 @@
 
 Les opérateurs de communications électroniques autorisés dans la Principauté peuvent mettre en service, en interne dans leurs réseaux, des numéros qui ne font pas partie du Plan National de Numérotation. Il peut s'agir de numéros utilisés pour des tests techniques ou pour la fourniture d'un service d'assistance aux utilisateurs d'un Service de Communications Électroniques ouvert au public.
 
-Si un numéro de ce type rentre dans le Plan National de Numérotation, son usage interne est abandonné par l'opérateur concerné au profit de l'usage prévu au niveau national, dans un délai de six mois suivant la notification écrite adressée par la Direction des Communications Électroniques.
+Si un numéro de ce type rentre dans le Plan National de Numérotation, son usage interne est abandonné par l'opérateur concerné au profit de l'usage prévu au niveau national, dans un délai de six mois suivant la notification écrite adressée par la Direction du Développement des Usages Numériques.
