@@ -8,12 +8,14 @@ Demeurent sous l'autorité directe du Ministre d'État les domaines suivants:
 
 - c) Affaires législatives et contentieuses,
 
-- d) Informatique,
+- d) Informatique et services numériques,
 
 - e) Information et communication,
 
 - f) Archives centrales,
 
-- g) Institut Monégasque de la Statistique et des Études Économiques ;
+- g) Institut Monégasque de la Statistique et des Études Économiques,
 
-- h) Inspection Générale de l'Administration.
+- h) Inspection Générale de l'Administration,
+
+- i) Agence Monégasque de Sécurité Numérique.

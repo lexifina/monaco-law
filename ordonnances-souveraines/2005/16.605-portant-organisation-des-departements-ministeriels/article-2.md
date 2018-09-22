@@ -2,84 +2,84 @@
 
 Les attributions des départements se répartissent comme suit :
 
-1 - département des Relations extérieures et de la Coopération:
+- 1 - département des Relations extérieures et de la Coopération:
 
-- a) Immunités, gestion diplomatique et affaires consulaires,
+  - a) Immunités, gestion diplomatique et affaires consulaires,
 
-- b) Affaires européennes,
+  - b) Affaires européennes,
 
-- c) Affaires internationales et multilatérales,
+  - c) Affaires internationales et multilatérales,
 
-- d) Environnement international.
+  - d) Environnement international.
 
-2 - département des Finances et de l'Économie:
+- 2 - département des Finances et de l'Économie:
 
-- a) Budget,
+  - a) Budget,
 
-- b) Trésorerie,
+  - b) Trésorerie,
 
-- c) Économie et Commerce,
+  - c) Économie et Commerce,
 
-- d) Tourisme,
+  - d) Tourisme,
 
-- e) Logement,
+  - e) Logement,
 
-- f) Domaine de l'État,
+  - f) Domaine de l'État,
 
-- g) Contrôle des jeux,
+  - g) Contrôle des jeux,
 
-- h) Contrôle des circuits financiers,
+  - h) Contrôle des circuits financiers,
 
-- i) Innovation et nouvelles technologies,
+  - i) Innovation et nouvelles technologies,
 
-- j) Services à caractère commercial.
+  - j) Services à caractère commercial.
 
-3 - Département de l'Intérieur :
+- 3 - Département de l'Intérieur :
 
-- a) Sécurité intérieure,
+  - a) Sécurité intérieure,
 
-- b) Sécurité civile,
+  - b) Sécurité civile,
 
-- c) Éducation nationale,
+  - c) Éducation nationale,
 
-- d) Jeunesse et sports,
+  - d) Jeunesse et sports,
 
-- e) Culture,
+  - e) Culture,
 
-- f) Cultes,
+  - f) Cultes,
 
-- g) Relations avec la Commune,
+  - g) Relations avec la Commune,
 
-- h) Sécurité numérique.
+  - h) Sécurité numérique.
 
-4 - Département des Affaires sociales et de la Santé:
+- 4 - Département des Affaires sociales et de la Santé:
 
-- a) Emploi,
+  - a) Emploi,
 
-- b) Relations du travail,
+  - b) Relations du travail,
 
-- c) Santé publique,
+  - c) Santé publique,
 
-- d) Sécurité sociale (secteurs public et privé),
+  - d) Sécurité sociale (secteurs public et privé),
 
-- e) Action sociale,
+  - e) Action sociale,
 
-- f) Famille, personnes âgées et personnes handicapées,
+  - f) Famille, personnes âgées et personnes handicapées,
 
-- g) Médecine du travail.
+  - g) Médecine du travail.
 
-5 - Département de l'Équipement, de l'Environnement et de l'Urbanisme:
+- 5 - Département de l'Équipement, de l'Environnement et de l'Urbanisme:
 
-- a) Équipement public,
+  - a) Équipement public,
 
-- b) Développement urbain,
+  - b) Développement urbain,
 
-- c) Construction immobilière,
+  - c) Construction immobilière,
 
-- d) Environnement, espaces verts et cadre de vie,
+  - d) Environnement, espaces verts et cadre de vie,
 
-- e) Entretien du domaine de l'État,
+  - e) Entretien du domaine de l'État,
 
-- f) Transports terrestres, maritimes, aériens,
+  - f) Transports terrestres, maritimes, aériens,
 
-- g) Services publics destinés à la collectivité.
+  - g) Services publics destinés à la collectivité.
