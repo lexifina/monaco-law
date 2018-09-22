@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-888 du 18 septembre 2018 fixant le montant des produits civils du fonds de réserve de la Caisse Autonome des Retraites, ayant la nature de fruits civils, à affecter au déficit de l'activité du régime général pour l'exercice 2016-2017
