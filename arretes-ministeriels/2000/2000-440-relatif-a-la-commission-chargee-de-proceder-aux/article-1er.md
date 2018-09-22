@@ -16,4 +16,4 @@ Sont désignés pour faire partie de la commission chargée de procéder aux op�
 
 - - le Directeur de l'Institut Monégasque de la Statistique et des Études Économiques ;
 
-- - le Directeur de la Direction Informatique.
+- - le Directeur de la Direction des Réseaux et Systèmes d'Information.

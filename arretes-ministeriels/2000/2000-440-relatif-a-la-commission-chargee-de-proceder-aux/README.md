@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2000-440 du 18 septembre 2000 relatif à la commission chargée de procéder aux opérations de recensement
 
-Version en vigueur au 8 juin 2013.
+Version en vigueur au 22 septembre 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2000/09-18-2000-440@2013.06.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2000/09-18-2000-440@2018.09.22/
 
 | | |
 | --- | --- |
