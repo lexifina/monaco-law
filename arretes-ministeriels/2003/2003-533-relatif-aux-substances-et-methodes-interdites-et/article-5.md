@@ -4,6 +4,8 @@
 
 Les demandes sont introduites par le sportif ou son représentant légal qui adresse à cet effet au Comité Monégasque Antidopage un formulaire spécifique dûment rempli, avec le concours du médecin prescripteur, accompagné de pièces justificatives médicales.
 
+Le modèle du formulaire est disponible en téléchargement sur le site internet du Comité Monégasque Antidopage (https://onad-monaco.mc).
+
 Un modèle du formulaire figure en annexe du présent arrêté. Celui-ci est également disponible sur le site web du Comité Monégasque Antidopage.
 
 Cette demande est traitée en respectant les règles de la confidentialité médicale, dans les conditions prévues au présent arrêté.
