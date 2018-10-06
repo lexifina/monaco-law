@@ -8,6 +8,8 @@ Il est consulté sur tout projet de texte relatif à la protection de la santé 
 
 Il propose toute mesure tendant à prévenir ou à combattre le dopage.
 
+Il élabore et met en œuvre des programmes d'information, de formation, d'éducation et de prévention en matière de lutte contre le dopage.
+
 Le Comité Monégasque Antidopage remet chaque année un rapport au Ministre d'État sur la situation en matière de dopage ainsi que sur les procédures engagées et closes de manière non nominative. Ce rapport est rendu public.
 
 Le Comité peut être consulté par l'administration et par les groupements sportifs sur les questions scientifiques relatives au dopage auxquelles ceux-ci sont confrontés.

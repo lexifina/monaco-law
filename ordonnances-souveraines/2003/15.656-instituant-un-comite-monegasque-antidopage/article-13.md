@@ -2,21 +2,15 @@
 
 La personne défendante a le droit de s'expliquer sur les faits qui lui sont reprochés et sur les conséquences qui en résultent.
 
-Toute partie aura le droit d'être représentée à l'audition, à ses propres frais et également à faire appel au service d'un interprète.
+Toute partie aura le droit d'être représentée à l'audience, à ses propres frais et également à faire appel au service d'un interprète.
 
-Les parties à une audition auront le droit de soumettre des preuves, y compris le droit d'appeler et d'interroger des témoins.
+Les parties à une audience auront le droit de soumettre des preuves, y compris le droit d'appeler et d'interroger des témoins.
 
-La chambre disciplinaire, après avoir entendu la personne en cause, dans le respect du principe du contradictoire et des droits de la défense, établit un rapport qui :
+Après que la Chambre Disciplinaire a entendu les parties, dans le respect du principe du contradictoire et des droits de la défense, et les a invitées à résumer, si elles le souhaitent leurs positions respectives dans une déclaration de clôture, elle délibère et tranche le litige par une décision écrite et motivée en fait et en droit. En cas de violation des règles antidopage, elle prononce une sanction disciplinaire dont elle fixe le quantum conformément aux dispositions fixées par arrêté ministériel.
 
-- résume les griefs reprochés à la personne défendante ;
+La décision prise par la Chambre Disciplinaire est notifiée aux parties par son Président dans un délai de vingt jours à compter du jour de clôture de l'instance.
 
-- procède à l'analyse des faits, en faisant état de ses constatations ainsi que des déclarations de la personne défendante ;
-
-- conclut en indiquant qu'il appartient au Comité Monégasque Antidopage d'apprécier, au vu des faits ainsi rapportés, s'il existe une violation des règles antidopage et, dans ce cas, de prononcer une sanction disciplinaire.
-
-Le rapport est transmis dans les meilleurs délais au Comité Monégasque Antidopage.
-
-La décision est prise par le Comité Monégasque Antidopage après avoir entendu la personne concernée en ses explications ou l'avoir dûment appelée à les fournir. Elle est ensuite portée à la connaissance de celle-ci ainsi qu'à son groupement de rattachement.
+À réception de cette notification, le Comité Monégasque Antidopage notifie la décision aux autres parties autorisées par l'article 13.2.3 du Code Mondial Antidopage à faire appel.
 
 Dans le cas de décisions qui ne concernent pas des cas découlant d'épreuves ayant eu lieu lors d'une manifestation internationale ou impliquant un sportif de niveau international, les parties intéressées peuvent former, à peine de forclusion dans un délai de deux (2) mois, à compter de la date de notification de la décision contestée, un recours de pleine juridiction devant le Tribunal de Première Instance lorsque la décision du Comité Monégasque Antidopage en cause concerne un cas ayant trait à une épreuve tenue lors d'une manifestation nationale ou impliquant un sportif de niveau national. Ce recours ne peut être introduit que par les personnes physique ou morale visées à l'article 13.2.3. du Code Mondial Antidopage.
 
@@ -30,9 +24,9 @@ De plus, l'Agence Mondiale Antidopage, le Comité International Olympique, le Co
 
 Conformément à l'article 13.2.3. du Code Mondial Antidopage figurant à l'appendice I de la Convention internationale contre le dopage dans le sport (UNESCO), l'Agence Mondiale Antidopage peut également exercer ce recours ou, sans avoir à épuiser les voies de recours internes, former ce recours directement devant le tribunal arbitral du sport. Dans ce dernier cas, le recours qui serait formé contre la décision du Comité Monégasque Antidopage devant le Tribunal de Première Instance serait irrecevable.
 
-Pour les personnes qui n'ont pas été parties à la procédure devant le Comité Monégasque Antidopage, le délai de recours est de vingt-et-un jour à compter de la réception du dossier dont la communication aura été préalablement sollicitée auprès du Comité Monégasque Antidopage dans les dix jours suivant la notification de la décision objet du recours.
+Pour les personnes qui n'ont pas été parties à la procédure devant la Chambre Disciplinaire, le délai de recours est de vingt-et-un jours à compter de la réception du dossier dont la communication aura été préalablement sollicitée auprès du Comité Monégasque Antidopage dans les dix jours suivant la notification de la décision objet du recours.
 
-Lorsque la décision du Comité Monégasque Antidopage a trait à un cas découlant d'épreuves ayant eu lieu lors d'une manifestation internationale ou impliquant un sportif de niveau international, le recours est formé devant le tribunal arbitral du sport. Ce recours ne peut être introduit que par les personnes physique ou morale visées à l'article 13.2.3. du Code Mondial Antidopage figurant à l'appendice I de la Convention internationale contre le dopage dans le sport (UNESCO).
+Lorsque la décision de la Chambre Disciplinaire a trait à un cas découlant d'épreuves ayant eu lieu lors d'une manifestation internationale ou impliquant un sportif de niveau international, le recours est formé devant le tribunal arbitral du sport. Ce recours ne peut être introduit que par les personnes physique ou morale visées à l'article 13.2.3 du Code Mondial Antidopage figurant à l'appendice I de la Convention internationale contre le dopage dans le sport (UNESCO).
 
 Les recours devant le tribunal arbitral du sport visés aux deux précédents alinéas sont formés conformément aux dispositions en vigueur auprès de cette juridiction. À ce titre, le délai de recours est de vingt-et-un jours à compter de la date de réception de la décision du Comité Monégasque Antidopage par les personnes parties à la procédure ayant mené à ladite décision.
 
@@ -50,9 +44,9 @@ En rendant sa décision, le tribunal arbitral du sport n'est pas tenu de s'en re
 
 Nonobstant toute autre disposition, la seule personne autorisée à faire appel d'une suspension provisoire est le sportif ou la personne à qui la suspension provisoire est imposée.
 
-Lorsque le Comité Monégasque Antidopage ne rend pas de décision dans le délai de quatre mois à compter de l'information de l'intéressé de la saisine de la Chambre disciplinaire, l'Agence Mondiale Antidopage peut décider d'en saisir directement le tribunal arbitral du sport, comme si le Comité Monégasque Antidopage avait rendu une décision d'absence de violation des règles antidopage.
+Lorsque le Comité Monégasque Antidopage ne rend pas de décision dans le délai de quatre mois à compter de l'information de l'intéressé de la saisine de la Chambre disciplinaire, l'Agence Mondiale Antidopage peut décider d'en saisir directement le tribunal arbitral du sport, comme si le Comité Monégasque Antidopage avait rendu une décision d'absence de violation des règles antidopage. Toutefois, les décisions de la Chambre Disciplinaire statuant en matière de mesures conservatoires refusant de lever une suspension provisoire obligatoire en raison des allégations du sportif concernant un produit contaminé ne sont pas susceptibles d'appel.
 
-Si le tribunal arbitral du sport établit la violation des règles antidopage et constate que l'Agence Mondiale Antidopage a agi en respectant le délai prévu à l'alinéa précédent, les frais et les honoraires d'avocats qu'a exposés l'Agence Mondiale Antidopage seront pris en charge par le Comité Monégasque Antidopage.
+Si le tribunal arbitral du sport établit la violation des règles antidopage et constate que l'Agence Mondiale Antidopage a agi en respectant le délai prévu à l'alinéa précédent, les frais et les honoraires d'avocats qu'a exposés l'Agence Mondiale Antidopage seront pris en charge par la Chambre Disciplinaire.
 
 Toute organisation antidopage qui est partie à un appel remettra sans délai la décision d'appel au sportif ou à l'autre personne et aux autres organisations antidopage qui auraient pu faire appel au titre de l'article 13.2.3 du Code Mondial Antidopage, conformément aux dispositions de l'article 14.2 du Code Mondial Antidopage.
 
