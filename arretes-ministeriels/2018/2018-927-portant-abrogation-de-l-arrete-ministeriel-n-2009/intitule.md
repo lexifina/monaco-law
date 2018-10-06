@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-927 du 28 septembre 2018 portant abrogation de l'arrêté ministériel n° 2009-432 du 14 août 2009 et portant application des articles 14 et 41 de la loi n° 1.362 du 3 août 2009 relative à la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, modifiée, visant la République Islamique d'Iran
