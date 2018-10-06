@@ -4,4 +4,4 @@ Nonobstant les règles du secret professionnel, les établissements de crédit, 
 
 Les informations fournies ou reçues conformément au présent article ne sont utilisées qu'aux fins pour lesquelles elles ont été fournies ou reçues.
 
-Sans préjudice des dispositions prévues ci-dessus, les personnes visées à l'article premier de la loi n° 1.162 du 7 juillet 1993, modifiée, susvisée, sont tenues de déclarer au service institué par l'article 3 de ladite loi toute opération impliquant les personnes et entités désignées par l'arrêté ministériel visé à l'article premier.
+Sans préjudice des dispositions prévues ci-dessus, les organismes et personnes visés à l'article premier de la loi n° 1.362 du 3 août 2009 relative à la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, modifiée, sont tenus de déclarer au Service d'Information et de Contrôle des Circuits Financiers visé à l'article 46 de ladite loi, toute opération impliquant les personnes et entités désignées par arrêté ministériel conformément à l'article premier.
