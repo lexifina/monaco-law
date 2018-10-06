@@ -4,4 +4,4 @@ L'agrément des médecins chargés des contrôles antidopage est délivré par a
 
 Il ne peut être accordé à un médecin qui a fait l'objet d'une sanction disciplinaire infligée par le Conseil de l'Ordre des Médecins dans les six années qui précèdent.
 
-L'agrément est donné pour une durée de cinq ans.
+L'agrément est donné pour une durée de deux ans.
