@@ -1,15 +1,13 @@
 # Article 22
 
-La Chambre Disciplinaire a pour charge d'instruire les affaires de dopage.
+La Chambre Disciplinaire a pour charge d'instruire et de trancher les litiges qui sont portés devant elle en matière disciplinaire ou en matière de mesures conservatoires.
 
-Pour ce faire, à l'issue des débats, elle :
+Dans ce cadre, elle peut notamment :
 
-- détermine en cas de contestation la régularité du processus de contrôle ou d'analyse du laboratoire ;
+- déterminer en cas de contestation la régularité du processus de contrôle ou d'analyse du laboratoire ;
 
-- prend en compte toute explication fournie par l'intéressé ;
+- prendre en compte toute explication fournie par les parties ainsi que les preuves matérielles qui lui sont présentées ;
 
-- demande la mise en œuvre d'une instruction complémentaire qui pourrait s'avérer nécessaire ;
+- tirer toutes les conséquences du refus par le sportif ou par toute autre personne, dûment convoquée dans un délai raisonnable avant l'audience, de comparaître par devant elle et de répondre à ses questions ;
 
-- tire toutes les conséquences du refus par le sportif ou par toute autre personne, dûment convoquée dans un délai raisonnable avant l'audience, de comparaître par devant elle et de répondre à ses questions ;
-
-- établit un rapport et le transmet au Comité Monégasque Antidopage conformément aux dispositions de l'article 13 de l'ordonnance souveraine n° 15.656 du 7 février 2003, modifiée.
+- surseoir à statuer dans le cas où la mise en œuvre d'une instruction complémentaire pourrait s'avérer nécessaire.

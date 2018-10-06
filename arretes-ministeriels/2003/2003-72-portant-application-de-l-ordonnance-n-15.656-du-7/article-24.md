@@ -1,3 +1,3 @@
 # Article 24
 
-La Chambre Disciplinaire établit son rapport à huis clos hors de la présence de l'intéressé, de ses défenseurs et des personnes entendues à l'audience.
+La Chambre Disciplinaire délibère à huit clos hors de la présence des parties, de leurs mandataires et des personnes entendues à l'audience.

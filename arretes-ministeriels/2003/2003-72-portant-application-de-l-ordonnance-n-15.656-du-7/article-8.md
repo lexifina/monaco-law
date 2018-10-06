@@ -1,6 +1,12 @@
 # Article 8
 
-Sur réception d'un résultat d'analyse anormal, le Comité Monégasque Antidopage procèdera à un examen initial afin de déterminer :
+Sans préjudice de l'engagement de la procédure disciplinaire, lorsque le Comité, agissant en qualité d'autorité de gestion des résultats, reçoit un résultat d'analyse anormal pour une substance interdite ou une méthode interdite à l'exception d'une substance spécifiée, une mesure de suspension provisoire obligatoire est imposée sans délai au sportif ou à l'autre personne concernée, au terme de l'examen et de la notification prévus aux articles 7.2, 7.3 ou 7.5 du Code mondial antidopage.
+
+De même, lorsque le Comité reçoit un résultat d'analyse anormal relatif à des substances spécifiées, à des produits contaminés ou à d'autres violations des règles antidopage, il a la faculté d'imposer une mesure de suspension provisoire.
+
+Les mesures de suspension provisoire mentionnées aux alinéas précédents ne peuvent être imposées qu'à la condition que le sportif ou la personne concernée se soit vu offrir la possibilité soit d'une audience préliminaire avant ou immédiatement après l'entrée en vigueur de ces mesures conservatoires soit d'une audience accélérée après l'entrée en vigueur de ces mêmes mesures.
+
+Sur réception d'un résultat d'analyse anormal, le Comité Monégasque Antidopage procèdera dans tous les cas à un examen initial afin de déterminer :
 
 - (a) si une autorisation d'usage à des fins thérapeutiques (AUT) a été ou sera accordée conformément au Standard international pour les autorisations d'usage à des fins thérapeutiques applicable,
 
@@ -22,4 +28,4 @@ Cette notification précise :
 
 - le droit du sportif d'obtenir, à ses frais, des copies du dossier d'analyse pour les échantillons A et B établi conformément au Standard International pour les laboratoires figurant à l'appendice Il de la Convention internationale contre le dopage dans le sport de l'UNESCO.
 
-Dans tous les cas où un sportif a été notifié d'une violation des règles antidopage qui n'est pas passible d'une suspension provisoire obligatoire, conformément à l'article 26, il se verra offrir l'occasion d'accepter une suspension provisoire dans l'attente de la résolution de l'affaire.
+Dans tous les cas où un sportif a été notifié d'une violation des règles antidopage qui n'est pas passible d'une suspension provisoire obligatoire, conformément à l'article 26, il peut accepter volontairement une suspension provisoire dans l'attente de la résolution de l'affaire.

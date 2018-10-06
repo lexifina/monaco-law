@@ -1,5 +1,11 @@
 # Article 39
 
-La décision du Comité Monégasque Antidopage statuant en matière disciplinaire intervient dans un délai d'un mois à compter de la réception du rapport établi par la Chambre Disciplinaire. Elle est notifiée par lettre recommandée avec demande d'avis de réception à l'intéressé ou le cas échéant à son responsable légal.
+La décision de la Chambre Disciplinaire statuant en matière disciplinaire intervient dans un délai de vingt jours à compter de la clôture de l'audience. Elle est notifiée par lettre recommandée avec demande d'avis de réception aux parties à l'instance ou le cas échéant à leur responsable légal.
 
-Le groupement sportif auquel il appartient en est également avisé, de même que les autres groupements sportifs dont il pourrait relever et l`Agence Mondiale Antidopage.
+Il en va de même lorsque la Chambre Disciplinaire statue en matière de mesures conservatoires.
+
+Le groupement sportif auquel le sportif ou la personne concernée appartient en est également avisé, de même que les autres groupements sportifs dont il pourrait relever et l`Agence Mondiale Antidopage.
+
+Par ailleurs, dans toute affaire où il sera établi, après une audience ou un appel, que le sportif ou l'autre personne n'a pas commis de violation des règles antidopage, la décision ne pourra être divulguée publiquement qu'avec le consentement du sportif ou de l'autre personne faisant l'objet de la décision.
+
+L'organisation antidopage responsable de la gestion des résultats devra faire des efforts raisonnables afin d'obtenir ce consentement et, si elle l'obtient, devra publier la décision intégralement ou suivant la formulation que le sportif ou l'autre personne aura approuvée.
