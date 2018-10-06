@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2005-238 du 9 mai 2005 fixant les conditions d'occupation des balcons, loggias et terrasses des immeubles lors des Grands Prix automobiles
 
-Version en vigueur au 14 mai 2005.
+Version en vigueur au 6 octobre 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/05-09-2005-238@2005.05.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/05-09-2005-238@2018.10.06/
 
 | | |
 | --- | --- |

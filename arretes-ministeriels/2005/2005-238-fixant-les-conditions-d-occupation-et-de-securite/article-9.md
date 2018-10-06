@@ -2,7 +2,7 @@
 
 La mise en place de structures démontables ou d'installations particulières doit faire l'objet, outre la demande de laissez-passer prévue à l'article 4 du présent arrêté, d'un accord du département de l'Intérieur.
 
-La demande, accompagnée d'un dossier, devra être déposée auprès de la Commission technique pour la lutte contre la pollution et pour la sauvegarde de la sécurité, de l'hygiène, de la salubrité et de la tranquillité publique, définie par l'ordonnance souveraine n° 10.505 du 27 mars 1992, modifiée, au plus tard un mois avant le début de la manifestation et être composée :
+La demande, accompagnée d'un dossier, doit être déposée auprès de la Commission Technique d'Hygiène, de Sécurité et de Protection de l'Environnement, au plus tard un mois avant le début de la manifestation et être composée :
 
 - d'un plan d'aménagement succinct de la terrasse ;
 
