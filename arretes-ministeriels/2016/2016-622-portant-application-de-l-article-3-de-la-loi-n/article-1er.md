@@ -20,4 +20,6 @@ Les catégories d'actes et de décisions administratives donnant lieu à des enq
 
 - 9. acquisition de la nationalité par déclaration ;
 
-- 10. refoulement ou expulsion du territoire de la Principauté.
+- 10. refoulement ou expulsion du territoire de la Principauté ;
+
+- 11. application de la réglementation relative aux jeux de hasard, en matière de contrôle des accès aux salles de jeux.
