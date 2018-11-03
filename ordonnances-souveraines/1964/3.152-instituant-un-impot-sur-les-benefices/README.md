@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.152 du 19 mars 1964 instituant un impôt sur les bénéfices
 
-Version en vigueur au 9 décembre 2017.
+Version en vigueur au 3 novembre 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/03-19-3.152@2017.12.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1964/03-19-3.152@2018.11.03/
 
 | | |
 | --- | --- |
