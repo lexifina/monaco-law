@@ -101,3 +101,19 @@ Pour l'application de la Norme commune de déclaration, sont considérés comme 
 - L'Uruguay
 
 - Le Vanuatu
+
+- la Barbade ;
+
+- le Canada ;
+
+- le Chili ;
+
+- la Chine ;
+
+- Hong Kong ;
+
+- la Nouvelle-Zélande ;
+
+- le Panama ;
+
+- Singapour.
