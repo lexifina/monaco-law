@@ -62,7 +62,9 @@ Maladies infectieuses :
 
 - Hépatite aiguë A ;
 
-- Rougeole.
+- Rougeole ;
+
+- Rubéole.
 
 Autres maladies :
 
