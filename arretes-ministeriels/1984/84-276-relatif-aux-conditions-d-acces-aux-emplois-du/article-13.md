@@ -6,7 +6,7 @@ Le personnel soignant et assimilé comprend :
 
 - les monitrices de l'École d'infirmières ;
 
-- le chef de la division de radiophysique et de radioprotection ;
+- les formateurs de l'Institut de Formation en Soins Infirmiers ;
 
 - les radiophysiciens ;
 
