@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2005-10 du 12 janvier 2005 fixant les mesures générales de sécurité à appliquer pour la construction des immeubles de grande hauteur et leur protection contre les risques d'incendie et de panique
