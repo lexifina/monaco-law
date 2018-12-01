@@ -1,6 +1,6 @@
 # Article 11
 
-Chacun des deux Instituts de Formation est dirigé par un directeur, assisté, pour le premier, d'un conseil pédagogique, et pour le second, d'un conseil technique.
+Chacun des deux Instituts de Formation est dirigé par un Directeur.
 
 La direction de l'Institut de Formation d'Aides-Soignants est assurée par le Directeur de l'Institut de Formation en Soins Infirmiers.
 
