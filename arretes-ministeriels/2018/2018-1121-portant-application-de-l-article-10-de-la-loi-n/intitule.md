@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-1121 du 4 décembre 2018 portant application de l'article 10 de la loi n° 1.357 du 19 février 2009, modifiée, définissant le contrat « habitation-capitalisation » dans le secteur domanial
