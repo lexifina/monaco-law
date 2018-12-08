@@ -1,0 +1,12 @@
+# Arrêté ministériel n° 2018-1122 du 4 décembre 2018 modifiant l'arrêté ministériel n° 2012-283 du 10 mai 2012 relatif aux conditions d'échange d'appartements domaniaux, modifié
+
+Version en vigueur au 8 décembre 2018.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/12-04-2018-1122@2018.12.08/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 4 décembre 2018 |
+| Publication | Journal de Monaco du 7 décembre 2018 |
