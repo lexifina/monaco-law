@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-1123 du 4 décembre 2018 fixant le taux des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2016-2017
