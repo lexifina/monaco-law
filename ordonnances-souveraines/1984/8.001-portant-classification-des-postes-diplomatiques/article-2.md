@@ -178,6 +178,8 @@ Les postes consulaires sont les suivants :
 
 - Turquie : Istanbul ;
 
+- Vanuatu : Port-Vila ;
+
 - Venezuela : Caracas ;
 
 - Vietnam : Hanoi.
