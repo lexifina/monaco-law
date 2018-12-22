@@ -8,6 +8,6 @@ Sont punis de cinq ans d'emprisonnement et de l'amende prévue au chiffre 4 de l
 
 - 3°- les actes de terrorisme.
 
-Sont punis des mêmes peines ceux qui, par l'un des moyens énoncés à l'article 15, provoquent à la haine ou à la violence à l'égard d'une personne ou d'un groupe de personnes en raison de leur handicap, de leur origine, de leur orientation sexuelle, de leur appartenance ou de leur non-appartenance, réelle ou supposée, à une ethnie, une nation, une race ou une religion déterminée.
+Sont punis des mêmes peines ceux qui, par l'un des moyens énoncés à l'article 15, provoquent à la haine ou à la violence à l'égard d'une personne ou d'un groupe de personnes en raison de leur sexe, de leur handicap, de leur origine, de leur orientation sexuelle, de leur appartenance ou de leur non-appartenance, réelle ou supposée, à une ethnie, une nation ou une race déterminée, de leur adhésion ou non adhésion, vraie ou supposée, à une religion déterminée.
 
 En cas de condamnation pour l'un des faits prévus au précédent alinéa, peut en outre être ordonné l'affichage ou la diffusion, aux frais du condamné, de la décision prononcée, en tout ou partie ou sous la forme d'un communiqué. Cet affichage ou cette diffusion ne peut comporter l'identité de la victime qu'avec son accord ou celui de son représentant légal ou de ses ayants droit.

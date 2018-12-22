@@ -1,6 +1,6 @@
 # Article 52
 
-Pour être admis à prouver la vérité des faits diffamatoires conformément aux dispositions de l'article 27, le prévenu doit, dans les quinze jours qui suivent la notification de la citation, faire signifier au ministère public et au plaignant :
+Pour être admis à prouver la vérité des faits diffamatoires conformément aux dispositions de l'article 27, le prévenu doit, dans les trente jours qui suivent la notification de la citation, faire signifier au ministère public et au plaignant :
 
 - 1°) les faits articulés et qualifiés dans la citation, desquels il entend prouver la vérité ;
 
