@@ -1,8 +1,8 @@
 # Loi n° 799 du 18 février 1966 portant organisation de l'aide à la famille monégasque
 
-Version en vigueur au 26 décembre 1992.
+Version en vigueur au 22 décembre 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1966/02-18-799@1992.12.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1966/02-18-799@2018.12.22/
 
 | | |
 | --- | --- |

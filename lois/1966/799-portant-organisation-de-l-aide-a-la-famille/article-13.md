@@ -1,3 +1,3 @@
 # Article 13
 
-Les prestations dues en vertu des dispositions de la présente loi se prescrivent par deux ans à compter du jour de leur exigibilité.
+Sauf dispositions contraires, l'action en paiement exercée par le bénéficiaire des allocations prévues au Chapitre II se prescrit par deux ans à compter du jour où les conditions d'ouverture du droit sont remplies.
