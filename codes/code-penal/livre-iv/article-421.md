@@ -13,3 +13,7 @@ Seront punis de l'emprisonnement de un à cinq jours et de l'amende prévue au c
 - 5° (5° abrogé) ;
 
 - 6° Les devins et interprètes des songes.
+
+- 7° Ceux qui, sans avoir été provoqués, auront commis une injure non publique envers une personne ou un groupe de personnes, en raison de leur sexe, de leur handicap, de leur origine, de leur orientation sexuelle, de leur appartenance ou de leur non-appartenance, réelle ou supposée, à une ethnie, une nation ou une race déterminée, de leur adhésion ou non adhésion, vraie ou supposée, à une religion déterminée ;
+
+- 8° Ceux qui, sans pouvoir prouver la vérité des faits diffamatoires conformément aux dispositions législatives relatives à la liberté d'expression publique, auront commis une diffamation non publique envers une personne ou un groupe de personnes, en raison de leur sexe, de leur handicap, de leur origine, de leur orientation sexuelle, de leur appartenance ou de leur non-appartenance, réelle ou supposée, à une ethnie, une nation ou une race déterminée, de leur adhésion ou non adhésion, vraie ou supposée, à une religion déterminée.

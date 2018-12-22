@@ -22,8 +22,6 @@ Seront punis de l'amende prévue au chiffre 3 de l'article 29 :
 
 - 10° ceux qui auront laissé errer sans surveillance des personnes atteintes de maladie mentale et présentant, en raison de leur état, un danger pour la sécurité publique ;
 
-- 11°ceux qui auront volontairement jeté des immondices sur quelqu'un ;
+- 11° ceux qui auront volontairement jeté des immondices sur quelqu'un ;
 
-- 12° ceux qui auront conduit un véhicule sous l'empire d'un état alcoolique, caractérisé par la présence, soit dans le sang d'un taux d'alcool pur, égal ou supérieur à 0,50 gramme pour mille, soit dans l'air expiré d'un taux d'alcool pur, égal ou supérieur à 0,25 milligramme par litre ;
-
-- 13° ceux qui, sans avoir été provoqués, auront commis, envers une personne ou un groupe de personnes en raison de leur handicap, l'injure ou la diffamation non publique.
+- 12° ceux qui auront conduit un véhicule sous l'empire d'un état alcoolique, caractérisé par la présence, soit dans le sang d'un taux d'alcool pur, égal ou supérieur à 0,50 gramme par litre, soit dans l'air expiré d'un taux d'alcool pur, égal ou supérieur à 0,25 milligramme par litre.
