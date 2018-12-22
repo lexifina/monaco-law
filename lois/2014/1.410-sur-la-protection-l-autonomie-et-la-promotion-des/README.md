@@ -1,8 +1,8 @@
 # Loi n° 1.410 du 2 décembre 2014 sur la protection, l'autonomie et la promotion des droits et des libertés des personnes handicapées
 
-Version en vigueur au 13 décembre 2014.
+Version en vigueur au 22 décembre 2018.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2014/12-02-1.410@2014.12.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2014/12-02-1.410@2018.12.22/
 
 | | |
 | --- | --- |
