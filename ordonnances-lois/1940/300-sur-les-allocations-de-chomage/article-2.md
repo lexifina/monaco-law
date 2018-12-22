@@ -6,4 +6,8 @@ Seront considérés comme chômeurs pour l'application de la présente ordonnanc
 
 - 2° D'avoir perdu leur emploi par suite de circonstances indépendantes de leur volonté ;
 
-- 3° D'être encore aptes à travailler.
+- 3° D'être encore aptes à travailler ;
+
+- 3° D'être encore aptes à travailler ;
+
+- 4° Ne pas disposer ou pouvoir disposer d'une allocation d'indemnisation du chômage ou de toute autre allocation équivalente.
