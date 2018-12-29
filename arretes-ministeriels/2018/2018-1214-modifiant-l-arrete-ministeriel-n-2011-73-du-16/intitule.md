@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-1214 du 20 décembre 2018 modifiant l'arrêté ministériel n° 2011-73 du 16 février 2011 déterminant les actes professionnels pouvant être pratiqués par les auxiliaires médicaux, modifié
