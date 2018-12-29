@@ -1,6 +1,6 @@
 # Article 51
 
-Le manipulateur d'électroradiologie médicale est habilité à réaliser, sous la responsabilité du médecin mentionné à l'article 48, en application soit d'une prescription médicale individuelle, soit d'un protocole écrit, qualitatif et quantitatif préalablement établi, daté et signé par ce médecin, les actes et activités suivants, à condition qu'un médecin de la spécialité concernée et, le cas échéant, un physicien médical, dans le champ qui le concerne puissent intervenir à tout moment :
+Le manipulateur d'électroradiologie médicale est habilité à réaliser, sous la responsabilité du médecin mentionné à l'article 48, en application soit d'une prescription médicale individuelle, soit d'un protocole écrit, qualitatif et quantitatif préalablement établi, daté et signé par ce médecin, les actes et activités suivants, à condition qu'un médecin et, le cas échéant, un physicien médical, dans le champ qui le concerne puissent intervenir à tout moment :
 
 1° Dans les domaines de l'imagerie médicale et de la médecine nucléaire :
 
