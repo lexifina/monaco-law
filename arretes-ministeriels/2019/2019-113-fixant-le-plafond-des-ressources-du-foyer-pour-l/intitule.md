@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-113 du 1er février 2019 fixant le plafond des ressources du foyer pour l'octroi de l'allocation de vacances et de l'allocation exceptionnelle de rentrée scolaire aux fonctionnaires et agents de l'État et de la Commune
