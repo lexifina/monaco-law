@@ -32,6 +32,8 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
 
+- c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
+
 II. - 1. La sortie du bien de l'un des régimes mentionnés au I met fin à la suspension du paiement de la taxe sur la valeur ajoutée.
 
 Le retrait de l'autorisation mentionnée au 2° du I met également fin à la suspension du paiement de la taxe sur la valeur ajoutée.

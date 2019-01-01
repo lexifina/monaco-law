@@ -22,35 +22,35 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 4 - Professions libérales et activités diverses :
 
-- 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe, de chiropracteur, de psychologue ou de psychothérapeute et par les psychanalystes diplômés ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et prothésistes ;
+  - 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe, de chiropracteur, de psychologue ou de psychothérapeute et par les psychanalystes diplômés ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et prothésistes ;
 
-- 2° Les frais d'hospitalisation et de traitement dans les établissements privés autorisés à dispenser des soins ;
+  - 2° Les frais d'hospitalisation et de traitement dans les établissements privés autorisés à dispenser des soins ;
 
-- 3° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
+  - 3° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
 
-- 4° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet par des organismes ou personnes dûment agréés ;
+  - 4° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet par des organismes ou personnes dûment agréés ;
 
-- 5° a) Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre :
+  - 5° a) Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans le cadre :
 
-  - de l'enseignement primaire, secondaire et supérieur dispensé dans les établissements publics et les établissements privés ;
+    - de l'enseignement primaire, secondaire et supérieur dispensé dans les établissements publics et les établissements privés ;
 
-  - de l'enseignement universitaire dispensé dans les établissements publics et dans les établissements privés ;
+    - de l'enseignement universitaire dispensé dans les établissements publics et dans les établissements privés ;
 
-  - de l'enseignement technique ou professionnel ;
+    - de l'enseignement technique ou professionnel ;
 
-  - de l'enseignement et de la formation professionnelle agricoles ;
+    - de l'enseignement et de la formation professionnelle agricoles ;
 
-  - de la formation professionnelle continue assurée soit par des personnes morales de droit public, soit par des personnes de droit privé agréées à cet effet ;
+    - de la formation professionnelle continue assurée soit par des personnes morales de droit public, soit par des personnes de droit privé agréées à cet effet ;
 
-  - de l'enseignement primaire, secondaire, supérieur ou technique à distance, dispensé par les organismes publics ou les organismes privés ;
+    - de l'enseignement primaire, secondaire, supérieur ou technique à distance, dispensé par les organismes publics ou les organismes privés ;
 
-- b) Les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves ;
+  - b) Les cours ou leçons relevant de l'enseignement scolaire, universitaire, professionnel, artistique ou sportif, dispensés par des personnes physiques qui sont rémunérées directement par leurs élèves ;
 
-- 6° Les prestations effectuées par les avocats, les conseils juridiques et fiscaux, les notaires, les huissiers de justice, les commissaires aux comptes, les liquidateurs judiciaires, les syndics et les administrateurs judiciaires lorsqu'elles relèvent de leur activité spécifique telle qu'elle est définie par la réglementation applicable à leur profession ;
+  - 6° Les prestations effectuées par les avocats, les conseils juridiques et fiscaux, les notaires, les huissiers de justice, les commissaires aux comptes, les liquidateurs judiciaires, les syndics et les administrateurs judiciaires lorsqu'elles relèvent de leur activité spécifique telle qu'elle est définie par la réglementation applicable à leur profession ;
 
-- 7° Les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres. Les dispositions des c) et d) du 1° du 6 s'appliquent à ces organismes ;
+  - 7° Les prestations de services et les livraisons de biens qui leur sont étroitement liées fournies à leurs membres, moyennant une cotisation fixée conformément aux statuts, par des organismes légalement constitués agissant sans but lucratif dont la gestion est désintéressée et qui poursuivent des objectifs de nature philosophique, religieuse, politique, patriotique, civique ou syndicale, dans la mesure où ces opérations se rattachent directement à la défense collective des intérêts moraux ou matériels des membres. Les dispositions des c) et d) du 1° du 6 s'appliquent à ces organismes ;
 
-- 8° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs de combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
+  - 8° Les travaux de construction, d'aménagement, de réparation et d'entretien des monuments, cimetières ou sépultures commémoratifs de combattants, héros, victimes ou morts des guerres, effectués pour les collectivités publiques et les organismes légalement constitués agissant sans but lucratif.
 
 - 5 - 1° Les livraisons de terrains qui ne sont pas des terrains à bâtir au sens du 1° du 2 du I de l'article 5 ;
 
@@ -72,11 +72,11 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
   - b) les opérations faites au bénéfice de toutes personnes par des œuvres sans but lucratif qui présentent un caractère social ou philanthropique et dont la gestion est désintéressée, lorsque les prix pratiqués ont été homologués par l'autorité publique ou que des opérations analogues ne sont pas couramment réalisées à des prix comparables par des entreprises commerciales, en raison notamment du concours désintéressé des membres de ces organismes ou des contributions publiques ou privées dont ils bénéficient ;
 
-  - Les associations constituées conformément à la loi n° 1.072 du 27 juin 1984 et les fondations régies par la loi n° 56 du 29 janvier 1922 dont la gestion est désintéressée et dont les activités non lucratives restent significativement prépondérantes sont également exonérées pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 61.145 €.
+  - Les associations constituées conformément à la loi n° 1.072 du 27 juin 1984 et les fondations régies par la loi n° 56 du 29 janvier 1922 dont la gestion est désintéressée et dont les activités non lucratives restent significativement prépondérantes sont également exonérées pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 63 059 €.
 
-  - Les opérations mentionnées au I de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 61.145 €.
+  - Les opérations mentionnées au I de l'article 5 ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 63 059 €.
 
-  - Lorsque la limite de 61.145 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
+  - Lorsque la limite de 63 059 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée.
 
   - Les limites mentionnées aux deuxième à avant-dernier alinéas du présent b sont actualisées par arrêté ministériel ;
 
