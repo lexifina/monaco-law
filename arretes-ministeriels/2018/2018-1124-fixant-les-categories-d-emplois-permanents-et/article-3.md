@@ -52,6 +52,8 @@ b) 4 points sur les grades suivants :
 
 - Radiophysicien
 
+- Attaché d'administration hospitalière hors classe
+
 - Attaché d'administration hospitalière principal
 
 - Attaché d'administration hospitalière

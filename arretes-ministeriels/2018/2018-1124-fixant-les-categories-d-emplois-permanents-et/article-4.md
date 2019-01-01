@@ -516,11 +516,33 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 4.5.1 Corps : Attaché d'administration hospitalière
 
-4.5.1.1 Grade : Attaché d'administration hospitalière principal
+4.5.1.1 Grade : Attaché d'administration hospitalière hors classe
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 438
+1 | 24 mois | 588
+
+2 | 24 mois | 623
+
+3 | 24 mois | 684
+
+4 | 30 mois | 738
+
+5 | 30 mois | 787
+
+6 | 36 mois | 825
+
+7.1 | 12 mois | 885
+
+7.2 | 12 mois | 920
+
+7.3 | - | 967
+
+4.5.1.2 Grade : Attaché d'administration hospitalière principal
+
+Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
+
+1 | 12 mois | 446
 
 2 | 24 mois | 487
 
@@ -540,9 +562,9 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 10 | - | 787
 
-11 | échelon déplafonnement | 821
+11 | échelon de déplafonnement | 821
 
-4.5.1.2 Grade : Attaché d'administration hospitalière
+4.5.1.3 Grade : Attaché d'administration hospitalière
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
@@ -556,7 +578,7 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 5 | 24 mois | 435
 
-6 | 24 mois | 465
+6 | 30 mois | 465
 
 7 | 30 mois | 500
 
@@ -568,4 +590,4 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 11 | 30 mois | 630
 
-10 | - | 662
+1 | - | 662
