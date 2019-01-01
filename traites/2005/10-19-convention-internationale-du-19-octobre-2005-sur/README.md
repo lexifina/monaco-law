@@ -1,8 +1,8 @@
 # Convention du 19 octobre 2005 internationale sur le dopage dans le sport (UNESCO)
 
-Version en vigueur au 17 février 2018.
+Version en vigueur au 1er janvier 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/2005/10-19-tai1l015031@2018.02.17/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/2005/10-19-tai1l015031@2019.01.01/
 
 | | |
 | --- | --- |
