@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2018-1225 du 27 décembre 2018 modifiant l'arrêté ministériel n° 2003-415 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse de Compensation des Services Sociaux, modifié
