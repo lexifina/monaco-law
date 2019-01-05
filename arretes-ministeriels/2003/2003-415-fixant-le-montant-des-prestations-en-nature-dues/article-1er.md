@@ -314,34 +314,56 @@ Le règlement des indemnités forfaitaires intervient dans des conditions défin
 
 5. Honoraires de dispensation
 
-L'exécution d'une prescription de médicaments inscrits sur la liste des spécialités remboursables par les régimes d'assurance maladie obligatoires, ouvre droit à la facturation d'honoraires de dispensation dans les conditions suivantes.
+L'exécution d'une prescription de médicaments inscrits sur la liste des spécialités remboursables par les régimes obligatoires d'assurance maladie ouvre droit à la facturation d'honoraires de dispensation dans les conditions suivantes.
 
-5.1. Honoraires de dispensation simple
+5.1 Honoraires de dispensation simple
 
-Pour chaque conditionnement de médicament remboursable facturé, un honoraire de dispensation simple facturable par le pharmacien d'officine, sous réserve que le médicament délivré comporte un code CIP.
+Pour chaque conditionnement de médicament remboursable facturé, un honoraire de dispensation simple peut être facturé par le pharmacien d'officine, sous réserve que le médicament délivré comporte un code CIP.
 
 Le montant de l'honoraire des grands conditionnements, qui correspondent à trois mois de traitement, est distinct de l'honoraire de base et ne se cumule pas avec ce dernier.
 
 5.2. Honoraires de dispensation complexe
 
-Lorsqu'une même prescription comporte au moins cinq lignes différentes de spécialités pharmaceutiques remboursables, et que son exécution fait l'objet d'une seule délivrance, un honoraire de dispensation complexe est facturable par le pharmacien d'officine.
+Lorsqu'une même prescription comporte au moins cinq lignes différentes de spécialités pharmaceutiques remboursables, et que son exécution fait l'objet d'une seule délivrance, un honoraire de dispensation complexe peut être facturé par le pharmacien d'officine.
 
-Cet honoraire est cumulable avec les honoraires de Dispensation simple facturés pour l'exécution de cette même prescription.
+Cet honoraire est cumulable avec les honoraires de dispensation simple facturés pour l'exécution de cette même prescription.
 
-5.3. Tarifs de facturation et de remboursement des honoraires de dispensation
+5.3. Honoraires de dispensation pour médicament remboursable
 
-La tarification des différents honoraires facturables par les pharmaciens d'officine ne peut faire l'objet de dépassement d'aucune sorte.
+Lors de l'exécution de toute ordonnance contenant au moins un médicament remboursable, un honoraire de dispensation pour médicament remboursable peut être facturé par le pharmacien d'officine.
 
-Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance facturables au cours des services de garde.
+Cet honoraire se cumule avec les honoraires de dispensation simple, et, le cas échéant, avec l'honoraire de dispensation complexe, pour l'exécution d'une même prescription.
 
-- Honoraires de Dispensation simple : 1,02 euro(s)
+5.4. Honoraires de dispensation jeunes enfants et patients âgés
 
-- Honoraires de Dispensation simple
+L'honoraire de dispensation jeunes enfants et patients âgés peut être facturé par le pharmacien d'officine pour toute exécution d'ordonnance dont le bénéficiaire est âgé soit de moins de 3 ans, soit d'au moins 70 ans.
 
-grand conditionnement : 2,76 euro(s)
+Lorsque sa facturation est autorisée, l'honoraire de dispensation jeunes enfants et patients âgés est cumulable avec les autres honoraires de dispensation.
 
-- Honoraires de Dispensation complexe : 0,51 euro(s)
+5.5. Honoraires de dispensation médicament spécifique
 
-Ces tarifs entrent en vigueur à compter du 1er janvier 2016.
+Le pharmacien d'officine peut facturer l'honoraire de dispensation médicament spécifique lorsqu'il exécute une ordonnance comportant un ou plusieurs médicaments dits spécifiques, et désignés comme tels dans la liste de référence retenue par l'assurance maladie française.
+
+Lorsque sa facturation est autorisée, l'honoraire de dispensation médicament spécifique est cumulable avec les autres honoraires de dispensation.
+
+5.6. Tarifs de facturation et de remboursement des honoraires de dispensation
+
+La tarification des différents honoraires facturés par les pharmaciens d'officine ne peut faire l'objet de dépassements d'aucune sorte.
+
+Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance prévues au titre des services de garde.
+
+- Honoraires de dispensation simple : 1,02 euro(s)
+
+- Honoraires de dispensation simple grand conditionnement : 2,76 euro(s)
+
+- Honoraires de dispensation complexe : 0,51 euro(s)
+
+- Honoraires de dispensation spécialité remboursable : 0,51 euro(s)
+
+- Honoraires de dispensation jeunes enfants et patients âgés : 0,51 euro(s)
+
+- Honoraires de dispensation médicament spécifique : 2,04 euro(s)
+
+Ces tarifs entrent en vigueur à compter du 1er janvier 2019.
 
 D - Frais d'orthopédie
