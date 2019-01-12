@@ -1,0 +1,3 @@
+# Article 31
+
+Peuvent être exclus de la procédure de passation des marchés publics, pour une durée de quatre ans maximum, les opérateurs économiques qui ont fait l'objet d'un manquement grave à leurs obligations contractuelles lors de l'exécution d'un marché précédent ainsi que les opérateurs économiques à l'égard desquels l'État dispose d'éléments suffisamment probants, pour en déduire qu'ils ont conclu directement ou par personne interposée une entente avec d'autres opérateurs économiques en vue de fausser la concurrence, de même que les opérateurs économiques ayant méconnu leurs obligations fiscales ou sociales.
