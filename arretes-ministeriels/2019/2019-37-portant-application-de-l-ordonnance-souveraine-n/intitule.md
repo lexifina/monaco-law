@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-37 du 14 janvier 2019 portant application de l'Ordonnance Souveraine n° 6.713 du 14 décembre 2017 portant application de l'Accord multilatéral entre autorités compétentes portant sur l'échange des déclarations pays par pays
