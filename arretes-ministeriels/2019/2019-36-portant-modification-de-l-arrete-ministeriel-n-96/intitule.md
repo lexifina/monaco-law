@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-36 du 14 janvier 2019 portant modification de l'arrêté ministériel n° 96-166 du 17 avril 1996, modifié, portant fixation des règles de comptabilisation des recettes brutes des jeux
