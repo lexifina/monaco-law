@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 3.652 du 30 janvier 2012 portant création d'une taxe perçue sur certaines boissons contenant des sucres ajoutés
 
-Version en vigueur au 1er janvier 2015.
+Version en vigueur au 26 janvier 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2012/01-30-3.652@2015.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2012/01-30-3.652@2019.01.26/
 
 | | |
 | --- | --- |

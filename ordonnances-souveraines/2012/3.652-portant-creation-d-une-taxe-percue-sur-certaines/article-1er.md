@@ -6,7 +6,7 @@ Il est institué une taxe perçue sur les boissons et préparations liquides pou
 
 - 2° Contenant des sucres ajoutés ;
 
-- 3° Conditionnées dans des récipients destinés à la vente au détail soit directement, soit par l'intermédiaire d'un professionnel ;
+- 3° Conditionnées dans des récipients destinés à la vente au détail soit directement, soit par l'intermédiaire d'un professionnel ou préalablement assemblées et présentées dans des récipients non destinés à la vente au détail afin d'être consommables en l'état ;
 
 - 4° Dont le titre alcoométrique n'excède pas 1,2 % vol. ou 0,5 % vol. dans le cas des bières au sens du a de l'article 224A de l'ordonnance n° 2.666 du 14 août 1942, modifiée, susvisée.
 
