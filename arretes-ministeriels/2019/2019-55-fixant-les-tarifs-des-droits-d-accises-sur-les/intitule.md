@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-55 du 18 janvier 2019 fixant les tarifs des droits d'accises sur les alcools et les boissons alcooliques, de la taxe sur certaines boissons alcooliques et des taxes perçues sur certaines boissons contenant des sucres ajoutés ou des édulcorants de synthèse pour l'année 2019
