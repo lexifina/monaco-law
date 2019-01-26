@@ -1,7 +1,11 @@
 # Article 4
 
-Les expéditions vers un État membre de l'Union européenne autre que la France ou un autre État partie à l'accord sur l'Espace économique européen ainsi que les exportations vers un pays tiers sont exonérées de la taxe lorsqu'elles sont réalisées directement par les personnes mentionnées au 1 de l'article 3.
+1. Les livraisons de produits expédiés ou transportés hors de Monaco et de France par le redevable, ou pour son compte, sont exonérées.
 
-Les personnes qui acquièrent auprès d'un redevable de la taxe des boissons et préparations mentionnées à l'article 1er qu'elles destinent à une livraison vers un État membre de l'Union européenne autre que la France ou un autre État partie à l'accord sur l'Espace économique européen ou à une exportation vers un pays tiers acquièrent ces boissons et préparations en franchise de la taxe.
+2. Les livraisons de produits à Monaco ou en France par le redevable à une personne qui les destine, dans le cadre de son activité commerciale, à une expédition ou un transport hors de Monaco et de France peuvent être effectuées en suspension de taxe.
 
-Pour bénéficier des dispositions du deuxième alinéa du présent article, les intéressés doivent adresser au fournisseur, lorsqu'il est situé en France ou à Monaco, et dans tous les cas à la Division des Droits de Régie de la Direction des Services Fiscaux une attestation certifiant que les boissons et préparations sont destinées à faire l'objet d'une livraison ou d'une exportation mentionnée au même deuxième alinéa. Cette attestation comporte l'engagement d'acquitter la taxe au cas où la boisson ou la préparation ne recevrait pas la destination qui a motivé la franchise. Une copie de l'attestation est conservée à l'appui de la comptabilité des intéressés.
+À cette fin, l'acquéreur établit, au plus tard à la date de facturation, une attestation en triple exemplaire certifiant que le produit est destiné à être expédié ou transporté hors de Monaco et de France et comportant la mention du recours au régime de suspension. Un exemplaire est remis au fournisseur et à la Division des Droits de Régie de la Direction des Services Fiscaux.
+
+En cas de recours au régime de suspension, si les produits ne sont pas expédiés ou transportés hors de Monaco et de France, la taxe est exigible auprès de l'acquéreur dès que les produits sont affectés à une autre destination, au plus tard lors de leur livraison à Monaco ou en France ou de tout événement rendant leur expédition ou leur transport hors de Monaco et de France impossible.
+
+3. Pour l'application du présent article, une expédition ou un transport hors de Monaco et de France s'entend de l'expédition ou du transport des produits en dehors des territoires nationaux ou à destination des collectivités régies par l'article 74 de la Constitution de la République française, de la Nouvelle-Calédonie, des Terres australes et antarctiques françaises et de l'île de Clipperton.
