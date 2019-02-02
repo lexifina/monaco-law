@@ -1,15 +1,13 @@
 # Article 2
 
-Pour l'année 2018, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
+Pour l'année 2019, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
 
 Pour les particuliers :
 
-Découverts : 14,79 %
+Découverts : 17,53 %
 
-Prêts personnels : 3,75 %
+Prêts personnels : 3,88 %
 
-Prêts immobiliers : 2,24 %
+Prêts immobiliers : 2,19 %
 
-Pour les entreprises et entrepreneurs individuels :
-
-Découverts : 5,22 %
+Pour les entreprises et entrepreneurs individuels : Découverts : 5,13 %.
