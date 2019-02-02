@@ -14,4 +14,4 @@ Ce loyer mensuel de référence est fixé à :
 
 - - 3.885 euros pour un logement de 5 pièces ou plus.
 
-- Ledit loyer mensuel de référence est révisé annuellement au 1er janvier, après avis de la Commission administrative de l'Office de Protection Sociale.
+Ledit loyer mensuel de référence est révisé annuellement au 1er janvier, après avis de la Commission administrative de l'Office de Protection Sociale.

@@ -1,5 +1,5 @@
 # Article 4
 
-Le montant de l'allocation d'éducation spéciale est fixé à 175,20 euros.
+Le montant de l'allocation d'éducation spéciale est fixé à 177,90 euros.
 
 Il est révisé annuellement au 1er janvier, après avis de la Commission administrative de l'Office de Protection Sociale.
