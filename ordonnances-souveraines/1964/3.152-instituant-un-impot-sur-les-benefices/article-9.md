@@ -50,7 +50,7 @@ Elle est ramenée à 9.900 euro(s) lorsque ces véhicules ont un taux d'émissio
 
 - - 130 grammes par kilomètre, pour ceux acquis ou loués à compter du 1er janvier 2021.
 
-En cas d'opérations de crédit-bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des véhicules de tourisme, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule qui excède les limites déterminées conformément au a.
+En cas d'opérations de crédit-bail ou de location, à l'exception des locations de courte durée n'excédant pas trois mois non renouvelables, portant sur des véhicules de tourisme, à la part du loyer supportée par le locataire et correspondant à l'amortissement pratiqué par le bailleur pour la fraction du prix d'acquisition du véhicule qui excède les limites déterminées conformément au a .
 
 Aux dépenses de toute nature résultant de l'achat, de la location ou de toute autre opération faite en vue d'obtenir la disposition de yachts ou de bateaux de plaisance à voile ou à moteur ainsi que de leur entretien ; les amortissements sont regardés comme faisant partie de ces dépenses.
 
@@ -60,4 +60,28 @@ La fraction de l'amortissement des véhicules de tourisme exclue des charges dé
 
 5. - Pour la détermination des résultats des exercices clos à compter du 31 décembre 2012, les charges financières nettes afférentes aux sommes laissées ou mises à la disposition d'une entreprise sont réintégrées au résultat pour une fraction égale à 15 % de leur montant lorsque leur montant total est supérieur à trois millions d'euros. Pour les exercices ouverts à compter du 1er janvier 2014, le taux de 15 % est porté à 25 %.
 
-Le montant des charges financières nettes est entendu comme le total des charges financières venant rémunérer des sommes laissées ou mises à disposition de l'entreprise, diminué du total des produits financiers venant rémunérer des sommes laissées ou mises à disposition par l'entreprise.
+À compter des exercices ouverts le 1er janvier 2019, les charges financières nettes supportées par une entreprise sont déductibles du résultat fiscal soumis à l'impôt sur les sociétés dans la limite du plus élevé des deux montants suivants :
+
+- - 3 millions d'euros par exercice, le cas échéant ramené à douze mois ;
+
+- - ou 30% du résultat fiscal soumis à l'impôt sur les bénéfices majoré des charges financières nettes, des amortissements et provisions admis en déduction ainsi que des gains et pertes de cessions d'éléments d'actifs.
+
+Le résultat fiscal est celui obtenu avant imputation des déficits. Les charges financières nettes s'entendent de l'excédent des charges financières déductibles par rapport aux produits financiers imposables et aux autres revenus équivalents perçus par l'entreprise.
+
+Les charges et produits financiers correspondent aux intérêts sur toutes les formes de dettes, c'est-à-dire ceux afférents aux sommes laissées ou mises à disposition de l'entreprise ou par l'entreprise.
+
+Les charges financières nettes non admises en déduction après plafonnement peuvent être déduites dans les mêmes conditions au titre des exercices suivants. La capacité de déduction inemployée au titre de l'exercice peut être utilisée au titre des cinq exercices suivants pour déduire du résultat de ces exercices le montant de charges financières nettes non admises en déduction.
+
+Par exception, la fraction des charges financières nettes générées par des dettes contractées auprès d'entreprises liées est déductible dans la limite d'un million d'euros ou 10% du résultat fiscal déterminé dans les mêmes conditions, lorsque le montant moyen des sommes laissées ou mises à disposition par l'ensemble des entreprises liées au cours d'un exercice, excède, au titre de cet exercice, une fois et demie le montant des fonds propres, apprécié au choix de l'entreprise, à l'ouverture ou à la clôture de l'exercice.
+
+Pour l'application de l'alinéa précédent :
+
+- - Des liens de dépendance sont réputés exister entre deux entreprises :
+
+  - a) lorsque l'une détient directement ou par personne interposée la majorité du capital social de l'autre ou y exerce en fait le pouvoir de décision ;
+
+  - b) lorsqu'elles sont placées l'une et l'autre, dans les conditions définies au a) , sous le contrôle d'une même tierce entreprise ;
+
+- - La fraction des charges financières non admises en déduction au titre d'un exercice ne peut être déduite, au titre des exercices suivants, qu'à hauteur du tiers de son montant ;
+
+- - Aucune capacité de déduction inemployée ne peut être reportée.
