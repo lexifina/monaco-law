@@ -43,5 +43,3 @@ Les pédiluves sont conçus de façon que les baigneurs ne puissent les éviter.
 * Piscines des hébergements touristiques
 
 Pour les piscines des hébergements touristiques tels que les hôtels, peuvent être prises en compte, pour le calcul des normes définies ci-dessus, les installations sanitaires de l'établissement accessibles à tous les usagers de la piscine.
-
-Dans les établissements où la superficie des bassins est supérieure ou égale à 240 m 2, les accès aux plages en provenance des locaux de déshabillage comportent un ensemble sanitaire comprenant des cabinets d'aisance, des douches corporelles et des pédiluves ou des rampes d'aspersion pour pieds alimentées en eau désinfectante. Les autres accès aux plages comportent des pédiluves et, si nécessaire, des douches corporelles.

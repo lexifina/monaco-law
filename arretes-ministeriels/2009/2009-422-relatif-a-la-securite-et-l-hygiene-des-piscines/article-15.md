@@ -1,6 +1,6 @@
 # Article 15
 
-L'installation de recyclage et de traitement est dimensionnée pour pouvoir fournir, à tout moment et à chaque bassin qu'elle alimente, un débit d'eau filtrée et désinfectée de qualité conforme aux exigences posées par la réglementation en vigueur. Pour les piscines dont la surface totale de plan d'eau est supérieure à 240 m 2, cette installation assure une durée du cycle de l'eau inférieure ou égale à :
+L'installation de recyclage et de traitement est dimensionnée pour pouvoir fournir, à tout moment et à chaque bassin qu'elle alimente, un débit d'eau filtrée et désinfectée de qualité conforme aux normes fixées à l'article 15-2. Pour les piscines dont la surface totale de plan d'eau est supérieure à 240 m 2, cette installation assure une durée du cycle de l'eau inférieure ou égale à :
 
 - Huit heures pour un bassin de plongeon ou une fosse de plongée subaquatique ;
 

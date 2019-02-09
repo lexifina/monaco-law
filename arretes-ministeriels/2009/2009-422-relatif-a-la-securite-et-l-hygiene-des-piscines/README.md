@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2009-422 du 14 août 2009 relatif à la sécurité et l'hygiène des piscines
 
-Version en vigueur au 6 août 2011.
+Version en vigueur au 9 février 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/08-14-2009-422@2011.08.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/08-14-2009-422@2019.02.09/
 
 | | |
 | --- | --- |
