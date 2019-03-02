@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-153 du 20 février 2019 modifiant l'arrêté ministériel n° 2017-582 du 19 juillet 2017 portant application de l'article 16 de la loi n° 1.430 du 13 juillet 2016 portant diverses mesures relatives à la préservation de la sécurité nationale
