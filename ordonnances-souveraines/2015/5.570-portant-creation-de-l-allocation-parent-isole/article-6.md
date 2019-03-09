@@ -1,8 +1,10 @@
 # Article 6
 
-S'il apparaît que le bénéficiaire a effectué de fausses déclarations ou si des éléments nouveaux ont pour effet de modifier le montant de l'allocation à servir ou d'éteindre le droit à son versement, la répétition des sommes indûment perçues est exigible, après que le bénéficiaire concerné ait été entendu en ses explications ou dûment appelé à les fournir. Lorsque le droit au versement subsiste, l'Office de Protection Sociale peut procéder au recouvrement des montants d'allocation indûment perçus en procédant à des retenues sur les prestations servies au bénéficiaire concerné.
+S'il apparaît que le bénéficiaire a effectué de fausses déclarations ou si des éléments nouveaux ont pour effet de modifier le montant de l'allocation à servir ou d'éteindre le droit à son versement, la répétition des sommes indûment perçues est exigible, après que le bénéficiaire concerné ait été entendu en ses explications ou dûment appelé à les fournir.
 
-Dans le cas où il entend contester la décision prise par le Directeur de l'Action Sanitaire et Sociale en vertu du premier alinéa, le bénéficiaire concerné dispose d'un délai de six jours à compter de la notification de cette décision pour en requérir le retrait ou la révision auprès du Ministre d'État.
+Lorsque le droit au versement subsiste, l'Office de Protection Sociale peut procéder au recouvrement des montants d'allocation indûment perçus en procédant à des retenues sur les prestations servies au bénéficiaire concerné.
+
+Dans le cas où il entend contester la décision prise par le Directeur de l'Action et de l'Aide Sociales en vertu du premier alinéa, le bénéficiaire concerné dispose d'un délai de six jours à compter de la notification de cette décision pour en requérir le retrait ou la révision auprès du Ministre d'État.
 
 Cette requête doit être dûment motivée.
 
