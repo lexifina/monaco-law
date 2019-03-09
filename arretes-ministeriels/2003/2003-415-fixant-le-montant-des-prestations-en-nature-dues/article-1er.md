@@ -304,11 +304,11 @@ indemnité de samedi, dimanche ou jour férié | 5,00 euro(s) ;
 
 - indemnité jours ouvrables | 2,00 euro(s).
 
-Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, à compter du 1er janvier 2013 et pour chaque tour de garde complet assuré :
+Les indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, à compter du 1er janvier 2019 et pour chaque tour de garde complet assuré :
 
-- la nuit : | à 175,00 euro(s) ;
+- la nuit : | à 190 euro(s) ;
 
-la journée du samedi, du dimanche ou d'un jour férié | à 175,00 euro(s) ;
+la journée du samedi, du dimanche ou d'un jour férié | à 190 euro(s) ;
 
 Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le Directeur de la Caisse de Compensation des Services Sociaux, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
 
