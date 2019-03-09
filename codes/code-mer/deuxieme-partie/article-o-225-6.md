@@ -5,3 +5,5 @@ Dans les eaux territoriales et dans les ports de Monaco, tous les navires équip
 La consommation de fioul lourd (HFO pour Heavy Fuel Oil) ou d'un de ses dérivés y est interdite sauf pour les navires disposant d'un système de traitement des gaz d'échappement fonctionnant en circuit fermé (closed-loop scrubber system) de manière conforme à ses spécifications.
 
 Les présentes dispositions ne s'appliquent pas aux navires de guerre et autres navires d'État utilisés à des fins non commerciales.
+
+Des dérogations ponctuelles et temporaires aux interdictions mentionnées aux deux premiers alinéas peuvent être accordées, dans des cas exceptionnels, par décision du Ministre d'État sur proposition du Directeur des Affaires Maritimes. La demande de dérogation est déposée auprès de la Direction des Affaires Maritimes.
