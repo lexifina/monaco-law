@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-205 du 1er mars 2019 fixant le plafond de la rémunération mensuelle moyenne de l'enfant étudiant prévu à l'article 4 de l'Ordonnance Souveraine n° 7.370 du 1er mars 2019 relative à l'allocation compensatoire pour la famille
