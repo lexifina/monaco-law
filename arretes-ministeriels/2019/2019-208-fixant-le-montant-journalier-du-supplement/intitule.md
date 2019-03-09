@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-208 du 1er mars 2019 fixant le montant journalier du supplément chambre particulière prévu à l'article 8 de l'Ordonnance Souveraine n° 7.375 du 1er mars 2019 sur l'aide relative à la maternité
