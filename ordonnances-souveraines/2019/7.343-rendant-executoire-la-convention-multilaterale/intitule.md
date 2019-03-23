@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 7.343 du 15 février 2019 rendant exécutoire la Convention multilatérale pour la mise en œuvre des mesures relatives aux conventions fiscales pour prévenir l'érosion de la base d'imposition et le transfert de bénéfices
