@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2018-218 du 21 mars 2018 fixant la liste des enquêtes statistiques réalisées par l'Institut Monégasque de la Statistique et des Études Économiques et abrogeant l'arrêté ministériel n° 2017-237 du 10 avril 2017
