@@ -1,16 +1,16 @@
 # Article 207 bis
 
-L'immobilisation immédiate s'effectue à l'aide des moyens mécaniques appropriés, soit en un lieu dépendant du service administratif auquel appartient le verbalisateur, soit à la Direction de la Sûreté publique avant mise en fourrière éventuelle.
+L'immobilisation consiste à maintenir le véhicule soit, sur place ou à proximité du lieu de constatation de l'infraction en respectant les règles de stationnement soit, en un lieu désigné par le service administratif auquel appartient l'agent verbalisateur soit, en un lieu désigné par la Direction de la Sûreté Publique avant sa mise en fourrière éventuelle. Elle s'effectue à l'aide des moyens mécaniques appropriés.
 
 Pendant tout le temps de l'immobilisation, le véhicule demeure sous la garde juridique de son conducteur ou propriétaire.
 
-L'immobilisation peut être prescrite par les officiers et agents de la police judiciaire mentionnés aux articles 42 et 56 du Code de procédure pénale, lorsqu'ils constatent la nécessité de faire cesser sans délai une des infractions visées ci-après.
+Lorsqu'il est constaté la nécessité de faire cesser sans délai l'une des infractions visées ci-après, l'immobilisation du véhicule peut être prescrite par les officiers et agents de police judiciaire mentionnés aux articles 42 et 56 du Code de procédure pénale ou, dans le cadre de leur compétence, soit par les agents assermentés du Service des titres de circulation, soit par les agents assermentés de la Direction de l'Environnement. L'immobilisation peut, en tout état de cause, être prononcée en cas de refus du propriétaire du véhicule ou en son absence.
 
-Elle peut être prescrite soit par les agents du Service des titres de circulation soit par les agents du Service de l'Environnement, spécialement assermentés à cet effet, lorsqu'ils constatent la nécessité de faire cesser sans délai une des infractions visées ci-après, et ressortissant à leur compétence.
+Conformément à l'alinéa précédent, l'immobilisation peut être prescrite afin de faire cesser les infractions suivantes :
 
 - 1 - Lorsque le conducteur interpellé est en état d'ivresse ou sous l'emprise d'un état alcoolique ;
 
-- 2 - lorsque le conducteur interpellé n'est pas titulaire du permis de conduire exigé pour la conduite de son véhicule ou qu'il fait l'objet d'une mesure de suspension ou d'interdiction de conduire sur le territoire de la Principauté ;
+- 2 (2 abrogé) ;
 
 - 3 - lorsque le mauvais état du véhicule, son poids, sa charge par essieu, la forme, la nature, l'état et les conditions d'utilisation des bandages, la pression sur le sol, l'absence, la non-conformité et la défectuosité de son équipement réglementaire en ce qui concerne les freins ou l'éclairage, ou son chargement, créent un danger important pour les autres usagers ou constituent une menace pour l'intégrité de la chaussée ;
 
@@ -36,7 +36,7 @@ Elle peut être prescrite soit par les agents du Service des titres de circulati
 
 Le contrevenant, le propriétaire du véhicule ou toute personne habilitée mandatée par ce dernier peuvent obtenir restitution sans frais du véhicule, dans un délai de 36 heures si la levée de l'immobilisation est possible.
 
-Au-delà de 36 heures, le véhicule non restitué est transféré en fourrière administrative aux frais du contrevenant.
+Au-delà d'un délai maximum de 36 heures, le véhicule non restitué est transféré en fourrière administrative ; les frais d'enlèvement, de garde en fourrière, d'expertise et de vente ou de destruction du véhicule sont à la charge du propriétaire. Ce transfert est opéré aux risques et périls du contrevenant.
 
 L'immobilisation immédiate est levée par tout agent habilité à ce sujet :
 
