@@ -1,0 +1,21 @@
+# Article 4
+
+1. Lorsque, en vertu des dispositions d'une Convention fiscale couverte, une personne autre qu'une personne physique est un résident de plusieurs Juridictions contractantes, les autorités compétentes des Juridictions contractantes s'efforcent de déterminer d'un commun accord la Juridiction contractante de laquelle cette personne est réputée être un résident aux fins de la Convention fiscale couverte, eu égard au lieu où se situe son siège de direction effective, au lieu où elle a été constituée en société ou en toute autre forme juridique, et à tout autre facteur pertinent. En l'absence d'un tel accord entre les Juridictions contractantes, cette personne ne pourra prétendre à aucun des allègements ou exonérations de l'impôt prévus par la Convention fiscale couverte, sauf dans la mesure et selon les modalités convenues par les autorités compétentes des Juridictions contractantes.
+
+2. Le paragraphe 1 s'applique à la place ou en l'absence de dispositions d'une Convention fiscale couverte qui prévoit des règles permettant de déterminer si une personne autre qu'une personne physique est considérée comme un résident de l'une des Juridictions contractantes dans les situations où cette personne serait autrement considérée comme un résident de plus d'une des Juridictions contractantes. Le paragraphe 1 ne s'applique pas aux dispositions de Conventions fiscales couvertes qui traitent de la résidence de sociétés participant à des structures à double cotation.
+
+3. Une Partie peut se réserver le droit :
+
+a) de ne pas appliquer l'intégralité du présent article à ses Conventions fiscales couvertes ;
+
+b) de ne pas appliquer l'intégralité du présent article à ses Conventions fiscales couvertes qui règlent déjà les situations dans lesquelles une personne autre qu'une personne physique est un résident de plusieurs Juridictions contractantes en demandant aux autorités compétentes des Juridictions contractantes de s'efforcer de déterminer d'un commun accord la seule Juridiction contractante dont cette personne est réputée être un résident ;
+
+c) de ne pas appliquer l'intégralité du présent article à ses Conventions fiscales couvertes qui règlent déjà les situations dans lesquelles une personne autre qu'une personne physique est un résident de plusieurs Juridictions contractantes en refusant les avantages conventionnels sans demander aux autorités compétentes des Juridictions contractantes de s'efforcer de déterminer d'un commun accord la seule Juridiction contractante dont cette personne est considérée être un résident :
+
+d) de ne pas appliquer l'intégralité du présent article à ses Conventions fiscales couvertes qui règlent déjà les situations dans lesquelles une personne autre qu'une personne physique est un résident de plusieurs Juridictions contractantes en demandant aux autorités compétentes des Juridictions contractantes de s'efforcer de déterminer d'un commun accord la seule Juridiction contractante dont cette personne est réputée être un résident, et qui prévoient le traitement de cette personne aux fins de la Convention fiscale couverte lorsqu'un tel accord ne peut être trouvé ;
+
+e) de remplacer la dernière phrase du paragraphe 1 par la phrase suivante pour l'application de ses Conventions fiscales couvertes : « En l'absence d'un tel accord, cette personne ne pourra prétendre à aucun des allègements ou exonérations de l'impôt prévus par la Convention fiscale couverte. » ;
+
+f) de ne pas appliquer l'intégralité du présent article à ses Conventions fiscales couvertes conclues avec des Parties qui ont émis la réserve prévue à l'alinéa e).
+
+4. Toute Partie qui n'a pas émis de réserve prévue à l'alinéa a) du paragraphe 3 notifie au Dépositaire les Conventions fiscales couvertes qui contiennent une disposition décrite au paragraphe 2 et qui ne font pas l'objet d'une réserve prévue aux alinéas b) à d) du paragraphe 3, en indiquant les numéros de l'article et du paragraphe de chaque disposition concernée. Lorsque toutes les Juridictions contractantes ont formulé une telle notification relative à une disposition d'une Convention fiscale couverte, cette disposition est remplacée par le paragraphe 1. Dans les autres cas, le paragraphe 1 prévaut sur les dispositions des Conventions fiscales couvertes seulement dans la mesure où ces dispositions sont incompatibles avec le paragraphe 1.

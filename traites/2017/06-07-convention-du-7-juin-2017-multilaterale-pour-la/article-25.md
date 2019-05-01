@@ -1,0 +1,3 @@
+# Article 25
+
+Dans une procédure d'arbitrage ouverte en application de la présente partie, les rémunérations et les dépenses des membres de la commission d'arbitrage, ainsi que les coûts liés à la procédure d'arbitrage supportés par les Juridictions contractantes, sont pris en charge par les Juridictions contractantes selon des modalités déterminées d'un commun accord par les autorités compétentes. En l'absence d'un tel accord, chaque Juridiction contractante supporte ses propres dépenses et celles du membre de la commission d'arbitrage qu'elle a désigné. Les coûts afférents au président de la commission d'arbitrage et les autres dépenses liées à la conduite de la procédure d'arbitrage sont supportés par les Juridictions contractantes à parts égales.
