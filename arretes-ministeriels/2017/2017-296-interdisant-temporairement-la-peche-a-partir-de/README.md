@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2017-296 du 10 mai 2017 interdisant temporairement la pêche à partir de la digue de Fontvieille
 
-Version en vigueur au 19 mai 2017.
+Version en vigueur au 4 mai 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/05-10-2017-296@2017.05.19/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/05-10-2017-296@2019.05.04/
 
 | | |
 | --- | --- |
