@@ -1,8 +1,8 @@
 # Accord monétaire du 29 novembre 2011 entre la Principauté de Monaco et l'Union européenne
 
-Version en vigueur au 22 septembre 2018.
+Version en vigueur au 4 mai 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tai/accord/2011/11-29-tai1l022015@2018.09.22/
+Source : Legimonaco, https://legimonaco.mc/tai/accord/2011/11-29-tai1l022015@2019.05.04/
 
 | | |
 | --- | --- |
