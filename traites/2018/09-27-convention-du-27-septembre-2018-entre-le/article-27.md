@@ -1,0 +1,3 @@
+# Article 27
+
+La présente Convention demeurera en vigueur tant qu'elle n'aura pas été dénoncée par un État contractant. Chaque État contractant peut dénoncer la Convention, par voie diplomatique, en notifiant l'autre État contractant, au moins 6 mois avant la fin de l'année civile, après la cinquième année suivant celle de l'entrée en vigueur de la Convention. Dans ce cas, la Convention cessera en effet pour la dernière fois en ce qui concerne chaque État contractant, sur le revenu de l'année civile ou la période comptable, selon le cas, commençant le ou à partir du 1er janvier qui suit immédiatement la notification de la dénonciation.
