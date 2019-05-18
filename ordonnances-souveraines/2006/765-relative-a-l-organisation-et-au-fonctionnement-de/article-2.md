@@ -14,8 +14,8 @@ La Direction de la Sûreté Publique comprend des personnels en civil ou en tenu
 
 - la Division du Renseignement Intérieur ;
 
-- l'Inspection Générale des Services de Police (IGSP) ;
+- l'Inspection Générale des Services de Police ;
 
-- le Groupe de Sécurité de la Famille Souveraine ;
+- la Division de protection de la Famille Princière ;
 
 - le Secrétariat de la Direction.
