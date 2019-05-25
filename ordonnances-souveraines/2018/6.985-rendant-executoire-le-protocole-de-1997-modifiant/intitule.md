@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 6.985 du 29 juin 2018 rendant exécutoire le Protocole de 1997 modifiant la Convention internationale pour la prévention de la pollution par les navires (MARPOL 73/78), adopté à Londres le 26 septembre 1997 et entré en vigueur le 19 mai 2005
