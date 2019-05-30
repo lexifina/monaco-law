@@ -1,7 +1,0 @@
-# Article 6
-
-§1- Les murs latéraux et les planchers haut et bas du local chaufferie doivent être construits en matériaux incombustibles et de résistance coupe-feu de degré deux heures, EI 120, ou REI 120 1 en cas de fonction porteuse, à l'exception des ouvertures basses indispensables pour la ventilation de la chaufferie.
-
-§2- Les locaux dans lesquels se trouvent des combustibles susceptibles de provoquer une explosion sont conçus de manière à limiter les effets de l'explosion à l'extérieur du local (évents, parois de faibles résistance, systèmes de surveillance et de détection précoce entretenus par un personnel qualifié...). Par ailleurs l'implantation de chaufferies utilisant des combustibles non traditionnels (copeaux de bois en silo par exemple) font l'objet d'une étude soumise à l'avis de la Commission Technique d'Hygiène, de Sécurité et de Protection de l'Environnement.
-
-§3- Le passage dans la chaufferie de toutes canalisations électriques, de fluides combustibles ou d'air destiné à la ventilation, étrangères à l'installation, le stockage des matières combustibles ou des produits toxiques ou corrosifs sont interdits. Une dérogation peut être accordée, en ce qui concerne le passage des canalisations électriques ou d'air, si elles sont placées à l'intérieur d'une gaine étanche aux gaz et coupe-feu de degré deux heures ou EI 120 (oi) (ve ou ho)2 après demande et avis auprès de la Commission Technique d'Hygiène de Sécurité et de Protection de l'Environnement.
