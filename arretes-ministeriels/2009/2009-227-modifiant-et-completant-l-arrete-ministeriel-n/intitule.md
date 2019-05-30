@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2009-227 du 8 mai 2009 modifiant et complétant l'arrêté ministériel n° 2007-611 du 28 novembre 2007 fixant les règles générales de construction, installation, contrôle et entretien des ascenseurs, monte-charges, escaliers mécaniques et trottoirs roulants
