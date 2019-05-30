@@ -1,3 +1,0 @@
-# Article 39
-
-Le parc devra être construit, équipé et exploité de façon que son fonctionnement ne puisse pas être à l'origine de bruits ou vibrations susceptibles de compromettre la santé ou la sécurité du voisinage ou constituer une gêne pour sa tranquillité. À cet effet, il convient de choisir la meilleure technologie disponible pour l'équipement de l'installation et les matériels. Si cela ne suffit pas à satisfaire ces obligations, la protection de l'environnement devra être obtenue notamment soit par l'emploi de silencieux, écrans, capotages ou dispositifs antivibratoires, soit en plaçant ces matériels dans les locaux spécialement étudiés.
