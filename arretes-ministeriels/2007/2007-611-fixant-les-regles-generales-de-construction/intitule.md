@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2007-611 du 28 novembre 2007 fixant les règles générales de construction, installation, contrôle et d'entretien des ascenseurs, monte-charges, escaliers mécaniques et trottoirs roulants
