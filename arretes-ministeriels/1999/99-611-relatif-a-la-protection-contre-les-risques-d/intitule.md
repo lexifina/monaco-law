@@ -1,1 +1,0 @@
-Arrêté ministériel n° 99-611 du 16 décembre 1999 relatif à la protection contre les risques d'incendie et de panique dans les immeubles à usage d'habitation, de bureaux ou mixtes n'entrant pas dans la catégorie des immeubles de grande hauteur
