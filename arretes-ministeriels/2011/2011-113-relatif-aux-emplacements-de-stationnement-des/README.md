@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2011-113 du 3 mars 2011 relatif aux emplacements de stationnement des taxis et des véhicules de service de ville
 
-Version en vigueur au 12 mars 2011.
+Version en vigueur au 8 juin 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2011/03-03-2011-113@2011.03.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2011/03-03-2011-113@2019.06.08/
 
 | | |
 | --- | --- |

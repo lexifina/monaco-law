@@ -24,4 +24,6 @@ Les zones réservées au stationnement des taxis prévues à l'article 21 de l'o
 
 - Avenue Prince Pierre
 
-- Quai Antoine Ier.
+- Quai Antoine Ier
+
+- Avenue Albert II - Le Neptune
