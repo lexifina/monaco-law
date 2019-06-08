@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2018-150 du 26 février 2018 relatif aux règles techniques applicables aux sites Internet de commerce électronique de médicaments à usage humain
 
-Version en vigueur au 9 mai 2018.
+Version en vigueur au 8 juin 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/02-26-2018-150@2018.05.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/02-26-2018-150@2019.06.08/
 
 | | |
 | --- | --- |
