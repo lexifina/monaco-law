@@ -4,7 +4,7 @@ La définition et le tarif de cession des plasmas pour fractionnement sont les s
 
 En Euros HT |
 
-Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume supérieur ou égal à 400 ml, le litre | 105,00
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume supérieur ou égal à 400 ml, le litre | 101,50
 
 Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume inférieur à 400 ml, le litre | 75,90
 
