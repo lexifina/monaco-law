@@ -1,6 +1,6 @@
 # Article 1er
 
-Pour l'application du présent arrêté, les véhicules sont classés en trois catégorie.
+Pour l'application du présent arrêté, les véhicules sont classés en quatre catégories.
 
 La première catégorie comprend :
 
@@ -35,3 +35,5 @@ La deuxième catégorie comprend les véhicules automobiles particuliers, except
 Les véhicules immatriculés en série diplomatique de la deuxième catégorie ne sont assujettis à la présente réglementation que pour autant qu'ils appartiennent à des agents consulaires honoraires.
 
 La troisième catégorie comprend les véhicules utilitaires autres que ceux qui appartiennent à la première catégorie sauf les remorques de moins de 750 kg de poids total autorisé en charge.
+
+La quatrième catégorie comprend les véhicules à délégation totale ou partielle de conduite utilisés pour effectuer ou mettre en place un service de transport public de personnes à des fins expérimentales, en application du Titre VII bis du Code de la route.
