@@ -2,11 +2,11 @@
 
 Le taux d'hémoglobine est au minimum de :
 
-- 120 g/l pour les femmes et 130 g/l pour les hommes, sauf pour les dons en aphérèse simple de globules rouges ;
+- - 120 g/l pour les femmes et 130 g/l pour les hommes, sauf pour les dons en aphérèse simple de globules rouges ;
 
 Pour les dons de plasma, en dessous de ces valeurs, le prélèvement est laissé à l'appréciation du médecin de l'établissement de transfusion sanguine ;
 
-- 140 g/l pour les femmes et les hommes pour les dons en aphérèse simple de globules rouges.
+- - 140 g/l pour les femmes et les hommes pour les dons en aphérèse simple de globules rouges.
 
 Pour le don de plaquettes, la numération plaquettaire est supérieure ou égale à 150 giga/l, avec une dérogation possible pour les donneurs HLA et HPA compatibles, selon l'appréciation du médecin de l'établissement de transfusion sanguine.
 

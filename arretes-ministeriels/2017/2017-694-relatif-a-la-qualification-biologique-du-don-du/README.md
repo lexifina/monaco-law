@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2017-694 du 20 septembre 2017 relatif à la qualification biologique du don du sang
 
-Version en vigueur au 5 mai 2018.
+Version en vigueur au 8 juin 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/09-20-2017-694@2018.05.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/09-20-2017-694@2019.06.08/
 
 | | |
 | --- | --- |
