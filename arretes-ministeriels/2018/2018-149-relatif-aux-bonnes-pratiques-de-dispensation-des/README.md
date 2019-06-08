@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2018-149 du 26 février 2018 relatif aux bonnes pratiques de dispensation des médicaments dans les officines
 
-Version en vigueur au 9 mai 2018.
+Version en vigueur au 8 juin 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/02-26-2018-149@2018.05.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/02-26-2018-149@2019.06.08/
 
 | | |
 | --- | --- |
