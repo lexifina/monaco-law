@@ -14,4 +14,4 @@ La demande d'autorisation comporte les éléments suivants :
 
 5) la description du site Internet et de ses fonctionnalités permettant de s'assurer du respect de la législation et de la réglementation en vigueur ;
 
-6) le descriptif de l'espace dédié, au sein de l'officine, à l'activité de commerce électronique de médicaments.
+6) le descriptif de l'espace dédié à l'activité de commerce électronique de médicaments.
