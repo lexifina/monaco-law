@@ -1,9 +1,5 @@
 # Article 6
 
-Le numéro d'immatriculation est constitué par un groupe de chiffres ou de lettres et de chiffres.
-
-Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatriculation peut recevoir l'une des formes suivantes :
-
 * Série mise à la disposition de S.A.S. le Prince Souverain pour l'immatriculation de Ses véhicules :
 
 - un groupe de deux lettres, suivi d'un groupe de deux chiffres soit MC01 à MC99, MP01 à MP99 et PM01 à PM99 ;
@@ -273,6 +269,32 @@ La délivrance de ce certificat pour véhicule exporté sous couvert d'un numér
 Les carnets WW pourront ne pas être renouvelés dans le cas où les certificats d'immatriculation provisoire ne sont pas délivrés dans les conditions édictées par le présent arrêté ministériel.
 
 Le nombre des carnets attribués aux professionnels pourra de même être réduit ou leur délivrance refusée en cas d'infractions répétées.
+
+Cette série est destinée aux véhicules à délégation partielle ou totale de conduite utilisés pour effectuer ou mettre en place, en application du Titre VII bis du Code de la route, un service de transport public de personnes à des fins expérimentales, munis d'une ou plusieurs fonctionnalités permettant de déléguer au véhicule tout ou partie des tâches de conduite pendant tout ou partie de son parcours.
+
+La couleur des caractères de la plaque d'immatriculation de cette série est rouge.
+
+Le numéro d'immatriculation est composé :
+
+- d'un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
+
+- ou d'une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999.
+
+Les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, Y.
+
+- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, Y.
+
+L'immatriculation des véhicules à délégation partielle ou totale de conduite est subordonnée à la délivrance, par décision du Ministre d'État, d'une autorisation administrative, conformément aux dispositions du Titre VII bis du Code de la route.
+
+La durée de l'immatriculation dans la série DPTC ne peut excéder une année.
+
+Toutefois, lorsque l'autorisation mentionnée à l'article 205-2 du Code de la route a été renouvelée en application de l'article 205-5 dudit Code, cette immatriculation peut être prolongée une seule fois, pour une durée n'excédant pas une année, à la demande du propriétaire, sous réserve que cette demande soit adressée au Service des Titres de Circulation avant la fin de la durée d'immatriculation portée sur le certificat d'immatriculation.
+
+Le propriétaire de ce type de véhicules doit se conformer aux prescriptions de l'article 102 du Code de la route.
+
+En cas de contrôle routier, la décision d'autorisation de circulation du véhicule ou sa copie, doit être présentée lors de toute réquisition des agents de l'autorité compétente.
+
+Toute mise en circulation de véhicules à délégation partielle ou totale sous couvert d'un certificat DPTC en dehors des conditions susvisées pourra entraîner le retrait immédiat du certificat et des plaques d'immatriculation leur ayant été attribué sans préjudice de sanctions administratives comportant la modification, la suspension ou le retrait de l'autorisation administrative par décision du Ministre d'État
 
 Véhicules appartenant au Ministère d'État, aux membres du corps diplomatique accrédités auprès de S.A.S. le Prince Souverain ainsi qu'aux membres du personnel administratif et technique des Ambassades et aux fonctionnaires des Organismes Internationaux :
 
