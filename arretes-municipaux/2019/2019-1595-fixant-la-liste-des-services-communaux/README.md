@@ -1,8 +1,8 @@
 # Arrêté municipal n° 2019-1595 du 15 avril 2019 fixant la liste des services communaux
 
-Version en vigueur au 20 avril 2019.
+Version en vigueur au 15 juin 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2019/04-15-2019-1595@2019.04.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2019/04-15-2019-1595@2019.06.15/
 
 | | |
 | --- | --- |
