@@ -14,6 +14,10 @@ Fête Nationale
 
 Mardi 19 novembre 2019
 
+Immaculée Conception
+
+Lundi 9 décembre 2019
+
 Vacances de Noël
 
 Du vendredi 20 décembre 2019 après la classe au lundi 6 janvier 2020 au matin
