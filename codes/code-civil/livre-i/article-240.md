@@ -1,5 +1,5 @@
 # Article 240
 
-L'adoption a lieu sous la forme, soit d'adoption légitimante soit d'adoption simple.
+L'adoption doit être justifiée par l'intérêt de l'adopté.
 
-Elle doit être justifiée, avant tout, par l'intérêt de l'adopté.
+Elle a lieu sous la forme soit d'adoption plénière soit d'adoption simple.

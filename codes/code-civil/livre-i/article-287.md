@@ -1,3 +1,5 @@
 # Article 287
 
-Par dérogation à l'alinéa premier de l'article précédent, l'adoptant ou ses descendants conservent leur droit de retour légal sur les biens donnés à l'adopté.
+L'instance en révocation est portée devant le tribunal de première instance. L'affaire est instruite comme en matière contentieuse et le jugement rendu en chambre du conseil sur le rapport du juge tutélaire et les conclusions du ministère public.
+
+Le dispositif de la décision, lorsque celle-ci est devenue irrévocable, est mentionné conformément à l'article 277.

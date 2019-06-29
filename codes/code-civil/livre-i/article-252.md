@@ -1,3 +1,3 @@
 # Article 252
 
-Lorsque les père et mère sont décédés, dans l'impossibilité permanente de manifester leur volonté ou s'ils ont perdu les droits de puissance paternelle, le consentement à l'adoption légitimante doit être donné par le conseil de famille, après avis de la personne ou des dirigeants de l'œuvre qui, en fait, prend soin de l'enfant.
+Les père et mère, le conseil de famille ou bien la personne à qui ont été conférées les prérogatives de l'autorité parentale conformément à l'article 259 peuvent consentir à l'adoption plénière en laissant le choix des adoptants à la personne qui a recueilli l'enfant à l'effet de pourvoir à son adoption.

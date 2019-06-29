@@ -1,5 +1,3 @@
 # Article 250
 
-Lorsque la filiation de l'enfant mineur est établie à l'égard de ses auteurs, chacun d'eux doit consentir à l'adoption légitimante.
-
-Si l'un d'eux est décédé, dans l'impossibilité permanente de manifester sa volonté ou s'il a perdu les droits de puissance paternelle, l'approbation du juge tutélaire est requise.
+Lorsque les père et mère sont décédés, dans l'impossibilité durable de manifester leur volonté ou s'ils ont perdu leurs prérogatives d'autorité parentale, le consentement à l'adoption plénière est donné par le conseil de famille, après avis de la personne qui, en fait, prend soin de l'enfant.

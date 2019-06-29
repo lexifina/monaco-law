@@ -1,5 +1,7 @@
 # Article 275
 
-L'adoptant est investi des attributs de l'autorité parentale à l'égard de l'adopté. Il consent à son mariage ; lorsque l'adoption a été réalisée par deux époux, leur désaccord emporte consentement.
+Le tribunal de première instance, sur le rapport du juge tutélaire et les conclusions du ministère public, prononce l'adoption simple si les conditions en sont réunies et si l'adoption demandée est conforme à l'intérêt de l'adopté. Lorsque le ou les adoptants ont des descendants légitimes, naturels ou adoptifs, le tribunal vérifie, en outre, que l'adoption n'est pas de nature à compromettre la vie familiale ou n'a pas pour but de nuire à leurs intérêts. Il statue, s'il y a lieu, sur la modification des prénoms sollicitée par le ou les adoptants.
 
-En cas d'adoption de son enfant par son conjoint, le père ou la mère de l'adopté exerce l'autorité parentale conjointement avec l'adoptant.
+Le jugement prononçant l'adoption simple n'est pas motivé en fait.
+
+Les dispositions de l'article 264 sont applicables à l'adoption simple.

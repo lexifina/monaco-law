@@ -1,7 +1,9 @@
 # Article 285
 
-L'instance en révocation est soumise aux règles de la procédure ordinaire mais les débats ont lieu en chambre du conseil, le Ministère public et le juge tutélaire entendus.
+L'adoption simple produit effet du jour où la décision qui la prononce est devenue irrévocable, sauf dans le cas visé au troisième alinéa.
 
-Le jugement dûment motivé est rendu en chambre du conseil.
+Elle conserve, à compter de ce jour, tous ses effets, nonobstant l'établissement ultérieur d'un lien de filiation.
 
-Le dispositif de la décision, lorsqu'elle est devenue irrévocable, est mentionné conformément à l'article 295.
+Dans le cas prévu à l'article 276, les effets de l'adoption simple, lorsqu'elle est prononcée, rétroagissent au jour du décès de l'adoptant.
+
+L'adoption simple n'est cependant opposable aux tiers que du jour de la mention prévue à l'article 277.

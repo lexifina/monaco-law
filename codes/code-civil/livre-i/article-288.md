@@ -1,5 +1,5 @@
 # Article 288
 
-Lorsque les consentements et autorisations requis ont été obtenus ou, pour l'adoption légitimante, lorsque la décision d'abandon est devenue irrévocable, le ou les adoptants saisissent le tribunal de première instance par voie de requête.
+La révocation fait cesser tous les effets de l'adoption à compter du jour où la décision qui la prononce est devenue irrévocable, à l'exception de ceux résultant des deux premiers alinéas de l'article 286.
 
-En cas d'adoption légitimante, si l'un ou les deux époux décèdent, la requête peut être présentée respectivement par le survivant ou par tout héritier.
+Elle n'est opposable aux tiers que du jour de la mention visée au dernier alinéa de l'article précédent.

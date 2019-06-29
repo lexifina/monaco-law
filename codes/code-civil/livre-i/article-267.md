@@ -1,3 +1,5 @@
 # Article 267
 
-Nul époux ne peut adopter ni être adopté sans le consentement de son conjoint non séparé de corps, sauf le cas où celui-ci est dans l'impossibilité permanente de manifester sa volonté.
+L'adoption plénière ne peut être révoquée. Elle confère à l'enfant une filiation qui se substitue à sa filiation d'origine : l'adopté cesse d'appartenir à sa famille par le sang, sous réserve des prohibitions au mariage visées à l'article 130.
+
+Toutefois, l'adoption de l'enfant du conjoint laisse subsister sa filiation d'origine à l'égard de ce conjoint et de sa famille. Elle produit, pour le reste, les effets d'une adoption par deux époux.

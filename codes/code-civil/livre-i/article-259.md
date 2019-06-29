@@ -1,5 +1,5 @@
 # Article 259
 
-La rétractation de la décision intervenue en vertu de l'article 255 peut être demandée dans les six mois de son prononcé, par le ou les auteurs de l'enfant, à condition qu'ils justifient avoir reconnu l'enfant, ou engagé une action tendant à l'établissement de sa filiation. Ils doivent donner toute garantie de s'intéresser à lui. Le tribunal peut fixer un délai d'épreuve d'un an, qui ne pourra être renouvelé qu'une fois.
+La décision qui déclare l'enfant en état d'abandon délègue les prérogatives de l'autorité parentale à la personne qui prend soin de l'enfant.
 
-L'article 257 est applicable à l'instance en rétractation.
+Hors les cas de fraude et de substitution même involontaire d'enfant, la tierce opposition n'est recevable que dans l'année du prononcé de la décision.

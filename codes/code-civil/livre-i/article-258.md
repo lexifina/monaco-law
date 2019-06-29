@@ -1,3 +1,5 @@
 # Article 258
 
-La décision qui déclare l'enfant en état d'abandon délègue les droits de puissance paternelle à l'œuvre ou à la personne qui prend soin de l'enfant.
+L'affaire est instruite et la décision rendue en chambre du conseil.
+
+Le ministère public appelle en cause les auteurs de l'enfant, s'ils sont connus, et toute autre personne susceptible de s'intéresser à l'enfant.

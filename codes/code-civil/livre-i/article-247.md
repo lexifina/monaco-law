@@ -1,3 +1,3 @@
 # Article 247
 
-L'adoption légitimante est toutefois permise en faveur de la personne qui a bénéficié d'une adoption simple, à condition qu'elle ait passé trois ans au foyer des adoptants, en vertu de la décision prévue à l'article 277.
+Seul peut bénéficier de l'adoption plénière, pendant sa minorité, ou au-delà sur autorisation préalable du Prince, l'enfant accueilli pendant au moins un an au foyer des adoptants avant d'avoir atteint l'âge de quinze ans révolus. L'accueil est déclaré au juge tutélaire qui prend toutes les mesures conformes à l'intérêt de l'enfant.

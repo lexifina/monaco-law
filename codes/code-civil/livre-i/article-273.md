@@ -1,5 +1,5 @@
 # Article 273
 
-Les consentements requis sont donnés par déclaration devant le juge tutélaire ou devant notaire, qui recevront séparément chacun des déclarants.
+Le juge tutélaire qui estime abusif le refus de consentement opposé par les père et mère ou par l'un d'eux peut donner le consentement nécessaire à l'adoption.
 
-Les père et mère du mineur peuvent ne pas comparaître, s'ils ont donné leur consentement par acte authentique.
+Il en est de même en cas de refus abusif de ce consentement par le conseil de famille.

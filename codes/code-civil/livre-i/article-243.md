@@ -1,3 +1,3 @@
 # Article 243
 
-L'adoption légitimante peut être demandée, avec autorisation du Prince, par deux époux, lorsque les conditions posées par l'article 246 ou 247 sont remplies à l'égard d'un seul.
+Sauf autorisation du Prince, l'adoptant doit avoir au moins seize ans de plus que l'adopté, cette différence étant réduite à dix ans lorsque l'adopté est l'enfant du conjoint de l'adoptant.

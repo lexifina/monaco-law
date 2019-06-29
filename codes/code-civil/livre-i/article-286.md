@@ -1,5 +1,5 @@
 # Article 286
 
-L'adoption prend fin à compter du jour où la décision est devenue irrévocable.
+L'adoption simple peut être judiciairement révoquée pour motifs graves, à la requête de l'adoptant, de l'adopté et, si ce dernier est mineur, de ses père et mère, ou du ministère public.
 
-Celle-ci n'est opposable aux tiers que du jour de la mention visée à l'article précédent.
+La demande de révocation présentée par l'adoptant n'est recevable que si l'adopté est âgé de plus de quinze ans.

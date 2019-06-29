@@ -1,5 +1,5 @@
 # Article 261
 
-L'adoption légitimante confère à l'enfant une filiation qui se substitue à sa filiation d'origine ; il cesse d'appartenir a sa famille, sous réserve des prohibitions au mariage visées aux articles 127, 128 et 129 du Code civil.
+Lorsque les consentements et autorisations requis ont été obtenus ou lorsque la décision d'abandon est devenue irrévocable, le ou les adoptants saisissent le tribunal de première instance par voie de requête aux fins d'adoption plénière.
 
-Cependant, en cas d'adoption légitimante de l'enfant du conjoint dans les termes du deuxième alinéa de l'article 242, la filiation d'origine subsiste entre l'enfant et le conjoint de l'adoptant.
+Si l'un des deux époux décède après avoir régulièrement recueilli l'enfant en vue de son adoption plénière, la requête peut être présentée par le survivant ou par tout héritier.

@@ -1,3 +1,3 @@
 # Article 268
 
-L'adoption simple est permise quel que soit l'âge de l'adopté.
+L'enfant a, dans la famille des adoptants, les mêmes droits et obligations qu'un enfant légitime.

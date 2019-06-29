@@ -1,3 +1,5 @@
 # Article 278
 
-Les règles concernant l'autorité parentale, l'administration légale et la tutelle de l'enfant légitime s'appliquent à l'enfant adopté ; cependant le conseil de famille comprendra, sauf décision contraire du juge tutélaire, les père et mère de l'adopté.
+L'adoption simple confère à l'adopté une filiation qui s'ajoute à sa filiation d'origine.
+
+L'adopté reste dans sa famille d'origine et y conserve tous ses droits. Il ne peut néanmoins exiger d'aliments de ses ascendants légitimes ou naturels que si l'adoptant n'est pas en mesure de les lui fournir.

@@ -1,5 +1,7 @@
 # Article 284
 
-Si le comportement de l'adopté ou celui de l'adoptant suscite de graves motifs de mécontentements, l'adoption peut être révoquée judiciairement, à la requête de l'adoptant, de l'adopté, et si celui-ci est mineur non émancipé, de ses père et mère. Le Ministère public peut également saisir le tribunal.
+Lorsque l'adopté meurt sans descendance, les biens donnés par l'adoptant ou recueillis dans sa succession, s'ils existent encore en nature au décès de l'adopté, retournent à l'adoptant ou à ses descendants, à charge pour eux de contribuer aux dettes et sous réserve des droits des tiers. Les biens que l'adopté avait reçus à titre gratuit de ses père et mère font pareillement retour à ces derniers ou à leurs descendants.
 
-La demande de révocation présentée par l'adoptant n'est recevable que si l'adopté est âgé de plus de quinze ans.
+Le conjoint survivant de l'adoptant, s'il a consenti à l'adoption, a l'usufruit des biens soumis au droit de retour.
+
+Le surplus des biens de l'adopté se divise par moitié entre la famille d'origine et la famille de l'adoptant.
