@@ -1,11 +1,11 @@
 # Code de droit international privé
 
-Version en vigueur au 8 juillet 2017.
+Version en vigueur au 29 juin 2019.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-droit-international-prive@2017.07.08/
+Source : Legimonaco, https://legimonaco.mc/code/code-droit-international-prive@2019.06.29/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de droit international privé |
-| Dernière modification | 8 juillet 2017 |
+| Dernière modification | 29 juin 2019 |
