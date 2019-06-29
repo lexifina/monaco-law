@@ -14,4 +14,4 @@ Est monégasque :
 
 - 6° - Toute personne née à Monaco de parents inconnus.
 
-La nationalité de l'enfant qui a fait l'objet d'une adoption légitimante est déterminée selon les distinctions établies à l'alinéa précédent.
+La nationalité de l'enfant qui a fait l'objet d'une adoption plénière est déterminée selon les distinctions établies à l'alinéa précédent.
