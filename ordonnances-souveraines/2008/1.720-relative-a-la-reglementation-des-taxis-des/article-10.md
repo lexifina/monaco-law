@@ -6,13 +6,19 @@ I. Le conducteur doit :
 
 - 2° - s'assurer que son véhicule est propre et en ordre de marche ;
 
-- 3° - se montrer courtois, notamment en portant toute l'attention nécessaire à la montée et à la descente des clients de son véhicule ;
+- 3° - se montrer courtois en toutes circonstances, notamment en portant toute l'attention nécessaire à la montée et à la descente des clients de son véhicule ;
 
 - 4° - admettre les aveugles et malvoyants accompagnés de leur chien, ainsi que les autres personnes handicapées et les fauteuils roulants qu'elles utilisent ;
 
 - 5° - transporter les menus bagages et objets peu volumineux dont les dimensions et la nature permettent de les placer dans le véhicule sans risquer de gêner la conduite ;
 
-- 6° - vérifier, avant l'éloignement du client, qu'aucun objet n'ait été oublié ; tout objet oublié et non restitué immédiatement doit être déposé dans les vingt-quatre heures à la Direction de la Sûreté Publique.
+- 6° - vérifier, avant l'éloignement du client, qu'aucun objet n'ait été oublié ; tout objet oublié et non restitué immédiatement doit être déposé dans les vingt-quatre heures à la Direction de la Sûreté Publique ;
+
+- 7° - être à jour du paiement de la taxe radioélectrique ;
+
+- 8° - avoir un livret professionnel en cours de validité ;
+
+- 9° - disposer d'un véhicule ayant satisfait aux obligations du contrôle technique.
 
 II. Il lui est interdit :
 

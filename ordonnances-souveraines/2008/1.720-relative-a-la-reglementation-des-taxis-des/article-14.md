@@ -10,6 +10,8 @@ Les taxis doivent répondre aux caractéristiques techniques suivantes :
 
 - 4° - disposer de l'appareillage de communication mis à disposition par l'autorité administrative compétente, pour l'exécution du service de centralisation téléphonique des demandes de courses et leur distribution, dont les conditions et modalités d'installation et d'utilisation sont fixées par arrêté ministériel;
 
-- 5° - disposer d'un véhicule répondant aux normes environnementales fixées par arrêté ministériel.
+- 5° - disposer d'un système de communication par radio ;
+
+- 6° - disposer d'un véhicule répondant aux normes environnementales fixées par arrêté ministériel.
 
 Les équipements mentionnés aux chiffres 3 et 4 de l'alinéa précédent sont présentés en état de fonctionnement lors de la présentation du véhicule prévue à l'article 7.
