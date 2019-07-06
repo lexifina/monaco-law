@@ -6,7 +6,7 @@ Aucun échantillon de médicaments contenant des substances classées comme psyc
 
 La remise d'échantillons de médicaments est interdite dans les enceintes accessibles au public à l'occasion de congrès médicaux ou pharmaceutiques.
 
-Les échantillons doivent être identiques aux spécialités pharmaceutiques concernées et porter la mention : « échantillon gratuit ».
+Les échantillons doivent être identiques aux spécialités pharmaceutiques concernées et porter la mention : « échantillon gratuit »"
 
 Dans le cadre de la promotion des médicaments auprès des personnes habilitées à les prescrire ou à les délivrer, il est interdit d'octroyer, d'offrir ou de promettre à ces personnes une prime, un avantage pécuniaire ou en nature, de valeur non négligeable.
 
