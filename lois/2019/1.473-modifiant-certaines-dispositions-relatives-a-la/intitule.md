@@ -1,0 +1,1 @@
+Loi n° 1.473 du 2 juillet 2019 modifiant certaines dispositions relatives à la profession de sage-femme prévues par l'Ordonnance du 29 mai 1894 sur les professions de médecin, chirurgien, dentiste, sage-femme et herboriste, modifiée
