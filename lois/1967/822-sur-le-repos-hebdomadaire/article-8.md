@@ -4,4 +4,4 @@ Toute infraction aux dispositions de la présente loi est punie de l'amende pré
 
 En cas de pluralité d'infractions, il est prononcé autant d'amendes qu'il y a d'infractions constatées et de personnes indûment employées.
 
-En cas de récidive, l'amende sera celle prévue au chiffre 2 dudit article 26.
+En cas de récidive, l'amende sera celle prévue au chiffre 3 dudit article 26.
