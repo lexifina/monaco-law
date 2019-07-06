@@ -1,5 +1,9 @@
 # Article 6
 
+Le numéro d'immatriculation est constitué par un groupe de chiffres ou de lettres et de chiffres.
+
+Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatriculation peut recevoir l'une des formes suivantes :
+
 * Série mise à la disposition de S.A.S. le Prince Souverain pour l'immatriculation de Ses véhicules :
 
 - un groupe de deux lettres, suivi d'un groupe de deux chiffres soit MC01 à MC99, MP01 à MP99 et PM01 à PM99 ;
@@ -116,7 +120,7 @@ Les détenteurs de cartes " W " devront tenir un registre paraphé par le chef d
 
 - 3° nom du conducteur auquel il est confié et les motifs de la mise en route.
 
-Ce registre devra être présenté à toute réquisition des agents de l'Administration et soumis, en fin d'année, au visa du chef du service de la circulation.
+Ce registre devra être présenté à toute réquisition des agents de l'Administration et soumis au visa d'un représentant du Service des Titres de Circulation lors de contrôles inopinés, à l'initiative de celui-ci.
 
 Toute mise en circulation de véhicules sous le couvert de cartes " W " en dehors des conditions susvisées, toute omission ou fausse déclaration relevée sur le registre ci-dessus et, d'une manière générale, toute contravention aux dispositions qui précèdent, pourront entraîner le retrait immédiat des cartes attribuées sans préjudice de sanctions administratives plus graves comportant le retrait temporaire ou définitif de l'autorisation d'exploitation.
 
