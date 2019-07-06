@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 7.559 du 28 juin 2019 portant modification de l'Ordonnance Souveraine n° 2.318 du 3 août 2009, modifiée, fixant les conditions d'application de la loi n° 1.362 du 3 août 2009, modifiée, relative à la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption
