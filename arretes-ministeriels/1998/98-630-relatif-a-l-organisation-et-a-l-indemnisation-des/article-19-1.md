@@ -1,21 +1,25 @@
-# Article 19.1
+# Article 19-1
 
-Tarif de la garde
+La participation des praticiens aux astreintes opérationnelles ou de sécurité définies à l'article 5 donne lieu au paiement d'une indemnité dans les conditions prévues ci-dessous :
 
-Tarif au 01/07/2016 | Tarif au 01/02/2017 |
+Tarif des astreintes à compter du 1er juillet 2019
 
-Tarif de la 1 ère à la 6 ème garde incluse sur le mois | Tarif de la 7 ème à la 10 ème garde incluse sur le mois | Tarif à partir de la 11 ème garde sur le mois | Tarif de la 1 ère à la 6 ème garde incluse sur le mois | Tarif de la 7 ème à la 10 ème garde incluse sur le mois | Tarif à partir de la 11 ème garde sur le mois |
+Astreinte opérationnelle
 
-Médecin du Centre Hospitalier Princesse Grace | 301,66 euro(s) | 458,61 euro(s) | 301,66 euro(s) | 303,47 euro(s) | 461,36 euro(s) | 303,47 euro(s)
+Indemnité forfaitaire de base | 45,82euro(s)
 
-Médecin extérieur au Centre Hospitalier Princesse Grace | 458,61 euro(s) | 458,61 euro(s) | 301,66 euro(s) | 461,36 euro(s) | 461,36 euro(s) | 303,47 euro(s)
+Indemnité due pour un premier déplacement | 63,87euro(s)
 
-Tarif de la demi-garde
+Indemnité due pour chaque déplacement supplémentaire | 42,50euro(s)
 
-Tarif au 01/07/2016 | Tarif au 01/02/2017 |
+Indemnité pour l'acte médical d'interprétation d'images radiologiques réalisées au domicile du praticien radiologue | 30,36euro(s)
 
-Tarif de la 1 ère à la 6 ème garde incluse sur le mois | Tarif de la 7 ème à la 10 ème garde incluse sur le mois | Tarif à partir de la 11 ème garde sur le mois | Tarif de la 1 ère à la 6 ème garde incluse sur le mois | Tarif de la 7 ème à la 10 ème garde incluse sur le mois | Tarif à partir de la 11 ème garde sur le mois |
+Astreinte de sécurité
 
-Médecin du Centre Hospitalier Princesse Grace | 150,83 euro(s) | 229,31 euro(s) | 150,83 euro(s) | 151,73 euro(s) | 230,69 euro(s) | 151,73 euro(s)
+Indemnité forfaitaire de base | 29,86euro(s)
 
-Médecin extérieur au Centre Hospitalier Princesse Grace | 229,31 euro(s) | 229,31 euro(s) | 150,83 euro(s) | 230,68 euro(s) | 230,69 euro(s) | 151,73 euro(s)
+Indemnité due pour un premier déplacement | 63,87euro(s)
+
+Indemnité due pour chaque déplacement supplémentaire | 42,50euro(s)
+
+Le montant cumulé des indemnités perçues au titre d'une astreinte opérationnelle ou d'une astreinte de sécurité ne peut excéder le tarif d'une garde, soit 348,99 euros.
