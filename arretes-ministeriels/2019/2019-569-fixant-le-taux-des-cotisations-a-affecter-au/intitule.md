@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-569 du 4 juillet 2019 fixant le taux des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2017-2018
