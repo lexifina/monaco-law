@@ -6,7 +6,7 @@ Les agents soumis au présent statut ont droit à une pension de retraite de bas
 
 - - à la revalorisation de la pension ;
 
-et en général, à toutes celles déjà prévues par le présent statut ou par la réglementation générale en vigueur à Monaco en matière de réforme, d'invalidité, de cumul de plusieurs accessoires de traitement, de services accomplis dans une administration ou un organisme public.
+- et en général, à toutes celles déjà prévues par le présent statut ou par la réglementation générale en vigueur à Monaco en matière de réforme, d'invalidité, de cumul de plusieurs accessoires de traitement, de services accomplis dans une administration ou un organisme public.
 
 En outre, le nombre de trimestres de durée d'assurance nécessaires pour obtenir une pension à taux plein est fixé à cent soixante-trois trimestres, sous réserve des situations où le règlement mentionné au premier alinéa prévoit un nombre inférieur.
 

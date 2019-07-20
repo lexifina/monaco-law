@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 7.464 du 28 juillet 1982 portant statut du personnel de service du Centre hospitalier Princesse Grace
 
-Version en vigueur au 15 juin 2013.
+Version en vigueur au 20 juillet 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1982/07-28-7.464@2013.06.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1982/07-28-7.464@2019.07.20/
 
 | | |
 | --- | --- |
