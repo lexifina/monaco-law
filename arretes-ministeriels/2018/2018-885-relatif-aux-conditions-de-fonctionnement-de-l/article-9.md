@@ -12,7 +12,7 @@ Le conseil technique est notamment consulté, pour avis, sur :
 
 5° le règlement intérieur de l'Institut de Formation ;
 
-6° les situations individuelles des étudiants.
+6° les situations individuelles des élèves.
 
 Le Directeur porte à la connaissance du conseil technique :
 
@@ -20,6 +20,6 @@ Le Directeur porte à la connaissance du conseil technique :
 
 2° la liste par catégorie du personnel administratif ;
 
-3° la liste des étudiants en formation ;
+3° la liste des élèves en formation ;
 
-4° le cas échéant, les études menées concernant les épreuves de sélection, la population des étudiants accueillis ou les résultats obtenus par ceux-ci.
+4° le cas échéant, les études menées concernant les épreuves de sélection, la population des élèves accueillis ou les résultats obtenus par ceux-ci.

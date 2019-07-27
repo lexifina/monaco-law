@@ -1,3 +1,3 @@
 # Article 31
 
-En cas de maternité, les étudiantes sont tenues d'interrompre leur scolarité pendant une durée qui ne peut en aucun cas être inférieure à la durée légale.
+En cas de maternité, les élèves sont tenues d'interrompre leur scolarité pendant une durée qui ne peut en aucun cas être inférieure à la durée légale.

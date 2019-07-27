@@ -14,11 +14,11 @@ La liste des membres du conseil technique est fixée ainsi qu'il suit :
 
 - un cadre de santé, formateur permanent de l'Institut de Formation, ou son suppléant ;
 
-- un aide-soignant d'un établissement accueillant des étudiants en stage, désigné pour trois ans par le Directeur de l'Institut de Formation ;
+- un aide-soignant d'un établissement accueillant des élèves en stage, désigné pour trois ans par le Directeur de l'Institut de Formation ;
 
 - un représentant de l'Agence Régionale de Santé de la Région Provence-Alpes-Côte d'Azur, désigné par celle-ci ;
 
-- deux représentants des étudiants élus chaque année par leurs pairs.
+- deux représentants des élèves élus chaque année par leurs pairs.
 
 Les membres du conseil ont un suppléant désigné dans les mêmes conditions que le titulaire.
 

@@ -12,6 +12,6 @@ La liste des membres du conseil de discipline est fixée ainsi qu'il suit :
 
 - un cadre de santé, formateur permanent siégeant au conseil technique ou son suppléant ;
 
-- un aide-soignant d'un établissement accueillant des étudiants en stage siégeant au conseil technique ou son suppléant ;
+- un aide-soignant d'un établissement accueillant des élèves en stage siégeant au conseil technique ou son suppléant ;
 
-- un représentant des étudiants, tiré au sort parmi les deux élus au conseil technique ou son suppléant. L'ensemble de ses membres a voix délibérative.
+- un représentant des élèves, tiré au sort parmi les deux élus au conseil technique ou son suppléant. L'ensemble de ses membres a voix délibérative.

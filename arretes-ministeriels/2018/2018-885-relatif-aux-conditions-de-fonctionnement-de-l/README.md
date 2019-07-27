@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2018-885 du 14 septembre 2018 relatif aux conditions de fonctionnement de l'Institut de Formation d'Aides-Soignants
 
-Version en vigueur au 1er septembre 2018.
+Version en vigueur au 27 juillet 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/09-14-2018-885@2018.09.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/09-14-2018-885@2019.07.27/
 
 | | |
 | --- | --- |
