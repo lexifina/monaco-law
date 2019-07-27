@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-609 du 18 juillet 2019 modifiant l'arrêté ministériel n° 84-688 du 30 novembre 1984 relatif à la nomenclature générale des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux, modifié
