@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-616 du 19 juillet 2019 modifiant l'arrêté ministériel n° 98-630 du 29 décembre 1998 relatif à l'organisation et à l'indemnisation des gardes et astreintes au Centre Hospitalier Princesse Grace, modifié
