@@ -44,6 +44,8 @@ Sur les voies ci-après énoncées se situent des emplacements payants :
 
 - Chemin de la Turbie,
 
+- Passage de la Porte Rouge ;
+
 - Place des Moulins,
 
 - Quai Jean-Charles Rey, excepté pour les plaisanciers ayant acquis, auprès du mandataire désigné par l'Administration, une carte d'abonnement qui devra être placée en évidence sur leur véhicule pendant la durée du stationnement,
@@ -67,6 +69,8 @@ Sur les voies ci-après énoncées se situent des emplacements payants :
 - Rue du Portier,
 
 - Rue Princesse Florestine,
+
+- Rue Suffren Reymond
 
 - Ruelle Saint-Jean,
 
