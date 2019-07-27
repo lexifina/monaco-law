@@ -1,9 +1,9 @@
 # Article 138
 
-Le port de la tenue réglementaire de travail fournie par l'administration est obligatoire pendant les heures de service.
+Le port de la tenue réglementaire de travail, des chaussures de sécurité et autres équipements de protection individuels fournis par l'administration est obligatoire pendant les heures de service.
 
-La tenue est la suivante :
+La tenue réglementaire exigée pour le personnel soignant est la suivante :
 
-- personnel féminin : tunique et pantalon ou blouse ; calot, chaussures blanches fermées ou avec lanière tenant la cheville ; un badge relevant l'identité de l'agent et sa catégorie d'emploi ;
+- une tunique et un pantalon ou une blouse, des chaussures fermées ou avec lanière tenant la cheville, un badge relevant l'identité de l'agent et sa catégorie d'emploi ;
 
-- personnel masculin : tunique et pantalon ou blouse et pantalon ; calot, chaussures blanches fermées ou avec lanière tenant la cheville ; un badge relevant l'identité de l'agent et sa catégorie d'emploi.
+- le port de tout vêtement personnel à col ou manches longues, en dessous de la tenue réglementaire est interdit.
