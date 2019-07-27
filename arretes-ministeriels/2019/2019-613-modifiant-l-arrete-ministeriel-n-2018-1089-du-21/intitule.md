@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-613 du 19 juillet 2019 modifiant l'arrêté ministériel n° 2018-1089 du 21 novembre 2018 relatif aux conditions de fonctionnement de l'Institut de Formation en Soins Infirmiers
