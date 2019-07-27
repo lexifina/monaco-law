@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-615 du 19 juillet 2019 modifiant l'arrêté ministériel n° 86-620 du 10 novembre 1986 portant établissement du règlement intérieur du Centre Hospitalier Princesse Grace, modifié
