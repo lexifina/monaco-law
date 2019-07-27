@@ -4,6 +4,6 @@ L'Institut de Formation est dirigé par un directeur assisté de cadres de sant�
 
 Le directeur de l'Institut est assisté en outre par :
 
-1) Un conseil technique qui est consulté sur toutes questions relatives à la formation des étudiants ;
+1) Un conseil technique qui est consulté sur toutes questions relatives à la formation des élèves ;
 
-2) Un conseil de discipline qui émet un avis sur les fautes disciplinaires ainsi que sur les actes des étudiants incompatibles avec la sécurité du patient et mettant en cause leur responsabilité personnelle.
+2) Un conseil de discipline qui émet un avis sur les fautes disciplinaires ainsi que sur les actes des élèves incompatibles avec la sécurité du patient et mettant en cause leur responsabilité personnelle.

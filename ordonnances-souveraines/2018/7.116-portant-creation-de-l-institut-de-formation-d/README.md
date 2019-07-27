@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 7.116 du 14 septembre 2018 portant création de l'Institut de Formation d'Aides-Soignants
+# Ordonnance souveraine n° 7.116 du 14 septembre 2018 portant création de l'Institut de Formation d'Aides-Soignants
 
-Version en vigueur au 1er septembre 2018.
+Version en vigueur au 27 juillet 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2018/09-14-7.116@2018.09.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2018/09-14-7.116@2019.07.27/
 
 | | |
 | --- | --- |
