@@ -18,7 +18,7 @@ Véhicules dont le déclarant remplit les conditions fixées par l'article 102 d
 
 * Pour les motocycles et assimilés y compris les cyclomoteurs :
 
-- deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99, MP01 à MP99, PM01 à PM99 et VE01 à VE99) ;
+- deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99, MP01 à MP99, PM01 à PM99)
 
 les lettres étant choisies dans la liste :
 
@@ -34,9 +34,9 @@ A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
 
 - ou une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999 ;
 
-les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, Y.
+les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y.
 
-- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, Y
+- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, X, Y
 
 la lettre Z étant réservée aux personnes physiques visées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée, justifiant en nom personnel d'un titre de propriété ou d'un bail à loyer concernant un logement en Principauté.
 
@@ -334,7 +334,7 @@ L'immatriculation des véhicules de cette sous-catégorie au nom des membres du 
 
 - Couleur des caractères : bleu.
 
-Le numéro d'immatriculation est composé de la lettre X suivie d'un groupe de 3 chiffres, soit X001 à X999.
+L'immatriculation des véhicules de collection est composée des mêmes caractères que la série normale.
 
 Les véhicules immatriculés dans cette série ne peuvent circuler que lors de rallyes ou autres manifestations ou est requise la participation de véhicules d'un type particulier.
 
@@ -361,30 +361,6 @@ Cet agrément ne peut être accordé qu'à la condition que soit communiqué le 
 Est qualifié de " location courte durée " la mise à disposition d'un véhicule pour une durée égale ou inférieure à un an. Aucune condition de résidence en Principauté n'est exigée pour les locataires de ces véhicules.
 
 Les mentions " location longue durée " et " location courte durée " seront inscrites sur les certificats d'immatriculation des véhicules correspondants.
-
-Véhicules disposant d'une source d'énergie principale électrique et dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, susvisée :
-
-- couleur de caractère : bleu
-
-Pour les véhicules automobiles :
-
-- un groupe de trois chiffres suivi de la lettre E, soit du n° 001E au n° 999E.
-
-Pour les motocycles et assimilés, y compris les cyclomoteurs :
-
-- les deux lettres VE suivies d'un groupe de deux chiffres, soit du n° VE01 au n° VE99,
-
-- ou un groupe de deux chiffres suivi des deux lettres VE, soit du n° 01VE au n° 99VE,
-
-- ou un groupe de deux chiffres suivi des deux lettres EV, soit du n° 01EV au n° 99EV,
-
-- ou un groupe de deux chiffres suivi des deux lettres EE, soit du n° 01EE au n° 99EE,
-
-- ou un groupe de deux chiffres suivi de deux lettres EL, soit du n° 01EL au n° 99EL,
-
-- ou un groupe de deux chiffres suivi de deux lettres EP, soit du n° 01EP au n° 99EP,
-
-- ou un groupe de deux chiffres suivi des deux lettres PE, soit du n° 01PE au n° 99PE.
 
 Véhicules appartenant aux agents consulaires honoraires accrédités auprès de S.A.S. le Prince Souverain :
 
