@@ -32,6 +32,14 @@ Droits permettant l'obtention d'une catégorie supplémentaire de permis de cond
 
 - Délivrance ou renouvellement d'une carte professionnelle (TST) ou moniteurs des écoles de conduite | 23,00 euro(s)
 
+- Échange de permis de conduire avec le contrôle des aptitudes à la conduite d'un véhicule d'une première catégorie : | 105,00 euro(s)
+
+- Droits d'inscription pour le contrôle des aptitudes à la conduite d'un véhicule d'une catégorie ou d'une sous-catégorie supplémentaire : | 52,00 euro(s)
+
+- Absence ou retard non excusé au contrôle des aptitudes à la conduite d'un véhicule : | 39,00 euro(s)
+
+- Droits permettant de se présenter à un nouveau contrôle des aptitudes à la conduite d'un véhicule après échec : | 29,00 euro(s)
+
 VISITE TECHNIQUE
 
 - Absent ou retard non excusé - tous véhicules. | 40,00 euro(s)
