@@ -20,6 +20,16 @@ a) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 b) La circulation des piétons est interdite dans le giratoire.
 
+2 ter) Tunnel Albert II
+
+a) Un sens unique de circulation est instauré du boulevard du Jardin Exotique au boulevard Charles III, et ce, dans ce sens.
+
+b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
+
+c) La circulation des véhicules et ensemble de véhicules transportant des matières dangereuses est interdite.
+
+d) La circulation des piétons est interdite dans le tunnel.
+
 3) Tunnel Auréglia
 
 a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge de plus de 7,50 tonnes est autorisée.
