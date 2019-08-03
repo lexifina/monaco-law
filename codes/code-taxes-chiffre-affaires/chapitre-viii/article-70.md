@@ -4,6 +4,8 @@
 
 2. Les redevables peuvent sur leur demande être autorisés, dans des conditions qui sont fixées par l'article A-145 de l'annexe au code à disposer d'un délai supplémentaire d'un mois pour remettre la déclaration prévue au 1.
 
+Les redevables disposent d'un délai supplémentaire d'un mois pour les opérations d'importation pour lesquelles ils sont en mesure de démontrer qu'ils ne sont pas en possession de la déclaration d'importation sur laquelle ils sont désignés comme destinataires réels.
+
 Lorsque la taxe exigible annuellement est inférieure à 4 000 € les redevables sont admis à déposer leurs déclarations par trimestre.
 
 3. En cas de cession ou de cessation d'une activité professionnelle, les redevables sont tenus de souscrire dans les trente jours la déclaration prévue au 1.

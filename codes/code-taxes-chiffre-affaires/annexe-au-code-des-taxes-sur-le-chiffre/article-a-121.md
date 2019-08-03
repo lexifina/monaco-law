@@ -12,4 +12,4 @@ Un assujetti non établi à Monaco doit satisfaire aux conditions suivantes pour
 
   - c) les livraisons et les prestations mentionnées aux 1°, 2°, 5°, 6° et 7° du I de l'article 50 A du Code des taxes ;
 
-  - d) Les prestations de services mentionnées à l'article 14 bis du Code des taxes sur le chiffre d'affaires lorsqu'elles sont déclarées selon le régime particulier prévu aux articles 369 bis à 369 duodecies de la directive 2006/112/ CE du 28 novembre 2006.
+  - d) Les prestations de services mentionnées à l'article 14 bis du Code des taxes sur le chiffre d'affaires lorsqu'elles sont déclarées selon le régime particulier prévu aux articles 369 bis à 369 duodecies de la directive 2006/112/ CE du 28 novembre 2006

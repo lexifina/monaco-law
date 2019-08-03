@@ -12,15 +12,15 @@ II. - 1. Dans la mesure où les biens et les services sont utilisés pour les be
 
 - a) celle qui figure sur les factures établies conformément aux dispositions de l'article 71 et si la taxe pouvait légalement figurer sur lesdites factures ;
 
-- b) celle qui est due à l'importation ;
+- b) celle qui est acquittée par les redevables eux‑mêmes, dans les conditions prévues au II de l'article 104, pour les importations ou les sorties de régimes suspensifs mentionnés au 1°, au a du 2° et au 7° du I de l'article 50 A ou, dans le cas contraire, celle qui est due pour les importations ou les sorties de ces régimes ;
 
 - c) celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la livraison à soi-même des biens ou des services ;
 
 - d) celle qui correspond aux factures d'acquisition intracommunautaire établies conformément à la réglementation communautaire dont le montant figure sur la déclaration de recettes conformément au b) du 4 de l'article 70.
 
-2. La déduction ne peut pas être opérée si les redevables ne sont pas en possession soit desdites factures, soit de la déclaration d'importation sur laquelle ils sont désignés comme destinataires réels. Pour les acquisitions intracommunautaires, la déduction ne peut être opérée que si les redevables ont fait figurer sur la déclaration mentionnée au d) du 1 toutes les données nécessaires pour constater le montant de la taxe due au titre de ces acquisitions et détiennent des factures établies conformément à la réglementation communautaire.
+2. La déduction ne peut pas être opérée si les redevables ne sont pas en possession soit desdites factures, soit de la déclaration d'importation sur laquelle ils sont désignés comme destinataires réels. Pour les acquisitions intracommunautaires et les sorties des régimes suspensifs prévus au 1°, au a du 2° et au 7° du I de l'article 50 A, la déduction ne peut être opérée que si les redevables ont fait figurer sur la déclaration prévue à l'article 70, conformément aux b et b quinquies de son 4, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et détiennent des factures établies conformément à la réglementation communautaire ou les documents attestant de la sortie de ces régimes suspensifs.
 
-Toutefois, les redevables qui n'ont pas porté sur la déclaration mentionnée au d) du 1 le montant de la taxe due au titre d'acquisitions intracommunautaires sont autorisés à opérer la déduction lorsque cette taxe a été payée au Trésor Princier.
+Toutefois, les redevables qui n'ont pas porté sur cette déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque cette taxe a été payée au Trésor Princier.
 
 3. Lorsque ces factures ou ces documents font l'objet d'une rectification, les redevables doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du mois au cours duquel ils ont eu connaissance de cette rectification.
 

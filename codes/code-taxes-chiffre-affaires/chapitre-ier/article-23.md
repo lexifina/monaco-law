@@ -92,4 +92,6 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
   - Les obligations des organismes visés ci-dessus ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction sont fixées par les articles A-76 et A-180 de l'annexe au code.
 
+  - 1° bis Les prestations de services mentionnées au D de l'article 52-0 et au l de l'article 56, réalisées par des associations agréées et dont la gestion est désintéressée au sens du d du 1° du présent 6, au profit des personnes physiques mentionnées à l'article 1 de l'Ordonnance Souveraine n° 7.121 du 24 septembre 2018 relative à la réglementation des activités de services à la personne ;
+
   - 2° Les ventes portant sur les articles fabriqués par des groupements d'aveugles ou de travailleurs handicapés légalement agréés, ainsi que les réparations effectuées par ces groupements. Ils peuvent toutefois, sur leur demande, renoncer à l'exonération dans les conditions et selon les modalités prévues aux articles A-38 à A-40 de l'annexe au code.

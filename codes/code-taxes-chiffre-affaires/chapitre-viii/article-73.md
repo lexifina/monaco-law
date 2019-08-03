@@ -22,6 +22,6 @@ III. - Dans l'état récapitulatif relatif aux prestations de services doivent f
 
 - 3° Pour chaque preneur, le montant total des prestations de services effectuées par l'assujetti. Ces montants sont déclarés au titre du mois au cours duquel la taxe est devenue exigible dans l'État membre autre que la France ;
 
-4° Le montant des régularisations effectuées en application du 1 de l'article 44. Ces montants sont déclarés au titre du mois au cours duquel la régularisation est notifiée au preneur.
+- 4° Le montant des régularisations effectuées en application du 1 de l'article 44. Ces montants sont déclarés au titre du mois au cours duquel la régularisation est notifiée au preneur.
 
 IV. - L'état récapitulatif mentionné au III est souscrit selon des modalités fixées par ordonnance souveraine.

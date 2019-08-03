@@ -32,11 +32,9 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
 
-- c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
-
 II. - 1. La sortie du bien de l'un des régimes mentionnés au I met fin à la suspension du paiement de la taxe sur la valeur ajoutée.
 
-Le retrait de l'autorisation mentionnée au 2° du I met également fin à la suspension du paiement de la taxe sur la valeur ajoutée.
+Le retrait de l'autorisation mentionnée au 2° du I met également fin à la suspension du paiement de la taxe sur la valeur ajoutée. La déduction de cette taxe est effectuée dans les mêmes conditions que celle due à la sortie du régime mentionnée au premier alinéa.
 
 2. a) Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement sous le régime, la taxe doit être acquittée, selon le cas, par l'une des personnes mentionnées ci-après :
 

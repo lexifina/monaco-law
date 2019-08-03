@@ -28,13 +28,13 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
   - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
 
-- B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, des déchets et d'énergie de récupération ;
+- B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, de l'énergie solaire thermique, des déchets et d'énergie de récupération ;
 
 - La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site.
 
 - C. - La fourniture de logement et de nourriture dans les maisons de retraite, les établissements accueillant des personnes handicapées et les logements-foyers. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne.
 
-- D. - Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes, qui sont dans l'incapacité de les accomplir, fournies par des entreprises agréées.
+- D. - Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes, qui sont dans l'incapacité de les accomplir, fournies par des personnes morales ou physiques agréées.
 
 - E. - La fourniture de repas par les prestataires dans les établissements publics ou privés d'enseignement du premier et du second degrés.
 
@@ -57,3 +57,5 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 - K. - (K abrogé).
 
 - L. - Les droits d'entrée pour la visite des parcs zoologiques.
+
+- M. - Les prestations de collecte séparée, de collecte en déchetterie, de tri et de valorisation matière des déchets des ménages et des autres déchets qui, eu égard à leurs caractéristiques et aux quantités produites, peuvent être collectés et traités sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations.
