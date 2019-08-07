@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 91-368 du 2 juillet 1991 fixant le régime des substances et préparations vénéneuses
 
-Version en vigueur au 17 mai 1997.
+Version en vigueur au 7 août 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/07-02-91-368@1997.05.17/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/07-02-91-368@2019.08.07/
 
 | | |
 | --- | --- |

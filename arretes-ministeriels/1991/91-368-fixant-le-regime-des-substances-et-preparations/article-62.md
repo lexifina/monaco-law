@@ -1,11 +1,9 @@
 # Article 62
 
-Il est interdit de prescrire et d'exécuter des ordonnances comportant des substances en nature classées comme stupéfiants.
+Il est interdit de prescrire et de délivrer des substances classées comme stupéfiants lorsqu'elles ne sont pas contenues dans une spécialité pharmaceutique ou une préparation.
 
-Les ordonnances comportant des prescriptions de médicaments classés comme stupéfiants ou renfermant une ou plusieurs substances classées comme stupéfiants sont rédigées après examen du malade sur des feuilles extraites d'un carnet à souches d'un modèle déterminé par arrêté ministériel. La charge de l'impression et de la répartition de ces carnets incombe à l'Administration.
+La prescription, ainsi que toute commande à usage professionnel, de médicaments ou produits destinés à la médecine humaine ou de médicaments destinés à la médecine vétérinaire, classés comme stupéfiants ou soumis à la réglementation des stupéfiants, est rédigée sur une ordonnance répondant à des spécifications techniques fixées en annexe. Cette annexe détermine également les règles minimales régissant l'organisation de la fabrication de l'ordonnance.
 
-Sans préjudice des dispositions de l'article 44, l'auteur de l'ordonnance doit indiquer en toutes lettres la quantité qu'il prescrit : nombre d'unités thérapeutiques s'il s'agit de spécialités, doses ou concentrations de substances et nombre d'unités ou volume s'il s'agit de préparations magistrales.
+Sans préjudice des dispositions de l'article 44, l'auteur d'une ordonnance, comportant une prescription de médicaments classés comme stupéfiants ou soumis à la réglementation des stupéfiants, indique en toutes lettres le nombre d'unités thérapeutiques par prise, le nombre de prises et le dosage s'il s'agit de spécialités, les doses ou les concentrations de substances et le nombre d'unités ou le volume s'il s'agit de préparations.
 
-Les souches des carnets sont conservées pendant trois ans par les praticiens pour être présentées à toute réquisition des autorités compétentes.
-
-Les praticiens prennent toutes précautions afin d'éviter les pertes ou les vols de leurs carnets. En cas de perte ou de vol, déclaration en est faite sans délai aux autorités de police et à l'inspection de la pharmacie.
+En cas de perte ou de vol de leurs ordonnances, les prescripteurs en font la déclaration sans délai aux autorités de police.
