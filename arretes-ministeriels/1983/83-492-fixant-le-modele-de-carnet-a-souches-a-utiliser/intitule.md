@@ -1,1 +1,0 @@
-Arrêté ministériel n° 83-492 du 3 octobre 1983 fixant le modèle de carnet à souches à utiliser par les médecins pour la prescription de médicaments contenant des substances, plantes ou produits stupéfiants
