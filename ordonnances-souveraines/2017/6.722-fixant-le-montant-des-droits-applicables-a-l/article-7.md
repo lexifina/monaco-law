@@ -22,6 +22,6 @@ Le montant des redevances est fixé comme suit :
 
   - La réduction est limitée, par année calendaire, à cinq requêtes recevables pour une même personne physique et à dix pour une même entité mentionnée à la lettre c) .
 
-  - Lorsque la demande de brevet nationale comporte plusieurs demandeurs, tous doivent appartenir à l'une des catégories précédentes, pour bénéficier de la réduction.
+- Lorsque la demande de brevet nationale comporte plusieurs demandeurs, tous doivent appartenir à l'une des catégories précédentes, pour bénéficier de la réduction.
 
 - 3) Transmission d'une demande de brevet européen : 60 euros
