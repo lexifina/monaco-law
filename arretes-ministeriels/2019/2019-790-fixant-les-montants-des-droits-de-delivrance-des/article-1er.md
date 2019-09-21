@@ -1,0 +1,3 @@
+# Article 1er
+
+Lorsque l'autorisation prévue à l'article 45 de l'Ordonnance Souveraine n° 1.720 du 4 juillet 2008, modifiée, susvisée, est accordée pour une durée d'une année civile, le tarif de délivrance par pétitionnaire des deux premières vignettes donne lieu au paiement, par son titulaire, d'un droit fixé à 1.200 euros par vignette. À compter de la troisième vignette et les suivantes, le tarif de délivrance par pétitionnaire donne lieu au paiement, par son titulaire, d'un droit fixé à 900 euros par vignette.
