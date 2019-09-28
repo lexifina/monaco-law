@@ -1,6 +1,8 @@
 # Article 37
 
-Les expéditions de la décision de la chambre de discipline sont datées et signées par son président. Une expédition de la décision est notifiée dans le délai de quinze jours, par lettre recommandée avec demande d'avis de réception postal :
+Les expéditions de la décision de la chambre de discipline sont datées et signées par son président.
+
+Une expédition de la décision est notifiée dans le délai de quinze jours, par lettre recommandée avec demande d'avis de réception postal :
 
 - aux parties ;
 

@@ -8,4 +8,6 @@ La saisine de cette commission est adressée par l'intéressé au Ministre d'Ét
 
 Le Ministre d'État transmet la saisine au président du Conseil d'État pour désignation du président de la commission. Cette transmission est accompagnée de la désignation des deux membres de la commission mentionnés au deuxième alinéa.
 
-La commission se prononce dans le délai de un mois à compter de la réception du recours par le Ministre d'État. L'absence de décision à l'expiration de ce délai vaut décision implicite de rejet. La décision de la commission est notifiée sans délai au Ministre d'État.
+La commission se prononce dans le délai de un mois à compter de la réception du recours par le Ministre d'État. L'absence de décision à l'expiration de ce délai vaut décision implicite de rejet.
+
+La décision de la commission est notifiée sans délai au Ministre d'État.
