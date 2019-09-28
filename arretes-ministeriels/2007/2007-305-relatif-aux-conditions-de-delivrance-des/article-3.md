@@ -1,6 +1,6 @@
 # Article 3
 
-Sans préjudice des dispositions applicables aux médicaments classés comme stupéfiants ou relevant des listes I et II des substances vénéneuses, une prescription libellée en dénomination commune en application de l'article 39-1 de la loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie, doit au moins comporter :
+Sans préjudice des dispositions applicables aux médicaments classés comme stupéfiants ou relevant des listes I et II des substances vénéneuses, une prescription libellée en dénomination commune doit au moins comporter :
 
 - 1°) le principe actif du médicament désigné par sa dénomination commune ;
 
