@@ -122,4 +122,16 @@ Chacune de ces combinaisons est payée neuf fois la mise.
 
 Après la distribution des cartes (deux pour chaque joueur et une pour la banque), le croupier procède au ramassage des mises perdantes sur « 21+3 » puis au paiement des mises gagnantes sur cette même chance.
 
-Ensuite, la partie se poursuit selon les règles en vigueur au black-jack
+Ensuite, la partie se poursuit selon les règles en vigueur au black-jack.
+
+8°) - Le jeu du « Split Aces Jackpot progressif » :
+
+Le jeu du « Split Aces Jackpot progressif » permet au joueur d'engager, avant la distribution des cartes, un pari optionnel indépendant du résultat de la main à laquelle il est associé, matérialisé par le dépôt par le joueur d'une mise supplémentaire, d'un montant prédéterminé, pour chaque case où il en a préalablement engagé une pour le jeu du Black-Jack.
+
+Le dispositif qui fonctionne connecté à un terminal informatique peut être rattaché à une seule table ou à plusieurs pouvant être exploitées sur des sites différents.
+
+Chaque table est dotée de capteurs, disposés devant chacune des cases sur lesquels seront déposées les mises, et d'un afficheur récapitulant les progressifs en cours à ladite table et leur montant.
+
+Les combinaisons gagnantes, les gains afférents à chacune d'entre elles, le montant des mises et les pourcentages des enjeux affectés pour celles « en progressif » sont fixés par l'exploitant.
+
+La partie se poursuit ensuite selon les règles du Black-Jack.

@@ -147,3 +147,11 @@ Si la main « naturelle » fait « égalité », la mise « Dragon Bonus » est 
 Si la main du joueur perd, la mise « Dragon Bonus » est perdue.
 
 Après la détermination de la chance gagnante, le croupier ramasse les mises perdantes et paie les mises gagnantes avant de procéder aux mêmes opérations sur les paris du « Dragon Bonus ».
+
+13.10 - Le pari « Paire Baccara » :
+
+Le pari « Paire Baccara » est un pari facultatif, indépendant du résultat final, associé au jeu du Punto Banco qui offre aux joueurs la possibilité d'engager, avant la distribution des cartes, une mise soit sur la case « Paire-Ponte », soit sur la case « Paire-Banque » ou « à cheval ».
+
+Le pari est gagnant si les 2 premières cartes distribuées sur la chance choisie constituent, quelle qu'en soit la couleur, une paire. Le joueur est alors payé 11 fois la mise avec, pour les mises « à cheval », la prise en compte de la moitié de la mise.
+
+La partie se poursuit ensuite selon les règles en vigueur au Punto Banco.
