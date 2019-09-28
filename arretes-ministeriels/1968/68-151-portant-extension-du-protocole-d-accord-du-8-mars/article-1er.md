@@ -20,6 +20,4 @@ Les dispositions du protocole d'accord du 8 mars 1968, annexé au présent arrê
 
 - Musée national ;
 
-- Centre Scientifique ;
-
-- Office d'Assistance Sociale.
+- Centre Scientifique.
