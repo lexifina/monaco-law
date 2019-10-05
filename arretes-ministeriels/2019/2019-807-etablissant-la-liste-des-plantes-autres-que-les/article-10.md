@@ -1,0 +1,7 @@
+# Article 10
+
+Les préparations issues des parties de plantes figurant sur la liste de l'annexe I ne peuvent être employées, seules ou en mélange, que si elles conduisent à la fabrication de compléments alimentaires sûrs, non préjudiciables à la santé des consommateurs, comme cela est établi par des données scientifiques généralement acceptées.
+
+L'utilisation de préparations issues des parties de plantes figurant sur la liste de l'annexe I dans la fabrication d'un complément alimentaire ne doit pas conduire à un dépassement des quantités maximales en nutriments ou en substances à but nutritionnel ou physiologique fixées par les arrêtés ministériels prévus à l'article 7 et au deuxième tiret de l'article 8 de l'Ordonnance Souveraine n° 7.690 du 19 septembre 2019, susvisée.
+
+L'utilisation de préparations issues des parties de plantes figurant sur la liste de l'annexe I dans la fabrication d'un complément alimentaire ne doit pas conduire à ce que celui-ci constitue un médicament par fonction tel que défini par la loi n° 1.254 du 12 juillet 2002, susvisée, notamment en exerçant une activité pharmacologique. À ce titre, ne peuvent notamment pas entrer, dans la fabrication des compléments alimentaires, les préparations de plantes pour lesquelles un usage médical bien établi a été identifié par le comité des médicaments à base de plantes de l'Agence européenne des médicaments, dans les conditions de cet usage.
