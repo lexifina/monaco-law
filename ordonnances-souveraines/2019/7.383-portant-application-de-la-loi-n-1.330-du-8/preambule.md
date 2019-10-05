@@ -14,7 +14,7 @@ Vu Notre Ordonnance n° 6.696 du 7 décembre 2017 relative à la qualité et à 
 
 Vu l'arrêté ministériel n° 2017-102 du 1er mars 2017 relatif aux règles sanitaires applicables aux activités de commerce de détail, d'entreposage et de transport des produits et denrées alimentaires ;
 
-Sont fixées par arrêté ministériel les règles relatives :
+Modifié par l'ordonnance n° 7.690 du 19 septembre 2019. - Sont fixées par arrêté ministériel les règles relatives :
 
 - aux additifs alimentaires ;
 
@@ -27,6 +27,8 @@ Sont fixées par arrêté ministériel les règles relatives :
 - aux limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale ;
 
 - à la fixation de teneurs maximales pour certains contaminants dans les denrées alimentaires ;
+
+- aux allégations nutritionnelles et de santé portant sur les denrées alimentaires ;
 
 - à la fixation des modes de prélèvement d'échantillons et des méthodes d'analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires.
 
