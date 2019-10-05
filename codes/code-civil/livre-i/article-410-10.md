@@ -1,6 +1,6 @@
 # Article 410-10°
 
-Lorsque, pour l'une des causes énoncées à l'article 410-4°, un majeur doit être représenté de manière continue dans les actes de la vie civile, la tutelle est ouverte par décision du tribunal de première instance, à la requête du majeur, de son conjoint, de ses ascendants, de ses descendants, de ses frères ou sœurs, du curateur ainsi que du ministère public.
+Lorsque, pour l'une des causes énoncées à l'article 410-4, un majeur doit être représenté de manière continue dans les actes de la vie civile, la tutelle peut être ouverte par décision du tribunal de première instance, à la requête du majeur, de son conjoint, de ses ascendants, de ses descendants, de ses frères ou sœurs, du curateur ainsi que du ministère public.
 
 Le tribunal peut aussi se saisir d'office.
 

@@ -1,11 +1,11 @@
 # Code civil
 
-Version en vigueur au 29 juin 2019.
+Version en vigueur au 5 octobre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-civil@2019.06.29/
+Source : Legimonaco, https://legimonaco.mc/code/code-civil@2019.10.05/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code civil |
-| Dernière modification | 29 juin 2019 |
+| Dernière modification | 5 octobre 2019 |

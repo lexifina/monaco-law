@@ -1,6 +1,6 @@
 # Article 337
 
-Le survivant des père et mère peut seul choisir un tuteur si, au jour de son décès, il exerce encore l'administration légale ou la tutelle.
+Le survivant des père et mère peut seul choisir un ou plusieurs tuteurs si, au jour de son décès, il exerce encore l'administration légale ou la tutelle.
 
 Cette élection ne peut être faite que par testament ou déclaration devant notaire.
 
