@@ -2,11 +2,9 @@
 
 5.1. Inscription et obligation
 
-Les salariés concernés doivent être inscrits par leurs employeurs à la première session de certification ouverte à l'inscription suivant leur embauche ou leur mutation sur un poste visé par le présent règlement.
+Les Personnes Concernées doivent être inscrites par leur entreprise à la première session de certification ouverte à l'inscription suivant leur prise de fonction.
 
-Si pour des raisons de service ou d'organisation, il n'est pas possible de procéder à la formation de tous les salariés concernés dans un même établissement, la « Commission » saisie par l'employeur peut accorder un report d'inscription.
-
-Les sessions de formation peuvent être rendues obligatoires par l'employeur.
+Si pour des raisons de service ou d'organisation, il n'est pas possible de procéder à la formation de toutes les Personnes Concernées dans une même entreprise, la « Commission » saisie par cette dernière peut accorder un report d'inscription. Les sessions de formation peuvent être rendues obligatoires par l'entreprise.
 
 5.2. Certification
 
@@ -14,22 +12,22 @@ La forme de l'examen final est définie par l'AMAF en collaboration avec les par
 
 Le pourcentage de bonnes réponses requis aux questions posées lors de l'examen est fixé par l'AMAF en début d'année.
 
-Un jury est constitué par l'AMAF pour étudier, au cas par cas, les résultats des professionnels et proclamer leur réussite à l'examen.
+Un jury est constitué par l'AMAF pour étudier, au cas par cas, les résultats des personnes et proclamer leur réussite à l'examen (le « Jury »).
 
-Ce jury présidé par le Président de la « Commission », est composé des membres de la « Commission » et d'un représentant de chaque organisme de formation intervenu dans les sessions de préparation. Ses décisions sont prises à la majorité des présents. Elles ne sont pas motivées et sont insusceptibles de recours.
+Le Jury, présidé par le Président de la « Commission », est composé des membres de la « Commission » et d'un représentant de chaque organisme de formation intervenu dans les sessions de préparation.
 
-Le Jury délibère si au moins la moitié de ses membres sont présents, parmi lesquels le Président.
+Le Jury délibère si au moins la moitié de ses membres est présente, dont le Président, ce dernier ayant une voix prépondérante en cas d'égalité des voix. Ses décisions sont prises à la majorité des membres présents. Elles ne sont pas motivées et sont insusceptibles de recours.
 
-Les salariés déclarés reçus au terme des épreuves se voient délivrer un diplôme, visé conjointement par la CCAF et par l'AMAF.
+Les personnes déclarées reçues au terme des épreuves se voient délivrer un diplôme, visé conjointement par la CCAF et par l'AMAF.
 
-Les personnels relevant de ce dispositif doivent impérativement avoir validé leur certification professionnelle dans un délai maximal de 12 mois suivant leur première inscription à la formation.
+Les Personnes Concernées doivent impérativement avoir obtenu leur Certification Professionnelle dans un délai maximal de 12 mois suivant leur première inscription à la formation.
 
-La durée de validité du diplôme est indéterminée, sauf interruption pendant deux années de l'exercice en Principauté d'une des activités visées à l'article 1.
+La durée de validité du diplôme est indéterminée, sauf interruption pendant deux années de l'exercice en Principauté d'une des fonctions visées à l'article 1.
 
-5.3. Conséquences sur le contrat de travail
+5.3. Conséquences de la non-obtention de la Certification Professionnelle
 
-Le contrat de travail de chaque collaborateur accédant ou occupant un poste visé à l'article premier comporte une clause spécifique stipulant les conditions d'exécution de son contrat de travail et les conséquences en cas d'échec à l'examen, suivant les cas définis ci-dessous.
+En ce qui concerne les salariés, il est de la responsabilité des sociétés et établissements agréés, de s'assurer que le contrat de travail de chaque personne concernée au titre de l'article 1er, comporte une clause spécifique stipulant les conditions d'exécution de son contrat de travail, et les conséquences de la non-obtention de la Certification Professionnelle.
 
-L'échec à deux sessions entraîne la fermeture définitive à l'accès du salarié à un poste requérant l'obtention de la certification professionnelle visée par le présent règlement.
+Une des conséquences peut être la rupture du contrat de travail pour insuffisance professionnelle.
 
-En référence à l'article 32 de la convention collective nationale du personnel des banques et à la clause contractuelle désormais requise dans le contrat de travail du salarié, l'employeur peut envisager la rupture du contrat de travail, le cas échéant, pour insuffisance professionnelle.
+L'échec à deux sessions empêche la personne concernée d'exercer une fonction ou une responsabilité requérant l'obtention de la Certification Professionnelle visée par le présent règlement.

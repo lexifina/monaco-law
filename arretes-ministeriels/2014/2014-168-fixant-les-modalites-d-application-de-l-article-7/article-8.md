@@ -1,3 +1,3 @@
 # Article 8
 
-Ledit règlement sera publié au Journal de Monaco .
+Le présent règlement est publié au Journal de Monaco .

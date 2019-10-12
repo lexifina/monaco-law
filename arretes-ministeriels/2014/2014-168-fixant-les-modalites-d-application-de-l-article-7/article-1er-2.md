@@ -1,18 +1,16 @@
 # Article 1er (2)
 
-Les entreprises concernées par cette certification sont les établissements de la Place relevant des activités financières et soumis à ce titre à la loi n° 1.338 du 7 septembre 2007 ;
+Les entreprises concernées par la Certification Professionnelle sont les sociétés et établissements agréés de la Principauté exerçant des activités financières soumises à la loi n° 1.338 du 7 septembre 2007 telle qu'amendée.
 
-Sont également concernés tous leurs salariés affectés aux fonctions suivantes :
+Les personnes concernées sont celles, salariées ou non, qui assurent les fonctions suivantes au sein des sociétés et établissements agréés susvisés, ainsi que leur responsable direct (les « Personnes Concernées ») :
 
-- Les gérants,
+ Les gérants
 
-- Les vendeurs,
+ Les vendeurs
 
-- Les analystes financiers,
+ Les analystes financiers
 
-- Les opérateurs de salles de marchés,
-
-- Ainsi que leurs supérieurs hiérarchiques directs.
+ Les opérateurs de salles de marchés.
 
 DÉFINITIONS :
 
@@ -22,8 +20,8 @@ Les vendeurs : Toute personne physique chargée d'informer ou de conseiller les 
 
 Les analystes financiers : Toute personne physique ayant pour mission de produire des recommandations d'investissement constituant une analyse financière ou à caractère promotionnel.
 
-Les opérateurs de salles de marché : Toute personne physique habilitée à engager la société ou l'établissement agréé dans une transaction pour compte propre ou pour compte de tiers portant sur un instrument financier.
+Les opérateurs de salles de marchés : Toute personne physique habilitée à engager la société ou l'établissement agréé dans une transaction pour compte propre ou pour compte de tiers portant sur un instrument financier.
 
-La dénomination exacte des catégories d'emplois visées par la certification est appréciée par les entreprises concernées, en fonction des tâches attribuées à chaque poste.
+Il est de la responsabilité des sociétés et établissements agréés d'apprécier de quelle catégorie d'emploi visée par la Certification Professionnelle relèvent les personnes en fonction des tâches attribuées et exécutées par chacune d'elles.
 
-En cas de doute sur la soumission ou la non soumission à la certification professionnelle, d'un collaborateur occupant un emploi qui apparaît concerné par la réglementation susvisée, l'employeur peut demander l'avis consultatif de l'AMAF. L'employeur reste, quel que soit l'avis de l'AMAF, seul responsable du respect de ses obligations.
+En cas de doute sur la soumission ou la non-soumission à la Certification Professionnelle, d'une personne occupant une fonction qui apparaît concernée par la réglementation susvisée et/ou de son responsable direct, l'entreprise peut demander l'avis consultatif de l'AMAF. Toutefois, elle reste seule responsable du respect de ses obligations.
