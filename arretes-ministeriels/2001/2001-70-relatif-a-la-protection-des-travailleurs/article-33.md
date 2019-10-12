@@ -1,6 +1,6 @@
 # Article 33
 
-Tout travailleur intervenant sous pression doit être surveillé en permanence, jusqu'à son retour à la pression atmosphérique, par la personne compétente, présente au poste de contrôle défini à l'article 18 ; cette personne peut être, si la nature de l'intervention le permet, le chef d'opération visé à l'article 32.
+Toute intervention en milieu hyperbare doit être dirigée par un chef d'opération désigné par l'employeur, apte à la conduite des opérations en milieu hyperbare et doté d'un Certificat d'Aptitude à l'Hyperbarie équivalent ou supérieur à celui des plongeurs.
 
 Par ailleurs, au moins une personne titulaire du certificat d'aptitude à l'hyperbarie ou de l'autorisation temporaire mentionnée à l'article 5 doit être susceptible d'intervenir à tout moment en milieu hyperbare pour porter secours aux travailleurs sous pression.
 

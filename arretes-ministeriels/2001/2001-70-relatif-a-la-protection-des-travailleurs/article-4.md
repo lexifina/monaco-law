@@ -4,11 +4,11 @@ Le certificat d'aptitude à l'hyperbarie indique l'une des classes ou sous-class
 
 Ces classes, définies en fonction de la pression de l'intervention, sont les suivantes :
 
-- classe 1 : pour une pression relative maximale n'excédant pas 4 000 hectopascals (4 bars) ;
+- Classe 1 : pour une pression relative maximale n'excédant pas 3 000 hectopascals (3 bars) ;
 
-- classe 2 : pour une pression relative maximale n'excédant pas 6 000 hectopascals (6 bars) ;
+- Classe 2 : pour une pression relative maximale n'excédant pas 5 000 hectopascals (5 bars) ;
 
-- classe 3 : pour une pression relative maximale supérieure à 6 000 hectopascals (6 bars).
+- Classe 3 : pour une pression relative maximale supérieure à 5 000 hectopascals (5 bars).
 
 La classe 1 comprend deux sous-classes :
 
