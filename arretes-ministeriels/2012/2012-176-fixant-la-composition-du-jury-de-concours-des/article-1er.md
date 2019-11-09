@@ -10,7 +10,7 @@ La composition du jury de concours des praticiens hospitaliers du Centre hospita
 
 4° le Vice-Président ou, en cas d'empêchement, le Chef de Service, désigné par le Président de la Commission Médicale d'Établissement parmi ses membres ;
 
-5° le Directeur du Centre Hospitalier Princesse Grace ou le Directeur des Affaires Médicales de l'établissement ;
+5° le Directeur du Centre Hospitalier Princesse Grace ou son représentant ;
 
 6° le Chef de Service du Centre Hospitalier Princesse Grace, de la discipline concernée ou à défaut, ayant un lien avec la discipline ;
 
