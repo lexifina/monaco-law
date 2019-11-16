@@ -2,7 +2,7 @@
 
 Si la prévention est établie, le tribunal prononce la peine prévue par la loi et statue, par le même jugement, sur les dommages-intérêts.
 
-S'il s'agit d'un délit de droit commun et si la peine prononcée est d'au moins une année, le tribunal pourra, par décision spéciale et motivée, décerner mandat d'arrêt contre le prévenu.
+S'il s'agit d'un délit de droit commun et si la peine prononcée est d'au moins trois mois, le tribunal pourra, par décision spéciale et motivée, décerner mandat d'arrêt contre le prévenu.
 
 Ce mandat continuera à produire effet, nonobstant opposition ou appel.
 

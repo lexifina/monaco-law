@@ -26,12 +26,12 @@ Le juge d'instruction astreint l'inculpé à une ou plusieurs des obligations é
 
 - 11°) ne pas émettre de chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés ;
 
-- 12°) ne pas détenir ou porter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont il est détenteur ;
+- 12°) ne pas acquérir, détenir, porter ou transporter une arme et, le cas échéant, remettre au greffe contre récépissé les armes dont il est détenteur ;
 
 - 13°) justifier qu'il contribue aux charges familiales ou acquitte régulièrement les aliments qu'il a été condamné à payer par décision judiciaire ;
 
 - 14°) fournir un cautionnement dans les conditions fixées aux articles suivants ;
 
-- 15°) ne pas paraître ou résider en certains lieux ou ne pas entrer, par quelque moyen que ce soit, y compris les communications électroniques, en relation avec la victime des faits visés aux articles 230 à 234-1, 236, 236-1, 237 à 239, 243 à 245, 247 et 262 du Code pénal.
+- 15°) ne pas paraître ou résider en certains lieux ou ne pas entrer, par quelque moyen que ce soit, y compris les communications électroniques, en relation avec la victime de l'infraction.
 
 Ces mesures sont prescrites par ordonnance du juge d'instruction susceptible d'appel.

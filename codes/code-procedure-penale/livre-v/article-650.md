@@ -1,6 +1,6 @@
 # Article 650
 
-Toute condamnation, soit contradictoire, soit par contumace, soit par défaut non frappée d'opposition, prononcée pour un crime ou un délit par une juridiction de la Principauté donne lieu à la rédaction par le greffier d'un extrait dit « bulletin n° 1 » destiné à être classé au greffe général.
+Toute condamnation prononcée pour un crime ou un délit par une juridiction de la Principauté donne lieu à la rédaction par le greffier d'un extrait dit « bulletin n° 1 » destiné à être classé au casier judiciaire tenu par le secrétariat du Parquet Général.
 
 Ce bulletin mentionne les nom, prénoms, filiation, date et lieu de naissance, domicile, profession et nationalité du condamné.
 

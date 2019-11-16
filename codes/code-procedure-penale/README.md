@@ -1,11 +1,11 @@
 # Code de procédure pénale
 
-Version en vigueur au 7 juillet 2018.
+Version en vigueur au 16 novembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2018.07.07/
+Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2019.11.16/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de procédure pénale |
-| Dernière modification | 7 juillet 2018 |
+| Dernière modification | 16 novembre 2019 |
