@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre hospitalier Princesse Grace
 
-Version en vigueur au 1er janvier 2018.
+Version en vigueur au 16 novembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/12-29-13.839@2018.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1998/12-29-13.839@2019.11.16/
 
 | | |
 | --- | --- |
