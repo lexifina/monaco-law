@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-913 du 8 novembre 2019 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2018-2019
