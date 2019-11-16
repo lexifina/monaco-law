@@ -1,5 +1,3 @@
 # Article 7
 
-Le renouvellement triennal doit porter sur la moitié des membres salariés et sur la moitié des membres employeurs du tribunal. Le sort désigne les membres qui sont remplacés la première fois.
-
-Les membres sortants peuvent être à nouveau désignés.
+Sera puni de l'amende prévue au chiffre 1 de l'article 26 du Code pénal et d'un emprisonnement de six jours à trois mois, quiconque, par menace, don, promesse d'argent, ristourne sur les honoraires médicaux ou fournitures pharmaceutiques faits à des accidentés du travail, à des associations, à des chefs d'entreprise, à des assureurs ou à toute autre personne, aura attiré ou tenté d'attirer les victimes d'accidents du travail, ou des maladies professionnelles, dans une clinique ou cabinet médical, ou officine de pharmacie, et aura ainsi porté atteinte ou tenté de porter atteinte à la liberté de l'ouvrier de choisir son médecin ou son pharmacien.
