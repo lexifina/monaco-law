@@ -1,8 +1,8 @@
 # Loi n° 815 du 24 janvier 1967 concernant les épaves terrestres
 
-Version en vigueur au 28 janvier 1967.
+Version en vigueur au 16 novembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1967/01-24-815@1967.01.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1967/01-24-815@2019.11.16/
 
 | | |
 | --- | --- |
