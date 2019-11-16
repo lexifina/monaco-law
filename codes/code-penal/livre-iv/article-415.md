@@ -18,6 +18,4 @@ Seront punis de l'amende prévue au chiffre 1 de l'article 29 :
 
 - 8° ceux qui, imprudemment, auront jeté des immondices sur quelque personne ;
 
-- 9° ceux qui seront trouvés en état d'ivresse manifeste dans les débits de boissons ou dans les lieux publics ou accessibles au public ;
-
-- 10° ceux qui auront enfreint les règlements légalement faits par l'autorité administrative et ceux qui ne se seront pas conformés aux règlements et arrêtés de l'autorité municipale.
+- 9° ceux qui seront trouvés en état d'ivresse manifeste dans les débits de boissons ou dans les lieux publics ou accessibles au public.

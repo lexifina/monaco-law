@@ -1,3 +1,3 @@
 # Article 270
 
-Dans tous les cas sus-énoncés d'attentats aux mœurs, le séjour du territoire monégasque pourra être interdit aux coupables pendant deux ans au moins et dix ans au plus, à dater du jour où les condamnés auront subi leur peine.
+La personne physique coupable de l'une des infractions d'attentat aux mœurs ci-avant énoncées encourt également la peine complémentaire d'interdiction de séjour sur le territoire monégasque, dans les conditions fixées par les articles 40-4 à 40-8.

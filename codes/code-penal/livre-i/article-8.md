@@ -6,4 +6,8 @@ Les peines, en matière correctionnelle, sont :
 
 - 2° l'interdiction à temps de certains droits civiques, civils ou de famille ;
 
-- 3° l'amende.
+- 3° l'amende ;
+
+- 4° le jour-amende ;
+
+- 5° le travail d'intérêt général.

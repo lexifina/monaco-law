@@ -1,3 +1,3 @@
 # Article 168
 
-Dans les cas exprimés dans les deux articles précédents, le séjour du territoire monégasque pourra être interdit aux condamnés pendant deux ans au moins et dix ans au plus.
+La personne physique coupable de l'une des infractions exprimées dans les deux articles précédents encourt également la peine complémentaire d'interdiction de séjour sur le territoire monégasque, dans les conditions fixées par les articles 40-4 à 40-8.

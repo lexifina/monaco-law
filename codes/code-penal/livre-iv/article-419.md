@@ -8,7 +8,7 @@ Seront punis de l'amende prévue au chiffre 3 de l'article 29 :
 
 - 3° ceux qui, hors le cas de l'article 31, auront enlevé ou déchiré des affiches apposées par ordre de l'autorité ;
 
-- 4° les débitants qui, déjà condamnés par application de l'article 417, 8°, auront commis à nouveau cette contravention, sans préjudice de l'emprisonnement prévu par l'article 418 ;
+- 4° (4° abrogé) ;
 
 - 5° ceux qui mèneront ou laisseront pacager sur le terrain d'autrui des bestiaux, de quelque nature qu'ils soient ;
 

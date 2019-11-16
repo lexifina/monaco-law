@@ -1,9 +1,13 @@
 # Article 37-1
 
-Les coupables d'infractions prévues aux articles 230 à 234-1, 236, 236-1, 237 à 239, 243 à 245, 247 et 262 du Code pénal encourent les peines complémentaires suivantes :
+Les tribunaux pourront également prononcer, à l'encontre d'une personne physique reconnue coupable d'un crime ou d'un délit, les peines complémentaires suivantes :
 
-- 1°) l'interdiction, pour une durée déterminée, d'entrer, par quelque moyen que ce soit, y compris les communications électroniques, en relation avec les victimes ;
+- 1° l'interdiction, pour une durée déterminée, d'entrer, par quelque moyen que ce soit, y compris les communications électroniques, en relation avec les victimes ;
 
-- 2°) l'interdiction pour une durée déterminée, de paraître en certains lieux.
+- 2° l'interdiction de paraître, pour une durée déterminée, en certains lieux ;
 
-Le fait d'enfreindre sciemment l'une des interdictions mentionnée au précédent alinéa est puni d'une peine d'emprisonnement d'un à six mois et de l'amende prévue au chiffre 3 de l'article 26, ou de l'une de ces deux peines seulement.
+- 3° l'interdiction d'exercer, pour une durée déterminée, l'activité professionnelle ou sociale à l'occasion de laquelle l'infraction a été commise ;
+
+- 4° l'interdiction d'exercer, pour une durée déterminée, une profession ou une activité bénévole impliquant un contact habituel avec des mineurs lorsque l'infraction a été commise sur un mineur ou avec l'aide d'un mineur.
+
+Le fait d'enfreindre l'une des interdictions mentionnées au précédent alinéa est puni d'une peine d'emprisonnement d'un à six mois et de l'amende prévue au chiffre 3 de l'article 26, ou de l'une de ces deux peines seulement.
