@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 11 juillet 1909 sur la police municipale
 
-Version en vigueur au 23 octobre 1962.
+Version en vigueur au 16 novembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1909/07-11-L002603@1962.10.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1909/07-11-L002603@2019.11.16/
 
 | | |
 | --- | --- |
