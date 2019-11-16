@@ -1,6 +1,6 @@
 # Article 24-1
 
-Dans les vingt-quatre heures de sa saisine, le président du tribunal de première instance peut rendre une ordonnance de protection interdisant à l'auteur des faits mentionnés aux articles 230 à 234-1, 236, 236-1, 237 à 239, 243 à 245, 247 et 262 du Code pénal, d'entrer, par quelque moyen que ce soit, y compris les communications électroniques, en relation avec la victime desdits faits ou de paraître ou résider en certains lieux.
+Dans les vingt-quatre heures de sa saisine, le président du tribunal de première instance peut rendre une ordonnance de protection interdisant à l'auteur d'un crime ou d'un délit d'entrer, par quelque moyen que ce soit, y compris les communications électroniques, en relation avec la victime desdits faits ou de paraître ou de résider en certains lieux.
 
 Le président du tribunal de première instance ne peut être saisi que par la victime, par le procureur général lorsqu'il est saisi conformément à l'article 37-1 du Code de procédure pénale ou, avec l'accord de la victime, par une association de défense des victimes de violences.
 

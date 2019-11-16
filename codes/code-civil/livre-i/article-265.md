@@ -6,4 +6,4 @@ La transcription énonce la date, l'heure, le lieu de naissance et le sexe de l'
 
 Cette transcription tient lieu d'acte de naissance.
 
-L'acte de naissance qui aurait été antérieurement établi à Monaco est, à la diligence du ministère public, revêtu de la mention « adoption plénière » aucun extrait ou copie ne peut plus en être délivré sauf à l'adopté à partir de sa majorité.
+L'acte de naissance qui aurait été antérieurement établi à Monaco est, à la diligence du ministère public, revêtu de la mention « adoption plénière » ; aucun extrait ou copie ne peut plus en être délivré sauf à l'adopté à partir de sa majorité.
