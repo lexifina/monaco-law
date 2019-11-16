@@ -1,6 +1,6 @@
 # Article 1er
 
-Toute personne ayant exercé à Monaco une activité professionnelle salariée en conformité avec les dispositions légales et réglementaires a droit, dans les conditions définies par la présente loi, à une pension de retraite dite « proportionnelle » pour les périodes de travail postérieures au 1er août 1947 et, en outre, le cas échéant, à une pension de retraite dite « uniforme » pour celles accomplies antérieurement à cette date.
+Toute personne ayant exercé à Monaco une activité professionnelle salariée en conformité avec les dispositions légales et réglementaires a droit, dans les conditions définies par la présente loi, à une pension de retraite dite " proportionnelle " pour les périodes de travail postérieures au 1er août 1947 et, en outre, le cas échéant, à une pension de retraite dite " uniforme " pour celles accomplies antérieurement à cette date.
 
 Ce droit s'ouvre à l'âge de soixante-cinq ans.
 

@@ -1,8 +1,8 @@
 # Loi n° 455 du 27 juin 1947 sur les retraites des salariés
 
-Version en vigueur au 29 septembre 2012.
+Version en vigueur au 16 novembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1947/06-27-455@2012.09.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1947/06-27-455@2019.11.16/
 
 | | |
 | --- | --- |
