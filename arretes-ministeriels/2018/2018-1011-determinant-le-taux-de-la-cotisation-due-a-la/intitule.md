@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2018-1011 du 30 octobre 2018 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2018-2019
