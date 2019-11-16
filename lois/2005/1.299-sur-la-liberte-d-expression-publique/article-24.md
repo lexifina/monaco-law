@@ -1,6 +1,6 @@
 # Article 24
 
-La diffamation commise par les particuliers, par les mêmes moyens, est punie d'un emprisonnement d'un mois à un an et de l'amende prévue au chiffre 3 de l'article 26 du Code pénal, ou de l'une de ces deux peines seulement.
+La diffamation commise envers les particuliers, par les mêmes moyens, est punie d'un emprisonnement d'un mois à un an et de l'amende prévue au chiffre 3 de l'article 26 du Code pénal, ou de l'une de ces deux peines seulement.
 
 Toutefois, les peines seront l'emprisonnement de trois mois à deux ans et l'amende prévue au chiffre 4 de l'article 26 du Code pénal, ou l'une de ces deux peines seulement, si la diffamation est commise envers un candidat déclaré à une élection nationale ou communale.
 

@@ -1,8 +1,8 @@
 # Loi n° 1.299 du 15 juillet 2005 sur la liberté d'expression publique
 
-Version en vigueur au 22 décembre 2018.
+Version en vigueur au 16 novembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2005/07-15-1.299@2018.12.22/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2005/07-15-1.299@2019.11.16/
 
 | | |
 | --- | --- |
