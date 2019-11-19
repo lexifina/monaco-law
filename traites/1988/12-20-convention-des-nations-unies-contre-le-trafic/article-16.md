@@ -1,0 +1,5 @@
+# Article 16
+
+1. Chaque Partie exige que les expéditions licites de stupéfiants et de substances psychotropes destinés à l'exportation soient accompagnées des documents nécessaires. Outre que les expéditions doivent satisfaire aux prescriptions en matière de documentation énoncées à l'article 31 de la Convention de 1961, à l'article 31 de la Convention de 1961 telle que modifiée et à l'article 12 de la Convention de 1971, les documents commerciaux tels que factures, manifestes, documents douaniers, de transport et autres documents d'expédition doivent indiquer les noms des stupéfiants et des substances psychotropes faisant l'objet de l'exportation tels qu'ils figurent dans les tableaux pertinents de la Convention de 1961, de la Convention de 1961 telle que modifiée et de la Convention de 1971, la quantité exportée, ainsi que le nom et l'adresse de l'exportateur, de l'importateur, et lorsqu'il est connu ceux du destinataire.
+
+2. Chaque Partie exige que les expéditions de stupéfiants et de substances psychotropes destinées à l'exportation ne soient pas marquées incorrectement.
