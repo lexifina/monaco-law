@@ -1,1 +1,1 @@
-Vu Notre ordonnance n° 3136, du 22 décembre 1945, abrogeant l'ordonnance du 19 juin 1920, qui avait créé une chambre consultative du commerce, de l'industrie et des intérêts fonciers et professionnels étrangers, et instituant un conseil économique et social ;
+Vu Notre ordonnance n° 3.136, du 22 décembre 1945, abrogeant l'ordonnance du 19 juin 1920, qui avait créé une chambre consultative du commerce, de l'industrie et des intérêts fonciers et professionnels étrangers, et instituant un conseil économique et social ;
