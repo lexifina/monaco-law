@@ -14,7 +14,7 @@ Placée sous la présidence de S.E.M. le Ministre d'État, la Commission Spécia
 
 - un représentant du Conseil National ;
 
-- un représentant du Conseil Économique et Social ;
+- un représentant du Conseil Économique, Social et Environnemental ;
 
 - le Maire ou son représentant ;
 
