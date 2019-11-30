@@ -26,6 +26,6 @@ Le Comité stratégique de la sécurité numérique comprend, sous la présidenc
 
 - le Directeur de la Direction du Développement des Usages Numériques ou son représentant ;
 
-- le Président du Conseil Économique et Social ;
+- le Président du Conseil Économique, Social et Environnemental ;
 
 - le Conseiller pour le numérique auprès du Ministre d'État.
