@@ -12,7 +12,7 @@ Il comprend en outre :
 
 - deux Conseillers Nationaux ;
 
-- deux membres du Conseil Économique et Social ;
+- deux membres du Conseil Économique, Social et Environnemental ;
 
 - deux représentants de la Chambre de Développement Économique ;
 

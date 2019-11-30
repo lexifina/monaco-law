@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.273 du 25 mai 2011 portant création du Conseil stratégique pour l'attractivité
 
-Version en vigueur au 28 juin 2014.
+Version en vigueur au 30 novembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/05-25-3.273@2014.06.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/05-25-3.273@2019.11.30/
 
 | | |
 | --- | --- |
