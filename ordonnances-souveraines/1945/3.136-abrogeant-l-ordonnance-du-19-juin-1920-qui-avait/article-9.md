@@ -1,6 +1,6 @@
 # Article 9
 
-Le conseil économique et social tiendra séance tous les trois mois, en mars, juin, septembre et décembre, sur convocation de son président.
+Le Conseil Économique, Social et Environnemental tiendra séance tous les trois mois, en mars, juin, septembre et décembre, sur convocation de son président.
 
 La durée de ces sessions ne pourra excéder quinze jours.
 
