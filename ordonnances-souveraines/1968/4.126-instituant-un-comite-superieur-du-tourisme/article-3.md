@@ -8,7 +8,7 @@ Le comité supérieur du tourisme comprend sous la présidence du Ministre d'Ét
 
 - deux membres du Conseil communal,
 
-- le président du Conseil économique et social ou son représentant,
+- le président du Conseil Économique, Social et Environnemental ou son représentant,
 
 - l'administrateur délégué de la Société des bains de mer ou son représentant,
 
