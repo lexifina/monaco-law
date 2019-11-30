@@ -12,7 +12,7 @@ Le Centre Hospitalier Princesse Grace est administré par un Conseil d'Administr
 
 - Trois fonctionnaires désignés par le Ministre d'État ;
 
-- Le Président du Conseil économique et social ou son représentant désigné au sein du Conseil ;
+- Le Président du Conseil Économique, Social et Environnemental ou son représentant désigné au sein du Conseil ;
 
 - Deux représentants élus par les personnels titulaires selon les modalités fixées par arrêté ministériel ;
 
