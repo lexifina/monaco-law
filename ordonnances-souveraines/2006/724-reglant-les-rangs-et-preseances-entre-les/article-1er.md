@@ -86,7 +86,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 36 - le Commandant supérieur de la Force Publique
 
-37 - le Président du Conseil Économique et Social
+37 - le Président du Conseil Économique, Social et Environnemental
 
 38 - les Membres du Tribunal Suprême
 
