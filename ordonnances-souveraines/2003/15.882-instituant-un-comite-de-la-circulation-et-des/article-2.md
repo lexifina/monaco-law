@@ -6,7 +6,7 @@ Le Comité de la circulation et des déplacements urbains comprend, sous la pré
 
 - Le Maire ou son représentant ;
 
-- Le Président du Conseil économique et social ou son représentant nommément désigné ;
+- Le Président du Conseil Économique, Social et Environnemental ou son représentant nommément désigné ;
 
 - Le Directeur de la prospective et des études d'urbanisme ;
 
