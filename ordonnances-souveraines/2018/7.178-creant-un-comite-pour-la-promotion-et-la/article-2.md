@@ -10,4 +10,6 @@ Le comité mentionné à l'article premier a pour objet d'assurer la coordinatio
 
 Ce comité a notamment pour mission de coordonner la collecte des données pertinentes, leur analyse et la diffusion des résultats atteints.
 
-Ce comité a également la capacité de développer des relations avec ses homologues dans les autres États Parties et de communiquer directement avec eux. Il veille au suivi des recommandations formulées par les organes internationaux chargés d'assurer la mise en œuvre, par les Parties, des Conventions visées au premier alinéa.
+Ce comité a également la capacité de développer des relations avec ses homologues dans les autres États Parties et de communiquer directement avec eux.
+
+Il veille au suivi des recommandations formulées par les organes internationaux chargés d'assurer la mise en œuvre, par les Parties, des Conventions visées au premier alinéa.
