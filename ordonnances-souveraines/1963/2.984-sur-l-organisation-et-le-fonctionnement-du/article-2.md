@@ -21,3 +21,5 @@ La révocation est prononcée par ordonnance souveraine après que l'intéressé
 - le Premier Président de la Cour d'Appel ;
 
 - le Président du Tribunal de Première Instance.
+
+La démission est acceptée par ordonnance souveraine et elle prend effet à la date que celle-ci fixe.
