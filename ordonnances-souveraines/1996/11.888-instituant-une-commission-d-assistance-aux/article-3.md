@@ -6,7 +6,7 @@ La composition de cette commission d'assistance aux entreprises en difficulté e
 
 - un représentant du conseil national,
 
-- un représentant du conseil économique et social,
+- un représentant du Conseil Économique, Social et Environnemental
 
 - un représentant de la Fédération patronale monégasque,
 
