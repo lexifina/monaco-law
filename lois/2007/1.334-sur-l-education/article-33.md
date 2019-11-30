@@ -14,6 +14,6 @@ En contrepartie, l'établissement privé sous contrat s'engage :
 
 - à se prêter aux contrôles administratifs, pédagogiques et financiers de l'État.
 
-- Le contrat prévoit, en outre, la participation d'un représentant de l'État aux réunions de l'organe de l'établissement compétent pour délibérer sur le budget.
+Le contrat prévoit, en outre, la participation d'un représentant de l'État aux réunions de l'organe de l'établissement compétent pour délibérer sur le budget.
 
 Un contrôle des établissements privés sous contrat peut être diligenté par le directeur de l'Éducation nationale afin de s'assurer du niveau de l'enseignement et des conditions dans lesquelles il est dispensé. Les résultats de ce contrôle sont notifiés au chef d'établissement par le directeur de l'Éducation nationale avec l'indication du délai dans lequel il est, le cas échéant, tenu de fournir des explications ou d'améliorer la situation ainsi que des mesures auxquelles il s'expose dans le cas contraire et notamment la suppression totale ou partielle du versement de l'aide financière de l'État.

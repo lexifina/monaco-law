@@ -14,7 +14,7 @@ Il est institué un comité de l'Éducation nationale, présidé par le ministre
 
 - 6°) deux membres du conseil communal désignés par cette assemblée ;
 
-- 7°) deux membres du conseil économique et social désignés par cette assemblée ;
+- 7°) deux membres du Conseil Économique, Social et Environnemental désignés par cette assemblée ;
 
 - 8°) le directeur de l'Éducation nationale, de la jeunesse et des sports, ou son représentant ;
 
