@@ -4,7 +4,7 @@ La composition de cette commission est fixée ainsi qu'il suit :
 
 - un Conseiller d'État, président ;
 
-- un représentant du Conseil économique et social ;
+- un représentant du Conseil Économique, Social et Environnemental ;
 
 - un représentant de l'Association monégasque des banques ;
 
