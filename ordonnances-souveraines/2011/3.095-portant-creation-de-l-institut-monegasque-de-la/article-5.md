@@ -10,7 +10,7 @@ La composition du Conseil Scientifique de la Statistique et des Études Économi
 
 - - un représentant du Conseil Communal ;
 
-- - le Président du Conseil Économique et Social ou son représentant ;
+- - le Président du Conseil Économique, Social et Environnemental ou son représentant ;
 
 - - le Président du Monaco Economic Board ou son représentant ;
 
