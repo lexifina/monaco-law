@@ -12,6 +12,6 @@ La commission est composée de six membres proposés, en raison de leur compéte
 
 - 5°) un membre par le Conseil Communal ;
 
-- 6°) un membre par le Conseil Économique et Social.
+- 6°) un membre par le Conseil Économique, Social et Environnemental.
 
 Les propositions sont faites hors des autorités, conseils et institutions concernés et selon des modalités fixées par ordonnance souveraine
