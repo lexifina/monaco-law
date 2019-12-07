@@ -2,7 +2,7 @@
 
 A) Les recettes du fonds comprennent :
 
-- 1° l'excédent des recettes sur les dépenses, constaté après l'exécution du budget et la clôture des comptes prononcée dans les conditions fixées par l'article 6 de Notre ordonnance n° 3.980 du 29 février 1968, sur la commission supérieure des comptes ;
+- 1° l'excédent des recettes sur les dépenses, constaté après l'exécution du budget et la clôture des comptes prononcée dans les conditions fixées par l'article 6 de l'Ordonnance Souveraine n° 1.707 du 2 juillet 2008 abrogeant l'Ordonnance Souveraine n° 3.980 du 29 février 1968 sur la Commission Supérieure des Comptes, modifiée ;
 
 - 2° les produits et revenus de ses biens meubles et immeubles ;
 
