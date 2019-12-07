@@ -8,7 +8,7 @@ Lundi 7 septembre 2020
 
 Vacances de la Toussaint
 
-Du mercredi 21 octobre 2020 après la classe au lundi 2 novembre 2020 au matin
+Du mercredi 21 octobre 2020 après la classe au mardi 3 novembre 2020 au matin
 
 Fête Nationale Jeudi 19 novembre 2020
 
