@@ -10,7 +10,7 @@ L'autorisation de mise sur le marché est également suspendue ou retirée :
 
 - b) lorsque l'étiquetage ou la notice du médicament ou du produit ne sont pas conformes aux prescriptions du présent arrêté.
 
-Sauf en cas d'urgence, la suspension ou le retrait mentionnés ci-dessus ne peuvent intervenir qu'après communication des griefs au titulaire de l'autorisation de mise sur le marché et, dans le cas prévu au b) , que si celui-ci, mis en demeure de régulariser la situation du médicament ou du produit, n'a pas donné suite à cette mise en demeure dans le délai fixé dans cette dernière.
+- Sauf en cas d'urgence, la suspension ou le retrait mentionnés ci-dessus ne peuvent intervenir qu'après communication des griefs au titulaire de l'autorisation de mise sur le marché et, dans le cas prévu au b) , que si celui-ci, mis en demeure de régulariser la situation du médicament ou du produit, n'a pas donné suite à cette mise en demeure dans le délai fixé dans cette dernière.
 
 Toute décision de suspension ou de retrait d'une autorisation de mise sur le marché fait l'objet des mesures de publicité que le ministre d'État jugera nécessaire d'ordonner.
 
