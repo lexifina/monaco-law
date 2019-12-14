@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-1031 du 12 décembre 2019 relatif aux modalités du remboursement des cotisations patronales pour les dimanches travaillés prévu par l'article 3-9 de la loi n° 822 du 23 juin 1967 sur le repos hebdomadaire, modifiée
