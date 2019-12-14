@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-949 du 14 novembre 2019 modifiant l'arrêté ministériel n° 2011-73 du 16 février 2011 déterminant les actes professionnels pouvant être pratiqués par les auxiliaires médicaux, modifié
