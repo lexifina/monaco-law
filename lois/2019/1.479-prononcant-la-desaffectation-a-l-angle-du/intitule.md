@@ -1,0 +1,1 @@
+Loi n° 1.479 du 11 décembre 2019 prononçant la désaffectation, à l'angle du boulevard de Belgique et du boulevard du Jardin Exotique, d'une parcelle de terrain, en nature de jardin public, dépendant du domaine public de l'État
