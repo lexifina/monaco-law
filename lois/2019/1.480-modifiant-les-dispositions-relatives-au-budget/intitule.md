@@ -1,0 +1,1 @@
+Loi n° 1.480 du 11 décembre 2019 modifiant les dispositions relatives au budget communal de la loi n° 841 du 1er mars 1968 relative aux lois de budget et de la loi n° 959 du 24 juillet 1974 sur l'organisation communale
