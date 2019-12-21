@@ -6,9 +6,11 @@ Ce montant est arrêté au titre de la dotation budgétaire communale à inscrir
 
 Le budget communal comprend l'ensemble des recettes et des dépenses de la commune.
 
-La dotation forfaitaire de fonctionnement est déterminée en appliquant à la dotation de l'année en cours le coefficient dévolution prévisionnelle des dépenses des sections 3 et 4 du budget primitif de l'État pour l'année suivante. Si, à l'issue de l'année suivante, l'évolution constatée des dépenses exécutées dans le cadre du budget réalisé diffère du pourcentage primitivement estimé, la dotation forfaitaire est réajustée d'autant.
+La dotation forfaitaire de fonctionnement est déterminée en appliquant à la dotation de l'année en cours le coefficient d'évolution prévisionnelle des dépenses des sections 3 et 4 du budget primitif de l'État pour l'année suivante. Ce coefficient est communiqué par le Gouvernement à la Commune avant le premier jour ouvré du mois de septembre. Il transmet également, durant le mois de septembre, l'évolution constatée des dépenses des sections 3 et 4 exécutées dans le cadre du budget de l'année précédente. Si cette dernière diffère du pourcentage primitivement estimé, la dotation forfaitaire sera réajustée d'autant.
 
-Dans le cadre du calcul de la dotation forfaitaire, il est tenu compte de tout transfert de mission de l'État ou de la commune qui conduit à une augmentation ou à une minoration de la dotation. Les charges correspondant à l'exercice des missions transférées font l'objet d'une évaluation préalable au transfert.
+Dans le cadre du calcul de la dotation forfaitaire, il est tenu compte de tout transfert de mission. À ce titre, le Gouvernement et la Commune se communiquent les dépenses et les recettes de la mission préalablement à ce transfert, en les ventilant selon la nature desdites dépenses et recettes. Le Gouvernement et la Commune se concertent préalablement au transfert sur les conséquences budgétaires de ce transfert sur la dotation. Le montant de l'augmentation ou de la diminution de la dotation est arrêté par le Gouvernement en concertation avec la Commune.
+
+En cas de création d'une nouvelle compétence, le Gouvernement et la Commune se concertent sur les conséquences budgétaires, après estimation desdites conséquences sur plusieurs exercices. Le montant de l'augmentation de la dotation est arrêté par le Gouvernement en concertation avec la Commune.
 
 Dans le cas où la structure du budget communal est déséquilibrée par la survenance d'un événement extérieur exceptionnel, le Maire peut demander au Ministre d'État le réexamen du montant de la dotation budgétaire.
 
