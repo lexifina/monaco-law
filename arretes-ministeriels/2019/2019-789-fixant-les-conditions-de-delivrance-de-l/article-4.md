@@ -2,7 +2,7 @@
 
 Au terme de l'instruction de la demande, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique pour une durée d'une année civile.
 
-Toutefois, l'autorisation peut n'être accordée que pour la période du 1er mai au 31 octobre de l'année civile ou pour celle des Grands Prix historique, électrique et de Formule 1.
+Toutefois, l'autorisation peut n'être accordée que pour la période des Grands Prix historique, électrique et de Formule 1.
 
 L'autorisation est personnelle et incessible.
 
