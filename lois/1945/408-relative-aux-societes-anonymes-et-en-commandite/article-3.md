@@ -2,7 +2,7 @@
 
 Ne peuvent être chargés à titre de commissaire d'apprécier la valeur de l'apport ou la cause des avantages particuliers :
 
-- 1° Les parents ou alliés jusqu'au quatrième degré inclusivement ou le conjoint :
+- 1° Les parents ou alliés jusqu'au quatrième degré inclusivement ou le conjoint, le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation :
 
   - a) Des apporteurs ;
 
@@ -18,4 +18,4 @@ Ne peuvent être chargés à titre de commissaire d'apprécier la valeur de l'ap
 
   - c) Ou, lors des augmentations de capital, des administrateurs ou des gérants ou de la société elle-même ou de toute entreprise dont un associé en nom, ou un administrateur ou un gérant, serait investi des fonctions d'administrateur ou de gérant dans la société ;
 
-- 3° Le conjoint des personnes susvisées.
+- 3° Le conjoint et le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation des personnes susvisées.
