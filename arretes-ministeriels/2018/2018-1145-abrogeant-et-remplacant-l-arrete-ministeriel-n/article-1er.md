@@ -108,7 +108,7 @@
 
 - les Îles Féroé
 
-- les Îles Turques-et-Caïques
+- les Îles Turques et Caïques
 
 - l'Inde
 
@@ -141,3 +141,21 @@
 - la Suisse
 
 - l'Uruguay
+
+1.3 a. Pour l'application de la Norme commune de déclaration, la juridiction suivante est considérée comme soumise à déclaration à compter de 2020 :
+
+- Israël
+
+1.3 b. Les juridictions suivantes, qui étaient déclarables à compter de 2019, sont déclarées non-réciproques à compter de 2020 :
+
+- Aruba
+
+- Curaçao
+
+- Îles Turques et Caïques
+
+- le Liban
+
+- Montserrat
+
+- Nauru
