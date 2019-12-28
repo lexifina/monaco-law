@@ -1,6 +1,6 @@
 # Article 4
 
-Le « registre du personnel » et les « livres de paye »sont tenus par ordre de dates, sans blancs, lacunes, ratures, surcharges ni apostilles.
+Le « registre du personnel » et les « livres de paye » sont tenus par ordre de dates, sans blancs, lacunes, ratures, surcharges ni apostilles.
 
 Ils sont cotés, paraphés et visés par l'inspecteur du travail.
 

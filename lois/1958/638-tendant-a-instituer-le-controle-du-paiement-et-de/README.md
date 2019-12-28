@@ -1,8 +1,8 @@
 # Loi n° 638 du 11 janvier 1958 tendant à instituer le contrôle du paiement et de la déclaration des salaires
 
-Version en vigueur au 8 juillet 1978.
+Version en vigueur au 28 décembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1958/01-11-638@1978.07.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1958/01-11-638@2019.12.28/
 
 | | |
 | --- | --- |
