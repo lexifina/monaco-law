@@ -4,4 +4,6 @@ La zone de nommage géographique « .mc » au sein des domaines de premier nivea
 
 Le service de l'État en charge de l'attribution des noms de domaine dans la zone de nommage géographique « .mc » ainsi que les missions et les modalités de gestion propres à cette activité sont fixés par ordonnance souveraine.
 
+Le service de l'État visé au précédent alinéa recourt à une taxe relative à l'attribution ou au renouvellement du nom de domaine dont le montant est fixé par arrêté ministériel.
+
 Les règles concernant l'attribution, l'enregistrement, la gestion et la maintenance des noms de domaine dans la zone de nommage géographique « .mc » sont établies par arrêté ministériel.

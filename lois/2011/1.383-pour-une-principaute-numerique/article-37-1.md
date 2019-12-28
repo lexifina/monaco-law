@@ -1,4 +1,4 @@
-# Article 42
+# Article 37-1
 
 Lorsqu'un fournisseur de moyens de cryptologie, même à titre gratuit, ne respecte pas les obligations auxquelles il est assujetti en application de l'article 36, le Ministre d'État peut prononcer l'interdiction de mise en circulation du moyen de cryptologie concerné, l'intéressé entendu en ses explications ou dûment appelé à les fournir.
 

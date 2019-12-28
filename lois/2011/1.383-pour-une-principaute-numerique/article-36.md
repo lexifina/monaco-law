@@ -9,3 +9,5 @@ La fourniture, le transfert depuis ou vers un autre territoire que celui de la P
 - a) les conditions dans lesquelles sont souscrites ces déclarations, les conditions et les délais dans lesquels le service administratif peut demander communication des caractéristiques du moyen, ainsi que la nature de ces caractéristiques ;
 
 - b) les catégories de moyens dont les caractéristiques techniques ou les conditions d'utilisation sont telles que, au regard des intérêts de la sécurité intérieure ou extérieure de la Principauté, leur fourniture, leur transfert depuis un autre territoire que celui de la Principauté ou leur importation peuvent être dispensés de toute formalité préalable.
+
+L'importation en Principauté et l'exportation depuis la Principauté de biens ou services de cryptologie sont soumises à une déclaration ou à une autorisation préalable dans les conditions et selon les modalités fixées par ordonnance souveraine.

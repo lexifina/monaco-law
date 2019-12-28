@@ -1,0 +1,3 @@
+# Article 28-9
+
+L'acquisition, la détention, la fabrication, l'importation, l'exposition, l'offre, la location ou la vente de tout appareil ou dispositif matériels et logiciels, de nature à permettre l'interception, l'écoute, l'analyse, la retransmission, l'enregistrement ou le traitement de correspondances émises, transmises ou reçues sur des réseaux de communications électroniques, opérations pouvant constituer l'infraction prévue par les articles 343, 344, 389-1 à 389-5 du Code pénal, figurant sur une liste établie par arrêté ministériel est soumise à une autorisation délivrée par le Ministre d'État dans les conditions définies par ordonnance souveraine.
