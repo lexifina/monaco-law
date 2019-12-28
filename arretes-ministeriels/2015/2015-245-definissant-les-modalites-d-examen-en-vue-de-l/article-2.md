@@ -2,7 +2,7 @@
 
 Au sein des deux ensembles de catégories et sous-catégories suivants :
 
-- 1° groupe léger : A1, A2, A, B1, B,
+- 1° Groupe léger : AM Cyclomoteur, AM Quadricycle léger à moteur, A1, A2, A, B1, B,
 
 - 2° groupe lourd : BE, C1, C1E, C, CE, D1, D1E, D, DE,
 

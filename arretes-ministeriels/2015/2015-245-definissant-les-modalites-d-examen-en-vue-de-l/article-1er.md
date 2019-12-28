@@ -18,7 +18,9 @@ Tout véhicule utilisé pour une épreuve pratique en vue de l'obtention du perm
 
 1° Véhicules de la sous-catégorie AM :
 
-- - Une épreuve théorique sur le Code de la Route, sous forme d'un questionnaire à choix multiple audiovisuel comprenant vingt questions (trois erreurs maximum).
+a) Cyclomoteur
+
+- - Une épreuve théorique sur le Code de la route, sous forme d'un questionnaire à choix multiple audiovisuel comprenant vingt questions (trois erreurs maximum).
 
 - - Une épreuve pratique comprenant une partie hors circulation (destinée à apprécier, d'une part les connaissances du candidat quant à l'usage de sa machine et au comportement du conducteur de deux-roues, d'autre part sa maîtrise du véhicule sur circuit fermé), et une partie en circulation (en liaison radio avec l'inspecteur qui prend place dans un véhicule suiveur).
 
@@ -26,17 +28,23 @@ Tout véhicule utilisé pour une épreuve pratique en vue de l'obtention du perm
 
 - En tout état de cause, seuls peuvent subir l'épreuve pratique en circulation les candidats ayant obtenu un résultat favorable à l'épreuve hors circulation.
 
+b) Quadricycle léger à moteur
+
+- - Une épreuve théorique sur le Code de la route, sous forme d'un questionnaire à choix multiple audiovisuel comprenant vingt questions (trois erreurs maximum).
+
+- - Une épreuve pratique en circulation, comportant des manœuvres de différents types en liaison radio avec l'inspecteur qui prend place dans un véhicule suiveur.
+
 2° Véhicules des sous-catégories A1 et A2 et de la catégorie A :
 
 - - Une épreuve théorique sur le Code de la Route, sous forme d'un questionnaire à choix multiple audiovisuel comprenant quarante questions (cinq erreurs maximum).
 
-- - L'épreuve pratique est identique à celle de la sous-catégorie AM ; seul diffère le type de véhicule d'examen.
+- - L'épreuve pratique est identique à celle de la sous-catégorie AM Cyclomoteur ; seul diffère le type de véhicule d'examen.
 
 3° Véhicules de la sous-catégorie B1 :
 
 - - Une épreuve théorique sur le Code de la Route, sous forme d'un questionnaire à choix multiple audiovisuel comprenant quarante questions (cinq erreurs maximum).
 
-- - Une épreuve pratique, comportant des manœuvres de différents types.
+- - L'épreuve pratique est identique à celle de la sous-catégorie AM Quadricycle léger à moteur, seul diffère le type de véhicule d'examen.
 
 - Il est fait recours à la procédure du véhicule suiveur, avec liaison radio permanente entre le candidat et l'examinateur.
 
@@ -132,6 +140,8 @@ Tout véhicule utilisé pour une épreuve pratique en vue de l'obtention du perm
 
 Les candidats à un permis de conduire peuvent demander à subir l'épreuve pratique sur un véhicule muni d'un embrayage automatique ou d'un changement de vitesse automatique. En cas de succès à l'examen, les candidats reçoivent un permis de conduire comportant la mention restrictive valable seulement pour la conduite des véhicules munis d'un embrayage automatique ou d'un changement de vitesse automatique. Cette mention codifiée de cette restriction est portée sur le permis.
 
-Les candidats à un permis de conduire AM, A1, A2 et A peuvent demander à subir l'épreuve pratique sur un cyclomoteur à trois roues ou sur un tricycle à moteur. En cas de succès à l'examen, les candidats reçoivent un permis de conduire comportant une mention restrictive à la conduite des cyclomoteurs à trois roues ou, selon le cas, des tricycles à moteurs. Mention codifiée de cette restriction est portée sur le permis.
+Les candidats à un permis de conduire AM Cyclomoteur, A1, A2 et A peuvent demander à subir l'épreuve pratique sur un cyclomoteur à trois roues ou sur un tricycle à moteur. En cas de succès à l'examen, les candidats reçoivent un permis de conduire comportant une mention restrictive à la conduite des cyclomoteurs à trois roues ou, selon le cas, des tricycles à moteurs. Mention codifiée de cette restriction est portée sur le permis de conduire.
 
 Pour tenir compte de leur handicap physique, les candidats au permis de conduire des véhicules spécialement aménagés, subissent un examen au cours duquel l'examinateur vérifie que les aménagements du véhicule sont utilisés de manière efficace. Les candidats reçoivent un permis de conduire comportant les mentions restrictives valables seulement pour la conduite des véhicules aménagés.
+
+En cas de succès à l'examen pratique du permis de conduire de la catégorie AM Quadricycle léger à moteur, les candidats reçoivent un permis de conduire comportant une mention restrictive valable seulement pour la conduite des véhicules de type quadricycle léger à moteur. Mention codifiée de cette restriction est portée sur le permis de conduire
