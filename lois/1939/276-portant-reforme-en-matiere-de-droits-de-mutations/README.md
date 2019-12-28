@@ -1,8 +1,8 @@
 # Loi n° 276 du 2 octobre 1939 portant réforme en matière de droits de mutations par décès
 
-Version en vigueur au 20 juin 1961.
+Version en vigueur au 28 décembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1939/10-02-276@1961.06.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1939/10-02-276@2019.12.28/
 
 | | |
 | --- | --- |
