@@ -24,6 +24,8 @@ En outre :
 
 * 5° Le permis de sous-catégorie B1 permet la conduite des cyclomoteurs et des tricycles légers à moteurs.
 
+* 6° Le permis de conduire de la catégorie AM permet la conduite des cyclomoteurs et des véhicules de types quadricycles légers à moteur.
+
 Tout permis délivré pour les catégories C, ou D est automatiquement étendu à la catégorie BE.
 
 Tout permis délivré pour la catégorie CE est automatiquement étendu à la catégorie DE lorsque le titulaire est en possession du permis de catégorie D.

@@ -36,7 +36,7 @@ Au sein des catégories ci-dessus définies, un permis spécifique peut être d�
 
 Cyclomoteurs
 
-Quadricycles légers
+Quadricycles légers à moteur
 
 - Sous-catégorie A1 :
 
@@ -50,7 +50,7 @@ Motocyclettes avec ou sans side-car, d'une puissance n'excédant pas 35 kilowatt
 
 - Sous-catégorie B1 :
 
-Quadricycles à moteur
+Quadricycles lourds à moteur
 
 - Sous-catégorie C1 :
 
@@ -74,7 +74,7 @@ Le permis de conduire porte mention des conditions dans lesquelles le conducteur
 
 Toutes les catégories et sous-catégories de permis ci-dessus définies peuvent être délivrées aux personnes atteintes d'un handicap physique nécessitant l'aménagement du véhicule ; dans ce cas, l'épreuve pratique de contrôle des aptitudes et des comportements se passe sur un véhicule doté d'un tel aménagement. Mention est portée sur le document de ces conditions particulières de validité.
 
-Le permis de conduire de catégorie A ne permet la conduite des véhicules motorisés à deux ou trois roues utilisés pour le transport de personnes à titre onéreux, dits » motos à la demandee « que s'il est assorti d'un livret professionnel avec vérification médicale obligatoire de l'aptitude physique du titulaire du permis.
+Le permis de conduire de catégorie A ne permet la conduite des véhicules motorisés à deux ou trois roues utilisés pour le transport de personnes à titre onéreux, dits « motos à la demandee » que s'il est assorti d'un livret professionnel avec vérification médicale obligatoire de l'aptitude physique du titulaire du permis.
 
 Le permis de conduire valable pour les véhicules de la catégorie B ne permet la conduite des taxis, des véhicules de remise et des véhicules de service de ville, que s'il est assorti d'un livret professionnel avec vérification médicale obligatoire de l'aptitude physique du titulaire du permis.
 
