@@ -1,6 +1,6 @@
 # Article 802
 
-La donation faite à un mineur non émancipé ou à un interdit devra être acceptée par son tuteur, conformément aux articles 358 et 403, au titre De la minorité, de la tutelle et de l'émancipation.
+La donation faite à un mineur non émancipé ou à un interdit devra être acceptée par son tuteur, conformément aux articles 358 et 403, au titre De la minorité, de la tutelle et de l'émancipation .
 
 Le mineur émancipé pourra accepter avec l'assistance de son curateur.
 

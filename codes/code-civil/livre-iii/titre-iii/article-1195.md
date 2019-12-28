@@ -11,5 +11,3 @@ Cette seconde exception s'applique :
 - 3° Aux obligations contractées en cas d'accidents imprévus, où l'on ne pourrait pas avoir fait des actes par écrit ;
 
 - 4° Au cas où le créancier a perdu le titre qui lui servait de preuve littérale, par suite d'un cas fortuit, imprévu et résultant d'une force majeure.
-
-Une troisième exception s'applique lorsqu'une partie ou le dépositaire n'a pas conservé le titre original et présente une copie qui en est la reproduction, non seulement fidèle, mais aussi durable. Est réputée durable toute reproduction indélébile de l'original qui entraîne une modification irréversible du support. La preuve de la destruction de l'original est présumée en cas d'archivage.
