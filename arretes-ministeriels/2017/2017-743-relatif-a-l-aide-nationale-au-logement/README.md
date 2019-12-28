@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2017-743 du 11 octobre 2017 relatif à l'Aide Nationale au Logement
 
-Version en vigueur au 3 novembre 2018.
+Version en vigueur au 28 décembre 2019.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/10-11-2017-743@2018.11.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/10-11-2017-743@2019.12.28/
 
 | | |
 | --- | --- |
