@@ -1,6 +1,6 @@
 # Article 13-3
 
-Ne peuvent être choisis comme commissaires aux comptes d'une fondation, le conjoint, les parents ou alliés jusqu'au quatrième degré inclusivement du fondateur ou des administrateurs.
+Ne peuvent être choisis comme commissaires aux comptes d'une fondation, le conjoint, le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation, les parents ou alliés jusqu'au quatrième degré inclusivement du fondateur ou des administrateurs.
 
 Si l'une des causes d'incompatibilité visée à l'alinéa précédent survient au cours du mandat du commissaire, celui-ci doit immédiatement cesser d'exercer ses fonctions et en informer les administrateurs au plus tard dans les quinze jours qui suivent la survenance de la cause de l'incompatibilité.
 

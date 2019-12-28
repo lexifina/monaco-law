@@ -1,6 +1,6 @@
 # Article 9
 
-S'il est nécessaire, en vue d'obtenir la délivrance de l'autorisation, d'apporter des modifications aux dispositions constitutives ou statutaires de la fondation, ces modifications ne peuvent, du vivant du fondateur, être réalisées que par lui-même, dans la forme prévue à l'article 2ci-dessus : son refus emporte révocation de la fondation.
+S'il est nécessaire, en vue d'obtenir la délivrance de l'autorisation, d'apporter des modifications aux dispositions constitutives ou statutaires de la fondation, ces modifications ne peuvent, du vivant du fondateur, être réalisées que par lui-même, dans la forme prévue à l'article 2 ci-dessus : son refus emporte révocation de la fondation.
 
 Si le fondateur est décédé sans avoir désigné ni exécuteurs testamentaires, ni administrateurs, les modifications nécessaires peuvent être réalisées par la commission de surveillance prévue à l'article 13.
 
