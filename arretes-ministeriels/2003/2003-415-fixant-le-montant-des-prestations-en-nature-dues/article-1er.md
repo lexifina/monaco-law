@@ -90,6 +90,8 @@ MAU | Majoration d'Acte Unique | 0,45 euro(s)
 
 MCI | Majoration de Coordination Infirmière | 1,68 euro(s)
 
+MIE | Majoration pour jeune enfant | 3,15euro(s)
+
 * Autres auxiliaires |
 
 AMC [AMM] | Actes pratiqués par le kinésithérapeute | 0,72 euro(s)
