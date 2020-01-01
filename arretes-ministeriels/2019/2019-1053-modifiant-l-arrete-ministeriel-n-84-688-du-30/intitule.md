@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-1053 du 12 décembre 2019 modifiant l'arrêté ministériel n° 84-688 du 30 novembre 1984 relatif à la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux, modifié
