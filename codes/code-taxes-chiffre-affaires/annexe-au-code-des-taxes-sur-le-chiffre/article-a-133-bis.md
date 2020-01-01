@@ -38,6 +38,6 @@ II. - Les activités de services à la personne soumises au taux réduit de taxe
 
 - 11° Assistance administrative à domicile ;
 
-12° Accompagnement des enfants dans leurs déplacements en dehors de leur domicile (promenades, transport, actes de la vie courante).
+- 12° Accompagnement des enfants dans leurs déplacements en dehors de leur domicile (promenades, transport, actes de la vie courante).
 
 III. - Les activités mentionnées aux 4°, 5°, 6° du I et aux 7°, 8°, 9° et 12° du II du présent article n'ouvrent droit au bénéfice des taux réduits prévus au D de l'article 52-0 ou au l) de l'article 56 du code précité qu'à la condition que la prestation soit comprise dans une offre de services incluant un ensemble d'activités réalisées à domicile.
