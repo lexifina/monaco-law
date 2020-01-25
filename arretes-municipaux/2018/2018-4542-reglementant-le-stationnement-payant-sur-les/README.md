@@ -1,8 +1,8 @@
 # Arrêté municipal n° 2018-4542 du 9 novembre 2018 réglementant le stationnement payant sur les voies publiques
 
-Version en vigueur au 27 juillet 2019.
+Version en vigueur au 25 janvier 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2018/11-09-2018-4542@2019.07.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2018/11-09-2018-4542@2020.01.25/
 
 | | |
 | --- | --- |

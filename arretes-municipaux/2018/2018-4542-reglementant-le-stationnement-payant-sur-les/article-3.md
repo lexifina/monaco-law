@@ -44,6 +44,8 @@ Sur les voies ci-après énoncées se situent des emplacements payants :
 
 - Chemin de la Turbie,
 
+- Chemin des Œillets,
+
 - Passage de la Porte Rouge ;
 
 - Place des Moulins,
