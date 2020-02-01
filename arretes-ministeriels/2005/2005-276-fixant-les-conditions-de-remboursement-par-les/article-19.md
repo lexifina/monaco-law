@@ -64,7 +64,13 @@ Cette majoration concerne les actes de chirurgie générale, digestive, orthopé
 
 - Majoration du tarif pour acte de contrôle radiographique de segment de squelette immobilisé par contention rigide ; le code est D
 
+- Majoration du tarif pour acte de radiographie réalisé par un radiologue - le code est Z.
+
+Ce modificateur ne peut pas être tarifé avec le modificateur Y.
+
 - Majoration du tarif pour acte de radiographie réalisé par un radiologue, un pneumologue ou un rhumatologue - le code est Y.
+
+Ce modificateur ne peut pas être tarifié avec le modificateur Z
 
 - Majoration du tarif pour acte de radiographie réalisé au bloc opératoire, en unité de réanimation ou au lit du patient intransportable ; le code est B.
 
