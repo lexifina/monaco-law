@@ -1,6 +1,6 @@
 # Article 66
 
-Un fonds est dit de capital risque lorsque son actif est composé principalement de titres permettant d'investir directement ou indirectement dans des sociétés non cotées ou admises aux négociations sur l'un des marchés réglementés de valeurs de croissance de l'Organisation de coopération et développement économiques.
+Un fonds est dit de capital risque lorsque son actif est composé majoritairement de titres permettant d'investir directement ou indirectement dans des sociétés non cotées, dans des conditions définies par arrêté ministériel.
 
 Dans ce cadre, un fonds de capital risque doit respecter les règles suivantes :
 
