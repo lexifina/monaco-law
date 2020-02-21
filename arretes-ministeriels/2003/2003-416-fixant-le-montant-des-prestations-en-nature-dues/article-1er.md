@@ -338,20 +338,18 @@ Lorsque sa facturation est autorisée, l'honoraire de dispensation médicament s
 
 5.6. Tarifs de facturation et de remboursement des honoraires de dispensation
 
-La tarification des différents honoraires facturés par les pharmaciens d'officine ne peut faire l'objet de dépassements d'aucune sorte.
+La tarification des différents honoraires facturés par les pharmaciens d'officine ne peut faire l'objet de dépassements d'aucune sorte. Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance prévues au titre des services de garde.
 
-Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance prévues au titre des services de garde.
+- Honoraires de dispensation simple : 1,02 euros
 
-- Honoraires de dispensation simple : 1,02 euro(s)
+- Honoraires de dispensation simple grand conditionnement : 2,76 euros
 
-- Honoraires de dispensation simple grand conditionnement : 2,76 euro(s)
+- Honoraires de dispensation complexe : 0,31 euros
 
-- Honoraires de dispensation complexe : 0,51 euro(s)
+- Honoraires de dispensation spécialité remboursable : 0,51 euros
 
-- Honoraires de dispensation spécialité remboursable : 0,51 euro(s)
+- Honoraires de dispensation jeunes enfants et patients âgés : 1,58 euros
 
-- Honoraires de dispensation jeunes enfants et patients âgés : 0,51 euro(s)
+- Honoraires de dispensation médicament spécifique : 3,57 euros
 
-- Honoraires de dispensation médicament spécifique : 2,04 euro(s)
-
-Ces tarifs entrent en vigueur à compter du 1er janvier 2019.
+Ces tarifs entrent en vigueur à compter du 1er janvier 2020.
