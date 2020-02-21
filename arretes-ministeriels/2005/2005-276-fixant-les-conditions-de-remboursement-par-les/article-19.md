@@ -2,8 +2,6 @@
 
 Les modificateurs et leurs codes sont les suivants :
 
-- Réalisation d'une radiographie comparative ; le code est C
-
 - Urgence : pour une affection ou la suspicion d'une affection mettant en jeu la vie du patient ou l'intégrité de son organisme et entraînant la mobilisation rapide des ressources humaines et matérielles : réalisation d'un acte non prévu 8 heures auparavant, entre 20 heures et 8 heures, le dimanche ou un jour férié, ou réalisation d'un acte de 8 heures à 20 heures dans un délai maximum de 6 heures après l'admission du patient dans un établissement privé disposant d'une autorisation de service d'urgence.
 
 * Acte chirurgical réalisé en urgence vitale ou en urgence d'organe, de 8 heures à 20 heures, par les chirurgiens, ORL, stomatologues, ophtalmologues, anesthésistes ou gynécologues-obstétriciens, dans un délai maximum de 6 heures après l'admission du patient dans un établissement privé disposant d'une autorisation de service d'urgence : le code est O ;
@@ -83,5 +81,13 @@ Ce modificateur ne peut pas être tarifé avec :
 * un examen radiologique de la vésicule et des voies biliaires ou pancréatiques au cours d'un acte diagnostique ou thérapeutique.
 
 - Modificateurs numériques pour radiothérapie : les codes sont H, Q, V, W. Pour les actes d'irradiation ces modificateurs sont à mentionner face au code de l'acte pour approcher la dose d'irradiation en arrondissant à l'entier le plus proche.
+
+- Majoration pour la mise en œuvre peropératoire et le suivi d'une analgésie postopératoire locorégionale périphérique ou d'une analgésie rachidienne, sans cathéter périnerveux ou rachidien ; le code est 4.
+
+(Par analgésie rachidienne on entend : rachianalgésie ou analgésie péridurale).
+
+- Majoration pour la mise en œuvre peropératoire et le suivi d'une analgésie postopératoire locorégionale périphérique ou d'une analgésie rachidienne, avec cathéter périnerveux ou rachidien ; le code est 5.
+
+(Par analgésie rachidienne on entend : rachianalgésie ou analgésie péridurale).
 
 Les valeurs de ces modificateurs sont exprimées, soit en pourcentage du tarif de l'acte, soit en valeur monétaire qui s'ajoute au tarif de l'acte. Si plusieurs modificateurs exprimés en pourcentage sont facturés, chacun s'applique par rapport au tarif de l'acte indépendamment des autres. Ces montants et pourcentages figurent en annexe 1.
