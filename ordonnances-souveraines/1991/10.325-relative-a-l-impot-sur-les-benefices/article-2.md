@@ -6,7 +6,7 @@ Les dépenses de recherche ouvrant droit au crédit d'impôt, sont les suivantes
 
 - b) les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectées à ces opérations ;
 
-- c) Les autres dépenses de fonctionnement exposées dans les mêmes opérations sont fixées forfaitairement à la somme de 75 % des dotations d'amortissements mentionnées au a) et de 50 % des dépenses de personnel mentionnées au b ;
+- c) À compter des exercices ouverts le 1er janvier 2020, les autres dépenses de fonctionnement exposées dans les mêmes opérations sont fixées forfaitairement à la somme de 75 % des dotations d'amortissements mentionnées au a) et de 43 % des dépenses de personnel mentionnées au b) ;
 
 - d) les frais de prise et de maintenance de brevets ;
 
