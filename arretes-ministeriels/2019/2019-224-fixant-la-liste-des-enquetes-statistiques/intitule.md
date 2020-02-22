@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2019-224 du 13 mars 2019 fixant la liste des enquêtes statistiques réalisées par l'Institut Monégasque de la Statistique et des Études Économiques et abrogeant l'arrêté ministériel n° 2018-218 du 21 mars 2018
