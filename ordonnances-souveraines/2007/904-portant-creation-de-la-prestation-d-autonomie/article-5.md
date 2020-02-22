@@ -2,7 +2,7 @@
 
 La Prestation d'Autonomie, calculée conformément aux dispositions qui précédent, est arrondie à la dizaine d'euros supérieure.
 
-Elle est diminuée, le cas échéant, des indemnités de « tierce personne » perçues par les bénéficiaires dans le cadre des législations relatives aux personnes handicapées, à l'invalidité et aux accidents du travail.
+Elle est diminuée, le cas échéant, des indemnités de «tierce personne » perçues par les bénéficiaires dans le cadre des législations relatives aux personnes handicapées, à l'invalidité et aux accidents du travail.
 
 Elle est affectée mensuellement au règlement direct des prestataires intervenant dans le cadre du plan d'aide personnalisé établi par l'équipe médico-sociale du Centre de Coordination Gérontologique de Monaco s'agissant des personnes vivant au domicile ou, pour les personnes accueillies en établissement, à celui du coût de la dépendance compris dans la tarification.
 
