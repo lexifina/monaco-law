@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-162 du 18 février 2020 modifiant l'arrêté ministériel n° 2003-416 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse d'assurance maladie, accident et maternité des travailleurs indépendants, modifié
