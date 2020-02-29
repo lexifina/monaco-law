@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-176 du 20 février 2020 portant fixation du montant des ressources personnelles telles que prévues à l'Ordonnance Souveraine n° 7.947 du 20 février 2020 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
