@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 7.937 du 20 février 2020 rendant exécutoire l'Accord-cadre entre la Principauté de Monaco et le Gouvernement de la République française relatif à la coopération en matière de sécurité sanitaire, signé à Paris le 13 juillet 2017
