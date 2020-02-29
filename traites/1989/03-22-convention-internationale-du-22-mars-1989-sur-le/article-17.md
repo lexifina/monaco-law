@@ -1,0 +1,13 @@
+# Article 17
+
+1. Toute Partie peut proposer des amendements à la présente Convention et toute Partie à un protocole peut proposer des amendements à ce protocole. Ces amendements tiennent dûment compte, entre autres, des considérations scientifiques et techniques pertinentes.
+
+2. Les amendements à la présente Convention sont adoptés lors des réunions de la Conférence des Parties. Les amendements à un protocole sont adoptés lors des réunions des Parties au protocole considéré. Le texte de tout amendement proposé à la présente Convention ou aux Protocoles, sauf s'il en est disposé autrement dans lesdits protocoles, est communiqué par le Secrétariat aux Parties six mois au moins avant la réunion à laquelle il est proposé pour adoption. Le Secrétariat communique aussi les amendements proposés aux signataires de la présente Convention pour information.
+
+3. Les Parties n'épargnent aucun effort pour parvenir, au sujet de tout amendement proposé à la présente Convention, à un accord par consensus. Si tous les efforts en vue d'un consensus ont été épuisés et si un accord ne s'est pas dégagé, l'amendement est adopté en dernier recours par un vote à la majorité des trois quarts des Parties présentes à la réunion et ayant exprimé leur vote, et soumis par le Dépositaire à toutes les Parties pour ratification, approbation, confirmation formelle ou acceptation.
+
+4. La procédure énoncée au paragraphe 3 ci-dessus s'applique à l'adoption des amendements aux protocoles, à ceci près que la majorité des deux tiers des Parties aux protocoles considérés présentes à la réunion et ayant exprimé leur vote suffit.
+
+5. Les instruments de ratification, d'approbation, de confirmation formelle ou d'acceptation des amendements sont déposés auprès du Dépositaire. Les amendements adoptés conformément aux paragraphes 3 ou 4 ci-dessus entrent en vigueur entre les Parties les ayant acceptés le quatre-vingt-dixième jour après que le Dépositaire a reçu leur instrument de ratification, d'approbation, de confirmation formelle ou d'acceptation par les trois quarts au moins des Parties les ayant acceptés ou par les deux tiers au moins des Parties au protocole considéré les ayant acceptés, sauf disposition contraire dudit protocole. Les amendements entrent en vigueur à l'égard de toute autre Partie le quatre-vingt-dixième jour après le dépôt par ladite Partie de son instrument de ratification, d'approbation, de confirmation formelle ou d'acceptation des amendements.
+
+6. Aux fins du présent article, l'expression "Parties présentes et ayant exprimé leur vote s'entend des Parties présentes qui ont émis un vote affirmatif ou négatif.
