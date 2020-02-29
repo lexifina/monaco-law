@@ -10,6 +10,8 @@ Véhicules à deux roues à moteur ne répondant pas à la définition du cyclom
 
 Motocyclettes dont la cylindrée n'excède pas 125 cm3 et dont la puissance n'excède pas 11 kilowatts, à l'exception des cyclomoteurs.
 
+Les véhicules mis en circulation sous le genre « vélomoteurr »sont considérés comme des motocyclettes légères.
+
 - Tricycles à moteurs :
 
 Véhicules à trois roues symétriques, équipé d'un moteur d'une cylindrée supérieure à 50 cm3 s'il est à combustion interne et / ou dont la vitesse maximale par construction est supérieure à 45 Km/h, dont la masse à vide n'excède pas 1.000 kilogrammes la charge utile n'excède pas 1.500 kilogrammes destinés au transport de marchandises et 300 kilogrammes pour les tricycles destinés au transport de personnes.
@@ -24,4 +26,4 @@ Véhicules à moteur à quatre roues dont la masse à vide n'excède pas 350 kil
 
 Véhicules à moteur à quatre roues qui n'est pas de la catégorie des quadricycles légers à moteurs, dont la puissance nette maximale du moteur est inférieure ou égale à 15 kilowatts. Pour les quadricycles affectés au transport de marchandises, la masse à vide n'excède pas 550 kilogrammes et la charge utile n'excède pas 1.000 kilogrammes. Pour les quadricycles destinés au transport de personne, la masse à vide n'excède pas 400 kilogrammes et la charge utile n'excède pas 200 kilogrammes. Étant précisé que pour les véhicules électriques, la masse des batteries ne doit pas être prise en compte.
 
-Les dispositions des articles 101 à 110 bis, 116 à 118, et 121 à 130 du Code de la Route sont applicables aux motocyclettes, tricycles, et quadricycles à moteur, indépendamment de leur puissance ou cylindrée.
+Les dispositions des articles 101 à 110 bis, 116 à 122, 123 à 129 et 130 de la présente ordonnance sont applicables aux motocyclettes, vélomoteurs, tricycles et quadricycles à moteur, indépendamment de leur puissance ou cylindrée, sous peine de sanctions.
