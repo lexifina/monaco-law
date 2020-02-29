@@ -10,7 +10,7 @@ Concentré de globules rouges humains homologues (unité adulte, unité enfant e
 
 Concentré de globules rouges humains homologues déleucocyté (unité adulte, unité enfant et unité pédiatrique) | 201,23
 
-Concentré unitaire de granulocytes d'aphérèse | 589,79
+Concentré unitaire de granulocytes d'aphérèse | 2.190,00
 
 Mélange de concentrés de plaquettes standard : |
 

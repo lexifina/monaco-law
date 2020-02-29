@@ -6,13 +6,13 @@ En Euros HT |
 
 Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume supérieur ou égal à 400 ml, le litre | 101,50
 
-Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume inférieur à 400 ml, le litre | 75,90
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume inférieur à 400 ml, le litre | 76,70
 
-Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 2, le litre | 46,60
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 2, le litre | 47,40
 
-Plasma pour fractionnement provenant de déplasmatisation de sang total, dit de catégorie 1, le litre | 75,90
+Plasma pour fractionnement provenant de déplasmatisation de sang total, dit de catégorie 1, le litre | 76,70
 
-Plasma pour fractionnement provenant de déplasmatisation de sang total, dit de catégorie 2, le litre | 46,60
+Plasma pour fractionnement provenant de déplasmatisation de sang total, dit de catégorie 2, le litre | 47,40
 
 Majoration du litre pour spécificité « antitétanique » : |
 
