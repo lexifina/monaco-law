@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 7.923 du 14 février 2020 rendant exécutoire l'Accord entre la Principauté de Monaco et le Gouvernement de la République française relatif à la coopération en matière de transfusion sanguine, signé à Paris le 13 juillet 2017
