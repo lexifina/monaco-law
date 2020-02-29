@@ -9,3 +9,5 @@ La vignette, délivrée par le Directeur de la Sûreté Publique, doit être col
 Les dispositions du présent article ne sont pas applicables au transport de personnes qui nécessitent des soins médicaux sur le territoire national.
 
 Elles ne sont pas non plus applicables aux transports à titre privé, tels ceux mis en place par les organisateurs d'un événement ou d'une manifestation organisés sur le territoire de la Principauté, les véhicules disposant alors d'un marquage en référence à l'événement, à la manifestation ou à leurs organisateurs, ou ceux effectués notamment au moyen d'un marquage en référence à une société ou une entreprise qui sont implantées dans la Principauté.
+
+Toute plateforme étrangère de mise en relation entre chauffeurs professionnels et particuliers est strictement interdite sur le territoire de la Principauté. Seule une tolérance pourra être acceptée lors de la dépose en Principauté d'un client chargé à l'extérieur de la Principauté.
