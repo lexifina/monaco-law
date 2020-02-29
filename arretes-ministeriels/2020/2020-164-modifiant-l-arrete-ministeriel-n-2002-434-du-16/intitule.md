@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-164 du 20 février 2020 modifiant l'arrêté ministériel n° 2002-434 du 16 juillet 2002 portant application de l'Ordonnance Souveraine n° 15.321 du 8 avril 2002 relative aux procédures de gel des fonds aux fins de lutte contre le terrorisme, modifié
