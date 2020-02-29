@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2019-154 du 20 février 2019 fixant les taux des allocations d'aide publique pour privation totale et partielle d'emploi et des plafonds journaliers de ressources pour en bénéficier
