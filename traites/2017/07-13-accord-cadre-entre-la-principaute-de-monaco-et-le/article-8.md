@@ -1,0 +1,5 @@
+# Article 8
+
+En cas de risque sanitaire survenant à bord d'un navire et dans le cadre de la mise en œuvre du Règlement sanitaire international, la prise en charge des passagers malades et, le cas échéant, des personnes avec lesquelles ils ont été en contact, se fait prioritairement à bord du navire. Dans ce cadre, les autorités monégasques compétentes maintiennent le navire au mouillage et procèdent à l'évacuation des malades nécessitant une hospitalisation vers les établissements de santé les plus adaptés et organisent la prise en charge médicale des autres passagers à bord en envoyant une équipe médicale.
+
+Si ces conditions de prise en charge ne peuvent être réunies, les autorités monégasques peuvent solliciter auprès du préfet maritime une demande de déroutement du navire vers un point d'entrée sur le territoire français. Au regard de la situation, le préfet peut autoriser le déroutement du navire, en lien avec le préfet du département territorialement compétent et avec l'Agence Régionale de Santé Provence-Alpes-Côte d'Azur.
