@@ -1,0 +1,12 @@
+# Décision ministérielle du 27 février 2020 relative à l'adoption de conditions adaptées concernant les salariés de la Principauté présentant un risque ou des signes d'infection potentielle par le virus SARS-CoV-2, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement sanitaire international (2005) en vue de lutter contre la propagation internationale des maladies
+
+Version en vigueur au 7 mars 2020.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/02-27-L018763@2020.03.07/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Décision ministérielle |
+| Date du texte | 27 février 2020 |
+| Publication | Journal de Monaco du 6 mars 2020 |
