@@ -12,4 +12,4 @@ c) exécuter les instructions de la société de gestion, sauf si elles sont con
 
 d) s'assurer que dans les opérations portant sur les actifs du fonds, la contrepartie lui est remise dans les délais d'usage ;
 
-e) s'assurer que les produits du fonds reçoivent une affectation conforme à la loi, à la réglementation et au prospectus complet du fonds.
+e) s'assurer que les produits du fonds et les plus-values réalisées reçoivent une affectation conforme à la loi, à la réglementation et au prospectus complet du fonds.

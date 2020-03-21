@@ -30,7 +30,7 @@ Les règles mentionnées au présent chiffre ne sont pas applicables aux fonds d
 
 12°) la nature et la fréquence des informations à fournir aux porteurs de parts ;
 
-13°) les modalités de distribution, le cas échéant, aux porteurs de parts, des revenus provenant des avoirs compris dans le fonds ;
+13°) les modalités de distribution, le cas échéant, aux porteurs de parts, des produits et/ou des plus-values réalisées ;
 
 14°) les modalités d'évaluation de l'actif ;
 
