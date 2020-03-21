@@ -20,7 +20,7 @@ La présentation synthétique comprend les rubriques essentielles suivantes :
 
 9) les modalités de souscription et de rachat de parts,
 
-10) l'affectation des résultats.
+10) l'affectation des sommes distribuables.
 
 La présentation synthétique contient également l'avertissement suivant :
 

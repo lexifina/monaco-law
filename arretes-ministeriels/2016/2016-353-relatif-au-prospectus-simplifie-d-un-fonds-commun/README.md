@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2016-353 du 6 juin 2016 relatif au prospectus simplifié d'un fonds commun de placement ou d'un fonds d'investissement
 
-Version en vigueur au 11 juin 2016.
+Version en vigueur au 21 mars 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2016/06-06-2016-353@2016.06.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2016/06-06-2016-353@2020.03.21/
 
 | | |
 | --- | --- |
