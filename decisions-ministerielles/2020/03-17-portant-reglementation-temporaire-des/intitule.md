@@ -1,0 +1,1 @@
+Décision ministérielle du 17 mars 2020 portant réglementation temporaire des déplacements en vue de lutter contre la propagation du virus COVID-19, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
