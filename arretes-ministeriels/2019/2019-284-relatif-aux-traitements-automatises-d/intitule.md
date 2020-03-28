@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2019-284 du 21 mars 2019 relatif aux traitements automatisés d'informations nominatives mis en œuvre par les personnes morales de droit public, autorités publiques, organismes de droit privé investis d'une mission d'intérêt général ou concessionnaires d'un service public
