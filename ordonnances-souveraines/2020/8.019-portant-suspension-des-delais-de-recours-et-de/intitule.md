@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 8.019 du 26 mars 2020 portant suspension des délais de recours et de procédure par-devant le Tribunal Suprême pour faire face aux conséquences des mesures prises pour lutter contre la pandémie de virus COVID-19
