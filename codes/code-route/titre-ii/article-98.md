@@ -1,13 +1,19 @@
 # Article 98
 
-Lorsque la réception n'en aura pas été faite dans le pays de construction, tout véhicule automobile, toute remorque, dont le poids total autorisé en charge est supérieur à 750 kilogrammes et toute semi-remorque doit, avant sa mise en circulation faire l'objet d'une réception par le Service des titres de circulation, destinée à constater que ces véhicules satisfont aux diverses prescriptions des articles 47, 61 à 89 et 95 à 97 de la présente ordonnance.
+La réception d'un véhicule est l'acte par lequel l'autorité administrative atteste de la conformité d'un véhicule ou d'un type de véhicule aux prescriptions techniques et administratives exigées pour sa mise en circulation. Elle s'applique à tout véhicule à moteur, toute remorque et semi-remorque et tout véhicule à deux ou trois roues.
 
-Cette réception peut être effectuée soit par type de véhicule sur la demande du constructeur, soit par véhicule isolé sur la demande du propriétaire ou de son représentant.
+Un véhicule donné doit faire l'objet d'une réception individuelle s'il est neuf ou d'une réception à titre isolé s'il est usagé, dans les cas suivants :
 
-Le Service des titres de circulation doit s'assurer, lors de cette réception, que les véhicules de transport en commun de personnes ou les châssis correspondant satisfont également aux clauses particulières les concernant, édictées par le Ministre d'État, ainsi qu'il est prévu à l'article 97 ci-dessus.
+- s'il est dépourvu de certificat de conformité européen complet délivré par le constructeur ou d'attestation d'identification délivrée par le constructeur ou son représentant en France,
 
-La demande de réception doit être accompagnée d'une notice descriptive établie dans les conditions fixées par le Ministre d'État et donnant les caractéristiques du véhicule ou du type du véhicule nécessaires aux vérifications du Service des titres de la circulation.
+- s'il a fait l'objet d'une transformation qui affecte ses caractéristiques,
 
-Le Ministre d'État détermine les catégories de véhicules, qui, lorsque leur carrosserie est montée sur un châssis déjà réceptionné, ne peuvent être mis en circulation qu'après une nouvelle réception faite par le Service des titres de circulation.
+- s'il est démuni de certificat d'immatriculation,
 
-Tout véhicule isolé ayant subi des transformations notables est obligatoirement soumis à une nouvelle réception. Le propriétaire du véhicule doit demander cette nouvelle réception au Ministre d'État qui définit les transformations notables rendant nécessaire cette nouvelle réception.
+- s'il est reconstitué à partir de pièces détachées.
+
+La réception constitue un préalable indispensable à l'obtention ou au maintien du certificat d'immatriculation.
+
+La réception individuelle ou à titre isolé des véhicules appartenant à des personnes physiques ou morales domiciliées ou résidentes en Principauté de Monaco est réalisée par les centres de la Direction Régionale de l'Environnement, de l'Aménagement et du Logement de la région Provence-Alpes-Côte d'Azur (DREAL PACA), pour le compte de la Principauté de Monaco dans les conditions définies par arrêté ministériel.
+
+À ce titre, la DREAL réalise, pour le compte de la Principauté de Monaco, la réception individuelle et à titre isolé, la réception européenne par type, la réception européenne par type de petite série et la réception par type de portée nationale.

@@ -1,47 +1,103 @@
 # Article 103
 
-La demande de certificat d'immatriculation rédigée sur imprimé délivré par le Service des titres de circulation devra, dans les divers cas énoncés ci-après être accompagnée des pièces suivantes :
+Toute demande d'immatriculation d'un véhicule doit être présentée au Service des Titres de Circulation sur l'imprimé prévu à cet effet et doit être accompagnée d'un acte de vente ou de cession ou d'une facture, la TVA devant apparaître sur cette dernière dans le cas d'un véhicule neuf d'origine française.
 
-- A. - Véhicules construits ou reconstruits à Monaco :
+Pour les véhicules déjà immatriculés dits véhicules d'occasion, l'acte de cession n'est pas nécessaire lorsque l'ancien certificat d'immatriculation du véhicule est établi au même nom que celui du demandeur.
 
-  - Tous les renseignements nécessaires à l'application de l'article 98 de la présente ordonnance ;
+Dans le cas d'une vente par un professionnel de l'automobile français d'un véhicule d'origine française, le récépissé de déclaration d'achat doit être communiqué.
 
-  - Le procès-verbal de réception du Service des titres de circulation y relatif.
+Lorsque le véhicule est soumis à l'obligation de visite technique conformément aux articles 111 à 115 de la présente ordonnance, la demande d'immatriculation doit, en outre, être accompagnée du procès-verbal accepté, complété le cas échéant d'un procès-verbal de visite initiale ayant entraîné une contre-visite.
 
-- B. - Véhicules déjà immatriculés à Monaco :
+Les documents précédemment cités doivent être accompagnés des pièces suivantes :
 
-  - Le précédent certificat d'immatriculation sur lequel le titulaire aura porté, d'une manière très lisible et inaltérable, la mention : « vendu le .... » (date de la transaction).
+A. Véhicules en provenance de Monaco :
 
-- C. - Véhicules en provenance du territoire français :
+a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
 
-  - a) Véhicules mis en circulation pour la première fois, dits véhicules neufs :
+- le certificat de conformité européen complet délivré par le constructeur ou le certificat de conformité délivré par le constructeur en France dit Cerfa,
 
-    - Le certificat de conformité du type délivré par le service français des mines ;
+- si le véhicule est transformé, un des documents suivants correspondant à la situation :
 
-  - b) Véhicules déjà en circulation, dits véhicules d'occasion :
+* les indications complémentaires au certificat de conformité européen complet délivrées par le constructeur,
 
-    - La carte grise du véhicule sur laquelle le titulaire aura porté, d'une manière très lisible et inaltérable, la mention « vendu le .... »(date de la transaction).
+* le certificat de carrossage (annexe VII) délivré par un carrossier agréé par le constructeur,
 
-    - Un certificat de non-gage délivré par le bureau d'immatriculation où était inscrit le véhicule.
+* le procès-verbal de contrôle de conformité initial d'un véhicule (annexe III) délivré par un carrossier agréé par le constructeur, * le procès-verbal de réception individuelle délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL).
 
-- D. - Véhicules en provenance d'autres territoires :
+b) Véhicules déjà immatriculés à Monaco, dits véhicules d'occasion :
 
-  - a) Véhicules mis en circulation pour la première fois, dits véhicules neufs :
+- l'ancien certificat d'immatriculation,
 
-    - Le certificat de conformité du type pour les véhicules ayant déjà fait l'objet d'une réception par le service français des mines ou le certificat de réception à titre isolé délivré par le Service des titres de circulation conformément à l'article 98 de la présente ordonnance.
+- les anciennes plaques d'immatriculation,
 
-    - Une copie certifiée conforme, par un receveur des douanes, du récépissé de paiement des droits de douane perçus à l'entrée en France, ou de la dispense du paiement de ces droits.
+- lorsque le véhicule est soumis à l'obligation de visite technique conformément aux articles 111 à 115 de la présente ordonnance, un procès-verbal accepté effectué en Principauté de Monaco, complété le cas échéant d'un procès-verbal de visite initiale ayant entraîné une contre-visite,
 
-  - b) Véhicules déjà en circulation, dits véhicules d'occasion :
+- si le véhicule est transformé ou reconstitué, un des documents suivants correspondant à la situation :
 
-    - Le certificat d'immatriculation délivré par le bureau d'immatriculation du pays d'origine ;
+* le certificat de carrossage (annexe VII) délivré par un carrossier agréé par le constructeur,
 
-    - Un certificat de non-gage délivré par le bureau d'immatriculation du véhicule pour le pays où cette méthode est en usage ;
+* le procès-verbal de contrôle de conformité initial d'un véhicule (annexe III) délivré par un carrossier agréé par le constructeur,
 
-    - Une copie certifiée conforme par un receveur des douanes, du récépissé de paiement des droits de douane perçus à l'entrée en France, ou de la dispense du paiement de ces droits.
+* le procès-verbal de réception individuelle ou à titre isolé délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL).
 
-Dans tous les cas cités ci-dessus, le propriétaire devra joindre à sa demande de certificat d'immatriculation, un acte de cession où l'ancien titulaire atteste que le véhicule n'a pas subi depuis la dernière immatriculation, des modifications susceptibles de changer les indications du précédent certificat d'immatriculation.
+B. Véhicules en provenance de France :
 
-Pour les véhicules déjà en circulation dits véhicules d'occasion, l'acte de cession n'est pas nécessaire lorsque la pièce d'origine du véhicule est établie au même nom que celui du nouveau propriétaire.
+a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
 
-Lorsque le véhicule est soumis à l'obligation de visite technique qui est prévue aux articles 111 à 115, la demande de certificat d'immatriculation ou de renouvellement devra, en outre, être accompagnée du certificat de bonne conformité visé auxdits articles.
+- le certificat de conformité européen complet délivré par le constructeur ou le certificat de conformité délivré par le constructeur en France dit Cerfa,
+
+- si le véhicule est transformé, un des documents suivants correspondant à la situation :
+
+* les indications complémentaires au certificat de conformité européen complet délivrées par le constructeur,
+
+* le certificat de carrossage (annexe VII) délivré par un carrossier agréé par le constructeur,
+
+* le procès-verbal de contrôle de conformité initial d'un véhicule (annexe III) délivré par un carrossier agréé par le constructeur,
+
+* le procès-verbal de réception individuelle délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL).
+
+b) Véhicules déjà immatriculés, dits véhicules d'occasion :
+
+- l'ancienne carte grise du véhicule sur laquelle le titulaire aura porté, d'une manière très lisible et inaltérable, la mention « vendu le (date de la transaction)) »
+
+- un certificat de situation délivré par les autorités compétentes en cours de validité,
+
+- lorsque le véhicule est soumis à l'obligation de visite technique conformément aux articles 111 à 115 de la présente ordonnance, un procès-verbal accepté effectué en Principauté de Monaco ou en France, complété le cas échéant d'un procès-verbal de visite initiale ayant entraîné une contre-visite,
+
+- si le véhicule est transformé ou reconstitué, un des documents suivants correspondant à la situation :
+
+* le certificat de carrossage (annexe VII) délivré par un carrossier agréé par le constructeur,
+
+* le procès-verbal de contrôle de conformité initial d'un véhicule (annexe III) délivré par un carrossier agréé par le constructeur,
+
+* le procès-verbal de réception individuelle ou à titre isolé délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL).
+
+C. Véhicules en provenance d'autres territoires :
+
+a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
+
+- le certificat de conformité européen complet délivré par le constructeur, ou l'attestation d'identification du véhicule à un type national ou communautaire et le certificat de conformité d'origine, ou le procès-verbal de réception individuelle délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL) et le certificat de conformité d'origine,
+
+- si le véhicule est transformé, le procès-verbal de réception individuelle délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL),
+
+- pour les véhicules de provenance de la Communauté Européenne (CE), l'attestation d'acquisition de TVA délivrée par la Direction des Services Fiscaux à Monaco,
+
+- pour les véhicules de provenance hors communauté européenne (hors CE), le récépissé de paiement des droits de douanes dit modèle 846A délivré par le Receveur des Douanes françaises.
+
+b) Véhicules déjà immatriculés, dits véhicules d'occasion :
+
+- l'ancien certificat d'immatriculation délivré par les autorités compétentes du pays d'origine ou une pièce officielle équivalente s'il est conservé par les autorités du pays d'origine,
+
+- le cas échéant, un certificat de propriété, et, un certificat de radiation de l'immatriculation délivré par les autorités compétentes du pays d'origine,
+
+- le certificat de conformité européen complet délivré par le constructeur, ou l'attestation d'identification d'un véhicule usagé importé, conforme à un type communautaire / attestation d'identification pour véhicule importé conforme à un type national français délivrée par le constructeur, ou l'attestation de la fédération française des véhicules d'époque pour les véhicules de plus de 30 ans, ou le procès-verbal de réception individuelle ou à titre isolé délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL),
+
+- lorsque le véhicule est soumis à l'obligation de visite technique conformément aux articles 111 à 115 de la présente ordonnance, un procès-verbal accepté effectué en Principauté de Monaco, complété le cas échéant d'un procès-verbal de visite initiale ayant entraîné une contre-visite,
+
+- pour les véhicules transformés et reconstitués, le procès-verbal de réception individuelle ou à titre isolé délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL),
+
+- pour les véhicules de provenance de la communauté européenne (CE), l'attestation d'acquisition/exonération de TVA délivrée par la Direction des Services Fiscaux à Monaco, - pour les véhicules de provenance hors communauté européenne (hors CE), le récépissé de paiement des droits de douanes dit modèle 846A délivré par le Receveur des Douanes françaises.
+
+Dans tous les cas d'immatriculation d'un véhicule d'occasion acheté aux enchères publiques, si l'ancien certificat d'immatriculation ne peut être fourni, un procès-verbal de réception individuelle ou à titre isolé délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL) doit être fourni en complément des pièces susvisées.
+
+Dans tous les cas précités, les documents présentés doivent être en original et accompagnés, le cas échéant, d'une traduction officielle en français effectuée par un traducteur assermenté auprès d'une cour d'appel à Monaco ou en France.

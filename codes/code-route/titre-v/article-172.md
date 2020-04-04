@@ -4,7 +4,7 @@ Pour l'application des dispositions du présent titre, les définitions suivante
 
 1° Cyclomoteur : le terme « cyclomoteur » désigne deux types de véhicules :
 
-- Véhicule à deux roues dont la vitesse maximale par construction est égale ou supérieure à 6 km/h et ne dépasse pas 45 km/h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à combustion interne à allumage ou à allumage par compression, ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur ;
+- Véhicule à deux roues dont la vitesse maximale par construction est égale ou supérieure à 6 km/h et ne dépasse pas 45 km/h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm^3 s'il est à combustion interne à allumage ou à allumage par compression, ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur ;
 
 - Véhicule à trois roues dont la vitesse maximale par construction est égale ou supérieure à 6 km/h et ne dépasse pas 45 km/h et équipé d'un moteur d'une cylindrée ne dépassant pas 50 cm3 s'il est à combustion interne à allumage commandé ou à allumage par compression, ou d'une puissance maximale nette n'excédant pas 4 kilowatts pour les autres types de moteur.
 
