@@ -1,1 +1,0 @@
-Décision ministérielle du 18 mars 2020 relative aux mesures de prévention à respecter par toute personne, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
