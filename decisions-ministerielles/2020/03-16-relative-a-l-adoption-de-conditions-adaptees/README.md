@@ -1,8 +1,8 @@
 # Décision ministérielle du 16 mars 2020 relative à l'adoption de conditions adaptées concernant les salariés de la Principauté compte tenu de la fermeture des établissements préscolaires et scolaires de la Principauté, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 21 mars 2020.
+Version en vigueur au 4 avril 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/03-16-L018769@2020.03.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/03-16-L018769@2020.04.04/
 
 | | |
 | --- | --- |
