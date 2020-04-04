@@ -1,8 +1,8 @@
-# Décision ministérielle du 19 mars 2020 portant réglementation temporaire de l'accès du public au rivage des eaux maritimes monégasques, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
+# Décision ministérielle du 19 mars 2020 portant réglementation temporaire de l'accès du public aux équipements et aux espaces publics extérieurs ainsi qu'à leur usage, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 28 mars 2020.
+Version en vigueur au 4 avril 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/03-19-L018778@2020.03.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/03-19-L018777@2020.04.04/
 
 | | |
 | --- | --- |

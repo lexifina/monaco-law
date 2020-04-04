@@ -1,5 +1,9 @@
 # Article 1er
 
-Afin de prévenir la propagation du virus COVID-19, est interdit jusqu'au 31 mars 2020 sur le rivage des eaux maritimes monégasques, les déplacements entrant dans le champ de l'exception mentionnée au 5° de l'article premier de la Décision Ministérielle du 17 mars 2020, susvisée.
+La présente décision s'applique aux espaces publics extérieurs et équipements suivants :
 
-Pour l'application du premier alinéa, le rivage de la mer comprend les plages, les secteurs rocheux naturels de bord de mer et les ouvrages de défense contre la mer, tels que épis, brises lames et digues implantés sur le domaine public.
+1° les parcs ou jardins publics ;
+
+2° les jardins d'enfants et jeux d'enfants ;
+
+3° les installations et équipements sportifs, entendus, au sens de la présente décision, comme tout bien immobilier appartenant à une personne publique ou privée, spécialement aménagé ou utilisé, de manière permanente ou temporaire, en vue d'une pratique sportive et ouvert aux pratiquants à titre gratuit ou onéreux.
