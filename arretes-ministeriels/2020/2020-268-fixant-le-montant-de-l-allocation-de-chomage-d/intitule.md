@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-268 du 30 mars 2020 fixant le montant de l'allocation de chômage d'emploi et le plafond mensuel de ressources pour en bénéficier en application de l'Ordonnance-loi n° 300 du 16 septembre 1940
