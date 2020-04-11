@@ -20,7 +20,7 @@
 
   - - de l'absence quasi-totale de chiffre d'affaires depuis le début de la reconnaissance de situation économique spécifique et exceptionnelle par le Gouvernement,
 
-  - - de la non poursuite de l'activité,
+  - - de la suspension d'activité,
 
   - - de l'absence de statut de salarié, ou de gérant ou d'administrateur d'une autre entreprise à Monaco ou ailleurs dans le Monde,
 
