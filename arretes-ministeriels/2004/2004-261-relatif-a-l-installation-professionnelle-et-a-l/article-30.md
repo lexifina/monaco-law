@@ -26,7 +26,7 @@
 
   - - de la non perception d'autres revenus,
 
-  - - de la réalisation d'un chiffre d'affaires annuel supérieur à 20.000 euro(s) l'année 2019 ou pour les entreprises ayant débuté leur activité courant 2019, un chiffre d'affaires minimum de 5.000 euro(s) pour le dernier trimestre avant la crise soit de décembre 2019 au 1er mars 2020,
+  - - de la réalisation d'un Chiffre d'Affaires annuel supérieur à 12.000 euros l'année 2019, ou pour les activités ayant débuté courant 2019, un Chiffre d'Affaires minimum de 3.000 euros pour le dernier trimestre avant la crise, soit de décembre 2019 au 1er mars 2020,
 
   - - du régime de TVA, si applicable, accompagné des 3 dernières déclarations pour ceux qui ne sont pas en franchise ;
 
