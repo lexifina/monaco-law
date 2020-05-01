@@ -6,6 +6,6 @@ Les coupables seront punis du maximum de la réclusion à temps dans chacun des 
 
 - 2° si la personne arrêtée, détenue ou séquestrée, a été menacée de mort ;
 
-- 3°si elle a été soumise à des tortures.
+- 3° si elle a été soumise à des tortures.
 
 La peine sera celle de la réclusion à perpétuité si, par suite des tortures, la personne a été atteinte de mutilation, amputation ou privation de l'usage d'un membre, cécité, perte d'un œil ou autre infirmité permanente grave.

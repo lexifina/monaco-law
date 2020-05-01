@@ -1,0 +1,3 @@
+# Article 83-11
+
+Les personnes physiques coupables de l'une des infractions prévues par le présent paragraphe encourent également la peine complémentaire d'interdiction de séjour sur le territoire monégasque, dans les conditions prévues aux articles 40-4 à 40-8.
