@@ -20,7 +20,7 @@ II. - Par dérogation aux premier à troisième alinéas du I du présent articl
 
   - d) Elles justifient d'une solvabilité financière leur permettant de s'acquitter de leurs engagements au cours des douze derniers mois précédant la demande. Cette condition est examinée directement par l'administration des douanes au regard des informations disponibles. Elle est réputée remplie dès lors que le demandeur n'a pas fait l'objet de défaut de paiement auprès des services fiscaux et douaniers et ne fait pas l'objet d'une procédure collective. Si le demandeur est établi depuis moins de douze mois, sa solvabilité est appréciée sur la base des informations disponibles au moment du dépôt de la demande.
 
-  - Ces conditions sont réputées remplies pour les personnes titulaires du statut d'opérateur économique agréé, mentionné au 2 de l'article 38 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le Code des douanes de l'Union ;
+- Ces conditions sont réputées remplies pour les personnes titulaires du statut d'opérateur économique agréé, mentionné au 2 de l'article 38 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le Code des douanes de l'Union ;
 
 - 2° Les personnes non établies sur le territoire de l'Union européenne, lorsqu'elles dédouanent par l'intermédiaire d'un représentant en douane titulaire d'une autorisation d'opérateur économique agréé pour les simplifications douanières mentionnée au a du 2 de l'article 38 du même règlement.
 
