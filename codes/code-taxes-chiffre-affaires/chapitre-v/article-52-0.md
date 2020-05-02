@@ -56,6 +56,10 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - K. - (K abrogé).
 
+- K bis - Les masques et les tenues de protection adaptés à la lutte contre la propagation du virus COVID-19 dont la liste et les caractéristiques sont fixées par arrêté ministériel.
+
+- K ter - Les produits destinés à l'hygiène corporelle et adaptés à la lutte contre la propagation du virus COVID-19 dont les caractéristiques sont fixées par arrêté ministériel.
+
 - L. - Les droits d'entrée pour la visite des parcs zoologiques.
 
 - M. - Les prestations de collecte séparée, de collecte en déchetterie, de tri et de valorisation matière des déchets des ménages et des autres déchets qui, eu égard à leurs caractéristiques et aux quantités produites, peuvent être collectés et traités sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations.
