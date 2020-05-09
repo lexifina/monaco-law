@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-343 du 30 avril 2020 portant modification de l'arrêté ministériel n° 2008-452 du 8 août 2008 concernant le compteur horokilométrique et le dispositif répétiteur lumineux de tarifs des taxis, modifié
