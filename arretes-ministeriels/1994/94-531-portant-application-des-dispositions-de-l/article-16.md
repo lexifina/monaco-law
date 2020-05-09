@@ -1,5 +1,5 @@
 # Article 16
 
-À l'aide de ce matériel, le praticien chargé d'effectuer la prise de sang prélève, par ponction veineuse, un volume de sang qui devrait être au moins de 12 cm3 à répartir également entre les deux flacons. Il s'assure que les flacons sont bouchés de façon étanche et les agite pour prévenir la coagulation du sang.
+Le sang est prélevé en présence de l'officier ou de l'agent de police judiciaire par ponction veineuse dans deux tubes à prélèvement sous vide. Ces tubes sont homogénéisés par huit à dix retournement lents pour prévenir la coagulation du sang.
 
-Après avoir contrôlé leur identification, il remet les flacons à l'officier ou l'agent de police judiciaire qui les scelle et les adresse à l'un des biologistes visés à l'article 7 de l'ordonnance souveraine n° 11.321 du 1er août 1994.
+Après avoir contrôlé leur identification, le praticien chargé d'effectuer le prélèvement place chacun des tubes qu'il a étiqueté dans un contenant et remet ces deux contenants à l'officier ou à l'agent de police judiciaire qui les étiquette, les scelle et les adresse à l'un des biologistes visés à l'article 7 de l'Ordonnance Souveraine n° 6.782 du 4 mars 1980, modifiée, susmentionnée.
