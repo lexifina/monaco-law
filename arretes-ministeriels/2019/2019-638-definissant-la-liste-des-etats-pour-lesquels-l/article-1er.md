@@ -249,3 +249,5 @@ ZIMBABWE | Toutes
 États membres de l'UNION EUROPÉENNE(et Régions Ultrapériphériques - RUP - rattachées aux États membres de l'Union : Madères et Açores pour le Portugal et Îles Canaries pour l'Espagne) | Toutes
 
 États parties à l'accord sur l'ESPACE ÉCONOMIQUEEUROPÉEN (Norvège, Islande et Liechtenstein) | Toutes
+
+État ayant ratifié la Convention sur la circulation routière (Convention de Vienne du 8 novembre 1968) | Toutes
