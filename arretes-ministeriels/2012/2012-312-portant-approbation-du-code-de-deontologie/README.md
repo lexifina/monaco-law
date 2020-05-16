@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2012-312 du 29 mai 2012 portant approbation du Code de déontologie médicale
 
-Version en vigueur au 9 juin 2012.
+Version en vigueur au 16 mai 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/05-29-2012-312@2012.06.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/05-29-2012-312@2020.05.16/
 
 | | |
 | --- | --- |
