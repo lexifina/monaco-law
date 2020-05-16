@@ -1,0 +1,3 @@
+# Article 19
+
+Lorsque l'organe mentionné à l'article 16 ou son délégataire décide de faire application des dispositions des articles 16, 17 ou 18 et que tout ou partie des formalités de convocation de l'assemblée ont été accomplies préalablement à la date de cette décision, les membres de l'assemblée en sont informés par tous moyens permettant d'assurer leur information effective trois jours ouvrés au moins avant la date de l'assemblée, sans préjudice des formalités qui restent à accomplir à la date de cette décision. Dans ce cas, la modification du lieu de l'assemblée ou des modes de participation ne donne pas lieu au renouvellement des formalités de convocation et ne constitue pas une irrégularité de convocation.
