@@ -30,4 +30,6 @@
 
   - - du régime de TVA, si applicable, accompagné des 3 dernières déclarations pour ceux qui ne sont pas en franchise ;
 
-- 4 - Les coordonnées bancaires du requérant (RIB) IBAN/BIC. La demande dûment complétée devra être adressée par message électronique avec indication du mois pour lequel le Revenu Minimum Extraordinaire est sollicité, au Service du Welcome Office.
+La demande dûment complétée devra être adressée par message électronique avec indication du mois pour lequel le Revenu Minimum Extraordinaire est sollicité, au Service du Welcome Office, au plus tard le vendredi 15 mai 2020.
+
+Après cette date, les demandes ne seront plus prises en compte.

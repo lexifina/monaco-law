@@ -28,6 +28,6 @@ Le dossier de demande d'Aide aux Sociétés doit comprendre les informations et 
 
 - 3) Les trois dernières déclarations de TVA, si applicable.
 
-- 4) Les coordonnées bancaires de la société en joignant un RIB récent.
+  - - Le dossier de demande dûment complété doit être envoyé selon les indications précisées sur le site Internet du Service Public Entreprises, au plus tard le vendredi 15 mai 2020.
 
-Le dossier de demande dûment complété doit être envoyé selon les indications précisées sur le site Internet du Service Public Entreprises.
+Après cette date, les demandes ne seront plus prises en compte.
