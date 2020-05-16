@@ -1,5 +1,3 @@
 # Article 9
 
-Les mesures générales de prévention et d'hygiène destinées à limiter la propagation du virus sont respectées par les professionnels de santé.
-
-Le port du masque est obligatoire pour la patientèle se rendant chez un professionnel de santé.
+Les établissements de culte sont autorisés à rester ouverts. Tout rassemblement ou réunion en leur sein respecte les mesures générales et les mesures spécifiques à leur activité, visées en annexe de la présente décision.
