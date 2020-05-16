@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-36 du 11 mai 2020 modifiant l'arrêté ministériel n° 2019-638 du 31 juillet 2019 définissant la liste des États pour lesquels l'échange de permis étranger en permis de conduire monégasque est admis
