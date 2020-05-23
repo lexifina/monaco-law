@@ -14,7 +14,7 @@ Les postes consulaires sont les suivants :
 
 - Bahamas : Nassau ;
 
-- Belgique : Anvers, Bruxelles, Liège, Ostende ;
+- Belgique : Anvers, Liège, Ostende ;
 
 - Bermudes (Îles) : Hamilton ;
 
