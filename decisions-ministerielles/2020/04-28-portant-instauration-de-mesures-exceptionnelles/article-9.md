@@ -1,3 +1,3 @@
 # Article 9
 
-Les établissements de culte sont autorisés à rester ouverts. Tout rassemblement ou réunion en leur sein respecte les mesures générales et les mesures spécifiques à leur activité, visées en annexe de la présente décision.
+Les musées (relevant de la catégorie Y mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé) et salles d'exposition (relevant de la catégorie T mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé) peuvent à nouveau être ouverts au public sous réserve du respect des mesures générales et des mesures spécifiques à leurs activités, visées en annexe de la présente décision.

@@ -1,3 +1,3 @@
 # Article 5
 
-Sont prorogées les mesures relatives à la fermeture temporaire de certains établissements recevant du public prévues à l'article premier de la Décision Ministérielle du 18 mars 2020, susvisée, à l'exception des commerces de vente et des centres commerciaux (relevant de la catégorie M mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé), qui peuvent ouvrir à compter du 4 mai 2020, sous réserve du respect des dispositions du présent chapitre.
+La pratique d'activités physiques et sportives individuelles en intérieur ou de plein air est autorisée, sous réserve du respect des mesures générales et des mesures spécifiques à ces activités, visées en annexe de la présente décision.

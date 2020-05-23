@@ -12,4 +12,4 @@ Le port du masque est obligatoire dans les trains, ainsi que sur les quais et ga
 
 La navigation de plaisance à partir des ports de Monaco est autorisée dans une même journée de 09 h 00 à 20 h 00. La présente mesure s'applique à tous les navires, quel que soit leur pavillon, ayant en Principauté, au moment de leur sortie en mer, une place à quai de façon annuelle ou de passage. Toute nouvelle escale de navires étrangers ayant un port d'attache en dehors de Monaco demeure suspendue. Le transit inoffensif reste autorisé dans les eaux monégasques.
 
-La pratique des loisirs nautiques est autorisée, sous réserve du respect des dispositions édictées à l'article 4 du présent chapitre, relatives à l'accès et à l'usage des plages.
+La pratique des loisirs nautiques est autorisée.

@@ -1,7 +1,3 @@
 # Article 12
 
-En application du premier alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, tout manquement aux dispositions de la présente décision est passible de la sanction prévue au chiffre 2 de l'article 29 du Code pénal.
-
-En application du deuxième alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, si les manquements aux dispositions de la présente décision sont à nouveau verbalisés, l'amende est celle prévue au chiffre 3 de l'article 29 du Code pénal.
-
-En application du dernier alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, si les manquements aux dispositions de la présente décision sont verbalisés à plus de trois reprises dans un délai de trente jours ouvrés à compter du jour où le premier manquement a été commis, l'amende est celle prévue au chiffre 1 de l'article 26 du Code pénal.
+Les salles de spectacle (relevant de la catégorie L mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé) demeurent fermées jusqu'à nouvel ordre.
