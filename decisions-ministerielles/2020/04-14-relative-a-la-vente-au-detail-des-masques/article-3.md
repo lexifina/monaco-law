@@ -1,6 +1,6 @@
 # Article 3
 
-Eu égard à la situation sanitaire et jusqu'au 31 mai 2020, le prix de la vente au détail :
+Eu égard à la situation sanitaire et jusqu'au 31 août 2020, le prix de la vente au détail :
 
 - des masques chirurgicaux ne peut excéder 1,50 euros toutes taxes comprises l'unité ;
 
