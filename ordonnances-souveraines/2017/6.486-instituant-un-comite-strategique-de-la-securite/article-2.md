@@ -20,11 +20,11 @@ Le Comité stratégique de la sécurité numérique comprend, sous la présidenc
 
 - le Secrétaire Général du Gouvernement ou son représentant ;
 
-- le Directeur de la Direction des Réseaux et Systèmes d'Information ou son représentant ;
+- le Directeur de la Direction des Systèmes d'Information ou son représentant ;
 
 - le Directeur de l'Agence Monégasque de Sécurité Numérique ou son représentant ;
 
-- le Directeur de la Direction du Développement des Usages Numériques ou son représentant ;
+- le Directeur de la Direction des Plateformes et des Ressources Numériques ou son représentant ;
 
 - le Président du Conseil Économique, Social et Environnemental ;
 
