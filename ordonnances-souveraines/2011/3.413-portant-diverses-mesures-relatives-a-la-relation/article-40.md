@@ -10,9 +10,9 @@ Présidée par le Chef de l'Inspection Générale de l'Administration ou son rep
 
 - - l'Administrateur des domaines ou son représentant ;
 
-- - le Directeur des Réseaux et Systèmes d'Information ou son représentant ;
+- - le Directeur des Systèmes d'Information ou son représentant ;
 
-- - le Directeur de l'Administration Numérique ou son représentant ;
+- - le Directeur des Services Numériques ou son représentant ;
 
 - - le Chef du Service central des archives et de la documentation administrative ou son représentant ;
 
