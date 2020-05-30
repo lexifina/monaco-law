@@ -10,6 +10,8 @@ Le port du masque est obligatoire dans les transports en commun urbains, les tax
 
 Le port du masque est obligatoire dans les trains, ainsi que sur les quais et galeries de la gare ferroviaire, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.
 
-La navigation de plaisance à partir des ports de Monaco est autorisée dans une même journée de 09 h 00 à 20 h 00. La présente mesure s'applique à tous les navires, quel que soit leur pavillon, ayant en Principauté, au moment de leur sortie en mer, une place à quai de façon annuelle ou de passage. Toute nouvelle escale de navires étrangers ayant un port d'attache en dehors de Monaco demeure suspendue. Le transit inoffensif reste autorisé dans les eaux monégasques.
+Toute nouvelle escale de navires battant pavillon étranger dans un port monégasque ou au mouillage est limitée à une distance maximum de 54 milles marins (environ 100 km) du port d'attache ou de la bouée d'amarrage du navire.
+
+Tout yacht avec équipage absent des ports de Monaco depuis au moins 48 h 00 devra adresser une déclaration médicale de santé (DMS) à la Division de Police Maritime et Aéroportuaire de la Direction de la Sûreté Publique. Les autres navires souhaitant faire escale à Monaco devront se conformer au protocole sanitaire décidé par la cellule COVID 19 et transmettre une DMS 48 h 00 avant toute escale. Le transit inoffensif reste autorisé dans les eaux monégasques.
 
 La pratique des loisirs nautiques est autorisée.
