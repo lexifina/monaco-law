@@ -1,6 +1,6 @@
 # Article 1er
 
-Eu égard à la situation sanitaire et par dérogation aux dispositions de l'arrêté ministériel n° 2017-747 du 12 octobre 2017, modifié, susvisé, l'entreposage des déchets d'activités de soins à risques infectieux et assimilés est soumis jusqu'au 31 mai 2020 aux dispositions suivantes :
+Eu égard à la situation sanitaire et par dérogation aux dispositions de l'arrêté ministériel n° 2017-747 du 12 octobre 2017, modifié, susvisé, l'entreposage des déchets d'activités de soins à risques infectieux et assimilés est soumis jusqu'au 31 août 2020 aux dispositions suivantes :
 
 1) la durée entre la production effective de ces déchets et leur évacuation du lieu de leur production n'excède pas :
 
