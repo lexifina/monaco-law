@@ -4,6 +4,6 @@ Eu égard à la situation sanitaire, dans le cadre de la prise en charge du pati
 
 Ce médecin peut assortir l'accord écrit mentionné à l'alinéa précédent d'une nouvelle prescription répondant aux exigences réglementaires, s'il estime nécessaire une adaptation de la posologie.
 
-La délivrance peut être assurée pour une période ne pouvant excéder 28 jours. Elle est renouvelable jusqu'au 31 mai 2020.
+La délivrance peut être assurée pour une période ne pouvant excéder 28 jours. Elle est renouvelable jusqu'au 31 août 2020.
 
 Les médicaments délivrés en application des dispositions du présent article sont pris en charge par les organismes de sécurité sociale dans les conditions du droit commun.

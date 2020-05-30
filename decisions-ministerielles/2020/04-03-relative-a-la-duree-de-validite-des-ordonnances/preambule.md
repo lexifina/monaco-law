@@ -4,9 +4,7 @@ Vu la loi n° 890 du 1er juillet 1970 sur les stupéfiants, modifiée ;
 
 Vu la loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie, modifiée ;
 
-Vu la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain, modifiée ;
-
-Vu la loi n° 1.267 du 23 décembre 2002 relative aux dispositifs médicaux ;
+Vu la loi n° 1.254 du 12 juillet 2002 sur le médicament à usage humain, modifiée ; Vu la loi n° 1.267 du 23 décembre 2002 relative aux dispositifs médicaux ;
 
 Vu l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ;
 
