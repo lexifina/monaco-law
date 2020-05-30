@@ -1,6 +1,6 @@
 # Article 1er
 
-Eu égard à la situation sanitaire et jusqu'au 31 mai 2020, la spécialité pharmaceutique à base de belatacept peut être dispensée au public par la pharmacie à usage intérieur du Centre Hospitalier Princesse Grace pour garantir les traitements d'entretien du rejet de greffon des patients adultes ayant reçu une transplantation rénale.
+Eu égard à la situation sanitaire et jusqu'au 31 août 2020, la spécialité pharmaceutique à base de belatacept peut être dispensée au public par la pharmacie à usage intérieur du Centre Hospitalier Princesse Grace pour garantir les traitements d'entretien du rejet de greffon des patients adultes ayant reçu une transplantation rénale.
 
 La pharmacie à usage intérieur délivre, sur la base de la prescription hospitalière, la spécialité pharmaceutique mentionnée au premier alinéa et fournit un protocole d'administration du traitement ainsi que les autres prescriptions médicales nécessaires à la prise en charge du patient à son domicile.
 
