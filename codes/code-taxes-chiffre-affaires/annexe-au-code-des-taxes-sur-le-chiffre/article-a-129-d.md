@@ -4,6 +4,6 @@ La fermeture d'un régime fiscal suspensif mentionné au 2° du I de l'article 5
 
 Elle peut également être prononcée sur l'initiative de l'administration :
 
-- 1. En cas d'inactivité du régime durant un an. La fermeture du régime prend effet le premier jour du mois qui suit celui au cours duquel la décision de l'administration est intervenue ;
+1. En cas d'inactivité du régime durant un an. La fermeture du régime prend effet le premier jour du mois qui suit celui au cours duquel la décision de l'administration est intervenue.
 
-- 2. Lorsque les règles de fonctionnement du régime ou l'exécution des formalités et obligations liées audit régime ne sont pas respectées. La fermeture prend effet dès la notification des constatations effectuées.
+2. Lorsque les règles de fonctionnement du régime ou l'exécution des formalités et obligations liées audit régime ne sont pas respectées. La fermeture prend effet dès la notification des constatations effectuées

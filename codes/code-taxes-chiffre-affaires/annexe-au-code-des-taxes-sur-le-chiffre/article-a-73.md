@@ -54,9 +54,9 @@ IV. - 1. Le coefficient d'admission d'un bien ou d'un service est égal à l'uni
 
 - 7° À l'exception des cas prévus au 3° de l'article 100 ter du Code des taxes sur le chiffre d'affaires :
 
-- a) Pour les carburéacteurs mentionnés au d du 2° du même article ;
+  - a) Pour les carburéacteurs mentionnés au d du 2° du même article ;
 
-- b) Pour les produits pétroliers mentionnés au e du 2° du même article ;
+  - b) Pour les produits pétroliers mentionnés au e du 2° du même article ;
 
 - 8° Pour les biens acquis ou construits ainsi que les services acquis dont la valeur d'achat, de construction ou de livraison à soi-même est prise en compte pour l'application des dispositions du g du 1 de l'article 35 ainsi que de l'article 93 A du Code des taxes ;
 
