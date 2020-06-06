@@ -1,6 +1,6 @@
 # Article 3
 
-L'accès et l'usage des espaces publics extérieurs et des équipements, mentionnés à l'alinéa suivant, ainsi que l'usage détourné à des fins d'activités sportives du mobilier urbain, sont interdits.
+L'accès et l'usage des espaces publics extérieurs et des équipements, mentionnés à l'alinéa suivant, sont autorisés à compter du 6 juin 2020 sous réserve de respecter les mesures fixées en annexe de la présente décision.
 
 Le présent article s'applique aux espaces publics extérieurs et équipements suivants :
 
