@@ -4,14 +4,14 @@ Eu égard à la situation sanitaire, dans le cadre d'un traitement chronique, à
 
 Les produits ou les prestations relevant du présent article sont :
 
-- - les dispositifs médicaux, les matériels et les produits pour le traitement de pathologies spécifiques ;
+- les dispositifs médicaux, les matériels et les produits pour le traitement de pathologies spécifiques ;
 
-- - les dispositifs médicaux de maintien à domicile et d'aide à la vie pour les personnes malades ou handicapées ;
+- les dispositifs médicaux de maintien à domicile et d'aide à la vie pour les personnes malades ou handicapées ;
 
-- - les articles pour pansements et les matériels de contention ;
+- les articles pour pansements et les matériels de contention ;
 
-- - les canules trachéales ;
+- les canules trachéales ;
 
-- - les prothèses respiratoires pour trachéotomie.
+- les prothèses respiratoires pour trachéotomie.
 
 Les produits ou les prestations délivrés en application des dispositions du présent article sont pris en charge par les organismes de sécurité sociale dans les conditions du droit commun.
