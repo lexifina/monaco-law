@@ -2,7 +2,9 @@
 
 À l'issue de l'examen médical, et après avoir, s'il le juge utile, demandé que le candidat à l'obtention ou au renouvellement du permis soit examiné par un ou plusieurs spécialistes établis en Principauté de Monaco, le médecin examinateur indique, sur la formule de certificat médical prévue à l'article premier, l'aptitude ou l'inaptitude du candidat à conduire les véhicules automobiles de la ou des catégories sollicitées.
 
-Il mentionne, le cas échéant, la nécessité du port de verres correcteurs, de lentilles cornéennes ou d'un appareil de prothèse.
+Il indique, le cas échéant, les restrictions médicales à la conduite par une mention codifiée prévue par l'annexe bis du présent arrêté
+
+Toute suppression de restrictions médicales à la conduite, est subordonnée à un nouvel examen médical selon les mêmes modalités que celles mentionnées au premier alinéa.
 
 En outre, si le candidat est atteint d'une affection susceptible de donner lieu à la délivrance d'un permis dont la durée de validité est limitée, il précise cette durée qui ne peut excéder trois ans.
 

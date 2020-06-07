@@ -6,7 +6,7 @@ Cette commission, constituée par le Ministre d'État, comprend :
 
 - un médecin de médecine générale, désigné par le ministre d'État ;
 
-- un médecin choisi par le candidat ;
+- un médecin disposant d'un agrément délivré par le Ministre d'État choisi par le candidat ;
 
 - et au moins un médecin spécialisé dans l'une des branches ci-après, selon le cas considéré :
 
