@@ -1,8 +1,8 @@
 # Arrêté municipal n° 2007-256 du 27 février 2007 fixant les dispositions relatives à la circulation et au stationnement des véhicules en ville
 
-Version en vigueur au 3 août 2019.
+Version en vigueur au 13 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2007/02-27-2007-256@2019.08.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2007/02-27-2007-256@2020.06.13/
 
 | | |
 | --- | --- |

@@ -10,4 +10,8 @@
 
 - les taxis ;
 
-- les véhicules d'urgences et de secours.
+- les véhicules d'urgences et de secours ;
+
+- les cycles propulsés par l'énergie musculaire et les cycles à pédalage assisté tels que définis et caractérisés au 2° de l'article 172 de l'Ordonnance Souveraine n° 1.691 du 17 décembre 1957, modifiée, susvisée ;
+
+- les trottinettes électriques et les draisiennes électriques telles que définies et caractérisées à l'article 182-1 de l'Ordonnance Souveraine n° 1.691 du 17 décembre 1957, modifiée, susvisée.

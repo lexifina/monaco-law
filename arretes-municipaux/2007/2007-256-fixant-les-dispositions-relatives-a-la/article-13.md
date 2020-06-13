@@ -48,7 +48,7 @@ a) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 b) La circulation des piétons est interdite dans le tunnel.
 
-4bis) Tunnel Descendant Fontvieille
+4 bis) Tunnel Descendant Fontvieille
 
 a) Un sens unique de circulation descendant est instauré du giratoire Canton à l'avenue de Fontvieille et ce, dans ce sens.
 
