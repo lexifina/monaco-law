@@ -1,6 +1,6 @@
 # Article 2
 
-Tout rassemblement de plus de 5 personnes sur les voies et espaces publics est interdit.
+Tout rassemblement de plus de 10 personnes sur les voies et espaces publics est interdit.
 
 Quel que soit le motif de déplacement, celui-ci doit s'effectuer dans le respect des mesures générales de prévention et d'hygiène destinées à limiter la propagation du virus.
 
