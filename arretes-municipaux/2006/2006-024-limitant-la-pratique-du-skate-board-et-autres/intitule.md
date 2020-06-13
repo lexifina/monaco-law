@@ -1,1 +1,0 @@
-Arrêté municipal n° 2006-024 du 20 avril 2006 limitant la pratique du skate-board et autres jeux comparables sur une partie du quai Albert 1er et sur une partie de la promenade supérieure de la plage du Larvotto
