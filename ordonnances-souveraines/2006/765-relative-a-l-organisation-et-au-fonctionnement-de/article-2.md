@@ -18,4 +18,6 @@ La Direction de la Sûreté Publique comprend des personnels en civil ou en tenu
 
 - la Division de protection de la Famille Princière ;
 
+- la Division de l'Événementiel et de la Préservation du Cadre de Vie ;
+
 - le Secrétariat de la Direction.

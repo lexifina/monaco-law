@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 765 du 13 novembre 2006 relative à l'organisation et au fonctionnement de la direction de la Sûreté publique
+# Ordonnance Souveraine n° 765 du 13 novembre 2006 relative à l'organisation et au fonctionnement de la Direction de la Sûreté Publique
 
-Version en vigueur au 18 mai 2019.
+Version en vigueur au 13 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2006/11-13-765@2019.05.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2006/11-13-765@2020.06.13/
 
 | | |
 | --- | --- |
