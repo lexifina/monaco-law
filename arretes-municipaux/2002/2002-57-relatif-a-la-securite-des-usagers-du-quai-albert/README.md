@@ -1,8 +1,8 @@
 # Arrêté municipal n° 2002-57 du 23 juillet 2002 relatif à la sécurité des usagers du Quai Albert 1er
 
-Version en vigueur au 3 août 2002.
+Version en vigueur au 13 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2002/07-23-2002-57@2002.08.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-municipal/2002/07-23-2002-57@2020.06.13/
 
 | | |
 | --- | --- |
