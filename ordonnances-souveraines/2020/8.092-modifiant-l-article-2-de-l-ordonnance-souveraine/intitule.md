@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 8.092 du 4 juin 2020 modifiant l'article 2 de l'Ordonnance Souveraine n° 765 du 13 novembre 2006 relative à l'organisation et au fonctionnement de la Direction de la Sûreté Publique, modifiée
