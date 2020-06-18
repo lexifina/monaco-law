@@ -50,4 +50,4 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - 8° La prestation de services unique d'une agence de voyages lorsqu'elle a à Monaco le siège de son activité économique ou un établissement stable à partir duquel elle a fourni cette prestation.
 
-L'agence de voyages réalise une prestation de services unique lorsqu'elle agit, en son propre nom, à l'égard du client et utilise, pour la réalisation du voyage, des livraisons de biens et des prestations de services d'autres assujettis.
+- L'agence de voyages réalise une prestation de services unique lorsqu'elle agit, en son propre nom, à l'égard du client et utilise, pour la réalisation du voyage, des livraisons de biens et des prestations de services d'autres assujettis.
