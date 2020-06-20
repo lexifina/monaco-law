@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-427 du 12 juin 2020 fixant le pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2018-2019
