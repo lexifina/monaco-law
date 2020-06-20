@@ -28,7 +28,7 @@
 
   - ii) Spécifie toute installation de fabrication d'armes chimiques dont il est ou a été le propriétaire ou le détenteur, ou qui se trouve ou s'est trouvée en un lieu placé sous sa juridiction ou son contrôle à un moment quelconque depuis le 1er janvier 1946, conformément au paragraphe 1 de la cinquième partie de l'annexe sur la vérification, exception faite des installations visées au point iii) ;
 
-  - iii) Signale toute installation de fabrication d'armes chimiques qu'il a ou a eue sur son territoire, dont un autre État est ou a été le propriétaire et le détenteur et qui se trouve ou s'est trouvée en un lieu placé sous la juridiction ou le contrôle d'un autre État à un moment quelconque depuis le 1er janvier 1946, conformément au paragraphe 2 de la cinquième partie de l'annexe sur la vérification ;
+  - iii) Signale toute installation de fabrication d'armes chimiques qu'il a ou a eue sur son territoire, dont un autre État est ou a été le propriétaire et le détenteur et qui se trouve ou s'est trouvée en un lieu placé sous la juridiction ou le contrôle d'un autre État à un moment quelconque depuis le 1er janvier 1946, conformément au paragraphe 2 de la cinquième partie de l'annexe sur la vérification
 
   - iv) Déclare s'il a transféré ou reçu, directement ou indirectement, du matériel de fabrication d'armes chimiques depuis le 1er janvier 1946 et spécifie le transfert ou la réception d'un tel matériel, conformément aux paragraphes 3 à 5 de la cinquième partie de l'annexe sur la vérification ;
 
