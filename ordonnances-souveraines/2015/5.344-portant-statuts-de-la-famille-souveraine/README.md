@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 5.344 du 2 juin 2015 portant statuts de la Famille Souveraine
 
-Version en vigueur au 8 juin 2019.
+Version en vigueur au 20 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2015/06-02-5.344@2019.06.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2015/06-02-5.344@2020.06.20/
 
 | | |
 | --- | --- |
