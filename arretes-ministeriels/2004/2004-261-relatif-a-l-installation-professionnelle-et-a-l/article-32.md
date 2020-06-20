@@ -1,5 +1,5 @@
 # Article 32
 
-Le Revenu Minimum Extraordinaire est fixé à un montant forfaitaire mensuel de 1.800 euro(s).
+Le Revenu Minimum Extraordinaire (RME) est fixé à un montant forfaitaire mensuel de 1.800 euros.
 
-Une aide complémentaire au RME, d'un montant forfaitaire mensuel de 3.200 euros, sera versée à chaque bénéficiaire du RME, selon les conditions précisées à l'article 39.
+Une aide complémentaire au RME, d'un montant forfaitaire mensuel de 3.200 euros, sera versée à chaque bénéficiaire du RME, selon les conditions précisées à l'article 39, au titre du mois de juin, étant précisé que le montant de ladite aide complémentaire est ramené à 700 euros pour les bénéficiaires du RME visés par la Décision Ministérielle du 28 avril 2020 portant instauration de mesures exceptionnelles dans le cadre de la reprise progressive des activités en vue de lutter contre l'épidémie de COVID-19 et les autorisant à rouvrir à compter du 4 mai 2020, ainsi que pour les bénéficiaires du RME dont l'activité n'a pas été contrainte de fermer au public par Décision Ministérielle du 18 mars 2020 relative à la fermeture temporaire de certains établissements recevant du public en vue de lutter contre la propagation du virus COVID-19, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies.

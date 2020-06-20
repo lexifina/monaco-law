@@ -12,7 +12,7 @@
 
 - *5) les attestations et pièces justificatives des polices d'assurances contractées par le bénéficiaire en vue de la couverture des risques professionnels.
 
-- Afin de préparer le plan d'affaire prévisionnel mentionné au chiffre 2, les requérants doivent s'entourer des conseils d'un membre de l'Ordre des Experts-Comptables, lequel leur est acquis à titre gracieux.
+Afin de préparer le plan d'affaire prévisionnel mentionné au chiffre 2, les requérants doivent s'entourer des conseils d'un membre de l'Ordre des Experts-Comptables, lequel leur est acquis à titre gracieux.
 
 Le plan de financement mentionné au chiffre 2 doit comprendre un apport personnel d'au moins 20% du montant hors taxes de l'investissement et présenter l'équilibre financier du programme d'investissement.
 

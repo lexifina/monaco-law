@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2004-261 du 19 mai 2004 relatif à l'installation professionnelle et à l'aide aux entreprises
 
-Version en vigueur au 16 mai 2020.
+Version en vigueur au 20 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2004/05-19-2004-261@2020.05.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2004/05-19-2004-261@2020.06.20/
 
 | | |
 | --- | --- |
