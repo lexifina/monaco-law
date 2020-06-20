@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 8.098 du 16 juin 2020 rendant exécutoire le Tableau 1 de l'Annexe à la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, tel qu'adopté par la Conférence des États Parties le 27 novembre 2019
