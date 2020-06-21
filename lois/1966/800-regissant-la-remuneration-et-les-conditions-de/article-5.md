@@ -12,7 +12,7 @@ Par absences exceptionnelles, il faut entendre les périodes de congés payés, 
 
 - Mariage du travailleur ou de son enfant ;
 
-- Obsèques de son conjoint, de son père, de sa mère, d'un de ses enfants, d'un de ses beaux-parents ;
+- Obsèques de son conjoint, de son partenaire d'un contrat de vie commune, de son père, de sa mère, d'un de ses enfants, d'un de ses beaux-parents ;
 
 - Naissance d'un enfant.
 
