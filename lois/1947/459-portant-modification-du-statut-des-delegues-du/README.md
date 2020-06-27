@@ -1,8 +1,8 @@
 # Loi n° 459 du 19 juillet 1947 portant modification du statut des délégués du personnel
 
-Version en vigueur au 20 juillet 2002.
+Version en vigueur au 27 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1947/07-19-459@2002.07.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1947/07-19-459@2020.06.27/
 
 | | |
 | --- | --- |
