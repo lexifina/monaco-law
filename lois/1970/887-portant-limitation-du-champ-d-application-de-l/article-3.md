@@ -2,7 +2,7 @@
 
 Sous les peines prévues au chiffre 4° de l'article 26 du Code pénal, les locaux à usage d'habitation visés aux articles précédents ne pourront, à compter des dates indiquées auxdits articles, faire l'objet d'une location qu'en faveur :
 
-- des ascendants ou descendants, ou leur conjoint, du propriétaire ou de son conjoint ;
+- des ascendants ou descendants, ou leur conjoint, leur partenaire d'un contrat de vie commune ou leur cohabitant d'un contrat de cohabitation, du propriétaire ou de son conjoint, de son partenaire d'un contrat de vie commune ou de son cohabitant ;
 
 - des personnes de nationalité monégasque ;
 
