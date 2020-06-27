@@ -1,8 +1,8 @@
 # Ordonnance-Loi n° 300 du 16 septembre 1940 sur les allocations de chômage
 
-Version en vigueur au 22 décembre 2018.
+Version en vigueur au 27 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1940/09-16-300@2018.12.22/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1940/09-16-300@2020.06.27/
 
 | | |
 | --- | --- |
