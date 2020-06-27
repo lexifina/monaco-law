@@ -32,19 +32,13 @@ Lundi de Pâques
 
 Lundi 5 avril 2021
 
-Vacances de printemps
+- Grand Prix Historique et Vacances de Printemps ;
 
-Du vendredi 23 avril 2021 après la classe au lundi 10 mai 2021 au matin
+Du jeudi 22 avril 2021 après la classe au lundi 10 mai 2021 au matin ;
 
-Ascension Jeudi 13 mai 2021
+- Grand Prix et Lundi de Pentecôte ;
 
-Lundi de Pentecôte
-
-Lundi 24 mai 2021
-
-Grand Prix
-
-Du mercredi 26 mai 2021 après la classe au lundi 31 mai 2021 au matin
+Du mercredi 19 mai 2021 après la classe au mardi 25 mai 2021 au matin.
 
 Fête Dieu
 
