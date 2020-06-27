@@ -264,7 +264,9 @@ DAMO | Indemnité de déplacement pour l'Orthophoniste | 1,52 euro(s)
 
 1. Pour les spécialités appartenant à l'un des groupes génériques tels que définis en France :
 
-* le tarif forfaitaire de responsabilité du groupe générique auquel appartient la spécialité pharmaceutique, tel que fixé réglementairement en France, et ce dans les situations exposées ci-dessous :
+* lorsqu'il a été fixé réglementairement en France, le tarif forfaitaire de responsabilité du groupe générique auquel appartient la spécialité pharmaceutique,
+
+* dans les autres cas, le tarif de remboursement opposable à l'assuré en application de la réglementation française,
 
 - lorsque la spécialité pharmaceutique figurant sur la prescription médicale est désignée soit par sa dénomination commune, soit par le nom du groupe générique dont elle fait partie ;
 
