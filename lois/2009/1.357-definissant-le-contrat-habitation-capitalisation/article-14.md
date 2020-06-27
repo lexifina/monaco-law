@@ -2,7 +2,7 @@
 
 Le contrat « habitation-capitalisation » confère à son titulaire le droit de :
 
-- consentir un bail, avec l'accord de l'Administration des Domaines et aux conditions en vigueur pour les immeubles domaniaux à usage d'habitation, à un membre de sa famille ou à un locataire de nationalité monégasque lorsque pour raison professionnelle ou familiale, il est, lui-même ou son conjoint, contraint à un éloignement de la Principauté en dehors du département français limitrophe ou de la province italienne la plus proche ;
+- consentir un bail, avec l'accord de l'Administration des Domaines et aux conditions en vigueur pour les immeubles domaniaux à usage d'habitation, à un membre de sa famille ou à un locataire de nationalité monégasque lorsque pour raison professionnelle ou familiale, il est, lui-même ou son conjoint, ou son partenaire d'un contrat de vie commune contraint à un éloignement de la Principauté en dehors du département français limitrophe ou de la province italienne la plus proche ;
 
 - réaliser tous travaux de transformation, d'adjonction, d'amélioration, de modification à l'intérieur des volumes dans le respect des règles d'urbanisme en vigueur et de celles afférentes à l'immeuble ;
 

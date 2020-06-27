@@ -16,7 +16,7 @@ Le contrat « habitation-capitalisation » indique en outre :
 
 - 1°) la faculté pour le titulaire de se libérer, par anticipation et sans pénalité, du paiement des sommes restant dues, dans les conditions prévues par la présente loi ;
 
-- 2°) la stipulation que le conjoint de nationalité monégasque et les descendants en ligne directe de nationalité monégasque bénéficieront du contrat « habitation-capitalisation » au décès du titulaire du contrat ;
+- 2°) la stipulation que le conjoint de nationalité monégasque, le partenaire d'un contrat de vie commune de nationalité monégasque et les descendants en ligne directe de nationalité monégasque bénéficieront du contrat « habitation-capitalisation » au décès du titulaire du contrat ;
 
 - 3°) le droit, pour le titulaire, en cas de renonciation au bénéfice du contrat « habitation-capitalisation » à sa demande, de conclure un contrat de location aux conditions applicables, lors de l'extinction du contrat, aux immeubles domaniaux à usage d'habitation ;
 

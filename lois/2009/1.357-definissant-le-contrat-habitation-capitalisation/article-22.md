@@ -2,7 +2,7 @@
 
 Le titulaire peut, à tout moment, renoncer de manière non équivoque au bénéfice du contrat « habitation-capitalisation ».
 
-Toutefois, pendant le mariage, le consentement de son conjoint est requis.
+Toutefois, pendant le mariage, le consentement de son conjoint est requis. Il en est de même pour le partenaire d'un contrat de vie commune.
 
 La renonciation est notifiée à l'Administrateur des Domaines. Elle est accompagnée des pièces définies par ordonnance souveraine.
 

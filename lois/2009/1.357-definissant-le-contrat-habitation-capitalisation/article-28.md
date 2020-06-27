@@ -1,6 +1,6 @@
 # Article 28
 
-Au décès du souscripteur initial ou du conjoint monégasque survivant cotitulaire du contrat avec son époux prédécédé, tout bénéficiaire désigné devient titulaire du contrat « habitation-capitalisation » et exerce les droits nés de celui-ci en lieu et place du précédent titulaire ; il est également tenu des obligations du contrat et doit s'acquitter des versements restant dus pour le paiement du solde du prix.
+Au décès du souscripteur initial, du conjoint monégasque survivant ou du partenaire monégasque d'un contrat de vie commune survivant, cotitulaire du contrat avec son époux ou son partenaire prédécédé, tout bénéficiaire désigné devient titulaire du contrat « habitation-capitalisation » et exerce les droits nés de celui-ci en lieu et place du précédent titulaire ; il est également tenu des obligations du contrat et doit s'acquitter des versements restant dus pour le paiement du solde du prix.
 
 Il peut toutefois choisir de renoncer au bénéfice du contrat « habitation-capitalisation ». Dans ce cas, sa renonciation est notifiée dans les formes prévues à l'article 22. Le versement du capital exigible intervient alors aux conditions de forme et de délai prévues à l'article 23.
 

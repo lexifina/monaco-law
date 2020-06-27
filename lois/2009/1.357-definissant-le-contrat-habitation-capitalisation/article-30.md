@@ -1,6 +1,6 @@
 # Article 30
 
-Le conjoint non séparé de corps et les descendants en ligne directe de nationalité étrangère du titulaire ne peuvent prétendre à la qualité de bénéficiaire désigné.
+Le conjoint non séparé de corps, le partenaire d'un contrat de vie commune et les descendants en ligne directe de nationalité étrangère du titulaire ne peuvent prétendre à la qualité de bénéficiaire désigné.
 
 Ils peuvent toutefois prétendre à une part du capital résultant des sommes antérieurement versées en exécution du contrat « habitation-capitalisation » et calculé dans les conditions prévues à l'article 23.
 

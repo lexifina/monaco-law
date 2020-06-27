@@ -1,3 +1,3 @@
 # Article 26
 
-Le décès du titulaire du contrat « habitation-capitalisation » transfère le bénéfice de celui-ci au conjoint de nationalité monégasque ainsi qu'aux descendants en ligne directe de nationalité monégasque dudit titulaire, en qualité de bénéficiaires désignés, dès la notification du décès au Ministre d'État.
+Le décès du titulaire du contrat « habitation-capitalisation » transfère le bénéfice de celui-ci au conjoint de nationalité monégasque, au partenaire d'un contrat de vie commune de nationalité monégasque, ainsi qu'aux descendants en ligne directe de nationalité monégasque dudit titulaire, en qualité de bénéficiaires désignés, dès la notification du décès au Ministre d'État.

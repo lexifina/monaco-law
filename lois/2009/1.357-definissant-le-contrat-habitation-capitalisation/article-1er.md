@@ -8,4 +8,4 @@ Est qualifiée de contrat « habitation-capitalisation », et soumise aux dispos
 
 - la faculté pour le titulaire d'opter à tout moment pour la renonciation au bénéfice du contrat, et d'obtenir alors le paiement, dans les conditions prévues par la présente loi, d'un capital correspondant aux sommes par lui investies en exécution du contrat ;
 
-- au décès du titulaire, l'attribution du bénéfice du contrat « habitation-capitalisation » à son conjoint de nationalité monégasque et à ses descendants en ligne directe de nationalité monégasque.
+- au décès du titulaire, l'attribution du bénéfice du contrat « habitation-capitalisation » à son conjoint de nationalité monégasque, à son partenaire d'un contrat de vie commune de nationalité monégasque et à ses descendants en ligne directe de nationalité monégasque.
