@@ -48,7 +48,13 @@ Sont soumis aux dispositions de la présente loi les organismes et les personnes
 
 - 19°) les personnes exerçant l'activité d'agent sportif ;
 
-- 20°) les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux, uniquement pour lesdites opérations.
+- 20°) les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux, uniquement pour lesdites opérations ;
+
+- 21°) les personnes morales titulaires de l'autorisation de procéder à une offre de jetons visée à l'article 2 de la loi n° 1.491 du 23 juin 2020 ;
+
+- 22 °) toute personne qui, à titre de profession habituelle, soit se porte elle-même contrepartie, soit agit en tant qu'intermédiaire, en vue de l'acquisition ou de la vente d'actifs financiers virtuels pouvant être conservés ou transférés dans le but d'acquérir un bien ou un service, mais ne représentant pas de créance sur l'émetteur ;
+
+- 23°) les prestataires de service de conservation pour le compte de tiers d'actifs numériques ou d'accès à des actifs numériques, le cas échéant sous la forme de clés cryptographiques privées, en vue de détenir, stocker et transférer des actifs numériques.
 
 Ne sont pas soumis aux dispositions de la présente loi les organismes et les personnes, exerçant, à titre occasionnel, une activité financière qui remplit les conditions suivantes :
 
