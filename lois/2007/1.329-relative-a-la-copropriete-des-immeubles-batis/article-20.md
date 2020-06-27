@@ -8,7 +8,7 @@ Les dispositions du troisième alinéa de l'article 15 sont applicables dans les
 
 Lorsqu'une personne a été désignée par le règlement de copropriété ou tout autre accord des parties pour exercer les fonctions de syndic, ces fonctions cessent, nonobstant toute clause contraire, à la première assemblée générale, laquelle nomme le syndic.
 
-Toutefois, pendant le délai prévu par l'article 1630 du Code civil, la durée des fonctions ne peut dépasser une année lorsque le syndic, son conjoint, leurs commettants ou employeurs, leurs préposés, leurs parents ou alliés jusqu'au troisième degré inclus, ont directement ou indirectement, à quelque titre que ce soit, même par personne interposée, participé à la construction de l'immeuble.
+Toutefois, pendant le délai prévu par l'article 1630 du Code civil, la durée des fonctions ne peut dépasser une année lorsque le syndic, son conjoint, son partenaire d'un contrat de vie commune ou son cohabitant d'un contrat de cohabitation leurs commettants ou employeurs, leurs préposés, leurs parents ou alliés jusqu'au troisième degré inclus, ont directement ou indirectement, à quelque titre que ce soit, même par personne interposée, participé à la construction de l'immeuble.
 
 La rémunération du syndic est fixée par l'assemblée générale à la majorité prévue par l'article 14.
 

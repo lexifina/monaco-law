@@ -4,7 +4,7 @@
 
 Le conseil syndical élit son président parmi ses membres.
 
-Le syndic, son conjoint et ses préposés, même s'ils sont copropriétaires, ne peuvent être membres du conseil syndical.
+Le syndic, son conjoint, son partenaire d'un contrat de vie commune ou son cohabitant d'un contrat de cohabitation et ses préposés, même s'ils sont copropriétaires, ne peuvent être membres du conseil syndical.
 
 Lorsqu'une personne morale est nommée en qualité de membre du conseil syndical, elle peut s'y faire représenter, à défaut de son représentant légal ou statutaire, par un fondé de pouvoir spécialement habilité à cet effet.
 
