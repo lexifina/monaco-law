@@ -6,8 +6,6 @@ Il l'informe également des différents actes ou traitements médicaux proposés
 
 Néanmoins, en cas d'urgence, le professionnel de santé est dispensé de délivrer ces informations.
 
-Après l'exécution des actes ou traitements médicaux, la personne concernée est informée de la façon dont ils se sont réalisés et des éventuels risques subsistants.
-
-Lorsque des risques nouveaux sont postérieurement identifiés, la personne concernée en est informée, sauf en cas d'impossibilité de la retrouver.
+Après l'exécution des actes ou traitements médicaux, la personne concernée est informée de la façon dont ils se sont réalisés et des éventuels risques subsistants. Lorsque des risques nouveaux sont postérieurement identifiés, la personne concernée en est informée, sauf en cas d'impossibilité de la retrouver.
 
 Ces informations sont en outre délivrées aux personnes dont le consentement ou l'assistance est prévu par les articles 2 à 4. Elles le sont aussi, de manière particulièrement adaptée à la capacité de discernement de l'intéressé, dans les cas visés par le deuxième alinéa des articles 2 et 3.

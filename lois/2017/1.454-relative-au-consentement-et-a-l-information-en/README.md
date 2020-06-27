@@ -1,8 +1,8 @@
 # Loi n° 1.454 du 30 octobre 2017 relative au consentement et à l'information en matière médicale
 
-Version en vigueur au 11 novembre 2017.
+Version en vigueur au 27 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/10-30-1.454@2017.11.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/10-30-1.454@2020.06.27/
 
 | | |
 | --- | --- |

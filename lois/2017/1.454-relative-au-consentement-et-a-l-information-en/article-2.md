@@ -2,7 +2,9 @@
 
 L'article précédent est applicable au mineur dès lors que sa capacité de discernement, appréciée par le professionnel de santé, lui permet d'exprimer sa volonté.
 
-À défaut, il est associé, dans la mesure de sa capacité de discernement, à la prise de décision le concernant. Le consentement libre et éclairé de ses représentants légaux est en outre recueilli. Néanmoins, en cas d'urgence, le professionnel de santé est dispensé de recueillir leur consentement s'il ne peut être obtenu en temps utile.
+À défaut, il est associé, dans la mesure de sa capacité de discernement, à la prise de décision le concernant.
+
+Le consentement libre et éclairé de ses représentants légaux est en outre recueilli. Néanmoins, en cas d'urgence, le professionnel de santé est dispensé de recueillir leur consentement s'il ne peut être obtenu en temps utile.
 
 Lorsque la vie du mineur est en danger, le professionnel de santé peut passer outre le refus de ses représentants légaux et, lorsque son consentement est requis en application du premier alinéa, le refus du mineur.
 
