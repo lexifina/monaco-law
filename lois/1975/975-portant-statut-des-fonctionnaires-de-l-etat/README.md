@@ -1,8 +1,8 @@
 # Loi n° 975 du 12 juillet 1975 portant statut des fonctionnaires de l'État
 
-Version en vigueur au 3 juin 2006.
+Version en vigueur au 27 juin 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1975/07-12-975@2006.06.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1975/07-12-975@2020.06.27/
 
 | | |
 | --- | --- |

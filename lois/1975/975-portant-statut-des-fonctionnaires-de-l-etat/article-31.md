@@ -2,7 +2,7 @@
 
 Les fonctionnaires ont droit ou ouvrent droit au profit de leurs ayants cause :
 
-- 1° à des prestations familiales et à des avantages sociaux ;
+- 1° à des prestations familiales et à des avantages sociaux;
 
 - 2° à des prestations médicales, pharmaceutiques et chirurgicales ;
 
