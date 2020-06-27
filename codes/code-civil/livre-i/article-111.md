@@ -9,3 +9,5 @@ Les obligations alimentaires dont elle serait créancière ou débitrice reprenn
 Si le conjoint a contracté un nouveau mariage depuis la déclaration de décès, le mariage précédent reste dissous.
 
 Si le conjoint ne s'est pas remarié, le régime matrimonial auquel le jugement déclaratif avait mis fin reprend son cours. S'il avait été procédé à une liquidation des droits des époux devenue définitive, le rétablissement du régime matrimonial ne portera pas atteinte aux droits acquis, sur le fondement de la situation apparente, par des personnes autres que le conjoint, les héritiers, légataires ou titulaires quelconques de droits dont l'acquisition était définitive au jour de la déclaration de décès du disparu.
+
+Le contrat de vie commune ou le contrat de cohabitation résilié par l'effet du décès judiciairement déclaré reste résilié lorsque la personne déclarée décédée reparaît.

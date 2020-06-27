@@ -4,4 +4,4 @@ Celui qui exerce une fonction ou occupe un emploi dans un établissement héberg
 
 La même interdiction s'applique à leur médecin traitant.
 
-Pour l'application des deux alinéas précédents sont réputées personnes interposées, le conjoint, les ascendants, les descendants des personnes soumises à cette interdiction.
+Pour l'application des deux alinéas précédents sont réputées personnes interposées, le conjoint, le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation, les ascendants, les descendants des personnes soumises à cette interdiction.
