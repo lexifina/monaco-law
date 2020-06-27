@@ -4,7 +4,7 @@ Tout juge pourra être récusé pour les causes ci-après :
 
 - 1° Si lui ou sa femme ont un intérêt personnel dans la contestation ;
 
-- 2° Si le juge ou sa femme sont parents ou alliés de l'une des parties ou de son conjoint jusqu'au degré de cousin germain inclusivement ; toutefois, si l'alliance est dissoute par décès, la récusation ne pourra avoir lieu que si le juge a été beau-père, gendre ou beau-frère de l'une des parties ;
+- 2° Si le juge, son conjoint, son partenaire d'un contrat de vie commune ou son cohabitant d'un contrat de cohabitation sont parents ou alliés de l'une des parties, de son conjoint, de son partenaire d'un contrat de vie commune ou de son cohabitant d'un contrat de cohabitation, jusqu'au degré de cousin germain inclusivement ; toutefois, si l'alliance est dissoute ou le contrat de vie commune ou le contrat de cohabitation résilié par décès, la récusation ne pourra avoir lieu que si le juge a été beau-père, belle-mère, gendre, belle-fille, belle-sœur ou beau-frère de l'une des parties ;
 
 - 3° Si le juge est tuteur, subrogé tuteur, curateur, conseil judiciaire, administrateur provisoire, héritier présomptif, donataire ou maître de l'une des parties ; si l'une des parties est sa présomptive héritière ou sa donataire ; s'il est administrateur de quelque établissement, société ou direction partie dans la cause ;
 

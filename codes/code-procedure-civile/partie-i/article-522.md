@@ -2,7 +2,7 @@
 
 Ne pourront être saisis pour quelque cause que ce soit :
 
-- 1° Le coucher nécessaire de la partie saisie, de son conjoint, ceux de leurs ascendants et descendants vivant avec eux ;
+- 1° Le coucher nécessaire de la partie saisie, de son conjoint, de son partenaire d'un contrat de vie commune ou de son cohabitant d'un contrat de cohabitation, ceux de leurs ascendants et descendants vivant avec eux ;
 
 - 2° Les habits dont ils sont vêtus ou couverts ou servant à leur usage habituel ;
 

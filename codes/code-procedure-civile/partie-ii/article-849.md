@@ -10,7 +10,7 @@ Le tribunal de première instance connaîtra en chambre du conseil :
 
 - 4° des autorisations demandées que les administrateurs et les envoyés en possession provisoire pour faire les actes jugés nécessaires à la conservation des droits de l'absent ou à la gestion de ses intérêts ;
 
-- 5° des demandes à fin de nomination du tuteur ad hoc en matière de désaveu, de tous autres tuteurs ad hoc , et des curateurs dans le cas où la loi prescrit qu'ils soient nommés par jugement ;
+- 5° des demandes à fin de nomination du tuteur ad hoc en matière de désaveu, de tous autres tuteurs ad hoc, et des curateurs dans le cas où la loi prescrit qu'ils soient nommés par jugement ;
 
 - 6° des demandes d'adoption ;
 
