@@ -2,7 +2,7 @@
 
 Les violences n'ayant entraîné aucune maladie ou incapacité totale de travail seront punies d'un emprisonnement de six mois à un an et de l'amende prévue au chiffre 2 de l'article 26 si elles sont commises :
 
-- 1° sur le conjoint ou sur toute autre personne vivant avec l'auteur sous le même toit ou y ayant vécu durablement ;
+- 1° sur le conjoint, le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation ou sur toute autre personne vivant avec l'auteur sous le même toit ou y ayant vécu durablement ;
 
 - 2° sur un mineur ou sur toute personne dont la vulnérabilité ou l'état de dépendance était apparent ou connu de l'auteur ;
 

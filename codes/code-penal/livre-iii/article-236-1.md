@@ -10,6 +10,6 @@ Le fait de soumettre, sciemment et par quelque moyen que ce soit, toute personne
 
 Encourt le maximum des peines prévues à l'alinéa premier le coupable qui commet l'infraction à l'encontre de l'une des personnes ci-après énoncées :
 
-- - son conjoint ou toute autre personne vivant avec lui sous le même toit ou y ayant vécu durablement ;
+- - son conjoint, son partenaire d'un contrat de vie commune ou son cohabitant d'un contrat de cohabitation ou toute autre personne vivant avec lui sous le même toit ou y ayant vécu durablement ;
 
 - - toute personne dont la vulnérabilité ou l'état de dépendance étaient apparents ou connus de celui-ci.

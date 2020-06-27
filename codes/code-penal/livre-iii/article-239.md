@@ -1,6 +1,6 @@
 # Article 239
 
-Dans les cas énoncés par les articles 236, 237 et 238, le coupable qui a commis l'infraction envers son conjoint ou bien envers toute autre personne vivant avec lui sous le même toit ou y ayant vécu durablement, est puni :
+Dans les cas énoncés par les articles 236, 237 et 238, le coupable qui a commis l'infraction envers son conjoint, son partenaire d'un contrat de vie commune ou son cohabitant d'un contrat de cohabitation ou bien envers toute autre personne vivant avec lui sous le même toit ou y ayant vécu durablement, est puni :
 
 - - du maximum de la réclusion, si l'article prévoit la réclusion de dix à vingt ans ;
 
