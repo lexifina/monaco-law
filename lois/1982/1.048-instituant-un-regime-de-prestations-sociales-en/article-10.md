@@ -8,4 +8,4 @@ L'immatriculation cesse de produire effet, et donne lieu à radiation, à l'expi
 
 Toutefois, en cas de décès, les effets de l'immatriculation sont prorogés, pendant un délai de trois mois suivant le jour du décès, au profit des ayants droit qui résident à Monaco ou dans les communes limitrophes et ne peuvent prétendre à des prestations de même nature au regard d'un autre organisme de services sociaux.
 
-À l'expiration du délai fixé au précédent alinéa, le conjoint survivant, qui perd sa qualité d'ayant droit, peut adhérer à la caisse au même titre que les personnes visées au premier alinéa de l'article premier. Toutefois, cette adhésion ne peut produire effet au-delà d'une période dont la durée est limitée à douze mois.
+À l'expiration du délai fixé au précédent alinéa, le conjoint survivant, ou le partenaire d'un contrat de vie commune survivant qui perd sa qualité d'ayant droit, peut adhérer à la caisse au même titre que les personnes visées au premier alinéa de l'article premier. Toutefois, cette adhésion ne peut produire effet au-delà d'une période dont la durée est limitée à douze mois.
