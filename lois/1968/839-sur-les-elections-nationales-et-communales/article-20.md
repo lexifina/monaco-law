@@ -10,4 +10,4 @@ Les élections du Conseil National se font au scrutin de liste, plurinominal, à
 
 Les élections au Conseil Communal se font au scrutin plurinominal, majoritaire à deux tours, avec possibilité de panachage et sans vote préférentiel.
 
-Le scrutin est secret. Aucune imcompatibilité n'existe entre le mandat de Conseiller Communal et celui de Conseiller National.
+Le scrutin est secret. Aucune incompatibilité n'existe entre le mandat de Conseiller Communal et celui de Conseiller National.
