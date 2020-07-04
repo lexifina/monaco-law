@@ -2,6 +2,8 @@
 
 Tout rassemblement de plus de 10 personnes sur les voies et espaces publics est interdit.
 
+Par dérogation, des évènements regroupant plus de 10 personnes et dans le respect d'une jauge maximale de 5.000 personnes, pourront être ponctuellement autorisés dans le cadre de l'organisation d'une manifestation ou un événement singulier. La demande d'autorisation correspondante devra être déposée préalablement auprès des services compétents de l'Administration, accompagnée d'un dossier complet incluant notamment le protocole de mesures sanitaires envisagées.
+
 Quel que soit le motif de déplacement, celui-ci doit s'effectuer dans le respect des mesures générales de prévention et d'hygiène destinées à limiter la propagation du virus.
 
 Les personnes doivent ainsi respecter, en permanence et en tout lieu, une distanciation sanitaire d'un mètre cinquante (1,5 mètre).
