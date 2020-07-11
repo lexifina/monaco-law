@@ -4,7 +4,7 @@ L'insuffisance professionnelle qui consiste en une incapacité dûment constaté
 
 - le Président du Comité de santé publique ou le membre dudit comité qu'il désignera pour le représenter, Président ;
 
-- le Médecin inspecteur de l'action sanitaire et sociale ;
+- le Médecin inspecteurde l'action sanitaire et sociale ;
 
 - un administrateur choisi parmi les membres du Conseil d'administration et n'appartenant pas au corps médical ;
 

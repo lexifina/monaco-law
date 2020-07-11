@@ -2,7 +2,7 @@
 
 Les concours visés à l'article 6.2. sont ouverts en exécution d'une délibération du conseil d'administration précédée de l'avis de la commission médicale d'Établissement, et approuvée par le Ministre d'État.
 
-Les avis de concours sont publiés au " Journal de Monaco '. Ils mentionnent notamment :
+Les avis de concours sont publiés au « Journal de Monaco '. Ils mentionnent notamment :
 
 - Le nombre des emplois mis au concours, ainsi que la spécialité des disciplines afférentes auxdits postes ;
 
