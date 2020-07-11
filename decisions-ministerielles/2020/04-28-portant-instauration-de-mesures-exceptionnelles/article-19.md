@@ -1,5 +1,5 @@
 # Article 19
 
-La Direction de l'Action Sanitaire, la Direction du Travail, la Direction de l'Expansion Économique et la Direction de la Sûreté Publique peuvent, dans leurs domaines de compétence, procéder au contrôle du respect des mesures générales et spécifiques propres à chaque activité.
+Les établissements ayant pour activité principale l'exploitation d'une discothèque demeurent fermés jusqu'à nouvel ordre. Les activités secondaires de discothèque, annexes aux activités de bar et de restaurant sont interdites jusqu'à nouvel ordre.
 
-La méconnaissance de ces mesures par un établissement peut justifier sa fermeture, à titre provisoire, prononcée dans les formes et conditions prévues à l'article 11 de la loi n° 1.144 du 26 juillet 1991, susvisée.
+Les activités secondaires piano-bar, animation, organisation d'événements, musique « live » peuvent reprendre sous réserve du respect des mesures spécifiques à ces activités, visées en annexe de la présente décision à compter du 6 juillet 2020.

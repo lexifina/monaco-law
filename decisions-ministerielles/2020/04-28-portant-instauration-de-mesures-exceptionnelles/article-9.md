@@ -1,3 +1,3 @@
 # Article 9
 
-Les musées (relevant de la catégorie Y mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé) et salles d'exposition (relevant de la catégorie T mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé) peuvent à nouveau être ouverts au public sous réserve du respect des mesures générales et des mesures spécifiques à leurs activités, visées en annexe de la présente décision.
+Les salles de sport peuvent être ouvertes à compter du 15 juin 2020 sous réserve que leur exploitant ait fait valider le protocole sur les mesures sanitaires qu'il a établi, dans le respect des mesures fixées en annexe de la présente décision, par le Directeur de l'Action Sanitaire.

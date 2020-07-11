@@ -1,3 +1,3 @@
 # Article 25
 
-Le Directeur de l'Action Sanitaire, le Directeur du Travail, le Directeur de l'Office de la Médecine du Travail, le Directeur de l'Expansion Économique et le Directeur de la Sûreté Publique sont chargés, chacun en ce qui le concerne, de l'exécution de la présente décision.
+Tout usager ou client accueilli ou reçu dans un établissement, qu'il soit public ou privé et, par réciprocité, toute personne accueillant ou recevant un usager ou un client extérieur à son établissement, sont tenus de porter un masque, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.

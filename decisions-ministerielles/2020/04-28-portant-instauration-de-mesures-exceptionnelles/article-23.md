@@ -1,3 +1,5 @@
 # Article 23
 
-Les mesures prévues par la présente décision constituent des mesures de prévention sanitaire au sens de la loi n° 1.488 du 11 mai 2020, susvisée ; elles ne sont pas constitutives de mesures portant réglementation temporaire des déplacements, au sens de cette même loi.
+Les mesures générales de prévention et d'hygiène destinées à limiter la propagation du virus sont respectées par les professionnels de santé.
+
+Le port du masque est obligatoire pour la patientèle se rendant chez un professionnel de santé, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.

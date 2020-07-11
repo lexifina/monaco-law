@@ -1,5 +1,3 @@
 # Article 20
 
-Les mesures générales de prévention et d'hygiène destinées à limiter la propagation du virus sont respectées par les professionnels de santé.
-
-Le port du masque est obligatoire pour la patientèle se rendant chez un professionnel de santé, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.
+Sont prorogées les mesures relatives à la fermeture temporaire de certains établissements recevant du public prévues à l'article premier de la Décision Ministérielle du 18 mars 2020, susvisée, à l'exception des commerces de vente et des centres commerciaux (relevant de la catégorie M mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé), qui peuvent ouvrir à compter du 4 mai 2020, sous réserve du respect des dispositions du présent chapitre.
