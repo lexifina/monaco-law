@@ -6,9 +6,9 @@ Sont compétents pour réaliser cette évaluation :
 
 - - pour les juges relevant du tribunal de première instance, le juge tutélaire et le juge de paix : le président du tribunal de première instance ;
 
-- - pour le vice-président, les conseillers à la cour d'appel et les juges d'instruction : le premier président de la cour d'appel ;
+- - pour le président du tribunal de première instance, le vice-président, les conseillers à la cour d'appel et les juges d'instruction : le premier président de la cour d'appel ;
 
-- - pour le premier substitut général, le substitut général et les substituts du parquet : le procureur général.
+- - pour le procureur général adjoint, le premier substitut général, le substitut général et les substituts du parquet : le procureur général.
 
 Les magistrats affectés à la direction des services judiciaires font l'objet d'une évaluation dans les mêmes conditions par le directeur des services judiciaires.
 
