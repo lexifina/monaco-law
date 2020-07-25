@@ -10,7 +10,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 4 - le Président du Conseil de la Couronne
 
-5 - le Directeur des Services Judiciaires, Président du Conseil d'État
+5 - Le Secrétaire d'État à la Justice, Directeur des Services Judiciaires, Président du Conseil d'État
 
 6 - le Secrétaire d'État
 
@@ -214,7 +214,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 96 - les Supérieurs des Ordres Religieux
 
-97 - le Médecin Inspecteur de la Direction de l'Action sanitaire et sociale
+97 - le Médecin Inspecteurde la Direction de l'Action sanitaire et sociale
 
 98 - l'Inspecteur des Pharmacies
 
