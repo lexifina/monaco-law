@@ -1,9 +1,0 @@
-# Article 1er
-
-Eu égard à la situation sanitaire et en cas d'impossibilité d'approvisionnement en spécialités pharmaceutiques à usage humain, des médicaments vétérinaires bénéficiant d'une autorisation de mise sur le marché mentionnée à l'article 9 de la loi n° 1.257 du 12 juillet 2002, susvisée, à même visée thérapeutique, de même substance active, de même dosage et de même voie d'administration que lesdites spécialités peuvent être prescrits, préparés, dispensés et administrés en milieu hospitalier. La liste de ces médicaments et leurs principes actifs, ainsi que leurs conditions de préparation et d'emploi, sont celles fixées par l'Agence nationale de sécurité du médicament et des produits de santé française publiées sur son site Internet. Ces médicaments sont utilisés suivant ces conditions particulières d'emploi pour un patient, au vu de son état clinique. Leur utilisation est inscrite dans son dossier médical.
-
-Les médicaments figurant sur cette liste peuvent être achetés par les établissements de santé auprès des fabricants et distributeurs mentionnés à l'article 2 de l'arrêté ministériel n° 2003-175 du 3 mars 2003, susvisé.
-
-Ces médicaments vétérinaires sont pris en charge par les organismes de sécurité sociale dans les conditions du droit commun en étant considérés comme les spécialités pharmaceutiques à usage humain qu'ils remplacent, sous réserve du respect par les professionnels de santé des conditions d'emploi mentionnées au premier alinéa.
-
-Le recueil d'informations concernant les effets indésirables de ces médicaments vétérinaires et leur transmission au centre compétent de pharmacovigilance sont assurés par le professionnel de santé prenant en charge le patient dans le cadre des dispositions réglementaires en vigueur pour les médicaments à usage humain bénéficiant d'une autorisation de mise sur le marché.
