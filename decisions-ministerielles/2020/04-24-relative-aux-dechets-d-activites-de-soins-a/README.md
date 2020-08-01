@@ -1,8 +1,8 @@
 # Décision ministérielle du 24 avril 2020 relative aux déchets d'activités de soins à risques infectieux et assimilés, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 30 mai 2020.
+Version en vigueur au 1er août 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/04-24-L018976@2020.05.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/04-24-L018976@2020.08.01/
 
 | | |
 | --- | --- |
