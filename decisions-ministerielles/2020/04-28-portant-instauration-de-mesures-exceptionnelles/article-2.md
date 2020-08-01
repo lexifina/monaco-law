@@ -14,6 +14,6 @@ Le port du masque est obligatoire dans les trains, ainsi que sur les quais et ga
 
 Les escales de navires de plaisance étrangers ayant un port d'attache hors de Monaco sont de nouveau possibles dans les ports de Monaco.
 
-Les yachts avec équipage soumettent une déclaration médicale de santé à la Division de Police Maritime et Aéroportuaire de la Direction de la Sûreté Publique 48 heures avant leur escale. Tous les navires souhaitant faire escale à Monaco se conforment au protocole sanitaire décidé par la cellule COVID 19.
+Les yachts avec équipage soumettent une déclaration médicale de santé à la Division de Police Maritime et Aéroportuaire de la Direction de la Sûreté Publique 48 heures avant leur escale.
 
-La pratique des loisirs nautiques est autorisée.
+Tous les navires souhaitant faire escale à Monaco se conforment au protocole sanitaire décidé par la cellule COVID 19. La pratique des loisirs nautiques est autorisée.

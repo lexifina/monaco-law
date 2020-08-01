@@ -1,3 +1,3 @@
 # Article 11
 
-Les activités de congrès sont autorisées sous réserve du respect des mesures générales et des mesures spécifiques à ces activités, visées en annexe de la présente décision.
+Les saunas et les hammams, ainsi que les bains ou bassins à remous, dits spas ou jacuzzis, à usage public ou collectif demeurent fermés.
