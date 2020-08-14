@@ -2,7 +2,7 @@
 
 § 1. Le plan de prévention et de réduction des bruits de chantier définit les mesures visant à réduire les nuisances sonores pour le voisinage et satisfaire aux seuils définis.
 
-§ 2. Le maître d'ouvrage impose notamment à ses prestataires de :
+§ 2. À cette fin, il comprend le formulaire ci-annexé (annexe 4), répertoriant les méthodes ou mesure adoptées eu égard à chacun des impératifs ci-après imposés par le Maître d'ouvrage à ses prestataires :
 
 - mettre en œuvre des écrans acoustiques et/ou des palissades jointives, de hauteur suffisante ;
 

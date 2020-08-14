@@ -4,8 +4,6 @@ Le plan de prévention et de réduction des bruits de chantier, établi en fonct
 
 1. la planification spatiale et temporelle du chantier ;
 
-2. la liste des techniques, des engins et du matériel qui seront employés pour le chantier, ainsi que la justification de leur choix ;
+2. la déclaration selon les formulaires annexés des principaux engins et matériels qui seront employés pour le chantier (annexe 3) et des mesures de réduction du bruit (annexe 4) ;
 
-3. les mesures de réduction du bruit ;
-
-4. le dispositif de suivi et de contrôle du bruit.
+3. le dispositif de suivi et de contrôle du bruit.

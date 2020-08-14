@@ -10,6 +10,8 @@ Regroupant des représentants de la Chambre Patronale du Bâtiment, du Syndicat 
 
 - évalue la faisabilité d'une mise en œuvre en Principauté des solutions identifiées ;
 
-- formule des préconisations sur ces évolutions et leur mise en œuvre.
+- formule des préconisations sur ces évolutions et leur mise en œuvre ;
+
+- met à jour la liste des matériels et engins de référence.
 
 Sous la coordination de la Direction des Travaux Publics, cette Commission se réunit tous les trimestres. Elle peut convier toute personne pouvant contribuer à ses travaux.

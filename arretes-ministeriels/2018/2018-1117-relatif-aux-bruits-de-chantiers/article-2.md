@@ -12,7 +12,7 @@ L'ensemble des éléments remis, selon les cas, à la Direction de la Prospectiv
 
 § 2. Pour les chantiers d'une durée prévisionnelle inférieure à six mois, doivent être utilisés, les meilleurs engins, techniques et matériels disponibles au regard du paramètre acoustique, dans le respect, en toutes circonstances, des dispositions des § 2 et § 3 de l'article 11, et doivent être appliquées les dispositions de l'article 17 du présent arrêté.
 
-Le maître d'ouvrage doit fournir, lors de sa demande d'autorisation auprès, selon le cas, de la Direction de la Prospective, de l'Urbanisme et de la Mobilité ou de la Direction de l'Aménagement Urbain, une déclaration concernant la liste des engins, techniques et matériels utilisés et des mesures prises pour réduire les nuisances sonores ainsi qu'une description de la communication minimale prévue.
+Le maître d'ouvrage doit fournir, lors de sa demande d'autorisation auprès, selon le cas, de la Direction de la Prospective, de l'Urbanisme et de la Mobilité ou la Direction de l'Aménagement Urbain : une déclaration des principaux engins et matériels utilisés et une déclaration des mesures prises pour réduire les nuisances sonores, établies selon les formulaires annexés au présent arrêté (respectivement en annexe n° 3 et 4) ainsi qu'une description de la communication minimale prévue.
 
 Au vu des caractéristiques particulières du projet, la Direction de la Prospective, de l'Urbanisme et de la Mobilité peut également exiger la production des pièces visées au § 1 du présent article.
 
