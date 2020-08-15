@@ -1,8 +1,8 @@
 # Décision ministérielle du 4 mai 2020 relative aux prix de vente des produits hydro-alcooliques, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 9 mai 2020.
+Version en vigueur au 15 août 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/05-04-L018981@2020.05.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/05-04-L018981@2020.08.15/
 
 | | |
 | --- | --- |
