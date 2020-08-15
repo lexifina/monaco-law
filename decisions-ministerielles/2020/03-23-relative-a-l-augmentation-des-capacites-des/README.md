@@ -1,8 +1,8 @@
 # Décision ministérielle du 23 mars 2020 relative à l'augmentation des capacités des établissements de santé afin de permettre la prise en charge des personnes atteintes ou susceptibles d'être atteintes de la maladie COVID-19, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 30 mai 2020.
+Version en vigueur au 15 août 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/03-23-L018780@2020.05.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/03-23-L018780@2020.08.15/
 
 | | |
 | --- | --- |
