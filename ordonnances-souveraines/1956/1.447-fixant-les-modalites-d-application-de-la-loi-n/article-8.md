@@ -1,7 +1,15 @@
 # Article 8
 
-Lorsque pendant une même année scolaire les manquements à l'obligation scolaire constatés au cours de 3 mois ou plus, consécutifs ou non, auront atteint au moins une durée moyenne de quatre demi-journées par mois et n'auront pas été reconnus justifiés, les prestations familiales ne sont dues pour aucun des mois au cours desquels les manquements ont dépassé quatre demi-journées.
+Le versement des prestations familiales pour l'enfant soumis à l'obligation scolaire, ou jusqu'à l'âge de 21 ans lors de poursuite des études, est subordonné à la présentation :
 
-De même, lorsque les absences non justifiées excèdent dix jours, soit au cours d'un même mois, soit consécutivement au cours de deux mois, les prestations familiales ne sont pas dues pour ce mois ou pour le premier des deux mois considérés.
+- soit d'un certificat d'inscription dans un établissement public ou privé d'enseignement ;
 
-Sous réserve de la répétition (ou du remboursement) des sommes indûment versées, les prestations familiales sont dues à nouveau dès qu'un certificat de scolarité établit que l'enfant a repris une fréquentation normale depuis un mois et, au plus tard, à compter du premier mois des grandes vacances scolaires.
+- soit d'un certificat de l'autorité administrative compétente attestant que l'enfant est instruit dans sa famille ;
+
+- soit d'un certificat médical attestant que l'enfant ne peut fréquenter régulièrement aucun établissement d'enseignement en raison de son état de santé.
+
+Les prestations familiales ne sont dues qu'à compter de la production de l'une des pièces visées au précédent alinéa ; toutefois, elles peuvent être rétroactivement payées ou rétablies si l'allocataire justifie que le retard apporté dans la production du certificat requis ne lui est pas imputable.
+
+Les allocataires sont également tenus, en cours d'année scolaire, de produire, à la demande de l'Organisme chargé du service des Prestations Familiales, les justificatifs sollicités.
+
+Une attestation de suivi de scolarité doit également être fournie en fin d'année académique, pour les enfants qui poursuivent leurs études au-delà de l'âge auquel prend fin l'obligation scolaire.
