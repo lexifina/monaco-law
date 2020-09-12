@@ -1,8 +1,8 @@
 # Arrêté du Directeur des Services Judiciaires n° 2012-8 du 4 juin 2012 fixant les conditions d'application de l'Ordonnance Souveraine n° 3.782 du 16 mai 2012 portant organisation de l'administration pénitentiaire et de la détention
 
-Version en vigueur au 6 avril 2013.
+Version en vigueur au 12 septembre 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-directorial/2012/06-04-2012-8@2013.04.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-directorial/2012/06-04-2012-8@2020.09.12/
 
 | | |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Article 54
 
-Conformément aux dispositions du second alinéa de l'article 96 de l'ordonnance souveraine n° 3.782 du 16 mai 2012, susvisée, les personnes détenues condamnées ont la faculté, avec l'autorisation du Directeur de la maison d'arrêt, de téléphoner une fois tous les quinze jours à leurs frais, au moyen d'une carte téléphonique achetée en cantine.
+Conformément aux dispositions du second alinéa de l'article 96 de l'Ordonnance Souveraine n° 3.782 du 16 mai 2012, susvisée, les personnes détenues condamnées ont la faculté, avec l'autorisation du directeur de la Maison d'arrêt, de téléphoner quinze minutes par jour à leurs frais, au moyen d'unités achetées en cantine. La même faculté s'applique aux autres personnes détenues avec l'accord exprès de l'autorité judiciaire compétente.
 
-La même faculté s'applique aux autres personnes détenues avec l'accord exprès de l'autorité judiciaire compétente.
+La personne détenue indigente peut bénéficier de quinze minutes hebdomadaires avec l'autorisation de l'autorité judiciaire ou administrative compétente.
 
 Le Directeur de la maison d'arrêt peut, pour des raisons de sécurité, supprimer cette faculté. Il en avise alors l'autorité ayant délivré l'autorisation.
 

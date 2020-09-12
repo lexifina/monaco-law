@@ -2,7 +2,7 @@
 
 Constitue une faute disciplinaire du premier degré, le fait pour une personne détenue :
 
-- 1°) de proférer des insultes ou menaces à l'égard d'un membre du personnel de la maison d'arrêt, d'une personne en mission ou en visite dans l'établissement ou d'un codétenu ;
+- 1°) de proférer oralement ou par geste, des insultes à l'encontre d'un membre du personnel de la Maison d'arrêt, d'un membre de sa famille, d'une personne en mission ou en visite dans l'établissement ou d'un codétenu ;
 
 - 2°) de tutoyer les personnels pénitentiaires et les personnes en mission ou en visite dans l'établissement ;
 
@@ -36,6 +36,8 @@ Constitue une faute disciplinaire du premier degré, le fait pour une personne d
 
 - 17°) de pratiquer des jeux non autorisés par le règlement intérieur ;
 
-- 18°) de refuser d'exécuter les ordres ou instructions donnés dans le cadre de l'article 69 du présent arrêté ;
+- 18°) de causer délibérément de simples dommages aux locaux ou au matériel affecté à la Maison d'arrêt ;
 
-- 19°) d'inciter un codétenu à commettre l'un des manquements énumérés par le présent article.
+- 19°) de refuser d'exécuter les ordres ou instructions donnés dans le cadre de l'article 69 du présent arrêté ;
+
+- 20°) d'inciter un codétenu à commettre l'un des manquements énumérés par le présent article.
