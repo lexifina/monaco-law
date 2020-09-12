@@ -1,5 +1,3 @@
 # Article 19
 
-Les établissements ayant pour activité principale l'exploitation d'une discothèque demeurent fermés jusqu'à nouvel ordre. Les activités secondaires de discothèque, annexes aux activités de bar et de restaurant sont interdites jusqu'à nouvel ordre.
-
-Les activités secondaires piano-bar, animation, organisation d'événements, musique « live » peuvent reprendre sous réserve du respect des mesures spécifiques à ces activités, visées en annexe de la présente décision à compter du 6 juillet 2020.
+Sont prorogées les mesures relatives à la fermeture temporaire de certains établissements recevant du public prévues à l'article premier de la Décision Ministérielle du 18 mars 2020, susvisée, à l'exception des commerces de vente et des centres commerciaux (relevant de la catégorie M mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé), qui peuvent ouvrir à compter du 4 mai 2020, sous réserve du respect des dispositions du présent chapitre.

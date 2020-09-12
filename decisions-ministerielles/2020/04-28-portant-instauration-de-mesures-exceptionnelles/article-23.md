@@ -1,5 +1,5 @@
 # Article 23
 
-Les mesures générales de prévention et d'hygiène destinées à limiter la propagation du virus sont respectées par les professionnels de santé.
+Les établissements de culte sont autorisés à rester ouverts.
 
-Le port du masque est obligatoire pour la patientèle se rendant chez un professionnel de santé, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.
+Tout rassemblement ou réunion en leur sein respecte les mesures générales et les mesures spécifiques à leur activité, visées en annexe de la présente décision.

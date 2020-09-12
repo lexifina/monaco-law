@@ -1,8 +1,8 @@
 # Décision ministérielle du 28 avril 2020 portant instauration de mesures exceptionnelles dans le cadre de la reprise progressive des activités en vue de lutter contre l'épidémie de COVID-19
 
-Version en vigueur au 8 août 2020.
+Version en vigueur au 12 septembre 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/04-28-L018979@2020.08.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/04-28-L018979@2020.09.12/
 
 | | |
 | --- | --- |

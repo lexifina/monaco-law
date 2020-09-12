@@ -1,5 +1,5 @@
 # Article 22
 
-La Direction de l'Action Sanitaire, la Direction du Travail, la Direction de l'Expansion Économique et la Direction de la Sûreté Publique peuvent, dans leurs domaines de compétence, procéder au contrôle du respect des mesures générales et spécifiques propres à chaque activité.
+Les mesures générales de prévention et d'hygiène destinées à limiter la propagation du virus sont respectées par les professionnels de santé.
 
-La méconnaissance de ces mesures par un établissement peut justifier sa fermeture, à titre provisoire, prononcée dans les formes et conditions prévues à l'article 11 de la loi n° 1.144 du 26 juillet 1991, susvisée.
+Le port du masque est obligatoire pour la patientèle se rendant chez un professionnel de santé, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.

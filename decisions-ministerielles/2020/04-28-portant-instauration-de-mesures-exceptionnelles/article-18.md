@@ -1,3 +1,5 @@
 # Article 18
 
-Les activités des bars et restaurants (relevant de la catégorie N mentionnée à l'article GEN 4 de l'Annexe n° 1 - livre premier dispositions générales communes à toutes les constructions, modifiée, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé) peuvent reprendre, sous réserve du respect des mesures générales et des mesures spécifiques à ces activités, visées en annexe de la présente décision.
+Les établissements ayant pour activité principale l'exploitation d'une discothèque demeurent fermés jusqu'à nouvel ordre. Les activités secondaires de discothèque, annexes aux activités de bar et de restaurant sont interdites jusqu'à nouvel ordre.
+
+Les activités secondaires piano-bar, animation, organisation d'événements, musique « live » peuvent reprendre sous réserve du respect des mesures spécifiques à ces activités, visées en annexe de la présente décision à compter du 6 juillet 2020.

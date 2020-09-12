@@ -1,5 +1,3 @@
 # Article 24
 
-Les établissements de culte sont autorisés à rester ouverts.
-
-Tout rassemblement ou réunion en leur sein respecte les mesures générales et les mesures spécifiques à leur activité, visées en annexe de la présente décision.
+Tout usager ou client accueilli ou reçu dans un établissement, qu'il soit public ou privé et, par réciprocité, toute personne accueillant ou recevant un usager ou un client extérieur à son établissement, sont tenus de porter un masque, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.
