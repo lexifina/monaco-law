@@ -1,13 +1,21 @@
 # Article 1er
 
-Eu égard à la situation sanitaire, à compter du 12 août 2020 et jusqu'à nouvel ordre, le port du masque est obligatoire dans les zones extérieures suivantes :
+Eu égard à la situation sanitaire, le port du masque est obligatoire dans les zones extérieures suivantes :
 
-- - sur la place du Palais Princier ;
+- - la place du Palais Princier ;
 
-- - dans les ruelles de la vieille ville du Rocher ;
+- - les ruelles de la vieille ville du Rocher ;
 
-- - sur la place du Casino ;
+- - la place du Casino ;
 
-- - sur l'esplanade du Centre Commercial de Fontvieille.
+- - l'esplanade du Centre Commercial de Fontvieille ;
+
+- - les abords et espaces d'accès aux établissements scolaires ;
+
+- - les espaces d'accès aux transports en commun et notamment les arrêts de bus et les voies de desserte de la gare ferroviaire : Allée Lazare Sauvaigo, Promenade Honoré II et pont Sainte-Dévote ;
+
+- - les espaces voisins de la place du Casino qui forment le Carré d'or et notamment Monte-Carlo One, les jardins avenue des Spélugues et les jardins des Boulingrins ;
+
+- - les marchés de la Condamine et de Monte-Carlo durant leurs heures de fonctionnement.
 
 Toutefois cette obligation ne s'applique pas aux enfants de moins de cinq ans.
