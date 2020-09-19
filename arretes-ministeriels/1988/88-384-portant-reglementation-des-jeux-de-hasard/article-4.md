@@ -6,11 +6,11 @@
 
 - soit par des jetons particuliers, sans valeur faciale, de couleur différente pour chaque joueur, et portant un sigle qui les affecte à une table de roulette et à elle seule. La valeur de ces jetons est déterminée par le joueur lui-même, dans le respect des règles afférentes aux maxima et minima des mises ; cette valeur est indiquée au moyen de » marqueurs « disposés par le chef de table, d'une manière visible, sur des dispositifs ou matériels agréés.
 
-4.2 - Le personnel affecté à chaque appareil comprend : un chef de table ou un cadre assisté soit de deux croupiers, soit d'un croupier disposant d'une machine trieuse.
+4.2 - Le personnel affecté à chaque appareil comprend : une personne qualifiée et habilitée à occuper la fonction de chef de table assistée soit de deux croupiers, soit d'un croupier disposant d'une machine trieuse.
 
-Le chef de table ou le cadre est responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à sa table.
+La personne qualifiée est responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à sa table.
 
-Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-ci un nombre suffisant de chefs ou de cadres pour assurer une parfaite sécurité des opérations de jeux.
+Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-ci un nombre suffisant de personnes qualifiées pour assurer une parfaite sécurité des opérations de jeu.
 
 Le croupier, responsable de la manœuvre de l'appareil, actionne le cylindre et doit lancer la bille dans le sens opposé à celui de la rotation du cylindre précité. La bille doit accomplir au moins sept tours de cylindre. Dans le cas où un jeton, ou tout autre objet, vient à tomber dans le cylindre pendant le mouvement de rotation, le croupier doit, après avoir annoncé » rien ne va «, arrêter le jeu, puis reprendre la bille, la replacer dans la case du numéro sorti au coup précédent, et la lancer de nouveau. Tant que la force centrifuge retient la bille dans la galerie, les joueurs peuvent continuer à miser, mais dès que le mouvement de la bille se ralentit et que celle-ci est sur le point de tomber dans le cylindre, le croupier annonce » rien ne va plus «.
 

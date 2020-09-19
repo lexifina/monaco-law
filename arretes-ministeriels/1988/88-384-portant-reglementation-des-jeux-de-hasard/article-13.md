@@ -12,9 +12,9 @@
 
 13.3 - Le croupier est seul autorisé à sortir les cartes du sabot. Des joueurs debout peuvent participer au jeu.
 
-L'usage de table de « punto banco » ne comportant que sept ou neuf emplacements réservés à autant de joueurs assis est autorisé. Dans ce cas, le personnel affecté à la table comprend un croupier chargé des deux fonctions de « tailleur » et de « payeur » et un chef de table, responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à la table.
+L'usage de table de « punto banco » ne comportant que sept ou neuf emplacements réservés à autant de joueurs assis est autorisé. Dans ce cas, le personnel affecté à la table comprend un croupier chargé des deux fonctions de « tailleur » et de « payeur » et une personne qualifiée et habilitée à occuper la fonction de chef de table, responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à la table.
 
-Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-ci un nombre suffisant de chefs pour assurer une parfaite sécurité des opérations de jeu.
+Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-ci un nombre suffisant de personnes qualifiées pour assurer une parfaite sécurité des opérations de jeu.
 
 Le croupier extrait les cartes du sabot et les dispose alternativement sur les emplacements marqués « punto » et « banco ».
 
