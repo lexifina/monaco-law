@@ -22,7 +22,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - 4 - Professions libérales et activités diverses :
 
-  - 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe, de chiropracteur, de psychologue ou de psychothérapeute et par les psychanalystes diplômés ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et prothésistes ;
+  - 1° Les soins dispensés aux personnes par les membres des professions médicales et paramédicales, par les pharmaciens, par les praticiens autorisés à faire usage légalement du titre d'ostéopathe, de chiropracteur, de psychologue ou de psychothérapeute et par les psychanalystes diplômés ainsi que les travaux d'analyse de biologie médicale et les fournitures de prothèses dentaires par les dentistes et prothésistes ;
 
   - 2° Les frais d'hospitalisation et de traitement dans les établissements privés autorisés à dispenser des soins ;
 

@@ -6,17 +6,15 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
   - à la fourniture de logement et aux trois quarts du prix de pension ou de demi-pension dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement;
 
-- b) les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont fixées par l'article A-132 de l'annexe au code ;
+- b) les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont fixées par l'article A-132 de l'annexe au code, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51 ;
 
 - c) les taxes, surtaxes et redevances perçues sur les usagers des réseaux d'assainissement ;
 
-- d) les spectacles suivants :
+- d) Les loteries foraines ;
 
-  - foires, salons, expositions autorisées ;
+- e) Les droits d'admission aux expositions, sites et installations à caractère culturel, ludique, éducatif ou professionnel.
 
-  - jeux de manèges forains à l'exception des appareils automatiques autres que ceux qui sont assimilés à des loteries foraines ;
-
-- e) les droits d'entrée pour la visite des parcs botaniques, des musées, monuments, grottes et sites ainsi que des expositions culturelles ;
+- Le présent e ne s'applique pas aux opérations relevant de l'article 52-0 ou aux sommes payées pour utiliser des installations ou des équipements sportifs, assister à des spectacles, faire fonctionner des appareils automatiques ou participer à des jeux d'argent et de hasard ;
 
 - f) les transports de voyageurs ;
 

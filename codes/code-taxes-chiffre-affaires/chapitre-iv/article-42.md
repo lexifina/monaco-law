@@ -12,7 +12,7 @@ II. - 1. Dans la mesure où les biens et les services sont utilisés pour les be
 
 - a) celle qui figure sur les factures établies conformément aux dispositions de l'article 71 et si la taxe pouvait légalement figurer sur lesdites factures ;
 
-- b) celle qui est acquittée par les redevables eux‑mêmes, dans les conditions prévues au II de l'article 104, pour les importations ou les sorties de régimes suspensifs mentionnés au 1°, au a du 2° et au 7° du I de l'article 50 A ou, dans le cas contraire, celle qui est due pour les importations ou les sorties de ces régimes ;
+- b) Sauf pour les opérations mentionnées au e,celle qui est acquittée par les redevables eux‑mêmes, dans les conditions prévues au II de l'article 104, pour les importations ou les sorties de régimes suspensifs mentionnés au 1°, au a du 2° et au 7° du I de l'article 50 A ou, dans le cas contraire, celle qui est due pour les importations ou les sorties de ces régimes ;
 
 - c) celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la livraison à soi-même des biens ou des services ;
 
@@ -42,7 +42,7 @@ V. - Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient s
 
 - b) les services bancaires et financiers exonérés en application des dispositions de l'article 25-1°- a) à e) lorsqu'ils sont rendus à des personnes domiciliées ou établies en dehors de la Principauté, de la France et des États membres de l'Union européenne autres que la France ou se rapportent à des exportations de biens ;
 
-- c) les opérations exonérées en application des dispositions des articles 29, 30, du I de l'article 31, de l'article 33 et du 1° du II et du 2° du III de l'article 81 ;
+- c) les opérations exonérées en application des dispositions des articles 29, 30, des I et III de l'article 31, de l'article 33 et du 1° du II et du 2° du III de l'article 81 ;
 
 - d) les opérations non imposables en Principauté réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se situait en Principauté. Les modalités et les limites du remboursement de la taxe déductible au titre de ces opérations sont fixées par les articles A-119 à A-126 et A-167 de l'annexe au code.
 

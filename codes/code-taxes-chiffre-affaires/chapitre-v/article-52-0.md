@@ -4,7 +4,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - A. - Les opérations d'achat, d'importation, d'acquisition intracommunautaire, de vente, de livraison, de commission, de courtage ou de façon portant sur :
 
-  - 1° L'eau et les boissons non alcooliques ainsi que les produits destinés à l'alimentation humaine à l'exception des produits suivants auxquels s'applique le taux prévu à l'article 51 :
+  - 1° L'eau et les boissons autres que les boissons alcooliques ainsi que les produits destinés à l'alimentation humaine à l'exception des produits suivants auxquels s'applique le taux prévu à l'article 51 :
 
     - a) Les produits de confiserie ;
 
@@ -26,7 +26,11 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
   - 5° bis Pour les appareillages, équipements et matériels mentionnés aux 2° et 5° du présent A, la taxe sur la valeur ajoutée au taux réduit de 5,5 % s'applique également à leur location ;
 
-  - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique, y compris ceux fournis par téléchargement.
+  - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio.
+
+  - Lorsque ces prestations sont comprises dans une offre, composée ou non de plusieurs autres offres, qui comprend l'accès à un réseau de communications électroniques ou à un équipement terminal ou la fourniture de services de télévision le taux réduit est applicable au supplément de prix payé par le client par rapport à une offre identique, mais ne comprenant pas tout ou partie de ces mêmes prestations, commercialisée dans des conditions comparables. Le cas échéant, cette assiette est majorée de celle établie pour l'application du taux réduit à cette autre offre.
+
+  - À défaut d'une telle autre offre, le taux réduit est applicable aux sommes payées, par client, pour l'acquisition de ces prestations, dans la limite, le cas échéant, du prix auquel ces prestations sont commercialisées par ailleurs par le fournisseur ;
 
 - B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, de l'énergie solaire thermique, des déchets et d'énergie de récupération ;
 
@@ -43,6 +47,10 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 - 2° Le prix du billet d'entrée donnant accès à des interprétations originales d'œuvres musicales nécessitant la présence physique d'au moins un artiste du spectacle percevant une rémunération dans des établissements où il est servi facultativement des consommations pendant le spectacle.
 
 - G. - Les droits d'entrée dans les salles de spectacles cinématographiques, quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents audiovisuels qui sont présentés.
+
+- Lorsque ces prestations sont comprises dans une offre, composée ou non de plusieurs autres offres, qui comprend l'accès à un réseau de communications électroniques ou à un équipement terminal ou la fourniture de services de télévision le taux réduit est applicable au supplément de prix payé par le client par rapport à une offre identique, mais ne comprenant pas tout ou partie de ces mêmes prestations, commercialisée dans des conditions comparables. Le cas échéant, cette assiette est majorée de celle établie pour l'application du taux réduit à cette autre offre.
+
+- À défaut d'une telle autre offre, le taux réduit est applicable aux sommes payées, par client, pour l'acquisition de ces prestations, dans la limite, le cas échéant, du prix auquel ces prestations sont commercialisées par ailleurs par le fournisseur ;
 
 - H. - Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article 56 du code des taxes sur le chiffre d'affaires ou dans le cadre de festivals de cinéma.
 

@@ -28,6 +28,8 @@ Pour les livraisons de gaz naturel ou d'électricité mentionnées au b du même
 
 4 quater. Pour les transferts de quotas autorisant les exploitants à émettre des gaz à effet de serre, au sens de l'article 3 de la directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté et modifiant la directive 96/61/CE du Conseil, et d'autres unités pouvant être utilisées par les opérateurs en vue de se conformer à cette directive, la taxe est acquittée par l'assujetti bénéficiaire du transfert.
 
+Pour les transferts de certificats de garanties d'origine de l'électricité produite à partir de sources renouvelables et de garanties de capacités assurant la sécurité de l'approvisionnement en électricité, la taxe est acquittée par l'assujetti bénéficiaire du transfert.
+
 4 quinquies. Pour les services de communications électroniques, la taxe est acquittée par l'acquéreur qui dispose d'un numéro d'identification à Monaco.
 
 4 sexies. Pour les travaux de construction, y compris ceux de réparation, de nettoyage, d'entretien, de transformation et de démolition effectués en relation avec un bien immobilier par une entreprise sous-traitante, pour le compte d'un preneur assujetti, la taxe est acquittée par le preneur.

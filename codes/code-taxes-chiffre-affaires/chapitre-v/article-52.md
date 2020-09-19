@@ -18,7 +18,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
   - d) Produits de l'horticulture et de la floriculture d'ornement n'ayant subi aucune transformation ;
 
-- 4° Aliments simples ou composés utilisés pour la nourriture du bétail, des animaux de basse-cour, des poissons d'élevage destinés à la consommation humaine et des abeilles, ainsi que les produits entrant dans la composition de ces aliments et dont la liste est fixée par l'article A-133 de l'annexe au code ;
+- 4° Matières premières, aliments composés et additifs utilisés pour l'alimentation des animaux nourris, élevés ou détenus pour la production de denrées alimentaires destinées à la consommation humaine ;
 
 - 5° Produits suivants à usage agricole :
 

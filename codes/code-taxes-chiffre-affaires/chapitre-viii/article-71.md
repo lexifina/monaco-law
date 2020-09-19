@@ -4,7 +4,7 @@ I. - 1° Tout assujetti est tenu de s'assurer qu'une facture est émise, par lui
 
 - a) Pour les livraisons de biens ou les prestations de services qu'il effectue pour un autre assujetti, ou pour une personne morale non assujettie, et qui ne sont pas exonérées en application des articles 23 à 27 ;
 
-- b) Pour les livraisons de biens visées aux articles 7 et 8 et pour les livraisons de biens exonérées en application du I de l'article 31 et II de l'article 94 ;
+- b) Pour les livraisons de biens mentionnées à l'article 7 et pour les livraisons de bien exonérées en application des I et III de l'article 31 et du II de l'article 94 ;
 
 - c) Pour les acomptes qui lui sont versés avant que l'une des opérations visées aux a et b ne soit effectuée, à l'exception des livraisons de biens exonérées en application du I de l'article 31 et du II de l'article 94 ;
 
@@ -36,9 +36,9 @@ V. - Les factures électroniques sont émises et reçues sous une forme électro
 
 VI. - Pour satisfaire aux conditions prévues au IV, l'assujetti peut émettre ou recevoir des factures :
 
-1° soit sous forme électronique en recourant à toute solution technique autre que celles prévues aux 2° et 3°, ou sous forme papier, dès lors que des contrôles documentés et permanents sont mis en place par l'entreprise et permettent d'établir une piste d'audit fiable entre la facture émise ou reçue et la livraison de biens ou prestation de services qui en est le fondement ;
+- 1° soit sous forme électronique en recourant à toute solution technique autre que celles prévues aux 2° et 3°, ou sous forme papier, dès lors que des contrôles documentés et permanents sont mis en place par l'entreprise et permettent d'établir une piste d'audit fiable entre la facture émise ou reçue et la livraison de biens ou prestation de services qui en est le fondement ;
 
-2° Soit en recourant à la procédure de signature électronique avancée définie au a du 2 de l'article 233 de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée en ce qui concerne les règles de facturation.
+- 2° Soit en recourant à la procédure de signature électronique avancée définie au a du 2 de l'article 233 de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée en ce qui concerne les règles de facturation.
 
 Une ordonnance souveraine précise les conditions d'émission, de signature et de stockage de ces factures ;
 

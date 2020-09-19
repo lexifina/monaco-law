@@ -54,7 +54,7 @@ III. - 1. Une régularisation de la taxe initialement déduite et grevant un bie
 
   - b. Dont le coefficient d'assujettissement de référence est nul.
 
-- IV. - 1. (1 abrogé) ;
+IV. - 1. (1 abrogé) ;
 
 2. Lorsqu'un bien en stock, ou un bien immobilisé non encore utilisé, vient à être utilisé à des opérations ouvrant droit à déduction, la taxe initiale peut être déduite à proportion du coefficient de déduction résultant de ce changement.
 

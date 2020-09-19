@@ -4,17 +4,15 @@
 
 2. Les redevables peuvent sur leur demande être autorisés, dans des conditions qui sont fixées par l'article A-145 de l'annexe au code à disposer d'un délai supplémentaire d'un mois pour remettre la déclaration prévue au 1.
 
-Les redevables disposent d'un délai supplémentaire d'un mois pour les opérations d'importation pour lesquelles ils sont en mesure de démontrer qu'ils ne sont pas en possession de la déclaration d'importation sur laquelle ils sont désignés comme destinataires réels.
-
 Lorsque la taxe exigible annuellement est inférieure à 4 000 € les redevables sont admis à déposer leurs déclarations par trimestre.
 
 3. En cas de cession ou de cessation d'une activité professionnelle, les redevables sont tenus de souscrire dans les trente jours la déclaration prévue au 1.
 
 4. Dans la déclaration prévue au 1, doivent notamment être identifiés :
 
-- a) le montant total hors taxe sur la valeur ajoutée, des livraisons de biens exonérées en vertu du I de l'article 31, des livraisons de biens installés ou montés sur le territoire d'un État membre de l'Union européenne autre que la France et des livraisons dont le lieu n'est pas situé à Monaco ou en France et des livraisons dont le lieu est situé à Monaco ou en France en application des dispositions de l'article 7 ;
+- a) le montant total hors taxe sur la valeur ajoutée, des livraisons de biens exonérées en vertu du I de l'article 31, des livraisons de biens installés ou montés sur le territoire d'un État membre de l'Union européenne autre que la France et des livraisons dont le lieu n'est pas situé à Monaco ou en France et des livraisons dont le lieu est situé à Monaco ou en France en application des dispositions du 1° du I de l'article 7 ;
 
-- b) le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 2 et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un État membre de l'Union européenne autre que la France et installés ou montés à Monaco ou en France, et des livraisons de biens dont le lieu est situé à Monaco ou en France en application des dispositions de l'article 8 et des livraisons de biens effectuées à Monaco ou en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 4 de l'article 62.
+- b) le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 2 et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un État membre de l'Union européenne autre que la France et installés ou montés à Monaco ou en France, et des livraisons de biens dont le lieu est situé à Monaco ou en France en application des dispositions du 2° du I de l'article 7 et des livraisons de biens effectuées à Monaco ou en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 4 de l'article 62.
 
 - b bis) le montant hors taxes des opérations mentionnées au 4 ter de l'article 62 réalisées ou acquises par l'assujetti ;
 

@@ -6,17 +6,19 @@
 
 - b) pour les livraisons autres que celles qui sont visées au c) du 3° du II de l'article 1er ainsi que pour les prestations de services qui donnent lieu à l'établissement de décomptes ou à des encaissements successifs, au moment de l'expiration des périodes auxquelles ces décomptes ou encaissements se rapportent ;
 
-- c) pour les livraisons de biens, les prestations de services et les acquisitions intracommunautaires réputées effectuées en application des dispositions du V de l'article 1er et du III de l'article 2, au moment où l'opération dans laquelle l'assujetti s'entremet est effectuée ;
+- c) pour les livraisons de biens, les prestations de services et les acquisitions intracommunautaires réputées effectuées en application du 1° du V de l'article 1er et du III de l'article 2, au moment où l'opération dans laquelle l'assujetti s'entremet est effectuée ;
 
 - c bis) pour les prestations de services pour lesquelles la taxe est due par le preneur de services en application du 2 de l'article 62, qui ont lieu de manière continue sur une période supérieure à une année et qui ne donnent pas lieu à des décomptes ou à des paiements durant cette période, à l'expiration de chaque année civile, tant qu'il n'est pas mis fin à la prestation de services ;
 
 - c ter) pour les livraisons et transferts mentionnés au I de l'article 31 effectués de manière continue pendant une période de plus d'un mois civil, à l'expiration de chaque mois civil ;
 
+- c quater) Pour les livraisons de biens par un assujetti réputé avoir acquis et livré les biens conformément aux a et b du 2° du V de l'article 1er et pour la livraison à cet assujetti, au moment où le paiement a été accepté ;
+
 - d) pour les livraisons à soi-même d'immeubles neufs taxées en application du 2° du 1 du II de l'article 5, au moment de la livraison qui intervient, au plus tard, lors de la délivrance de l'autorisation d'occuper les locaux prévue par l'article 118 de l'ordonnance souveraine n° 3.647 du 9 septembre 1966 modifiée ; les modalités d'application du présent paragraphe sont fixées par les articles A-2 à A-3 de l'annexe au présent Code ;
 
 2. La taxe est exigible :
 
-- a) Pour les livraisons et les achats visés au a du 1 et pour les opérations mentionnées au d du même 1, lors de la réalisation du fait générateur.
+- a) Pour les livraisons et les achats mentionnés aux a et c quater du 1 et pour les opérations mentionnées au d du même 1, lors de la réalisation du fait générateur.
 
 - Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de biens similaires donnant lieu à des décomptes ou à des encaissements successifs, l'exigibilité peut intervenir au moment du débit sur autorisation du directeur des Services fiscaux ; elle intervient en tout état de cause dès la perception d'acomptes et à concurrence de leur montant, lorsqu'il en est demandé avant l'intervention du fait générateur ou du débit ;
 

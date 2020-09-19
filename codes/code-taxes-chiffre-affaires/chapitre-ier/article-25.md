@@ -16,7 +16,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
   - e) les opérations, autres que celles de garde et de gestion portant sur les actions, les parts de sociétés ou d'associations, les obligations et les autres titres, à l'exclusion des titres représentatifs de marchandises et des parts d'intérêts dont la possession assure en droit ou en fait l'attribution en propriété ou en jouissance d'un bien immeuble ou d'une fraction d'un bien immeuble ;
 
-  - f) la gestion de fonds communs de placements et de fonds communs de créances ;
+  - f) la gestion des organismes de placement collectif en valeurs mobilières mentionnés au paragraphe 2 de l'article 1er de la directive 2009/65/CE du Parlement européen et du Conseil du 13 juillet 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) ainsi que des autres organismes de placement collectif présentant des caractéristiques similaires ;
 
   - g) les opérations relatives à l'or, autre que l'or à usage industriel, lorsqu'elles sont réalisées par les banques, établissements financiers, établissements de crédit, changeurs, escompteurs et remisiers, ou par toute autre personne qui en fait son activité principale ;
 
