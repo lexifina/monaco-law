@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-613 du 14 septembre 2020 établissant la liste des affections ouvrant droit au congé de longue maladie au bénéfice des fonctionnaires et agents, de plus de deux ans d'ancienneté, de l'État et de la Commune
