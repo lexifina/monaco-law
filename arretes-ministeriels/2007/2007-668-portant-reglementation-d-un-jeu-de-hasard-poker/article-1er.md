@@ -2,7 +2,7 @@
 
 Le jeu dénommé «Poker Texas Hold'Hem Ultimate» est régi par les dispositions suivantes :
 
-Le personnel affecté à chaque table comprend un croupier placé sous le contrôle d'un chef de table ou d'un cadre, chargé de la surveillance d'une ou plusieurs tables.
+Le personnel affecté à chaque table comprend un croupier placé sous le contrôle d'une personne qualifiée remplissant la fonction de chef de table chargée de la surveillance d'une ou plusieurs tables.
 
 Le croupier anime la partie, invite les joueurs à miser, arrête les jeux et contrôle le placement des mises avant la distribution des cartes.
 
@@ -94,7 +94,7 @@ Dispositions diverses
 
 Différentes combinaisons et paiements
 
-TRIPS | BLIND
+TRIPS | BLIND |
 
 ROYAL FLUSH | 50 POUR 1 | 500 POUR 1
 
