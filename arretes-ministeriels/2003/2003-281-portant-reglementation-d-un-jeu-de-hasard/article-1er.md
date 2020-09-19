@@ -18,7 +18,7 @@ Si le joueur refuse la coupe, celle-ci est proposée au joueur suivant, en allan
 
 S'il est fait usage d'un mélangeur distributeur, il n'y a pas de coupe. Après leur comptée et leur vérification, les cartes sont introduites dans l'appareil par le croupier.
 
-Le personnel affecté à chaque table comprend un croupier-tailleur placé sous le contrôle d'un chef de table ou d'un cadre, chargé de la surveillance d'une ou plusieurs tables. Le croupier-tailleur anime la partie, invite les joueurs à miser, arrête les jeux et contrôle, avec le chef de table, le placement des mises avant le mélange et la distribution des cartes.
+Le personnel affecté à chaque table comprend un croupier-tailleur placé sous le contrôle d'une personne qualifiée et habilitée à occuper la fonction de chef de table, chargée de la surveillance d'une ou plusieurs tables. Le croupier-tailleur anime la partie, invite les joueurs à miser, arrête les jeux et contrôle, avec la personne qualifiée, le placement des mises avant le mélange et la distribution des cartes.
 
 Ces employés ne peuvent être relevés en cours de donne, de déroulement du jeu ou des paiements.
 
