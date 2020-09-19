@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-615 du 14 septembre 2020 fixant la liste des orientations thérapeutiques ouvrant droit à la prise en charge des cures thermales des fonctionnaires et agents de l'État et de la Commune et la liste des frais remboursés
