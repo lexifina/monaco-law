@@ -14,11 +14,11 @@ Le tapis peut être doté d'emplacements recevant les annonces dites «classique
 
 L'usage de la double table est autorisé.
 
-1.3 - Le personnel affecté à chaque table comprend soit deux croupiers, soit un croupier disposant d'une machine trieuse de jetons, d'un modèle agréé, placé(s) sous l'autorité d'un chef de table.
+1.3- Le personnel affecté à chaque table comprend soit deux croupiers, soit un croupier disposant d'une machine trieuse de jetons, d'un modèle agréé, placé(s) sous l'autorité d'une personne qualifiée et habilitée à occuper la fonction de chef de table.
 
-Le chef de table est responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectués à la table.
+La personne qualifiée est responsable de la clarté et de la régularité du jeu, des paiements et de toutes les opérations effectuées à la table.
 
-Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-ci un nombre suffisant de chefs pour assurer une parfaite sécurité des opérations de jeu.
+Lorsque plusieurs tables sont ouvertes, la Direction des Jeux affecte à celles-ci un nombre suffisant de personnes qualifiées pour assurer une parfaite sécurité des opérations de jeu.
 
 1.4 - L'employé chargé de la manœuvre de l'appareil doit obligatoirement actionner, à chaque fois, le cylindre dans un sens opposé au précédent et lancer la bille dans le sens inverse. Dans le cas où un jeton ou tout autre objet vient à tomber dans le cylindre pendant le mouvement de rotation, le croupier doit, après avoir annoncé «rien ne va plus', arrêter le jeu puis reprendre la bille, la replacer dans la case du numéro sorti au coup précédent et la lancer à nouveau.
 
