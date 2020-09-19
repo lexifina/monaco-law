@@ -2,7 +2,7 @@
 
 Le jeu «Three Card Poker» ou «Poker Trois Cartes» est régi par les dispositions suivantes :
 
-Le personnel affecté à chaque table comprend un croupier placé sous le contrôle d'un cadre chargé de la surveillance d'une ou plusieurs tables.
+Le personnel affecté à chaque table comprend un croupier placé sous le contrôle d'une personne qualifiée et habilitée à occuper la fonction de chef de table chargée de la surveillance d'une ou plusieurs tables.
 
 Le croupier anime la partie, invite les joueurs à miser, arrête les jeux et contrôle le placement des mises avant la distribution des cartes.
 
