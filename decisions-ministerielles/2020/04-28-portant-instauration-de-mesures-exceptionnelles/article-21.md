@@ -1,5 +1,7 @@
 # Article 21
 
-La Direction de l'Action Sanitaire, la Direction du Travail, la Direction de l'Expansion Économique et la Direction de la Sûreté Publique peuvent, dans leurs domaines de compétence, procéder au contrôle du respect des mesures générales et spécifiques propres à chaque activité.
+Les établissements de la catégorie M, qui ne bénéficiaient pas de la dérogation prévue à l'article 2 de la Décision Ministérielle du 18 mars 2020, susvisée, sont autorisés à rouvrir à compter du 4 mai 2020.
 
-La méconnaissance de ces mesures par un établissement peut justifier sa fermeture, à titre provisoire, prononcée dans les formes et conditions prévues à l'article 11 de la loi n° 1.144 du 26 juillet 1991, susvisée.
+Tout établissement de la catégorie M est tenu de respecter les mesures générales et les mesures spécifiques à son activité, visées en annexe de la présente décision.
+
+Le port du masque est obligatoire pour tous les clients souhaitant accéder à l'un de ces établissements, que ce soit à l'intérieur ou à l'extérieur en cas de file d'attente, étant précisé que le port du masque par les enfants de moins de cinq ans n'est pas requis.
