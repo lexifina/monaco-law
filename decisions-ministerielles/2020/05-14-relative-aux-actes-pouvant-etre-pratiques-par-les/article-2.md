@@ -1,3 +1,3 @@
 # Article 2
 
-Le Directeur de l'Action Sanitaire est, conformément aux articles 65 et suivants de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017, susvisée, chargé de l'exécution de la présente décision.
+Eu égard à la situation sanitaire et jusqu'au 31 octobre 2020, les prélèvements nasopharyngés destinés à permettre les examens de détection du génome du virus SARS-CoV-2 par RT-PCR peuvent être effectués, sous la responsabilité d'un médecin ou d'un infirmier, par les secouristes de la Croix-Rouge Monégasque et les militaires de la Force Publique, titulaires de l'unité d'enseignement « premiers secours en équipe de niveau 1 » et ayant suivi une formation spécifique à la réalisation de l'examen conforme aux recommandations de la Société française de microbiologie et dispensée sous la supervision d'un médecin, d'un biologiste médical ou d'un infirmier.
