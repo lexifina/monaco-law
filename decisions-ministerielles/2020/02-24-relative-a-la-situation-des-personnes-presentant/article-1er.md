@@ -6,4 +6,4 @@ Toute personne présente ou arrivant sur le territoire national et ayant été d
 
 Est considérée comme présentant un risque d'infection potentielle par le virus SARS-CoV-2, toute personne en provenance d'un pays autre qu'un État membre de l'Union européenne, Andorre, l'Islande, le Liechtenstein, la Norvège, le Royaume-Uni, Saint-Marin, la Suisse ou le Vatican.
 
-Est également considérée comme présentant ce risque toute personne en provenance d'une région de l'un des pays européens précités pour laquelle l'incidence cumulée sur 14 jours est supérieure à soixante cas d'infection par le virus SARS-CoV-2 pour cent mille habitants.
+Est également considérée comme présentant ce risque toute personne en provenance d'une région de l'un des pays européens précités, à l'exclusion du territoire métropolitain français, pour laquelle l'incidence cumulée sur 14 jours est supérieure à soixante cas d'infection par le virus SARS-CoV-2 pour cent mille habitants.
