@@ -1,0 +1,9 @@
+# Article 16
+
+Au cours de la contre-visite, le contrôleur technique vérifie l'identification du véhicule et les points de contrôle pour lesquels des défaillances ont justifié cette contre-visite, étant précisé que ledit véhicule devra être chargé selon les dispositions de l'article 14 du présent arrêté si les défaillances concernent le freinage.
+
+Si à l'issue de la contre-visite technique, ces défaillances sont reconnues remises en état ou réglées, un procès-verbal accepté et visé par le contrôleur technique ayant effectué la contre-visite technique est immédiatement remis à la personne qui présente le véhicule.
+
+La prochaine visite technique périodique devra être réalisée au plus tard à la date d'échéance portée sur le procès-verbal de visite technique et le certificat d'immatriculation. Cette nouvelle date d'échéance annule et remplace la précédente. Cette date d'échéance est fixée, en fonction de la catégorie du véhicule, selon les périodicités édictées par le présent arrêté à compter de la date de visite technique initiale.
+
+Si à l'issue de la contre-visite technique, il est constaté qu'il n'a pas été remédié aux défaillances et infractions précédemment relevées, le contrôleur technique du Centre du Contrôle Technique des Véhicules prescrit une deuxième contre-visite. Les défaillances sont portées sur un procès-verbal visé par le contrôleur technique ayant effectué la contre-visite qui est immédiatement remis à la personne qui présente le véhicule. Le propriétaire dispose alors d'un délai maximal supplémentaire de deux semaines pour remédier aux défaillances constatées et présenter son véhicule. La nouvelle date d'échéance inscrite sur le procès-verbal et le certificat d'immatriculation correspondra à la date maximale de présentation du véhicule à la contre-visite. Elle annule et remplace la précédente.

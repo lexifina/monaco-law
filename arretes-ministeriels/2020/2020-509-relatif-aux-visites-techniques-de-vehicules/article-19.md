@@ -1,0 +1,3 @@
+# Article 19
+
+En cas d'impossibilité pour le propriétaire de présenter lui-même son véhicule à la visite de contrôle technique périodique et/ou à la contre-visite en raison d'une procédure judiciaire en cours d'instance ayant pour effet d'immobiliser son véhicule, l'immatriculation dudit véhicule fera l'objet d'une radiation du registre des immatriculations. Le propriétaire devra être en mesure de fournir un justificatif établi par l'autorité compétente exposant cette situation auprès du Service des Titres de la Circulation pour être exonéré des frais liés à sa régularisation ; seule la visite technique restera à sa charge.

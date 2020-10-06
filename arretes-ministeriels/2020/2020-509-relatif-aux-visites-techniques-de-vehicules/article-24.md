@@ -1,0 +1,9 @@
+# Article 24
+
+Les visites techniques des véhicules immatriculés hors Principauté de Monaco effectuées, en vue d'une immatriculation en Principauté de Monaco, au Centre de Contrôle Technique des Véhicules du Service des Titres de Circulation sont réalisées dans les mêmes conditions que les visites périodiques décrites dans le présent arrêté, à l'exception des points suivants :
+
+- Si une contre-visite est prescrite par le contrôleur technique ayant fait la visite technique, le propriétaire est tenu de présenter son véhicule dans le délai imparti mentionné sur le procès-verbal. Si le propriétaire néglige de présenter son véhicule dans ce délai, un nouveau rendez-vous de visite technique sera prescrit. S'il n'a pas été remédié aux défaillances constatées lors de la deuxième contre-visite, le propriétaire devra prendre un nouveau rendez-vous de visite technique initiale.
+
+- L'original du certificat d'immatriculation étranger ou une pièce officielle certifiant que le certificat d'immatriculation a été retiré, le Certificat de Conformité Européen (COC) délivré par le constructeur du pays d'origine, en France ou en Europe (M1) ou l'attestation d'identification d'un véhicule usagé importé conforme à un type communautaire (M1) ou l'attestation d'identification pour véhicule importé conforme à un type national français (M1) ou l'attestation de la fédération française des véhicules d'époque (FFVE) pour les véhicules de plus de trente ans (M1) et la convocation au Centre de Contrôle Technique des Véhicules délivrée par le Service des Titres de Circulation doivent être présentés préalablement à chaque visite et contre-visite technique. En cas de contre-visite, les procès-verbaux de visite technique initiale et de contre-visite, en cas de deuxième contre-visite, doivent également être présentés.
+
+- Les documents étrangers présentés devront être rédigés en français ou si nécessaire accompagnés d'une traduction officielle en français.
