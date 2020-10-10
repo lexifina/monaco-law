@@ -1,8 +1,8 @@
 # Décision ministérielle du 8 juillet 2020 relative à la prise en charge partielle par l'État des cotisations patronales des employeurs de la Principauté, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 18 juillet 2020.
+Version en vigueur au 10 octobre 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/07-08-L021014@2020.07.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/07-08-L021014@2020.10.10/
 
 | | |
 | --- | --- |
