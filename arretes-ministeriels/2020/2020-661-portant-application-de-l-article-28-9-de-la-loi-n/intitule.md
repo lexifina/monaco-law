@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-661 du 1er octobre 2020 portant application de l'article 28-9 de la loi n° 1.383 du 2 août 2011 pour une Principauté numérique, modifiée, définissant la liste des appareils ou dispositifs matériels et logiciels soumis à autorisation du Ministre d'État
