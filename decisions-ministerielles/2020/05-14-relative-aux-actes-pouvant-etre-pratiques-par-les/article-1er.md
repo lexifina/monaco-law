@@ -1,6 +1,6 @@
 # Article 1er
 
-Eu égard à la situation sanitaire et jusqu'au 31 octobre 2020, les prélèvements de sang capillaire destinés à permettre les examens de détection du virus SARS-CoV-2 et la lecture des tests rapides sérologiques pour ledit virus peuvent être effectués, sous la responsabilité d'un médecin, par :
+Eu égard à la situation sanitaire et jusqu'au 31 janvier 2021, les prélèvements de sang capillaire destinés à permettre les examens de détection du virus SARS-CoV-2 et la lecture des tests rapides sérologiques pour ledit virus peuvent être effectués, sous la responsabilité d'un médecin, par :
 
 - les secouristes de la Croix-Rouge Monégasque et les militaires de la Force Publique, titulaires de l'unité d'enseignement « premiers secours en équipe de niveau 1 » ;
 

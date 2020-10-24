@@ -8,7 +8,7 @@ Vu l'arrêté ministériel n° 2010-387 du 22 juillet 2010 portant agrément de 
 
 Vu l'arrêté ministériel n° 2012-264 du 27 avril 2012 fixant les conditions de réalisation des tests rapides d'orientation diagnostique de l'infection à virus de l'immunodéficience humaine (VIH 1 et 2) ;
 
-Vu la Décision Ministérielle du 24 février 2020 relative à la situation des personnes exposées ou potentiellement exposées au virus 2019-nCoV, prise en application de l'article 65 de l' Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ;
+Vu la Décision Ministérielle du 24 février 2020 relative à la situation des personnes exposées ou potentiellement exposées au virus 2019-nCoV, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ;
 
 Considérant le caractère pathogène et contagieux du virus SARS-CoV-2 et sa propagation rapide ;
 
