@@ -1,6 +1,6 @@
 # Article 13
 
-Les allocataires sont tenus de signaler tout changement intervenu dans leur situation familiale, financière et locative qui serait de nature à modifier les calculs de l'allocation qui leur est servie. Dans l'hypothèse où des éléments nouveaux viendraient à interrompre l'ouverture des droits et ce même en dehors de la révision annuelle du dossier (changement ou reprise d'activité, versement de prestations sociales, etc...) la nouvelle situation pourra alors être prise en compte et l'allocation calculée, s'il y a lieu, sur ces nouveaux revenus.
+Les allocataires sont tenus de signaler tout changement intervenu dans leur situation familiale, financière et locative qui serait de nature à modifier les calculs de l'allocation qui leur est servie. Dans l'hypothèse où des éléments nouveaux viendraient à interrompre l'ouverture des droits et ce même en dehors de la révision annuelle du dossier (changement ou reprise d'activité, versement de prestations sociales, etc[mldr]) la nouvelle situation pourra alors être prise en compte et l'allocation calculée, s'il y a lieu, sur ces nouveaux revenus.
 
 Les sommes versées par anticipation pour la période allant au-delà de la date d'effet de ces derniers deviennent immédiatement exigibles.
 
