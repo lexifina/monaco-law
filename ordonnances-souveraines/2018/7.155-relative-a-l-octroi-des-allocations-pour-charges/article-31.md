@@ -1,3 +1,5 @@
 # Article 31
 
-L'allocation de crèche est due au demandeur pour chacun des enfants âgés de trois ans au plus à la date de la rentrée scolaire, au titre duquel il bénéficie des allocations familiales, et qui est inscrit en crèche ou gardé à domicile par une assistante maternelle agréée par le Ministre d'État, sous réserve que l'autre parent exerce une activité professionnelle et que les ressources du foyer n'excèdent pas un plafond fixé par arrêté ministériel. Toutefois, en cas de séparation des père et mère, la condition d'exercice d'une activité professionnelle de l'autre parent n'est pas requise pour ouvrir droit à l'allocation.
+L'allocation de crèche est due au demandeur pour chacun des enfants âgés de trois ans au plus à la date de la rentrée scolaire, au titre duquel il bénéficie des allocations familiales, et qui est inscrit en crèche ou gardé à domicile par une assistante maternelle agréée par le Ministre d'État, sous réserve que l'autre parent exerce une activité professionnelle et que les ressources du foyer n'excèdent pas un plafond fixé par arrêté ministériel.
+
+Toutefois, en cas de séparation des père et mère, la condition d'exercice d'une activité professionnelle de l'autre parent n'est pas requise pour ouvrir droit à l'allocation.

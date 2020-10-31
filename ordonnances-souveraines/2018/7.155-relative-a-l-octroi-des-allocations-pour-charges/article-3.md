@@ -10,4 +10,6 @@ Le foyer s'entend d'une personne seule ou d'un couple marié ou vivant maritalem
 
 Pour le couple marié ou qui l'a été, la séparation est, selon le cas, celle résultant de tout divorce ou séparation de corps prononcé par une décision de justice irrévocable ou, lorsque la procédure de divorce ou de séparation de corps est en cours, de l'ordonnance autorisant la résidence séparée des époux ou constatant le maintien de la demande en divorce ou en séparation de corps.
 
-Pour le couple ayant vécu maritalement, la séparation est celle résultant de la cessation de la vie commune. La résidence alternée résulte d'une décision de justice ou d'une convention des père et mère homologuée par une juridiction ou d'un accord entre les parents.
+Pour le couple ayant vécu maritalement, la séparation est celle résultant de la cessation de la vie commune.
+
+La résidence alternée résulte d'une décision de justice ou d'une convention des père et mère homologuée par une juridiction ou d'un accord entre les parents.
