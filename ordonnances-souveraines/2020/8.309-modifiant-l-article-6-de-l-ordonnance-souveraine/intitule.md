@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 8.309 du 23 octobre 2020 modifiant l'article 6 de l'Ordonnance Souveraine n° 7.155 du 10 octobre 2018 relative à l'octroi des allocations pour charges de famille aux fonctionnaires et agents de l'État et de la Commune
