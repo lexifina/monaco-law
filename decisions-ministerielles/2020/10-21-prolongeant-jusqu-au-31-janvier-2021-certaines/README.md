@@ -1,0 +1,12 @@
+# Décision ministérielle du 21 octobre 2020 prolongeant jusqu'au 31 janvier 2021 certaines mesures qui devaient prendre fin le 31 octobre 2020, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
+
+Version en vigueur au 31 octobre 2020.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/10-21-L021042@2020.10.31/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Décision ministérielle |
+| Date du texte | 21 octobre 2020 |
+| Publication | Journal de Monaco du 30 octobre 2020 |
