@@ -4,7 +4,7 @@ La formule exécutoire sera conçue dans les termes suivants :
 
 En tête du jugement ou acte :
 
-« N..., par la grâce de Dieu, Prince Souverain de Monaco, à tous présents et à venir savoir faisons » :
+« N..., par la grâce de Dieu, Prince Souverain de Monaco, à tous présents et à venir savoir faisons »
 
 Texte du jugement ou acte... et à la fin du texte :
 
