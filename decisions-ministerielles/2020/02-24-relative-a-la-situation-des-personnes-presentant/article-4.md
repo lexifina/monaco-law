@@ -1,3 +1,3 @@
 # Article 4
 
-Le Directeur de l'Action Sanitaire et le Directeur de la Sûreté Publique sont, chacun en ce qui le concerne et conformément aux articles 65 et suivants de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017, susvisée, chargés de l'exécution de la présente décision.
+Sous réserve d'un avis médical contraire, la période d'isolement d'une personne dont l'infection par le virus SARS-CoV-2 est confirmée par un test virologique de type RT-PCR sur prélèvement nasopharyngé est de dix jours à compter du début des symptômes ou, si elle est asymptomatique, de sept jours à compter du jour du prélèvement nasopharyngé réalisé pour ledit test.
