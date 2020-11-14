@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2019-911 du 8 novembre 2019 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2019-2020
