@@ -1,0 +1,19 @@
+# Article 2
+
+Eu égard à la situation sanitaire, le test rapide d'orientation diagnostique antigénique nasopharyngé pour la détection du SARS-CoV-2 peut être réalisé avec ou sans prescription médicale :
+
+1) par un médecin ;
+
+2) par un infirmier ;
+
+3) au sein d'une officine de pharmacie, par un pharmacien qui y exerce ;
+
+4) au sein d'un laboratoire de biologie médicale, par un biologiste médical qui y exerce ;
+
+5) sous la responsabilité d'un médecin ou d'un infirmier, par les secouristes de la Croix-Rouge Monégasque, les militaires de la Force Publique et le personnel de la Sûreté Publique, titulaires de l'unité d'enseignement « premiers secours en équipe de niveau 1 ».
+
+La réalisation matérielle de ce test par les personnes mentionnées aux chiffres 1 à 5 est soumise aux obligations fixées en annexe.
+
+Le résultat du test est déclaré à la Direction de l'Action Sanitaire conformément aux dispositions de la Décision Ministérielle du 18 mai 2020, modifiée, susvisée.
+
+La personne mentionnée au chiffre 3 ou 5 ne peut réaliser le test que sur une personne âgée d'au moins douze ans, avec son consentement préalable ainsi que, le cas échéant, celui de ses représentants légaux conformément aux dispositions de la loi n° 1.454 du 30 octobre 2017, modifiée, susvisée.
