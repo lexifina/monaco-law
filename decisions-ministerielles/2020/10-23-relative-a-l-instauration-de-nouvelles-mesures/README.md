@@ -1,8 +1,8 @@
 # Décision ministérielle du 23 octobre 2020 relative à l'instauration de nouvelles mesures exceptionnelles pour faire face à l'évolution défavorable de l'épidémie de COVID-19
 
-Version en vigueur au 7 novembre 2020.
+Version en vigueur au 28 novembre 2020.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/10-23-L021043@2020.11.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/10-23-L021043@2020.11.28/
 
 | | |
 | --- | --- |

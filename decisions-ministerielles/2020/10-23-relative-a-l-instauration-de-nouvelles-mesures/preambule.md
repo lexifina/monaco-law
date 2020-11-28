@@ -31,3 +31,5 @@ Considérant que les conditions sanitaires prescrites pour les déplacements, co
 Considérant que la Principauté doit faire face à l'une des plus graves crises qu'elle a eu à connaître depuis la seconde guerre mondiale et que l'autorité publique, confrontée aux circonstances exceptionnelles qui en résultent, se doit de prendre les mesures adaptées en tenant compte des nécessités et de l'urgence provenant de cet état de crise, pour assurer le maintien de la santé et de la sécurité publiques, dans l'intérêt de la population ;
 
 Considérant que des dispositions exceptionnelles ont été prises pour faire face à la pandémie de COVID-19 et que si l'évolution de la propagation de ladite épidémie a pu être favorable pour permettre un allégement de ces dispositions, son évolution actuellement défavorable nécessite de prendre, à compter du 24 octobre et jusqu'au 30 novembre 2020 inclus, des dispositions exceptionnelles supplémentaires ;
+
+(Décision prolongée jusqu'au 18 décembre 2020 inclus par la décision du 26 novembre 2020)
