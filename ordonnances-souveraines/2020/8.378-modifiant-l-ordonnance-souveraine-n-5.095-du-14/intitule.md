@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 8.378 du 26 novembre 2020 modifiant l'Ordonnance Souveraine n° 5.095 du 14 février 1973 sur l'organisation et le fonctionnement du Centre Hospitalier Princesse Grace, modifiée
