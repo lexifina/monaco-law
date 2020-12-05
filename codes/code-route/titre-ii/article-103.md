@@ -58,7 +58,7 @@ a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
 
 b) Véhicules déjà immatriculés, dits véhicules d'occasion :
 
-- l'ancienne carte grise du véhicule sur laquelle le titulaire aura porté, d'une manière très lisible et inaltérable, la mention « vendu le (date de la transaction)) »
+- l'ancienne carte grise du véhicule sur laquelle le titulaire aura porté, d'une manière très lisible et inaltérable, la mention « vendu le (date de la transaction) »
 
 - un certificat de situation délivré par les autorités compétentes en cours de validité,
 

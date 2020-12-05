@@ -1,11 +1,11 @@
 # Code de la route
 
-Version en vigueur au 6 octobre 2020.
+Version en vigueur au 5 décembre 2020.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-route@2020.10.06/
+Source : Legimonaco, https://legimonaco.mc/code/code-route@2020.12.05/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de la route |
-| Dernière modification | 6 octobre 2020 |
+| Dernière modification | 5 décembre 2020 |

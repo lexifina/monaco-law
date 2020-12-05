@@ -15,5 +15,3 @@ Un véhicule donné doit faire l'objet d'une réception individuelle s'il est ne
 La réception constitue un préalable indispensable à l'obtention ou au maintien du certificat d'immatriculation.
 
 La réception individuelle ou à titre isolé des véhicules appartenant à des personnes physiques ou morales domiciliées ou résidentes en Principauté de Monaco est réalisée par les centres de la Direction Régionale de l'Environnement, de l'Aménagement et du Logement de la région Provence-Alpes-Côte d'Azur (DREAL PACA), pour le compte de la Principauté de Monaco dans les conditions définies par arrêté ministériel.
-
-À ce titre, la DREAL réalise, pour le compte de la Principauté de Monaco, la réception individuelle et à titre isolé, la réception européenne par type, la réception européenne par type de petite série et la réception par type de portée nationale.
