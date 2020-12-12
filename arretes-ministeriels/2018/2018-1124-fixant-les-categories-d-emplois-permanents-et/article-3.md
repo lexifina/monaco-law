@@ -28,7 +28,7 @@ Cadre socio-éducatif
 
 - Puéricultrice de classe supérieure
 
-b) 4 points sur les grades suivants :
+b) 9 points sur les grades suivants :
 
 - Directeur des soins hors classe
 

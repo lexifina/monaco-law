@@ -74,43 +74,43 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 24 mois | 585
+1 | 24 mois | 590
 
-2 | 24 mois | 620
+2 | 24 mois | 625
 
-3 | 24 mois | 654
+3 | 24 mois | 659
 
-4 | 24 mois | 688
+4 | 24 mois | 693
 
-5 | 24 mois | 722
+5 | 24 mois | 727
 
-6 | 36 mois | 753
+6 | 36 mois | 758
 
-7 | 36 mois | 787
+7 | 36 mois | 792
 
-8 | - | 825
+8 | - | 830
 
-9 | échelon déplafonnement | 862
+9 | échelon de déplafonnement | 867
 
 4.1.4.2 Grade : Directeur des soins de classe normale
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 516
+1 | 12 mois | 521
 
-2 | 24 mois | 544
+2 | 24 mois | 549
 
-3 | 24 mois | 572
+3 | 24 mois | 577
 
-4 | 24 mois | 606
+4 | 24 mois | 611
 
-5 | 24 mois | 640
+5 | 24 mois | 645
 
-6 | 36 mois | 674
+6 | 36 mois | 679
 
-7 | 36 mois | 707
+7 | 36 mois | 712
 
-8 | - | 738
+8 | - | 743
 
 4.1.5 Corps : Infirmier anesthésiste diplômé d'État
 
@@ -244,51 +244,51 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 490
+1 | 12 mois | 495
 
-2 | 24 mois | 517
+2 | 24 mois | 522
 
-3 | 36 mois | 550
+3 | 36 mois | 555
 
-4 | 36 mois | 581
+4 | 36 mois | 586
 
-5 | 36 mois | 619
+5 | 36 mois | 624
 
-6 | 36 mois | 654
+6 | 36 mois | 659
 
-7 | 48 mois | 682
+7 | 48 mois | 687
 
-8 | 48 mois | 738
+8 | 48 mois | 743
 
-9 | - | 749
+9 | - | 754
 
-10 | échelon déplafonnement | 784
+10 | échelon de déplafonnement | 789
 
 4.1.8.2 Grade : Sage-femme grade 1
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 400
+1 | 12 mois | 405
 
-2 | 12 mois | 419
+2 | 12 mois | 424
 
-3 | 24 mois | 443
+3 | 24 mois | 448
 
-4 | 24 mois | 466
+4 | 24 mois | 471
 
-5 | 36 mois | 480
+5 | 36 mois | 485
 
-6 | 36 mois | 503
+6 | 36 mois | 508
 
-7 | 36 mois | 530
+7 | 36 mois | 535
 
-8 | 36 mois | 565
+8 | 36 mois | 570
 
-9 | 48 mois | 600
+9 | 48 mois | 605
 
-10 | 48 mois | 637
+10 | 48 mois | 642
 
-11 | - | 679
+11 | échelon de déplafonnement | 684
 
 4.2 Filière : Socio-éducative
 
@@ -320,51 +320,51 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 4.3.1 Corps : Psychologue
 
-4.3.1.1 Grade Psychologue hors classe
+4.3.1.1 Grade : Psychologue hors classe
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 30 mois | 499
+1 | 30 mois | 504
 
-2 | 30 mois | 564
+2 | 30 mois | 569
 
-3 | 30 mois | 605
+3 | 30 mois | 610
 
-4 | 30 mois | 646
+4 | 30 mois | 651
 
-5 | 36 mois | 699
+5 | 36 mois | 704
 
-6 | 36 mois | 745
+6 | 36 mois | 750
 
-7 | - | 787
+7 | - | 792
 
-8 | échelon déplafonnement | 820
+8 | échelon de déplafonnement | 825
 
 4.3.1.2 Grade : Psychologue de classe normale
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 3 mois | 355
+1 | 3 mois | 360
 
-2 | 9 mois | 380
+2 | 9 mois | 385
 
-3 | 12 mois | 399
+3 | 12 mois | 404
 
-4 | 30 mois | 420
+4 | 30 mois | 425
 
-5 | 36 mois | 443
+5 | 36 mois | 448
 
-6 | 36 mois | 471
+6 | 36 mois | 476
 
-7 | 36 mois | 499
+7 | 36 mois | 504
 
-8 | 48 mois | 535
+8 | 48 mois | 540
 
-9 | 48 mois | 571
+9 | 48 mois | 576
 
-10 | 54 mois | 616
+10 | 54 mois | 621
 
-11 | - | 662
+11 | - | 667
 
 4.4 Filière : Technique
 
@@ -374,119 +374,97 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 24 mois | 623
+1 | 24 mois | 628
 
-2 | 24 mois | 684
+2 | 24 mois | 689
 
-3 | 30 mois | 738
+3 | 30 mois | 743
 
-4 | 30 mois | 787
+4 | 30 mois | 792
 
-5 | 36 mois | 825
+5 | 36 mois | 830
 
-6.1 | 12 mois | 885
+6.1 | 12 mois | 890
 
-6.2 | 12 mois | 920
+6.2 | 12 mois | 925
 
-6.3 | 12 mois | 967
+6.3 | 12 mois | 972
 
-7.2 | 12 mois | 1008
+7.2 | 12 mois | 1013
 
-7.3 | - | 1062
+7.3 | - | 1067
 
-8 | échelon déplafonnement | 1106
+8 | échelon de déplafonnement | 1111
 
 4.4.1.2 Grade : Ingénieur hospitalier en chef de classe normale
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 399
+1 | 12 mois | 404
 
-2 | 18 mois | 445
+2 | 18 mois | 450
 
-3 | 30 mois | 480
+3 | 30 mois | 485
 
-4 | 24 mois | 518
+4 | 24 mois | 523
 
-5 | 30 mois | 550
+5 | 30 mois | 555
 
-6 | 30 mois | 586
+6 | 30 mois | 591
 
-7 | 36 mois | 639
+7 | 36 mois | 644
 
-8 | 42 mois | 700
+8 | 42 mois | 705
 
-9 | 42 mois | 738
+9 | 42 mois | 743
 
-10 | - | 787
+10 | - | 792
 
 4.4.1.3 Grade : Ingénieur hospitalier principal
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 18 mois | 469
+1 | 18 mois | 474
 
-2 | 24 mois | 509
+2 | 24 mois | 514
 
-3 | 30 mois | 547
+3 | 30 mois | 552
 
-4 | 30 mois | 592
+4 | 30 mois | 597
 
-5 | 30 mois | 630
+5 | 30 mois | 635
 
-6 | 30 mois | 669
+6 | 36 mois | 674
 
-7 | 42 mois | 710
+7 | 42 mois | 715
 
-8 | 48 mois | 750
+8 | 48 mois | 755
 
-9 | - | 787
-
-4.4.1.4 Grade : Ingénieur hospitalier
-
-Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
-
-1 | 18 mois | 469
-
-2 | 24 mois | 509
-
-3 | 30 mois | 547
-
-4 | 30 mois | 592
-
-5 | 30 mois | 630
-
-6 | 30 mois | 669
-
-7 | 42 mois | 710
-
-8 | 48 mois | 750
-
-9 | - | 787
+9 | - | 792
 
 4.4.1.4 Grade : Ingénieur hospitalier
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 355
+1 | 12 mois | 360
 
-2 | 30 mois | 384
+2 | 30 mois | 389
 
-3 | 36 mois | 405
+3 | 36 mois | 410
 
-4 | 36 mois | 433
+4 | 36 mois | 438
 
-5 | 36 mois | 466
+5 | 36 mois | 471
 
-6 | 36 mois | 500
+6 | 36 mois | 505
 
-7 | 36 mois | 525
+7 | 36 mois | 530
 
-8 | 42 mois | 561
+8 | 42 mois | 566
 
-9 | 42 mois | 593
+9 | 42 mois | 598
 
-10 | - | 623
+10 | - | 628
 
 4.4.2 Corps : Radiophysicien
 
@@ -494,25 +472,25 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 24 mois | 662
+1 | 24 mois | 667
 
-2 | 24 mois | 700
+2 | 24 mois | 705
 
-3 | 24 mois | 738
+3 | 24 mois | 743
 
-4 | 24 mois | 787
+4 | 24 mois | 792
 
-5 | 24 mois | 825
+5 | 24 mois | 830
 
-6 | 36 mois | 554
+6 | 36 mois | 889
 
-7 | 36 mois | 919
+7 | 36 mois | 924
 
-8 | - | 966
+8 | - | 971
 
-9 | échelon déplafonnement | 1006
+9 | échelon de déplafonnement | 1011
 
-4.5 Filière : Administrative
+[4.5 Filière : Administrative]
 
 4.5.1 Corps : Attaché d'administration hospitalière
 
@@ -520,74 +498,74 @@ Les emplois permanents du personnel de service du Centre Hospitalier Princesse G
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 24 mois | 588
+1 | 24 mois | 593
 
-2 | 24 mois | 623
+2 | 24 mois | 628
 
-3 | 24 mois | 684
+3 | 24 mois | 689
 
-4 | 30 mois | 738
+4 | 30 mois | 743
 
-5 | 30 mois | 787
+5 | 30 mois | 792
 
-6 | 36 mois | 825
+6 | 36 mois | 830
 
-7.1 | 12 mois | 885
+7.1 | 12 mois | 890
 
-7.2 | 12 mois | 920
+7.2 | 12 mois | 925
 
-7.3 | - | 967
+7.3 | échelon de déplafonnement | 972
 
 4.5.1.2 Grade : Attaché d'administration hospitalière principal
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 446
+1 | 12 mois | 451
 
-2 | 24 mois | 487
+2 | 24 mois | 492
 
-3 | 24 mois | 521
+3 | 24 mois | 526
 
-4 | 24 mois | 555
+4 | 24 mois | 560
 
-5 | 24 mois | 594
+5 | 24 mois | 599
 
-6 | 24 mois | 630
+6 | 24 mois | 635
 
-7 | 30 mois | 677
+7 | 30 mois | 682
 
-8 | 30 mois | 710
+8 | 30 mois | 715
 
-9 | 36 mois | 750
+9 | 36 mois | 755
 
-10 | - | 787
+10 | 36 mois | 792
 
-11 | échelon de déplafonnement | 821
+11 | - | 826
 
 4.5.1.3 Grade : Attaché d'administration hospitalière
 
 Échelon | Durée Moyenne d'ancienneté | Indice Nouveau Majoré
 
-1 | 12 mois | 353
+1 | 12 mois | 358
 
-2 | 24 mois | 380
+2 | 24 mois | 385
 
-3 | 24 mois | 393
+3 | 24 mois | 398
 
-4 | 24 mois | 412
+4 | 24 mois | 417
 
-5 | 24 mois | 435
+5 | 24 mois | 440
 
-6 | 30 mois | 465
+6 | 30 mois | 470
 
-7 | 30 mois | 500
+7 | 30 mois | 505
 
-8 | 30 mois | 528
+8 | 30 mois | 533
 
-9 | 30 mois | 549
+9 | 30 mois | 554
 
-10 | 30 mois | 588
+10 | 30 mois | 593
 
-11 | 30 mois | 630
+11 | 30 mois | 635
 
-1 | - | 662
+12 | - | 667
