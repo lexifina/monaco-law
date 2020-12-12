@@ -4,7 +4,7 @@ Les actes de prélèvement réalisés, pour un examen de détection du virus du 
 
 1) pour les infirmiers diplômés d'État libéraux, AMI 3,1 pour un prélèvement nasopharyngé et AMI 1,9 pour un prélèvement salivaire ou oropharyngé ;
 
-2) pour les médecins libéraux, K 5 pour un prélèvement nasopharyngé et K3 pour un prélèvement salivaire ou oropharyngé ;
+2) pour les médecins libéraux, K 5 pour un prélèvement nasopharyngé et K 3 pour un prélèvement salivaire ou oropharyngé ;
 
 3) pour les sages-femmes libérales, SF 3,5 pour un prélèvement nasopharyngé et SF 2,15 pour un prélèvement salivaire ou oropharyngé ;
 
