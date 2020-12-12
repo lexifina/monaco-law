@@ -10,7 +10,7 @@ Lorsque cette indemnité est perçue, le numéro de code et son montant doivent 
 
 9073 - Indemnité de déplacement.
 
-b ) Indemnité kilométrique (IK).
+b) Indemnité kilométrique (IK).
 
 Le montant de cette indemnité est fixé dans les mêmes conditions que celle des lettres-clés prévues à l'article 2.
 
