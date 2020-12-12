@@ -12,4 +12,8 @@ Seront punis de l'amende prévue au chiffre 2 de l'article 29 :
 
 - 5° ceux qui auront refusé de recevoir pour leur valeur les espèces ou monnaies ayant cours légal dans la Principauté ;
 
-- 6° ceux qui, le pouvant, auront refusé ou négligé de faire les travaux, le service, ou de prêter l'aide dont ils auraient été requis, dans les circonstances d'accident, naufrage, inondation, incendie ou autres calamités.
+- 6° ceux qui, le pouvant, auront refusé ou négligé de faire les travaux, le service, ou de prêter l'aide dont ils auraient été requis, dans les circonstances d'accident, naufrage, inondation, incendie ou autres calamités ;
+
+- 7° ceux qui, sans avoir été provoqués, auront proféré contre quelqu'un des injures non publiques ;
+
+- 8° ceux qui, sans pouvoir prouver la vérité des faits diffamatoires conformément aux dispositions législatives relatives à la liberté d'expression publique, auront commis une diffamation non publique.

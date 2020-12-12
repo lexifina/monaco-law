@@ -20,7 +20,7 @@ Encourt les mêmes peines le coupable qui a commis l'infraction :
 
 - 5° par une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice de ses fonctions ou de sa mission ;
 
-- 6° avec préméditation ;
+- 6° (6° abrogé) ;
 
 - 7° avec usage ou menace d'une arme ;
 
