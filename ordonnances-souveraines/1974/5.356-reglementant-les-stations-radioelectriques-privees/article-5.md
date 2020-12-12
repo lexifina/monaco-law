@@ -4,7 +4,7 @@ La licence d'établissement et d'utilisation de stations radio-électriques priv
 
 La licence ne peut être transférée à des tiers que sous les conditions prévues à l'article 4.
 
-Elle est révocable à tout moment après avis de la Commission visée à l'article 4, notamment dans les cas suivants :
+Elle est révocable à tout moment, notamment dans les cas suivants :
 
 - 1° si l'intéressé n'observe pas les conditions particulières qui lui sont imposées pour l'établissement et l'utilisation de sa station ;
 
