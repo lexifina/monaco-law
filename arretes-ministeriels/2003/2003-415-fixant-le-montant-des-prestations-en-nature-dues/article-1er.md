@@ -220,13 +220,13 @@ Cette dernière procède au versement des indemnités forfaitaires et à la réc
 
 B - Soins externes hospitaliers - Établissements publics
 
-Lettre-clé | Acte | Tarifs d'autoritéen euro(s)
+Lettre-clé | Acte | Tarifs d'autorité
 
-Honoraires des médecins | |
+Actes dispensés par les médecins |
 
 C | Consultation médecin généraliste | 22,00 euro(s)
 
-CS | Consultation spécialiste | 28,51euro(s)
+CS | Consultation par médecin spécialiste | 28,51euro(s)
 
 CPSY | Consultation par Neuropsychiatre | 35,83 euro(s)
 
@@ -234,15 +234,15 @@ CSC | Consultation approfondie en cardiologie | 73,18 euro(s)
 
 CDE | Consultation Spéciale en Dermatologie | 44,00 euro(s)
 
-Actes dispensés par les auxiliaires médicaux | |
+Actes dispensés par les dentistes |
 
-AMC | Actes pratiqués par le kinésithérapeute | 2,29 euro(s)
+CCD | Consultation | 22,00 euro(s)
 
-AMI | Actes pratiqués par l'infirmier | 3,15 euro(s)
+D | Soins dentaires | 3,99 euro(s)
 
-AMY | Actes pratiqués par l'orthoptiste | 2,38 euro(s)
+Z (R) | Actes utilisant les radiations ionisantes | 2,72 euro(s)
 
-Actes dispensés par les sages-femmes | |
+Actes dispensés par les sages-femmes |
 
 CSF | Consultation sage-femme | 17,00 euro(s)
 
@@ -254,21 +254,27 @@ CSF2 | Séance de préparation à l'accouchement | 34,00 euro(s)
 
 SP | Séance de suivi postnatal réalisé par la sage-femme | 18,55 euro(s)
 
+Actes dispensés par les auxiliaires médicaux |
+
+AMC | Actes pratiqués par le kinésithérapeute | 2,29 euro(s)
+
+AMI | Actes pratiqués par l'infirmier | 3,15 euro(s)
+
+AMY | Actes pratiqués par l'orthoptiste | 2,38 euro(s)
+
+AMO | Actes pratiqués par l'orthophoniste | 2,40 euro(s)
+
+DAMO | Indemnité de déplacement pour l'orthophoniste | 1,52 euro(s)
+
 Autres actes | |
 
 K | Actes de spécialité | 3,31euro(s)
 
 KA | Actes de chirurgie et de spécialité | 3,60 euro(s)
 
-D | Soins dentaires | 3,99 euro(s)
-
 B, BR, BM | Actes de biologie | 0,27 euro(s)
 
 BP | Actes d'anatomo-cytho-pathologie | 0,29 euro(s)
-
-AMO | Actes pratiqués par l'Orthophoniste | 2,40 euro(s)
-
-DAMO | Indemnité de déplacement pour l'Orthophoniste | 1,52 euro(s)
 
 C - Frais pharmaceutiques
 
