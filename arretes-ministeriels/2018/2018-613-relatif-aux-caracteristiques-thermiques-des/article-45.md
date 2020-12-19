@@ -8,6 +8,6 @@ Pour tout nouveau bâtiment visé à l'article 2 § 1. a) ou extension de bâtim
 
 3°) comporter les dispositifs visés au présent article desservant au plus :
 
-a) une SHOC maximale de 100m2 et un seul niveau pour les circulations horizontales et parties communes intérieures ;
+a) une SHOC maximale de 100 m2 et un seul niveau pour les circulations horizontales et parties communes intérieures ;
 
 b) trois niveaux pour les circulations verticales.

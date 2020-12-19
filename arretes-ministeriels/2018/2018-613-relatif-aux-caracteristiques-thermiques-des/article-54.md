@@ -4,17 +4,17 @@
 
 PAROIS | RÉSISTANCE thermique R minimale | CAS D'ADAPTATION POSSIBLES
 
-Murs en contact avec l'extérieur et rampants de toitures de pente supérieure à 60° | 2,5 | La résistance thermique minimale peut être réduite jusqu'à 2m2.K/W dans les cas suivants :a) dans les locaux à usage d'habitation, les travaux d'isolation entraînent une diminution de la SHOC des locaux concernés supérieure à 5 % en raison de l'épaisseur de l'isolant ;b) ou le système constructif est une double peau métallique.
+Murs en contact avec l'extérieur et rampants de toitures de pente supérieure à 60° | 2,5 | La résistance thermique minimale peut être réduite jusqu'à 2 m2.K/W dans les cas suivants :a) dans les locaux à usage d'habitation, les travaux d'isolation entraînent une diminution de la SHOC des locaux concernés supérieure à 5 % en raison de l'épaisseur de l'isolant ;b) ou le système constructif est une double peau métallique.
 
 Murs en contact avec un volume non chauffé | 2,5 | -
 
-Toitures terrasses | 6,5 | La résistance thermique minimale peut être réduite jusqu'à 4,5m2.K/W lorsque,a) l'épaisseur d'isolation implique un changement des huisseries, ou un relèvement des garde-corps ou des équipements techniques ;b) ou l'épaisseur d'isolation ne permet plus le respect des hauteurs minimales d'évacuation des eaux pluviales et des relevés ;c) ou l'épaisseur d'isolation et le type d'isolant utilisé implique un dépassement des limites de charges admissibles de la structure.
+Toitures terrasses | 6,5 | La résistance thermique minimale peut être réduite jusqu'à 4,5 m2.K/W lorsque,a) l'épaisseur d'isolation implique un changement des huisseries, ou un relèvement des garde-corps ou des équipements techniques ;b) ou l'épaisseur d'isolation ne permet plus le respect des hauteurs minimales d'évacuation des eaux pluviales et des relevés ;c) ou l'épaisseur d'isolation et le type d'isolant utilisé implique un dépassement des limites de charges admissibles de la structure.
 
 Planchers de combles perdus | 6,5 |
 
-Rampants de toiture de pente inférieure 60° | 6 | La résistance thermique minimale peut être réduite jusqu'à 4m2.K/W lorsque, dans les locaux à usage d'habitation, les travaux d'isolation entraînent une diminution de la SHOC des locaux concernés supérieure à 5 % en raison de l'épaisseur de l'isolant.
+Rampants de toiture de pente inférieure 60° | 6 | La résistance thermique minimale peut être réduite jusqu'à 4 m2.K/W lorsque, dans les locaux à usage d'habitation, les travaux d'isolation entraînent une diminution de la SHOC des locaux concernés supérieure à 5 % en raison de l'épaisseur de l'isolant.
 
-Planchers bas donnant sur l'extérieur ou sur un parking collectif | 2,1 | La résistance thermique minimale peut être réduite jusqu'à 1,5m2.K/W dans les cas suivants :a) la résistance thermique minimale peut être diminuée pour adapter l'épaisseur d'isolant nécessaire à la hauteur libre disponible si celle-ci est limitée par une autre exigence réglementaire.b) la résistance thermique minimale peut être réduite dans le cas d'installation ou de remplacement de plancher chauffant à eau chaude ou plancher chauffant rafraîchissant selon la valeur indiquée à l'article 68.
+Planchers bas donnant sur l'extérieur ou sur un parking collectif | 2,1 | La résistance thermique minimale peut être réduite jusqu'à 1,5 m2.K/W dans les cas suivants :a) la résistance thermique minimale peut être diminuée pour adapter l'épaisseur d'isolant nécessaire à la hauteur libre disponible si celle-ci est limitée par une autre exigence réglementaire.b) la résistance thermique minimale peut être réduite dans le cas d'installation ou de remplacement de plancher chauffant à eau chaude ou plancher chauffant rafraîchissant selon la valeur indiquée à l'article 68.
 
 Planchers bas donnant sur un vide sanitaire ou sur un volume non chauffé | 2,1 | La résistance thermique minimale peut être réduite dans le cas d'installation ou de remplacement de plancher chauffant à eau chaude ou plancher chauffant rafraîchissant selon la valeur indiquée à l'article 68.
 

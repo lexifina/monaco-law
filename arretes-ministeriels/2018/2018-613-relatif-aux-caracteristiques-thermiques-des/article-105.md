@@ -10,7 +10,7 @@ a) aux travaux concernant en tout ou en partie l'équipement énergétique et po
 
 b) au 1er janvier 2022 pour tous les bâtiments.
 
-4. L'obligation de réaliser un audit énergétique et de l'annexer aux contrats de vente et de location, visée à l'article 96, est applicable :
+4. L'obligation de réaliser un audit énergétique et de l'annexer, dans sa version intégrale ou la fiche de synthèse, aux contrats de vente et de location, visée à l'article 96, est applicable :
 
 a) au 1er janvier 2022 pour les bâtiments achevés entre 1930 et 1990 ;
 

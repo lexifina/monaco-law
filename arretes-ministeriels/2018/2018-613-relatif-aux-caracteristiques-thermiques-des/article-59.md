@@ -4,7 +4,7 @@
 
 Type de paroi vitrée ou de porte extérieure | Coefficient de transmission thermique maximal
 
-Fenêtre de surface supérieure à 0,5m2, porte fenêtre, double fenêtre, façade rideau | Uw ≤ 1,7 W/(m2.K)
+Fenêtre de surface supérieure à 0,5 m2, porte fenêtre, double fenêtre, façade rideau | Uw ≤ 1,7 W/(m2.K)
 
 Porte d'entrée de maison individuelle donnant sur l'extérieur | Ud ≤ 1,7 W/(m2.K)
 

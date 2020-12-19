@@ -4,7 +4,7 @@
 
 a) tout nouveau bâtiment visé à l'article 2 § 1.a ;
 
-b) toute extension de bâtiment visée à l'article 2 § 2. dont la SHOC nouvelle est supérieure à 1 000m2.
+b) toute extension de bâtiment visée à l'article 2 § 2. dont la SHOC nouvelle est supérieure à 1 000 m2.
 
 2. Préalablement au dépôt de la demande d'autorisation de construire, le maître d'ouvrage réalise une étude de faisabilité technique des diverses solutions d'approvisionnement en énergie pour le chauffage, la ventilation, le refroidissement, la production d'eau chaude sanitaire et l'éclairage des locaux, laquelle examine notamment :
 

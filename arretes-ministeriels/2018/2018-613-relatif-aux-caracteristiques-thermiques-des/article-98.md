@@ -22,6 +22,6 @@ a) une étude thermique réglementaire détaillée, actualisée et validée par 
 
 b) une attestation justifiant du respect de la réglementation établie par un organisme de contrôle agréé en Principauté au vu des visites de contrôle que ledit organisme aura effectuées à chaque étape de la construction, signée par le maître d'œuvre, établie sur la base du formulaire D figurant en Annexe III ;
 
-c) le rapport de synthèse de la mission de commissionnement des installations techniques visé aux articles 25 et 36, pour les bâtiments dont la SHOC nouvelle est supérieure ou égale à 5 000m2 ;
+c) le rapport de synthèse de la mission de commissionnement des installations techniques visé aux articles 25 et 36, pour les bâtiments dont la SHOC nouvelle est supérieure ou égale à 5 000 m2 ;
 
-d) la copie du contrat de commissionnement des installations techniques visé aux articles 25 et 36, pour les bâtiments dont la SHOC nouvelle est supérieure ou égale à 5 000m2.
+d) la copie du contrat de commissionnement des installations techniques visé aux articles 25 et 36, pour les bâtiments dont la SHOC nouvelle est supérieure ou égale à 5 000 m2.

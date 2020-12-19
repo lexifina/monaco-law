@@ -12,6 +12,6 @@
 
 6. L'audit énergétique a une durée de validité de 10 ans, au-delà de laquelle il doit être à nouveau réalisé.
 
-7. Une copie de l'audit énergétique en cours de validité doit être annexée à tout contrat de vente ou de location.
+7. Une copie de l'audit énergétique en cours de validité, ou de la fiche de synthèse de l'audit, doit être annexée à tout contrat de vente ou de location. L'audit énergétique, en sa version intégrale, doit être délivré en format numérique sur simple demande de l'acquéreur ou du locataire.
 
 8. Une attestation sur l'honneur de réalisation de l'audit énergétique doit être établie, selon le cas, par le propriétaire ou par le syndic du bâtiment et transmise à la Mission pour la Transition Énergétique dans le délai de 30 jours après la remise du rapport final d'audit par le prestataire au maître d'ouvrage.

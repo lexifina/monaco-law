@@ -1,6 +1,6 @@
 # Article 89
 
-Pour tout nouveau bâtiment visé à l'article 2 § 1. b), toute extension de bâtiment existant visée à l'article 2 § 2. b) ou toute partie modifiée de bâtiment existant visée à l'article 2 § 3., les équipements de robinetterie installés ou remplacés doivent au minimum avoir les performances ci-dessous :
+Pour tout nouveau bâtiment visé à l'article 2 § 1. b) , toute extension de bâtiment existant visée à l'article 2 § 2. b) ou toute partie modifiée de bâtiment existant visée à l'article 2 § 3., les équipements de robinetterie installés ou remplacés doivent au minimum avoir les performances ci-dessous :
 
 1. Pour les bâtiments à usage d'habitation :
 

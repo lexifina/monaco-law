@@ -12,6 +12,6 @@ b) soit l'extinction des sources de lumière, si aucune réglementation n'impose
 
 3°) comporter les dispositifs visés au présent article desservant au plus :
 
-a) une SHOC maximale de 100m2 et un seul niveau pour les circulations horizontales et parties communes intérieures ;
+a) une SHOC maximale de 100 m2 et un seul niveau pour les circulations horizontales et parties communes intérieures ;
 
 b) trois niveaux pour les circulations verticales.

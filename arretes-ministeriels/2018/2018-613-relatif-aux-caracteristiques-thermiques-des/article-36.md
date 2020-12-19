@@ -1,6 +1,6 @@
 # Article 36
 
-1. Pour tout nouveau bâtiment visé à l'article 2 § 1. a) ou extension de bâtiment existant visée à l'article 2 § 2. a), les bâtiments ou parties de bâtiment à usage autre que d'habitation dont la SHOC totale nouvelle est supérieure ou égale à 5000m2 devront faire l'objet d'une mission de commissionnement des installations techniques réalisée par un prestataire disposant de la qualification OPQIBI 1910.
+1. Pour tout nouveau bâtiment visé à l'article 2 § 1. a) ou extension de bâtiment existant visée à l'article 2 § 2. a), les bâtiments ou parties de bâtiment à usage autre que d'habitation dont la SHOC totale nouvelle est supérieure ou égale à 5000 m2 devront faire l'objet d'une mission de commissionnement des installations techniques réalisée par un prestataire disposant de la qualification OPQIBI 1910.
 
 2. Les coordonnées du responsable technique du commissionnement missionné seront indiquées dans l'attestation de respect de la réglementation énergétique lors du dépôt de la demande d'autorisation de construire.
 
