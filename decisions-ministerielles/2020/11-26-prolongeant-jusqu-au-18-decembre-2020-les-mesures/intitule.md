@@ -1,1 +1,0 @@
-Décision ministérielle du 26 novembre 2020 prolongeant jusqu'au 18 décembre 2020 les mesures exceptionnelles qui devaient prendre fin le 30 novembre 2020, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
