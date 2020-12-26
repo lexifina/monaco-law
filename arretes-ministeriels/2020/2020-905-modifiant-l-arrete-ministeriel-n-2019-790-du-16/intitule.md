@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-905 du 18 décembre 2020 modifiant l'arrêté ministériel n° 2019-790 du 16 septembre 2019 fixant les montants des droits de délivrance des vignettes pour l'exploitation de véhicules de location avec chauffeurs étrangers
