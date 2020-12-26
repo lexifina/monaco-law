@@ -14,7 +14,7 @@ Par dérogation aux dispositions de l'article 3, les personnes ayant dîné au r
 
 Par dérogation aux dispositions de l'annexe de la Décision Ministérielle du 28 avril 2020, modifiée, susvisée :
 
-- l'accueil des clients dans les restaurants pour le service du soir a lieu uniquement sur réservation ;
+- l'accueil des clients dans les restaurants pour les services du déjeuner et du dîner a lieu uniquement sur réservation ;
 
 - le nombre maximum de personnes à table dans les restaurants est limité à six ;
 
