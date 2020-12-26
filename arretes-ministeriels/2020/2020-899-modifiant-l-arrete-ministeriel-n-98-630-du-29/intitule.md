@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-899 du 21 décembre 2020 modifiant l'arrêté ministériel n° 98-630 du 29 décembre 1998 relatif à l'organisation et à l'indemnisation des gardes et astreintes au Centre Hospitalier Princesse Grace
