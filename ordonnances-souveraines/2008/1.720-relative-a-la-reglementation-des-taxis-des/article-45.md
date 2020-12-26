@@ -4,6 +4,8 @@ Le transport de personnes et de leurs bagages pris en charge sur le territoire d
 
 L'autorisation consiste à accorder à l'exploitant de véhicules de location avec chauffeurs étrangers, une vignette unique et incessible pour chaque véhicule exploité, délivrée dans des conditions fixées par arrêté ministériel.
 
+Le nombre maximal de vignettes accordées sera défini chaque année par arrêté ministériel.
+
 La vignette, délivrée par le Directeur de la Sûreté Publique, doit être collée à l'intérieur du véhicule, recto visible de l'extérieur, sur la partie inférieure droite du pare-brise.
 
 Les dispositions du présent article ne sont pas applicables au transport de personnes qui nécessitent des soins médicaux sur le territoire national.
