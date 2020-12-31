@@ -1,9 +1,11 @@
 # Article 22-1
 
-Pour l'application du chiffre 2°) du dernier alinéa de l'article précédent, les informations relatives au bénéficiaire effectif peuvent être communiquées à toute personne autorisée par une décision de justice qui n'est plus susceptible d'une voie de recours.
+La demande aux fins d'inscription ou de mention sur le registre des bénéficiaires effectifs doit être accompagnée de toutes les pièces justificatives propres à établir l'exactitude des déclarations.
 
-La demande de communication est formée par voie de requête auprès du Président du Tribunal de première instance. Elle contient l'objet et le fondement de la demande ainsi que l'indication des pièces sur lesquelles elle est fondée.
+Toute modification des informations communiquées au registre des bénéficiaires effectifs doit faire l'objet, en vue de sa mention audit registre, d'une déclaration complémentaire ou rectificative. Cette déclaration doit être notifiée au service du répertoire du commerce et de l'industrie dans le mois de la modification.
 
-Le Président du Tribunal de première instance statue par ordonnance. Celle-ci est signifiée, à l'initiative du requérant, à l'entité faisant l'objet de la demande. Cette signification doit comporter, à peine de nullité, l'indication que l'entité concernée doit porter ladite ordonnance à la connaissance du ou des bénéficiaires effectifs, ainsi que les modalités et le délai d'exercice des voies de recours dont cette ordonnance est susceptible de faire l'objet.
+Lors de la réception de la demande aux fins d'inscription ou de mention, le service du répertoire du commerce et de l'industrie doit s'assurer qu'elle contient toutes les énonciations requises et qu'elle est accompagnée de toutes les pièces justificatives nécessaires. S'il n'en est pas ainsi, il est sursis à l'inscription ou à la mention sollicitée, et le demandeur devra fournir les déclarations omises et produire les pièces qui font défaut.
 
-L'ordonnance est susceptible de recours dans les trente jours de la signification dans les conditions de l'article 852 du Code de procédure civile, notamment par l'entité concernée, y compris lorsque celle-ci est mandatée par le bénéficiaire effectif.
+Le service vérifie la conformité des déclarations avec les pièces produites. S'il est constaté des inexactitudes ou s'il s'élève des difficultés, le service du répertoire du commerce et de l'industrie invite la société ou l'entité à régulariser sa situation. À défaut de réponse dans le délai de deux mois ou en cas de réponse insuffisante, il est procédé comme il est dit à l'article 22-3.
+
+Lorsque le dossier est complet, la demande d'inscription ou de mention est enregistrée et le récépissé qui en est délivré énumère les pièces déposées. Le cas échéant, un duplicata de ce récépissé peut être délivré au représentant de la personne morale concernée, contre paiement d'un droit de timbre.
