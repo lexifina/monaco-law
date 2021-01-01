@@ -1,6 +1,6 @@
 # Article 17
 
-1. Il est créé un «Fonds pour l'élimination du dopage dans le sport', ci-après dénommé »le Fonds de contributions volontaires'. Il s'agit d'un fonds-en-dépôt établi conformément au Règlement financier de l'UNESCO. Toutes les contributions versées par les Etats parties et autres acteurs sont de nature volontaire.
+1. Il est créé un » Fonds pour l'élimination du dopage dans le sport «, ci-après dénommé » le Fonds de contributions volontaires ". Il s'agit d'un fonds-en-dépôt établi conformément au Règlement financier de l'UNESCO. Toutes les contributions versées par les Etats parties et autres acteurs sont de nature volontaire.
 
 2. Les ressources du Fonds de contributions volontaires sont constituées par :
 
