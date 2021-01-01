@@ -1,3 +1,3 @@
 # Article 8
 
-Le présent arrêté entrera en vigueur le 1er janvier 2020.
+Le présent arrêté entrera en vigueur le 1er janvier 2021.
