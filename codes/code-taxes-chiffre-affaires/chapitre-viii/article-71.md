@@ -40,6 +40,6 @@ VI. - Pour satisfaire aux conditions prévues au IV, l'assujetti peut émettre o
 
 - 2° Soit en recourant à la procédure de signature électronique avancée définie au a du 2 de l'article 233 de la directive 2006/112/CE relative au système commun de taxe sur la valeur ajoutée en ce qui concerne les règles de facturation.
 
-Une ordonnance souveraine précise les conditions d'émission, de signature et de stockage de ces factures ;
+- Une ordonnance souveraine précise les conditions d'émission, de signature et de stockage de ces factures ;
 
-3° Soit sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, dans les conditions précisées par ordonnance souveraine.
+- 3° Soit sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, dans les conditions précisées par ordonnance souveraine.

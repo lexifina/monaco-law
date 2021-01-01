@@ -28,9 +28,9 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
   - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio.
 
-  - Lorsque ces prestations sont comprises dans une offre, composée ou non de plusieurs autres offres, qui comprend l'accès à un réseau de communications électroniques ou à un équipement terminal ou la fourniture de services de télévision le taux réduit est applicable au supplément de prix payé par le client par rapport à une offre identique, mais ne comprenant pas tout ou partie de ces mêmes prestations, commercialisée dans des conditions comparables. Le cas échéant, cette assiette est majorée de celle établie pour l'application du taux réduit à cette autre offre.
+- Lorsque ces prestations sont comprises dans une offre, composée ou non de plusieurs autres offres, qui comprend l'accès à un réseau de communications électroniques ou à un équipement terminal ou la fourniture de services de télévision le taux réduit est applicable au supplément de prix payé par le client par rapport à une offre identique, mais ne comprenant pas tout ou partie de ces mêmes prestations, commercialisée dans des conditions comparables. Le cas échéant, cette assiette est majorée de celle établie pour l'application du taux réduit à cette autre offre.
 
-  - À défaut d'une telle autre offre, le taux réduit est applicable aux sommes payées, par client, pour l'acquisition de ces prestations, dans la limite, le cas échéant, du prix auquel ces prestations sont commercialisées par ailleurs par le fournisseur ;
+- À défaut d'une telle autre offre, le taux réduit est applicable aux sommes payées, par client, pour l'acquisition de ces prestations, dans la limite, le cas échéant, du prix auquel ces prestations sont commercialisées par ailleurs par le fournisseur ;
 
 - B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, de l'énergie solaire thermique, des déchets et d'énergie de récupération ;
 

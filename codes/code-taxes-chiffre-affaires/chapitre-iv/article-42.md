@@ -16,7 +16,9 @@ II. - 1. Dans la mesure où les biens et les services sont utilisés pour les be
 
 - c) celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la livraison à soi-même des biens ou des services ;
 
-- d) celle qui correspond aux factures d'acquisition intracommunautaire établies conformément à la réglementation communautaire dont le montant figure sur la déclaration de recettes conformément au b) du 4 de l'article 70.
+- d) celle qui correspond aux factures d'acquisition intracommunautaire établies conformément à la réglementation communautaire dont le montant figure sur la déclaration de recettes conformément au b) du 4 de l'article 70 ;
+
+- e) Celle qui est acquittée par les redevables eux-mêmes pour les importations de produits pétroliers définis au 1° de l'article 100 ter ou pour les sorties de ces mêmes produits du régime suspensif prévu au a du 2° du I de l'article 50 A.
 
 2. La déduction ne peut pas être opérée si les redevables ne sont pas en possession soit desdites factures, soit de la déclaration d'importation sur laquelle ils sont désignés comme destinataires réels. Pour les acquisitions intracommunautaires et les sorties des régimes suspensifs prévus au 1°, au a du 2° et au 7° du I de l'article 50 A, la déduction ne peut être opérée que si les redevables ont fait figurer sur la déclaration prévue à l'article 70, conformément aux b et b quinquies de son 4, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et détiennent des factures établies conformément à la réglementation communautaire ou les documents attestant de la sortie de ces régimes suspensifs.
 

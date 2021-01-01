@@ -4,9 +4,9 @@
 
 2. Par dérogation au 1 du présent article, le taux prévu à l'article 51 s'applique aux travaux, réalisés sur une période de deux ans au plus :
 
-- a) Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 5 ;
+a) Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 5 ;
 
-- b) À l'issue desquels la surface de plancher des locaux existants est augmentée de plus de 10 %.
+b) À l'issue desquels la surface de plancher des locaux existants est augmentée de plus de 10 %.
 
 3. Le taux réduit prévu au 1 du présent article est applicable aux travaux facturés au propriétaire ou, le cas échéant, au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant, à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux ans, ont la nature de travaux mentionnés au même 1 et ne répondent pas aux conditions mentionnées au 2. Il est également applicable, dans les mêmes conditions, aux travaux réalisés par l'intermédiaire d'une société d'économie mixte intervenant comme tiers financeur. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
 
