@@ -1,8 +1,8 @@
 # Loi n° 214 du 27 février 1936 portant révision de la loi n° 207 du 12 juillet 1935 sur les trusts
 
-Version en vigueur au 7 juillet 2018.
+Version en vigueur au 1er janvier 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1936/02-27-214@2018.07.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1936/02-27-214@2021.01.01/
 
 | | |
 | --- | --- |

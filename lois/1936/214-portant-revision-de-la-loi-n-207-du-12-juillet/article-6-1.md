@@ -1,12 +1,12 @@
 # Article 6-1
 
-Le trustee doit posséder et conserver les informations adéquates, exactes et actuelles sur les bénéficiaires effectifs de chaque trust qu'il administre. À cet effet, il recueille et conserve les informations portant sur l'identité :
+Le trustee doit posséder et conserver les informations adéquates, exactes et actuelles sur les bénéficiaires effectifs de chaque trust qu'il administre à Monaco. À cet effet, il recueille et conserve les informations portant sur l'identité :
 
-- du constituant ;
+- du ou des constituants ;
 
 - du ou des trustees ;
 
-- le cas échéant, du protecteur ;
+- le cas échéant, du ou des protecteurs ;
 
 - des bénéficiaires ou de la catégorie des bénéficiaires ;
 
