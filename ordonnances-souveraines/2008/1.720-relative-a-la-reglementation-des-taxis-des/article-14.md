@@ -12,6 +12,8 @@ Les taxis doivent répondre aux caractéristiques techniques suivantes :
 
 - 5° - disposer d'un système de communication par radio ;
 
-- 6° - disposer d'un véhicule répondant aux normes environnementales fixées par arrêté ministériel.
+- 6° - disposer d'un véhicule répondant aux normes environnementales fixées par arrêté ministériel;
+
+- 7° - disposer d'un terminal de paiement électronique (T.P.E.)
 
 Les équipements mentionnés aux chiffres 3 et 4 de l'alinéa précédent sont présentés en état de fonctionnement lors de la présentation du véhicule prévue à l'article 7.
