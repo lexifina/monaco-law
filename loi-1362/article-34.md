@@ -4,6 +4,6 @@ Les procédures de contrôle interne prennent spécifiquement en compte le risqu
 
 Elles doivent être mises à jour de manière régulière afin de prendre, notamment, en considération l'évolution des textes normatifs.
 
-Un exemplaire de ces procédures en langue française est communiqué au Service d'Information et de Contrôle sur les Circuits Financiers ou, selon les cas, au Procureur Général.
+Un exemplaire de ces procédures en langue française est communiqué au Service d'Information et de Contrôle sur les Circuits Financiers ou, selon les cas, au Procureur Général ou au Bâtonnier de l'Ordre des avocats-défenseurs et avocats.
 
 Les modalités d'application des obligations prescrites au présent article sont fixées par ordonnance souveraine.

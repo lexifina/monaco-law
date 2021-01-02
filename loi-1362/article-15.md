@@ -1,6 +1,6 @@
 # Article 15
 
-Lorsque les organismes et personnes visés aux chiffres 1°) à 4°) de l'article premier, entretiennent une relation transfrontalière de correspondant, avec un établissement situé sur le territoire d'un État qui n'impose pas d'obligations équivalentes à la présente loi, ils mettent en œuvre, en plus des mesures de vigilance définies à la Section I, des mesures de vigilance renforcées. Pour ce faire, ils doivent :
+Lorsqu'ils établissent une relation transfrontalière de correspondant qui implique l'exécution de paiements, avec un établissement client situé sur le territoire d'un État qui n'impose pas d'obligations équivalentes à la présente loi, les organismes et les personnes visés aux chiffres 1°) à 4°) de l'article premier mettent en œuvre, en plus des mesures de vigilance définies à la Section I du présent Chapitre, des mesures de vigilance renforcées. Pour ce faire, ils doivent :
 
 - - recueillir des informations suffisantes pour comprendre pleinement la nature des activités de l'établissement client et pour apprécier, grâce à des informations accessibles au public, sa réputation et la qualité de la surveillance ;
 

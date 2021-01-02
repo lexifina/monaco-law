@@ -1,6 +1,6 @@
 # Article 54
 
-Le contrôle de l'application des dispositions de la présente loi et des mesures prises pour son application par les personnes visées à l'article premier est exercé par les agents du Service d'Information et de Contrôle sur les Circuits Financiers, spécialement commissionnés et assermentés.
+Le contrôle de l'application des dispositions de la présente loi et des mesures prises pour son application par les organismes et les personnes visées à l'article premier est exercé par les agents du Service d'Information et de Contrôle sur les Circuits Financiers, spécialement commissionnés et assermentés.
 
 À cette fin, ils peuvent effectuer des contrôles sur pièces et sur place, sans que le secret professionnel ne puisse leur être opposé, et notamment :
 

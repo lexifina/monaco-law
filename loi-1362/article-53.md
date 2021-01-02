@@ -1,6 +1,6 @@
 # Article 53
 
-Le Service d'Information et de Contrôle sur les Circuits Financiers peut, pour une durée maximale de six mois renouvelable, désigner aux organismes et personnes mentionnés à l'article premier, pour la mise en œuvre de leurs obligations de vigilance :
+Le Service d'Information et de Contrôle sur les Circuits Financiers peut, pour une durée maximale de six mois renouvelable, désigner aux organismes et personnes mentionnés aux articles premier et 2, pour la mise en œuvre de leurs obligations de vigilance :
 
 - 1°) les opérations qui présentent, eu égard à leur nature particulière ou aux zones géographiques déterminées à partir desquelles, à destination desquelles ou en relation avec lesquelles elles sont effectuées, un risque important de blanchiment de capitaux ou de financement du terrorisme ;
 

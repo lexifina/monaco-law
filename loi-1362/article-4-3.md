@@ -1,9 +1,19 @@
 # Article 4-3
 
-Les organismes et les personnes visés aux articles premier et 2 sont tenus d'appliquer les mesures de vigilance visées aux articles 4 et 4-2, lorsque leurs clients occasionnels souhaitent réaliser :
+Lorsqu'ils établissent une relation d'affaires, les organismes et les personnes visés aux articles premier et 2 recueillent des informations proportionnées relatives à l'objet et à la nature envisagés de la relation d'affaires.
 
-- - un transfert de fonds ;
+Les informations recueillies sont proportionnées à la nature et à la taille des organismes et des personnes visés aux articles premier et 2, ainsi qu'à l'importance du risque de blanchiment de capitaux, de financement du terrorisme et de corruption.
 
-- - une opération dont le montant atteint ou excède un montant fixé par ordonnance souveraine, qu'elle soit effectuée en une seule ou en plusieurs opérations entre lesquelles semble exister un lien ;
+L'importance du risque visé au précédent alinéa s'apprécie en tenant compte notamment, de l'arrière-plan socio-économique du client et des caractéristiques suivantes de la relation d'affaires :
 
-- - une opération, même d'une somme inférieure audit montant, dès qu'il y a soupçon de blanchiment de capitaux, ou de financement du terrorisme ou de corruption.
+- - la régularité ou la durée ;
+
+- - l'objet ou la finalité ;
+
+- - la nature de la relation d'affaires ;
+
+- - le volume prévisible des transactions effectuées.
+
+Ces informations permettant de déterminer l'importance du risque mentionné au deuxième alinéa, ainsi que des renseignements concernant l'origine du patrimoine du client doivent être étayés au moyen de documents, données ou sources d'informations fiables.
+
+Les modalités d'application du présent article sont déterminées par ordonnance souveraine.

@@ -1,10 +1,12 @@
 # Article 67
 
-Lorsque le Ministre d'État constate qu'un organisme ou une personne mentionnés à l'article premier a manqué à tout ou partie des obligations lui incombant en vertu de la présente loi, il peut prononcer l'une des sanctions administratives suivantes :
+Lorsque le Ministre d'État constate qu'un organisme ou une personne mentionnés aux premier, deuxième et quatrième alinéas de l'article 65 a manqué à tout ou partie des obligations lui incombant en vertu de la présente loi, il peut prononcer l'une des sanctions administratives suivantes :
 
 - - un avertissement ;
 
 - - un blâme ;
+
+- - une injonction ordonnant à la personne physique ou morale de mettre un terme au comportement en cause et lui interdisant de le réitérer ;
 
 - - l'interdiction d'effectuer certaines opérations ;
 

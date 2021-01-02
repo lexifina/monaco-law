@@ -1,8 +1,8 @@
 # Article 59-1
 
-Dans le cadre de l'application du présent Chapitre, le Service d'Information et de Contrôle sur les Circuits Financiers peut collaborer et échanger des informations avec des autorités étrangères exerçant des compétences analogues aux siennes.
+Dans le cadre de l'application du présent Chapitre, le Service d'Information et de Contrôle sur les Circuits Financiers peut collaborer et échanger des informations avec des autorités étrangères exerçant des compétences analogues aux siennes en matière de contrôle à des fins de lutte contre le blanchiment de capitaux, de financement du terrorisme et de corruption.
 
-Cette coopération n'est possible que sous réserve de réciprocité et à condition que les autorités étrangères soient soumises à des obligations de secret professionnel analogues à celles du Service d'Information et de Contrôle sur les Circuits Financiers et présentent des garanties suffisantes que les informations communiquées ne pourront être utilisées à d'autres fins que celles de la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+Cette coopération n'est possible que sous réserve de réciprocité et à condition que les autorités étrangères soient soumises à des obligations de secret professionnel analogues à celles du Service d'Information et de Contrôle sur les Circuits Financiers et présentent des garanties suffisantes que les informations communiquées ne pourront être utilisées à d'autres fins que celles de la lutte contre le blanchiment de capitaux [,] le financement du terrorisme et la corruption.
 
 À cet effet, peuvent être conclues des conventions bilatérales autorisant l'échange de renseignements et ayant pour objet, cumulativement ou non :
 

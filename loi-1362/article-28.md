@@ -1,8 +1,8 @@
 # Article 28
 
-Les organismes et les personnes visés à l'article premier établis sur le territoire de la Principauté et qui appartiennent à un groupe dont l'entreprise mère est établie dans la Principauté ou dans un État dont la législation comporte des dispositions réputées équivalentes à celles de la présente loi, notamment en matière de secret professionnel et de protection des informations nominatives, et qui font l'objet d'une surveillance pour la conformité de ces obligations, transmettent aux entreprises du même groupe les informations nécessaires à l'organisation de la lutte contre le blanchiment de capitaux et le financement du terrorisme, selon les modalités prévues par ordonnance souveraine.
+Les organismes et les personnes visés à l'article premier établis sur le territoire de la Principauté et qui appartiennent à un groupe dont l'entreprise mère est établie dans la Principauté ou dans un État dont la législation comporte des dispositions réputées équivalentes au droit monégasque, notamment en matière de secret professionnel et de protection des informations nominatives, et qui font l'objet d'une surveillance pour la conformité de ces obligations, transmettent aux entreprises du même groupe les informations nécessaires à l'organisation de la lutte contre le blanchiment de capitaux et le financement du terrorisme, selon les modalités prévues par ordonnance souveraine.
 
-Ces informations ne peuvent être transmises à des personnes extérieures au groupe, à l'exception de l'autorité de supervision de la société mère, qu'avec l'accord préalable de la personne ou de l'organisme concerné.
+Ces informations ne peuvent être transmises par les organismes et les personnes visés aux chiffres 1°) à 4°) de l'article premier à des personnes extérieures au groupe, à l'exception de l'autorité de supervision de la société mère, qu'avec l'accord préalable de la personne ou de l'organisme concerné.
 
 Les dispositions du présent article sont applicables sans préjudice de la loi n° 1.165 du 23 décembre 1993, modifiée.
 

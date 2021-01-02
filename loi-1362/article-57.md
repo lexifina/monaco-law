@@ -1,6 +1,6 @@
 # Article 57
 
-Le contrôle de l'application des dispositions de la présente loi et des mesures prises pour son application par les personnes visées à l'article 2 est exercé par le Procureur Général qui peut se faire assister par les agents du Service d'Information et de Contrôle sur les Circuits Financiers.
+Le contrôle de l'application des dispositions de la présente loi et des mesures prises pour son application par les personnes visées aux chiffres 1°) et 2°) de l'article 2 est exercé par le Procureur Général qui peut se faire assister par les agents du Service d'Information et de Contrôle sur les Circuits Financiers.
 
 Les modalités de ce contrôle sont définies par ordonnance souveraine.
 
