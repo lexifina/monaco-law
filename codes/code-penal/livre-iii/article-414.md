@@ -1,6 +1,6 @@
 # Article 414
 
-En cas de nouvelle condamnation, inconduite notoire, inobservation des conditions et mesures énoncées dans l'arrêté de mise en liberté conditionnelle, le Directeur des Services Judiciaires peut prononcer la révocation de cette décision dans la forme prévue par l' Ordonnance Souveraine.
+En cas de nouvelle condamnation, inconduite notoire, inobservation des conditions et mesures énoncées dans l'arrêté de mise en liberté conditionnelle, le Directeur des Services Judiciaires peut prononcer la révocation de cette décision dans la forme prévue par l'Ordonnance Souveraine.
 
 S'il y a urgence, l'arrestation peut être provisoirement ordonnée par le juge de l'application des peines, à charge de saisir immédiatement le Directeur des Services Judiciaires.
 

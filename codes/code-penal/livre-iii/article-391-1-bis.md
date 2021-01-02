@@ -2,17 +2,17 @@
 
 Constitue un acte de terrorisme puni de dix ans d'emprisonnement et de 150 000 euro(s) d'amende, le fait de préparer la commission d'une des infractions mentionnées au second alinéa, dès lors que la préparation de ladite infraction est intentionnellement en relation avec une entreprise individuelle ayant pour but de troubler gravement l'ordre public par l'intimidation ou la terreur et qu'elle est caractérisée par :
 
-1°- le fait de détenir, de rechercher, de se procurer ou de fabriquer des objets ou des substances de nature à créer un danger pour autrui ;
+- 1°- le fait de détenir, de rechercher, de se procurer ou de fabriquer des objets ou des substances de nature à créer un danger pour autrui ;
 
-2°- et l'un des autres faits matériels suivants :
+- 2°- et l'un des autres faits matériels suivants :
 
-- - recueillir des renseignements sur des lieux ou des personnes permettant de mener une action dans ces lieux ou de porter atteinte à ces personnes ou exercer une surveillance sur ces lieux ou ces personnes ;
+  - - recueillir des renseignements sur des lieux ou des personnes permettant de mener une action dans ces lieux ou de porter atteinte à ces personnes ou exercer une surveillance sur ces lieux ou ces personnes ;
 
-- - s'entraîner ou se former au maniement des armes ou à toute forme de combat, à la fabrication ou à l'utilisation de substances explosives, incendiaires, nucléaires, radiologiques, biologiques ou chimiques ou au pilotage d'aéronefs ou à la conduite de navires ;
+  - - s'entraîner ou se former au maniement des armes ou à toute forme de combat, à la fabrication ou à l'utilisation de substances explosives, incendiaires, nucléaires, radiologiques, biologiques ou chimiques ou au pilotage d'aéronefs ou à la conduite de navires ;
 
-- - consulter habituellement un ou plusieurs services de communication au public en ligne ou détenir des documents provoquant directement à la commission d'actes de terrorisme ou en faisant l'apologie ;
+  - - consulter habituellement un ou plusieurs services de communication au public en ligne ou détenir des documents provoquant directement à la commission d'actes de terrorisme ou en faisant l'apologie ;
 
-- - avoir séjourné à l'étranger sur un théâtre d'opérations de groupements terroristes.
+  - - avoir séjourné à l'étranger sur un théâtre d'opérations de groupements terroristes.
 
 Les dispositions du premier alinéa s'appliquent à la préparation de la commission des infractions suivantes :
 

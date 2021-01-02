@@ -13,3 +13,7 @@ Ne peuvent être poursuivis :
 Constitue également un acte de terrorisme le fait de participer à un groupement formé ou à une entente établie en vue de la préparation, caractérisée par un ou plusieurs faits matériels, d'un des actes de terrorisme mentionnés aux articles précités.
 
 Les auteurs des actes de terrorisme définis au précédent alinéa sont punis de dix à vingt ans de réclusion criminelle et de l'amende prévue au chiffre 4 de l'article 26 dont le maximum peut être porté au quintuple.
+
+Constitue également un acte de terrorisme le fait de diriger un groupement formé ou une entente établie en vue de la préparation, caractérisée par un ou plusieurs faits matériels, d'un des actes de terrorisme mentionnés aux articles précités.
+
+Les auteurs des actes de terrorisme définis au précédent alinéa sont punis de la réclusion criminelle à perpétuité et de l'amende prévue au chiffre 4 de l'article 26 dont le maximum peut être porté au quintuple.

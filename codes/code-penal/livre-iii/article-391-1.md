@@ -14,6 +14,8 @@ les infractions suivantes :
 
 - 3°) Les crimes et délits contre la paix publique relatifs :
 
+  - aux faux en écritures et faux commis dans les passeports et les certificats, visés par les articles 91 à 93, 95, 97, 98, 102, et 104 ;
+
   - aux attroupements et rébellions, visés aux articles 145, 146, 152 à 155, et 161 ;
 
   - aux violences envers les dépositaires de la puissance publique, de l'autorité et de la force publique, visées aux articles 166 et 167 ;
@@ -32,7 +34,7 @@ les infractions suivantes :
 
   - aux homicides volontaires, visés aux articles 220 à 223 et 226 à 228 ;
 
-  - aux menaces, visées aux articles 230 à 232 ;
+  - aux menaces, visées aux articles 230 à 234 et 234-2 ;
 
   - aux coups et blessures volontaires, visés aux articles 236 à 238, et 240 à 249 ;
 
@@ -48,4 +50,14 @@ les infractions suivantes :
 
   - le recel, visé aux articles 339 et 340 ;
 
-  - les incendies, destructions, dégradations et dommages, visés aux articles 369 à 377, 380 à 382, 385, 386 et 389.
+  - les incendies, destructions, dégradations et dommages, visés aux articles 369 à 377, 380 à 382, 385, 386 et 389 :
+
+  - l'entrave ou l'altération d'un système d'information, visées à l'article 389-2.
+
+Constitue également, aux conditions prévues au premier alinéa, une infraction terroriste :
+
+- 1°) le détournement, la destruction ou la dégradation d'autres moyens de transports que ceux visés à l'article premier de l'Ordonnance Souveraine n° 15.655 du 7 février 2003 portant application de divers traités internationaux relatifs à la lutte contre le terrorisme ;
+
+- 2°) la provocation d'inondations ayant pour effet de mettre en danger des vies humaines ;
+
+- 3°) la perturbation ou l'interruption de l'approvisionnement en eau, en électricité ou toute autre ressource naturelle fondamentale ayant pour effet de mettre en danger des vies humaines.
