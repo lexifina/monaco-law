@@ -16,6 +16,8 @@ Par dérogation aux dispositions de l'annexe de la Décision Ministérielle du 2
 
 - l'accueil des clients dans les restaurants pour les services du déjeuner et du dîner a lieu uniquement sur réservation ;
 
+- à compter du 2 janvier 2021 à 19 heures, les restaurants n'accueillent, sur présentation d'un justificatif, que des clients de nationalité monégasque ou disposant d'une résidence à Monaco, ou y occupant un emploi, ou encore séjournant dans un établissement hôtelier de la Principauté ;
+
 - le nombre maximum de personnes à table dans les restaurants est limité à six ;
 
 - les assiettes et plats à partager sont interdits ;
