@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-906 du 18 décembre 2020 fixant le plafond relatif à l'aide pour l'accès ou l'accompagnement au retour à l'emploi instituée par la loi n° 1.501 du 11 décembre 2020 relative aux aides pour l'accès ou l'accompagnement au retour à l'emploi
