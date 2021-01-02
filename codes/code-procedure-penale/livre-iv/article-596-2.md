@@ -1,6 +1,6 @@
 # Article 596-2
 
-Avec l'accord préalable du directeur des services judiciaires et le consentement de l'État étranger concerné, l'autorité judiciaire compétente peut créer une équipe commune d'enquête, soit lorsqu'il y a lieu d'effectuer, dans le cadre d'une procédure monégasque, des enquêtes complexes impliquant la mobilisation d'importants moyens et qui concernent d'autres États étrangers, soit lorsque plusieurs États effectuent des enquêtes relatives à des infractions exigeant une action coordonnée et concertée entre eux.
+Avec l'accord préalable du Directeur des Services Judiciaires et le consentement de l'État étranger concerné, l'autorité judiciaire compétente peut créer une équipe commune d'enquête, soit lorsqu'il y a lieu d'effectuer, dans le cadre d'une procédure monégasque, des enquêtes complexes impliquant la mobilisation d'importants moyens et qui concernent d'autres États étrangers, soit lorsque plusieurs États effectuent des enquêtes relatives à des infractions exigeant une action coordonnée et concertée entre eux.
 
 Les agents étrangers détachés par un autre État auprès d'une équipe commune d'enquête, dans la limite des attributions attachées à leur statut, peuvent, sous la direction de l'autorité judiciaire compétente, avoir pour mission, le cas échéant, sur tout le territoire de la Principauté :
 
