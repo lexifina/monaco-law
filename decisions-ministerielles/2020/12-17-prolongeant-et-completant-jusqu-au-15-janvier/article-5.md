@@ -1,9 +1,7 @@
 # Article 5
 
-Par dérogation aux dispositions du chapitre II de la Décision Ministérielle du 28 avril 2020, modifiée, susvisée :
+À compter du 6 janvier 2021 et par dérogation aux dispositions de la Décision Ministérielle du 28 avril 2020, modifiée, susvisée, les établissements sportifs couverts (relevant de la catégorie X mentionnée à l'article GEN 4 de l'annexe n° 1, livre premier, dispositions générales communes à toutes les constructions, de l'arrêté ministériel n° 2018-1079 du 21 novembre 2018, modifié, susvisé) sont fermés.
 
-- les activités sportives professionnelles, et notamment les entraînements et matchs, ont lieu à huis clos ;
+Les activités des associations et fédérations de sports amateurs sont suspendues, à l'exception de celles des sportifs de haut niveau et celles pratiquées hors infrastructures couvertes, dans le respect d'un espace sans contact de deux mètres entre deux personnes.
 
-- la pratique, à titre non professionnel, de sports de combat et la pratique de sports de contact sont limitées à la réathlétisation ou à des exercices individuels permettant le respect d'une distanciation sanitaire d'au moins deux mètres entre les participants.
-
-Les protocoles sur les mesures sanitaires établis dans le respect de ce point III ou IV et déjà validés par le Directeur de l'Action Sanitaire n'ont pas à faire l'objet d'une nouvelle validation pour être réactivés. Leur réactivation ne peut avoir lieu que dans le respect des dispositions du premier alinéa.
+Les activités sportives professionnelles, et notamment les entraînements et matchs, ont lieu à huis clos.
