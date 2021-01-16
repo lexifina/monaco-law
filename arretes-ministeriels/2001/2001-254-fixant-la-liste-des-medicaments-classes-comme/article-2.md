@@ -16,8 +16,6 @@ Ne peuvent être prescrits pour une durée supérieure à sept jours les médica
 
 - Fentanyl et ses sels, sous forme de préparations injectables ;
 
-- Méthadone et ses sels ;
-
 - Méthylphénidate et ses sels, sous forme de préparations injectables ;
 
 - Morphine et ses sels, sous forme de préparations injectables autres que celles administrées par des systèmes actifs de perfusion ;
