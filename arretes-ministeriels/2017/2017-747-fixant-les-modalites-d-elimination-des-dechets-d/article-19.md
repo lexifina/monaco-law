@@ -6,6 +6,6 @@ La durée entre la production effective des déchets d'activités de soins à ri
 
 - sept jours lorsque la quantité de déchets d'activités de soins à risques infectieux et assimilés produite sur un même site est inférieure ou égale à 100 kilogrammes par semaine et supérieure à 15 kilogrammes par mois ;
 
-- un mois lorsque la quantité de déchets d'activités de soins à risques infectieux et assimilés produite sur un même site est inférieure ou égale à 15 kilogrammes par mois et supérieure à 5 kilogrammes par mois, à l'exception des déchets d'activités de soins à risques infectieux et assimilés perforants exclusivement, pour lesquels cette durée ne doit pas excéder trois mois.
+- un mois lorsque la quantité de déchets d'activités de soins à risques infectieux et assimilés produite sur un même site est inférieure ou égale à 15 kilogrammes par mois et supérieure à 5 kilogrammes par mois, à l'exception des déchets d'activités de soins à risques infectieux et assimilés perforants exclusivement, pour lesquels cette durée ne doit pas excéder six mois.
 
 Par site, on entend tout lieu non traversé par une voie publique où sont installées les activités relevant d'une même personne morale ou physique et génératrices des déchets d'activités de soins à risques infectieux et assimilés.
