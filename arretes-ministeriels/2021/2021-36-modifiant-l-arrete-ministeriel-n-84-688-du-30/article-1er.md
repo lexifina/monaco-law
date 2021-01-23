@@ -1,0 +1,3 @@
+# Article 1er
+
+L'article 6 « Soins portant sur l'appareil génito-urinaire »du Chapitre Ier « Soins de pratique courante » du Titre XVI « Soins infirmiers » de la deuxième partie « Nomenclature des actes médicaux n'utilisant pas les radiations ionisantes » de l'annexe « Nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sages-femmes et des auxiliaires médicaux » de l'arrêté ministériel n° 84-688 du 30 novembre 1984, modifié, susvisé, est modifié comme suit : Voir l'article 6 du Chapitre Ier du Titre XVI de la Nomenclature publiée par l'arrêté ministériel n° 84-688 du 30 novembre 1984.
