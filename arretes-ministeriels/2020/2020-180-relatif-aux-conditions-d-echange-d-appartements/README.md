@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2020-180 du 25 février 2020 relatif aux conditions d'échange d'appartements domaniaux
 
-Version en vigueur au 29 février 2020.
+Version en vigueur au 23 janvier 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/02-25-2020-180@2020.02.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/02-25-2020-180@2021.01.23/
 
 | | |
 | --- | --- |
