@@ -1,0 +1,12 @@
+# Ordonnance Souveraine n° 8.467 du 21 janvier 2021 portant modification de l'Ordonnance Souveraine n° 8.258 du 18 septembre 2020 portant application de la loi n° 1.491 du 23 juin 2020 relative aux offres de jetons
+
+Version en vigueur au 30 janvier 2021.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/01-21-8.467@2021.01.30/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 21 janvier 2021 |
+| Publication | Journal de Monaco du 29 janvier 2021 |
