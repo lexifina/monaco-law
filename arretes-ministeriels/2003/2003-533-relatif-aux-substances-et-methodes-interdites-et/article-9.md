@@ -1,6 +1,6 @@
 # Article 9
 
-La Commission pour les autorisations d'usage à des fins thérapeutiques émet, dans un délai de quinze jours à compter de la réception de la demande, un avis concluant à une autorisation ou à un refus d'autorisation.
+La Commission pour les autorisations d'usage à des fins thérapeutiques émet, dans un délai de vingt-et-un jours à compter de la réception de la demande, un avis conforme concluant à une autorisation ou à un refus d'autorisation.
 
 Durant cette période, la Commission peut demander des informations complémentaires au médecin traitant du sportif.
 
