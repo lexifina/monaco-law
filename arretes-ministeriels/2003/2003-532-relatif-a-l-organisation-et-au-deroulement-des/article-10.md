@@ -1,3 +1,3 @@
 # Article 10
 
-En application du a) de l'article 9 de l'ordonnance souveraine n° 15.656 du 7 février 2003, modifiée, susvisée, le Comité Monégasque Antidopage, en coordination avec les fédérations nationales intéressées, détermine, lors des manifestations nationales, le nombre de contrôles en fonction du classement final et désigne les sportifs ou les équipes contrôlés.
+En application du a) de l'article 9 de l'Ordonnance Souveraine n° 15.656 du 7 février 2003, modifiée, susvisée, le Comité Monégasque Antidopage détermine, lors des manifestations nationales, le nombre de contrôles et désigne les sportifs ou les équipes contrôlés.

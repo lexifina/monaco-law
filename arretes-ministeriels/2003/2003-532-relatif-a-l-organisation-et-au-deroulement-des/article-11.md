@@ -1,6 +1,6 @@
 # Article 11
 
-Tout organisateur de compétition ou d'événement à caractère sportif doit mettre à disposition du préleveur spécialement habilité à cet effet chargé d'effectuer un contrôle un ou plusieurs collaborateurs qui auront pour mission d'aider à la notification du contrôle au sportif, à sa surveillance et à son accompagnement jusque dans les locaux où s'effectue le contrôle antidopage.
+Sur demande du Comité Monégasque Antidopage, tout organisateur de compétition ou d'événement à caractère sportif doit mettre à disposition du préleveur spécialement habilité à cet effet chargé d'effectuer un contrôle un ou plusieurs collaborateurs qui auront pour mission d'aider à la notification du contrôle au sportif, à sa surveillance et à son accompagnement jusque dans les locaux où s'effectue le contrôle antidopage.
 
 Toute personne physique ou morale responsable des lieux, locaux, enceintes, installations ou établissements dans lesquels se déroulent les compétitions et entraînements est tenue de mettre à la disposition du préleveur spécialement habilité à cet effet chargé d'effectuer les contrôles antidopage des locaux appropriés audit contrôle.
 

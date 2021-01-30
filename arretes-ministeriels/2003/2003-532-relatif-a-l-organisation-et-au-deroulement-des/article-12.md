@@ -1,15 +1,13 @@
 # Article 12
 
-Les contrôles sont réalisés en conformité avec les exigences du Standard international pour les contrôles et les enquêtes figurant à l'appendice II de la Convention internationale contre le dopage dans le sport de l'UNESCO.
+Les contrôles sont réalisés en conformité avec les exigences du Standard international pour les contrôles et les enquêtes figurant à l'appendice 3 de la Convention internationale contre le dopage dans le sport de l'UNESCO.
 
-Le déroulement de la procédure de contrôle médical s'effectue en présence exclusive du ou des préleveurs spécialement habilités à cet effet, éventuellement d'un infirmier et du sportif accompagné, le cas échéant, de son responsable légal et/ou d'un interprète. Cette procédure comprend :
+Le Comité Monégasque Antidopage veille au respect des obligations propres à chacune des phases et des séquences du contrôle qui débute par la notification du sportif et se termine pour le sportif une fois qu'il a quitté le poste de contrôle et pour le Comité, lorsque les échantillons prélevés ont été envoyés au laboratoire pour analyses.
 
-- un entretien entre le préleveur spécialement habilité à cet effet et le sportif, qui porte notamment sur la prise, l'administration de produits, et en particulier de médicaments qu'ils aient ou non fait l'objet d'une prescription médicale,
+Il s'assure :
 
-- un examen médical complémentaire, lorsque le médecin l'estime utile,
+- du respect de l'intimité et de la dignité du sportif tout au long du processus de contrôle et plus particulièrement dans le cadre de la phase de prélèvement des échantillons ;
 
-- les opérations de prélèvement.
+- de la confidentialité dans laquelle le sportif complète avec le préleveur le formulaire de contrôle normalisé comportant l'ensemble des informations exigées par le standard mentionné au premier alinéa et, en tant que de besoin, le formulaire de rapport supplémentaire. À cet effet, la complétion du formulaire mentionné à l'alinéa précédent s'effectue en présence exclusive du ou des préleveurs spécialement habilités à cet effet, éventuellement d'un infirmier et de l'agent de notification du sportif, du sportif lui-même accompagné, le cas échéant, de son représentant s'il est majeur, ou de son responsable légal s'il est mineur, et, en tant que de besoin, d'un interprète.
 
-Le sportif contrôlé peut fournir tout justificatif à l'appui de ses déclarations.
-
-Les informations nominatives à caractère médical ne peuvent être recueillies que par les préleveurs spécialement habilités à cet effet désignés par voie réglementaire. Ces informations sont couvertes par le secret médical.
+Les données personnelles à caractère médical ne peuvent être recueillies que par les préleveurs spécialement habilités à cet effet désignés par voie réglementaire. Ces données sont couvertes par le secret médical.
