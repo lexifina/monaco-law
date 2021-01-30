@@ -1,5 +1,7 @@
 # Article 7
 
-Le médecin inspecteur des sportifs agréé et assermenté est chargé de l'évaluation du médecin en formation. Cette évaluation est fondée sur l'assiduité et sur l'attention portée à la formation théorique dispensée, ainsi que sur l'aptitude dont l'intéressé a fait preuve au cours des opérations de contrôle.
+L'évaluation du médecin en formation est fondée d'une part, sur l'assiduité à la formation théorique et sur le résultat de l'examen mentionné au dernier alinéa de l'article 5 ainsi, d'autre part, que sur l'aptitude mentionnée à l'article 6.
 
-À l'issue de la formation, le médecin inspecteur des sportifs agréé et assermenté propose au Comité Monégasque Antidopage de soumettre au Ministre d'État l'agrément du médecin en formation.
+À l'issue de la formation, le médecin préleveur chargé de l'évaluation de la formation théorique et celui chargé de l'évaluation pratique transmettent leur rapport au Comité monégasque Antidopage.
+
+En cas d'avis favorable de chacun des deux médecins préleveurs, le Comité soumet au Ministre d'État l'agrément du médecin ayant subi avec succès la formation initiale.

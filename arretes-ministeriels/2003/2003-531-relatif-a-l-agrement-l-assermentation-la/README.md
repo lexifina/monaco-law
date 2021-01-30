@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-531 du 21 octobre 2003 relatif à l'agrément, l'assermentation la formation initiale et continue des médecins chargés des contrôles antidopage
 
-Version en vigueur au 6 octobre 2018.
+Version en vigueur au 30 janvier 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/10-21-2003-531@2018.10.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/10-21-2003-531@2021.01.30/
 
 | | |
 | --- | --- |
