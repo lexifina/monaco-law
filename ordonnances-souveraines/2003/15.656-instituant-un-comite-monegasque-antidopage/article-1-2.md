@@ -1,6 +1,6 @@
 # Article 1-2
 
-Il coopère avec les organisations nationales antidopage étrangères et avec les organismes sportifs internationaux suivants :
+Il coopère avec les organisations et agences nationales antidopage étrangères et les organismes sportifs internationaux suivants :
 
 1. le Comité International Olympique ;
 

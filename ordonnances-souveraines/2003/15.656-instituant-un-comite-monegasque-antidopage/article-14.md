@@ -9,5 +9,3 @@ Ces dispositions ne font pas obstacle à l'application de sanctions complémenta
 Tout refus de mettre effectivement en œuvre ladite sanction peut donner lieu après mise en demeure à la suppression des avantages, autorisations et agréments consentis au groupement ou au sportif de haut niveau.
 
 En l'absence de groupement sportif de rattachement du sportif, la sanction est directement mise en œuvre et contrôlée par le Comité Monégasque Antidopage.
-
-Les modalités de mise en œuvre de la procédure disciplinaire et les sanctions à l'encontre des individus ou des équipes sont définies par arrêté ministériel.

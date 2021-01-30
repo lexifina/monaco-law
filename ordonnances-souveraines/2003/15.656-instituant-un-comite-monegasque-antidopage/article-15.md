@@ -1,3 +1,5 @@
 # Article 15
 
-Les groupements sportifs adoptent, dans leur règlement intérieur ou dans leurs statuts, des dispositions relatives aux contrôles et à la sanction des faits de dopage, tels que définis par la présente ordonnance.
+Le Comité Monégasque Antidopage reconnaît et respecte les décisions disciplinaires rendues par les autres organisations signataires du Code figurant à l'appendice I de la Convention internationale contre le dopage dans le sport (UNESCO).
+
+Le Comité Monégasque Antidopage reconnaît également les mesures prises par d'autres organismes qui n'ont pas accepté le Code figurant à l'appendice I de la Convention internationale contre le dopage dans le sport (UNESCO), si les règles de ces organismes sont conformes au Code.

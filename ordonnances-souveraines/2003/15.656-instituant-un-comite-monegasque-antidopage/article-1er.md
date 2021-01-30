@@ -2,7 +2,7 @@
 
 Il est institué un organisme de droit privé, investi d'une mission d'intérêt général et dénommé « Comité Monégasque Antidopage ». Ce Comité est l'organisation nationale de lutte contre le dopage.
 
-Doté de la personnalité juridique, le Comité dispose d'un budget propre. Le Comité jouit de la capacité de réaliser tous les actes de la vie civile sous réserve des dispositions ciaprès :
+Doté de la personnalité juridique, le Comité dispose d'un budget propre. Le Comité jouit de la capacité de réaliser tous les actes de la vie civile sous réserve des dispositions ci-après :
 
 1°) le Comité ne peut acquérir que les immeubles utiles à son activité ;
 
