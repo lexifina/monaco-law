@@ -1,3 +1,3 @@
 # Article 24
 
-La Chambre Disciplinaire délibère à huit clos hors de la présence des parties, de leurs mandataires et des personnes entendues à l'audience.
+Les mesures de suspension provisoire mentionnées aux articles précédents ne peuvent être imposées qu'à la condition que le sportif ou la personne concernée se soit vu offrir la possibilité soit d'une audience préliminaire avant ou immédiatement après l'entrée en vigueur de ces mesures conservatoires soit d'une audience accélérée après l'entrée en vigueur de ces mêmes mesures. Pour l'application de cette disposition, l'audience préliminaire s'entend d'une audience qui n'est pas destinée à traiter du fond de l'affaire tandis que l'audience accélérée s'entend d'une audience ordinaire portant sur le fond mais organisée dans des délais réduits.

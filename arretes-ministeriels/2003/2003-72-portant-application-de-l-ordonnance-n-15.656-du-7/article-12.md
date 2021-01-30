@@ -1,3 +1,5 @@
 # Article 12
 
-Si le sportif ou une autre personne intéressée prend sa retraite au cours du processus de gestion des résultats ou avant que celui-ci n'ait été amorcé, le Comité Monégasque Antidopage est compétent pour conduire le processus de gestion des résultats jusqu'à son terme. Si un sportif ou une autre personne prend sa retraite avant que le processus de gestion des résultats n'ait été amorcé, l'organisation antidopage qui aurait eu compétence sur le sportif ou l'autre personne en matière de gestion des résultats au moment où le sportif ou l'autre personne a commis une violation des règles antidopage, reste habilitée à gérer les résultats.
+Le Comité Monégasque Antidopage accorde au sportif la possibilité d'avouer la violation des règles antidopage, pour lui permettre de bénéficier, le cas échéant, d'une réduction d'un (1) an de la durée de suspension conformément à l'article 10.8.1 du Code mondial antidopage, et/ou d'accepter volontairement une suspension provisoire conformément à l'article 7.4.4 dudit code.
+
+À réception d'une explication du sportif, le Comité Monégasque Antidopage peut notamment demander au sportif de fournir, dans un délai maximal de dix jours, toute information et/ou tout document complémentaire, ou se mettre en rapport avec des tiers afin d'évaluer la pertinence des explications fournies.

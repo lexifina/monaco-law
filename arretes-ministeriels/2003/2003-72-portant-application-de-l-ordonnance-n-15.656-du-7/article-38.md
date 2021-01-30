@@ -1,5 +1,13 @@
 # Article 38
 
-Le statut du sportif ou de la personne suspendue durant la période visée au précédent article est fixé en vertu des dispositions de l'article 10.12 du Code Mondial Antidopage.
+La Chambre Disciplinaire a pour charge d'instruire et de trancher les litiges qui sont portés devant elle en matière disciplinaire ou en matière de mesures conservatoires.
 
-En outre, l'aide financière publique accordée dans le domaine du sport à un sportif ou à un membre de l'encadrement d'un sportif lui est retirée pendant la durée de la période de suspension résultant d'une violation des règles antidopage.
+Dans ce cadre, elle peut notamment :
+
+- - déterminer en cas de contestation la régularité du processus de contrôle ou d'analyse du laboratoire ;
+
+- - prendre en compte toute explication fournie par les parties ainsi que les preuves matérielles qui lui sont présentées ;
+
+- - tirer toutes les conséquences du refus par le sportif ou par toute autre personne, dûment convoquée dans un délai raisonnable avant l'audience, de comparaître devant elle et de répondre à ses questions ;
+
+- - surseoir à statuer dans le cas où la mise en œuvre d'une instruction complémentaire pourrait s'avérer nécessaire.

@@ -1,5 +1,3 @@
 # Article 16
 
-Le Président de la Chambre Disciplinaire informe l'intéressé ou le cas échéant son responsable légal, de la saisine de celle-ci par lettre recommandée avec demande d'avis de réception.
-
-Cette lettre précise le fondement sur lequel la Chambre Disciplinaire est saisie. Elle indique les griefs formulés à l'encontre de l'intéressé et mentionne les droits dont il dispose pour présenter sa défense.
+Dans le cas où la gestion des résultats fait apparaître un possible défaut du sportif de se conformer à ses obligations, le Comité Monégasque Antidopage notifie ce constat à l'AMA et déclenche une enquête dans les formes et conditions prévues par l'annexe A du Standard international pour la gestion des résultats.

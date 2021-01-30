@@ -1,0 +1,7 @@
+# Article 62
+
+Au plus tard vingt jours après qu'une décision en appel aura été rendue au sens des articles 13.2.1 ou 13.2.2 du Code mondial antidopage, ou s'il a été décidé de renoncer à un tel appel ou à une audience, ou si l'allégation de violation des règles antidopage n'a pas été contestée d'une autre manière dans les délais requis, ou si l'affaire a été réglée conformément à l'article 58, ou si une nouvelle période de suspension, ou une réprimande, a été infligée à un sportif ou à une autre personne, le Comité Monégasque Antidopage, à l'exception des cas impliquant des mineurs, des personnes protégées et des sportifs de niveau récréatif et sous réserve des dispositions législatives en matière de protection des données à caractère personnel ainsi que des dispositions du Standard international pour la protection des données personnelles, rend public le résultat de la procédure antidopage, y compris le sport, la règle antidopage violée, le nom du sportif ou de l'autre personne ayant commis la violation, la substance interdite ou, le cas échéant, la méthode interdite en cause et les conséquences imposées.
+
+Le Comité est également tenu de rendre publics dans les vingt (20) jours les résultats des décisions rendues en appel dans les cas de violation des règles antidopage, accompagnées des informations mentionnées à l'alinéa précédent.
+
+Ces publications sont effectuées sur le site web du Comité pendant un mois ou pendant la durée de la période de suspension si cette dernière est plus longue.

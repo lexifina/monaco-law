@@ -1,15 +1,13 @@
 # Article 26
 
-En cas de violation des règles antidopage dans les sports individuels en relation avec un contrôle en compétition, le Comité Monégasque Antidopage prononce automatiquement l'annulation des résultats obtenus lors de cette compétition, avec toutes les conséquences en résultant, y compris le retrait des médailles, des points et des prix.
+Dans tous les cas où un sportif a été notifié d'une violation des règles antidopage qui n'est pas passible de la suspension provisoire obligatoire prévue à l'article 22, il peut accepter volontairement une suspension provisoire dans l'attente de la résolution de l'affaire, à condition de le faire au plus tard :
 
-Le Comité Monégasque Antidopage peut prononcer, après avoir entendu la personne concernée en ses explications ou l'avoir dûment appelée à les fournir, les sanctions sportives suivantes :
+- - avant l'expiration d'un délai de dix (10) jours à compter du rapport de l'échantillon « B » (ou de la renonciation à l'échantillon « B ») ou avant un délai de dix (10) jours à compter de la notification de toute autre violation des règles antidopage, ou
 
-- 1°) Dans le cas d'une violation d'une règle antidopage commise lors d'une manifestation sportive, l'annulation des résultats individuels obtenus par le sportif, objet de la procédure disciplinaire, avec toutes les conséquences en résultant, y compris le retrait des médailles, des points et des prix.
+- - avant la date à laquelle le sportif concourt pour la première fois après un tel rapport ou une telle notification.
 
-- 2°) Dans les sports collectifs ou dans les sports individuels dans lesquels certaines épreuves se déroulent par équipes, les sanctions sportives prévues au chiffre 1°) peuvent être appliquées à l'ensemble de l'équipe, dès lors qu'il est constaté que plus de deux de ses membres ont commis une violation des règles antidopage.
+Les autres personnes peuvent accepter volontairement une suspension provisoire à condition de le faire dans les dix (10) jours à compter de la notification de la violation des règles antidopage.
 
-Lorsque plus d'un membre d'une équipe dans un sport collectif a été notifié d'une violation des règles antidopage en vertu de l'article 8 dans le cadre d'une manifestation, l'organisme responsable de la manifestation doit réaliser un nombre de contrôles ciblés approprié à l'égard de l'équipe pendant la durée de la manifestation.
+Dans le cas d'une acceptation volontaire, la suspension provisoire est traitée de la même manière et emporte les mêmes effets que si elle avait été imposée à titre de suspension provisoire obligatoire ou de suspension provisoire facultative.
 
-L'organisation responsable d'une manifestation peut décider d'établir pour une manifestation des règles qui imposent des conséquences plus sévères que celles prévues à l'article précédent aux fins de la manifestation.
-
-Outre les sanctions sportives mentionnées aux alinéas précédents, le Comité Monégasque Antidopage peut, dans les mêmes formes, prononcer une sanction disciplinaire à l'encontre du sportif intéressé dans les conditions prévues aux articles 27 à 31.
+Le sportif ou l'autre personne peut à tout moment retirer son acceptation volontaire d'une suspension provisoire. Dans ce cas, le sportif ou l'autre personne ne peut pas bénéficier d'une déduction pour le temps purgé durant la suspension provisoire.

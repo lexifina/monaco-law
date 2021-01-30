@@ -1,0 +1,11 @@
+# Article 58
+
+Dans le cas où, après avoir été notifié(e) par le Comité Monégasque Antidopage d'une allégation de violation potentielle des règles antidopage passible d'une période de suspension de quatre (4) ans ou plus, le sportif ou l'autre personne avoue la violation et accepte la période de suspension envisagée au plus tard vingt jours après avoir reçu ladite notification, ce sportif ou cette autre personne peut bénéficier d'une réduction d'un an de la période de suspension envisagée par le Comité. Si le sportif ou l'autre personne bénéficie de cette réduction, aucune autre réduction de la période de suspension initialement envisagée ne sera autorisée en vertu d'aucun autre article du présent arrêté.
+
+Dans le cas où le sportif ou l'autre personne avoue une violation des règles antidopage après avoir été confronté(e) à la violation des règles antidopage par le Comité Monégasque Antidopage et accepte les conséquences acceptables pour le Comité et pour l'AMA, à leur libre et entière appréciation, le sportif ou l'autre personne peut bénéficier d'une réduction de la période de suspension sur la base d'une évaluation faite par le Comité et l'AMA conformément aux dispositions de l'article 10.8. 2 du Code mondial antidopage. Dans ce cas, la période de suspension peut commencer à compter de la date de prélèvement de l'échantillon ou à la date de la dernière violation des règles antidopage.
+
+Lorsqu'il est fait application de l'alinéa précédent, le sportif ou l'autre personne purgera au moins la moitié de la période de suspension convenue à compter de la date à laquelle le sportif ou l'autre personne a accepté l'imposition d'une sanction ou d'une suspension provisoire qu'il/elle a ensuite respectée.
+
+À raison de la nature amiable de la décision de l'AMA et du Comité de conclure ou non un accord avec le sportif ou l'autre personne, elle n'entre pas dans le champ des compétences de la Chambre Disciplinaire et ne peut pas faire l'objet d'un appel.
+
+À la demande d'un sportif ou d'une autre personne qui souhaite conclure un accord de règlement de l'affaire en vertu du deuxième alinéa du présent article, le Comité Monégasque Antidopage doit permettre au sportif ou à l'autre personne de discuter d'un aveu de la violation des règles antidopage dans le cadre d'une entente sous réserve de tous droits.

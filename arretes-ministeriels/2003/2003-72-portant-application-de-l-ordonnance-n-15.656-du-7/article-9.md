@@ -1,7 +1,9 @@
 # Article 9
 
-L'examen de défauts potentiels d'information sur la localisation et de contrôles de potentiels se fera conformément aux dispositions du Standard international pour les contrôles et les enquêtes figurant à l'appendice Il de la Convention internationale contre le dopage dans le sport de l'UNESCO.
+Sur réception d'un résultat d'analyse anormal ou d'un résultat d'analyse atypique, le Comité Monégasque Antidopage procède dans tous les cas à un examen initial afin de déterminer :
 
-Dès lors que le Comité Monégasque Antidopage est convaincu qu'une violation des règles antidopage au titre de l'article 6.4 de l'ordonnance souveraine n° 15.656 du 7 février 2003 modifiée, a été commise, il en informera rapidement le sportif et lui communiquera les fondements de cet allégation.
+- ( a ) si une autorisation d'usage à des fins thérapeutiques (AUT) a été ou sera accordée conformément au Standard international pour les autorisations d'usage à des fins thérapeutiques applicable. Dans le cas où le sportif dispose d'une AUT, le Comité procède, conformément aux dispositions du Standard international pour la gestion des résultats, à tout examen complémentaire nécessaire pour déterminer s'il a été satisfait aux exigences spécifiques de cette AUT ;
 
-Les autres organisations antidopage en seront également informées conformément à l'article 11 ci-après.
+- ( b ) ou si un écart apparent par rapport au Standard international pour les contrôles et les enquêtes ou au Standard international pour les laboratoires a causé le résultat d'analyse anormal ou le résultat d'analyse atypique ;
+
+- ( c ) s'il est manifeste que le résultat d'analyse anormal ou le résultat d'analyse atypique a été causé par l'ingestion de la substance interdite dont il s'agit par une voie d'administration autorisée. Si tel est le cas, le Comité consulte un expert aux fins de déterminer si le résultat d'analyse anormal ou atypique est compatible avec la voie d'administration apparente.

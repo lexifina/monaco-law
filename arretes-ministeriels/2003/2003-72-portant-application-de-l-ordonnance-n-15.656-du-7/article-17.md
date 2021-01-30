@@ -1,3 +1,3 @@
 # Article 17
 
-Le Président de la Chambre Disciplinaire informe dans les mêmes conditions le Président du groupement sportif auquel appartient l'intéressé et lui demande de désigner le représentant dudit groupement au sein de la Chambre Disciplinaire.
+Dans le cas où la gestion des résultats fait apparaître un manquement aux obligations en matière de localisation, le Comité Monégasque Antidopage procède à l'examen du cas dans les formes et conditions prévues à l'annexe B du standard international pour la gestion des résultats.
