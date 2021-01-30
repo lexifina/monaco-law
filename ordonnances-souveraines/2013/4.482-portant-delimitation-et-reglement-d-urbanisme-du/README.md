@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 4.482 du 13 septembre 2013 portant délimitation et règlement d'urbanisme du secteur des quartiers ordonnancés
 
-Version en vigueur au 1er février 2020.
+Version en vigueur au 30 janvier 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2013/09-13-4.482@2020.02.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2013/09-13-4.482@2021.01.30/
 
 | | |
 | --- | --- |
