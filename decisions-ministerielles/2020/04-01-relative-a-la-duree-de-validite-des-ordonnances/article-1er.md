@@ -1,6 +1,6 @@
 # Article 1er
 
-Eu égard à la situation sanitaire et à titre exceptionnel, lorsque la durée de validité d'une ordonnance prescrivant des soins infirmiers est expirée et afin d'éviter toute interruption de traitement préjudiciable à la santé du patient, l'infirmier peut poursuivre dans les conditions prévues par la prescription initiale, les soins suivants jusqu'au 31 janvier 2021 :
+Eu égard à la situation sanitaire et à titre exceptionnel, lorsque la durée de validité d'une ordonnance prescrivant des soins infirmiers est expirée et afin d'éviter toute interruption de traitement préjudiciable à la santé du patient, l'infirmier peut poursuivre dans les conditions prévues par la prescription initiale, les soins suivants jusqu'au 30 avril 2021 :
 
 1) les soins infirmiers en rapport avec soit :
 
