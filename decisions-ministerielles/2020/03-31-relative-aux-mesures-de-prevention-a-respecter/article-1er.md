@@ -1,6 +1,6 @@
 # Article 1er
 
-Afin de prévenir la propagation du virus SARS-CoV-2 et jusqu'au 31 janvier 2021, il est réitéré que toute personne, y compris dans le cadre de l'exercice de son activité professionnelle, est tenue de respecter les mesures de prévention suivantes :
+Afin de prévenir la propagation du virus SARS-CoV-2 et jusqu'au 30 avril 2021, il est réitéré que toute personne, y compris dans le cadre de l'exercice de son activité professionnelle, est tenue de respecter les mesures de prévention suivantes :
 
 - se laver les mains très régulièrement soit avec de l'eau et du savon pendant au moins vingt secondes soit, à défaut de point d'eau et de savon, avec un produit hydro-alcoolique en frictionnant jusqu'à ce que la peau soit sèche ;
 
