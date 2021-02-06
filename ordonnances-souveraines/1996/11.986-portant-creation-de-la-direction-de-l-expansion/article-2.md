@@ -12,7 +12,11 @@ La Direction de l'Expansion Économique est notamment chargée :
 
 - de l'instruction, de la délivrance et du suivi de dispositifs d'aides financières à l'économie ;
 
-- de la délivrance des titres de propriété industrielle et des inscriptions y relatives sur les registres nationaux.
+- de la délivrance des titres de propriété industrielle et des inscriptions y relatives sur les registres nationaux ;
+
+- de la délivrance des certificats qualifiés de signature et de cachet électroniques en tant que prestataire de services de confiance au sens de la réglementation monégasque en vigueur en la matière ;
+
+- de la perception des droits relatifs à la délivrance d'une signature ou d'un cachet électronique dont le montant est fixé par arrêté ministériel.
 
 Au sein de cette Direction, le Service Monaco Welcome & Business Office est spécifiquement chargé :
 

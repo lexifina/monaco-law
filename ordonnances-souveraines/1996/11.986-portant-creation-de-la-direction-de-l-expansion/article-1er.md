@@ -2,7 +2,7 @@
 
 Il est créé au département des finances et de l'économique une direction de l'expansion économique en remplacement de la direction du commerce, de l'industrie et de la propriété industrielle.
 
-La Direction de l'Expansion Economique est organisée autour d'un service et de deux pôles de compétence fonctionnels comme suit :
+La Direction de l'Expansion Économique est organisée autour d'un service et de deux pôles de compétence fonctionnels comme suit :
 
 - Le service Monaco Welcome & Business Office ou «Front Office».
 
@@ -14,7 +14,9 @@ La Direction de l'Expansion Economique est organisée autour d'un service et de 
 
 * la division des études juridiques,
 
-* la section répertoire du commerce et de l'industrie.
+* la section répertoire du commerce et de l'industrie,
+
+* la section signature et cachet électroniques.
 
 - Le Pôle Propriété Intellectuelle composé de :
 
