@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2020-917 du 24 décembre 2020 portant application de l'Ordonnance Souveraine n° 11.986 du 2 juillet 1996 portant création de la Direction de l'Expansion Économique, modifiée, fixant le montant des droits de délivrance des signature et cachet électroniques
