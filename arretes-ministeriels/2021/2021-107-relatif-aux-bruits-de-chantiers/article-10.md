@@ -1,0 +1,5 @@
+# Article 10
+
+Tout dépassement du seuil est communiqué en temps réel par courriel, immédiatement suivi des explications et des mesures compensatoires y afférentes selon les cas à la Direction de la Prospective, de l'Urbanisme et de la Mobilité (dpum_bruit@gouv.mc, en mentionnant le nom du chantier) ou à la Direction de l'Aménagement Urbain (amenagement@gouv.mc), ainsi qu'en tout état, à la Direction de l'Environnement (environnement@gouv.mc). Les enregistrements sonores illustrant les dépassements de seuils acoustiques sont également communiqués ou rendus accessibles selon les moyens définis dans le plan de prévention et de réduction des bruits, a minima mensuellement.
+
+Des synthèses sur le niveau de bruit du chantier et les éventuels dépassements, accompagnées des explications et des mesures compensatoires y afférentes sont communiquées par courriel hebdomadairement à la Direction de la Prospective, de l'Urbanisme et de la Mobilité ou, selon le cas, à la Direction de l'Aménagement Urbain, et à la Direction de l'Environnement.
