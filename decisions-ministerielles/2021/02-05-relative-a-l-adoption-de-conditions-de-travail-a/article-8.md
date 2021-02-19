@@ -1,3 +1,3 @@
 # Article 8
 
-Le Directeur du Travail et le Directeur des Ressources Humaines et de la Formation de la Fonction Publique sont chargés, chacun en ce qui le concerne et conformément aux articles 65 et suivants de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017, susvisée, de l'exécution de la présente décision.
+En application du dernier alinéa de l'article 10 de la loi n° 1.488 du 11 mai 2020, susvisée, tout manquement aux dispositions de la présente décision est passible de la sanction prévue au chiffre 4 de l'article 29 du Code pénal.
