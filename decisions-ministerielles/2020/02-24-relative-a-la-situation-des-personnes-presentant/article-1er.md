@@ -8,6 +8,6 @@ Est considérée comme présentant un risque d'infection potentielle par le viru
 
 Toutefois, les dispositions de l'alinéa précédent ne s'appliquent pas :
 
-- aux personnes en provenance du territoire métropolitain français ;
+- aux personnes en provenance des départements français des Alpes-Maritimes et du Var et venant sur le territoire national pour une durée n'excédant pas 24 heures ;
 
 - aux travailleurs, élèves et étudiants transfrontaliers.

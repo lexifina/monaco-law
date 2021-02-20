@@ -1,10 +1,10 @@
 # Article 3
 
-La décision mentionnée à l'article 2 n'est pas prise lorsque la personne arrivant sur le territoire national mentionnée au troisième ou quatrième alinéa de l'article premier produit le résultat négatif d'un test virologique de type RT-PCR ou, à condition d'être asymptomatique, le résultat négatif d'un test rapide d'orientation diagnostique antigénique nasopharyngé, pour la détection du virus SARS-CoV-2, qu'elle a obtenu au plus tard soixante-douze heures avant son arrivée.
+La décision mentionnée à l'article 2 n'est pas prise lorsque la personne arrivant sur le territoire national mentionnée au troisième alinéa de l'article premier produit le résultat négatif d'un test virologique de type RT-PCR pour la détection du virus SARS-CoV-2, qu'elle a obtenu au plus tard soixante-douze heures avant son arrivée.
 
-Sous réserve des dispositions de l'alinéa premier, la décision mentionnée à l'article 2 n'est pas prise lorsque la personne mentionnée au troisième ou quatrième alinéa de l'article premier consent à s'isoler dans le lieu qu'elle a choisi pour résidence soit :
+Sous réserve des dispositions de l'alinéa premier, la décision mentionnée à l'article 2 n'est pas prise lorsque la personne mentionnée au deuxième ou troisième alinéa de l'article premier consent à s'isoler dans le lieu qu'elle a choisi pour résidence soit :
 
-- jusqu'à ce qu'un test établisse qu'elle n'est pas ou plus porteuse du virus ; ce test est soit un test virologique de type RT-PCR soit, à condition d'être asymptomatique, un test rapide d'orientation diagnostique antigénique nasopharyngé ;
+- jusqu'à ce qu'un test virologique de type RT-PCR établisse qu'elle n'est pas ou plus porteuse du virus ;
 
 - pendant dix jours lorsqu'elle ne consent pas à la réalisation de ce test.
 
