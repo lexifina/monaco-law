@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 16.584 du 22 décembre 2004 relative à la délivrance des passeports
 
-Version en vigueur au 28 janvier 2017.
+Version en vigueur au 20 février 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2004/12-22-16.584@2017.01.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2004/12-22-16.584@2021.02.20/
 
 | | |
 | --- | --- |
