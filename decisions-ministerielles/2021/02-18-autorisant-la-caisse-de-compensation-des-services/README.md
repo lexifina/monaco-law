@@ -1,0 +1,12 @@
+# Décision ministérielle du 18 février 2021 autorisant la Caisse de Compensation des Services Sociaux, la Caisse d'Assurance Maladie Maternité des Travailleurs Indépendants (CAMTI) et le Service des Prestations Médicales de l'État (SPME) à communiquer à l'Azienda Sociosanitaria Liguria 1 un état des salariés, travailleurs indépendants, agents publics, affiliés à un organisme de sécurité sociale monégasque, de nationalité italienne et résidant en Italie, afin de permettre à l'ASL1 d'organiser leur vaccination en Italie, en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
+
+Version en vigueur au 20 février 2021.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2021/02-18-L021070@2021.02.20/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Décision ministérielle |
+| Date du texte | 18 février 2021 |
+| Publication | Journal de Monaco du 19 février 2021 |
