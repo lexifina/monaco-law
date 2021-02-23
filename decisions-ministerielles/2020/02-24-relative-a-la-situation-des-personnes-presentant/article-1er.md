@@ -10,4 +10,10 @@ Toutefois, les dispositions de l'alinéa précédent ne s'appliquent pas :
 
 - aux personnes en provenance des départements français des Alpes-Maritimes et du Var et venant sur le territoire national pour une durée n'excédant pas 24 heures ;
 
-- aux travailleurs, élèves et étudiants transfrontaliers.
+- aux travailleurs, élèves et étudiants transfrontaliers ;
+
+- aux professionnels d'entreprises établies à l'étranger venant sur le territoire national pour y effectuer une prestation dont l'urgence ou la fréquence est incompatible avec la réalisation du test mentionné à l'article 3, à condition qu'ils ne soient pas hébergés à Monaco ;
+
+- aux professionnels du transport routier venant sur le territoire national dans l'exercice de leur activité pour une durée n'excédant pas 24 heures ;
+
+- aux enfants âgés de moins de onze ans.

@@ -6,7 +6,7 @@ Sous réserve des dispositions de l'alinéa premier, la décision mentionnée à
 
 - jusqu'à ce qu'un test virologique de type RT-PCR établisse qu'elle n'est pas ou plus porteuse du virus ;
 
-- pendant dix jours lorsqu'elle ne consent pas à la réalisation de ce test.
+- pendant dix jours ou, lorsqu'elle est symptomatique, pendant la durée fixée au chiffre 1 de l'article 4, lorsqu'elle ne consent pas à la réalisation de ce test.
 
 L'alinéa précédent ne s'applique pas à la personne ayant choisi pour lieu de séjour temporaire un des établissements hôteliers mentionnés dans l'arrêté ministériel n° 2010-409 du 4 août 2010 fixant le classement des établissements hôteliers, modifié.
 
