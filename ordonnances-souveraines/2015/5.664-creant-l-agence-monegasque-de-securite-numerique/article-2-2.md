@@ -14,4 +14,4 @@ Aux fins d'assurer l'accomplissement des missions définies à l'article 2-1, l'
 
 - f) exiger que les prestataires de services de confiance remédient à tout manquement aux obligations fixées par arrêté ministériel.
 
-Les conditions, limites et modalités dans lesquelles s'exercent les missions susmentionnées sont fixées par arrêté ministériel.
+- Les conditions, limites et modalités dans lesquelles s'exercent les missions susmentionnées sont fixées par arrêté ministériel.
