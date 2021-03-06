@@ -26,13 +26,13 @@ I. - Les mentions obligatoires qui doivent figurer sur les factures en applicati
 
 - 12° en cas d'exonération, la référence à la disposition pertinente du Code des taxes ou à la disposition correspondante de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ou à toute autre mention indiquant que l'opération bénéficie d'une mesure d'exonération ;
 
-- 13° lorsque l'acquéreur ou le preneur est redevable de la taxe, la mention : «Autoliquidation» ;
+- 13° lorsque l'acquéreur ou le preneur est redevable de la taxe, la mention : « Autoliquidation » ;
 
-- 14° lorsque l'acquéreur ou le preneur émet la facture au nom et pour le compte de l'assujetti, la mention : «Autofacturation» ;
+- 14° lorsque l'acquéreur ou le preneur émet la facture au nom et pour le compte de l'assujetti, la mention : « Autofacturation » ;
 
-- 15° lorsque l'assujetti applique le régime particulier des agences de voyage, la mention : «Régime particulier - Agences de voyages» ;
+- 15° lorsque l'assujetti applique le régime particulier des agences de voyage, la mention : « Régime particulier - Agences de voyages » ;
 
-- 16° en cas d'application du régime prévu par l'article 93 A du code précité, la mention : «Régime particulier - Biens d'occasion», «Régime particulier - Objets d'art» ou «Régime particulier - Objets de collection et d'antiquité» selon l'opération considérée ;
+- 16° en cas d'application du régime prévu par l'article 93 A du code précité, la mention : « Régime particulier - Biens d'occasion », « Régime particulier - Objets d'art » ou « Régime particulier - Objets de collection et d'antiquité » selon l'opération considérée ;
 
 - 17° les caractéristiques du moyen de transport neuf telles qu'elles sont définies au III de l'article 94 du Code des taxes pour les livraisons mentionnées au II de ce même article ;
 

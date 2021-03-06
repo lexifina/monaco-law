@@ -24,7 +24,7 @@
 
 - f) pour les achats, par le prix d'achat majoré, le cas échéant, des impôts à la charge de la marchandise ;
 
-- g) pour les opérations d'entremise effectuées par les agences de voyages et les organisateurs de circuits touristiques, par la différence entre le prix total payé par le client et le prix effectif facturé à l'agence ou à l'organisateur par les entrepreneurs de transports, les hôteliers, les restaurateurs, les entrepreneurs de spectacle et les autres assujettis qui exécutent matériellement les services utilisés par le client ;
+- g) pour la prestation de services unique mentionnée au III de l'article 5 ter, par la différence entre le prix total payé par le client et le prix effectif facturé à l'agence ou à l'organisateur par les entrepreneurs de transports, les hôteliers, les restaurateurs, les entrepreneurs de spectacle et les autres assujettis qui exécutent matériellement les services utilisés par le client ;
 
 - h) pour les travaux immobiliers, par le montant des marchés, mémoires ou factures ;
 

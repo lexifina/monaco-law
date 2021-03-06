@@ -26,6 +26,8 @@ III.- En cas de non-respect des obligations prévues au II du présent article, 
 
 - 2° 300.000 € en cas de manquement à l'une des obligations prévues aux 2° à 4° du même II.
 
+III bis - Le fait pour une personne de solliciter ou d'obtenir le visa du bordereau mentionné au premier alinéa du I du présent article lorsque les conditions d'application de l'exonération prévue au deuxième alinéa du 2° du I de l'article 29 du présent Code ne sont pas réunies est sanctionné dans les conditions prévues au chapitre VI du titre XII du Code des douanes de la République française. Ces manquements sont constatés selon les mêmes procédures et les réclamations sont présentées, instruites et jugées selon les règles applicables aux manquements prévus au même chapitre VI.
+
 IV.- L'administration des douanes définit :
 
 - 1° Les modalités de délivrance et de retrait de l'agrément mentionné au I ;

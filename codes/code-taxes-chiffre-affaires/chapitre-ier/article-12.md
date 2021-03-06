@@ -42,12 +42,10 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - 6° Lorsqu'elles sont matériellement exécutées à Monaco ou en France au profit d'une personne non assujettie :
 
-- a) Les activités accessoires au transport, telles que le chargement, le déchargement, la manutention et les activités similaires ;
+  - a) Les activités accessoires au transport, telles que le chargement, le déchargement, la manutention et les activités similaires ;
 
-- b) Les expertises ou les travaux portant sur des biens meubles corporels ;
+  - b) Les expertises ou les travaux portant sur des biens meubles corporels ;
 
 - 7° Les prestations de services fournies à une personne non assujettie par un intermédiaire agissant au nom et pour le compte d'autrui lorsque le lieu de l'opération principale est situé à Monaco ou en France ;
 
-- 8° La prestation de services unique d'une agence de voyages lorsqu'elle a à Monaco le siège de son activité économique ou un établissement stable à partir duquel elle a fourni cette prestation.
-
-L'agence de voyages réalise une prestation de services unique lorsqu'elle agit, en son propre nom, à l'égard du client et utilise, pour la réalisation du voyage, des livraisons de biens et des prestations de services d'autres assujettis.
+- 8° La prestation de services unique mentionnée au III de l'article 5 ter réalisée par une personne qui a à Monaco le siège de son activité économique ou un établissement stable à partir duquel elle a fourni cette prestation.

@@ -10,6 +10,6 @@ II. - Ne sont pas à comprendre dans la base d'imposition :
 
 - 1° Les escomptes de caisse, remises, rabais, ristournes et autres réductions de prix consentis directement aux clients ;
 
-- 2° Les sommes remboursées aux intermédiaires, autres que les agences de voyages et organisateurs de circuits touristiques, qui effectuent des dépenses au nom et pour le compte de leurs commettants dans la mesure où ces intermédiaires rendent compte à leurs commettants, portent ces dépenses dans leur comptabilité dans des comptes de passage et justifient auprès de la direction des services fiscaux de la nature et du montant exact de ces débours.
+- 2° Les sommes remboursées aux intermédiaires qui effectuent des dépenses au nom et pour le compte de leurs commettants dans la mesure où ces intermédiaires rendent compte à leurs commettants, portent ces dépenses dans leur comptabilité dans des comptes de passage et justifient auprès de la direction des Services fiscaux de la nature et du montant exact de ces débours.
 
 III. - Les sommes perçues lors des livraisons d'emballages consignés peuvent être exclues de la base d'imposition à la condition que la taxe sur la valeur ajoutée afférente à ces sommes ne soit pas facturée. Elles doivent être incorporées dans la base d'imposition lorsque les emballages n'ont pas été rendus au terme des délais en usage dans la profession.

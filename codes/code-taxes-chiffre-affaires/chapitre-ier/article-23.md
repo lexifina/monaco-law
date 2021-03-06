@@ -26,7 +26,7 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
   - 2° Les frais d'hospitalisation et de traitement dans les établissements privés autorisés à dispenser des soins ;
 
-  - 3° Les livraisons, commissions, courtages et façons portant sur les organes, le sang et le lait humains ;
+  - 3° Les livraisons, services d'intermédiation et prestations de travail à façon portant sur les organes, le sang et le lait humains ;
 
   - 4° Le transport de malades ou de blessés à l'aide de véhicules spécialement aménagés à cet effet par des organismes ou personnes dûment agréés ;
 

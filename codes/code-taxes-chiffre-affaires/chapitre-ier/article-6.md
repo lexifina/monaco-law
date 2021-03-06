@@ -18,7 +18,9 @@ III. - Le lieu de livraison du gaz naturel, de l'électricité, de la chaleur ou
 
 - a) lorsqu'ils sont consommés à Monaco ;
 
-- b) dans les autres cas, lorsque l'acquéreur a en Principauté le siège de son activité ou un établissement stable pour lequel les biens sont livrés ou à défaut, son domicile ou sa résidence habituelle.
+- b) dans les autres cas, lorsque l'acquéreur a en Principauté le siège de son activité ou un établissement stable pour lequel les biens sont livrés ou à défaut, son domicile ou sa résidence habituelle ;
+
+- c) Les dispositions du présent IV ne sont pas applicables aux livraisons de biens d'occasion, d'œuvres d'art, d'objets de collection ou d'antiquité effectuées par un assujetti revendeur qui applique les dispositions de l'article 93 A ainsi qu'aux livraisons de moyens de transport d'occasion effectuées par un assujetti revendeur qui applique les dispositions de l'article 93 G.
 
 IV. - Le lieu de livraison des biens importés de territoires tiers ou de pays tiers dans le cadre de ventes à distance est réputé se situer à Monaco lorsque le bien se trouve à Monaco :
 
