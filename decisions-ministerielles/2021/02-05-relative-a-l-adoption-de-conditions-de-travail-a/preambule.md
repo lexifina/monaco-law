@@ -16,7 +16,7 @@ Vu l'arrêté ministériel n° 2016-425 du 1er juillet 2016 portant application 
 
 Vu la Décision Ministérielle du 14 mai 2020 relative à l'adoption de conditions de travail à distance pour les salariés, fonctionnaires, agents de l'État ou de la Commune de la Principauté au regard des risques d'infection potentielle par le virus SARS-CoV-2, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ;
 
-Vu la Décision Ministérielle du 11 janvier 2021 fixant des mesures exceptionnelles jusqu'au 27 janvier 2021, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
+Vu la Décision Ministérielle du 11 janvier 2021 fixant des mesures exceptionnelles jusqu'au 27 janvier 2021, prise en application de l'article 65 de l' Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
 
 Considérant le caractère pathogène et contagieux du virus SARS-CoV-2 qui a pris naissance dans la ville de Wuhan en Chine et sa propagation rapide ;
 
@@ -26,6 +26,4 @@ Considérant les recommandations temporaires au titre du Règlement Sanitaire In
 
 Considérant la dégradation sanitaire par la propagation rapide de nouvelles formes du virus extrêmement contagieuses et la nécessité, dans l'intérêt de la santé publique, de restreindre la circulation et de mettre en place des modalités de travail adaptées de manière à prévenir et contenir les infections potentielles par le virus SARS-CoV-2 et de permettre aux employeurs publics et privés de la Principauté de pouvoir poursuivre leur activité ;
 
-Considérant la nécessité de déroger aux conditions de la loi sur le télétravail ;
-
-Considérant la nécessité de préciser les conditions d'applications de la loi n° 1.488 du 11 mai 2020, susmentionnée ;
+Considérant la nécessité de déroger aux conditions de la loi sur le télétravail ; Considérant la nécessité de préciser les conditions d'applications de la loi n° 1.488 du 11 mai 2020, susmentionnée ;
