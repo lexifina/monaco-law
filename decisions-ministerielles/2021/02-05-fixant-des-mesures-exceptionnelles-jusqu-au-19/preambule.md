@@ -10,7 +10,7 @@ Vu la Décision Ministérielle du 24 février 2020 relative à la situation des 
 
 Vu la Décision Ministérielle du 28 avril 2020 portant instauration de mesures exceptionnelles dans le cadre de la reprise progressive des activités en vue de lutter contre l'épidémie de COVID-19, modifiée ;
 
-Vu la Décision Ministérielle du 11 janvier 2021 fixant des mesures exceptionnelles jusqu'au 27 janvier 2021, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
+Vu la Décision Ministérielle du 11 janvier 2021 fixant des mesures exceptionnelles jusqu'au 27 janvier 2021, prise en application de l'article 65 de l' Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
 
 Considérant le caractère pathogène et contagieux du virus SARS-CoV-2 et sa propagation rapide ;
 
