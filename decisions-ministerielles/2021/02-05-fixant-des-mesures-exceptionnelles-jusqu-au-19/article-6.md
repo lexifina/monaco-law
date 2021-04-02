@@ -4,8 +4,8 @@ Par dérogation aux dispositions de la Décision Ministérielle du 28 avril 2020
 
 Les activités des associations et fédérations de sports amateurs sont suspendues, à l'exception de celles :
 
-- - des sportifs de haut niveau ;
+- des sportifs de haut niveau ;
 
-- - pratiquées hors infrastructures couvertes, dans le respect d'un espace sans contact de deux mètres entre deux personnes.
+- pratiquées hors infrastructures couvertes, dans le respect d'un espace sans contact de deux mètres entre deux personnes.
 
 Les activités sportives professionnelles, et notamment les entraînements et matchs, ont lieu à huis clos.
