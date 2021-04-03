@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-249 du 31 mars 2021 portant application de l'article 54 de la loi n° 1.383 du 2 août 2011 pour une Principauté numérique, modifiée, relatif au bulletin de paye électronique des fonctionnaires et agents de l'État
