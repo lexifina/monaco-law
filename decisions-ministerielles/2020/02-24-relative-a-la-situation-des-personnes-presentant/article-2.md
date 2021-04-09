@@ -10,7 +10,7 @@ La décision de mise en quarantaine de la personne mentionnée à l'article prem
 
 - le lieu de la mise en quarantaine ;
 
-- les droits de la personne concernée mentionnées aux articles 3 et 32 du Règlement Sanitaire International (2005), susvisé ;
+- les droits de la personne concernée mentionnés aux articles 3 et 32 du Règlement Sanitaire International (2005), susvisé ;
 
 - les conditions de mise en place d'un suivi médical pendant le placement.
 
