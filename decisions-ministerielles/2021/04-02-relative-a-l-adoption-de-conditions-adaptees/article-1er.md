@@ -1,0 +1,3 @@
+# Article 1er
+
+Les assurés sociaux de la Principauté auxquels s'applique la présente Décision sont les salariés affiliés à la Caisse de Compensation des Services Sociaux, parents d'un enfant âgé de moins de 16 ans (ou 18 ans en cas de handicap), dont l'établissement d'accueil collectif d'un enfant de moins de 6 ans (crèche, halte-garderie, crèche familiale, jardin d'enfants, crèche parentale, micro-crèche), l'établissement préscolaire ou l'établissement scolaire est temporairement fermé, hors période de vacances scolaires fixée par les Autorités compétentes, afin de limiter la propagation du virus SARS-CoV-2.
