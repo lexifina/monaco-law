@@ -6,4 +6,4 @@ Les archives, au sens de la présente section, sont constituées de documents ad
 
 - 2. les archives intermédiaires, savoir les documents administratifs qui ne sont plus d'usage courant mais dont l'utilité justifie qu'ils demeurent à proximité du service détenteur ;
 
-- 3. les archives définitives, savoir les documents administratifs à conserver indéfiniment, après tri et élimination, en raison de leur valeur archivistique, en vue de constituer des fonds de référence à des fins historiques, statistiques ou scientifiques.
+- 3. les archives définitives, savoir les documents administratifs à conserver indéfiniment, après sélection et élimination, dans l'intérêt public, en particulier à des fins de recherche scientifique, historique, patrimoniale, statistique.
