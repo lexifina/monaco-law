@@ -34,7 +34,7 @@ Lundi 5 avril 2021
 
 - Grand Prix Historique et Vacances de Printemps ;
 
-Du jeudi 22 avril 2021 après la classe au lundi 10 mai 2021 au matin ;
+Du vendredi 9 avril 2021 après la classe au lundi 26 avril 2021 au matin.
 
 - Grand Prix et Lundi de Pentecôte ;
 
