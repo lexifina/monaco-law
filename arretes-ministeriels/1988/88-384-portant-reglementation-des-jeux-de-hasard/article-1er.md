@@ -30,9 +30,11 @@ Au jeux de Baccara (Banque ouverte et Chemin de fer), le croupier remonte le jeu
 
 Au jeu de punto banco, l'utilisation des jeux de 52 cartes - « prêts à l'emploi » - est autorisée uniquement sur les tables exploitées dans les salons dits « super privés » ou aménagés comme tels. Au Dépôt Central des Cartes, avant leur usage, les cartes sont vérifiées dans l'ordre dit « du fabricant », brassées et mélangées par les personnels de ce service, sous surveillance vidéo. À leur arrivée aux tables de jeu, un deuxième brassage - figure en dessous- et un deuxième mélange sont opérés par les employés de jeux. L'utilisation d'un mélangeur de cartes ou d'un mélangeur distributeur de cartes, d'un modèle agréé, est autorisée.
 
-Aux autres jeux, une seconde opération est effectuée après la salade. Le croupier remonte le jeu en mélangeant des petits paquets de cartes qu'il prélève du tas de la salade
+Aux autres jeux, une seconde opération est effectuée après la salade. Le croupier remonte le jeu en mélangeant des petits paquets de cartes qu'il prélève du tas de la salade.
 
-1.3. - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
+L'utilisation de jeux de 52 cartes « prêts à l'emploi » (cartes pré-mélangées) est autorisée. Leur préparation est assurée au Dépôt Central des Cartes, sous couverture vidéo, où ils sont vérifiés dans l'ordre dit « du fabricant » par les personnels de ce service avant qu'ils ne soient pré-mélangés à la main ou à l'aide d'un mélangeur. À leur arrivée aux tables de jeux, un deuxième brassage -figure en dessous- et un deuxième mélange sont opérés par les employés de jeux. L'utilisation d'un mélangeur de cartes ou d'un mélangeur distributeur de cartes, d'un modèle agréé, est autorisée.
+
+1.3 - En cours de séance, à la fin de chaque taille, les cartes sont à nouveau mélangées selon les modalités en usage pour chaque jeu.
 
 Aux jeux de Black-jack et de Punto-Banco, lorsque la partie s'interrompt avant la fin de la taille, un nouveau mélange est effectué pour la reprise de celle-ci.
 
@@ -40,7 +42,7 @@ Aux tables réservés à un seul joueur, la Direction des jeux peut, dans certai
 
 Chaque fois qu'une carte est détériorée, le croupier la montre ostensiblement (recto et verso) et demande son remplacement par échange, auquel il est procédé immédiatement par un inspecteur au moyen d'une carte prélevée sur un sixain prévu à cet effet.
 
-1.4. - Lorsque la partie est terminée, les employés, sous la surveillance de l'inspecteur de service, rangent les cartes dans l'un des « dépôts de cartes » visés à l'article 1.1. ci-dessus. Il en va de même pour les sabots.
+1.4 - Lorsque la partie est terminée, les employés, sous la surveillance de l'inspecteur de service, rangent les cartes dans l'un des « dépôts de cartes » visés à l'article 1.1. ci-dessus. Il en va de même pour les sabots.
 
 Dès que la séance est terminée, et avant tout nouvel usage, les jeux sont contrôlés par les cartiers qui les remettent dans l'ordre indiqué à l'article 1.2. Les jeux sont examinés pour déceler d'éventuelles marques. Toute disparition de carte parmi les jeux contrôlés, constatée à quelque moment que ce soit, doit être immédiatement signalée, avec toutes indications utiles sur les conditions dans lesquelles elle est intervenue, à l'inspecteur de service et au directeur des jeux, qui en informe le service de contrôle des jeux ; il en est de même lorsqu'une ou plusieurs cartes sont trouvées en trop ou lorsque sont découvertes des cartes marquées ou paraissant étrangères au jeu d'origine.
 
