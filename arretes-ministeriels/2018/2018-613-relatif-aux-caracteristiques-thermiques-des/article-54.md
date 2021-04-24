@@ -18,8 +18,8 @@ Planchers bas donnant sur l'extérieur ou sur un parking collectif | 2,1 | La r�
 
 Planchers bas donnant sur un vide sanitaire ou sur un volume non chauffé | 2,1 | La résistance thermique minimale peut être réduite dans le cas d'installation ou de remplacement de plancher chauffant à eau chaude ou plancher chauffant rafraîchissant selon la valeur indiquée à l'article 68.
 
-2. Les dispositions visées au § 1. pourront être adaptées dans les cas particuliers définis au tableau figurant également au § 1.
+2. Les dispositions visées au § 1\. pourront être adaptées dans les cas particuliers définis au tableau figurant également au § 1.
 
-3. Sont exclues des dispositions visées au § 1. les toitures prévues pour la circulation des véhicules.
+3. Sont exclues des dispositions visées au § 1\. les toitures prévues pour la circulation des véhicules.
 
 4. L'Annexe I définit les modalités de calcul des coefficients R des parois et fournit des valeurs par défaut de ces coefficients pour les parois existantes.

@@ -1,6 +1,6 @@
 # Article 22
 
-1. Pour tout nouveau bâtiment visé à l'article 2 § 1. a) ou extension de bâtiment existant visée à l'article 2 § 2. a), les baies sont équipées de protections solaires, de façon à ce que le facteur solaire des baies soit inférieur ou égal au facteur solaire défini dans le tableau ci-après :
+1. Pour tout nouveau bâtiment visé à l'article 2 § 1\. a) ou extension de bâtiment existant visée à l'article 2 § 2\. a), les baies sont équipées de protections solaires, de façon à ce que le facteur solaire des baies soit inférieur ou égal au facteur solaire défini dans le tableau ci-après :
 
 1- Baies exposées hors locaux à occupation passagère
 

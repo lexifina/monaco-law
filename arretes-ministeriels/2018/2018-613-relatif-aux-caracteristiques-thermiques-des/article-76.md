@@ -1,6 +1,6 @@
 # Article 76
 
-Pour tout nouveau bâtiment visé à l'article 2 § 1. b), toute extension de bâtiment existant visée à l'article 2 § 2. b) ou toute partie modifiée de bâtiment existant visée à l'article 2 § 3., les pertes exprimées en kWh par 24 heures au sens de la norme NF - EN 60 379 des chauffe-eau électriques à accumulation installés ou remplacés doivent être inférieures ou égales aux valeurs suivantes :
+Pour tout nouveau bâtiment visé à l'article 2 § 1\. b), toute extension de bâtiment existant visée à l'article 2 § 2\. b) ou toute partie modifiée de bâtiment existant visée à l'article 2 § 3., les pertes exprimées en kWh par 24 heures au sens de la norme NF - EN 60 379 des chauffe-eau électriques à accumulation installés ou remplacés doivent être inférieures ou égales aux valeurs suivantes :
 
 Matériel | Pertes maximales autorisées, en kWh par 24h
 

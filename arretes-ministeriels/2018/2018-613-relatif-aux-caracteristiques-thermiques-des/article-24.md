@@ -8,28 +8,28 @@
 
 4. Cette information est délivrée dans le volume habitable, par type d'énergie et a minima selon les postes de consommations suivants :
 
-a) chauffage ;
+- a) chauffage ;
 
-b) refroidissement ;
+- b) refroidissement ;
 
-c) production d'eau chaude sanitaire ;
+- c) production d'eau chaude sanitaire ;
 
-d) réseau prises électriques ;
+- d) réseau prises électriques ;
 
-e) autres.
+- e) autres.
 
 5. Les bâtiments ou parties de bâtiment à usage d'habitation visés au § 1. sont équipés de systèmes permettant de mesurer la consommation d'énergie :
 
-a) pour le chauffage collectif : par production ;
+- a) pour le chauffage collectif : par production ;
 
-b) pour le refroidissement collectif : par production ;
+- b) pour le refroidissement collectif : par production ;
 
-c) pour la production d'eau chaude sanitaire collective : par production ;
+- c) pour la production d'eau chaude sanitaire collective : par production ;
 
-d) pour l'éclairage collectif : par tableau électrique ;
+- d) pour l'éclairage collectif : par tableau électrique ;
 
-e) pour les centrales de ventilation : par centrale ;
+- e) pour les centrales de ventilation : par centrale ;
 
-f) par départ direct de plus de 80 ampères.
+- f) par départ direct de plus de 80 ampères.
 
 6. Un tableau de bord de suivi des consommations doit être mis en place.

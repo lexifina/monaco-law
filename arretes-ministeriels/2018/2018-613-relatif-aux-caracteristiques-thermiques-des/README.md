@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2018-613 du 26 juin 2018 relatif aux caractéristiques thermiques des nouveaux bâtiments, des réhabilitations de bâtiments existants et des extensions
 
-Version en vigueur au 19 décembre 2020.
+Version en vigueur au 24 avril 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/06-26-2018-613@2020.12.19/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/06-26-2018-613@2021.04.24/
 
 | | |
 | --- | --- |
