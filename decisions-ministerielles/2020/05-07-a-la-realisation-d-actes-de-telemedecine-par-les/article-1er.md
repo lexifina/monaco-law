@@ -1,6 +1,6 @@
 # Article 1er
 
-Eu égard à la situation sanitaire et jusqu'au 30 avril 2021, les médecins du travail de l'Office de la médecine du travail peuvent mettre en œuvre une consultation à distance par l'intermédiaire des technologies de l'information et de la communication pour réaliser le suivi individuel de l'état de santé de tout salarié, fonctionnaire, agent de l'État ou de la Commune, sous réserve de respecter les conditions suivantes :
+Eu égard à la situation sanitaire et jusqu'au 31 juillet 2021, les médecins du travail de l'Office de la médecine du travail peuvent mettre en œuvre une consultation à distance par l'intermédiaire des technologies de l'information et de la communication pour réaliser le suivi individuel de l'état de santé de tout salarié, fonctionnaire, agent de l'État ou de la Commune, sous réserve de respecter les conditions suivantes :
 
 1) le salarié, le fonctionnaire, l'agent de l'État ou de la Commune accepte la téléconsultation ;
 
