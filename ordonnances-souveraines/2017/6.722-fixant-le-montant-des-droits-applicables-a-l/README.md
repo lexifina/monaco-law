@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 6.722 du 26 décembre 2017 fixant le montant des droits applicables à l'occasion de l'accomplissement des formalités administratives en matière de propriété industrielle
 
-Version en vigueur au 1er avril 2020.
+Version en vigueur au 1er mai 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/12-26-6.722@2020.04.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/12-26-6.722@2021.05.01/
 
 | | |
 | --- | --- |
