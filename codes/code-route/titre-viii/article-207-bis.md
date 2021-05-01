@@ -8,7 +8,7 @@ Lorsqu'il est constaté la nécessité de faire cesser sans délai l'une des inf
 
 Conformément à l'alinéa précédent, l'immobilisation peut être prescrite afin de faire cesser les infractions suivantes :
 
-- 1 - Lorsque le conducteur interpellé est en état d'ivresse ou sous l'emprise d'un état alcoolique ;
+- 1 - Lorsque le conducteur interpellé est en état d'ivresse, sous l'empire d'un état alcoolique, de substances ou de plantes classées comme stupéfiants ;
 
 - 2 (2 abrogé) ;
 

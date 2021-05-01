@@ -14,7 +14,7 @@ A. Véhicules en provenance de Monaco :
 
 a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
 
-- le certificat de conformité européen complet délivré par le constructeur ou le certificat de conformité délivré par le constructeur en France dit Cerfa,
+- le certificat de conformité européen complet délivré par le constructeur,
 
 - si le véhicule est transformé, un des documents suivants correspondant à la situation :
 
@@ -22,7 +22,9 @@ a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
 
 * le certificat de carrossage (annexe VII) délivré par un carrossier agréé par le constructeur,
 
-* le procès-verbal de contrôle de conformité initial d'un véhicule (annexe III) délivré par un carrossier agréé par le constructeur, * le procès-verbal de réception individuelle délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL).
+* le procès-verbal de contrôle de conformité initial d'un véhicule (annexe III) délivré par un carrossier agréé par le constructeur,
+
+* le procès-verbal de réception individuelle délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL).
 
 b) Véhicules déjà immatriculés à Monaco, dits véhicules d'occasion :
 
@@ -44,7 +46,7 @@ B. Véhicules en provenance de France :
 
 a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
 
-- le certificat de conformité européen complet délivré par le constructeur ou le certificat de conformité délivré par le constructeur en France dit Cerfa,
+- le certificat de conformité européen complet délivré par le constructeur,
 
 - si le véhicule est transformé, un des documents suivants correspondant à la situation :
 
@@ -58,7 +60,7 @@ a) Véhicules immatriculés pour la première fois, dits véhicules neufs :
 
 b) Véhicules déjà immatriculés, dits véhicules d'occasion :
 
-- l'ancienne carte grise du véhicule sur laquelle le titulaire aura porté, d'une manière très lisible et inaltérable, la mention « vendu le (date de la transaction) »
+- l'ancienne carte grise du véhicule sur laquelle le titulaire aura porté, d'une manière très lisible et inaltérable, la mention » vendu le (date de la transaction) «
 
 - un certificat de situation délivré par les autorités compétentes en cours de validité,
 

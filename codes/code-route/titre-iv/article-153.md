@@ -10,7 +10,7 @@ Véhicules à deux roues à moteur ne répondant pas à la définition du cyclom
 
 Motocyclettes dont la cylindrée n'excède pas 125 cm3 et dont la puissance n'excède pas 11 kilowatts, à l'exception des cyclomoteurs.
 
-Les véhicules mis en circulation sous le genre « vélomoteurr »sont considérés comme des motocyclettes légères.
+Les véhicules mis en circulation sous le genre » vélomoteurr «sont considérés comme des motocyclettes légères.
 
 - Tricycles à moteurs :
 
