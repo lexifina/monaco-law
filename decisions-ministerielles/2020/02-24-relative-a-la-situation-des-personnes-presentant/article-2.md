@@ -6,7 +6,7 @@ La décision de mise en quarantaine de la personne mentionnée à l'article prem
 
 - la durée initiale du placement, lequel ne peut excéder dix jours ;
 
-- a possibilité de reconduire ou de lever la mesure avant le terme prévu, au vu de l'état de santé de la personne concernée, des cas qui auraient pu se déclarer et de l'évolution des connaissances scientifiques sur le virus SARS-CoV-2 ;
+- la possibilité de reconduire ou de lever la mesure avant le terme prévu, au vu de l'état de santé de la personne concernée, des cas qui auraient pu se déclarer et de l'évolution des connaissances scientifiques sur le virus SARS-CoV-2 ;
 
 - le lieu de la mise en quarantaine ;
 
