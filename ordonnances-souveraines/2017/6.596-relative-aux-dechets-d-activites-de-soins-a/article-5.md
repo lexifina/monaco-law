@@ -1,5 +1,0 @@
-# Article 5
-
-Constituent des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement les matériels et matériaux piquants ou coupants destinés à l'abandon résultant directement, dans le cadre d'un traitement médical ou d'une surveillance mis en œuvre en dehors d'une structure de soin et sans l'intervention d'un professionnel de santé, de l'utilisation d'un médicament, associé ou non à un dispositif médical, d'un dispositif médical ou d'un dispositif médical de diagnostic in vitro présentant les caractéristiques fixées par arrêté ministériel.
-
-Constituent des déchets d'activités de soins à risques infectieux perforants produits par les utilisateurs d'autotests les matériels et matériaux piquants ou coupants destinés à l'abandon résultant de l'utilisation d'un dispositif médical de diagnostic in vitro présentant les caractéristiques fixées par arrêté ministériel et destiné à réaliser des autotests de détection de maladies infectieuses transmissibles figurant sur une liste fixée par arrêté ministériel.

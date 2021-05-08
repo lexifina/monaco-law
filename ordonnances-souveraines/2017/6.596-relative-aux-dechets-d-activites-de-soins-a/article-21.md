@@ -1,3 +1,0 @@
-# Article 21
-
-Toute personne tenue d'éliminer des déchets d'activités de soins à risques infectieux et assimilés, des déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement et par les utilisateurs d'autotests, des pièces anatomiques d'origine humaine ou des médicaments à usage humain non utilisés qui confie sciemment l'élimination desdits déchets, pièces et médicaments à une personne qui n'est pas en mesure d'effectuer les opérations d'élimination dans des conditions conformes aux dispositions réglementaires prises en application de la présente ordonnance est punie d'un emprisonnement de un à six mois et de l'amende prévue au chiffre 2 de l'article 26 du Code pénal.
