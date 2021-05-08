@@ -1,6 +1,6 @@
 # Article 28
 
-Les personnes visées aux chiffres 1° à 6° de l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, adoptent un système de surveillance permettant de détecter les opérations atypiques.
+Les personnes visées aux chiffres 1° à 6° et au chiffre 19°) de l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, adoptent un système de surveillance permettant de détecter les opérations atypiques.
 
 Le système de surveillance doit :
 
@@ -10,9 +10,9 @@ Le système de surveillance doit :
 
 - - permettre une détection rapide de ces opérations ;
 
-- - produire des rapports écrits décrivant les opérations atypiques détectées et les critères prévus au deuxième tiret du présent alinéa sur lesquels il se fonde. Ces rapports sont transmis au responsable de la prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption désigné à l'article 33 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée ;
+- - produire des rapports écrits décrivant les opérations atypiques détectées et les critères prévus au deuxième tiret du présent alinéa sur lesquels il se fonde. Ces rapports sont transmis au responsable de la prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption désigné à l'article 27 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée ;
 
-- - être automatisé, sauf si le professionnel peut démontrer que la nature et le volume des opérations à surveiller ne le requièrent pas ou les moyens alternatifs mis en œuvre ne le requièrent pas, lesdits moyens devant avoir été préalablement agréés par le Service d'Information et de Contrôle sur les Circuits Financiers ;
+- - être automatisé, sauf si le professionnel peut démontrer que la nature et le volume des opérations à surveiller ne le requièrent pas ou les moyens alternatifs mis en œuvre ne le requièrent pas, lesdits moyens devant avoir été préalablement agréés par le Service d'Information et de Contrôle sur les Circuits Financiers. Une demande préalable accompagnée de toutes les pièces et informations justificatives doit être faite auprès dudit Service. La demande de dispense de la mise en place d'un système automatisé doit être motivée et renouvelée chaque année au cours du premier trimestre civil. ;
 
 - - faire l'objet d'une procédure de validation initiale et d'un réexamen périodique de sa pertinence en vue de l'adapter, au besoin, en fonction de l'évolution des activités, de la clientèle ou de l'environnement.
 

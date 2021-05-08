@@ -1,8 +1,8 @@
 # Article 15
 
-Lorsque le client est une entité juridique, un trust, ou une fiducie, il faut entendre par bénéficiaires effectifs :
+Lorsque le client est une entité juridique, un trust, ou une fiducie, il faut entendre par bénéficiaires effectifs toutes les personnes suivantes :
 
-- 1°) le constituant ;
+- 1°) le ou les constituants ;
 
 - 2°) le ou les trustees ou fiduciaires ;
 

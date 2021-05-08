@@ -14,9 +14,7 @@ Le professionnel peut demander, au vu de l'avant-projet de rapport, la correctio
 
 Postérieurement à cette entrevue, et après un examen complémentaire des faits, en ce compris les éventuels éléments complémentaires apportés par le professionnel, le Service rédige un projet de rapport et le lui adresse par lettre recommandée avec demande d'avis de réception postal.
 
-Le professionnel dispose alors d'un délai de quinze jours calendaires, à compter de la réception du projet de rapport, pour faire valoir ses observations écrites.
-
-Celles-ci sont adressées au Service sous format papier ou électronique en utilisant le document type disponible sur le site internet du Service.
+Le professionnel dispose alors d'un délai de quinze jours calendaires, à compter de la réception du projet de rapport, pour faire valoir ses observations écrites. Celles-ci sont adressées au Service sous format papier ou électronique en utilisant le document type disponible sur le site internet du Service.
 
 À titre exceptionnel, sur demande écrite et motivée du professionnel, un délai de quinze jours calendaires supplémentaire peut lui être accordé.
 

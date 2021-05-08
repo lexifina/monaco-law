@@ -6,7 +6,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
 - 2°) « bénéficiaire effectif » : la ou les personnes physiques qui en dernier ressort possèdent ou contrôlent le client et, ou la personne physique pour laquelle une transaction est effectuée. Ceci comprend également les personnes physiques qui exercent en dernier ressort un contrôle effectif sur une personne morale ou une construction juridique ;
 
-- 3°) « opération atypique » : une opération particulièrement susceptible, de par sa nature, de par la qualité des personnes impliquées, de par son caractère complexe ou inhabituel au regard des activités du client, de son profil de risque, ou de par l'absence de justification économique ou d'objet licite apparent, d'être liée au blanchiment de capitaux ou au financement du terrorisme au sens du premier alinéa de l'article 14 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée ;
+- 3°) « Opération atypique » : une transaction visée à l'article 14 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée ;
 
 - 4°) « prestataire de services de paiement » : un établissement de crédit ou un établissement de paiement ;
 
@@ -16,7 +16,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
 - 7°) « bénéficiaire » : la personne qui est le destinataire prévu du transfert de fonds ;
 
-- 8°) « virement et transfert de fonds » : toute transaction exécutée au moins en partie par voie électronique, pour le compte d'un donneur d'ordre, par l'intermédiaire d'un prestataire de services de paiement, dans le but de mettre des fonds à la disposition d'un bénéficiaire, par l'intermédiaire d'un prestataire de services de paiement, que le donneur d'ordre et le bénéficiaire ou le prestataire de services de paiement du donneur d'ordre et celui du bénéficiaire soient ou non la même personne ;
+- 8°) « virement et transfert de fonds » : toute transaction exécutée au moins en partie par voie électronique, pour le compte d'un donneur d'ordre, par l'intermédiaire d'un prestataire de services de paiement, dans le but de mettre des fonds à la disposition d'un bénéficiaire, que le donneur d'ordre et le bénéficiaire ou le prestataire de services de paiement du donneur d'ordre et celui du bénéficiaire soient ou non la même personne ;
 
 - 9°) « virement et transfert de fonds transfrontalier » : un virement pour lequel le prestataire de services de paiement du donneur d'ordre et celui du bénéficiaire sont situés dans des pays différents, ce terme désignant également toute chaîne de virements électroniques qui comporte au moins un élément transfrontalier ;
 
@@ -32,7 +32,11 @@ Pour l'application de la présente ordonnance, on entend par :
 
 - 15°) « arrière plan économique » : la connaissance qu'a le professionnel de son client, de ses activités, de son profil de risque et, lorsque cela est nécessaire, de l'origine des fonds.
 
-- 16°) « monnaie électronique » : toute valeur monétaire qui est stockée sous une forme électronique, y compris magnétique, représentant une créance sur l'émetteur, qui est émise contre la remise de fonds aux fins d'opérations de paiement et qui est acceptée par une personne physique ou morale autre que l'émetteur de monnaie électronique ;
+- 16°) « monnaie électronique » : toute valeur monétaire qui est stockée sous une forme électronique, y compris magnétique, représentant une créance sur l'émetteur, qui est émise contre la remise de fonds aux fins d'opérations de paiement et qui est acceptée par une personne physique ou morale autre que l'émetteur de monnaie électronique à l'exclusion de :
+
+  - - la valeur monétaire stockée sur des instruments qui ne peuvent être utilisés, pour l'acquisition de biens ou de services, que dans les locaux utilisés par l'émetteur ou, dans le cadre d'un accord commercial avec l'émetteur, à l'intérieur d'un réseau limité de prestataires de services ou pour un éventail limité de biens ou de services ;
+
+  - - la valeur monétaire utilisée pour effectuer des opérations de paiement exécutées au moyen d'un appareil de télécommunication ou d'un autre dispositif numérique ou informatique, lorsque les biens ou les services achetés sont livrés et doivent être utilisés au moyen d'un appareil de télécommunication ou d'un dispositif numérique ou informatique, à condition que l'opérateur du système de télécommunication, numérique ou informatique n'agisse pas uniquement en qualité d'intermédiaire entre l'utilisateur de services de paiement et le fournisseur des biens ou services ;
 
 - 17°) « agent sportif » : toute personne qui, à titre occasionnel ou habituel et contre rémunération, met en rapport les parties intéressées à la conclusion d'un contrat, soit relatif à l'exercice rémunéré d'une activité sportive ou d'entraînement, soit qui prévoit la conclusion d'un contrat de travail ayant pour objet l'exercice rémunéré d'une activité sportive ou d'entraînement ;
 
@@ -44,7 +48,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
 - 19°) « membre d'un niveau élevé de la hiérarchie » : un dirigeant ou un employé possédant une connaissance suffisante de l'exposition de son établissement au risque de blanchiment de capitaux et de financement du terrorisme et occupant une position hiérarchique suffisamment élevée pour prendre des décisions ayant une incidence sur cette exposition, sans qu'il s'agisse nécessairement d'un membre du conseil d'administration ;
 
-- 20°) « services de jeux d'argent et de hasard » un service impliquant une mise ayant une valeur monétaire dans des jeux de hasard, y compris les jeux impliquant un élément de compétence, tels que les loteries, les jeux de casino, les jeux de poker et les transactions portant sur des paris, qui sont fournis dans des locaux physiques ;
+- 20°) « services de jeux d'argent et de hasard », un service impliquant une mise ayant une valeur monétaire dans des jeux de hasard, y compris les jeux impliquant un élément de compétence, tels que les loteries, les jeux de casino, les jeux de poker et les transactions portant sur des paris, qui sont fournis dans des locaux physiques ;
 
 - 21°) « entité juridique » : toute construction juridique telle que notamment, les fondations et les fiducies ;
 
@@ -52,7 +56,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
   - 1°) soit un ensemble d'entreprises composé d'une entreprise participante, de ses filiales et des entités dans lesquelles l'entreprise participante ou ses filiales détiennent des participations ainsi que des entités liées du fait que leurs organes d'administration, de direction ou de surveillance sont composés en majorité des mêmes personnes ou qu'elles sont placées sous une direction unique en vertu d'un contrat ou de clauses statutaires ;
 
-  - 2°) soit un ensemble d'entreprises fondé sur l'établissement de relations financières fortes et durables entre ces entreprises, à condition :
+  - 2°)soit un ensemble d'entreprises fondé sur l'établissement de relations financières fortes et durables entre ces entreprises, à condition :
 
     - - qu'une de ces entreprises exerce effectivement, au moyen d'une coordination centralisée, une influence dominante sur les décisions, y compris les décisions financières, des autres entreprises faisant partie du groupe ;
 
@@ -64,7 +68,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
     - b°) « participation » : la détention directe ou indirecte ou par un lien de contrôle, d'au moins 20 % des droits de vote ou du capital d'une entreprise ;
 
-    - c°) « entreprise mère » : une entreprise qui contrôle de manière exclusive une entreprise au sens du chiffre 22°). Cette seconde entreprise est dénommée : « entreprise filiale » ;
+    - c°) « entreprise mère » : une entreprise qui contrôle de manière exclusive une entreprise au sens du chiffre 22°) Cette seconde entreprise est dénommée : « entreprise filiale » ;
 
 - 23°) Le contrôle exclusif par une société résulte :
 
@@ -73,3 +77,9 @@ Pour l'application de la présente ordonnance, on entend par :
   - 2°) soit de la désignation, pendant deux exercices successifs, de la majorité des membres des organes d'administration, de direction ou de surveillance d'une autre entreprise ;
 
   - 3°) soit du droit d'exercer une influence dominante sur une entreprise en vertu d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet.
+
+- 24°) « actif financier virtuel » : un actif financier virtuel au sens de la loi n° 1.383 du 2 août 2011 pour une Principauté numérique ;
+
+- 25°) « prestataire de services de conservation pour le compte de tiers d'actifs numériques ou d'accès à des actifs numériques » : entité fournissant des services de conservation de clés cryptographiques privées pour le compte de ses clients à des fins de détention, de stockage et de transfert d'actifs virtuels ;
+
+- 26°) les personnes visées au chiffre 26°) de la loi n° 1.362 du 3 août 2009, modifiée, susvisée : notamment les commerçants et personnes organisant la vente, la location de biens suivants : antiquités, matériaux précieux, pierres précieuses, métaux précieux, bijoux, horlogerie, maroquinerie, véhicules terrestres, aériens ou maritimes et autres objets de grande valeur.

@@ -1,6 +1,6 @@
 # Article 48
 
-Au sens du I de l'article 45 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée :
+Au sens du I de l'article 45 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée un groupe est défini comme un ensemble de sociétés dont l'une contrôle les autres dans les conditions suivantes:
 
 - 1°) une personne, physique ou morale, est considérée, comme en contrôlant une autre :
 

@@ -1,6 +1,6 @@
 # Article 4
 
-L'identification d'un client est requise en vertu du deuxième alinéa de l'article 4 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, lorsque :
+L'identification d'un client est requise en vertu du deuxième alinéa de l'article 4-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, lorsque :
 
 - - postérieurement à l'identification du client apparaissent des raisons de croire que les données d'identification qu'il a fournies étaient inexactes ou mensongères ;
 

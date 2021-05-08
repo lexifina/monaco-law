@@ -16,6 +16,8 @@ Ce Comité présidé par le Conseiller de Gouvernement-Ministre des Finances et 
 
 - - le Directeur du Budget et du Trésor ou son représentant plus spécialement chargé de recevoir les informations relatives aux gels de fonds aux fins de lutte contre le terrorisme et, ou de mise en œuvre de sanctions économiques ;
 
+- - le Directeur des Services Fiscaux ;
+
 - - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant ;
 
 - - le Chef du Service de Contrôle des Jeux ou son représentant ;

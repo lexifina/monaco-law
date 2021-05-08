@@ -6,16 +6,28 @@ Lorsque le client est une personne morale, il faut entendre par bénéficiaires 
 
 - - les personnes physiques qui exercent effectivement par tout autre moyen, un pouvoir de contrôle sur le capital ou sur les organes de gestion, d'administration ou de direction de la société ou sur l'assemblée générale de ses associés.
 
+Ces dispositions ne sont pas applicables aux sociétés dont les titres sont admis à la négociation sur un marché réglementé et qui sont soumises à des obligations de publicité conformes au droit de l'Union européenne ou soumises à des normes internationales équivalentes garantissant une transparence adéquate des informations relatives à la propriété du capital, ce dont les organismes ou personnes visés aux articles premier et 2 sont en mesure de justifier auprès des autorités de contrôle.
+
+Lorsqu'aucune personne physique n'a pu être identifiée selon les critères prévus au précédent alinéa, et lorsqu'il n'y a pas de soupçon de blanchiment de capitaux, de financement du terrorisme ou de corruption à l'encontre du client mentionné au premier alinéa, le bénéficiaire effectif est la ou les personnes physiques ci-après ou, si la société n'est pas immatriculée à Monaco, leur équivalent en droit étranger qui représente légalement la société :
+
+- a) le ou les gérants des sociétés en nom collectif, des sociétés en commandite simple, des sociétés à responsabilité limitée, des sociétés en commandite par actions et des sociétés civiles ;
+
+- b) l'administrateur délégué ou le directeur général des sociétés anonymes ;
+
+- c) le syndic nommé dans le cadre d'une procédure judiciaire de cessation des paiements, de règlement judiciaire ou de liquidation des biens.
+
+Si les représentants des personnes morales sont des personnes morales, le bénéficiaire effectif est la ou les personnes physiques qui représentent légalement ces personnes morales.
+
 En cas de démembrement de propriété entre un nu-propriétaire et un usufruitier, il convient de considérer comme bénéficiaires effectifs :
 
-- - les personnes physiques ayant la qualité de nu-propriétaires qui, en dernier ressort, possèdent directement ou indirectement au moins 25 % du capital ou des droits de vote de la personne morale ;
+- - les personnes physiques ayant la qualité de nu-propriétaire qui, en dernier ressort, possèdent directement ou indirectement au moins 25% du capital ou des droits de vote de la personne morale ;
 
-- - les personnes physiques ayant la qualité d'usufruitiers qui, en dernier ressort, jouissent de l'usage et contrôlent directement ou indirectement au moins 25 % du capital ou des droits de vote de la personne morale ;
+- - les personnes physiques ayant la qualité d'usufruitiers qui, en dernier ressort, jouissent de l'usage et contrôlent directement ou indirectement au moins 25% du capital ou des droits de vote de la personne morale ;
 
 - - les personnes physiques qui exercent effectivement par tout autre moyen, un pouvoir de contrôle sur le capital ou sur les organes de gestion, d'administration ou de direction de la société ou sur l'assemblée générale de ses associés.
 
-Lorsque le client ou le détenteur d'une participation de contrôle est une société cotée en bourse sur un marché réglementé ou pouvant faire publiquement appel à l'épargne, située dans un État qui respecte et applique les recommandations internationalement reconnues en matière de lutte contre le blanchiment de capitaux et le financement du terrorisme et soumise à des obligations d'information publique, il n'est pas requis d'identifier les actionnaires de cette société ni de vérifier leur identité.
-
-Cette exception ne s'applique pas en cas de soupçons de blanchiment de capitaux, de financement du terrorisme ou de corruption.
-
 Les professionnels prennent les mesures raisonnables pour vérifier la liste des bénéficiaires effectifs visés au premier tiret du premier alinéa au moyen de tout document probant.
+
+Les professionnels conservent les informations relatives aux mesures qui ont été prises afin d'identifier les bénéficiaires effectifs en application du premier alinéa.
+
+Lorsque le bénéficiaire effectif identifié est le dirigeant, les professionnels prennent les mesures raisonnables nécessaires pour vérifier l'identité de la personne physique qui occupe la position de dirigeant et conservent les informations relatives aux mesures prises ainsi qu'à toutes difficultés rencontrées durant le processus de vérification.
