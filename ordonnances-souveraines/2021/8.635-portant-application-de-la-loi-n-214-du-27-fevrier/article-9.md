@@ -1,0 +1,5 @@
+# Article 9
+
+En application du chiffre 2°) de l'article 13-5 de la loi n° 214 du 27 février 1936, modifiée, susvisée, les informations du registre des trusts portant sur le nom, le mois et l'année de naissance, le pays de résidence, la nationalité du bénéficiaire effectif ainsi que la nature et l'étendue des intérêts effectifs détenus relatives à un trust ou une construction juridique similaire qui détient ou possède une participation de contrôle dans une société ou dans une autre entité juridique autres que celles visées au chiffre 8°) de l'article 2 notamment au moyen d'actions au porteur ou par le biais d'un contrôle par d'autres moyens, sont accessibles à toute personne physique ou morale qui introduit une demande écrite portant sur un tel trust ou construction juridique similaire.
+
+La mise à disposition des informations visées au premier alinéa est conditionnée au paiement d'une redevance dont le montant est fixé par arrêté ministériel. Elle donne lieu à une consultation sur place auprès du service en charge du registre des trusts en présence d'un fonctionnaire.
