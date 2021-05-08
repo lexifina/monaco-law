@@ -1,19 +1,7 @@
 # Article O. 431-5
 
-I. Il est interdit de mettre à disposition, à titre onéreux ou gratuit,
+I. - En application du principe de responsabilité élargie du producteur, il peut être fait obligation aux producteurs, importateurs et distributeurs de produits générateurs de déchets ou des éléments et matériaux entrant dans leur fabrication de pourvoir ou de contribuer à la gestion des déchets qui en proviennent.
 
-- tout sac de caisse en matière plastique à usage unique ;
+II. - Les producteurs, importateurs et distributeurs, auxquels l'obligation susvisée est imposée par arrêté ministériel, s'acquittent de leur obligation en mettant en place des systèmes individuels de collecte et de traitement des déchets issus de leurs produits ou adhérant collectivement des éco-organismes, organismes auxquels ils versent une contribution financière et transfèrent leur obligation. Les modalités d'application sont définies par arrêté ministériel.
 
-- tout sac en matière plastique à usage unique destiné à l'emballage de marchandises au point de vente, autres que les sacs de caisse, sauf pour les sacs compostables en compostage domestique et constitués, pour tout ou partie, de matières biosourcées. Les sacs en papier recyclé doivent être privilégiés dans l'hypothèse d'un remplacement.
-
-II. La production, la distribution, la vente, la mise à disposition et l'utilisation de sacs constitués de plastique oxo-fragmentable sont interdites. Un sac plastique oxo-fragmentable est dégradable mais non assimilable par les micro-organismes.
-
-Les conditions d'application du présent paragraphe II sont fixées par arrêté ministériel. Celui-ci fixe notamment la teneur biosourcée minimale des sacs en matière plastique à usage unique et les conditions dans lesquelles celle-ci est progressivement augmentée.
-
-III. La mise à disposition à titre onéreux ou gratuit d'ustensiles en matière plastique, dont la liste est fixée par arrêté ministériel, est interdite.
-
-Des ustensiles, interdits au titre de l'alinéa précédent, pourront être autorisés s'ils sont compostables et constitués pour tout ou partie de matières biosourcées.
-
-Les conditions d'application du présent paragraphe III sont fixées par arrêté ministériel. Celui-ci fixe notamment les produits qualifiés d'ustensiles, les ustensiles compostables et constitués de matières biosourcées autorisées, la teneur biosourcée minimale des ustensiles et les dates d'interdiction.
-
-IV. À compter du 1er janvier 2020, la mise à disposition, à titre onéreux ou gratuit des bâtonnets ouatés à usage domestique dont la tige est en plastique, est interdite. Cette interdiction ne s'applique pas aux dispositifs médicaux.
+Un producteur, un importateur ou un distributeur qui a mis en place un système individuel de collecte et de traitement des déchets ou un éco-organisme, lorsqu'il pourvoit à la gestion des déchets en application du présent article, est détenteur de ces déchets.
