@@ -4,11 +4,11 @@ Les demandes d'autorisations doivent être accompagnées d'un dossier technique 
 
 L'étude des incidences sur l'environnement, lorsqu'elle est exigée, doit particulièrement comporter :
 
-- une étude sur les caractéristiques et la composition de la matière, les caractéristiques du lieu d'immersion et de la méthode de dépôt, les considérations et circonstances générales, telles que mentionnées en annexe du Protocole relatif à la prévention et à l'élimination de la pollution de la mer Méditerranée par les opérations d'immersion effectuées par les navires et aéronefs ou d'incinération en mer, de déchets ou autres matières ;
+- - une étude sur les caractéristiques et la composition de la matière, les caractéristiques du lieu d'immersion et de la méthode de dépôt, les considérations et circonstances générales, telles que mentionnées en annexe du Protocole relatif à la prévention et à l'élimination de la pollution de la mer Méditerranée par les opérations d'immersion effectuées par les navires et aéronefs ou d'incinération en mer, de déchets ou autres matières ;
 
-- les mesures d'évitement, de réduction et de compensation des impacts ;
+- - les mesures d'évitement, de réduction et de compensation des impacts ;
 
-- les mesures de suivi de l'évolution du site.
+- - les mesures de suivi de l'évolution du site.
 
 Les autorisations administratives sont délivrées par le Directeur des affaires maritimes, après avis de la Direction de l'environnement et, le cas échéant, de la Commission technique d'hygiène, de sécurité et de protection de l'environnement.
 
