@@ -38,7 +38,7 @@ Du vendredi 9 avril 2021 après la classe au lundi 26 avril 2021 au matin.
 
 - Grand Prix et Lundi de Pentecôte ;
 
-Du mercredi 19 mai 2021 après la classe au mardi 25 mai 2021 au matin.
+Du vendredi 14 mai 2021 après la classe au mardi 25 mai 2021 au matin.
 
 Fête Dieu
 
