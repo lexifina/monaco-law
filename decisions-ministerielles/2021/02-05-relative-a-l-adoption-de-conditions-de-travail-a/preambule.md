@@ -26,6 +26,4 @@ Considérant les recommandations temporaires au titre du Règlement Sanitaire In
 
 Considérant la dégradation sanitaire par la propagation rapide de nouvelles formes du virus extrêmement contagieuses et la nécessité, dans l'intérêt de la santé publique, de restreindre la circulation et de mettre en place des modalités de travail adaptées de manière à prévenir et contenir les infections potentielles par le virus SARS-CoV-2 et de permettre aux employeurs publics et privés de la Principauté de pouvoir poursuivre leur activité ;
 
-Considérant la nécessité de déroger aux conditions de la loi sur le télétravail ;
-
-Considérant la nécessité de préciser les conditions d'applications de la loi n° 1.488 du 11 mai 2020, susmentionnée ;
+Considérant la nécessité de déroger aux conditions de la loi sur le télétravail ; Considérant la nécessité de préciser les conditions d'applications de la loi n° 1.488 du 11 mai 2020, susmentionnée ;
