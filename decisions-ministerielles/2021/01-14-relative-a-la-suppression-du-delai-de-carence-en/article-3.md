@@ -1,3 +1,3 @@
 # Article 3
 
-La présente Décision est applicable à compter du 15 janvier 2021 jusqu'au 30 mai 2021 inclus.
+La présente Décision est applicable à compter du 15 janvier 2021 jusqu'au 13 juin 2021 inclus.
