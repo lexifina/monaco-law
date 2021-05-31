@@ -1,0 +1,5 @@
+# Article 4
+
+Tout rassemblement de plus de dix personnes sur les voies et espaces publics est interdit, à l'exception des membres d'un même foyer.
+
+Des événements regroupant plus de dix personnes et dans le respect d'une jauge maximale de mille personnes, peuvent être ponctuellement autorisés dans le cadre de l'organisation d'une manifestation ou un événement singulier. À titre exceptionnel, il peut être dérogé au respect de cette jauge maximale, après analyse des facteurs de risques au regard, notamment, de la situation sanitaire générale et des mesures mises en œuvre par l'organisateur afin de garantir le respect des mesures de lutte contre l'épidémie de COVID-19 fixées par la présente décision et de prévenir les risques de propagation du virus SARS-CoV-2 propres à la manifestation ou à l'événement. La demande d'autorisation correspondante est déposée préalablement à l'événement auprès des services compétents de l'Administration, accompagnée d'un dossier complet incluant notamment le protocole de mesures sanitaires envisagées.
