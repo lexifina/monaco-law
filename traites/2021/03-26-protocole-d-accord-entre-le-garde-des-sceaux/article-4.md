@@ -1,0 +1,5 @@
+# Article 4
+
+Chacune des deux Parties garantit sans délai la prise en compte d'une demande d'entraide pénale internationale présentée par l'autre partie à la suite de la commission sur son territoire national d'actes susceptibles de revêtir un caractère terroriste.
+
+En application de l'article 5 de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de Son Altesse Sérénissime le Prince de Monaco, signée à Paris le 8 novembre 2005, les demandes d'entraide pénale internationale portant sur des faits de nature terroriste peuvent être transmises directement par les autorités judiciaires monégasques aux autorités judiciaires françaises en charge de l'antiterrorisme. Il y est répondu par la même voie. Afin de garantir la célérité du traitement des demandes d'entraide, la transmission d'une copie avancée peut intervenir par la voie dématérialisée, sous réserve de régularisation par la communication des originaux dans les meilleurs délais.

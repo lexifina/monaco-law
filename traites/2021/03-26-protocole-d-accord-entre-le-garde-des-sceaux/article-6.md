@@ -1,0 +1,5 @@
+# Article 6
+
+En cas de commission, sur le territoire monégasque, d'actes susceptibles de revêtir un caractère terroriste et de relever également de la compétence des autorités judiciaires françaises, les deux Parties, en conformité avec l'article 18 de la convention d'entraide judiciaire en matière pénale entre le Gouvernement de la République française et le Gouvernement de Son Altesse Sérénissime le Prince de Monaco, signée à Paris le 8 novembre 2005, favorisent dans les meilleurs délais la création par les autorités judiciaires compétentes d'une équipe commune d'enquête.
+
+Ce dispositif vise à permettre aux autorités compétentes de la République française et de la Principauté de Monaco de développer des stratégies communes d'enquête, de transmettre et partager des informations dans un cadre simplifié d'entraide, de mutualiser les moyens humains, juridiques et matériels, et de coordonner d'éventuelles poursuites, dans le respect des dispositions de procédure pénale de chacune des Parties.
