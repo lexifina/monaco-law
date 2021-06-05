@@ -1,0 +1,3 @@
+# Article 7
+
+Les personnes qui commettent, ou tentent de commettre, des actes de terrorisme, les facilitent ou y participent, désignées par décision du Ministre d'État prise dans les formes prévues à l'article 2, sont désignées de sa propre initiative, ou après avoir examiné la demande d'un autre État, dès lors que le Ministre d'État a l'assurance que la demande de désignation est étayée par des motifs raisonnables ou par une base raisonnable permettant de suspecter ou de penser que ces personnes physiques ou morales, entités ou organismes commettent, ou tentent de commettre, des actes de terrorisme, les facilitent ou y participent.
