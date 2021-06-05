@@ -1,6 +1,6 @@
 # Article 5
 
-- Les organismes et les personnes visés aux articles premier et 2 exercent une vigilance constante à l'égard de la relation d'affaires non seulement à l'égard de tous leurs nouveaux clients, mais aussi, lorsque cela est opportun :
+Les organismes et les personnes visés aux articles premier et 2 exercent une vigilance constante à l'égard de la relation d'affaires non seulement à l'égard de tous leurs nouveaux clients, mais aussi, lorsque cela est opportun :
 
 - - à l'égard de leurs clients existants en fonction de leur appréciation des risques ; ou
 
