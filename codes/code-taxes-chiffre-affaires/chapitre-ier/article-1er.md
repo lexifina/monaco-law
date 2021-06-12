@@ -24,9 +24,9 @@ II bis. - 1° Une vente à distance intracommunautaire de biens s'entend d'une l
 
 2° Une vente à distance de biens importés de territoires tiers ou de pays tiers s'entend d'une livraison de biens expédiés ou transportés par le fournisseur ou pour son compte, y compris lorsque le fournisseur intervient indirectement dans le transport ou l'expédition des biens, à partir d'un territoire tiers ou d'un pays tiers à destination d'un acquéreur dans un État membre autre que la France, lorsque les conditions suivantes sont réunies :
 
-- a) La livraison de biens est effectuée au profit d'un assujetti ou d'une personne morale non assujettie dont les acquisitions intracommunautaires de biens ne sont pas soumises à la taxe soit en application du 2° du I de l'article 2 lorsque ces acquisitions intracommunautaires ont lieu à Monaco ou en France, soit en application du paragraphe 1 de l'article 3 de la directive 2006/112/CE du Conseil du 28 novembre 2006 précitée lorsque ces acquisitions intracommunautaires ont lieu dans un État membre de l'Union européenne autre que la France, ou au profit de toute autre personne non assujettie ;
+a) La livraison de biens est effectuée au profit d'un assujetti ou d'une personne morale non assujettie dont les acquisitions intracommunautaires de biens ne sont pas soumises à la taxe soit en application du 2° du I de l'article 2 lorsque ces acquisitions intracommunautaires ont lieu à Monaco ou en France, soit en application du paragraphe 1 de l'article 3 de la directive 2006/112/CE du Conseil du 28 novembre 2006 précitée lorsque ces acquisitions intracommunautaires ont lieu dans un État membre de l'Union européenne autre que la France, ou au profit de toute autre personne non assujettie ;
 
-- b) Les biens livrés ne sont ni des moyens de transport neufs ni des biens livrés après montage ou installation, avec ou sans essai de mise en service, par le fournisseur ou pour son compte.
+b) Les biens livrés ne sont ni des moyens de transport neufs ni des biens livrés après montage ou installation, avec ou sans essai de mise en service, par le fournisseur ou pour son compte.
 
 III. - Est assimilé à une livraison de biens, le transfert par un assujetti d'un bien de son entreprise à destination d'un État membre de l'Union européenne autre que la France.
 
@@ -64,7 +64,7 @@ III bis. - 1. N'est pas assimilé à une livraison de biens le transfert par un 
 
 - 3° Immédiatement avant le début de l'expédition ou du transport lorsque les biens mentionnés au 1° du 1 sont expédiés ou transportés vers un pays autre que Monaco ou la France ;
 
-- 4° Lorsque les biens mentionnés au même 1° sont détruits, perdus ou volés, à la date à laquelle les biens ont effectivement été enlevés ou détruits ou, si cette date est impossible à déterminer, à la date à laquelle il a été constaté que les biens étaient détruits ou manquants.
+4° Lorsque les biens mentionnés au même 1° sont détruits, perdus ou volés, à la date à laquelle les biens ont effectivement été enlevés ou détruits ou, si cette date est impossible à déterminer, à la date à laquelle il a été constaté que les biens étaient détruits ou manquants.
 
 IV. - 1° Les opérations autres que celles qui sont définies au II, notamment la cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne pas faire ou à tolérer un acte ou une situation, les opérations de façon et les travaux immobiliers, sont considérées comme des prestations de services ;
 
@@ -88,4 +88,4 @@ V. - 1° L'assujetti, agissant en son nom propre mais pour le compte d'autrui, q
 
 - b) L'assujetti qui facilite, par l'utilisation d'une interface électronique telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire, la livraison d'un bien dans l'Union européenne par un assujetti non établi sur le territoire de l'Union européenne à une personne non assujettie.
 
-Lorsqu'un assujetti est réputé avoir acquis et livré des biens dans les conditions prévues aux a et b du présent 2°, l'expédition ou le transport de ces biens est imputé à la livraison effectuée par cet assujetti.
+- Lorsqu'un assujetti est réputé avoir acquis et livré des biens dans les conditions prévues aux a et b du présent 2°, l'expédition ou le transport de ces biens est imputé à la livraison effectuée par cet assujetti.

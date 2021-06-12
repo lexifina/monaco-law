@@ -4,29 +4,29 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - A. - Les livraisons portant sur :
 
-  - 1° L'eau et les boissons autres que les boissons alcooliques ainsi que les produits destinés à l'alimentation humaine à l'exception des produits suivants auxquels s'applique le taux prévu à l'article 51 :
+- 1° L'eau et les boissons autres que les boissons alcooliques ainsi que les produits destinés à l'alimentation humaine à l'exception des produits suivants auxquels s'applique le taux prévu à l'article 51 :
 
-    - a) Les produits de confiserie ;
+  - a) Les produits de confiserie ;
 
-    - b) Les chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit de 5,5 % ;
+  - b) Les chocolats et de tous produits composés contenant du chocolat ou du cacao. Toutefois le chocolat, le chocolat de ménage au lait, les bonbons de chocolat, les fèves de cacao et le beurre de cacao sont admis au taux réduit de 5,5 % ;
 
-    - c) Les margarines et graisses végétales ;
+  - c) Les margarines et graisses végétales ;
 
-    - d) Le caviar ;
+  - d) Le caviar ;
 
-  - 1° bis Les produits de protection hygiénique féminine ;
+- 1° bis Les produits de protection hygiénique féminine ;
 
-  - 2° les appareillages pour handicapés ainsi que sur les équipements spéciaux, dénommés aides techniques et autres appareillages, dont la liste est fixée par l'article A-130 de l'annexe au code et qui sont conçus exclusivement pour les personnes handicapées en vue de la compensation d'incapacités graves.
+- 2° les appareillages pour handicapés ainsi que sur les équipements spéciaux, dénommés aides techniques et autres appareillages, dont la liste est fixée par l'article A-130 de l'annexe au code et qui sont conçus exclusivement pour les personnes handicapées en vue de la compensation d'incapacités graves.
 
-  - 3° les autopiqueurs, les appareils pour lecture automatique chiffrée de la glycémie, les seringues pour insuline, les stylos injecteurs d'insuline et les bandelettes et comprimés pour l'autocontrôle du diabète ;
+- 3° les autopiqueurs, les appareils pour lecture automatique chiffrée de la glycémie, les seringues pour insuline, les stylos injecteurs d'insuline et les bandelettes et comprimés pour l'autocontrôle du diabète ;
 
-  - 4° les appareillages de recueil pour incontinents et stomisés digestifs ou urinaires, les appareillages d'irrigation pour colostomisés, les sondes d'urétérostomie cutanée pour stomisés urinaires, les solutions d'irrigation vésicale et les sondes vésicales pour incontinents urinaires ;
+- 4° les appareillages de recueil pour incontinents et stomisés digestifs ou urinaires, les appareillages d'irrigation pour colostomisés, les sondes d'urétérostomie cutanée pour stomisés urinaires, les solutions d'irrigation vésicale et les sondes vésicales pour incontinents urinaires ;
 
-  - 5° les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté ministériel ;
+- 5° les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté ministériel ;
 
-  - 5° bis Pour les appareillages, équipements et matériels mentionnés aux 2° et 5° du présent A, la taxe sur la valeur ajoutée au taux réduit de 5,5 % s'applique également à leur location ;
+- 5° bis Pour les appareillages, équipements et matériels mentionnés aux 2° et 5° du présent A, la taxe sur la valeur ajoutée au taux réduit de 5,5 % s'applique également à leur location ;
 
-  - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio.
+- 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio.
 
 - B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir de la biomasse, de la géothermie, de l'énergie solaire thermique, des déchets et d'énergie de récupération ;
 

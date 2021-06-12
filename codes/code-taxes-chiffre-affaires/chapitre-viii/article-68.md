@@ -4,9 +4,9 @@ Est identifié par un numéro individuel :
 
 - 1° Tout assujetti qui effectue des livraisons de biens ou des prestations de services lui ouvrant droit à déduction, autres que :
 
-  - a) Des livraisons de biens ou des prestations de services pour lesquelles la taxe est due uniquement par le destinataire ou le preneur ;
+- a) Des livraisons de biens ou des prestations de services pour lesquelles la taxe est due uniquement par le destinataire ou le preneur ;
 
-  - b) Des livraisons de biens ou des prestations de services effectuées par un assujetti non établi à Monaco pour lesquelles cet assujetti a recours, dans un État membre autre que la France, aux régimes particuliers prévus aux sections 2, 3 et 4 du chapitre 6 du titre XII de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
+- b) Des livraisons de biens ou des prestations de services effectuées par un assujetti non établi à Monaco pour lesquelles cet assujetti a recours, dans un État membre autre que la France, aux régimes particuliers prévus aux sections 2, 3 et 4 du chapitre 6 du titre XII de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
 
 - 2° Tout assujetti ou toute personne morale non assujettie qui effectue des acquisitions intracommunautaires de biens soumises à la taxe sur la valeur ajoutée conformément au I de l'article 2 ou au I de l'article 94, toute personne visée à l'article 67, ainsi que toute personne ayant exercé l'option prévue à l'article 18 ;
 

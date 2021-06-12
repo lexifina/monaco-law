@@ -14,7 +14,7 @@ Lorsque la taxe exigible annuellement est inférieure à 4 000 € les redevable
 
 - b) le montant total, hors taxe sur la valeur ajoutée, des acquisitions intracommunautaires mentionnées au I de l'article 2 et, le cas échéant, des livraisons de biens expédiés ou transportés à partir d'un État membre de l'Union européenne autre que la France et installés ou montés à Monaco ou en France, et des livraisons de biens dont le lieu est situé à Monaco ou en France en application des dispositions du 2° du I de l'article 7 et des livraisons de biens effectuées à Monaco ou en France pour lesquelles le destinataire de la livraison est désigné comme redevable de la taxe en application des dispositions du 4 de l'article 62.
 
-- b bis)le montant hors taxes des opérations mentionnées au 4 ter de l'article 62 réalisées ou acquises par l'assujetti ;
+- b bis) le montant hors taxes des opérations mentionnées au 4 ter de l'article 62 réalisées ou acquises par l'assujetti ;
 
 - b ter) le montant total, hors taxe sur la valeur ajoutée, des services pour lesquels le preneur est redevable de la taxe en application, d'une part, du second alinéa du 1, d'autre part et distinctement, du 2 de l'article 62 ;
 
