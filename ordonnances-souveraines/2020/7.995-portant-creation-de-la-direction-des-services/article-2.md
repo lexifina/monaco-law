@@ -28,4 +28,6 @@ Cette Direction est chargée :
 
 - 13) d'identifier et d'analyser les attentes des usagers en matière de procédures, d'informations administratives et de services ;
 
-- 14) d'organiser et d'animer la concertation nécessaire à la diffusion de référentiels et règles générales d'accessibilité et d'utilisation des services numériques.
+- 14) d'organiser et d'animer la concertation nécessaire à la diffusion de référentiels et règles générales d'accessibilité et d'utilisation des services numériques ;
+
+- 15) d'assurer la gestion du Service du Registre National Monégasque de l'Identité Numérique.
