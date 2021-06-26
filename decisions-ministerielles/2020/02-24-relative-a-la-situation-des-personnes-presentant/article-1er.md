@@ -8,7 +8,7 @@ Est considérée comme présentant un risque d'infection potentielle par le viru
 
 Toutefois, les dispositions de l'alinéa précédent ne s'appliquent pas aux enfants âgés de moins de onze ans et, à condition qu'ils ne soient pas hébergés à Monaco lors de leur présence sur le territoire national :
 
-- aux personnes résidant habituellement dans les départements français des Alpes-Maritimes et du Var ;
+- aux personnes résidant habituellement dans les départements français des Alpes-Maritimes et du Var ou dans la province d'Imperia ;
 
 - aux travailleurs, élèves et étudiants transfrontaliers ;
 
