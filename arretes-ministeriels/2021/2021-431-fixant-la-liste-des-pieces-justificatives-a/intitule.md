@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-431 du 17 juin 2021 fixant la liste des pièces justificatives à produire à l'appui de la demande d'agrément pour l'exercice de l'activité de mandataire judiciaire à la protection des personnes
