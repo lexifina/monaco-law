@@ -1,7 +1,13 @@
 # Article 5
 
-En application du premier alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, tout manquement aux dispositions de la présente décision est passible de la sanction prévue au chiffre 2 de l'article 29 du Code pénal.
+Toute personne âgée de onze ans ou plus souhaitant se déplacer à destination du territoire monégasque en provenance d'un pays qui, compte tenu de sa situation sanitaire, caractérisée par une circulation particulièrement active de l'épidémie ou la propagation de certains variants du SARS-CoV-2 présentant un risque de transmissibilité accrue ou d'échappement immunitaire, est classé dans la zone rouge définie à l'article 6 est tenue de respecter les exigences suivantes :
 
-En application du deuxième alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, si les manquements aux dispositions de la présente décision sont à nouveau verbalisés, l'amende est celle prévue au chiffre 3 de l'article 29 du Code pénal.
+1) justifier, au moyen de la présentation de tout document pertinent, que son déplacement est fondé sur un motif impérieux d'ordre personnel ou familial, un motif de santé relevant de l'urgence ou un motif professionnel ne pouvant être différé ;
 
-En application du dernier alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, si les manquements aux dispositions de la présente décision sont verbalisés à plus de trois reprises dans un délai de trente jours ouvrés à compter du jour où le premier manquement a été commis, l'amende est celle prévue au chiffre 1 de l'article 26 du Code pénal.
+2) présenter le justificatif mentionné aux chiffre 1 de l'article 2 de la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire ;
+
+3) consentir soit :
+
+a) à s'isoler pendant sept jours puis jusqu'à ce qu'un test virologique de type RT-PCR établisse qu'elle n'est pas ou plus porteuse du virus ;
+
+b) à présenter le résultat négatif de deux tests virologiques de type RT-PCR pour la détection du virus SARS-CoV-2, l'un réalisé dans les vingt-quatre heures suivant son arrivée et l'autre réalisé cinq à sept jours plus tard.

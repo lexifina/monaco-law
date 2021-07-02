@@ -1,7 +1,9 @@
 # Article 4
 
-Sous réserve d'un avis médical contraire, la période d'isolement d'une personne dont l'infection par le virus SARS-CoV-2 est confirmée par un test virologique de type RT-PCR sur prélèvement nasopharyngé est :
+Toute personne âgée de onze ans ou plus souhaitant se déplacer à destination du territoire monégasque en provenance d'un pays qui, compte tenu de sa situation sanitaire, caractérisée par une circulation active du virus dans des proportions maîtrisées, est classé dans la zone orange définie à l'article 6 est tenue de présenter les deux justificatifs mentionnés soit :
 
-1) pour la personne symptomatique, de dix jours à compter du début des symptômes. Si la personne est toujours symptomatique, l'isolement est maintenu jusqu'à ce qu'elle ne présente plus de symptôme depuis 48 heures ;
+- aux chiffres 1 et 2 de l'article 2 de la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire ;
 
-2) pour la personne asymptomatique, de dix jours à compter du jour du prélèvement nasopharyngé réalisé pour ledit test.
+- aux chiffres 1 et 3 de l'article 2 de ladite Décision.
+
+Si cette personne ne peut présenter le justificatif mentionné au chiffre 2 ou 3 de l'article 2 de ladite Décision, elle est alors tenue de respecter les exigences prévues par l'article suivant.
