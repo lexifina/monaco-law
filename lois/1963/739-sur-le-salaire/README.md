@@ -1,8 +1,8 @@
 # Loi n° 739 du 16 mars 1963 sur le salaire
 
-Version en vigueur au 4 janvier 2003.
+Version en vigueur au 3 juillet 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1963/03-16-739@2003.01.04/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1963/03-16-739@2021.07.03/
 
 | | |
 | --- | --- |
