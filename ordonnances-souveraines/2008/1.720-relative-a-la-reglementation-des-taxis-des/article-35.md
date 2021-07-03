@@ -4,7 +4,7 @@ Une affichette d'information délivrée par la Direction de l'Expansion économi
 
 Elle énumère les indications suivantes :
 
-- la mention «service de ville» ;
+- la mention « service de ville » ;
 
 - le numéro d'immatriculation ;
 

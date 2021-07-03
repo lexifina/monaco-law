@@ -8,7 +8,9 @@ Les véhicules visés à l'article 38-7 doivent répondre aux caractéristiques 
 
 3° - disposer d'un compteur horokilométrique et d'un dispositif répétiteur lumineux de tarifs dont les caractéristiques techniques, les conditions et les modalités d'installation et d'utilisation sont fixées par arrêté ministériel ;
 
-4° - disposer de l'appareillage de communication mis à disposition par l'autorité administrative compétente, pour l'exécution du service de centralisation téléphonique des demandes de courses et leur distribution, dont les conditions et modalités d'installation et d'utilisation sont fixées par arrêté ministériel ; 5° - disposer d'un système de communication par radio ;
+4° - disposer de l'appareillage de communication mis à disposition par l'autorité administrative compétente, pour l'exécution du service de centralisation téléphonique des demandes de courses et leur distribution, dont les conditions et modalités d'installation et d'utilisation sont fixées par arrêté ministériel ;
+
+5° - disposer d'un système de communication par radio ;
 
 6° - comporter une motorisation électrique uniquement.
 
