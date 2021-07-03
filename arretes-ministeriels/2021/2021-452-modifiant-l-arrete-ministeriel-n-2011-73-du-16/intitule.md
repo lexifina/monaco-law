@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-452 du 28 juin 2021 modifiant l'arrêté ministériel n° 2011-73 du 16 février 2011 déterminant les actes professionnels pouvant être pratiqués par les auxiliaires médicaux, modifié
