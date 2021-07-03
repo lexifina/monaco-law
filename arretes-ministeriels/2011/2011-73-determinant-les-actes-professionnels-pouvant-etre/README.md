@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2011-73 du 16 février 2011 déterminant les actes professionnels pouvant être pratiqués par les auxiliaires médicaux
 
-Version en vigueur au 16 mai 2020.
+Version en vigueur au 3 juillet 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2011/02-16-2011-73@2020.05.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2011/02-16-2011-73@2021.07.03/
 
 | | |
 | --- | --- |

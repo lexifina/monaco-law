@@ -12,4 +12,4 @@ La durée de validité de l'ordonnance médicale est fixée à :
 
 Une copie de cette ordonnance est conservée par l'opticien-lunetier jusqu'à l'expiration de sa validité, sauf opposition du patient.
 
-L'opticien-lunetier qui réalise une réfraction lors de la première délivrance suivant la prescription de verres correcteurs ne peut pas adapter cette prescription.
+Une copie de cette ordonnance, le cas échéant modifiée en application de l'article 27-1 du présent arrêté, est conservée par l'opticien-lunetier jusqu'à l'expiration de sa validité, sauf opposition du patient, et l'original est conservé par ce dernier.

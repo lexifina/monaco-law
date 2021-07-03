@@ -8,7 +8,7 @@ a) hyperkératoses mécaniques ou non, d'étiologie ou de localisations diverses
 
 b) verrues plantaires ;
 
-c) ongles incarnés, onychopathies mécaniques ou non, et des autres affections épidermiques ou unguéales du pied, à l'exclusion des interventions impliquant l'effusion de sang.
+c) ongles incarnés, onychopathies mécaniques ou non, et des autres affections épidermiques ou unguéales du pied, à l'exclusion des interventions chirurgicales ;
 
 2° Exfoliation et abrasion des téguments et phanères par rabotage, fraisage et meulage ;
 
@@ -20,4 +20,6 @@ c) ongles incarnés, onychopathies mécaniques ou non, et des autres affections 
 
 6° Prescription et pose de pansements figurant sur une liste fixée par arrêté ministériel ;
 
-7° Prescription, confection et application des prothèses et orthèses, onychoplasties, orthonyxies, orthoplasties externes, chaussures thérapeutiques de série, semelles orthopédiques et autres appareillages podologiques visant à prévenir ou à traiter les affections épidermiques et unguéales du pied.
+7° Prescription, confection et application des prothèses et orthèses, onychoplasties, orthonyxies, orthoplasties, orthèses plantaires et autres appareillages podologiques visant à prévenir ou à traiter les affections épidermiques et unguéales du pied ;
+
+8° Prescription de chaussures thérapeutiques de série.
