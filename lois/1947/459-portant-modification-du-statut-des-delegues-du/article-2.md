@@ -4,7 +4,9 @@ Les délégués du personnel ont pour mission :
 
 De présenter aux employeurs toutes les réclamations individuelles ou collectives qui n'auraient pas été directement satisfaites relatives à l'application des taux de salaires et des classifications professionnelles, des lois et règlements, concernant la protection ouvrière, l'hygiène, la sécurité et la prévoyance sociale ;
 
-De saisir l'inspection du travail de toutes plaintes ou observations relatives à l'application des prescriptions légales et réglementaires dont elle est chargée d'assurer le contrôle.
+De saisir l'inspection du travail de toutes plaintes ou observations relatives à l'application des prescriptions légales et réglementaires dont elle est chargée d'assurer le contrôle ;
+
+De représenter, négocier avec l'employeur et conclure pour les salariés de l'entreprise, un accord d'entreprise à condition que leur mandat n'ait pas échu au jour de la signature dudit accord.
 
 L'inspecteur du travail doit se faire accompagner dans ses visites par le délégué compétent.
 

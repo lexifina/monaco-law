@@ -1,0 +1,3 @@
+# Article 2-2
+
+Dans les cas limitativement prévus par la loi, un accord d'entreprise peut être signé entre d'une part, un employeur ou son représentant et d'autre part, les délégués du personnel ou, à défaut, un représentant des salariés spécialement désigné à cet effet. Le délégué du personnel et le représentant des salariés peuvent être assistés par tout délégué syndical. Le défaut de délégué du personnel, visé à l'alinéa précédent, est caractérisé, soit en raison du défaut de désignation d'un ou plusieurs délégués du personnel à l'issue de l'organisation de l'élection prévue par l'Ordonnance Souveraine n° 3.285 du 15 septembre 1946, modifiée, soit en raison d'une rupture anticipée du mandat du délégué, soit parce que l'entreprise contient moins de onze salariés.
