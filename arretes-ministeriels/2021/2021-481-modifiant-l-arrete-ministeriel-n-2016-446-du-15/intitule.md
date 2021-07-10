@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-481 du 1er juillet 2021 modifiant l'arrêté ministériel n° 2016-446 du 15 juillet 2016 fixant la composition et le fonctionnement de la commission médicale supérieure instituée par l'article 5 de l'Ordonnance Souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre Hospitalier Princesse Grace
