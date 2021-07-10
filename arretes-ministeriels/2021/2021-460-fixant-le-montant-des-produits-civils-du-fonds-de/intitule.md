@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-460 du 1er juillet 2021 fixant le montant des produits civils du fonds de réserve de la Caisse Autonome des Retraites, ayant la nature de fruits civils, à affecter au déficit de l'activité du régime général pour l'exercice 2019-2020
