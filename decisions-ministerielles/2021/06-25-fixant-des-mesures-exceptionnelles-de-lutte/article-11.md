@@ -6,4 +6,4 @@ L'ouverture de tout établissement sportif est subordonnée au respect de ces me
 
 L'obligation de port du masque ne s'applique pas pendant la pratique d'un sport en extérieur ou d'un sport nautique et ne s'applique pas non plus aux sportifs de haut niveau, aux sportifs professionnels et aux élèves préparant des examens de fin de cycle.
 
-Pour l'application de la présente décision, toute activité de danse, de yoga ou de Pilates ou toute autre activité similaire est considérée comme une activité sportive.
+Pour l'application de la présente décision, toute activité de danse autre que celles mentionnées à l'article 30, de yoga ou de Pilates ou toute autre activité similaire est considérée comme une activité sportive.
