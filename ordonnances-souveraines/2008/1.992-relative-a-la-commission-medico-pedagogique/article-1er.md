@@ -2,13 +2,15 @@
 
 La composition de la Commission médico-pédagogique, instituée par l'article 25 de la loi n° 1.334 du 12 juillet 2007, susvisée, est fixée comme suit :
 
-- le Directeur de l'Éducation Nationale, de la Jeunesse et des Sports, président ou son représentant, lequel peut s'adjoindre deux personnes de sa Direction, désignées pour leurs compétences ;
+- le Commissaire Général chargé de la Direction de l'Éducation Nationale, de la Jeunesse et des Sports, président ou son représentant, lequel peut s'adjoindre deux personnes de sa Direction, désignées pour leurs compétences ;
 
 - le Directeur de l'Action Sanitaire ou son représentant ;
 
 - le Directeur de l'Action et de l'Aide Sociales ou son représentant ;
 
-- un médecin spécialiste en psychiatrie ou ayant une compétence en psychiatrie de l'enfant et de l'adolescent désigné par le Directeur de l'Action Sanitaire ;
+- le responsable de la Division de l'Inclusion Sociale et du Handicap de la Direction de l'Action et de l'Aide Sociales ou son représentant ;
+
+- un médecin spécialiste en psychiatrie ou ayant des compétences en psychiatrie de l'enfant et de l'adolescent désigné par le Directeur de l'Action Sanitaire ;
 
 - les médecins de l'Inspection Médicale des Scolaires relevant de la Direction de l'Action Sanitaire ;
 
@@ -18,8 +20,10 @@ La composition de la Commission médico-pédagogique, instituée par l'article 2
 
 - des représentants du Centre de Formation Pédagogique ;
 
-- les chefs d'établissement concernés ;
+- le Coordonnateur pour la mise en œuvre et le suivi des dispositifs éducatifs particuliers dans les établissements d'enseignement ou son représentant ;
 
-- le responsable de la Section d'Enseignement Général et Professionnel Adapté ;
+- les chefs d'établissement concernés ou leurs représentants ;
+
+- le responsable de la Section d'Enseignement Général et Professionnel Adapté ou son représentant ;
 
 - les assistantes sociales et les psychologues scolaires chargés du suivi des enfants concernés.
