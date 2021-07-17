@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-491 du 8 juillet 2021 modifiant l'arrêté ministériel n° 2003-416 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse d'Assurance Maladie, accident et maternité des Travailleurs Indépendants, modifié
