@@ -4,10 +4,10 @@ La qualité d'ayant droit est reconnue au conjoint ou au partenaire d'un contrat
 
 Le conjoint ou le partenaire d'un contrat de vie commune perd la qualité d'ayant droit :
 
-1°) en cas de divorce ou de séparation de corps, à la date de l'accomplissement des formalités prévues par l'article 203-4 du Code civil ;
+1°) en cas de divorce, à la date de l'accomplissement des formalités prévues par l'article 203-4 du Code civil ;
 
 2°) en cas de résiliation du contrat de vie commune, à la date prévue à l'article 1283 du Code civil ;
 
-3°) en cas d'exercice d'une autre activité professionnelle, à la date d'ouverture du droit aux prestations médicales servies par un autre régime monégasque ou étranger.
+3°) en cas d'exercice d'une activité professionnelle, à la date d'ouverture du droit aux prestations médicales servies par un autre régime monégasque ou étranger.
 
-Par dérogation aux chiffres 1 et 2 de l'alinéa précédent, en cas de divorce, de séparation de corps ou de résiliation du contrat de vie commune, si le conjoint ou le partenaire qui réside à Monaco n'ouvre droit à aucun régime d'assurance maladie, le Service des Prestations Médicales de l'État lui octroie un maintien de droit spécifique pendant douze mois civils à compter de la date de l'accomplissement des formalités prévues par l'article 203-4 du Code civil ou de la date d'enregistrement de la résiliation du contrat de vie commune.
+Par dérogation aux chiffres 1°) et 2°) de l'alinéa précédent, en cas de divorce ou de résiliation d'un contrat de vie commune, si le conjoint ou le partenaire qui réside à Monaco n'ouvre droit à aucun régime d'assurance maladie, le Service des Prestations Médicales de l'État lui octroie un maintien de droit spécifique pendant trois mois civils à compter de la date de l'accomplissement des formalités prévues par l'article 203-4 du Code civil ou de la date d'enregistrement de la résiliation du contrat de vie commune.

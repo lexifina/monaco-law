@@ -1,6 +1,6 @@
 # Article 25
 
-Le montant des prestations en nature est déterminé par un tarif dit « d'autorité », sous réserve des dispositions prévues aux articles 26 à 31\.
+Le montant des prestations en nature est déterminé par un tarif dit « d'autorité », sous réserve des dispositions prévues aux articles 26 à 31.
 
 Ce tarif d'autorité prend pour base :
 

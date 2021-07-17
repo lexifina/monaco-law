@@ -6,4 +6,4 @@ Les ayants droit de l'assuré, ayant la qualité de chef de foyer au sens de l'O
 
 2°) ses enfants, dans les conditions fixées par l'article 5 ;
 
-3°) à titre subsidiaire, les enfants légitimes, naturels ou adoptifs du conjoint ou du partenaire d'un contrat de vie commune lorsque celui-ci n'ouvre droit à aucun autre régime d'assurance maladie du chef de son activité ou de sa résidence, dans les conditions fixées par l'article 5.
+3°) à titre subsidiaire, les enfants légitimes, naturels ou adoptifs du conjoint lorsque celui-ci n'ouvre droit à aucun autre régime d'assurance maladie du chef de son activité ou de sa résidence, dans les conditions fixées par l'article 5.

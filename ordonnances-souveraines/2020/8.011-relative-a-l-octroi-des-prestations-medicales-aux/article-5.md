@@ -4,7 +4,7 @@ La qualité d'ayant droit est accordée aux enfants :
 
 1°) légitimes, naturels ou adoptifs de l'assuré ;
 
-2°) légitimes, naturels ou adoptifs de son conjoint ou de son partenaire de contrat de vie commune, dans les cas visés au deuxième alinéa de l'article 3 ;
+2°) légitimes, naturels ou adoptifs de son conjoint, dans les cas visés au chiffre trois de l'article 3 ;
 
 3°) orphelins de père ou de mère, et dont l'assuré est le tuteur ;
 

@@ -52,6 +52,8 @@ Vu l'arrêté ministériel n° 2003-121 du 11 février 2003 établissant la list
 
 Vu l'arrêté ministériel n° 2005-276 du 7 juin 2005 fixant les conditions de remboursement par les régimes d'assurance maladie des actes relevant de la classification commune des actes médicaux, modifié ;
 
-Vu l'arrêté ministériel n° 2006-188 du 29 mars 2006 portant fixation du tarif des honoraires médicaux dus en matière d'accidents du travail et de maladies professionnelles ; Vu l'arrêté ministériel n° 2019-558 du 2 juillet 2019 fixant la durée du congé de maternité des fonctionnaires et agents de l'État ;
+Vu l'arrêté ministériel n° 2006-188 du 29 mars 2006 portant fixation du tarif des honoraires médicaux dus en matière d'accidents du travail et de maladies professionnelles ;
+
+Vu l'arrêté ministériel n° 2019-558 du 2 juillet 2019 fixant la durée du congé de maternité des fonctionnaires et agents de l'État ;
 
 Vu l'arrêté municipal n° 2019-3068 du 16 juillet 2019 fixant la durée du congé de maternité des fonctionnaires de la Commune ;

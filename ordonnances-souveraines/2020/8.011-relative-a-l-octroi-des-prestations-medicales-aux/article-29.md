@@ -6,6 +6,6 @@ Par dérogation aux dispositions de l'article 26, les fonctionnaires et agents d
 
 2°) les fonctionnaires retraités résidant à Monaco ;
 
-3°) les agents justifiant d'une ancienneté de service cumulée de deux années pour un emploi à temps plein au sein de la Fonction Publique étatique ou communale ;
+3°) les agents justifiant d'une ancienneté de service cumulée de deux années pour un emploi à temps plein, sur un poste ou un demi-poste prévu à l'organigramme, au sein de la Fonction Publique étatique ou communale ;
 
 4°) les fonctionnaires placés en disponibilité spéciale pour élever un enfant de moins de cinq 5 ans ou atteint d'une infirmité, d'une maladie ou d'une incapacité grave.
