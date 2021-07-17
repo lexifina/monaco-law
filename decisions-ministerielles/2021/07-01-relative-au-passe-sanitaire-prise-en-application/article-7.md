@@ -16,7 +16,9 @@ d) être scolarisée, étudiante ou en formation, à Monaco ;
 
 e) faire partie des adhérents ou des abonnés dudit établissement ;
 
-f) séjourner dans un établissement hôtelier de la Principauté.
+f) séjourner dans un établissement hôtelier de la Principauté ;
+
+g) séjourner, en qualité de passager ou de membre d'équipage, à bord d'un navire en escale ou au mouillage dans les eaux ou un port monégasques ;
 
 3) à un établissement ayant pour activité principale l'exploitation d'une discothèque ou à un établissement ayant une activité secondaire de discothèque, de danse, d'animation musicale ou de karaoké, annexe à une activité de bar ou de restaurant, ou bien encore à un évènement festif ou ludique avec activité de danse, d'animation musicale ou de karaoké.
 

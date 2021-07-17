@@ -12,7 +12,7 @@ a) une facture, de moins de trois mois, d'un service concessionnaire à l'adress
 
 b) un permis de travail à Monaco, en cours de validité ;
 
-c) une carte d'assuré social de la Caisse de compensation des services sociaux, de la Caisse d'assurance maladie, accident et maternité des travailleurs indépendants ou du Service des Prestations Médicales de l'État ;
+c) une carte d'assuré social de la Caisse de Compensation des Services Sociaux, de la Caisse d'Assurance Maladie, accident et maternité des Travailleurs Indépendants ou du Service des Prestations Médicales de l'État ;
 
 d) une attestation sur l'honneur d'un employeur monégasque justifiant d'un travail ou d'un stage sur Monaco ;
 
@@ -22,4 +22,6 @@ f) une carte d'étudiant ou de scolarité de Monaco ;
 
 g) un justificatif de réservation hôtelière en Principauté, et dont le modèle est fixé en annexe ;
 
-h) la carte d'adhérent ou d'abonné à l'établissement concerné.
+h) une attestation d'hébergement à bord d'un navire établie par le commandant de bord dudit navire, sur le modèle fourni par la Division de Police Maritime et Aéroportuaire de la Direction de la Sûreté Publique, et visée par ladite Division ;
+
+i) la carte d'adhérent ou d'abonné à l'établissement concerné.
