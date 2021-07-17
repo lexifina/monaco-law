@@ -78,6 +78,8 @@ AMI | Actes pratiqués par l'infirmier | 0,83
 
 AIS | Actes infirmiers de soins | 0,70
 
+PAI | Forfait pour soin infirmier en pratique avancée | 8,62 euro(s)
+
 [DAMI] | Indemnité de déplacement infirmier | 0,54
 
 [AMIN] | Majoration de nuit pour actes infirmiers | 2,75
@@ -85,6 +87,12 @@ AIS | Actes infirmiers de soins | 0,70
 [AMID] | Majoration de dimanche pour actes infirmiers | 2,30
 
 [AMIS] | Majoration de samedi A.M. pactes infirmiers | 2,30
+
+MCI | Majoration de Coordination Infirmière | 1,68
+
+MIE | Majoration pour jeune enfant | 3,15
+
+MIP | Majoration liée à l'âge du patient (- de 7 ans ou 80 ans et +) pour réalisation d'un soin infirmier en pratique avancée | 3,90
 
 * Autres auxiliaires | |
 
@@ -109,6 +117,8 @@ AMO | Actes pratiqués par l'othophoniste | 0,84
 AMY | Actes pratiqués par l'orthoptiste | 0,76
 
 [DAMY] | Indemnité de déplacement orthoptiste | 0,52
+
+RNO | Réalisation d'un bilan visuel dans le cadre d'un protocole de délégation entre l'ophtalmologue et l'orthoptiste | 28 euro(s)
 
 Majorations pour dimanche et nuit : |
 
@@ -200,7 +210,7 @@ de 20 h à 8 h | 25,15
 
 IFD | Indemnité forfaitaire de déplacement | 3,81
 
-Des indemnités forfaitaires sont versées aux Médecins Généralistes de la Principauté par les Régimes obligatoires d'Assurance Maladie, pour chaque garde effectuée, soit du lundi au vendredi de 20 h à minuit, soit le samedi, le dimanche et les jours fériés.
+Des indemnités forfaitaires sont versées aux Médecins Généralistes de la Principauté par les Régimes obligatoires d'Assurance Maladie, pour chaque garde effectuée, soit du lundi au vendredi de 19 heures à 22 heures, soit le samedi, le dimanche et les jours fériés de 7 heures à 22 heures.
 
 Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent à 75 euro(s) pour chaque tour de garde complet assuré.
 
@@ -247,6 +257,10 @@ Actes dispensés par les auxiliaires médicaux |
 AMC | Actes pratiqués par le kinésithérapeute | 2,29 euro(s)
 
 AMI | Actes pratiqués par l'infirmier | 3,15 euro(s)
+
+PAI | Forfait pour soin infirmier en pratique avancée | 32,70 euro(s)
+
+MIP | Majoration liée à l'âge du patient (- de 7 ans ou 80 ans et +) pour réalisation d'un soin infirmier en pratique avancée | 3,90 euro(s)
 
 AMY | Actes pratiqués par l'orthoptiste | 2,38 euro(s)
 
