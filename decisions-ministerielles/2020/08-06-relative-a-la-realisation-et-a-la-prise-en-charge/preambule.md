@@ -16,11 +16,15 @@ Vu l'Ordonnance Souveraine n° 231 du 3 octobre 2005 portant création d'un Serv
 
 Vu l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ; Vu l'Ordonnance Souveraine n° 8.011 du 12 mars 2020 relative à l'octroi des prestations médicales aux fonctionnaires et agents de l'État et de la Commune ;
 
-Vu l'arrêté ministériel n° 2011-73 du 16 février 2011 déterminant les actes professionnels pouvant être pratiqués par les auxiliaires médicaux, modifié ; Vu l'arrêté ministériel n° 96-209 du 2 mai 1996 relatif à la nomenclature générale des analyses et examens de laboratoire, modifié ;
+Vu l'arrêté ministériel n° 2011-73 du 16 février 2011 déterminant les actes professionnels pouvant être pratiqués par les auxiliaires médicaux, modifié ;
+
+Vu l'arrêté ministériel n° 96-209 du 2 mai 1996 relatif à la nomenclature générale des analyses et examens de laboratoire, modifié ;
 
 Vu la Décision Ministérielle du 24 février 2020 relative à la situation des personnes exposées ou potentiellement exposées au virus 2019-nCoV, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
 
-Considérant le caractère pathogène et contagieux du virus SARS-CoV-2 et sa propagation rapide ; Considérant l'urgence de santé publique de portée internationale, déclarée le 30 janvier 2020 par le Directeur Général de l'Organisation mondiale de la Santé, constituée par la flambée épidémique due au virus 2019-nCoV, actuellement dénommé SARS-CoV-2 ;
+Considérant le caractère pathogène et contagieux du virus SARS-CoV-2 et sa propagation rapide ;
+
+Considérant l'urgence de santé publique de portée internationale, déclarée le 30 janvier 2020 par le Directeur Général de l'Organisation mondiale de la Santé, constituée par la flambée épidémique due au virus 2019-nCoV, actuellement dénommé SARS-CoV-2 ;
 
 Considérant les recommandations temporaires au titre du Règlement Sanitaire International émises par le Directeur Général de l'Organisation mondiale de la Santé le 30 janvier 2020 ;
 
