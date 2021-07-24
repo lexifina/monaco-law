@@ -20,7 +20,9 @@ a) les exploitants ou les responsables des lieux et établissements et les organ
 
 b) les officiers et agents de police judiciaire.
 
-Lors du contrôle, la personne contrôlée est tenue de présenter une pièce d'identité lorsque la demande lui en est faite. Les personnes mentionnées aux a) , b) et c) du chiffre 1 et au a ) du chiffre 2 habilitent nommément les personnes autorisées à contrôler les justificatifs pour leur compte, selon les modalités décrites à l'alinéa suivant. Elles tiennent un registre détaillant les personnes ainsi habilitées et la date de leur habilitation.
+Lors du contrôle, la personne contrôlée est tenue de présenter une pièce d'identité lorsque la demande lui en est faite.
+
+Les personnes mentionnées aux a) , b) et c) du chiffre 1 et au a) du chiffre 2 habilitent nommément les personnes autorisées à contrôler les justificatifs pour leur compte, selon les modalités décrites à l'alinéa suivant. Elles tiennent un registre détaillant les personnes ainsi habilitées et la date de leur habilitation.
 
 La lecture des justificatifs par les personnes mentionnées aux chiffres 1 et 2 est réalisée, le cas échéant, au moyen d'une application mobile désignée par l'État. Elle permet à ces personnes de lire uniquement les noms et prénoms de la personne concernée par le justificatif, sa date de naissance, ainsi qu'un résultat positif ou négatif de détention d'un justificatif conforme aux dispositions de l'article 2. Ces données ne sont pas conservées sur ladite application. Elles ne sont traitées qu'une seule fois, lors de la lecture du justificatif. Aucun justificatif, quel que soit son format, ne peut être conservé par ces personnes et celles-ci ne peuvent les utiliser à d'autres fins que celles prévues par l'article 3.
 
@@ -30,4 +32,4 @@ Ces mêmes personnes mettent en place, à destination des personnes concernées 
 
 Lorsque la personne contrôlée par une personne mentionnée au b) du chiffre 1 ne respecte pas les exigences, selon le cas, de l'article 3, 4 ou 5 de la Décision Ministérielle du 24 février 2020, modifiée, susvisée, ou ne présente pas l'attestation d'hébergement à bord d'un navire mentionnée à l'article 9, elle ne peut séjourner dans l'établissement hôtelier.
 
-Lorsqu'une personne mentionnée au chiffre 1 contrôle une personne ne respectant pas les exigences, selon le cas, de l'article 3, 4 ou 5 de la Décision Ministérielle du 24 février 2020, modifiée, susvisée, elle en informe, si cela s'avère nécessaire et par tout moyen, la Direction de l'Action Sanitaire ou la Direction de la Sûreté Publique qu'elle est en présence d'une situation susceptible de justifier que soit prise la décision de mise en quarantaine mentionnée à l'article 2 de ladite Décision.
+Lorsqu'une personne mentionnée au chiffre 1 contrôle une personne ne respectant pas les exigences, selon le cas, de l'article 3, 4 ou 5 de la Décision Ministérielle du 24 février 2020, modifiée, susvisée, elle en informe, si cela s'avère nécessaire et par tout moyen, la Direction de l'Action Sanitaire ou la Direction de la Sûreté Publique qu'elle est en présence d'une situation susceptible de justifier que soit prise la décision de mise en quarantaine mentionnée à l'article 2 de ladite décision.

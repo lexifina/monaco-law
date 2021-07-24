@@ -1,6 +1,6 @@
 # Article 7
 
-Toute personne âgée de onze ans ou plus est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder :
+Toute personne âgée de seize ans ou plus est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder :
 
 1) à un établissement, lieu ou évènement accueillant un nombre de visiteurs ou de spectateurs au moins égal à mille personnes et dont la liste est fixée par l'article 8 ;
 
@@ -8,17 +8,15 @@ Toute personne âgée de onze ans ou plus est tenue de présenter l'un des justi
 
 a) être de nationalité monégasque ;
 
-b) disposer d'une résidence à Monaco, dans les Alpes-Maritimes ou dans la province d'Imperia ;
+b) disposer d'une résidence à Monaco ;
 
-c) exercer à Monaco une activité professionnelle dûment autorisée, accompagnée, le cas échéant, d'un ou plusieurs membres de son foyer ayant la même adresse de résidence ;
+c) exercer à Monaco une activité professionnelle dûment autorisée ;
 
 d) être scolarisée, étudiante ou en formation, à Monaco ;
 
-e) faire partie des adhérents ou des abonnés dudit établissement ;
+e) séjourner dans un établissement hôtelier de la Principauté ;
 
-f) séjourner dans un établissement hôtelier de la Principauté ;
-
-g) séjourner, en qualité de passager ou de membre d'équipage, à bord d'un navire en escale ou au mouillage dans les eaux ou un port monégasques ;
+f) séjourner, en qualité de passager ou de membre d'équipage, à bord d'un navire en escale ou au mouillage dans les eaux ou un port monégasques ;
 
 3) à un établissement ayant pour activité principale l'exploitation d'une discothèque ou à un établissement ayant une activité secondaire de discothèque, de danse, d'animation musicale ou de karaoké, annexe à une activité de bar ou de restaurant, ou bien encore à un évènement festif ou ludique avec activité de danse, d'animation musicale ou de karaoké.
 
