@@ -16,9 +16,11 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Canada ;
 
+- les Comores ;
+
 - la Corée du Sud ;
 
-- Les États-Unis d'Amérique ;
+- les États-Unis d'Amérique ;
 
 - Hong-Kong ;
 
@@ -41,6 +43,8 @@ La zone verte mentionnée à l'article 3 comprend :
 - Singapour ;
 
 - Taïwan ;
+
+- l'Ukraine ;
 
 - le Vanuatu.
 
@@ -67,8 +71,6 @@ La zone rouge mentionnée à l'article 5 comprend :
 - le Costa Rica ;
 
 - Cuba ;
-
-- l'Inde ;
 
 - l'Indonésie ;
 
