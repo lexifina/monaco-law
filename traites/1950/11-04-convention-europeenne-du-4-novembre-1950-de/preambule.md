@@ -8,4 +8,6 @@ Réaffirmant leur profond attachement à ces libertés fondamentales qui constit
 
 Résolus, en tant que gouvernements d'États européens animés d'un même esprit et possédant un patrimoine commun d'idéal et de traditions politiques, de respect de la liberté et de prééminence du droit, à prendre les premières mesures propres à assurer la garantie collective de certains des droits énoncés dans la Déclaration universelle ;
 
+Affirmant qu'il incombe au premier chef aux Hautes Parties contractantes, conformément au principe de subsidiarité, de garantir le respect des droits et libertés définis dans la présente Convention et ses protocoles, et que, ce faisant, elles jouissent d'une marge d'appréciation, sous le contrôle de la Cour européenne des Droits de l'Homme instituée par la présente Convention,
+
 Sont convenus de ce qui suit :
