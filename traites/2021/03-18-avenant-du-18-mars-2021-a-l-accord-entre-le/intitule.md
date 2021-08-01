@@ -1,0 +1,1 @@
+Avenant du 18 mars 2021 à l'Accord entre le Gouvernement de la Principauté de Monaco et le Gouvernement de la République française relatif à la reconnaissance mutuelle des formations d'enseignement supérieur artistique (spécialité : arts plastiques), signé à Monaco
