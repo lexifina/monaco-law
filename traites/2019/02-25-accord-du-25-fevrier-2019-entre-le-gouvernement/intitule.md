@@ -1,0 +1,1 @@
+Accord du 25 février 2019 entre le Gouvernement de la Principauté de Monaco et le Gouvernement de la République française relatif au régime fiscal des dons et legs faits aux personnes publiques et aux organismes à but désintéressé
