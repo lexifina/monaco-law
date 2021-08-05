@@ -10,6 +10,8 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - l'Australie ;
 
+- Bahreïn ;
+
 - la Bosnie ;
 
 - Brunei ;
@@ -27,6 +29,8 @@ La zone verte mentionnée à l'article 3 comprend :
 - Israël ;
 
 - le Japon ;
+
+- la Jordanie ;
 
 - le Kosovo ;
 
@@ -60,11 +64,7 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - le Bangladesh ;
 
-- la Bolivie ;
-
 - le Brésil ;
-
-- le Chili ;
 
 - la Colombie ;
 
@@ -86,22 +86,14 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - le Pakistan ;
 
-- le Paraguay ;
-
 - la République démocratique du Congo ;
 
 - la Russie ;
 
 - les Seychelles ;
 
-- le Sri Lanka ;
-
 - le Suriname ;
 
 - la Tunisie ;
-
-- l'Uruguay ;
-
-- la Zambie ;
 
 - la Guyane.
