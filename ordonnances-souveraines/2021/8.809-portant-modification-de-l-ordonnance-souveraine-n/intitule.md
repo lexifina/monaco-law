@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 8.809 du 2 août 2021 portant modification de l'Ordonnance Souveraine n° 7.997 du 12 mars 2020 portant création de la Direction des Plateformes et des Ressources Numériques, relative à la création d'un Bureau des Affaires Spatiales
