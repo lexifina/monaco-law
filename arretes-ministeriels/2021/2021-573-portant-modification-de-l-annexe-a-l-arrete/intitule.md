@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-573 du 2 août 2021 portant modification de l'annexe à l'arrêté ministériel n° 2015-703 du 26 novembre 2015 portant application de l'Ordonnance Souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré, modifiée
