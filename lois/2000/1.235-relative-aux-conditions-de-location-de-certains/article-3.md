@@ -2,10 +2,22 @@
 
 Sont protégées au titre de la présente loi, dans l'ordre de priorité indiqué :
 
-- 1° les personnes de nationalité monégasque ;
+1° les personnes de nationalité monégasque ;
 
-- 2°les personnes nées d'un auteur monégasque ; les conjoints survivants de Monégasque ; les partenaires d'un contrat de vie commune survivants de Monégasque ; les personnes, pères ou mères d'un enfant mineur de nationalité monégasque ;
+2°les personnes de nationalité étrangère :
 
-- 3° les personnes nées à Monaco ou ayant fait l'objet d'une adoption plénière, qui y résident depuis leur naissance ou leur adoption, à la condition que l'un de leurs auteurs ou adoptants ait également résidé à Monaco au moment de celle-ci ; peuvent toutefois être dispensées de la condition de naissance à Monaco les personnes qui, tout en remplissant les autres conditions visées au présent chiffre, seraient nées hors de la Principauté en raison d'un cas fortuit ou pour des raisons médicales ou de force majeure ;
+- nées d'un auteur monégasque ou adoptées par une personne de nationalité monégasque et qui justifient d'au moins dix années de résidence en Principauté ;
 
-- 4° les personnes qui résident à Monaco depuis au moins quarante années sans interruption.
+- conjoints survivants d'une personne de nationalité monégasque non remariés ;
+
+- partenaires d'un contrat de vie commune survivants d'une personne de nationalité monégasque et qui justifient d'au moins dix années de résidence en Principauté et n'ayant pas conclu un nouveau contrat de vie commune ou ne s'étant pas mariés ou remariés ;
+
+- père ou mère assurant l'entretien et l'éducation d'un enfant de nationalité monégasque et dont le domicile constitue la résidence habituelle ou occasionnelle de l'enfant ;
+
+- père ou mère ayant eu, pendant au moins dix ans, la charge effective d'un enfant de nationalité monégasque et qui justifient d'au moins dix années de résidence en Principauté ;
+
+3° les personnes de nationalité étrangère telles que définies en tant qu'Enfants du Pays par l'article unique de la loi n° 1.506 du 2 juillet 2021 portant reconnaissance des « Enfants du Pays » et de leur contribution au développement de la Principauté de Monaco et dont l'un de leurs auteurs ou adoptants est également né à Monaco et y a résidé au moment de cette naissance ou de cette adoption ;
+
+4° les personnes de nationalité étrangère telles que définies en tant qu'Enfants du Pays par l'article unique de la loi n° 1.506 du 2 juillet 2021 portant reconnaissance des « Enfants du Pays » et de leur contribution au développement de la Principauté de Monaco ;
+
+5° les personnes de nationalité étrangère qui résident à Monaco depuis au moins quarante années sans interruption.

@@ -1,6 +1,6 @@
 # Article 18
 
-Le loyer est établi par référence aux loyers appliqués dans le même secteur d'habitation pour des locaux comparables relevant du même régime juridique à la date de promulgation de la présente loi, situés dans le même quartier ou un quartier voisin, dans des immeubles de qualité similaire et présentant des prestations équivalentes.
+Le loyer est établi par référence aux loyers appliqués dans le même secteur d'habitation pour des locaux de même type relevant du même régime juridique à la date de promulgation de la présente loi, situés dans le même quartier ou un quartier voisin, dans des immeubles considérés comme étant de qualité similaire et présentant des prestations équivalentes.
 
 La liste des références ayant servi à déterminer le loyer est portée à la connaissance du locataire avant la conclusion du contrat de bail.
 
