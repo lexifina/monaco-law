@@ -1,6 +1,8 @@
 # Article 2
 
-Pour l'application de la présente décision : 1) un justificatif de résultat négatif d'un test virologique de type RT-PCR pour la détection du virus SARS-CoV-2 ou d'un test antigénique permettant la détection de la protéine N dudit virus, d'au plus 48 heures, est considéré comme justifiant de l'absence de contamination par ledit virus ;
+Pour l'application de la présente décision :
+
+1) un justificatif de résultat négatif d'un test virologique de type RT-PCR pour la détection du virus SARS-CoV-2 ou d'un test antigénique permettant la détection de la protéine N dudit virus, d'au plus 72 heures, est considéré comme justifiant de l'absence de contamination par ledit virus ;
 
 2) un justificatif de statut vaccinal est considéré comme attestant d'un schéma vaccinal complet de l'un des vaccins contre la COVID-19 :
 
