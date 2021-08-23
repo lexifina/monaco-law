@@ -1,21 +1,19 @@
 # Article 8
 
-La liste des établissements, lieux et évènements mentionnée au chiffre 1 de l'article 7 est fixée comme suit :
+Toute personne âgée de seize ans ou plus est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder lorsqu'elle consomme sur place, à un établissement ayant des activités sur place de restauration, de bar, de snack, de débits de boissons, de service de petit-déjeuner, de glacier ou de salon de thé ou de café, y compris pour un évènement privé,
 
-1) les établissements listés ci-après, pour les activités culturelles, sportives, ludiques ou festives et les foires ou salons professionnels qu'ils accueillent :
+Toutefois, lorsqu'elle consomme en terrasse entièrement ouverte, la personne n'est pas tenue de présenter l'un de ces justificatifs lorsque, dans les conditions fixées à l'article 10, elle justifie soit :
 
-a) les salles d'auditions, de conférences, de réunions, de spectacles ou à usages multiples ;
+a) être de nationalité monégasque ;
 
-b) les chapiteaux, tentes et structures ;
+b) disposer d'une résidence à Monaco ;
 
-c) les établissements d'enseignement artistique et les établissements d'enseignement de la musique, de la danse et de l'art dramatique, lorsqu'ils accueillent des spectateurs ;
+c) exercer à Monaco une activité professionnelle dûment autorisée ;
 
-d) les salles de jeux ou d'appareils automatiques de jeux ;
+d) être scolarisée, étudiante ou en formation, à Monaco ;
 
-e) les établissements à vocation commerciale destinés à des expositions, des foires-expositions ou des salons ayant un caractère temporaire ;
+e) séjourner dans un établissement hôtelier de la Principauté ;
 
-f) les établissements de plein air autres que les parcs zoologiques, d'attractions et à thème ;
+f) séjourner, en qualité de passager ou de membre d'équipage, à bord d'un navire en escale ou au mouillage dans les eaux ou un port monégasques.
 
-g) les établissements sportifs couverts ;
-
-2) les évènements culturels, sportifs, ludiques ou festifs organisés dans l'espace public ou dans un lieu ouvert au public et susceptibles de donner lieu à un contrôle de l'accès des personnes.
+La personne âgée de moins de 18 ans qui justifie de l'une des qualités mentionnées aux lettres a à f de l'alinéa précédent, n'est pas tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder, lorsqu'elle consomme sur place, à un établissement ayant des activités sur place de restauration, de bar, de snack, de débits de boissons, de service de petit-déjeuner, de glacier ou de salon de thé ou de café, y compris pour un évènement privé.

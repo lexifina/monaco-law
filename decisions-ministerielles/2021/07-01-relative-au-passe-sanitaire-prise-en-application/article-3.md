@@ -4,7 +4,7 @@ Les règles relatives à l'établissement et au contrôle d'un justificatif ment
 
 1) aux déplacements entre le territoire monégasque et un pays étranger dans les conditions particulières fixées par la Décision Ministérielle du 24 février 2020, modifiée, susvisée ;
 
-2) à l'accès aux établissements, lieux et évènements mentionnés à l'article 7 dans les conditions particulières fixées par ce même article.
+2) à l'accès aux établissements, lieux et évènements mentionnés aux articles 7 et 8 dans les conditions particulières fixées par ces mêmes articles.
 
 Dans le cadre du contrôle de ces déplacements ou de cet accès, aucun autre document que l'un des justificatifs mentionnés à l'article 2 ne peut être exigé pour justifier le résultat d'un test virologique de type RT-PCR pour la détection du virus SARS-CoV-2 ou d'un test antigénique permettant la détection de la protéine N dudit virus, le statut vaccinal concernant la COVID-19 ou un certificat de rétablissement à la suite d'une contamination par ce virus.
 

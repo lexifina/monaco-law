@@ -1,11 +1,25 @@
 # Article 10
 
-En application du premier alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, est passible de la sanction prévue au chiffre 2 de l'article 29 du Code pénal :
+Pour justifier de la qualité mentionnée à l'article 8, la personne concernée est tenue de présenter soit :
 
-1) le fait, pour l'exploitant ou le responsable d'un établissement ou d'un lieu ou l'organisateur d'un évènement, mentionnés à l'article 7, de ne pas avoir refusé l'accès, selon le cas, à un visiteur, spectateur ou client ne présentant pas l'un des justificatifs mentionnés à l'article 2 lorsque cette présentation est exigée par ledit article 7 ;
+1) une carte d'identité, un passeport ou un permis de conduire monégasques, en cours de validité ;
 
-2) le fait, pour quiconque, de ne pas respecter les dispositions du dernier alinéa de l'article 3 ou celles de l'article 6.
+2) une carte de résidence monégasque, en cours de validité ;
 
-En application du deuxième alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, si les manquements mentionnés au chiffre 1 sont à nouveau verbalisés, l'amende est celle prévue au chiffre 3 de l'article 29 du Code pénal. Il en est de même pour les manquements mentionnés au chiffre 2.
+3) une pièce d'identité et soit :
 
-En application du dernier alinéa de l'article 26 de la loi n° 1.488 du 11 mai 2020, susvisée, si les manquements mentionnés au chiffre 1 sont verbalisés à plus de trois reprises dans un délai de trente jours ouvrés à compter du jour où le premier manquement a été commis, l'amende est celle prévue au chiffre 1 de l'article 26 du Code pénal. Il en est de même pour les manquements mentionnés au chiffre 2.
+a) une facture, de moins de trois mois, d'un service concessionnaire à l'adresse d'un appartement à Monaco dont la personne est locataire ou propriétaire ;
+
+b) un permis de travail à Monaco, en cours de validité ;
+
+c) une carte d'assuré social de la Caisse de Compensation des Services Sociaux, de la Caisse d'Assurance Maladie, accident et maternité des Travailleurs Indépendants ou du Service des Prestations Médicales de l'État ;
+
+d) une attestation sur l'honneur d'un employeur monégasque justifiant d'un travail ou d'un stage sur Monaco ;
+
+e) une attestation sur l'honneur de l'entreprise monégasque faisant appel à un prestataire de service extérieur à la Principauté, précisant la date, le lieu et le type de prestation effectuée en Principauté ;
+
+f) une carte d'étudiant ou de scolarité de Monaco ;
+
+g) un justificatif de réservation hôtelière en Principauté, et dont le modèle est fixé en annexe ;
+
+h) une attestation d'hébergement à bord d'un navire établie par le commandant de bord dudit navire, sur le modèle fourni par la Division de Police Maritime et Aéroportuaire de la Direction de la Sûreté Publique, et visée par ladite Division.
