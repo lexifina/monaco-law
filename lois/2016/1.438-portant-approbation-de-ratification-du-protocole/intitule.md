@@ -1,0 +1,1 @@
+Loi n° 1.438 du 2 décembre 2016 portant approbation de ratification du Protocole de modification de l'Accord entre la Principauté de Monaco et la Communauté européenne prévoyant des mesures équivalentes à celles que porte la directive 2003/48/CE du Conseil
