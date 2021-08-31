@@ -42,15 +42,15 @@ Dans la mesure où elles le prévoient expressément, les dispositions de la pr�
 
   - - assistent leur client dans la préparation ou l'exécution de transactions portant sur :
 
-  - i) l'achat et la vente de biens immeubles ou d'entreprises commerciales ;
+    - i) l'achat et la vente de biens immeubles ou d'entreprises commerciales ;
 
-  - ii) la gestion de fonds, de titres ou d'autres actifs appartenant au client ;
+    - ii) la gestion de fonds, de titres ou d'autres actifs appartenant au client ;
 
-  - iii) l'ouverture ou la gestion de comptes bancaires, d'épargne ou de portefeuilles ;
+    - iii) l'ouverture ou la gestion de comptes bancaires, d'épargne ou de portefeuilles ;
 
-  - iv) l'organisation des apports nécessaires à la constitution, à la gestion ou à la direction de sociétés ;
+    - iv) l'organisation des apports nécessaires à la constitution, à la gestion ou à la direction de sociétés ;
 
-  - v) la constitution, la gestion ou la direction de fiducies/trusts, de sociétés, de fondations ou de structures similaires ;
+    - v) la constitution, la gestion ou la direction de fiducies/trusts, de sociétés, de fondations ou de structures similaires ;
 
 - 14°) les services de surveillance, de protection et de transports de fonds ;
 

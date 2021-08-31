@@ -1,8 +1,6 @@
 # Article 44
 
-Une déclaration effectuée de bonne foi en vertu du présent Chapitre ne peut faire l'objet de poursuites sur le fondement des articles 307 et 308 du Code pénal.
-
-Aucune action en responsabilité civile ne peut être intentée, ni aucune sanction professionnelle ou mesure préjudiciable ou discriminatoire en matière d'emploi prononcée, contre un organisme ou une personne visés aux articles premier et 2, ses dirigeants ou ses préposés habilités, qui font de bonne foi une telle déclaration.
+Une déclaration effectuée de bonne foi en vertu du présent Chapitre ne peut faire l'objet de poursuites sur le fondement des articles 307 et 308 du Code pénal. Aucune action en responsabilité civile ne peut être intentée, ni aucune sanction professionnelle ou mesure préjudiciable ou discriminatoire en matière d'emploi prononcée, contre un organisme ou une personne visés aux articles premier et 2, ses dirigeants ou ses préposés habilités, qui font de bonne foi une telle déclaration.
 
 Ces dispositions sont applicables même :
 

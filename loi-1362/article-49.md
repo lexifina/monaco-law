@@ -2,9 +2,7 @@
 
 Dans le cadre de l'exécution de sa mission, le Service d'Information et de Contrôle sur les Circuits Financiers peut demander que les documents, informations ou données, conservés en application de l'article 23, quel que soit le support utilisé, lui soient communiqués.
 
-Ce droit s'exerce sur pièces ou sur place à l'égard des organismes et personnes visés à l'article premier.
-
-Lorsqu'il procède à l'examen des déclarations et informations visées à l'article 36, le Service peut adresser toute demande de renseignement complémentaire, conformément à l'article 50, et effectuer des contrôles dans les conditions prévues à l'article 54.
+Ce droit s'exerce sur pièces ou sur place à l'égard des organismes et personnes visés à l'article premier. Lorsqu'il procède à l'examen des déclarations et informations visées à l'article 36, le Service peut adresser toute demande de renseignement complémentaire, conformément à l'article 50, et effectuer des contrôles dans les conditions prévues à l'article 54.
 
 Dans ce cas, les agents du Service disposent des prérogatives énumérées à l'article 54.
 
