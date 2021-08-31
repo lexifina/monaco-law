@@ -1,7 +1,17 @@
 # Article 60
 
-Toute personne physique entrant ou sortant du territoire de la Principauté qui transporte de l'argent liquide sur elle, dans ses bagages ou dans ses moyens de transport, dont le montant total est supérieur à un montant fixé par ordonnance souveraine, est tenue de le déclarer, par écrit ou par voie électronique, à l'autorité de contrôle, au moyen du formulaire prévu à cet effet ; elle met celui-ci à disposition à des fins de contrôle.
+Toute personne physique entrant ou sortant du territoire de la Principauté en possession d'espèces ou d'instruments au porteur dont le montant total est supérieur à un montant fixé par ordonnance souveraine est tenue de les déclarer, par écrit ou par voie électronique, à l'autorité de contrôle, au moyen du formulaire prévu à cet effet.
 
-L'obligation de déclaration d'argent liquide n'est pas réputée exécutée si les informations fournies sont incorrectes ou incomplètes ou si l'argent liquide n'est pas à disposition à des fins de contrôle.
+Sont considérés comme instruments au porteur au sens de la présente loi :
 
-La notion d'argent liquide est définie par ordonnance souveraine.
+- - les instruments négociables au porteur tels que les chèques de voyage ;
+
+- - les autres instruments négociables, y compris les chèques, billets à ordre et mandats, qui sont :
+
+  - * soit endossables sans restriction ;
+
+  - * soit établis à l'ordre d'un bénéficiaire fictif ou qui se présentent sous une forme opérant transfert de la propriété de l'instrument au moment de sa cession ;
+
+- - les instruments incomplets, y compris les chèques, billets à ordre et mandats, signés mais sur lesquels le nom du bénéficiaire n'a pas été indiqué.
+
+L'autorité de contrôle et le contenu du formulaire mentionnés au premier alinéa ainsi que les modalités de la déclaration sont déterminés par ordonnance souveraine.
