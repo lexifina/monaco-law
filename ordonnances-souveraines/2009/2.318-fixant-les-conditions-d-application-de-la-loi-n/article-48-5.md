@@ -10,9 +10,9 @@
 
 - b) à exiger de la succursale ou de la filiale détenue majoritairement qu'elle fournisse des informations pertinentes aux membres d'un niveau élevé de la hiérarchie de l'établissement de crédit ou de l'établissement financier, afin qu'ils soient en mesure d'évaluer les risques de blanchiment de capitaux et de financement du terrorisme liés à l'exploitation de cette succursale ou de cette filiale détenue majoritairement et l'incidence de ces risques sur le groupe, telles que :
 
-- i) le nombre de transactions suspectes signalées au cours d'une période déterminée ;
+  - i) le nombre de transactions suspectes signalées au cours d'une période déterminée ;
 
-- ii) les données statistiques agrégées, qui fournissent une vue d'ensemble des circonstances qui ont fait naître des suspicions.
+  - ii) les données statistiques agrégées, qui fournissent une vue d'ensemble des circonstances qui ont fait naître des suspicions.
 
 2°) Les organismes et personnes visés aux chiffres 1°) à 4°) de l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, prennent des mesures supplémentaires ainsi que leurs mesures types de lutte contre le blanchiment de capitaux et le financement du terrorisme et les mesures visées au chiffre 1°) pour gérer les risques. Ces mesures supplémentaires comprennent une ou plusieurs des mesures supplémentaires énoncées aux lettres a) à c) et g) à i) de l'article 48-8.
 
