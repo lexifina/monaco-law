@@ -1,9 +1,13 @@
 # Article 35
 
-Tout agent ne pouvant exercer ses fonctions du fait d'une maladie dûment constatée est de droit mis en congé ; l'administration peut, à tout moment, faire procéder à une contre-visite des agents en congé de maladie.
+Tout agent soumis au présent statut ne pouvant exercer ses fonctions du fait de son état de santé, attesté par la production d'une prescription médicale d'interruption de travail, est de droit mis en congé de maladie ordinaire. Le Centre Hospitalier Princesse Grace peut, à tout moment, demander à la Caisse de compensation des services sociaux de procéder à un contrôle médical de l'agent en congé de maladie.
 
-L'agent en congé de maladie conserve l'intégralité de son traitement pendant une durée de trois mois ; ce traitement est réduit de moitié pendant les trois mois suivants.
+Pendant la durée de ce congé, le Centre Hospitalier Princesse Grace maintient, sous forme d'indemnité compensatrice, la rémunération de cet agent pendant les trois premiers mois, puis la moitié de cette rémunération pendant les neuf mois suivants.
 
-L'agent ayant obtenu pendant une période de douze mois consécutifs des congés de maladie d'une durée totale de six mois et ne pouvant à l'expiration de son dernier congé, reprendre l'exercice de ses fonctions est, après avis de la commission médicale instituée par l'article 36, soit maintenu en congé avec demi-traitement pendant une durée maximum de six mois, puis mis en disponibilité d'office conformément aux dispositions de l'article 75, soit sur sa demande et s'il est reconnu définitivement inapte, mis à la retraite pour inaptitude physique dans le respect des règles du titre IX du présent statut.
+Ce maintien de la rémunération par le Centre Hospitalier Princesse Grace est suspendu si l'agent refuse de se soumettre au contrôle médical mentionné au premier alinéa.
 
-Les dispositions du présent article ne sont applicables que dans le cas où l'agent intéressé ne peut bénéficier des régimes spéciaux définis aux articles 37 et 38.
+La durée totale des congés de maladie ordinaire ne peut excéder un an sur une période de trois ans.
+
+Lorsque le directeur du Centre Hospitalier Princesse Grace a été informé que l'agent a épuisé ses droits au titre du congé de maladie ordinaire ou lorsque l'état de santé de cet agent ne relève plus de sa prise en charge au titre des prestations en espèces servies par la Caisse, il saisit la commission médicale instituée par l'article 38 de l'Ordonnance Souveraine n° 13.839 du 29 décembre 1998, modifiée, susvisée, en vue de l'application, en fonction de l'état de santé de l'agent, des dispositions de l'article 37 ou 38 ou de l'alinéa suivant.
+
+Lorsque l'état de santé de l'agent ne lui permet pas de bénéficier des dispositions de l'article 37 ou 38 mais l'empêche de reprendre l'exercice de ses fonctions, cet agent, après avis de la commission médicale, bénéficie, quelle que soit l'inaptitude médicale constatée par ladite commission, des dispositions de l'article 39-1 relatives à l'aménagement ou à l'adaptation de son poste de travail et au reclassement. Si, dans le respect de ces dispositions, l'agent ne peut pas bénéficier de cet aménagement ou de cette adaptation, ni être reclassé, y compris du fait de son refus, il peut être, lorsque ses droits à la retraite ne sont pas ouverts, licencié. En cas de licenciement, l'agent a droit à l'indemnité de licenciement mentionnée à l'article 84.

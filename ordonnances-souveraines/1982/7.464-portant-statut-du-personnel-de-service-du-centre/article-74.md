@@ -1,6 +1,6 @@
 # Article 74
 
-La disponibilité est prononcée par le directeur, soit d'office, soit à la demande de l'agent intéressé.
+La disponibilité est prononcée par le directeur soit à la demande de l'agent intéressé.
 
 Le personnel féminin bénéficie, en outre, d'une disponibilité spéciale.
 
