@@ -4,19 +4,17 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - les États membres de l'Union européenne, Andorre, l'Islande, le Liechtenstein, la Norvège, Saint-Marin, la Suisse et le Vatican ;
 
-- l'Albanie ;
-
 - l'Arabie Saoudite ;
 
 - l'Australie ;
 
 - Bahreïn ;
 
-- la Bosnie ;
-
 - Brunei ;
 
 - le Canada ;
+
+- le Chili ;
 
 - les Comores ;
 
@@ -32,23 +30,17 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - la Jordanie ;
 
-- le Kosovo ;
-
 - le Liban ;
 
-- la Macédoine du Nord ;
-
-- le Monténégro ;
-
 - la Nouvelle-Zélande ;
-
-- la Serbie ;
 
 - Singapour ;
 
 - Taïwan ;
 
 - l'Ukraine ;
+
+- l'Uruguay ;
 
 - le Vanuatu.
 
@@ -59,6 +51,8 @@ La zone rouge mentionnée à l'article 5 comprend :
 - l'Afghanistan ;
 
 - l'Afrique du Sud ;
+
+- l'Algérie ;
 
 - l'Argentine ;
 
@@ -72,9 +66,15 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - Cuba ;
 
+- la Géorgie ;
+
 - l'Indonésie ;
 
+- l'Iran ;
+
 - les Maldives ;
+
+- le Maroc ;
 
 - le Mozambique ;
 
@@ -95,5 +95,7 @@ La zone rouge mentionnée à l'article 5 comprend :
 - le Suriname ;
 
 - la Tunisie ;
+
+- la Turquie ;
 
 - la Guyane.

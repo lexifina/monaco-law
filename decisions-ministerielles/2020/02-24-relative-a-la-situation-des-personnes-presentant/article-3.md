@@ -1,6 +1,6 @@
 # Article 3
 
-Toute personne âgée de seize ans ou plus souhaitant se déplacer à destination du territoire monégasque en provenance d'un pays qui, compte tenu de sa situation sanitaire, caractérisée par une faible circulation du virus, est classé dans la zone verte définie à l'article 6 est tenue de présenter l'un des trois justificatifs mentionnés à l'article 2 de la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire.
+Toute personne âgée de seize ans ou plus souhaitant se déplacer à destination du territoire monégasque en provenance ou résidant habituellement dans un pays qui, compte tenu de sa situation sanitaire, caractérisée par une faible circulation du virus, est classé dans la zone verte définie à l'article 6 est tenue de présenter l'un des trois justificatifs mentionnés à l'article 2 de la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire.
 
 Toutefois, l'obligation mentionnée à l'alinéa précédent ne s'applique pas, à condition qu'ils ne soient pas hébergés à Monaco lors de leur présence sur le territoire national :
 
