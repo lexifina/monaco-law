@@ -14,7 +14,7 @@ L'exploitant ou le responsable de toute activité ou de tout évènement mention
 
 6) imposer aux clients de consommer à leur table toute nourriture ou boisson ;
 
-7) limiter le nombre maximal de personnes à table à douze ;
+7) limiter le nombre maximal de personnes à table à douze en assurant un espacement de 50 centimètres en latéral entre les convives ; limiter ce nombre à deux pour les tables de type « bistro » ;
 
 8) séparer les tables soit d'au moins 1 mètre, soit par des éléments de séparation entre les tables d'une hauteur suffisante ;
 
