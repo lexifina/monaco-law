@@ -8,7 +8,7 @@ Toute personne âgée de seize ans ou plus est tenue de présenter l'un des just
 
 3) à un cocktail ou à une pause-café en configuration debout organisée dans le cadre d'un événement, y compris privé, se déroulant dans un lieu ou établissement recevant du public.
 
-Dans le cadre d'un spectacle et quel que soit le nombre de visiteurs ou de spectateurs accueillis, le personnel en contact direct avec les artistes et ces derniers sont tenus de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder à l'établissement ou au lieu où se déroule ce spectacle.
+Le responsable de l'établissement ou du lieu accueillant une activité de spectacle peut subordonner l'accès à cet établissement ou à ce lieu à la présentation de l'un des justificatifs mentionnés à l'article 2 pour le personnel en contact direct avec les artistes, quel que soit le nombre de visiteurs ou de spectateurs accueillis.
 
 Le responsable de l'établissement ou du lieu accueillant une activité de congrès ou de salon professionnel peut subordonner l'accès à cet établissement ou à ce lieu à la présentation de l'un des justificatifs mentionnés à l'article 2 pour :
 
