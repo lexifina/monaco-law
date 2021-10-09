@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-643 du 5 octobre 2021 modifiant l'arrêté ministériel n° 94-85 du 11 février 1994 relatif aux conditions d'établissement, de délivrance et de validité des permis de conduire, modifié
