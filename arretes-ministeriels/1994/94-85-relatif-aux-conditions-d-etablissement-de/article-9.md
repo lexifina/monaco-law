@@ -1,11 +1,7 @@
 # Article 9
 
-En cas d'échec, le candidat ne peut subir de nouvelles épreuves qu'à l'expiration d'un délai de :
+En cas d'échec à l'épreuve pratique de l'examen du permis de conduire, le candidat ne peut se présenter à une nouvelle épreuve qu'à l'expiration d'un délai de dix jours à compter de son ajournement.
 
-- huit jours, à la suite d'un premier ajournement ;
-
-- un mois, à la suite d'un deuxième ajournement, ainsi que des ajournements suivants.
-
-Toutefois, lorsque dix-huit mois se sont écoulés entre la dernière épreuve subie par un candidat et son nouvel examen, ce candidat est considéré comme demandant pour la première fois à subir les épreuves ; s'il échoue à nouveau, les délais prévus ci-dessus lui seront successivement applicables, sans qu'il soit tenu compte du ou des échecs antérieurs.
+Lorsque vingt-quatre mois se sont écoulés à la suite de la dernière présentation à une épreuve par un candidat sans nouvel examen, ce candidat est considéré comme demandant pour la première fois à présenter les épreuves et doit reconstituer un dossier d'inscription.
 
 En cas d'échecs successifs à cinq épreuves pratiques, le bénéfice de la réussite à l'épreuve théorique est perdu pour le candidat.
