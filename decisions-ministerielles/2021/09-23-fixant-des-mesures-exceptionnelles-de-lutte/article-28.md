@@ -8,7 +8,7 @@ L'exploitant ou le responsable de toute activité sur place de restauration, de 
 
 3) les clients ne sont pas tenus au respect de l'obligation de port du masque prévue par l'article 3 lorsqu'ils sont assis à leur table ;
 
-4) limiter le nombre maximal de personnes à table à douze en assurant un espacement de 50 centimètres en latéral entre les convives ; limiter ce nombre à deux pour les tables de type « bistro » ;
+4) limiter le nombre maximal de personnes à table à douze ;
 
 5) séparer les tables soit d'au moins 1 mètre, soit par des éléments de séparation entre les tables d'une hauteur suffisante ;
 
