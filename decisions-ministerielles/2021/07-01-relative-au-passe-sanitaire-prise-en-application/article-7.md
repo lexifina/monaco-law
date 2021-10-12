@@ -10,6 +10,8 @@ Toute personne âgée de seize ans ou plus est tenue de présenter l'un des just
 
 Le responsable de l'établissement ou du lieu accueillant une activité de spectacle peut subordonner l'accès à cet établissement ou à ce lieu à la présentation de l'un des justificatifs mentionnés à l'article 2 pour le personnel en contact direct avec les artistes, quel que soit le nombre de visiteurs ou de spectateurs accueillis.
 
+Le responsable d'un établissement de santé ou d'une structure d'hébergement collectif pour personnes âgées peut subordonner l'accès à cet établissement ou à cette structure à la présentation de l'un des justificatifs mentionnés à l'article 2 pour les visiteurs et, sauf urgence, pour les accompagnants.
+
 Le responsable de l'établissement ou du lieu accueillant une activité de congrès ou de salon professionnel peut subordonner l'accès à cet établissement ou à ce lieu à la présentation de l'un des justificatifs mentionnés à l'article 2 pour :
 
 1) le personnel, quel que soit le nombre de visiteurs accueillis ;
