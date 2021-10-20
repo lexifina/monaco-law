@@ -6,6 +6,8 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - l'Arabie Saoudite ;
 
+- l'Argentine ;
+
 - l'Australie ;
 
 - Bahreïn ;
@@ -64,13 +66,9 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - l'Iran ;
 
-- les Maldives ;
-
 - le Pakistan ;
 
 - la Russie ;
-
-- les Seychelles ;
 
 - le Suriname ;
 
