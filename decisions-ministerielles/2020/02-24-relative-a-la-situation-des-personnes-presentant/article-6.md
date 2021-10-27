@@ -12,8 +12,6 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - Bahreïn ;
 
-- Brunei ;
-
 - le Canada ;
 
 - le Chili ;
@@ -42,8 +40,6 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Sénégal ;
 
-- Singapour ;
-
 - Taïwan ;
 
 - l'Uruguay ;
@@ -64,11 +60,15 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - la Géorgie ;
 
-- l'Iran ;
+- la Moldavie ;
+
+- le Monténégro ;
 
 - le Pakistan ;
 
 - la Russie ;
+
+- la Serbie ;
 
 - le Suriname ;
 
