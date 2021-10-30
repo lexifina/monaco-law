@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-682 du 22 octobre 2021 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2020-2021
