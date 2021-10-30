@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2020-747 du 4 novembre 2020 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2020-2021
