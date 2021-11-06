@@ -4,9 +4,9 @@ Les avantages en nature à prendre en considération pour la détermination des 
 
 Nourriture :
 
-Un repas au cours d'une journée : 3,65 euro(s)
+Un repas au cours d'une journée : 3,73 euro(s)
 
-Deux repas au cours d'une journée : 7,30 euro(s)
+Deux repas au cours d'une journée : 7,46 euro(s)
 
 Logement pour les salariés des catégories suivantes :
 
@@ -20,8 +20,10 @@ Logement pour les salariés des catégories suivantes :
 
 * Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
 
-Par semaine : 18,25 euro(s)
+Par semaine : 18,65 euro(s)
 
-Par mois : 73,00 euro(s)
+Par mois : 74,60 euro(s)
 
-Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé. La valeur des avantages relatifs à la nourriture pour le personnel rémunéré au mois représente trente fois la valeur fixée pour un jour.
+Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé.
+
+La valeur des avantages relatifs à la nourriture pour le personnel rémunéré au mois représente trente fois la valeur fixée pour un jour.
