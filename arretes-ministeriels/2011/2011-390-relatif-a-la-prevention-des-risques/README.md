@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2011-390 du 12 juillet 2011 relatif à la prévention des risques professionnels liés à l'alcool
 
-Version en vigueur au 16 juillet 2011.
+Version en vigueur au 6 novembre 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2011/07-12-2011-390@2011.07.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2011/07-12-2011-390@2021.11.06/
 
 | | |
 | --- | --- |

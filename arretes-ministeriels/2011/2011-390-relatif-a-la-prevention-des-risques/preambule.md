@@ -4,4 +4,4 @@ Vu la loi n° 711 du 11 décembre 1961 sur le règlement intérieur des entrepri
 
 Vu l'ordonnance n° 3.706 du 5 juillet 1948 fixant les conditions d'hygiène et de sécurité du travail ;
 
-Vu l'Ordonnance Souveraine n° 2.862 du 9 juillet 1962 portant application des dispositions de l'article 7 de la loi n° 711 du 18 décembre 1961 sur le règlement intérieur des entreprises
+Vu l'ordonnance souveraine n° 2.862 du 9 juillet 1962 portant application des dispositions de l'article 7 de la loi n° 711 du 18 décembre 1961 sur le règlement intérieur des entreprises
