@@ -8,4 +8,4 @@ Peuvent bénéficier de l'immatriculation de véhicules :
 
 - 2° Pour un usage professionnel, les personnes physiques ou morales autorisées à exercer et exerçant effectivement une activité professionnelle, commerciale ou industrielle, à l'exclusion des sociétés civiles immobilières.
 
-La mention »véhicules de service« sera inscrite sur le certificat d'immatriculation des véhicules d'entreprises.
+La mention « véhicules de service » sera inscrite sur le certificat d'immatriculation des véhicules d'entreprises.
