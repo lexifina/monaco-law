@@ -1,6 +1,6 @@
 # Article 1er
 
-a) Les candidats au permis de conduire subissent devant l'Inspecteur des permis de conduire ou son adjoint, et conformément aux dispositions du Code de la Route, un examen comprenant :
+Seuls les candidats préalablement inscrits auprès d'une école de conduite sont éligibles à se présenter devant l'Inspecteur des permis de conduire ou son adjoint et conformément aux dispositions du Code de la route, pour passer un examen comprenant :
 
 - - Une épreuve théorique d'admissibilité portant sur leur connaissance des règlements concernant la circulation et la conduite du véhicule ainsi que sur le comportement du conducteur.
 
@@ -137,6 +137,10 @@ b) Quadricycle léger à moteur
 13° Véhicules de la catégorie DE :
 
 - - Les épreuves sont identiques à celles de la catégorie D ; seul diffère le véhicule d'examen (l'ensemble doit comprendre un véhicule et une remorque attelée correspondants à la catégorie).
+
+Lors de l'épreuve pratique, les candidats doivent être accompagnés par une personne se prévalant d'un lien de nature professionnelle avec l'établissement d'enseignement pour lequel la place d'examen a été réservée.
+
+En outre, la personne accompagnateur doit être titulaire du permis de conduire en cours de validité de la catégorie du véhicule présenté.
 
 Les candidats à un permis de conduire peuvent demander à subir l'épreuve pratique sur un véhicule muni d'un embrayage automatique ou d'un changement de vitesse automatique. En cas de succès à l'examen, les candidats reçoivent un permis de conduire comportant la mention restrictive valable seulement pour la conduite des véhicules munis d'un embrayage automatique ou d'un changement de vitesse automatique. Cette mention codifiée de cette restriction est portée sur le permis.
 
