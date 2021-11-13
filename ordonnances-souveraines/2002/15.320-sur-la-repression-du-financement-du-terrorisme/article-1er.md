@@ -4,9 +4,9 @@ Pour l'application de la présente ordonnance :
 
 - les termes et expressions « fonds », « installation gouvernementale ou publique », « produits » ont le sens qui leur est donné par l'article premier de la Convention internationale des Nations Unies pour la répression du financement du terrorisme adoptée à New York le 9 décembre 1999;
 
-- par « acte de terrorisme » on entend :
+- par »acte de terrorisme' on entend :
 
-- * tout acte visé aux articles 391-1, 391-3 à 391-6 et 391-8 du Code pénal ;
+- * tout acte visé au Titre III du Livre III du Code pénal ou toute provocation publique à commettre un acte de terrorisme visée aux articles 15 et 16 de la loi n° 1.299 du 15 juillet 2005, modifiée, susvisée ;
 
 - * tout acte qui constitue une infraction dans le cadre et selon la définition figurant dans l'un des traités suivants :
 

@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 15.320 du 8 avril 2002 sur la répression du financement du terrorisme
 
-Version en vigueur au 10 décembre 2011.
+Version en vigueur au 13 novembre 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2002/04-08-15.320@2011.12.10/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2002/04-08-15.320@2021.11.13/
 
 | | |
 | --- | --- |
