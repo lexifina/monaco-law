@@ -8,8 +8,4 @@ Si cette personne ne peut présenter aucun de ces justificatifs, elle est alors 
 
 2) présenter le justificatif mentionné au chiffre 1 de l'article 2 de la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire, modifiée ;
 
-3) consentir soit :
-
-a) à s'isoler pendant dix jours puis jusqu'à ce qu'un test virologique de type RT-PCR établisse qu'elle n'est pas ou plus porteuse du virus ;
-
-b) à présenter le résultat négatif de deux tests virologiques de type RT-PCR pour la détection du virus SARS-CoV-2, l'un réalisé dans les vingt-quatre heures suivant son arrivée et l'autre réalisé cinq à sept jours plus tard.
+3) s'isoler pendant dix jours puis jusqu'à ce qu'un test virologique de type RT-PCR établisse qu'elle n'est pas ou plus porteuse du virus.

@@ -10,4 +10,4 @@ Toutefois, l'obligation mentionnée à l'alinéa précédent ne s'applique pas, 
 
 - aux professionnels d'entreprises établies à l'étranger venant sur le territoire national pour y effectuer une prestation dont l'urgence ou la fréquence est incompatible avec la réalisation du test mentionné au chiffre 1 de l'article 2 de la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire, modifiée ;
 
-- aux professionnels du transport routier venant sur le territoire national dans l'exercice de leur activité, modifiée.
+- aux professionnels du transport routier venant sur le territoire national dans l'exercice de leur activité.

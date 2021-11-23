@@ -52,6 +52,8 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - l'Afghanistan ;
 
+- la Biélorussie ;
+
 - le Brésil ;
 
 - le Costa Rica ;
@@ -72,4 +74,6 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - le Suriname ;
 
-- la Turquie.
+- la Turquie ;
+
+- l'Ukraine.
