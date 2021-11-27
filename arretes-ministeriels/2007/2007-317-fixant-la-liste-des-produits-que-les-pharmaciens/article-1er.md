@@ -10,7 +10,7 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 - 4° les médicaments vétérinaires, les produits à usage vétérinaire, les objets de pansement, les articles et les appareils de soins utilisés en médecine vétérinaire, ainsi que les produits réactifs et appareils destinés au diagnostic médical ou à la mesure de toute caractéristique physique ou physiologique chez l'animal ;
 
-- 5° Les dispositifs médicaux à usage individuel y compris les assistants d'écoute préréglés d'une puissance maximale de 20 décibels, à l'exception des dispositifs médicaux implantables ;
+- 5° Les dispositifs médicaux à usage individuel y compris les assistants d'écoute préréglés d'une puissance maximale de 20 décibels, les dispositifs intra-utérins, les diaphragmes, les capes et les viscosuppléments, à l'exception des autres dispositifs médicaux implantables ;
 
 - 6° les plantes médicinales, aromatiques et leurs dérivés, en l'état ou sous forme de préparations, à l'exception des cigarettes ou autres produits à fumer ;
 
@@ -36,7 +36,7 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 - 17° les produits chimiques définis ou les drogues destinés à des usages non thérapeutiques à condition que ceux-ci soient nettement séparés des médicaments ;
 
-- 18° les produits et appareils de désinfection, de désinsectisation et de dératisation, ainsi que les produits phytosanitaires ;
+- 18° Les appareils de désinfection, de désinsectisation et de dératisation, les produits biocides utilisés pour l'hygiène humaine (type 1), les produits utilisés pour l'hygiène vétérinaire (type 3), les produits utilisés pour désinfecter l'eau potable destinée aux hommes et aux animaux (type 5), les rodenticides (type 14), les insecticides, acaricides et produits utilisés pour lutter contre les arthropodes (type 18), les répulsifs et appâts (type 19), conformes aux dispositions du règlement (CE) n° 528/2012 du 22 mai 2012 concernant la mise à disposition sur le marché et l'utilisation des produits biocides, ainsi que les produits phytosanitaires ;
 
 - 19° les équipements de protection individuelle de protection solaire ;
 
@@ -46,4 +46,8 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 - 22° les équipements de protection individuelle respiratoires ;
 
-- 23° les éthylotests.
+- 23° les éthylotests ;
+
+- 24° Les supports d'information relatifs à la prévention, à l'éducation pour la santé et au bon usage du médicament ;
+
+- 25° Les masques non sanitaires fabriqués selon un processus industriel et répondant aux spécifications techniques applicables.
