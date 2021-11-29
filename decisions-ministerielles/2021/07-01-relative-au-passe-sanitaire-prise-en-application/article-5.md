@@ -22,7 +22,7 @@ b) les officiers et agents de police judiciaire ;
 
 3) de la pratique d'une activité sportive mentionnée à l'article 3 :
 
-a) les associations et fédérations sportives et les responsables ou exploitants des salles de sport lorsqu'ils ont subordonné cette pratique à la présentation desdits justificatifs conformément aux dispositions de l'article 8-1 ;
+a) les associations et fédérations sportives et les responsables ou exploitants des salles de sport lorsqu'ils ont subordonné cette pratique à la présentation desdits justificatifs conformément aux dispositions de l'article 9 ;
 
 b) les officiers et agents de police judiciaire.
 

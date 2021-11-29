@@ -1,25 +1,21 @@
 # Article 10
 
-Pour justifier de la qualité mentionnée à l'article 8, la personne concernée est tenue de présenter soit :
+La liste des établissements, lieux et évènements mentionnée au chiffre 1 de l'article 7 est fixée comme suit :
 
-1) une carte d'identité, un passeport ou un permis de conduire monégasques, en cours de validité ;
+1) les établissements listés ci-après, pour les activités culturelles, sportives, ludiques ou festives et les foires ou salons professionnels qu'ils accueillent :
 
-2) une carte de résidence monégasque, en cours de validité ;
+a) les salles d'auditions, de conférences, de réunions, de spectacles ou à usages multiples ;
 
-3) une pièce d'identité et soit :
+b) les chapiteaux, tentes et structures ;
 
-a) une facture, de moins de trois mois, d'un service concessionnaire à l'adresse d'un appartement à Monaco dont la personne est locataire ou propriétaire ;
+c) les établissements d'enseignement artistique et les établissements d'enseignement de la musique, de la danse et de l'art dramatique, lorsqu'ils accueillent des spectateurs ;
 
-b) un permis de travail à Monaco, en cours de validité ;
+d) les salles de jeux ou d'appareils automatiques de jeux ;
 
-c) une carte d'assuré social de la Caisse de Compensation des Services Sociaux, de la Caisse d'Assurance Maladie, accident et maternité des Travailleurs Indépendants ou du Service des Prestations Médicales de l'État ;
+e) les établissements à vocation commerciale destinés à des expositions, des foires-expositions ou des salons ayant un caractère temporaire ;
 
-d) une attestation sur l'honneur d'un employeur monégasque justifiant d'un travail ou d'un stage sur Monaco ;
+f) les établissements de plein air autres que les parcs zoologiques, d'attractions et à thème ;
 
-e) une attestation sur l'honneur de l'entreprise monégasque faisant appel à un prestataire de service extérieur à la Principauté, précisant la date, le lieu et le type de prestation effectuée en Principauté ;
+g) les établissements sportifs couverts ;
 
-f) une carte d'étudiant ou de scolarité de Monaco ;
-
-g) un justificatif de réservation hôtelière en Principauté, et dont le modèle est fixé en annexe ;
-
-h) une attestation d'hébergement à bord d'un navire établie par le commandant de bord dudit navire, sur le modèle fourni par la Division de Police Maritime et Aéroportuaire de la Direction de la Sûreté Publique, et visée par ladite Division.
+2) les évènements culturels, sportifs, ludiques ou festifs organisés dans l'espace public ou dans un lieu ouvert au public et susceptibles de donner lieu à un contrôle de l'accès des personnes.
