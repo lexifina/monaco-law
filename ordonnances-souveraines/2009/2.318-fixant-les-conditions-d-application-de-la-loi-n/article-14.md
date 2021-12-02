@@ -20,11 +20,11 @@ Si les représentants des personnes morales sont des personnes morales, le bén�
 
 En cas de démembrement de propriété entre un nu-propriétaire et un usufruitier, il convient de considérer comme bénéficiaires effectifs :
 
-- les personnes physiques ayant la qualité de nu-propriétaire qui, en dernier ressort, possèdent directement ou indirectement au moins 25% du capital ou des droits de vote de la personne morale ;
+- - les personnes physiques ayant la qualité de nu-propriétaire qui, en dernier ressort, possèdent directement ou indirectement au moins 25% du capital ou des droits de vote de la personne morale ;
 
-- les personnes physiques ayant la qualité d'usufruitiers qui, en dernier ressort, jouissent de l'usage et contrôlent directement ou indirectement au moins 25% du capital ou des droits de vote de la personne morale ;
+- - les personnes physiques ayant la qualité d'usufruitiers qui, en dernier ressort, jouissent de l'usage et contrôlent directement ou indirectement au moins 25% du capital ou des droits de vote de la personne morale ;
 
-- les personnes physiques qui exercent effectivement par tout autre moyen, un pouvoir de contrôle sur le capital ou sur les organes de gestion, d'administration ou de direction de la société ou sur l'assemblée générale de ses associés.
+- - les personnes physiques qui exercent effectivement par tout autre moyen, un pouvoir de contrôle sur le capital ou sur les organes de gestion, d'administration ou de direction de la société ou sur l'assemblée générale de ses associés.
 
 Les professionnels prennent les mesures raisonnables pour vérifier la liste des bénéficiaires effectifs visés au premier tiret du premier alinéa au moyen de tout document probant.
 
