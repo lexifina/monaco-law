@@ -8,17 +8,17 @@ L'échange d'appartements est autorisé sous réserve que :
 
 - dans le cadre d'un échange d'appartements de même catégorie, le montant de l'Aide Nationale au Logement ne saurait excéder la somme globale versée avant l'opération d'échange ;
 
-- dans le cadre d'un échange d'appartements de catégories différentes, le montant de l'Aide Nationale au Logement ne saurait excéder soit la somme globale versée avant l'opération d'échange soit les moyennes octroyées pour les logements domaniaux, au titre de l'année 2020, pour chaque type de logement et qui s'appliqueront pour l'année 2021 :
+- dans le cadre d'un échange d'appartements de catégories différentes, le montant de l'Aide Nationale au Logement ne saurait excéder soit la somme globale versée avant l'opération d'échange soit les moyennes octroyées pour les logements domaniaux, au titre de l'année 2021, pour chaque type de logement et qui s'appliqueront pour l'année 2022 :
 
-- studio : 277,00euro(s)
+- studio : 294,00 euro(s)
 
 - 2 pièces : 356,00 euro(s)
 
-- 3 pièces : 368,00 euro(s)
+- 3 pièces : 377,00 euro(s)
 
-- 4 pièces : 691,00euro(s)
+- 4 pièces : 657,00euro(s)
 
-- 5 pièces : 1 037,00 euro(s)
+- 5 pièces : 1 051,00 euro(s)
 
 étant précisé que dans l'hypothèse où un co-échangeur est logé dans un appartement excédant son besoin normal, le montant de l'Aide Nationale au Logement retenu pour l'établissement de l'incidence financière est arrêté sans application du coefficient de pondération proportionnel au nombre de pièces qui satisfait le besoin normal de son foyer.
 
