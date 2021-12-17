@@ -2,7 +2,7 @@
 
 Les tests mentionnés à l'article 2 ne peuvent être réalisés que sur les personnes suivantes :
 
-1) les personnes asymptomatiques, hors personnes contact ou personnes détectées au sein d'un cluster ;
+1) les personnes asymptomatiques ;
 
 2) les personnes symptomatiques pour lesquelles sont cumulativement remplies les conditions d'éligibilité suivantes :
 
