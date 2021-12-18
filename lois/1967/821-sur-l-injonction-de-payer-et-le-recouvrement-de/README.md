@@ -1,8 +1,8 @@
 # Loi n° 821 du 23 juin 1967 sur l'injonction de payer et le recouvrement de certaines créances
 
-Version en vigueur au 26 juin 1971.
+Version en vigueur au 18 décembre 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1967/06-23-821@1971.06.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1967/06-23-821@2021.12.18/
 
 | | |
 | --- | --- |
