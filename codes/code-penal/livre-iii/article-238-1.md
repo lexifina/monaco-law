@@ -4,7 +4,7 @@ Les violences n'ayant entraîné aucune maladie ou incapacité totale de travail
 
 - 1° sur le conjoint, le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation ou sur toute autre personne vivant avec l'auteur sous le même toit ou y ayant vécu durablement ;
 
-- 2° sur un mineur ou sur toute personne dont la vulnérabilité ou l'état de dépendance était apparent ou connu de l'auteur ;
+- 2° sur un mineur, un élève d'un établissement d'enseignement public ou privé au sein dudit établissement, à ses abords ou à l'occasion d'un transport scolaire, ou sur toute personne dont la vulnérabilité ou l'état de dépendance était apparent ou connu de l'auteur ;
 
 - 3° sur un juré, un avocat ou toute autre personne chargée d'une mission de service public, dans l'exercice ou du fait de ses fonctions, lorsque la qualité de la victime était apparente ou connue de l'auteur ;
 

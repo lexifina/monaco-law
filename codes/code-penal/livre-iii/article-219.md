@@ -12,4 +12,4 @@ Les biens et capitaux d'origine illicite peuvent également être confisqués lo
 
 La confiscation pourra être prononcée sans préjudice des droits des tiers.
 
-Le Procureur Général procédera aux formalités d'enregistrement et de publicité nécessaires
+Le Procureur Général procédera aux formalités d'enregistrement et de publicité nécessaires.
