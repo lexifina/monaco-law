@@ -12,21 +12,21 @@ Au terme de ce délai, le permis étranger n'est plus valable et son titulaire p
 
 L'échange est effectué sous les conditions suivantes :
 
-- 1° - La demande d'échange est sollicitée dans le délai d'un an, à compter de l'acquisition de la résidence normale en Principauté de son titulaire ;
+1° - La demande d'échange est sollicitée dans le délai d'un an, à compter de l'acquisition de la résidence normale en Principauté de son titulaire ;
 
-- 2° - Le permis de conduire a été délivré par l'un des États figurant dans la liste fixée par arrêté ministériel ;
+2° - Le permis de conduire a été délivré par l'un des États figurant dans la liste fixée par arrêté ministériel ;
 
-- 3° - Le permis présenté et la catégorie ou sous-catégorie sollicitée sont en cours de validité au moment de la demande d'échange ;
+3° - Le permis présenté et la catégorie ou sous-catégorie sollicitée sont en cours de validité au moment de la demande d'échange ;
 
-- 4° - La catégorie ou la sous-catégorie de permis sollicitée, mentionnée dans la liste susvisée, a été délivrée à l'issue au moins d'une épreuve pratique de conduite ;
+4° - La catégorie ou la sous-catégorie de permis sollicitée, mentionnée dans la liste susvisée, a été délivrée à l'issue au moins d'une épreuve pratique de conduite ;
 
-- 5° - Le permis doit être rédigé en français ou, si nécessaire, être accompagné d'une traduction officielle en français ;
+5° - Le permis doit être rédigé en français ou, si nécessaire, être accompagné d'une traduction officielle en français ;
 
-- 6° - Son titulaire a l'âge minimal requis pour conduire en Principauté les véhicules de la catégorie ou sous-catégorie équivalente de son permis de conduire ;
+6° - Son titulaire a l'âge minimal requis pour conduire en Principauté les véhicules de la catégorie ou sous-catégorie équivalente de son permis de conduire ;
 
-- 7° - Son titulaire n'a pas fait l'objet, sur le territoire qui a délivré le permis de conduire, d'une mesure de suspension, de retrait ou d'annulation du droit de conduire ;
+7° - Son titulaire n'a pas fait l'objet, sur le territoire qui a délivré le permis de conduire, d'une mesure de suspension, de retrait ou d'annulation du droit de conduire ;
 
-- 8° - Son titulaire ne doit pas avoir fait l'objet d'une mesure d'interdiction du droit de faire usage, sur le territoire de la Principauté, de son permis de conduire au moment de sa demande.
+8° - Son titulaire ne doit pas avoir fait l'objet d'une mesure d'interdiction du droit de faire usage, sur le territoire de la Principauté, de son permis de conduire au moment de sa demande.
 
 Si la condition mentionnée au 1° ou au 4° n'est pas remplie, le demandeur doit se soumettre, pour chacune des catégories ou sous-catégories, à un contrôle des aptitudes à la conduite d'un véhicule défini par arrêté ministériel qui, en cas de succès, lui donne droit à l'échange de son permis.
 

@@ -10,11 +10,11 @@ Il en sera de même dans le cas où l'infraction aura été la cause de blessure
 
 Les infractions aux dispositions de l'article 11 seront punies :
 
-- - pour un dépassement de vitesse inférieur à 30 kilomètres à l'heure, de l'amende prévue au chiffre 1 de l'article 29 du Code pénal ;
+- pour un dépassement de vitesse inférieur à 30 kilomètres à l'heure, de l'amende prévue au chiffre 1 de l'article 29 du Code pénal ;
 
-- - pour un dépassement de vitesse supérieur ou égal à 30 kilomètres à l'heure et inférieur à 50 kilomètres à l'heure, de l'amende prévue au chiffre 2 de l'article 29 du Code pénal ;
+- pour un dépassement de vitesse supérieur ou égal à 30 kilomètres à l'heure et inférieur à 50 kilomètres à l'heure, de l'amende prévue au chiffre 2 de l'article 29 du Code pénal ;
 
-- - pour un dépassement de vitesse supérieur ou égal à 50 kilomètres à l'heure, de l'amende prévue au chiffre 3 de l'article 29 du Code pénal.
+- pour un dépassement de vitesse supérieur ou égal à 50 kilomètres à l'heure, de l'amende prévue au chiffre 3 de l'article 29 du Code pénal.
 
 Les infractions aux dispositions des articles 4, alinéa 2, 5 et 39, en ce qui concerne les signaux lumineux de circulation, 47 à 53, 64 à 67, 70 à 100, 111, 112, 115, 132, 136 à 140, 143 à 147, 149, 150, 154 à 155, 170, 172 2°/, 175 bis, 181 à 182 bis, 182-3, 182-8, 182-10 et 182-15 ou aux arrêtés pris en vue de leur application seront punies d'une amende de 15 à 300 euros.
 
@@ -40,6 +40,6 @@ La mise en fourrière est le transfert d'un véhicule, aux frais de son proprié
 
 La mise en fourrière est réputée effective dans les cas suivants :
 
-- 1° à partir du moment où deux roues au moins du véhicule ont quitté le sol, lorsque le transfert de véhicule vers la fourrière est réalisé au moyen d'un véhicule d'enlèvement ;
+1° à partir du moment où deux roues au moins du véhicule ont quitté le sol, lorsque le transfert de véhicule vers la fourrière est réalisé au moyen d'un véhicule d'enlèvement ;
 
-- 2° à partir du commencement du déplacement du véhicule vers la fourrière, quel que soit le procédé utilisé à cet effet.
+2° à partir du commencement du déplacement du véhicule vers la fourrière, quel que soit le procédé utilisé à cet effet.
