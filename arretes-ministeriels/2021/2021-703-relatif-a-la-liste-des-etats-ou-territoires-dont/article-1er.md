@@ -4,19 +4,35 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 * Afghanistan
 
+* Albanie
+
 * Bahamas
 
 * Barbade
 
 * Botswana
 
+* Burkina Faso
+
 * Cambodge
 
 * Ghana
 
+* Haïti
+
+* Îles Caïmans
+
 * Irak
 
 * Jamaïque
+
+* Jordanie
+
+* Mali
+
+* Malte
+
+* Maroc
 
 * Maurice
 
@@ -30,12 +46,20 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 * Panama
 
+* Philippines
+
+* Sénégal
+
+* Soudan du Sud
+
 * Syrie
 
 * Trinité-et-Tobago
+
+* Turquie
 
 * Vanuatu
 
 * Yémen
 
-* Zimbabwe.
+* Zimbabwe
