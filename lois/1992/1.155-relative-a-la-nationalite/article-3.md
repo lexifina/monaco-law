@@ -1,6 +1,6 @@
 # Article 3
 
-L'étrangère qui contracte mariage avec un Monégasque ou l'étranger qui contracte mariage avec une Monégasque peut, dans des conditions fixées par ordonnance souveraine, acquérir la nationalité monégasque par déclaration, à l'expiration d'un délai de dix ans à compter de la célébration du mariage, à condition :
+L'étrangère qui contracte mariage avec un Monégasque ou l'étranger qui contracte mariage avec une Monégasque peut, dans des conditions fixées par ordonnance souveraine, acquérir la nationalité monégasque par déclaration, à l'expiration d'un délai de vingt ans à compter de la célébration du mariage, à condition :
 
 - - que la communauté de vie avec son conjoint monégasque n'ait pas cessé au moment de la demande, sauf veuvage non suivi de remariage ;
 

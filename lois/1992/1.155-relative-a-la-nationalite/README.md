@@ -1,8 +1,8 @@
 # Loi n° 1.155 du 18 décembre 1992 relative à la nationalité
 
-Version en vigueur au 29 juin 2019.
+Version en vigueur au 18 décembre 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1992/12-18-1.155@2019.06.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1992/12-18-1.155@2021.12.18/
 
 | | |
 | --- | --- |
