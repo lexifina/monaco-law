@@ -1,8 +1,8 @@
 # Loi n° 188 du 18 juillet 1934 relative aux fonctions publiques
 
-Version en vigueur au 3 août 1934.
+Version en vigueur au 18 décembre 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1934/07-18-188@1934.08.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1934/07-18-188@2021.12.18/
 
 | | |
 | --- | --- |
