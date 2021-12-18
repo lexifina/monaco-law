@@ -1,8 +1,8 @@
 # Loi n° 740 du 25 mars 1963 relative aux mineurs délinquants
 
-Version en vigueur au 4 janvier 2003.
+Version en vigueur au 18 décembre 2021.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1963/03-25-740@2003.01.04/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1963/03-25-740@2021.12.18/
 
 | | |
 | --- | --- |
