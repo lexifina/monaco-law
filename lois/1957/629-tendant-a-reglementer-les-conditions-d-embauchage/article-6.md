@@ -8,11 +8,13 @@ Les licenciements par suppression d'emploi ou compression de personnel ne peuven
 
 - 3° étrangers domiciliés à Monaco ;
 
-- 4° étrangers vivant en union libre mais dans les liens d'un contrat de vie commune avec un ou une Monégasque ayant conservé sa nationalité ;
+- 4° étrangers, père ou mère d'un enfant de nationalité monégasque né d'un auteur monégasque ou adopté par ce dernier ;
 
-- 5° étrangers mariés à une Monégasque ayant conservé sa nationalité et non légalement séparés et étrangers nés d'un auteur direct monégasque ;
+- 5° étrangers vivant en union libre mais dans les liens d'un contrat de vie commune avec un ou une Monégasque ayant conservé sa nationalité ;
 
-- 6° Monégasques.
+- 6° étrangers mariés à une personne de nationalité monégasque ayant conservé sa nationalité et non légalement séparés, et étrangers nés d'un auteur monégasque ou adoptés par ce dernier ;
+
+- 7° Monégasques.
 
 Dans chacune des catégories prévues ci-dessus, il sera tenu compte de l'ancienneté dans l'entreprise ; si l'intéressé y travaille depuis deux ans au moins une bonification d'ancienneté de un an par enfant à charge lui est accordée pour l'application des dispositions du présent article. Cette bonification ne peut excéder cinq ans.
 
