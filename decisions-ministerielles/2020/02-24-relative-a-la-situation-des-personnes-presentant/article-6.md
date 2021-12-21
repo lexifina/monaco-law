@@ -24,11 +24,7 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Japon ;
 
-- la Jordanie ;
-
 - le Koweït ;
-
-- le Liban ;
 
 - la Nouvelle-Zélande ;
 
@@ -56,12 +52,6 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - le Botswana ;
 
-- le Brésil ;
-
-- le Costa Rica ;
-
-- Cuba ;
-
 - l'Eswatini ;
 
 - la Géorgie ;
@@ -80,7 +70,11 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - la Namibie ;
 
+- le Nigéria ;
+
 - le Pakistan ;
+
+- le Royaume-Uni ;
 
 - la Russie ;
 
