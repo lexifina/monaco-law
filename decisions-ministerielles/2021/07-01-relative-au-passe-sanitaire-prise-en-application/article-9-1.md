@@ -6,6 +6,8 @@ Lorsque, conformément à l'article 9, la pratique de l'activité sportive a ét
 
 Les dispositions des deux alinéas précédents s'appliquent également à la personne qui exerce dans cet établissement, lieu, évènement, compétition ou local une activité à titre de bénévole, d'élève ou d'étudiant.
 
+Toutefois, les dispositions des premier et troisième alinéas ne s'appliquent pas aux établissements d'enseignement ayant une activité de restauration ouverte au public.
+
 La présentation d'un des justificatifs mentionnés à l'article 2 est contrôlée dans les conditions fixées à l'article 5.
 
 À défaut de présentation de l'un de ces justificatifs, l'accès à l'établissement, lieu, évènement, compétition ou local est refusé.
