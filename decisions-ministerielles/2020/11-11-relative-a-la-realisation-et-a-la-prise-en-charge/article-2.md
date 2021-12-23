@@ -16,4 +16,4 @@ La réalisation matérielle de ce test par les personnes mentionnées aux chiffr
 
 Le résultat du test est déclaré à la Direction de l'Action Sanitaire conformément aux dispositions de la Décision Ministérielle du 18 mai 2020, modifiée, susvisée.
 
-La personne mentionnée au chiffre 3 ou 5 ne peut réaliser le test que sur une personne âgée d'au moins douze ans, avec son consentement préalable ainsi que, le cas échéant, celui de ses représentants légaux conformément aux dispositions de la loi n° 1.454 du 30 octobre 2017, modifiée, susvisée.
+La personne mentionnée au chiffre 5 ne peut réaliser le test que sur une personne âgée d'au moins douze ans, avec son consentement préalable ainsi que, le cas échéant, celui de ses représentants légaux conformément aux dispositions de la loi n° 1.454 du 30 octobre 2017, modifiée, susvisée.
