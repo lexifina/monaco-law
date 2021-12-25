@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-815 du 17 décembre 2021 relatif à l'indemnité due pour les locataires ayant droit à un relogement par l'État prévue par l'article 14 de la loi n° 1.235 du 28 décembre 2000 relative aux conditions de location de certains locaux à usage d'habitation construits ou achevés avant le 1er septembre 1947, modifiée
