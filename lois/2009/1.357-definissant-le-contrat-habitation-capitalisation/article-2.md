@@ -1,9 +1,5 @@
 # Article 2
 
-Les dispositions de la présente loi s'appliquent aux contrats « habitation-capitalisation » portant sur tout appartement situé dans un immeuble dépendant du domaine de l'État.
+Les dispositions de la présente loi s'appliquent aux contrats « habitation-capitalisation » portant sur tout appartement dépendant du domaine de l'État, à l'exclusion des appartements relevant de la loi n° 1.235 du 28 décembre 2000, modifiée.
 
-Toutefois, ne peuvent faire l'objet de contrats « habitation-capitalisation » :
-
-- 1°) les appartements ou les immeubles voués à la destruction, la reconstruction, la rénovation ou l'extension, pour des opérations arrêtées par les programmes triennaux d'équipement public annexés aux lois de budget ;
-
-- 2°) les logements destinés à maintenir un parc locatif à but social dans les conditions fixées par ordonnance souveraine.
+Toutefois, ne peuvent faire l'objet de contrats « habitation-capitalisation » les logements destinés à maintenir un parc locatif à but social dans les conditions fixées par ordonnance souveraine.

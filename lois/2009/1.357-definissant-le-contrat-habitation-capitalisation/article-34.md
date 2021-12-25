@@ -8,6 +8,6 @@ Si la mise en demeure n'est pas suivie d'effet dans le délai imparti, le Minist
 
 Le montant du capital exigible est alors réduit du total des loyers moyens ayant servi à la détermination du prix du contrat, comme le prévoit l'article 24.
 
-Toutefois, cette réduction n'a pas lieu lorsque la défaillance du titulaire est d'ordre financier et résulte d'une baisse de revenus consécutive à une perte d'emploi indépendante de sa volonté, par suite de maladie, d'accident grave, d'invalidité, de l'état de cessation des paiements de son entreprise ou d'un licenciement pour motif économique ou par suppression d'emploi ou compression de personnel.
+Toutefois, cette réduction n'a pas lieu lorsque la défaillance du titulaire est d'ordre financier et résulte d'une baisse de revenus consécutive à une perte d'emploi indépendante de sa volonté, par suite d'un cas de force majeure, de maladie, d'accident grave, d'invalidité, de l'état de cessation des paiements de son entreprise ou d'un licenciement pour motif économique ou par suppression d'emploi ou compression de personnel.
 
 Dans les deux cas, le versement du capital intervient dans le mois de la réception des pièces nécessaires au paiement telles que définies par ordonnance souveraine.

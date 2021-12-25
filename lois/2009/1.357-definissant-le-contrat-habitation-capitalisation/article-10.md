@@ -2,7 +2,7 @@
 
 Le prix indiqué dans le contrat « habitation-capitalisation » est immédiatement payé en totalité par le souscripteur.
 
-Toutefois, et à condition de verser un apport personnel minimal, dont le pourcentage est fixé par ordonnance souveraine sans pouvoir excéder 15 % du prix du contrat, le souscripteur peut bénéficier d'un crédit amortissable de la part de l'État à un taux effectif global révisable annuellement. Le paiement du solde du prix s'effectue alors par versements mensuels et échelonnés sur des durées maximales variables, savoir 10 ans, 15 ans, 20 ans, 25 ans ou 30 ans.
+Toutefois, et à condition de verser un apport personnel minimal, dont le pourcentage est fixé par ordonnance souveraine sans pouvoir excéder 15 % du prix du contrat, le souscripteur peut bénéficier d'un crédit amortissable de la part de l'État à un taux effectif global révisable annuellement. Le paiement du solde du prix s'effectue alors par versements mensuels et échelonnés sur des durées maximales variables, savoir 5 ans, 10 ans, 15 ans, 20 ans, 25 ans ou 30 ans.
 
 Un arrêté ministériel fixe chaque année le taux effectif global applicable durant l'année civile à venir.
 

@@ -2,7 +2,7 @@
 
 Le contrat « habitation-capitalisation » comporte :
 
-- 1°) la description précise de l'appartement faisant l'objet du contrat qui mentionne notamment la surface habitable contractuelle ;
+- 1°) la description précise de l'appartement faisant l'objet du contrat qui mentionne notamment la surface habitable contractuelle ainsi que l'inclusion de l'appartement ou de l'immeuble à des opérations arrêtées par les programmes triennaux d'équipement public annexés aux lois de budget ou inscrites au plan national pour le logement des Monégasques ;
 
 - 2°) le prix du contrat, sa méthode de calcul, ses modalités de paiement et son mode de financement. Dans l'hypothèse d'un paiement à crédit, le contrat présente les conditions et modalités de variation du taux d'intérêt ;
 
@@ -20,4 +20,6 @@ Le contrat « habitation-capitalisation » indique en outre :
 
 - 3°) le droit, pour le titulaire, en cas de renonciation au bénéfice du contrat « habitation-capitalisation » à sa demande, de conclure un contrat de location aux conditions applicables, lors de l'extinction du contrat, aux immeubles domaniaux à usage d'habitation ;
 
-- 4°) l'obligation de justifier d'une assurance couvrant les risques dont le titulaire doit répondre au titre de son habitation.
+- 4°) l'obligation de justifier d'une assurance couvrant les risques dont le titulaire doit répondre au titre de son habitation ;
+
+- 5°) la faculté pour le titulaire de désigner, conformément à l'article 30-1, jusqu'à trois personnes physiques de son choix qui pourront prétendre, en l'absence de bénéficiaire désigné, et de personne mentionnée au premier alinéa de l'article 30, au versement du pourcentage du capital exigible qu'il aura déterminé dans les conditions prévues par la présente loi ainsi que l'obligation lui incombant de signaler tout changement concernant leurs coordonnées ou la répartition du pourcentage du capital exigible.
