@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-808 du 16 décembre 2021 portant fixation du taux de la contribution des employeurs et de la Caisse des Congés Payés du Bâtiment au « Fonds Complémentaire de Réparation des Accidents du Travail et des Maladies Professionnelles » au titre de l'année 2022
