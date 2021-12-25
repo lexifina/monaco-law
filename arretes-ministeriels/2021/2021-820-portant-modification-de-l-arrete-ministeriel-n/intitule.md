@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-820 du 17 décembre 2021 portant modification de l'arrêté ministériel n° 2012-682 du 15 novembre 2012 fixant le montant des droits sur les pièces administratives établies ou délivrées par le Service des Titres de la Circulation, modifié
