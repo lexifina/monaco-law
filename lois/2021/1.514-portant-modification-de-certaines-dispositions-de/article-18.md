@@ -1,0 +1,3 @@
+# Article 18
+
+Toute demande de souscription d'un contrat « habitation-capitalisation » formulée auprès de l'Administration des Domaines, postérieurement à la date d'entrée en vigueur de la présente loi et intervenant consécutivement à un refus opposé antérieurement à cette date par l'Administration pour une précédente demande de souscription, donne lieu à l'établissement et à la notification d'un contrat « habitation-capitalisation » aux conditions financières et de prix arrêtées à la date de cette nouvelle demande de souscription et en aucun cas à la date du refus antérieurement notifié au demandeur.
