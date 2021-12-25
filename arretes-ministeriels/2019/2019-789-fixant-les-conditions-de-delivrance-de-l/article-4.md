@@ -1,6 +1,6 @@
 # Article 4
 
-Au terme de l'instruction de la demande, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique pour une durée d'une année civile.
+Au terme de l'instruction de la demande, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique pour une durée d'une année civile. Par exception, la validité des vignettes délivrées pour l'année civile 2021 pourra être prorogée jusqu'au 31 mars 2022. À cet effet, les exploitants devront s'acquitter pour cette prorogation de la vignette d'un droit complémentaire au prorata pour la période concernée.
 
 L'autorisation est personnelle et incessible.
 
