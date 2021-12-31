@@ -16,7 +16,7 @@ Lorsqu'ils exécutent une telle transaction, ils appliquent les mesures de vigil
 
 - f) mettre en œuvre une surveillance renforcée de la relation d'affaires en augmentant le nombre et la fréquence des contrôles effectués et en déterminant les schémas de transaction qui nécessitent un examen plus approfondi.
 
-Pour les organismes et personnes visés aux chiffres 1°) et 2°) de l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, les modalités et le suivi des opérations doivent être définies par la personne mentionnée à l'article 27 de ladite loi qui s'assure de leur mise en œuvre.
+- Pour les organismes et personnes visés aux chiffres 1°) et 2°) de l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, les modalités et le suivi des opérations doivent être définies par la personne mentionnée à l'article 27 de ladite loi qui s'assure de leur mise en œuvre.
 
 En complément des mesures énoncées au premier alinéa, les organismes et les personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, appliquent, le cas échéant, au moins l'une des mesures suivantes en se fondant sur une approche par les risques :
 
