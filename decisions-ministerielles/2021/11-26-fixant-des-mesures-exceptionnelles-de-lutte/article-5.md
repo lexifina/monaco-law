@@ -8,6 +8,8 @@ Les mesures générales suivantes s'appliquent à toute activité professionnell
 
 3) un rappel des gestes barrières prévus par l'article 2, un rappel du port du masque obligatoire et, le cas échéant, un rappel du nombre maximum de personnes autorisées simultanément dans un lieu, personnel compris, sont indiqués à chaque entrée des établissements publics ou privés et sont visibles depuis l'extérieur de ceux-ci ;
 
+3.1) chaque exploitant ou responsable prend toutes les mesures utiles pour éviter les contacts entre les membres du personnel notamment au moment des repas susceptibles d'être pris sur place, des pauses café ou cigarette ;
+
 4) la distance minimale d'au moins 1,5 mètre entre deux personnes, fixée par l'article 2, est matérialisée au sol pour les files d'attente et en tout lieu des établissements publics ou privés où cela s'avère nécessaire ;
 
 5) un sens de circulation, avec une entrée et une sortie, est matérialisé par une signalétique adaptée, dans les établissements publics ou privés qui disposent d'au moins deux entrées ou d'une entrée avec une largeur suffisante et en tout lieu où cela est possible ;
