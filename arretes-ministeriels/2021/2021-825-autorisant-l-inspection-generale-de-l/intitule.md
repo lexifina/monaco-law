@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-825 du 23 décembre 2021 autorisant l'Inspection Générale de l'Administration à instruire les signalements de faits de harcèlement, chantage sexuel ou de violence au travail concernant les fonctionnaires et agents de la Commune
