@@ -1,0 +1,35 @@
+Vu l'Ordonnance Souveraine n° 3.153 du 24 février 2011 rendant exécutoire le Règlement Sanitaire International (2005) adopté par la cinquante-huitième Assemblée Mondiale de la Santé le 23 mai 2005 ;
+
+Vu la loi n° 1.165 du 23 décembre 1993 relative à la protection des informations nominatives, modifiée ;
+
+Vu l'Ordonnance Souveraine n° 2.230 du 19 juin 2009 fixant les modalités d'application de la loi n° 1.165 du 23 décembre 1993 réglementant les traitements d'informations nominatives, modifiée par la loi n° 1.353 du 4 décembre 2008 relative à la protection des informations nominatives, modifiée ;
+
+Vu l'Ordonnance Souveraine n° 5.664 du 23 décembre 2015 créant l'Agence Monégasque de Sécurité Numérique, modifiée ;
+
+Vu l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ;
+
+Vu l'arrêté ministériel n° 2019-791 du 17 septembre 2019 portant application de l'article 2, a) de l'Ordonnance Souveraine n° 5.664 du 23 décembre 2015 créant l'Agence Monégasque de Sécurité Numérique, modifiée ;
+
+Vu la Décision Ministérielle du 24 février 2020 relative à la situation des personnes présentant un risque ou des signes d'infection potentielle par le virus 2019-nCoV, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
+
+Vu la Décision Ministérielle du 23 mars 2020 relative à la déclaration obligatoire de la maladie COVID-19, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ;
+
+Vu la Décision Ministérielle du 18 mai 2020 relative à la déclaration obligatoire du résultat des tests détectant les anticorps anti-SARS-CoV-2, l'ARN du virus SARS-CoV-2 ou ses antigènes, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
+
+Vu la Décision Ministérielle du 20 mai 2020 relative à la mise en œuvre d'un traitement d'informations nominatives destiné à permettre le suivi de la situation épidémiologique, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
+
+Vu la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies, modifiée ;
+
+Vu la délibération n° 2021-278 du 15 décembre 2021 de la Commission de Contrôle des Informations Nominatives portant avis sur la consultation du Ministre d'État relative au projet de Décision Ministérielle modifiant la Décision Ministérielle du 20 mai 2020 relative à la mise en œuvre d'un traitement d'informations nominatives destiné à permettre le suivi de la situation épidémiologique, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies ;
+
+Considérant le caractère pathogène et contagieux du virus SARS-CoV-2 et sa propagation rapide ;
+
+Considérant l'urgence de santé publique de portée internationale, déclarée le 30 janvier 2020 par le Directeur Général de l'Organisation mondiale de la Santé, constituée par la flambée épidémique due au virus 2019-nCoV, actuellement dénommé SARS-CoV-2 ;
+
+Considérant les recommandations temporaires au titre du Règlement Sanitaire International émises par le Directeur Général de l'Organisation mondiale de la Santé le 30 janvier 2020 ;
+
+Considérant que la vaccination contre la maladie COVID-19 est à ce jour insuffisante pour prévenir l'infection par le virus SARS-CoV-2 et éviter la propagation de la maladie COVID-19 qu'il entraîne ;
+
+Considérant les risques que la contraction de la COVID-19 pose pour la santé publique ;
+
+Considérant que l'état de la menace sanitaire liée au risque épidémique en cours nécessite de retarder au 31 décembre 2022 la date à laquelle devaient être anonymisées certaines données contenues dans le traitement automatisé d'informations nominatives autorisé par la Décision Ministérielle du 20 mai 2020, modifiée, susvisée ;
