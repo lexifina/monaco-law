@@ -8,7 +8,7 @@ L'organisme agréé est tenu :
 
 - Il est tenu un double qui doit être déposé dans les sept jours qui suivent l'échéance mensuelle au Service des Titres de Circulation.
 
-- 2° - de plomber, conformément aux dispositions de l'article 10, avant toute sortie du véhicule de ses ateliers, le compteur horokilométrique, le dispositif répétiteur lumineux de tarifs et leurs connexions ;
+- 2° -de plomber, conformément aux dispositions de l'article 10, avant toute sortie du véhicule de ses ateliers, le compteur horokilométrique, le dispositif répétiteur lumineux de tarifs et leurs connexions ; de configurer le compteur au moyen d'un programme tel que développé par le fournisseur, conformément à l'arrêté ministériel n° 2016-427 du 5 juillet 2016 fixant les tarifs applicables aux taxis, modifié, sans aucune modification de la part de l'installateur ou à la demande du taxi ;
 
 - 3° - d'apposer sur les plombs de scellement son numéro d'identification ;
 
