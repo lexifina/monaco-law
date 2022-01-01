@@ -1,3 +1,7 @@
 # Article 8
 
-Nul n'est qualifié pour accéder à un système d'information ou à ses dispositifs de protection, matériels ou logiciels, lorsque cet accès permet de connaître des informations classifiées qui y sont contenues ou de modifier les dispositifs de protection de ces informations, s'il n'a fait au préalable l'objet d'une décision d'habilitation dès lors qu'il a besoin, selon l'appréciation de l'autorité responsable de l'emploi dudit système, d'un tel accès pour l'exercice de sa fonction ou l'accomplissement de sa mission.
+Certains moyens, tels que les dispositifs de sécurité ou leurs composants, et certaines informations relatives à ces moyens (spécifications algorithmiques, documents de conception, clés de chiffrement, rapports d'évaluation, etc.) peuvent nécessiter la mise en œuvre d'une gestion spécifique visant à assurer leur traçabilité tout au long de leur cycle de vie.
+
+Ces moyens et informations sont appelés « Articles Contrôlés de la Sécurité des Systèmes d'Information » (ACSSI). Ils portent un marquage spécifique les identifiant, en plus, le cas échéant, de leur mention de classification.
+
+Les modalités de gestion des ACSSI sont définies par arrêté ministériel.
