@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.007 du 24 décembre 2021 rendant exécutoire l'Accord entre le Gouvernement de la Principauté de Monaco et le Gouvernement de la République française relatif au régime fiscal des dons et legs faits aux personnes publiques et aux organismes à but désintéressé, signé à Monaco le 25 février 2019
