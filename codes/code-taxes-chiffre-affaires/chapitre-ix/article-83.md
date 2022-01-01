@@ -14,4 +14,4 @@ Lorsqu'un bien placé sous l'un des régimes mentionnés au b du 2 du I de l'art
 
 Ne sont pas à comprendre dans la base d'imposition les remises, rabais et autres réductions de prix acquis au moment de l'importation.
 
-Cette base d'imposition est constatée par l'administration des douanes et des droits indirects, y compris en cas de régularisation.
+Cette base d'imposition est constatée par l'administration des douanes et des droits indirects, y compris en cas de régularisation et pour les catégories d'opérations mentionnées au 2° du 3 de l'article 85. À cette fin, elle dispose des pouvoirs prévus par le Code des douanes pour l'établissement, le recouvrement et le contrôle des droits de douanes.

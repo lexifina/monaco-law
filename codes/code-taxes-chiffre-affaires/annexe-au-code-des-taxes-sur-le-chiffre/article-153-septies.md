@@ -72,4 +72,4 @@ Les systèmes de télétransmission des factures utilisés par les entreprises d
 
 - 3) La documentation relative aux conditions d'utilisation (guide de l'utilisateur) du logiciel de télétransmission doit être conservée par l'entreprise et consultable par les agents de la direction des Services fiscaux sur le lieu de la dématérialisation.
 
-En outre, l'entreprise doit prendre toutes dispositions pour garantir aux agents de l'administration l'accès à la documentation informatique concernant notamment le développement de son architecture, de son analyse fonctionnelle et organique et l'exploitation du logiciel de télétransmission.
+- En outre, l'entreprise doit prendre toutes dispositions pour garantir aux agents de l'administration l'accès à la documentation informatique concernant notamment le développement de son architecture, de son analyse fonctionnelle et organique et l'exploitation du logiciel de télétransmission.

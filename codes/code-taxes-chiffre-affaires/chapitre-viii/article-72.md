@@ -9,3 +9,5 @@ II. - Pour l'application de l'article 62-2 et à défaut du paiement de la taxe 
 III. - Par dérogation au premier alinéa du I, les personnes établies hors de Monaco qui réalisent exclusivement des opérations pour lesquelles elles sont dispensées du paiement de la taxe en application du 4 du II de l'article 50 A ou des opérations exonérées en vertu du 4° du III de l'article 81 peuvent charger un assujetti établi à Monaco, accrédité par la direction des Services fiscaux, d'accomplir les obligations déclaratives afférentes à l'opération en cause.
 
 Cet assujetti est tenu au paiement de la taxe afférente à l'opération pour laquelle il doit effectuer les obligations déclaratives, ainsi que des pénalités qui s'y rapportent, lorsque les conditions auxquelles sont subordonnées la dispense de paiement ou l'exonération ne sont pas remplies.
+
+Un arrêté ministériel définit les conditions dans lesquelles les obligations déclaratives prévues à l'article 70 sont simplifiées pour ces opérations.

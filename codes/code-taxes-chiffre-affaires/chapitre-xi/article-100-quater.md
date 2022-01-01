@@ -4,7 +4,7 @@ I. - Pour l'importation de biens faisant l'objet d'une vente à distance de bien
 
 II. - Lorsqu'il est recouru au présent dispositif, les conditions suivantes sont applicables :
 
-- 1° Le destinataire des biens est redevable de la taxe sur la valeur ajoutée conformément à la première phrase du troisième alinéa du 1 de l'article 85 ;
+- 1° Par dérogation au 2 de l'article 85, le redevable de la taxe sur la valeur ajoutée est le destinataire du bien indiqué sur la déclaration d'importation et l'option prévue à l'article 86 ter ne peut être exercée ;
 
 - 2° La personne qui présente les biens en douane prend les mesures appropriées pour percevoir la taxe sur la valeur ajoutée auprès du destinataire des biens préalablement à son acquittement auprès du service des douanes conformément aux dispositions du présent article.
 

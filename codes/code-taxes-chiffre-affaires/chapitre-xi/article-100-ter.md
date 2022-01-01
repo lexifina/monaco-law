@@ -26,9 +26,7 @@
 
 2. L'assiette de la taxe sur la valeur ajoutée afférente aux produits pétroliers et exigible à la sortie du régime mentionnée au 3° du 1 bis ou à l'importation est déterminée, à la date de l'exigibilité, conformément aux dispositions ci-après :
 
-- 1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-14, ex 27-11-19, ex 27-11-21,27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable est fixée forfaitairement, pour chaque année par décision du directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
-
-- En ce qui concerne les produits autres que le gaz comprimé destiné à être utilisé comme carburant, cette valeur est établie sur la base du prix CAF moyen des produits importés, ou faisant l'objet d'une acquisition intracommunautaire, majoré du montant des droits de douane applicables aux produits de l'espèce en régime de droit commun en tarif minimum et des taxes et redevances exigibles à la sortie du régime mentionné au 3° du 1 bis ou à l'importation, à l'exception de la taxe sur la valeur ajoutée.
+1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-14, ex 27-11-19, ex 27-11-21,27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable est fixée forfaitairement, pour chaque année par décision du directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
 
 3. Sous réserve des dispositions du 4, les droits à déduction dont peuvent bénéficier l'industrie et le commerce du pétrole sont déterminés dans les conditions prévues à l'article 42.
 
@@ -47,5 +45,3 @@
 - e. les produits pétroliers utilisés pour la lubrification des véhicules et engins exclus du droit à déduction ainsi que des véhicules et engins pris en location quand le preneur ne peut pas déduire la taxe relative à cette location.
 
 4 bis Les dispositions du 4° ne s'appliquent pas lorsque les produits sont ultérieurement livrés ou vendus en l'état ou sous forme d'autres produits pétroliers.
-
-5. L'article 104 n'est pas applicable aux opérations relevant du présent article réalisées par des assujettis.

@@ -10,8 +10,6 @@ I. - Le lieu de livraison de biens meubles corporels est réputé se situer à M
 
 - d) au moment du départ d'un transport dont le lieu d'arrivée est situé sur le territoire d'un État membre de l'Union européenne, autre que la France, dans le cas où la livraison, au cours de ce transport, est effectuée à bord d'un bateau, d'un aéronef ou d'un train.
 
-Par dérogation aux dispositions du a) et du b), lorsque le lieu de départ de l'expédition ou du transport est en dehors du territoire de Monaco ou des États membres de l'Union européenne, le lieu de la livraison de ces biens effectuée par l'importateur ou pour son compte ainsi que le lieu d'éventuelles livraisons subséquentes est réputé se situer à Monaco, lorsque les biens sont importés à Monaco ou en France.
-
 II - Le lieu des opérations visées au I de l'article 5 et au 2° bis de l'article 15 se situe à Monaco lorsqu'elles portent sur des immeubles situés à Monaco.
 
 III. - Le lieu de livraison du gaz naturel, de l'électricité, de la chaleur ou du froid est situé à Monaco :
@@ -26,4 +24,10 @@ IV. - Le lieu de livraison des biens importés de territoires tiers ou de pays t
 
 - a) Au moment de l'arrivée de l'expédition ou du transport des biens à destination de l'acquéreur si le bien a été importé dans un État membre autre que la France ;
 
-- b) Au moment de l'arrivée de l'expédition ou du transport des biens à destination de l'acquéreur, lorsque le bien a été importé à Monaco par l'assujetti mentionné au a du 2° du V de l'article 1er du présent code.
+- b) Au moment de l'arrivée de l'expédition ou du transport des biens à destination de l'acquéreur, lorsque le bien a été importé à Monaco et que la vente est réputée avoir été effectuée par l'assujetti qui la facilite en application du a du 2° du V de l'article 1er du présent code.
+
+V.- Est également réputé se situer à Monaco le lieu des livraisons suivantes :
+
+- 1° La livraison d'un bien qui est importé, lorsque le vendeur recourt à l'option prévue à l'article 86 ter ;
+
+- 2° Les éventuelles livraisons subséquentes à celle mentionnée au 1° du présent V.

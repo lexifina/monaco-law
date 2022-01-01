@@ -12,17 +12,25 @@ II. - 1. Dans la mesure où les biens et les services sont utilisés pour les be
 
 - a) celle qui figure sur les factures établies conformément aux dispositions de l'article 71 et si la taxe pouvait légalement figurer sur lesdites factures ;
 
-- b) Sauf pour les opérations mentionnées au e,celle qui est acquittée par les redevables eux‑mêmes, dans les conditions prévues au II de l'article 104, pour les importations ou les sorties de régimes suspensifs mentionnés au 1°, au a du 2° et au 7° du I de l'article 50 A ou, dans le cas contraire, celle qui est due pour les importations ou les sorties de ces régimes ;
+- b) celle qui est acquittée par les redevables eux-mêmes pour les importations ou sorties des régimes suspensifs mentionnés au I de l'article 50 A ;
 
 - c) celle qui est acquittée par les redevables eux-mêmes lors de l'achat ou de la livraison à soi-même des biens ou des services ;
 
-- d) celle qui correspond aux factures d'acquisition intracommunautaire établies conformément à la réglementation communautaire dont le montant figure sur la déclaration de recettes conformément au b) du 4 de l'article 70 ;
+- d) celle qui correspond aux factures d'acquisition intracommunautaire établies conformément à la réglementation communautaire dont le montant figure sur la déclaration de recettes conformément au b) du 4 de l'article 70.
 
-- e) Celle qui est acquittée par les redevables eux-mêmes pour les importations de produits pétroliers définis au 1° de l'article 100 ter ou pour les sorties de ces mêmes produits du régime suspensif prévu au a du 2° du I de l'article 50 A.
+2. La déduction peut être opérée :
 
-2. La déduction ne peut pas être opérée si les redevables ne sont pas en possession soit desdites factures, soit de la déclaration d'importation sur laquelle ils sont désignés comme destinataires réels. Pour les acquisitions intracommunautaires et les sorties des régimes suspensifs prévus au 1°, au a du 2° et au 7° du I de l'article 50 A, la déduction ne peut être opérée que si les redevables ont fait figurer sur la déclaration prévue à l'article 70, conformément aux b et b quinquies de son 4, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et détiennent des factures établies conformément à la réglementation communautaire ou les documents attestant de la sortie de ces régimes suspensifs.
+- a) Pour les livraisons de biens et les prestations de services, si les redevables sont en possession des factures ;
 
-Toutefois, les redevables qui n'ont pas porté sur cette déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque cette taxe a été payée au Trésor Princier.
+- b) Pour les autres opérations, si les redevables ont fait figurer sur la déclaration prévue à l'article 70, conformément au 4 du même article 70, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et s'ils détiennent :
+
+  - 1° Pour les acquisitions intracommunautaires, des factures établies conformément à la réglementation de l'Union européenne ;
+
+  - 2° Pour les importations, soit la déclaration d'importation, soit les documents mentionnant le numéro, la date de cette déclaration et la base imposable constatée conformément au dernier alinéa de l'article 83, au moyen desquels leur rend compte la personne remplissant, pour leur compte, les obligations prévues au 3 de l'article 85 ;
+
+  - 3° Pour les sorties des régimes suspensifs mentionnés au I de l'article 50 A, les documents attestant de la sortie de ces régimes ainsi que les factures, déclarations d'importation ou autres documents à partir desquels la base d'imposition a été calculée.
+
+Toutefois, dans les cas prévus au b du présent 2, les redevables qui n'ont pas porté sur la déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque les conditions de fond sont remplies, sans préjudice de l'application de l'amende prévue à l'article 108 au 4.
 
 3. Lorsque ces factures ou ces documents font l'objet d'une rectification, les redevables doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du mois au cours duquel ils ont eu connaissance de cette rectification.
 
@@ -48,6 +56,4 @@ V. - Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient s
 
 - d) les opérations non imposables en Principauté réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se situait en Principauté. Les modalités et les limites du remboursement de la taxe déductible au titre de ces opérations sont fixées par les articles A-119 à A-126 et A-167 de l'annexe au code.
 
-VI. - Pour l'application du présent article, une opération légalement effectuée en suspension du paiement de la taxe sur la valeur ajoutée est considérée comme en ayant été grevée à concurrence du montant de la somme dont le paiement a été suspendu.
-
-Les conditions d'application du présent article sont fixées par les articles A-72 à A-108 de l'annexe au code.
+VI. - Pour l'application du présent article, une opération légalement effectuée en franchise, conformément à l'article 48, ou en suspension de paiement, conformément au I de l'article 50 A, de la taxe sur la valeur ajoutée est considérée comme en ayant été grevée à concurrence du montant de la somme bénéficiant de la franchise ou dont le paiement a été suspendu.

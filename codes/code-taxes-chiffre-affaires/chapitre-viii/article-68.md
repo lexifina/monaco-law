@@ -2,15 +2,11 @@
 
 Est identifié par un numéro individuel :
 
-- 1° Tout assujetti qui effectue des livraisons de biens ou des prestations de services lui ouvrant droit à déduction, autres que :
+- 1° Tout assujetti qui effectue des livraisons de biens ou des prestations de services lui ouvrant droit à déduction ;
 
-- a) Des livraisons de biens ou des prestations de services pour lesquelles la taxe est due uniquement par le destinataire ou le preneur ;
+- 2° Tout assujetti ou toute personne morale non assujettie qui effectue des acquisitions intracommunautaires de biens soumises à la taxe sur la valeur ajoutée conformément au I de l'article 2 ou au I de l'article 94, toute personne visée à l'article 67, toute personne ayant exercé l'option prévue à l'article 18 ainsi que tout assujetti redevable de la taxe sur la valeur ajoutée pour des importations ou des sorties des régimes mentionnés au I de l'article 50 A ;
 
-- b) Des livraisons de biens ou des prestations de services effectuées par un assujetti non établi à Monaco pour lesquelles cet assujetti a recours, dans un État membre autre que la France, aux régimes particuliers prévus aux sections 2, 3 et 4 du chapitre 6 du titre XII de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
-
-- 2° Tout assujetti ou toute personne morale non assujettie qui effectue des acquisitions intracommunautaires de biens soumises à la taxe sur la valeur ajoutée conformément au I de l'article 2 ou au I de l'article 94, toute personne visée à l'article 67, ainsi que toute personne ayant exercé l'option prévue à l'article 18 ;
-
-- 3° Tout assujetti qui effectue à Monaco des acquisitions intracommunautaires de biens pour les besoins de ses opérations qui relèvent des activités économiques visées au troisième alinéa de l'article 3 et effectuées hors de la Principauté de Monaco et de la France ;
+- 3° Tout assujetti qui effectue à Monaco des acquisitions intracommunautaires de biens ou qui est redevable de la taxe pour des importations ou des sorties des régimes mentionnés au I de l'article 50 A pour les besoins de ses opérations qui relèvent des activités économiques visées au troisième alinéa de l'article 3 et effectuées hors de la Principauté de Monaco et de la France ;
 
 - 4° Tout assujetti preneur d'une prestation de services au titre de laquelle il est redevable de la taxe à Monaco en application du 2 de l'article 62 ;
 

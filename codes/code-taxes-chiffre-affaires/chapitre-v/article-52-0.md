@@ -48,7 +48,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - À défaut d'une telle autre offre, le taux réduit est applicable aux sommes payées, par client, pour l'acquisition de ces prestations, dans la limite, le cas échéant, du prix auquel ces prestations sont commercialisées par ailleurs par le fournisseur ;
 
-- H. - Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article 56 du code des taxes sur le chiffre d'affaires ou dans le cadre de festivals de cinéma.
+- H. - Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article 56 du Code des taxes sur le chiffre d'affaires ou dans le cadre de festivals de cinéma.
 
 - I- 1° Les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires, effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un État membre de l'Union européenne autre que la France ;
 
@@ -60,9 +60,9 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - K. - (K abrogé).
 
-- K bis - Les masques et les tenues de protection adaptés à la lutte contre la propagation du virus COVID-19 dont la liste et les caractéristiques sont fixées par arrêté ministériel.
+- K bis- Les masques et les tenues de protection adaptés à la lutte contre la propagation du virus COVID-19 dont la liste et les caractéristiques sont fixées par arrêté ministériel.
 
-- K ter - Les produits destinés à l'hygiène corporelle et adaptés à la lutte contre la propagation du virus COVID-19 dont les caractéristiques sont fixées par arrêté ministériel.
+- K ter- Les produits destinés à l'hygiène corporelle et adaptés à la lutte contre la propagation du virus COVID-19 dont les caractéristiques sont fixées par arrêté ministériel.
 
 - L. - Les droits d'entrée pour la visite des parcs zoologiques.
 

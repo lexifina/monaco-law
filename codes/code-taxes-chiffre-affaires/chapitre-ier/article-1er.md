@@ -42,13 +42,13 @@ Est considéré comme un transfert au sens des dispositions qui précèdent, l'e
 
 III bis. - 1. N'est pas assimilé à une livraison de biens le transfert par un assujetti d'un bien de son entreprise sous un régime de stocks sous contrat de dépôt à destination d'un État membre de l'Union européenne autre que la France lorsque les conditions suivantes sont remplies :
 
-- 1° Les biens sont expédiés ou transportés par l'assujetti ou par un tiers pour le compte de celui-ci, à destination d'un État membre autre que la France afin d'y être livrés, à un stade ultérieur et après leur arrivée, à un autre assujetti qui pourra en disposer comme un propriétaire en vertu d'un accord entre les deux assujettis ;
+1° Les biens sont expédiés ou transportés par l'assujetti ou par un tiers pour le compte de celui-ci, à destination d'un État membre autre que la France afin d'y être livrés, à un stade ultérieur et après leur arrivée, à un autre assujetti qui pourra en disposer comme un propriétaire en vertu d'un accord entre les deux assujettis ;
 
-- 2° L'assujetti qui expédie ou transporte les biens n'est pas établi ou ne dispose pas d'un établissement stable dans l'État membre vers lequel les biens sont expédiés ou transportés ;
+2° L'assujetti qui expédie ou transporte les biens n'est pas établi ou ne dispose pas d'un établissement stable dans l'État membre vers lequel les biens sont expédiés ou transportés ;
 
-- 3° L'assujetti auquel les biens sont destinés à être livrés est identifié aux fins de la taxe sur la valeur ajoutée dans l'État membre vers lequel les biens sont expédiés ou transportés et a communiqué à l'assujetti mentionné au 2° son identité et ce numéro d'identification au moment du départ de l'expédition ou du transport ;
+3° L'assujetti auquel les biens sont destinés à être livrés est identifié aux fins de la taxe sur la valeur ajoutée dans l'État membre vers lequel les biens sont expédiés ou transportés et a communiqué à l'assujetti mentionné au 2° son identité et ce numéro d'identification au moment du départ de l'expédition ou du transport ;
 
-- 4° L'assujetti qui expédie ou transporte les biens inscrit le transfert des biens dans le registre prévu au 2 du I de l'article 69 et indique l'identité de l'assujetti qui acquiert les biens et le numéro d'identification aux fins de la taxe sur la valeur ajoutée attribué par l'État membre vers lequel les biens sont expédiés ou transportés dans l'état récapitulatif prévu au I de l'article 73.
+4° L'assujetti qui expédie ou transporte les biens inscrit le transfert des biens dans le registre prévu au 2 du I de l'article 69 et indique l'identité de l'assujetti qui acquiert les biens et le numéro d'identification aux fins de la taxe sur la valeur ajoutée attribué par l'État membre vers lequel les biens sont expédiés ou transportés dans l'état récapitulatif prévu au I de l'article 73.
 
 2. Si, dans les douze mois suivant leur arrivée dans l'État membre vers lequel ils ont été expédiés ou transportés, les biens n'ont pas été livrés à l'assujetti mentionné au 3° du 1 du présent III bis. et qu'aucune des circonstances mentionnées au 4 n'est intervenue, un transfert au sens du III du présent article est réputé avoir lieu le jour suivant celui de l'expiration de la période de douze mois.
 
@@ -58,13 +58,13 @@ III bis. - 1. N'est pas assimilé à une livraison de biens le transfert par un 
 
 5. Pendant le délai de douze mois suivant leur arrivée dans l'État membre vers lequel ils ont été expédiés ou transportés, un transfert de biens au sens du III du présent article est réputé avoir lieu :
 
-1° Dès que l'une des conditions mentionnées aux 1 et 4 du présent III bis. cesse d'être remplie ;
+- 1° Dès que l'une des conditions mentionnées aux 1 et 4 du présent III bis. cesse d'être remplie ;
 
-2° Immédiatement avant la livraison lorsque les biens mentionnés au 1° du 1 sont livrés à une personne autre que celle mentionnée au 3° du même 1 sans que les conditions du 4 ne soient remplies ;
+- 2° Immédiatement avant la livraison lorsque les biens mentionnés au 1° du 1 sont livrés à une personne autre que celle mentionnée au 3° du même 1 sans que les conditions du 4 ne soient remplies ;
 
-3° Immédiatement avant le début de l'expédition ou du transport lorsque les biens mentionnés au 1° du 1 sont expédiés ou transportés vers un pays autre que Monaco ou la France ;
+- 3° Immédiatement avant le début de l'expédition ou du transport lorsque les biens mentionnés au 1° du 1 sont expédiés ou transportés vers un pays autre que Monaco ou la France ;
 
-4° Lorsque les biens mentionnés au même 1° sont détruits, perdus ou volés, à la date à laquelle les biens ont effectivement été enlevés ou détruits ou, si cette date est impossible à déterminer, à la date à laquelle il a été constaté que les biens étaient détruits ou manquants.
+- 4° Lorsque les biens mentionnés au même 1° sont détruits, perdus ou volés, à la date à laquelle les biens ont effectivement été enlevés ou détruits ou, si cette date est impossible à déterminer, à la date à laquelle il a été constaté que les biens étaient détruits ou manquants.
 
 IV. - 1° Les opérations autres que celles qui sont définies au II, notamment la cession ou la concession de biens meubles incorporels, le fait de s'obliger à ne pas faire ou à tolérer un acte ou une situation, les opérations de façon et les travaux immobiliers, sont considérées comme des prestations de services ;
 

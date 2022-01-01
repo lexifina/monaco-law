@@ -28,19 +28,21 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - 7° a) Les livraisons de biens placés sous le régime de l'admission temporaire en exonération totale des droits à l'importation, du transit externe ou du transit communautaire interne, avec maintien du même régime ;
 
-- b) Les importations de biens en provenance des départements français de la Guadeloupe, de la Guyane, de Mayotte, de la Martinique et de la Réunion et les importations de biens en provenance d'une partie du territoire douanier de la Communauté européenne exclue de son territoire fiscal qui rempliraient les conditions pour bénéficier du régime d'admission temporaire en exonération totale s'il s'agissait de biens en provenance de pays tiers, ainsi que les livraisons de ces biens, avec maintien du même régime ou situation ;
+- b) Les importations de biens en provenance des départements français de la Guadeloupe, de la Guyane, de Mayotte, de la Martinique et de la Réunion et les importations de biens en provenance d'une partie du territoire douanier de l'Union européenne exclue de son territoire fiscal qui rempliraient les conditions pour bénéficier du régime d'admission temporaire en exonération totale s'il s'agissait de biens en provenance de pays tiers, ainsi que les livraisons de ces biens, avec maintien du même régime ou situation ;
 
 - c) Les prestations de services afférentes aux livraisons mentionnées aux a et b.
 
-II. - 1. La sortie du bien de l'un des régimes mentionnés au I met fin à la suspension du paiement de la taxe sur la valeur ajoutée.
+II. - 1. La sortie du bien de l'un des régimes mentionnés au I donne lieu à l'exigibilité de la taxe sur la valeur ajoutée afférente aux opérations pour lesquelles elle a été suspendue.
 
-Le retrait de l'autorisation mentionnée au 2° du I met également fin à la suspension du paiement de la taxe sur la valeur ajoutée. La déduction de cette taxe est effectuée dans les mêmes conditions que celle due à la sortie du régime mentionnée au premier alinéa.
+Les conditions dans lesquelles la taxe ainsi devenue exigible est déclarée et dans lesquelles sa déduction est justifiée sont celles qui sont prévues pour les sorties des régimes suspensifs, sans préjudice, lorsque cette sortie constitue également une importation au sens du b du 2 du I de l'article 81, des obligations relatives à la taxe due pour cette importation.
+
+Le retrait de l'autorisation mentionnée au 2° du I met également fin à la suspension du paiement de la taxe sur la valeur ajoutée. La déduction de cette taxe est effectuée et justifiée dans les mêmes conditions que pour celle due à la sortie du régime mentionnée au premier alinéa.
 
 2. a) Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement sous le régime, la taxe doit être acquittée, selon le cas, par l'une des personnes mentionnées ci-après :
 
 - 1° pour les livraisons visées aux 1° et 2° du I, le destinataire ;
 
-- 2° pour l'importation visée au 3° du I, la personne désignée au troisième alinéa de l'article 85 ;
+- 2° pour l'importation visée au 3° du I, la personne désignée au 2 de l'article 85 ;
 
 - 3° pour l'acquisition intracommunautaire visée au 4° du I, la personne désignée au 3 de l'article 62 ;
 
@@ -62,7 +64,11 @@ c) Dans les cas visés au a et b du présent 2, la personne qui a obtenu l'autor
 
 - L'intérêt de retard est calculé à compter du premier jour du mois suivant celui au cours duquel la taxe devenue exigible a été suspendue conformément au I du présent article, jusqu'au dernier jour du mois précédant celui au cours duquel les biens sont sortis du régime fiscal suspensif.
 
-4. Par dérogation au 2, la personne qui doit acquitter la taxe est dispensée du paiement lorsque le bien fait l'objet d'une exportation ou d'une livraison exonérée en vertu de l'article 29 ou du I de l'article 31.
+4. Donnent lieu à une dispense de paiement :
+
+1° Lorsque le bien fait l'objet, directement après la sortie du régime, d'une exportation ou d'une livraison exonérée en application de l'article 29 ou du I de l'article 31, la taxe devenue exigible conformément au 1 du présent II ;
+
+2° Lorsque la sortie du régime constitue une importation, au sens du b) du 2. du I de l'article 81, et que le bien n'a fait l'objet d'aucune livraison pour laquelle la taxe a été suspendue conformément aux 1°, 2° et 6° ainsi qu'au a) du 7° du I du présent article, la taxe afférente aux prestations de services comprises dans la base d'imposition de l'importation conformément à l'article 83.
 
 III. - La personne qui a obtenu l'autorisation d'ouverture d'un régime mentionné au 2° du I doit, au lieu de situation des biens :
 
@@ -74,4 +80,16 @@ III. - La personne qui a obtenu l'autorisation d'ouverture d'un régime mentionn
 
 - 2° Être en possession du double des factures et des différentes pièces justificatives relatives aux opérations mentionnées au I.
 
-IV. - Une ordonnance souveraine fixe les modalités d'application du présent article.
+IV. - La base d'imposition de la taxe due est constatée par l'administration chargée de la gestion du régime, y compris en cas de régularisation et pour les opérations exonérées ou dispensées du paiement de la taxe.
+
+V.- Le redevable désigné au 2 du II communique à l'administration chargée de la gestion du régime, outre les informations nécessaires pour constater la base imposable :
+
+- 1° Sa dénomination sociale et l'identifiant prévu à l'article 68 en cours de validité ;
+
+- 2° Les autres informations qui sont nécessaires pour liquider la taxe ou en contrôler l'application.
+
+Il indique, le cas échéant, s'il s'agit d'une opération exonérée ou dispensée du paiement de la taxe.
+
+L'administration chargée de la gestion du régime transmet ces informations à l'administration chargée de la gestion de la déclaration de la taxe.
+
+Un arrêté ministériel définit les informations prévues au 2° et les modalités de la transmission prévue à l'avant-dernier alinéa du présent V.
