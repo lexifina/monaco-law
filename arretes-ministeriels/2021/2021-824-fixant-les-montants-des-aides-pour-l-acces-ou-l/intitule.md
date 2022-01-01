@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2021-824 du 24 décembre 2021 fixant les montants des aides pour l'accès ou l'accompagnement au retour à l'emploi et du plafond mensuel de ressources pour en bénéficier en application de la loi n° 1.501 du 11 décembre 2020
