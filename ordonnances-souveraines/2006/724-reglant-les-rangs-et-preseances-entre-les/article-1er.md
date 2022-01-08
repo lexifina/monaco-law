@@ -16,6 +16,8 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 7 - le Chef de Cabinet du Prince
 
+7-1 - le Premier Conseiller Privé du Prince
+
 8 - Le Chambellan du Prince et le Premier Aide de Camp du Prince
 
 9 - les Ministres Plénipotentiaires du Prince
@@ -106,7 +108,7 @@ Lors des cérémonies ou manifestations officielles, les autorités, fonctionnai
 
 46 - le Président du Tribunal de Première Instance
 
-47 (47 abrogé)
+47 - 47 abrogé
 
 48 - les Adjoints au Maire
 
