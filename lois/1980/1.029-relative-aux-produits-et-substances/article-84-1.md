@@ -1,4 +1,4 @@
-# Article 55
+# Article 84-1
 
 La publicité ou la propagande, sous quelque forme que ce soit, relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement des maladies, des affections relevant de la pathologie chirurgicale et des dérèglements physiologiques peut être interdite lorsqu'il n'est pas établi que lesdits objets, appareils et méthodes possèdent les propriétés annoncées.
 

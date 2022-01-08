@@ -1,8 +1,8 @@
-# Loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie
+# Loi n° 1.029 du 16 juillet 1980 relative aux produits et substances pharmaceutiques réglementées autres que les médicaments
 
-Version en vigueur au 9 juillet 2016.
+Version en vigueur au 8 janvier 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1980/07-16-1.029@2016.07.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1980/07-16-1.029@2022.01.08/
 
 | | |
 | --- | --- |

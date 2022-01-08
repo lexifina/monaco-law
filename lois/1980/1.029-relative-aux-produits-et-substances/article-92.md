@@ -1,6 +1,6 @@
 # Article 92
 
-Les infractions aux dispositions de la section I du chapitre VI du titre II ou aux mesures prises pour leur application sont punies de l'amende prévue au chiffre 4 de l'article 26 du Code pénal.
+Les infractions aux dispositions du chapitre VI du Titre III ou aux mesures prises pour leur application sont punies de l'amende prévue au chiffre 4 de l'article 26 du Code pénal.
 
 Le bénéficiaire de la publicité irrégulière et l'agent de diffusion de celle-ci sont punis de la même peine.
 
