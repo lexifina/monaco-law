@@ -4,9 +4,9 @@ Sans préjudice des sanctions pénales, lorsqu'elle constate une méconnaissance
 
 Il en va de même en ce qui concerne une société agréée au titre de tout ou partie des chiffres 3° et 4° de l'article premier, en application de l'article 4 de la loi n° 1.439 du 2 décembre 2016 portant création de l'activité de multi family office, lorsqu'elle constate la méconnaissance des obligations prescrites par cette loi.
 
-Elle peut également prononcer soit la suspension temporaire de l'agrément pour une durée inférieure à six mois, soit son retrait définitif, lorsque la société agréée :
+Elle peut également prononcer soit la suspension temporaire de l'agrément pour une durée inférieure à six mois, soit sa révocation, lorsque la société agréée :
 
-- 1°) ne s'est pas livrée, sans motif légitime, à une activité notable pendant une période de douze mois ou a renoncé expressément à son agrément ;
+- 1°) ne s'est pas livrée, sans motif légitime, à une activité notable pendant une période de six mois ou a renoncé expressément à son agrément ;
 
 - 2°) ne dispose plus d'une installation ou d'un personnel permettant la poursuite des activités visées dans l'agrément ;
 

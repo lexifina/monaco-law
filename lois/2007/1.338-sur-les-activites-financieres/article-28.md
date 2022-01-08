@@ -1,5 +1,5 @@
 # Article 28
 
-Toute société agréée est tenue de communiquer à la Commission les documents relatifs à ses activités et destinés à ses clients ou au public préalablement à leur publication ou à leur diffusion.
+La Commission peut requérir des sociétés agréées, préalablement à leur publication ou diffusion, ou à tout moment, la communication des documents relatifs à leurs activités et destinés à leurs clients ou au public.
 
-Lorsque la Commission constate des inexactitudes ou des omissions dans les publications prévues par les dispositions législatives et réglementaires ou dans les documents visés au précédent alinéa, elle peut interdire la diffusion des publications ou des documents concernés ou ordonner les modifications nécessaires à y apporter.
+Lorsque la Commission constate dans les documents visés à l'alinéa précédent des inexactitudes ou des omissions en méconnaissance des dispositions législatives et réglementaires, elle peut interdire ou suspendre la diffusion ou la publication des documents concernés ou ordonner les modifications nécessaires à y apporter.

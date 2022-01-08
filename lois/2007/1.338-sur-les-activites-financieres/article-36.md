@@ -1,6 +1,6 @@
 # Article 36
 
-Lorsque la Commission décide d'engager une procédure susceptible d'aboutir au prononcé de sanctions administratives, elle en avise la personne concernée par lettre recommandée avec demande d'avis de réception postal.
+Lorsque la Commission décide d'engager une procédure susceptible d'aboutir au prononcé de sanctions administratives, elle en avise la personne concernée par lettre recommandée avec demande d'avis de réception.
 
 Cette lettre précise les motifs pour lesquels la sanction est envisagée et informe en outre l'intéressé de ce qu'il :
 

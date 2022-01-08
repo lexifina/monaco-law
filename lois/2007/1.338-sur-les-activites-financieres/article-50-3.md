@@ -1,0 +1,5 @@
+# Article 50-3
+
+Est puni de deux ans d'emprisonnement et de cent millions d'euros d'amende, ce montant pouvant être porté jusqu'au décuple du montant de l'avantage retiré du délit, sans que l'amende puisse être inférieure à ce même avantage, le fait, par une personne disposant d'une information privilégiée concernant un émetteur au sein duquel elle exerce les fonctions de directeur général, de président, de membre du directoire, de gérant, de membre du conseil d'administration, de membre du conseil de surveillance ou une fonction équivalente ou au sein duquel elle détient une participation, par une personne disposant d'une information privilégiée à l'occasion de sa profession ou de ses fonctions ou à l'occasion de sa participation à la commission d'un crime ou d'un délit, ou par toute autre personne disposant d'une information privilégiée en connaissance de cause, de la communiquer à un tiers, à moins qu'elle ne prouve que cette communication intervient dans le cadre normal de sa profession ou de ses fonctions, y compris lorsqu'elle relève d'un sondage de marché.
+
+La tentative de l'infraction prévue au précédent alinéa est punie des mêmes peines.

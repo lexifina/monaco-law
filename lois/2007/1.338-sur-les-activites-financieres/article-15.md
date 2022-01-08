@@ -1,6 +1,6 @@
 # Article 15
 
-Aucune poursuite fondée sur l'article 308 du Code pénal ne peut être intentée contre l'organisme financier, ses dirigeants, ses préposés ou toute autre personne qui, conformément aux dispositions des articles 12 et 13, ont, de bonne foi, transmis des informations, communiqué des documents ou participé à une audition.
+Aucune poursuite fondée sur l'article 308 du Code pénal ne peut être intentée contre l'organisme financier, ses dirigeants, ses préposés ou toute autre personne qui, conformément aux dispositions des articles 12 à 13-6 ont, de bonne foi, transmis des informations, communiqué des documents ou participé à une audition.
 
 Aucune action en responsabilité civile ne peut être engagée ni aucune sanction professionnelle prononcée contre ces mêmes personnes lorsqu'elles ont agi dans les conditions du précédent alinéa.
 

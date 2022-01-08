@@ -1,13 +1,13 @@
 # Article 13
 
-Aux fins d'accomplissement de la mission de la Commission, son Président peut, sur décision du Bureau, habiliter une ou des personnes en vue de procéder à une enquête.
+Aux fins d'accomplissement de ses missions, lorsque la Commission décide de procéder à un contrôle et, ou, à une enquête, le Président désigne à ces fins pour chaque contrôle et enquête une ou plusieurs personnes dûment habilitées.
 
-Il peut décider, sur avis favorable du Bureau, de désigner un expert à l'effet d'assister les personnes habilitées en vertu de l'alinéa précédent. Cet expert doit également faire l'objet d'une habilitation.
+Ces contrôleurs ou enquêteurs sont choisis parmi les agents du Secrétariat Général.
 
-À cet effet, ces personnes reçoivent un ordre de mission nominatif, établi et signé par le Président, faisant état de l'habilitation de son titulaire et devant être présenté à la demande des autorités ou des personnes concernées.
+Le Président de la Commission peut en outre décider, sur avis favorable du Bureau, de désigner un expert en considération de ses compétences, à l'effet d'assister les personnes habilitées en vertu de l'alinéa précédent. Cet expert doit également faire l'objet d'une habilitation.
 
-Les personnes habilitées peuvent accéder à tous locaux professionnels et procéder, sur pièces ou sur place, à toutes opérations d'enquête qu'elles jugent nécessaires. Elles peuvent, à cette fin, demander la communication de tous documents professionnels, et en prendre copie si nécessaire, ainsi que recueillir auprès de toute personne, sur convocation ou sur place, tous renseignements ou justifications utiles. Les personnes auditionnées peuvent se faire assister d'un conseil de leur choix.
+L'habilitation délivrée par le Président, ne peut l'être qu'à des personnes présentant toutes les garanties d'honorabilité et qui ne se trouvent pas en situation de conflit d'intérêts, ainsi que définies par ordonnance souveraine.
 
-La visite des locaux et les enquêtes sur place ne peuvent avoir lieu qu'entre six et vingt et une heures et en présence des dirigeants ou des représentants des sociétés agréées ou, à défaut, d'un officier de police judiciaire requis à la demande des personnes habilitées.
+Les personnes habilitées reçoivent pour chaque contrôle et, ou, enquête, un ordre de mission nominatif, établi et signé par le Président ou le Secrétaire Général par délégation, faisant état de leur habilitation et devant être présenté à la demande des autorités ou des personnes concernées.
 
-Lorsque, dans l'exercice des attributions qui leur sont conférées par le Président de la Commission, sur décision du Bureau, les personnes habilitées acquièrent la connaissance de faits susceptibles de recevoir la qualification de crimes ou de délits, elles en avisent sans délai le Président de la Commission, lequel, sur décision du Bureau, en informe le Procureur Général.
+Le contenu de l'ordre de mission est précisé par ordonnance souveraine.

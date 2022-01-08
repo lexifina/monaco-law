@@ -1,11 +1,11 @@
 # Article 16
 
-Pour les besoins de la surveillance sur base consolidée des sociétés mères des sociétés agréées, la Commission peut, sur demande d'une autorité étrangère de supervision, lui transmettre des informations sur ces dernières ; elle peut, aux mêmes fins, procéder ou faire procéder à des enquêtes, conformément aux dispositions des articles 12 et 13.
+Dans le cadre de l'accomplissement de ses missions, la Commission peut conclure avec des autorités étrangères compétentes pour la surveillance des marchés financiers des accords de coopération prévoyant notamment des échanges d'informations.
 
-La Commission peut également procéder ou faire procéder auxdites enquêtes, à la demande d'autorités étrangères compétentes pour la surveillance des marchés financiers, en vertu d'une convention de coopération et d'échange d'informations conclue entre elle et lesdites autorités.
+Cette coopération n'est possible que sous réserve de réciprocité et à condition que les informations communiquées bénéficient de garanties de secret professionnel au moins équivalentes à celles auxquelles est soumise la Commission.
 
-Dans le cadre des auditions menées en application des deux précédents alinéas, le Bureau peut, le cas échéant, autoriser un représentant de l'autorité étrangère à assister à celles-ci.
+L'échange d'informations prévu par les accords de coopération doit être destiné à l'exécution des missions desdites autorités et les informations ne peuvent être transmises et utilisées que dans les conditions et aux fins prévues par lesdits accords.
 
-Le secret professionnel et l'obligation de discrétion prévus à l'article 14 ne font pas obstacle à la communication, par la Commission, des informations qu'elle détient ou qu'elle recueille, à leur demande, aux autorités étrangères qui ont signé une convention avec elle.
+Les informations communiquées par la Commission à une autorité étrangère ne peuvent être transmises au profit d'une autre autorité que dans les conditions prévues par les accords de coopération ou à défaut de précision, qu'avec l'autorisation expresse préalable de la Commission, et aux seules fins pour lesquelles elle a donné son accord.
 
-Toutefois, la transmission d'informations à une autorité étrangère de supervision ou l'assistance demandée par une autorité étrangère de surveillance des marchés financiers, avec laquelle une convention de coopération et d'échange d'informations a été signée, peut être refusée lorsque l'exécution de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre public monégasques, ou lorsqu'une procédure pénale quelconque a déjà été engagée à Monaco sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été, pour les mêmes faits, sanctionnées par une décision administrative ou judiciaire.
+De même, les informations reçues par la Commission d'une autorité étrangère ne peuvent être transmises au profit d'une autre autorité que dans les conditions prévues par les accords de coopération ou à défaut de précision, qu'avec l'accord exprès de l'autorité qui les lui a communiquées et aux seules fins pour lesquelles elle a donné son accord.

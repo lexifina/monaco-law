@@ -1,5 +1,5 @@
 # Article 19
 
-Lorsque la Commission constate que les dispositions législatives ou réglementaires dont elle surveille l'application ne sont pas respectées, elle met en demeure la société agréée concernée afin de faire cesser les irrégularités constatées ou d'en supprimer les effets, dans le délai qu'elle détermine.
+La Commission et le Service d'Information et de Contrôle sur les Circuits Financiers peuvent se communiquer des renseignements utiles à l'accomplissement de leurs missions respectives.
 
-Lorsque la mise en demeure est restée infructueuse au terme du délai imparti, le Président de la Commission peut, sur décision du Bureau, demander au Président du Tribunal de Première Instance, saisi et statuant comme en matière de référé, d'ordonner à la société agréée de se conformer à la mise en demeure. Celui-ci peut assortir sa décision d'une astreinte. Il peut également prendre, s'il en est requis, toutes mesures conservatoires nécessaires à la sauvegarde des intérêts des clients de la société agréée.
+Les renseignements recueillis conformément au précédent alinéa sont couverts par le secret professionnel ; ils ne peuvent être utilisés qu'aux fins pour lesquelles ils ont été communiqués, sauf accord préalable.

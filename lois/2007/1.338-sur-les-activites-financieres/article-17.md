@@ -1,5 +1,11 @@
 # Article 17
 
-La communication d'informations à des autorités étrangères mentionnées à l'article précédent avec lesquelles une convention de coopération et d'échange d'informations a été signée n'est possible que sous réserve de réciprocité et à condition que ladite autorité soit soumise au secret professionnel avec les mêmes garanties qu'en Principauté. Ces informations ne peuvent être utilisées à d'autres fins que celles pour lesquelles elles ont été communiquées.
+Dans le cadre des accords de coopération mentionnés à l'article 16, la Commission peut également procéder ou faire procéder à des enquêtes.
 
-Des échanges d'informations peuvent également avoir lieu avec l'autorité centrale nationale en charge de la lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption dans les mêmes conditions.
+La Commission peut y donner suite en y procédant elle-même en permettant, le cas échéant, à l'autorité requérante d'y participer ou d'y assister, éventuellement par l'intermédiaire de commissaires aux comptes ou d'experts qu'elle désigne avec l'accord de la Commission.
+
+Le secret professionnel et l'obligation de discrétion prévus à l'article 14 ne font pas obstacle à la communication par la Commission des informations qu'elle détient ou qu'elle recueille à leur demande, aux autorités étrangères qui sont liées avec elle par un accord de coopération.
+
+Lorsque la Commission est invitée à coopérer à une enquête, à un contrôle sur place ou à un échange d'informations, elle ne peut refuser d'y donner suite que lorsque l'exécution de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre public monégasques ou lorsqu'une procédure pénale quelconque a déjà été engagée à Monaco sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées pour les mêmes faits par une décision passée en force de chose jugée.
+
+En cas de refus, la Commission en informe l'autorité compétente.

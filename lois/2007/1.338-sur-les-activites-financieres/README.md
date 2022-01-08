@@ -1,8 +1,8 @@
 # Loi n° 1.338 du 7 septembre 2007 sur les activités financières
 
-Version en vigueur au 7 juillet 2018.
+Version en vigueur au 8 janvier 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2007/09-07-1.338@2018.07.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2007/09-07-1.338@2022.01.08/
 
 | | |
 | --- | --- |
