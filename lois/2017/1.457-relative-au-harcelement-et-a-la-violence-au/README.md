@@ -1,8 +1,8 @@
 # Loi n° 1.457 du 12 décembre 2017 relative au harcèlement et à la violence au travail
 
-Version en vigueur au 23 décembre 2017.
+Version en vigueur au 8 janvier 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/12-12-1.457@2017.12.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/12-12-1.457@2022.01.08/
 
 | | |
 | --- | --- |
