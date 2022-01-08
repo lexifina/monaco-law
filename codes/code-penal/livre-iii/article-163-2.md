@@ -6,7 +6,7 @@ Est puni de six mois à un an d'emprisonnement et de l'amende prévue au chiffre
 
 - 2° le fait d'avoir, en état d'ivresse, pénétré ou tenté de pénétrer dans une enceinte sportive, par force, par ruse ou par fraude lors du déroulement ou de la retransmission en public d'une manifestation sportive ;
 
-- 3°le fait d'introduire, de porter ou d'exhiber dans une enceinte sportive ou à ses abords immédiats, à l'occasion du déroulement ou de la retransmission en public d'une manifestation sportive, des insignes, signes ou symboles rappelant une idéologie raciste ou xénophobe, prétendue ou avérée ;
+- 3° le fait d'introduire, de porter ou d'exhiber dans une enceinte sportive ou à ses abords immédiats, à l'occasion du déroulement ou de la retransmission en public d'une manifestation sportive, des insignes, signes ou symboles rappelant une idéologie raciste ou xénophobe, prétendue ou avérée ;
 
 - 4° le fait de troubler le déroulement d'une compétition ou de porter atteinte à la sécurité des personnes ou des biens, en pénétrant sur l'aire de compétition d'une enceinte sportive ;
 

@@ -52,7 +52,7 @@ les infractions suivantes :
 
   - les incendies, destructions, dégradations et dommages, visés aux articles 369 à 377, 380 à 382, 385, 386 et 389 :
 
-  - l'entrave ou l'altération d'un système d'information, visées à l'article 389-2.
+  - l'entrave ou l'altération d'un système d'
 
 Constitue également, aux conditions prévues au premier alinéa, une infraction terroriste :
 

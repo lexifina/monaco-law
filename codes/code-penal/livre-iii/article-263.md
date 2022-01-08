@@ -1,5 +1,5 @@
 # Article 263
 
-Quiconque aura commis un attentat à la pudeur, consommé ou tenté avec violence, contre un individu de l'un ou l'autre sexe, sera puni de la réclusion de cinq à dix ans.
+L'agression sexuelle se définit comme le fait d'imposer à la personne d'autrui, de commettre ou de subir, sans son consentement, tout acte à caractère sexuel sans acte de pénétration sexuelle ou acte bucco-génital.
 
-Si le crime a été commis sur la personne d'un mineur au-dessous de l'âge de seize ans accomplis, le coupable subira la peine de la réclusion de dix à vingt ans.
+Quiconque aura commis une agression sexuelle sera puni d'un emprisonnement de cinq à dix ans et de l'amende prévue au chiffre 4 de l'article 26, ou de l'une de ces deux peines seulement.
