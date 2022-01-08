@@ -8,7 +8,7 @@ On entend par :
 
 - 3° préparation officinale, tout médicament préparé en pharmacie selon les indications de la pharmacopée applicable et destiné à être dispensé directement aux patients approvisionnés par cette pharmacie ;
 
-- 4° produit officinal divisé, toute drogue simple, tout produit chimique ou toute préparation stable décrit par la pharmacopée applicable, préparé à l'avance par un établissement pharmaceutique et divisé soit par lui, soit par la pharmacie d'officine qui le met en vente, soit par une pharmacie à usage intérieur, telle que définie à l'article 31 de la loi n° 1.029 du 16 juillet 1980 concernant l'exercice de la pharmacie ;
+- 4° produit officinal divisé, toute drogue simple, tout produit chimique ou toute préparation stable décrit par la pharmacopée applicable, préparé à l'avance par un établissement pharmaceutique et divisé soit par lui, soit par la pharmacie d'officine qui le met en vente, soit par une pharmacie à usage intérieur ;
 
 - 5° sans préjudice des droits de propriété intellectuelle, spécialité générique d'une spécialité de référence, celle qui a la même composition qualitative et quantitative en principe actif, la même forme pharmaceutique et dont la bioéquivalence avec la spécialité de référence est démontrée par des études de biodisponibilité appropriées. La spécialité de référence et les spécialités qui en sont génériques constituent un groupe générique. Pour l'application du présent paragraphe. les différentes formes pharmaceutiques orales à libération immédiate sont considérées comme une même forme pharmaceutique :
 
