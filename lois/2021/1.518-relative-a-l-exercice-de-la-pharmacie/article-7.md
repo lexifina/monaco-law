@@ -1,0 +1,3 @@
+# Article 7
+
+Par dérogation aux dispositions du chiffre 4) de l'article 5, en cas d'accident nucléaire ou d'acte terroriste constituant une menace sanitaire grave nécessitant leur délivrance ou leur distribution en urgence, les produits de santé issus des stocks de l'État et figurant sur une liste fixée par arrêté ministériel peuvent être délivrés ou distribués sous la responsabilité du Ministre d'État, lorsqu'aucun pharmacien n'est présent, par d'autres professionnels de santé que les pharmaciens et, à défaut, par les militaires de la force publique, les fonctionnaires de la police ou les fonctionnaires et agents de l'État, ces derniers étant désignés dans des conditions fixées par arrêté ministériel.
