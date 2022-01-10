@@ -4,7 +4,7 @@ Les règles relatives à l'établissement et au contrôle d'un justificatif ment
 
 1) aux déplacements entre le territoire monégasque et un pays étranger dans les conditions particulières fixées par la Décision Ministérielle du 24 février 2020, modifiée, susvisée ;
 
-2) à l'accès aux établissements, lieux et évènements mentionnés aux articles 7, 8, 8-1, 8-2 et 9-1 dans les conditions particulières fixées par ces mêmes articles ;
+2) à l'accès aux établissements, lieux, évènements, chantiers, mentionnés aux articles 7, 8, 8-1, 8-2 et 9-1 dans les conditions particulières fixées par ces mêmes articles ;
 
 3) à la pratique d'une activité sportive mentionnée à l'article 9 dans les conditions particulières fixées par ce même article.
 
