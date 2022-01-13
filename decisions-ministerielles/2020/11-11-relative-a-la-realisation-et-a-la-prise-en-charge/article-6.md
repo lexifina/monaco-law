@@ -1,6 +1,6 @@
 # Article 6
 
-La personne mentionnée au chiffre 1, 2, 3, 4 ou 5 de l'article 2 remplit, pour chaque patient sur lequel elle réalise le test mentionné audit article, une fiche contenant les modalités de la traçabilité du résultat du test suivantes :
+La personne mentionnée à l'un des chiffres 1 à 5 de l'article 2 remplit, pour chaque patient sur lequel elle réalise le test mentionné audit article, une fiche contenant les modalités de la traçabilité du résultat du test suivantes :
 
 - l'identification du patient ;
 
@@ -10,7 +10,7 @@ La personne mentionnée au chiffre 1, 2, 3, 4 ou 5 de l'article 2 remplit, pour 
 
 - la date et l'heure de réalisation du test ;
 
-- l'identification de la personne ayant réalisé le test. Lorsque le test est réalisé sous la responsabilité d'un professionnel de santé conformément aux dispositions du chiffre 3 ou 5 de l'article 2, cette fiche est signée par ce professionnel.
+- l'identification de la personne ayant réalisé le test. Lorsque le test est réalisé sous la responsabilité d'un professionnel de santé conformément aux dispositions du chiffre 3, 4 bis ou 5 de l'article 2, cette fiche est signée par ce professionnel.
 
 À la demande du professionnel de santé, un modèle de fiche lui est communiqué par la Direction de l'Action Sanitaire.
 
