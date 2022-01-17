@@ -10,12 +10,14 @@ Toutefois, les dispositions des premier et troisième alinéas ne s'appliquent p
 
 Toute personne présente sur un chantier de bâtiment ou de travaux publics est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour exercer son activité, à l'exception des interventions d'urgence.
 
+Toute personne dont l'exercice professionnel est indispensable pour la continuité d'activité d'une entreprise ou d'un service public assurant des services essentiels à la population, dont la liste est fixée en annexe, est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder à son lieu de travail. Le responsable de cette entreprise ou de ce service public détermine les personnes concernées.
+
 La présentation d'un des justificatifs mentionnés à l'article 2 est contrôlée dans les conditions fixées à l'article 5.
 
-À défaut de présentation de l'un de ces justificatifs, l'accès à l'établissement, lieu, évènement, chantier, compétition ou local est refusé.
+À défaut de présentation de l'un de ces justificatifs, l'accès à l'établissement, lieu, évènement, chantier, entreprise, service, compétition ou local est refusé.
 
-Toutefois, lorsque la personne mentionnée aux trois premiers alinéas ou au cinquième alinéa présente :
+Toutefois, lorsque la personne mentionnée aux trois premiers alinéas ou au cinquième ou sixième alinéa présente :
 
-1) un justificatif de résultat négatif d'un test mentionné au chiffre 1 de l'article 2 d'au plus 72 heures, elle peut accéder à l'établissement, lieu, évènement, chantier, compétition ou local et continuer à y exercer ses fonctions ;
+1) un justificatif de résultat négatif d'un test mentionné au chiffre 1 de l'article 2 d'au plus 72 heures, elle peut accéder à l'établissement, lieu, évènement, chantier, entreprise, service, compétition ou local et continuer à y exercer ses fonctions ;
 
-2) un justificatif de statut vaccinal mentionné au chiffre 2 de l'article 2 justifiant, dans le cadre d'un schéma vaccinal comprenant plusieurs doses, de l'administration de la première dose, elle peut, jusqu'au 16 janvier 2022 inclus, accéder à l'établissement, lieu, évènement, chantier, compétition ou local et continuer à y exercer ses fonctions.
+2) un justificatif de statut vaccinal mentionné au chiffre 2 de l'article 2 justifiant, dans le cadre d'un schéma vaccinal comprenant plusieurs doses, de l'administration de la première dose, elle peut, jusqu'au 23 janvier 2022 inclus, accéder à l'établissement, lieu, évènement, chantier, entreprise, service, compétition ou local et continuer à y exercer ses fonctions.
