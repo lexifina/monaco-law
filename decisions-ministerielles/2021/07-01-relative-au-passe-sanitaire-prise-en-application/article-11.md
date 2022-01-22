@@ -4,7 +4,7 @@ En application du premier alinéa de l'article 26 de la loi n° 1.488 du 11 mai 
 
 1) le fait, pour :
 
-a) l'exploitant ou le responsable d'un établissement, d'une structure, d'un lieu, d'un chantier, d'une entreprise ou d'un service ou bien l'organisateur d'un évènement, mentionnés aux articles 7, 8, 8-1, 8-2 et 9-1, de ne pas avoir refusé l'accès à une personne ne présentant pas l'un des justificatifs mentionnés à l'article 2 lorsque cette présentation est exigée par lesdits articles 7, 8, 8-1, 8-2 et 9-1 ;
+a) l'exploitant ou le responsable d'un établissement, d'une structure, d'un lieu, d'une entreprise ou d'un service ou bien l'organisateur d'un évènement ou bien encore l'employeur de toute personne présente sur un chantier de bâtiment ou de travaux publics, mentionnés aux articles 7, 8, 8-1, 8-2 et 9-1, de ne pas avoir refusé l'accès à une personne ne présentant pas l'un des justificatifs mentionnés à l'article 2 lorsque cette présentation est exigée par lesdits articles 7, 8, 8-1, 8-2 et 9-1 ;
 
 b) l'association ou la fédération sportive ou bien le responsable ou l'exploitant d'une salle de sport ou bien encore le coach, mentionnés à l'article 9, d'avoir laissé une personne âgée d'au moins douze ans et deux mois pratiquer une activité sportive ou participer à une activité de coaching sportif sans avoir préalablement présenté l'un des justificatifs mentionnés à l'article 2 lorsque cette présentation est exigée par ledit article 9 ;
 
