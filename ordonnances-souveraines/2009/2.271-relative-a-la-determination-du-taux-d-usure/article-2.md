@@ -1,15 +1,15 @@
 # Article 2
 
-Pour l'année 2021, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
+Pour l'année 2022, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
 
 Pour les particuliers :
 
-- Découverts : 15,10 %
+- Découverts : 14,88 %
 
-- Prêts personnels : 3,11 %
+- Prêts personnels : 3,32 %
 
-- Prêts immobiliers : 1,59 %
+- Prêts immobiliers : 1,44 %
 
 Pour les entreprises et entrepreneurs individuels :
 
-- Découverts : 7,85 %.
+- Découverts : 8,36 %
