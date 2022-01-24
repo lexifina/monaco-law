@@ -24,7 +24,7 @@ Conformément à l'alinéa précédent, l'immobilisation peut être prescrite af
 
 - 8 - lorsque le véhicule circule en infraction aux règles relatives à la visite technique des véhicules immatriculés en Principauté ;
 
-- 9 - lorsque le véhicule n'est pas immatriculé ;
+- 9 - lorsque le véhicule n'est pas conforme aux prescriptions édictées à l'article 91 ou qu'il n'est pas immatriculé, que ce défaut d'immatriculation soit manifeste ou déduit des caractéristiques apparentes des plaques apposées ;
 
 - 10 - lorsque l'appareil de contrôle permettant l'enregistrement de la vitesse a été l'objet d'une modification affectant son fonctionnement normal ;
 

@@ -18,7 +18,7 @@ Les infractions aux dispositions de l'article 11 seront punies :
 
 Les infractions aux dispositions des articles 4, alinéa 2, 5 et 39, en ce qui concerne les signaux lumineux de circulation, 47 à 53, 64 à 67, 70 à 100, 111, 112, 115, 132, 136 à 140, 143 à 147, 149, 150, 154 à 155, 170, 172 2°/, 175 bis, 181 à 182 bis, 182-3, 182-8, 182-10 et 182-15 ou aux arrêtés pris en vue de leur application seront punies d'une amende de 15 à 300 euros.
 
-Les infractions aux dispositions de l'article 32 sont punies d'une amende de 45 à 75 euros.
+Les infractions aux dispositions de l'article 6, du premier alinéa de l'article 10 et de l'article 32 sont punies d'une amende de 45 à 75 euros.
 
 Les infractions aux dispositions de l'article 32-1 sont punies d'une amende de 75 à 150 euros.
 
