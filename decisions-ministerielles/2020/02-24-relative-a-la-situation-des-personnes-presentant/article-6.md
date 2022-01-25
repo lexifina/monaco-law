@@ -6,10 +6,6 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - l'Arabie Saoudite ;
 
-- l'Argentine ;
-
-- l'Australie ;
-
 - Bahreïn ;
 
 - la Corée du Sud ;
@@ -42,13 +38,7 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - l'Afghanistan ;
 
-- l'Afrique du Sud ;
-
 - la Biélorussie ;
-
-- le Botswana ;
-
-- l'Eswatini ;
 
 - les États-Unis ;
 
@@ -56,17 +46,7 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - l'Île Maurice ;
 
-- le Lesotho ;
-
-- le Malawi ;
-
-- la Moldavie ;
-
 - le Monténégro ;
-
-- le Mozambique ;
-
-- la Namibie ;
 
 - le Nigéria ;
 
@@ -76,18 +56,8 @@ La zone rouge mentionnée à l'article 5 comprend :
 
 - le Royaume-Uni ;
 
-- la Russie ;
-
-- la Serbie ;
-
 - le Suriname ;
 
 - la Tanzanie ;
 
-- la Turquie ;
-
-- l'Ukraine ;
-
-- la Zambie ;
-
-- le Zimbabwe.
+- la Turquie.
