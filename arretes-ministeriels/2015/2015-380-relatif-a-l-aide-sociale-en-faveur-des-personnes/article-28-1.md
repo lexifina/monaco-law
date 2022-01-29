@@ -1,17 +1,17 @@
 # Article 28-1
 
-Le nombre et les montants des différentes catégories de tickets service sont fixés comme suit à compter du 1er janvier 2021 :
+Le nombre et les montants des différentes catégories de tickets service sont fixés comme suit à compter du 1er janvier 2022.
 
 - Tickets service :
 
-- (distribution semestrielle) 79,50 euros
+- (distribution semestrielle) 81,90 euros
 
-- (6 tickets à 13,25 euros)
+- (6 tickets à 13,65 euros)
 
 - Tickets service :
 
-- (distribution trimestrielle) 375 euros
+- (distribution trimestrielle) 387 euros
 
-- (30 tickets à 1,50 euros
+- (48 tickets à 1,50 euros
 
-- + 66 tickets à 5,00 euros)
+- + 63 tickets à 5,00 euros)
