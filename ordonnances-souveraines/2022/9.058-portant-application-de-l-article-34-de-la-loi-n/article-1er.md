@@ -1,0 +1,3 @@
+# Article 1er
+
+Les personnes visées à l'article 34 de la loi n° 1.383 du 2 août 2011, modifiée, susvisée, dont l'activité est d'offrir un accès à des services de communication au public en ligne ainsi que les personnes physiques ou morales qui assurent, même à titre gratuit, pour mise à disposition du public par des services de communication au public en ligne, le stockage de signaux, d'écrits, d'images, de sons ou de messages de toute nature fournis par des destinataires de ces services, détiennent et conservent les données de nature à permettre l'identification de quiconque a contribué à la création du contenu ou de l'un des contenus des services dont elles sont prestataires.
