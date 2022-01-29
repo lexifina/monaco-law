@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.964 du 6 décembre 2021 créant un Comité de coordination et de suivi de la stratégie nationale de lutte contre le blanchiment de capitaux, le financement du terrorisme, la prolifération des armes de destruction massive et la corruption
 
-Version en vigueur au 18 décembre 2021.
+Version en vigueur au 29 janvier 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/12-06-8.964@2021.12.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/12-06-8.964@2022.01.29/
 
 | | |
 | --- | --- |
