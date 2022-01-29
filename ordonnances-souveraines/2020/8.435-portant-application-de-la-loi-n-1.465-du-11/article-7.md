@@ -1,7 +1,7 @@
 # Article 7
 
-Le montant maximum du revenu minimum correspond à 60 % du salaire de référence net mentionné à l'article 4 pour une personne seule et à 55 % dudit salaire pour chacun des allocataires membre d'un même foyer ouvrant droit au revenu minimum.
+L'admission au bénéfice du revenu minimum est prononcée par le Directeur de l'Action et de l'Aide Sociales lorsque les conditions d'ouverture du droit sont réunies.
 
-Si le montant du revenu minimum ajouté aux ressources du foyer excède le plafond de ressources visé à l'article 4, ce montant est réduit de telle manière qu'il n'excède pas le plafond précité.
+Le revenu minimum est versé mensuellement à terme échu à compter du mois suivant le dépôt de la demande accompagnée des pièces prévues à l'article précédent et de la mise en place d'un suivi socio-éducatif effectif et régulier, tel que prévu à l'article 21 de la loi n° 1.465 du 11 décembre 2018, modifiée, susvisée.
 
-Le revenu minimum est majoré pour chaque enfant à charge, dans les conditions prévues par arrêté ministériel.
+Il cesse d'être dû à compter du premier jour du mois suivant celui au cours duquel les conditions d'ouverture du droit ne sont plus remplies.

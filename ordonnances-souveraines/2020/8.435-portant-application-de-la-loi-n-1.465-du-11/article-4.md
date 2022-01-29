@@ -1,9 +1,5 @@
 # Article 4
 
-Conformément à l'article 16 de la loi n° 1.465 du 11 décembre 2018, modifiée, susvisée, le revenu minimum institué par l'article 21 de ladite loi, ne peut être versé au demandeur qu'à la condition que les ressources mensuelles du foyer soient inférieures aux plafonds de ressources suivants :
+Au sens de la présente Ordonnance, les ressources comprennent l'ensemble des revenus, pensions et indemnités de toute nature perçues par le foyer, ainsi que tous les avantages sociaux, à l'exception des allocations pour charge de famille, de l'allocation d'éducation spéciale et de ses compléments, des allocations perçues au titre de l'aide à la famille monégasque, des bourses d'études, des revenus professionnels de l'étudiant, de toute allocation logement et de la prestation d'autonomie.
 
-- 1) 60 % du salaire minimum de référence net pour une personne seule ;
-
-- 2) 55 % dudit salaire de référence net par membre d'un couple marié ou de deux personnes vivant maritalement.
-
-Le salaire minimum de référence mentionné à l'alinéa précédent est fixé annuellement par arrêté ministériel.
+Les avoirs bancaires dont le montant est supérieur à 4.000 euro(s) pour chaque membre majeur du foyer, à l'exception des étudiants, sont inclus dans le calcul des ressources.

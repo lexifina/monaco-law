@@ -1,13 +1,11 @@
 # Article 5
 
-Toute demande de revenu minimum est adressé à la Direction de l'Action et de l'Aide Sociales, accompagnée des pièces suivantes :
+Conformément à l'article 16 de la loi n° 1.465 du 11 décembre 2018, modifiée, susvisée, le revenu minimum institué par l'article 21 de ladite loi, ne peut être versé au demandeur qu'à la condition que les ressources mensuelles du foyer soient inférieures aux plafonds de ressources suivants :
 
-- 1) copie de la carte d'identité du demandeur ;
+- 1) 60 % du salaire minimum de référence net pour une personne seule ;
 
-- 2) une fiche familiale d'état civil du demandeur ou une copie du livret de famille ;
+- 2) 55 % dudit salaire par membre d'un couple marié ou de deux personnes vivant maritalement ;
 
-- 3) une déclaration contenant le montant des ressources de toute nature perçues par chaque membre du foyer au cours des douze derniers mois ou une attestation sur l'honneur de chaque membre du foyer de l'absence de ressources ;
+- 3) 50 % dudit salaire pour chaque membre majeur du foyer autre que ceux visés aux chiffres 1 et 2.
 
-- 4) une copie de tout justificatif des ressources, notamment une attestation bancaire pour les revenus et capitaux mobiliers ;
-
-- 5) un relevé d'identité postale ou bancaire pour chaque allocataire membre d'un même foyer.
+Le salaire minimum de référence mentionné à l'alinéa précédent est révisé annuellement au 1er janvier, par arrêté ministériel.
