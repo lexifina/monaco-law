@@ -1,12 +1,12 @@
 # Article 1er
 
-Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2020 :
+Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2022 :
 
 Nourriture :
 
-Un repas au cours d'une journée : 3,73 euro(s)
+Un repas au cours d'une journée : 3,76 euro(s)
 
-Deux repas au cours d'une journée : 7,46 euro(s)
+Deux repas au cours d'une journée : 7,52 euro(s)
 
 Logement pour les salariés des catégories suivantes :
 
@@ -20,9 +20,9 @@ Logement pour les salariés des catégories suivantes :
 
 * Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
 
-Par semaine : 18,65 euro(s)
+Par semaine : 18,80 euro(s)
 
-Par mois : 74,60 euro(s)
+Par mois : 75,20 euro(s)
 
 Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé.
 
