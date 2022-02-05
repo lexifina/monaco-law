@@ -2,7 +2,7 @@
 
 Les postes consulaires sont les suivants :
 
-- Afrique du Sud : Johannesburg, Cap Town,
+- Afrique du Sud : Johannesburg ;
 
 - Allemagne (République Fédérale d') : Düsseldorf, Francfort/Main, Hambourg, Munich, Potsdam, Stuttgart ;
 
@@ -116,6 +116,8 @@ Les postes consulaires sont les suivants :
 
 - Mozambique (République du) ; Maputo ;
 
+- Népal : Katmandou ;
+
 - Niger : Niamey ;
 
 - Norvège : Oslo ;
@@ -169,6 +171,8 @@ Les postes consulaires sont les suivants :
 - Suède : Göteborg, Stockolm ;
 
 - Suisse : Bâle, Berne, Genève, Lugano, Zurich ;
+
+- Sultanat d'Oman : Muscat ;
 
 - Thaïlande : Bangkok ;
 
