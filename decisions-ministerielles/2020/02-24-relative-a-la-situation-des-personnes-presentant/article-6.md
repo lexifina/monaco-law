@@ -12,7 +12,11 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - les Émirats arabes unis ;
 
+- le Honduras ;
+
 - Hong-Kong ;
+
+- l'Indonésie ;
 
 - le Japon ;
 
@@ -28,36 +32,8 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - Taïwan ;
 
-- l'Uruguay ;
-
 - le Vanuatu.
 
 La zone orange mentionnée à l'article 4 comprend les pays qui ne sont pas classés dans les zones verte et rouge.
 
-La zone rouge mentionnée à l'article 5 comprend :
-
-- l'Afghanistan ;
-
-- la Biélorussie ;
-
-- les États-Unis ;
-
-- la Géorgie ;
-
-- l'Île Maurice ;
-
-- le Monténégro ;
-
-- le Nigéria ;
-
-- le Pakistan ;
-
-- la République démocratique du Congo ;
-
-- le Royaume-Uni ;
-
-- le Suriname ;
-
-- la Tanzanie ;
-
-- la Turquie.
+La zone rouge mentionnée à l'article 5 ne comprend aucun pays.
