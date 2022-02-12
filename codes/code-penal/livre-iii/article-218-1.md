@@ -2,6 +2,4 @@
 
 Les infractions visées à l'article précédent sont constituées alors même que l'infraction génératrice des fonds blanchis a été commise à l'étranger si elle est punissable en Principauté et dans l'État où elle a été perpétrée.
 
-La tentative des infractions précitées sera punie des mêmes peines que le délit consommé.
-
-Il en sera de même de l'entente ou de l'association en vue de les commettre.
+Si l'infraction génératrice des fonds blanchis n'est pas punissable dans l'État où elle a été perpétrée, les infractions visées à l'article précédent sont constituées si les biens, capitaux, ou revenus blanchis proviennent d'une infraction commise à l'étranger et prévue aux articles 113-2, 115 à 118, 121 et 122-1, 209 à 211, 261 à 269-1, 294-3, 294-5, 294-6, et 391-1 à 391-9 du Code pénal, à l'article 15 et au chiffre 3° de l'alinéa premier de l'article 16 de la loi n° 1.299 du 15 juillet 2005 sur la liberté d'expression publique, modifiée, s'agissant de la provocation aux actes de terrorisme, aux articles 4, et 8 à 11 de l'Ordonnance Souveraine n° 605 du 1er août 2006 portant application de la Convention des Nations Unies contre la criminalité transnationale organisée, de son Protocole additionnel visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants, et de son Protocole additionnel contre le trafic illicite de migrants par terre, air et mer, adoptés à New York le 15 novembre 2000, et aux deux premiers alinéas de l'article 2 et à l'article 2-1 de la loi n° 890 du 1er juillet 1970 sur les stupéfiants modifiée.
