@@ -13,3 +13,5 @@ La transmission desdits renseignements à d'autres autorité ou service ne peut 
 - - lorsqu'elle serait pour une autre raison contraire aux principes fondamentaux du droit national de cette cellule de renseignement.
 
 Tout refus est dûment motivé.
+
+Après avoir reçu des informations de cellules de renseignement financier étrangères qui exercent des compétences analogues ou d'autorités étrangères engagées dans la lutte contre le blanchiment de capitaux, le financement du terrorisme et la prolifération des armes de destruction massive, le Service d'Information et de Contrôle sur les Circuits Financiers assure un retour d'information en temps opportun, lorsque lesdites cellules ou autorités lui en font la demande.

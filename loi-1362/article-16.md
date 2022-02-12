@@ -1,6 +1,8 @@
 # Article 16
 
-Il est interdit aux organismes et personnes visés aux chiffres 1°) à 4°) de l'article premier d'établir ou de maintenir une relation de correspondant bancaire avec un établissement de crédit, un établissement financier ou avec un établissement exerçant des activités équivalentes, dans un pays où il n'a aucune présence physique effective par laquelle s'exerceraient une direction ou une gestion effectives, s'il n'est pas rattaché à un établissement ou à un groupe réglementé.
+Il est interdit aux organismes et personnes visés aux chiffres 1°) à 4°) de l'article premier d'établir ou de maintenir une relation de correspondance bancaire avec un établissement de crédit, un établissement financier ou avec un établissement exerçant des activités équivalentes, dans un pays où il n'a aucune présence physique effective par laquelle s'exerceraient une direction ou une gestion effectives, s'il n'est pas rattaché à un établissement ou à un groupe réglementé soumis à une surveillance consolidée et effective.
+
+Une présence physique effective désigne la présence d'une direction et d'un pouvoir de décision dans un pays. La simple présence d'un agent local ou de personnel non décisionnaire ne constitue pas une présence physique effective.
 
 Les organismes et personnes visés aux chiffres 1°) à 4°) de l'article premier prennent des mesures appropriées pour s'assurer qu'elles n'établissent ni ne maintiennent aucune relation de correspondant avec une personne entretenant elle-même des relations de banque correspondante, permettant à un établissement constitué dans les conditions mentionnées à l'alinéa précédent, d'utiliser ses comptes.
 

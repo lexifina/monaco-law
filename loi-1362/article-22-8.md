@@ -16,4 +16,4 @@ Tant qu'une décision irrévocable n'a pas été rendue concernant la requête m
 
 Les dérogations prévues par le présent article ne peuvent être accordées que pour la durée des circonstances qui la justifient sans dépasser une période maximale de cinq ans. Elles peuvent être renouvelées par décision, selon les cas, du Ministre d'État ou du Président du Tribunal de première instance, à la suite d'une demande de renouvellement motivée de l'entité immatriculée ou du bénéficiaire effectif.
 
-Dans le cadre de la mise en œuvre de leurs obligations de vigilance en application des dispositions de l'article 22-6, les dérogations prévues au présent article ne sont pas applicables aux organismes et personnes visés aux chiffres 1°) à 3°) de l'article premier.
+Dans le cadre de la mise en œuvre de leurs obligations de vigilance en application des dispositions de l'article 22-6, les dérogations prévues au présent article ne sont pas applicables aux organismes et personnes visés aux chiffres 1°) à 4°) de l'article premier.

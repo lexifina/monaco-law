@@ -1,6 +1,10 @@
 # Article 46
 
-Le Service d'Information et de Contrôle sur les Circuits Financiers est la cellule nationale de renseignement financier chargée de recevoir et d'analyser les déclarations de transactions suspectes reçues des organismes et des personnes visés à l'article premier, ainsi que toutes les informations pertinentes concernant la lutte contre le blanchiment de capitaux, les infractions sous-jacentes associées, le financement du terrorisme, la corruption et la prolifération des armes de destruction massive. Dans l'exercice de ses missions, il agit en toute indépendance et ne reçoit d'instruction d'aucune autorité.
+Le Service d'Information et de Contrôle sur les Circuits Financiers est la cellule nationale de renseignement financier chargée de recevoir et d'analyser les déclarations de transactions suspectes reçues des organismes et des personnes visés à l'article premier, ainsi que toutes les informations pertinentes concernant la lutte contre le blanchiment de capitaux, les infractions sous-jacentes associées visées à l'article 218-3 du Code pénal, le financement du terrorisme, la corruption et la prolifération des armes de destruction massive.
+
+Il analyse également les déclarations de transactions suspectes et les informations pertinentes que lui transmet, selon le cas, le Procureur Général ou le Bâtonnier de l'Ordre des avocats-défenseurs et avocats dans les conditions de l'article 40.
+
+Dans l'exercice de ses missions, le Service d'Information et de Contrôle sur les Circuits Financiers agit en toute indépendance et ne reçoit d'instruction d'aucune autorité.
 
 Ce service exerce ses attributions dans les conditions prévues par la présente loi et ses textes d'application.
 

@@ -9,3 +9,5 @@ L'autorité compétente notifie la décision de rétention à la personne tenue 
 La durée de la rétention ne peut pas excéder une durée de quinze jours ; elle est renouvelable sur autorisation du Procureur Général pour une durée maximum de soixante jours.
 
 Au terme de la période de rétention, l'argent liquide est remis à la disposition de la personne physique à qui l'argent liquide a été retiré à titre temporaire, sans préjudice de la possibilité d'une saisie ultérieure par les autorités judiciaires.
+
+Lorsque des poursuites sont engagées, le Président du Tribunal de première instance peut ordonner, sur réquisitions du Procureur Général, une mise sous séquestre de tout ou partie des fonds concernés par l'obligation de déclaration, jusqu'à la décision définitive de la juridiction statuant au fond. La mainlevée totale ou partielle des mesures conservatoires peut être demandée à tout moment.

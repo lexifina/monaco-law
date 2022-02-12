@@ -56,7 +56,23 @@ Dans la mesure où elles le prévoient expressément, les dispositions de la pr�
 
 - 15°) les commerçants et personnes, négociant des biens, uniquement dans la mesure où la valeur de la transaction ou d'une série de transactions liées est réglée en espèces pour un montant égal ou supérieur à un montant fixé par ordonnance souveraine ;
 
-- 16°) les commerçants et personnes qui négocient ou agissent en qualité d'intermédiaires dans le commerce des œuvres d'art, y compris lorsque celui-ci est réalisé par des galeries d'art et des maisons de vente aux enchères, uniquement lorsque la valeur de la transaction ou d'une série de transactions liées est d'un montant égal ou supérieur à un montant fixé par ordonnance souveraine ;
+- 15° bis) les commerçants et personnes qui exercent les activités suivantes :
+
+  - - la haute joaillerie ;
+
+  - - le commerce de métaux précieux et de pierres précieuses n'ayant pas fait l'objet d'un sertissage, d'un assemblage ou d'une transformation dans le cadre de la conception d'articles de bijouterie ou de joaillerie traditionnelle ;
+
+  - - le rachat de métaux précieux et de pierres précieuses ;
+
+  - - l'horlogerie de luxe ;
+
+  - - la vente ou la location d'aéronefs ;
+
+  - - la vente ou la location de navires de grande plaisance ;
+
+- 15° ter) les commerçants et personnes qui organisent la vente de véhicules terrestres à moteur uniquement lorsque la valeur de la transaction ou d'une série de transactions liées est égale ou supérieure à un montant fixé par ordonnance souveraine, déterminé en fonction du mode de règlement ;
+
+- 16°) les commerçants et personnes qui négocient ou agissent en qualité d'intermédiaires dans le commerce des œuvres d'art et des antiquités, y compris lorsque celui-ci est réalisé par des galeries d'art et des maisons de vente aux enchères, uniquement lorsque la valeur de la transaction ou d'une série de transactions liées est d'un montant égal ou supérieur à un montant fixé par ordonnance souveraine ;
 
 - 17°) les personnes qui entreposent ou négocient des œuvres d'art ou agissent en qualité d'intermédiaires dans le commerce des œuvres d'art quand celui-ci est réalisé dans des ports francs, lorsque la valeur de la transaction ou d'une série de transactions liées est d'un montant égal ou supérieur à un montant fixé par ordonnance souveraine ;
 

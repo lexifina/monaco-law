@@ -1,6 +1,6 @@
 # Article 36
 
-Les organismes et les personnes visés à l'article premier sont tenus de déclarer au Service d'Information et de Contrôle sur les Circuits Financiers, en considération de leur activité, toutes les sommes et fonds inscrits dans leurs livres, toutes les opérations ou tentatives d'opérations portant sur des sommes ou fonds dont ils savent, soupçonnent ou ont des motifs raisonnables de soupçonner qu'ils proviennent de l'une des infractions de blanchiment de capitaux, de financement du terrorisme ou de corruption.
+Les organismes et les personnes visés à l'article premier sont tenus de déclarer au Service d'Information et de Contrôle sur les Circuits Financiers, en considération de leur activité, toutes les sommes et fonds inscrits dans leurs livres, toutes les opérations ou tentatives d'opérations portant sur des sommes ou fonds dont ils savent, soupçonnent ou ont des motifs raisonnables de soupçonner qu'ils proviennent d'une infraction visée à l'article 218-3 du Code pénal, ou sont liés au financement du terrorisme ou à la corruption.
 
 Ils sont également tenus à cette même obligation dans l'hypothèse où une opération engendrant une suspicion légitime est refusée ou ne peut être menée à terme à l'initiative, du fait ou par la faute du client ou en raison d'indices précis et concordants laissant présumer d'une participation aux infractions visées par la présente loi.
 

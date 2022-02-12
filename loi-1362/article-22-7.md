@@ -1,6 +1,6 @@
 # Article 22-7
 
-Toutes autres personnes que celles visées aux articles 22-5 et 22-6 ont accès, après information de la personne morale concernée, aux seules informations du registre des bénéficiaires effectifs suivantes :
+Toutes autres personnes que celles visées aux articles 22-5 et 22-6 ont accès, après information de la personne morale et des bénéficiaires effectifs concernés, aux seules informations du registre des bénéficiaires effectifs suivantes :
 
 - - le nom ;
 

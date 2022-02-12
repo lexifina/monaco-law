@@ -1,6 +1,6 @@
 # Article 58-1
 
-Les autorités de contrôle visées aux articles 54 et 57 mettent en œuvre une approche de la surveillance fondée sur les risques. À cet effet, elles :
+Les autorités de contrôle visées aux articles 54 et 57 mettent en œuvre une approche de la surveillance fondée sur les risques. Cette approche prend notamment en considération les caractéristiques, la diversité et le nombre des professionnels visés aux articles premier et 2. À cet effet, elles :
 
 - 1°) doivent mettre en œuvre les actions et moyens nécessaires à une bonne compréhension des risques de blanchiment de capitaux, de financement du terrorisme et de corruption ;
 
