@@ -1,6 +1,6 @@
 # Article 1er
 
-La présente décision s'applique aux :
+La présente décision s'applique jusqu'au 4 mars 2022 inclus aux :
 
 - salariés affiliés à la Caisse de Compensation des Services Sociaux ;
 
