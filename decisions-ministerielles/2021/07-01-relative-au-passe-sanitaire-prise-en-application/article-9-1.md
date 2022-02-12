@@ -1,6 +1,6 @@
 # Article 9-1
 
-Toute personne exerçant une activité professionnelle, y compris administrative, dans un établissement, lieu ou évènement mentionnés aux articles 7 et 8 ou dans un établissement hôtelier est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder aux heures d'ouverture au public à cet établissement, lieu ou évènement, à l'exception des activités de livraison et des interventions d'urgence.
+Toute personne exerçant une activité professionnelle, y compris administrative, dans un établissement, lieu ou évènement mentionnés aux articles 7 et 8, dans un établissement ayant une activité de salon de coiffure, d'institut de beauté, de bar à ongles ou de salon de tatouage ou dans un établissement hôtelier est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder aux heures d'ouverture au public à cet établissement, lieu ou évènement, à l'exception des activités de livraison et des interventions d'urgence.
 
 Toute personne exerçant une activité professionnelle, y compris administrative, dans un établissement, lieu, compétition ou local mentionnés à l'article 9 est tenue de présenter l'un des justificatifs mentionnés à l'article 2 pour pouvoir accéder aux heures d'ouverture au public à cet établissement, lieu, compétition ou local, à l'exception des activités de livraison et des interventions d'urgence.
 
