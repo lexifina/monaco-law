@@ -18,4 +18,6 @@ Elle peut également prononcer soit la suspension temporaire de l'agrément pour
 
 - 6°) lorsque la poursuite de son activité est de nature à porter atteinte aux intérêts des clients ;
 
-- 7°) a méconnu les dispositions de la loi n° 1.439 du 2 décembre 2016 portant création de l'activité de multi family office ou de ses textes d'application de manière substantielle et réitérée.
+- 7°) a méconnu les dispositions de la loi n° 1.439 du 2 décembre 2016 portant création de l'activité de multi family office ou de ses textes d'application de manière substantielle et réitérée ;
+
+- 8°) a méconnu les dispositions de la loi n° 1.522 du 11 février 2022 relative aux indices de référence.
