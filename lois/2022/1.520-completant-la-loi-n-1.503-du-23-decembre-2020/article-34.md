@@ -1,0 +1,7 @@
+# Article 34
+
+Sous réserve qu'ils remplissent les conditions fixées par l'article 65-1, telles que modifiées par la présente loi, les huit membres de la commission instituée à l'article 65-1 de la loi n° 1.362 du 3 août 2009, modifiée, nommés par l'Ordonnance Souveraine n° 7.814 du 27 novembre 2019, dont le mandat est en cours à la date d'entrée en vigueur de la présente loi, sont maintenus en fonction jusqu'au terme de leur mandat.
+
+Il est procédé, dans les deux mois de l'entrée en vigueur de la présente loi, pour la durée restant à courir du mandat des membres de la commission maintenus en fonction, à la nomination d'un neuvième membre sur désignation du Ministre d'État, conformément aux dispositions du troisième tiret du deuxième alinéa de l'article 65-1 de la loi n° 1.362 du 3 août 2009, modifiée, telles qu'elles résultent de la présente loi. Il est également procédé dans le même délai et pour la même durée, à la nomination des membres de la commission en remplacement de ceux qui ne rempliraient pas les conditions précitées.
+
+Les dispositions du septième alinéa de l'article 65-1 relatives à la récusation des membres de la commission ne seront applicables qu'à compter de la date d'entrée en vigueur des dispositions réglementaires relatives aux modalités de récusation des membres, lesquelles devront être publiées au Journal de Monaco au plus tard dans un délai de deux mois à compter de la date d'entrée en vigueur de la présente loi.
