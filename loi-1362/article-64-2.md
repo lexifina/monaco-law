@@ -1,8 +1,6 @@
 # Article 64-2
 
-Créé à compter du 31 août 2021 par la loi n° 1.503 du 23 décembre 2020
-
-Ces déclarations font l'objet d'un traitement informatisé dénommé « registre des comptes bancaires et des coffres-forts »qui recense les comptes existants et les coffres forts ouverts. Ce registre est tenu par le Service d'Information et de Contrôle sur les Circuits Financiers.
+Ces déclarations font l'objet d'un traitement informatisé dénommé « registre des comptes bancaires et des coffres-forts » qui recense les comptes existants et les coffres forts ouverts. Ce registre est tenu par le Service d'Information et de Contrôle sur les Circuits Financiers.
 
 Les informations contenues dans ce registre sont directement accessibles au Service d'Information et de Contrôle sur les Circuits Financiers, de manière immédiate et non filtrée.
 
