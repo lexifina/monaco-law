@@ -1,0 +1,1 @@
+Loi n° 1.521 du 11 février 2022 portant diverses mesures pénales en matière de lutte contre le blanchiment de capitaux et contre la fraude et la contrefaçon des moyens de paiement autres que les espèces
