@@ -1,6 +1,6 @@
 # Article 13-4
 
-Les informations prévues à l'article 6-1 sont également accessibles aux organismes et aux personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, dans le cadre des mesures de vigilance à l'égard de leur clientèle, après information du trustee ou de la personne occupant une fonction équivalente dans une construction juridique similaire.
+Les informations du registre des trusts sont également accessibles aux organismes et aux personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, dans le cadre des mesures de vigilance à l'égard de leur clientèle, après information du trustee ou de la personne occupant une fonction équivalente dans une construction juridique similaire.
 
 Le Ministre d'État communique ces informations sous la forme d'un extrait du registre des trusts.
 

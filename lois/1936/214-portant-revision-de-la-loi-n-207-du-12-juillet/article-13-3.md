@@ -1,6 +1,6 @@
 # Article 13-3
 
-Les informations prévues à l'article 6-1 sont accessibles au Service d'Information et de Contrôle sur les Circuits Financiers, sans restriction et sans information de la personne concernée.
+Les informations du registre des trusts sont accessibles au Service d'Information et de Contrôle sur les Circuits Financiers, sans restriction et sans information de la personne concernée.
 
 Ces informations sont également accessibles, dans les mêmes conditions et dans le seul cadre de la lutte contre le blanchiment de capitaux ou le financement du terrorisme, aux autorités publiques compétentes et aux personnes suivantes :
 
