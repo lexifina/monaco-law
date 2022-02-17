@@ -24,11 +24,11 @@ Les créances privilégiées sur la généralité des meubles sont celles ci-apr
 
 - 3° Les créances dues pour l'année échue et l'année courante aux mandataires judiciaires à la protection des personnes et les cotisations, intérêts et majorations de retard, dus en vertu des textes qui les régissent, pour la même période, aux organismes ou institutions particulières agréées, chargés d'assurer, soit le service des prestations sociales de toute nature ou des pensions de retraite, soit la prévention médicale du travail, soit encore un complément de la réparation pécuniaire des accidents du travail :
 
-  - - les cotisations et les mêmes accessoires, dus pour les mêmes périodes aux institutions de retraites complémentaires et de prévoyance ainsi qu'aux institutions d'assurance chômage auxquelles les entreprises de la Principauté sont tenues d'adhérer en vertu d'accords collectifs ou de dispositions légales ou réglementaires ;
+  - les cotisations et les mêmes accessoires, dus pour les mêmes périodes aux institutions de retraites complémentaires et de prévoyance ainsi qu'aux institutions d'assurance chômage auxquelles les entreprises de la Principauté sont tenues d'adhérer en vertu d'accords collectifs ou de dispositions légales ou réglementaires ;
 
-  - - les cotisations et les mêmes accessoires, dus pour les mêmes périodes aux caisses de congés payés ;
+  - les cotisations et les mêmes accessoires, dus pour les mêmes périodes aux caisses de congés payés ;
 
-  - - la créance de l'établissement d'assurances en paiement du capital correspondant aux rentes et pensions dont il doit assurer le service en exécution d'un jugement rendu en application de l'article 42 de la loi n° 636 du 11 janvier 1958 modifiée par la loi n° 790 du 18 août 1965 ;
+  - la créance de l'établissement d'assurances en paiement du capital correspondant aux rentes et pensions dont il doit assurer le service en exécution d'un jugement rendu en application de l'article 42 de la loi n° 636 du 11 janvier 1958 modifiée par la loi n° 790 du 18 août 1965 ;
 
 - 4° Les droits et taxes de toute nature dus au Trésor en vertu des lois ainsi que les frais de justice en matière criminelle, correctionnelle et de simple police ;
 

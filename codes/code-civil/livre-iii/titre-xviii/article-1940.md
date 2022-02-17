@@ -6,7 +6,7 @@ Les créanciers privilégiés sur les immeubles sont :
 
 - S'il y a plusieurs ventes successives dont le prix soit dû en tout ou en partie, le premier vendeur est préféré au second, le deuxième au troisième, et ainsi de suite ;
 
-- 1° bis.- Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au chiffre 2°, le syndicat des copropriétaires, sur le lot vendu, pour le paiement des charges mentionnées à l'article 7 de la loi relative à la copropriété des immeubles bâtis et des travaux engagés par la copropriété, de l'année courante et des quatre dernières années échues ;
+- 1° bis .- Conjointement avec le vendeur et, le cas échéant, avec le prêteur de deniers mentionné au chiffre 2°, le syndicat des copropriétaires, sur le lot vendu, pour le paiement des charges mentionnées à l'article 7 de la loi relative à la copropriété des immeubles bâtis et des travaux engagés par la copropriété, de l'année courante et des quatre dernières années échues ;
 
 - Toutefois, le syndicat est préféré au vendeur et au prêteur de deniers pour les créances afférentes aux charges et travaux de l'année courante et des deux dernières années échues ;
 

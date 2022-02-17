@@ -1,11 +1,11 @@
 # Code civil
 
-Version en vigueur au 12 décembre 2020.
+Version en vigueur au 17 février 2022.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-civil@2020.12.12/
+Source : Legimonaco, https://legimonaco.mc/code/code-civil@2022.02.17/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code civil |
-| Dernière modification | 12 décembre 2020 |
+| Dernière modification | 17 février 2022 |
