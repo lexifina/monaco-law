@@ -1,5 +1,5 @@
 # Article 405
 
-Toute instance sera éteinte par discontinuation de poursuites pendant un an.
+Toute instance sera éteinte par discontinuation de poursuites pendant deux ans.
 
-Ce délai sera augmenté de cent quatre-vingts jours si le demandeur meurt avant qu'il soit écoulé.
+Toutefois ce délai sera augmenté de cent quatre-vingts jours si une partie à l'instance a formé une demande et meurt avant qu'il soit écoulé.

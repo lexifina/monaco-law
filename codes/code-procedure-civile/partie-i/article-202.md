@@ -1,7 +1,7 @@
 # Article 202
 
-L'exécution provisoire est ordonnée sans caution par le tribunal, à la demande des parties, s'il y a titre authentique, promesse reconnue ou condamnation précédente par jugement dont il n'y a point appel.
+Hors les cas dans lesquels la décision en bénéficie de plein droit, l'exécution provisoire peut être ordonnée, à la demande des parties ou d'office, par la décision qu'elle est destinée à rendre exécutoire, sous réserve des dispositions de l'article 203.
 
-Elle peut être ordonnée, avec ou sans caution dans tous les cas d'urgence, à moins qu'elle ne soit de nature à produire des effets irréparables.
+Sont notamment exécutoires de droit à titre provisoire les ordonnances de référé, les décisions qui prescrivent des mesures provisoires pour le cours de l'instance, et celles qui ordonnent des mesures conservatoires.
 
-Elle ne peut l'être pour les dépens quand même ils sont adjugés pour tenir lieu de dommages-intérêts.
+L'exécution provisoire peut être ordonnée pour tout ou partie de la condamnation, chaque fois que le juge l'estime nécessaire et compatible avec la nature de l'affaire, à condition qu'elle ne soit pas interdite par la loi. Elle peut aussi être accordée pour le paiement de l'amende civile, de l'indemnité de l'article 238 et des dépens et des frais non compris dans les dépens.

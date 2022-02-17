@@ -8,6 +8,6 @@ Toutefois, le délai de comparution est au moins d'un jour pour les personnes do
 
 Dans les autres cas, le président fixe le délai en tenant compte de la distance.
 
-S'il y a extrême urgence, le président peut permettre d'assigner de jour à jour et d'heure à heure, même en sa demeure et les samedi, dimanche et jours fériés.
+S'il y a extrême urgence, le président peut permettre d'assigner de jour à jour et d'heure à heure, même les samedi, dimanche et jours fériés.
 
-Le président peut ordonner la réassignation du défendeur au jour et à l'heure qu'il indique.
+Le juge des référés s'assure que le délai qui s'est écoulé entre la délivrance de l'exploit d'assignation et l'audience qu'il a fait naître, est de nature à avoir permis à la personne citée de préparer sa défense. À défaut, le président peut ordonner la réassignation du défendeur au jour et à l'heure qu'il indique.

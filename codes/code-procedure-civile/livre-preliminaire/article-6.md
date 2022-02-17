@@ -1,6 +1,6 @@
 # Article 6
 
-Le juge de paix connaît de toutes actions purement personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 1 800 euros et, à charge d'appel, jusqu'à la valeur de 4 600 euros.
+Le juge de paix connaît de toutes actions purement personnelles ou mobilières, en dernier ressort, jusqu'à la valeur de 3.000 euros et, à charge d'appel, jusqu'à la valeur de 10.000 euros.
 
 Sont exceptées :
 

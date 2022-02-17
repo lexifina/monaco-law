@@ -1,6 +1,6 @@
 # Article 10
 
-Le juge de paix connaît également, sans appel, jusqu'à la valeur de 700 euros et, à charge d'appel, jusqu'à la valeur de 1 800 euros :
+Le juge de paix connaît également, sans appel, jusqu'à la valeur de 1.500 euros et, à charge d'appel, jusqu'à la valeur de 3.000 euros :
 
 - 1° des actions pour dommages faits aux propriétés rurales, clôtures, fruits et récoltes, soit par l'homme, soit par les animaux ; de celles relatives à l'élagage des arbres ou haies et à la coupe des racines qui se prolongent sur l'héritage voisin ; de celles relatives au curage, soit des fossés, soit des canaux servant à l'irrigation ou au drainage des propriétés ou au mouvement des usines et moulins, lorsque les droits de propriété ou de servitude ne sont pas contestés ;
 

@@ -16,7 +16,7 @@ Le ministère public donnera ses conclusions dans les causes suivantes :
 
 - 7° (7° abrogé) ;
 
-- 8° Les causes concernant la dot, mobilière ou immobilière, sous le régime dotal ;
+- 8° (8° abrogé) ;
 
 - 9° Les causes des mineurs même émancipés ; celles des interdits, des personnes placées dans un établissement d'aliénés, des personnes pourvues d'un conseil judiciaire, et généralement celles où l'une des parties est représentée par un curateur ou un administrateur judiciaire ;
 
@@ -24,9 +24,9 @@ Le ministère public donnera ses conclusions dans les causes suivantes :
 
 - 11° Celles dans lesquelles le défendeur, qui n'a dans la Principauté ni domicile ni résidence connus, n'a pas été touché par l'assignation et ne comparaît pas ;
 
-- 12° Les causes des personnes qui ont obtenu l'assistance judiciaire ;
+- 12° (12° abrogé) ;
 
-- 13° Les demandes d'envoi en possession de succession ;
+- 13° (13° abrogé) ;
 
 - 14° Les demandes en reconnaissances ou vérification d'écriture, si la sincérité de l'acte est contestée ;
 
@@ -38,7 +38,7 @@ Le ministère public donnera ses conclusions dans les causes suivantes :
 
 - 18° Les incidents de la saisie immobilière ;
 
-- 19° Les contredits dans les distributions par contribution et dans les ordres ;
+- 19° (19° abrogé) ;
 
 - 20° Les causes concernant les faillites ;
 

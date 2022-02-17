@@ -1,6 +1,6 @@
 # Article 7
 
-Le juge de paix connaît, sans appel, jusqu'à la valeur de 1 800 euros et, à charge d'appel, jusqu'à la valeur de 4 600 euros ;
+Le juge de paix connaît, sans appel, jusqu'à la valeur de 3.000 euros et, à charge d'appel, jusqu'à la valeur de 10.000 euros ;
 
 - 1° des indemnités réclamées par le locataire ou fermier pour non-jouissance provenant du fait du propriétaire, lorsque le droit à une indemnité n'est pas contesté ;
 

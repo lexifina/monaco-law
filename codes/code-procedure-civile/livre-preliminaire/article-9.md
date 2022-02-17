@@ -1,6 +1,6 @@
 # Article 9
 
-Le juge de paix connaît, sans appel, jusqu'à la valeur de 1 800 euros et à charge d'appel, jusqu'à la valeur de 4 600 euros :
+Le juge de paix connaît, sans appel, jusqu'à la valeur de 3.000 euros et à charge d'appel, jusqu'à la valeur de 10.000 euros :
 
 - 1° des actions en paiement de loyers ou fermages dus en vertu de tous baux de meubles ou d'immeubles ;
 
@@ -12,7 +12,7 @@ Le juge de paix connaît, sans appel, jusqu'à la valeur de 1 800 euros et à ch
 
 - 5° des demandes en validité et en nullité ou en mainlevées des saisies-gageries ou des saisies-revendications portant sur des meubles déplacés sans le consentement du propriétaire, dans le cas prévu par l'article 1939 - paragraphe premier - du Code civil.
 
-Le tout lorsque ces locations verbales ou par écrit n'excèdent pas annuellement 4 600 euros.
+Le tout lorsque ces locations verbales ou par écrit n'excèdent pas annuellement 10.000 euros.
 
 Cette compétence pour les actions résultant des paragraphes 1°, 2°, 3° et 4° du présent article, est limitée par l'application des dispositions des lois exceptionnelles en matière de location de locaux à usage commercial ou de locaux à usage d'habitation.
 

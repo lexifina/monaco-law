@@ -1,3 +1,3 @@
 # Article 350
 
-Le juge chargé du contrôle convoque les parties et l'expert pour fixer la date et le lieu du commencement des opérations ainsi que le montant de la provision prévue au troisième alinéa de l'article 346.
+Lorsque le juge chargé du contrôle des expertises constate, ou lorsque les parties ou l'expert l'informent, que ni la date ni le lieu de commencement des opérations n'ont été fixés dans un délai raisonnable à compter de la désignation de l'expert, le juge chargé du contrôle des expertises convoque les parties et l'expert à cette fin. Il convoque aussi les mêmes personnes lorsque le tribunal n'avait pas été en mesure de déterminer le montant de la provision prévue au troisième alinéa de l'article 346. Dans ces cas, préalablement à la convocation, le juge demande à l'expert de lui communiquer plusieurs dates et heures ainsi que le montant auquel il estime sa rémunération lorsqu'elle est prévisible et la provision qu'il sollicite.

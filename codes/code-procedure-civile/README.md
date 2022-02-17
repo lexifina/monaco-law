@@ -1,11 +1,11 @@
 # Code de procédure civile
 
-Version en vigueur au 31 octobre 2020.
+Version en vigueur au 17 février 2022.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-procedure-civile@2020.10.31/
+Source : Legimonaco, https://legimonaco.mc/code/code-procedure-civile@2022.02.17/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de procédure civile |
-| Dernière modification | 31 octobre 2020 |
+| Dernière modification | 17 février 2022 |

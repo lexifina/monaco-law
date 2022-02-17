@@ -1,3 +1,7 @@
 # Article 177
 
-Lorsque l'instruction de la cause paraîtra l'exiger, le tribunal ordonnera que les parties se communiqueront réciproquement, avant les plaidoiries, dans un délai qu'il fixera pour l'une et pour l'autre, des écritures préparatoires ou conclusions motivées sur papier libre, ainsi que les pièces dont elles entendront faire usage.
+Le président ou le magistrat par lui délégué pourra, lorsque l'instruction de la cause paraît l'exiger, établir, en sollicitant l'avis des parties, un calendrier de mise en état. Ce calendrier indiquera le nombre prévisible et la date des échanges des conclusions, écritures et pièces, la date de leur dernier dépôt possible, et celle des plaidoiries.
+
+Les parties pourront également convenir de délais pour conclure et les faire acter par le président ou le magistrat par lui délégué.
+
+Le calendrier ne pourra être modifié par le Président ou le magistrat par lui délégué que lorsqu'il constatera un commun accord entre toutes les parties. Il pourra également l'être s'il apparaît ou se révèle une cause grave et dûment justifiée ou des circonstances exceptionnelles dûment justifiées.

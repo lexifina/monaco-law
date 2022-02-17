@@ -8,4 +8,4 @@ Le juge de paix connaît, à charge d'appel, à quelque chiffre que la demande p
 
 - 3° des actions relatives aux constructions et travaux énoncés dans l'article 559 du Code civil, lorsque la propriété ou la mitoyenneté du mur ne sont pas contestées ;
 
-- 4° des demandes en pension alimentaire n'excédant pas en totalité 4 600 euros par an, et seulement lorsqu'elles sont formées en vertu des articles 174, 175 et 176 du Code civil.
+- 4° des demandes en pension alimentaire n'excédant pas en totalité 10.000 euros par an, et seulement lorsqu'elles sont formées en vertu des articles 174, 175 et 176 du Code civil.

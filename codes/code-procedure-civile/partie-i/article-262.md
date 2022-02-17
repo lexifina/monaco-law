@@ -1,3 +1,3 @@
 # Article 262
 
-La partie qui entendra décliner la compétence du tribunal de première instance devra la déclarer préalablement à toute exception, hormis celle de la caution à fournir par les étrangers.
+Sous réserve de l'application de l'article 10 du Code de droit international privé, la partie qui entendra décliner la compétence du tribunal de première instance devra, à peine d'irrecevabilité, la déclarer préalablement à toute exception.
