@@ -1,6 +1,6 @@
 # Article 21 quinquies
 
-Si l'accident a entraîné une incapacité de travail permanente, totale ou partielle, dès que la consolidation est constatée par un certificat médical qui doit être transmis sans délai au juge, celui-ci désigne, sauf accord des parties sur le taux de l'incapacité, un médecin expert avec mission de fixer ce taux. Les parties sont avisées de cette désignation par lettre recommandée avec accusé de réception.
+Si l'accident a entraîné une incapacité de travail permanente, totale ou partielle, dès que la consolidation est constatée par un certificat médical qui doit être transmis sans délai au juge, celui-ci désigne, sauf accord des parties sur le taux de l'incapacité, un médecin expert avec mission de fixer ce taux. Les parties sont avisées de cette désignation par lettre recommandée avec accusé de réception. L'accord sur le taux d'incapacité, constaté par une ordonnance du juge, est irrévocable, sauf modification de l'état de la victime.
 
 Le juge surveille les opérations de l'expert afin d'éviter tout retard dans l'accomplissement de sa mission. Il peut, en raison de circonstances spéciales, accorder à l'expert pour exécuter ses opérations un plus long délai que celui de l'article 23.
 

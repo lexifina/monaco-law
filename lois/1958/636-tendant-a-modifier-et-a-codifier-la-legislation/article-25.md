@@ -14,4 +14,4 @@ Il ordonne une expertise médicale à l'effet d'examiner la victime. En cas de d
 
 Il communique les conclusions du rapport aux parties, convoquées par lettre recommandée avec accusé de réception.
 
-S'il y a accord entre les parties, conforme aux prescriptions de la présente loi, le chiffre de la rente est fixé par ordonnance du juge, conformément au deuxième alinéa de l'article 21 quater. En cas de désaccord, il est procédé comme il est dit au dernier alinéa de cet article.
+S'il y a accord entre les parties, conforme aux prescriptions de la présente loi, le chiffre de la rente est fixé par ordonnance du juge, conformément au deuxième alinéa de l'article 21 quater. En cas de désaccord, il est procédé comme il est dit au dernier alinéa de cet article. L'accord ou le désaccord, constaté par l'ordonnance du juge, est irrévocable, sauf modification de l'état de la victime.
