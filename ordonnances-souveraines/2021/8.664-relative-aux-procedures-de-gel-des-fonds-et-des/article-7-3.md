@@ -1,0 +1,5 @@
+# Article 7-3
+
+Le contrôle de l'application des dispositions de la présente ordonnance par les organismes et les personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, est exercé selon le cas par les agents du Service d'Information et de Contrôle sur les Circuits Financiers, dans les conditions prévues par les articles 54 à 56, et 58-1 de ladite loi, par le Procureur Général qui peut se faire assister par les agents du Service d'Information et de Contrôle sur les Circuits Financiers, dans les conditions prévues par les articles 57, 58 et 58-1 de ladite loi, ou par le Bâtonnier de l'Ordre des Avocats-défenseurs et Avocats, dans les conditions prévues par les articles 57-1 et 58 de ladite loi.
+
+Lorsque les investigations menées par le Service d'Information et de Contrôle sur les Circuits Financiers ou le Bâtonnier de l'Ordre des Avocats-défenseurs et Avocats font apparaître un indice sérieux de commission de l'infraction prévue à l'article 12, ils en saisissent le Procureur Général.

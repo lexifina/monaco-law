@@ -2,7 +2,7 @@
 
 Pour l'application de la présente ordonnance, sont qualifiés :
 
-- a. « Fonds » : les actifs financiers et les avantages économiques de toute nature, et notamment, mais non exclusivement :
+- a . « Fonds » : les actifs financiers et les avantages économiques de toute nature, matériels ou immatériels, corporels ou incorporels, mobiliers ou immobiliers, quel que soit leur mode d'acquisition, ainsi que les actes juridiques ou instruments sous toute forme, y compris électronique ou numérique, attestant la propriété de ces avoirs ou les droits y relatifs et notamment, mais non exclusivement :
 
   - - le numéraire, les chèques, les créances en numéraire, les traites, les ordres de paiement et autres instruments ou moyens de paiement ;
 
@@ -22,7 +22,9 @@ Pour l'application de la présente ordonnance, sont qualifiés :
 
   - - out document attestant la détention de parts d'un fonds ou de ressources financières ;
 
-  - - tout autre instrument de financement à l'exportation.
+  - - tout autre instrument de financement à l'exportation ;
+
+  - - les actifs financiers virtuels.
 
 - b . « Ressources économiques » : les avoirs, de quelque nature que ce soit, corporels ou incorporels, mobiliers ou immobiliers, qui ne sont pas des fonds mais peuvent être utilisés pour obtenir des fonds, des biens ou des services.
 
