@@ -8,13 +8,41 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - Bahreïn ;
 
+- le Cap Vert ;
+
+- le Cambodge ;
+
+- la Colombie
+
 - la Corée du Sud ;
 
+- la Côte d'Ivoire ;
+
+- Cuba ;
+
 - les Émirats arabes unis ;
+
+- l'Équateur ;
+
+- le Gabon ;
+
+- le Ghana ;
+
+- la Guinée ;
+
+- la Guinée équatoriale ;
+
+- la Guinée Bissau ;
 
 - le Honduras ;
 
 - Hong-Kong ;
+
+-les Îles Fidji ;
+
+- l'Île Maurice ;
+
+- les Îles Samoa ;
 
 - l'Indonésie ;
 
@@ -22,7 +50,19 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Koweït ;
 
+- le Laos ;
+
+- le Maroc ;
+
+- la Mauritanie ;
+
+- le Népal ;
+
+- le Nicaragua ;
+
 - la Nouvelle-Zélande ;
+
+- l'Ouganda ;
 
 - le Qatar ;
 
@@ -30,9 +70,21 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Sénégal ;
 
+- le Sri Lanka ;
+
 - Taïwan ;
 
-- le Vanuatu.
+- la Tanzanie ;
+
+- le Tchad ;
+
+- le Togo ;
+
+- le Vanuatu ;
+
+- le Venezuela ;
+
+- le Vietnam.
 
 La zone orange mentionnée à l'article 4 comprend les pays qui ne sont pas classés dans les zones verte et rouge.
 
