@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2021-713 du 8 novembre 2021 fixant le plafond des ressources du foyer pour l'octroi de l'allocation de crèche, l'allocation de vacances et l'allocation exceptionnelle de rentrée scolaire
