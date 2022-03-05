@@ -10,45 +10,45 @@ Le montant des taxes est fixé comme suit :
 
 - 4) Annuité :
 
-  - - La première 1 euro
+  - - La première ........................... 1 euro
 
-  - - La deuxième 30 euros
+  - - La deuxième ...................... 30 euros
 
-  - - La troisième 50 euros
+  - - La troisième ....................... 50 euros
 
-  - - La quatrième 55 euros
+  - - La quatrième ...................... 55 euros
 
-  - - La cinquième 90 euros
+  - - La cinquième ..................... 90 euros
 
-  - - La sixième 120 euros
+  - - La sixième ....................... 125 euros
 
-  - - La septième 135 euros
+  - - La septième...................... 140 euros
 
-  - - La huitième 140 euros
+  - - La huitième ..................... 145 euros
 
-  - - La neuvième 150 euros
+  - - La neuvième ................... 155 euros
 
-  - - La dixième 170 euros
+  - - La dixième ...................... 175 euros
 
-  - - La onzième 210 euros
+  - - La onzième ..................... 220 euros
 
-  - - La douzième 245 euros
+  - - La douzième ................... 255 euros
 
-  - - La treizième 280 euros
+  - - La treizième .................... 290 euros
 
-  - - La quatorzième 325 euros
+  - - La quatorzième ............... 335 euros
 
-  - - La quinzième 340 euros
+  - - La quinzième .................. 350 euros
 
-  - - La seizième 355 euros
+  - - La seizième ..................... 365 euros
 
-  - - La dix-septième 365 euros
+  - - La dix-septième .............. 375 euros
 
-  - - La dix-huitième 370 euros
+  - - La dix-huitième .............. 380 euros
 
-  - - La dix-neuvième 390 euros
+  - - La dix-neuvième ............. 400 euros
 
-  - - La vingtième 415 euros
+  - - La vingtième .................. 430 euros
 
 - 5) Supplément pour paiement tardif de l'annuité : 1/5 de la taxe correspondante due
 
