@@ -1,3 +1,0 @@
-# Article 33
-
-En application de l'article 33-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, une fois par an au moins, les personnes visées aux chiffres 1°) et 2°) de l'article 2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, établissent et transmettent un rapport au Procureur Général sur les procédures de contrôle interne, de communication et de centralisation des informations destinées à la prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption. La même obligation d'établir un rapport incombe aux personnes visées au chiffre 3°) de l'article 2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, lesquelles le transmettent au Bâtonnier de l'Ordre des avocats-défenseurs et avocats.

@@ -26,7 +26,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
 - 12°) « numéro d'identification unique » : un numéro formé par une combinaison de lettres, de chiffres ou de symboles déterminée par le prestataire de services de paiement conformément aux protocoles du système de paiement et de règlement ou du système de messagerie utilisé pour effectuer le virement de fonds et qui assure la traçabilité de la transaction jusqu'au donneur d'ordre et au bénéficiaire ;
 
-- 13°) « fonds » : tous types d'avoirs, matériels ou immatériels, corporels ou incorporels, meubles ou immeubles, ainsi que les actes juridiques ou documents attestant la propriété de ces avoirs ou des droits qui y sont relatifs ;
+- 13°) « fonds » : tous types d'avoirs, matériels ou immatériels, corporels ou incorporels, meubles ou immeubles, y compris les actifs financiers virtuels au sens de l'article premier de la loi n° 1.383 du 2 août 2011 pour une Principauté numérique, modifiée, ainsi que les actes juridiques ou documents attestant la propriété de ces avoirs ou des droits qui y sont relatifs ;
 
 - 14°) « transmetteur de fonds » : toute personne qui propose à titre de profession habituelle un service financier acceptant les espèces, les chèques ou tout autre instrument de paiement ou dépôt de valeurs dans un lieu donné et payant une somme équivalente en espèces ou sous toute autre forme à un bénéficiaire situé dans une autre zone géographique au moyen d'une communication, d'un message, transfert ou d'un système de compensation auquel le service de transmission de fonds appartient. Les transactions effectuées par le biais de ce service peuvent impliquer un ou plusieurs intermédiaires et une tierce partie réceptrice du paiement final ;
 
@@ -46,7 +46,7 @@ Pour l'application de la présente ordonnance, on entend par :
 
   - b) les relations entre et parmi les établissements de crédit et les établissements financiers, y compris lorsque des services similaires sont fournis par un établissement correspondant à un établissement client, et comprenant les relations établies pour des opérations sur titres ou des transferts de fonds ;
 
-- 19°) « membre d'un niveau élevé de la hiérarchie » : un dirigeant ou un employé possédant une connaissance suffisante de l'exposition de son établissement au risque de blanchiment de capitaux et de financement du terrorisme et occupant une position hiérarchique suffisamment élevée pour prendre des décisions ayant une incidence sur cette exposition, sans qu'il s'agisse nécessairement d'un membre du conseil d'administration ;
+- 19°) « membre d'un niveau élevé de la hiérarchie » : un membre de la haute direction, un dirigeant ou un employé possédant une connaissance suffisante de l'exposition de son établissement au risque de blanchiment de capitaux et de financement du terrorisme et occupant une position hiérarchique suffisamment élevée pour prendre des décisions ayant une incidence sur cette exposition, sans qu'il s'agisse nécessairement d'un membre du conseil d'administration ;
 
 - 20°) « services de jeux d'argent et de hasard », un service impliquant une mise ayant une valeur monétaire dans des jeux de hasard, y compris les jeux impliquant un élément de compétence, tels que les loteries, les jeux de casino, les jeux de poker et les transactions portant sur des paris, qui sont fournis dans des locaux physiques ;
 
@@ -56,19 +56,19 @@ Pour l'application de la présente ordonnance, on entend par :
 
   - 1°) soit un ensemble d'entreprises composé d'une entreprise participante, de ses filiales et des entités dans lesquelles l'entreprise participante ou ses filiales détiennent des participations ainsi que des entités liées du fait que leurs organes d'administration, de direction ou de surveillance sont composés en majorité des mêmes personnes ou qu'elles sont placées sous une direction unique en vertu d'un contrat ou de clauses statutaires ;
 
-  - 2°)soit un ensemble d'entreprises fondé sur l'établissement de relations financières fortes et durables entre ces entreprises, à condition :
+  - 2°) soit un ensemble d'entreprises fondé sur l'établissement de relations financières fortes et durables entre ces entreprises, à condition :
 
     - - qu'une de ces entreprises exerce effectivement, au moyen d'une coordination centralisée, une influence dominante sur les décisions, y compris les décisions financières, des autres entreprises faisant partie du groupe ;
 
     - - et que l'établissement et la suppression de ces relations soient soumis à l'approbation préalable du contrôleur du groupe.
 
-  - L'entreprise qui exerce la coordination centralisée dans le cas visé au chiffre 2 est considérée comme l'entreprise mère et les autres entreprises comme des filiales ;
+- L'entreprise qui exerce la coordination centralisée dans le cas visé au chiffre 2 est considérée comme l'entreprise mère et les autres entreprises comme des filiales ;
 
-    - a°) « entreprise participante » : une entreprise mère au sens du c°) ou une autre entreprise qui détient une participation au sens du b°) ou une entité liée à une autre entité du fait que leurs organes d'administration, de direction ou de surveillance sont composés en majorité des mêmes personnes ou qu'elles sont placées sous une direction unique en vertu d'un contrat ou de clauses statutaires ;
+  - a°) « entreprise participante » : une entreprise mère au sens du c°) ou une autre entreprise qui détient une participation au sens du b°) ou une entité liée à une autre entité du fait que leurs organes d'administration, de direction ou de surveillance sont composés en majorité des mêmes personnes ou qu'elles sont placées sous une direction unique en vertu d'un contrat ou de clauses statutaires ;
 
-    - b°) « participation » : la détention directe ou indirecte ou par un lien de contrôle, d'au moins 20 % des droits de vote ou du capital d'une entreprise ;
+  - b°) « participation » : la détention directe ou indirecte ou par un lien de contrôle, d'au moins 20 % des droits de vote ou du capital d'une entreprise ;
 
-    - c°) « entreprise mère » : une entreprise qui contrôle de manière exclusive une entreprise au sens du chiffre 22°) Cette seconde entreprise est dénommée : « entreprise filiale » ;
+  - c°) « entreprise mère » : une entreprise qui contrôle de manière exclusive une entreprise au sens du chiffre 22°). Cette seconde entreprise est dénommée : « entreprise filiale » ;
 
 - 23°) Le contrôle exclusif par une société résulte :
 
@@ -78,8 +78,6 @@ Pour l'application de la présente ordonnance, on entend par :
 
   - 3°) soit du droit d'exercer une influence dominante sur une entreprise en vertu d'un contrat ou de clauses statutaires, lorsque le droit applicable le permet.
 
-- 24°) « actif financier virtuel » : un actif financier virtuel au sens de la loi n° 1.383 du 2 août 2011 pour une Principauté numérique ;
+- 24°) « actif financier virtuel » : un actif financier virtuel au sens de la loi n° 1.383 du 2 août 2011 pour une Principauté numérique, modifiée ;
 
-- 25°) « prestataire de services de conservation pour le compte de tiers d'actifs numériques ou d'accès à des actifs numériques » : entité fournissant des services de conservation de clés cryptographiques privées pour le compte de ses clients à des fins de détention, de stockage et de transfert d'actifs virtuels ;
-
-- 26°) les personnes visées au chiffre 26°) de la loi n° 1.362 du 3 août 2009, modifiée, susvisée : notamment les commerçants et personnes organisant la vente, la location de biens suivants : antiquités, matériaux précieux, pierres précieuses, métaux précieux, bijoux, horlogerie, maroquinerie, véhicules terrestres, aériens ou maritimes et autres objets de grande valeur.
+- 25°) « prestataire de services de conservation pour le compte de tiers d'actifs numériques ou d'accès à des actifs numériques » : entité fournissant des services de conservation de clés cryptographiques privées pour le compte de ses clients à des fins de détention, de stockage et de transfert d'actifs virtuels.

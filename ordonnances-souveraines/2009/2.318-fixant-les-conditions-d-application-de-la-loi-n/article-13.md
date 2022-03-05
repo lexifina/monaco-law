@@ -1,6 +1,6 @@
 # Article 13
 
-Les professionnels identifient le bénéficiaire effectif de la relation d'affaires et vérifient les éléments d'identification recueillis sur celui-ci par le recueil de tout document ou justificatif approprié, compte tenu des risques de blanchiment de capitaux et de financement du terrorisme présentés par la relation d'affaires.
+Les professionnels identifient le bénéficiaire effectif de la relation d'affaires et vérifient les éléments d'identification recueillis sur celui-ci par le recueil de tout document ou justificatif approprié, issu de sources fiables, compte tenu des risques de blanchiment de capitaux et de financement du terrorisme présentés par la relation d'affaires.
 
 L'identification des bénéficiaires effectifs conformément à l'article 4-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, porte sur les éléments suivants :
 

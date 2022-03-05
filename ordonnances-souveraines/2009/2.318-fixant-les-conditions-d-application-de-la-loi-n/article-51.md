@@ -1,8 +1,8 @@
 # Article 51
 
-Sous l'autorité du Directeur des Services Judiciaires, il est institué un Groupe de contact de lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption.
+Sous l'autorité du Directeur des Services Judiciaires, il est institué un Groupe de contact de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive et la corruption.
 
-Ce Groupe a pour objet d'assurer une information réciproque entre les autorités de poursuite pénale et les services de l'État concernés par la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, ainsi que de connaître toute question d'intérêt commun afin d'améliorer l'efficacité des mécanismes de coopération et de coordination mis en place au niveau opérationnel.
+Ce Groupe a pour objet d'assurer une information réciproque entre les autorités de poursuite pénale et les services de l'État concernés par la lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive et la corruption, ainsi que de connaître toute question d'intérêt commun afin d'améliorer l'efficacité des mécanismes de coopération et de coordination mis en place au niveau opérationnel.
 
 Ce Groupe présidé par le Directeur des Services Judiciaires comprend :
 
@@ -18,7 +18,7 @@ Ce Groupe présidé par le Directeur des Services Judiciaires comprend :
 
 En cas d'empêchement ou d'absence du Directeur des Services Judiciaires, le Procureur Général assure la présidence du Groupe.
 
-Le Groupe de contact peut s'adjoindre, en tant que de besoin, toute personne qualifiée intervenant ou exerçant une activité dans le domaine de la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+Le Groupe de contact peut s'adjoindre, en tant que de besoin, toute personne qualifiée intervenant ou exerçant une activité dans le domaine de la lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive et la corruption.
 
 La Direction des Services Judiciaires assure le secrétariat de ce Groupe.
 

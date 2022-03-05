@@ -16,38 +16,40 @@ Lorsque le client ou son bénéficiaire effectif, le bénéficiaire d'un contrat
 
 En outre, les mesures de vigilance visées à l'article 25-3 doivent être renforcées.
 
-Pour l'application de l'article 17 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, sont considérées comme politiquement exposées, qu'elles soient clientes, bénéficiaires effectifs ou mandataires, les personnes qui exercent ou ont exercé au cours des trois dernières années, des fonctions publiques importantes, savoir, notamment :
+Pour l'application de l'article 17 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, sont considérées comme politiquement exposées, qu'elles soient clientes, bénéficiaires effectifs ou mandataires, les personnes qui exercent ou ont exercé des fonctions publiques importantes, savoir, notamment :
 
-- - les chefs d'État ;
+- 1°) les chefs d'État ;
 
-- - les membres de gouvernements ;
+- 2°) les membres de gouvernements ;
 
-- - les membres d'assemblées parlementaires ;
+- 3°) les membres d'assemblées parlementaires ;
 
-- - les membres des cours suprêmes, des cours constitutionnelles ou d'autres hautes juridictions dont les décisions ne sont pas susceptibles de recours, sauf circonstances exceptionnelles ;
+- 4°) les membres des cours suprêmes, des cours constitutionnelles ou d'autres hautes juridictions dont les décisions ne sont pas susceptibles de recours, sauf circonstances exceptionnelles ;
 
-- - les responsables et dirigeants de partis politiques ;
+- 5°) les responsables et dirigeants de partis politiques ;
 
-- - les membres des cours des comptes et des conseils des banques centrales ;
+- 6°) les membres des cours des comptes et des conseils des banques centrales ;
 
-- - les ambassadeurs, les chargés d'affaires et les officiers supérieurs des forces armées ;
+- 7°) les ambassadeurs, les chargés d'affaires et les officiers supérieurs des forces armées ;
 
-- - les membres des organes d'administration, de direction ou de surveillance des entreprises publiques ;
+- 8°) les membres des organes d'administration, de direction ou de surveillance des entreprises publiques ;
 
-- - les hauts responsables politiques et les hauts fonctionnaires d'organisations internationales ou supranationales.
+- 9°) les directeurs, les directeurs adjoints et les membres du conseil d'une organisation internationale, ou les personnes qui occupent une position équivalente en son sein.
+
+Les organisations internationales accréditées sur le territoire de la Principauté établissent et mettent à jour, chacune en ce qui la concerne, la liste des personnes qui exercent les fonctions mentionnées au chiffre 9°).
 
 Sont considérées comme des personnes réputées être des membres de la famille des personnes politiquement exposées mentionnées au précédent alinéa :
 
-- - le conjoint ou la personne vivant maritalement avec une personne politiquement exposée ;
+- 1°) le conjoint ou la personne vivant maritalement avec une personne politiquement exposée ;
 
-- - le partenaire lié par un contrat de vie commune ou par un contrat de partenariat enregistré en vertu d'une loi étrangère ;
+- 2°) le partenaire lié par un contrat de vie commune ou par un contrat de partenariat enregistré en vertu d'une loi étrangère ;
 
-- - les ascendants ou descendants directs d'une personne politiquement exposée ainsi que leur conjoint ou leur partenaire lié par un contrat de vie commune ou par un contrat de partenariat enregistré en vertu d'une loi étrangère.
+- 3°) les ascendants ou descendants directs d'une personne politiquement exposée ainsi que leur conjoint ou leur partenaire lié par un contrat de vie commune ou par un contrat de partenariat enregistré en vertu d'une loi étrangère.
 
 Sont considérées comme des personnes étroitement associées aux personnes politiquement exposées :
 
-- - les personnes physiques identifiées comme étant les bénéficiaires effectifs d'une personne morale ou d' un fonds commun de placement, un fonds d'investissement, un trust ou un dispositif juridique comparable de droit étranger conjointement avec une personne politiquement exposée, ou pour entretenir toute autre relation d'affaires étroite avec une telle personne ;
+- 1°) les personnes physiques identifiées comme étant les bénéficiaires effectifs d'une personne morale ou d'un fonds commun de placement, un fonds d'investissement, un trust ou un dispositif juridique comparable de droit étranger conjointement avec une personne politiquement exposée, ou pour entretenir toute autre relation d'affaires étroite avec une telle personne ;
 
-- - les personnes physiques seules bénéficiaires effectifs d'une personne morale, d'un fonds commun de placement, d'un fonds d'investissement, d'un trust ou d'un dispositif juridique comparable de droit étranger connu pour avoir été établie au profit d'une personne politiquement exposée.
+- 2°) les personnes physiques seules bénéficiaires effectifs d'une personne morale, d'un fonds commun de placement, d'un fonds d'investissement, d'un trust ou d'un dispositif juridique comparable de droit étranger connu pour avoir été établie au profit d'une personne politiquement exposée.
 
-Est déterminée par Arrêté Ministériel la liste des fonctions publiques importantes qui existent sur le territoire de la Principauté ainsi que des fonctions publiques importantes de chaque organisation internationale accréditée à Monaco. Cette liste comprend également toute fonction importante susceptible d'être confiée à des représentants de pays tiers et d'instances internationales accrédités par l'État.
+Est déterminée par arrêté ministériel la liste des fonctions publiques importantes au plan national qui correspondent aux fonctions énumérées aux chiffres 1°) à 9°) du neuvième alinéa. Cette liste comprend également toute fonction importante susceptible d'être confiée à des représentants de pays tiers et d'instances internationales accrédités par l'État.
