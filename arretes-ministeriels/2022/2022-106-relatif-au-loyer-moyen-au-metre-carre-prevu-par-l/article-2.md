@@ -1,0 +1,3 @@
+# Article 2
+
+Le montant de l'allocation compensatoire de loyer, conformément à l'article 31 de la loi n° 1.235 du 28 décembre 2000, modifiée, s'élève à la différence entre les loyers moyens au mètre carré visés à l'article précédent, soit 19,27 euro(s) par mètre carré par mois.
