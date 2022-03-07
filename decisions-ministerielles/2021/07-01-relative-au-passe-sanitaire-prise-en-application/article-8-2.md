@@ -6,8 +6,4 @@ La présentation d'un des justificatifs mentionnés à l'article 2 est contrôl�
 
 À défaut de présentation de l'un de ces justificatifs, l'accès à l'établissement ou au lieu est refusé.
 
-Toutefois, lorsque le personnel mentionné au premier alinéa présente :
-
-1) un justificatif de résultat négatif d'un test mentionné au chiffre 1 de l'article 2 d'au plus 72 heures, ce personnel peut accéder à l'établissement ou au lieu et continuer à y exercer ses fonctions ;
-
-2) un justificatif de statut vaccinal mentionné au chiffre 2 de l'article 2 justifiant, dans le cadre d'un schéma vaccinal comprenant plusieurs doses, de l'administration de la première dose, ce personnel peut, jusqu'au 23 janvier 2022 inclus, accéder à l'établissement ou au lieu et continuer à y exercer ses fonctions.
+Toutefois, lorsque le personnel mentionné au premier alinéa présente un justificatif de résultat négatif d'un test mentionné au chiffre 1 de l'article 2 d'au plus 72 heures, ce personnel peut accéder à l'établissement ou au lieu et continuer à y exercer ses fonctions.

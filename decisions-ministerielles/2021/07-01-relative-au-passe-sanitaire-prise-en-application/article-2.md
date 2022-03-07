@@ -16,9 +16,9 @@ b) s'agissant des autres vaccins, sept jours après l'administration d'une deuxi
 
 - des articles 7, 8, 8-1, 8-2, 9 et 9-1 de la présente décision, toute personne âgée de dix-huit ans ou plus ayant reçu l'un de ces autres vaccins doit, pour que son schéma vaccinal reste reconnu comme complet soit :
 
-* avoir reçu une dose complémentaire d'un vaccin à acide ribonucléique messager au plus tard quatre mois soit après l'injection de la dernière dose requise, soit après l'infection ; pour celle ayant reçu cette dose complémentaire au-delà de ce délai de quatre mois, le schéma vaccinal est reconnu comme complet sept jours après son injection ;
+- avoir reçu une dose complémentaire d'un vaccin à acide ribonucléique messager au plus tard quatre mois soit après l'injection de la dernière dose requise, soit après l'infection ; pour celle ayant reçu cette dose complémentaire au-delà de ce délai de quatre mois, le schéma vaccinal est reconnu comme complet sept jours après son injection ;
 
-* avoir été infecté par le virus SARS-CoV-2 au plus tard quatre mois soit après l'injection de la dernière dose requise, soit après la première infection ; pour celle ayant été infectée au-delà de ce délai de quatre mois, le schéma vaccinal est reconnu comme complet sept jours après cette infection ;
+- avoir été infecté par le virus SARS-CoV-2 au plus tard quatre mois soit après l'injection de la dernière dose requise, soit après la première infection ; pour celle ayant été infectée au-delà de ce délai de quatre mois, le schéma vaccinal est reconnu comme complet sept jours après cette infection ;
 
 - des articles 3, 4 et 5 de la Décision Ministérielle du 24 février 2020, modifiée, susvisée, toute personne âgée de dix-huit ans ou plus ayant reçu l'un de ces autres vaccins doit, pour que son schéma vaccinal reste reconnu comme complet avoir reçu une dose complémentaire d'un vaccin à acide ribonucléique messager au plus tard neuf mois suivant l'injection de la dernière dose requise ; pour celle ayant reçu cette dose complémentaire au-delà de ce délai de neuf mois, le schéma vaccinal est reconnu comme complet sept jours après son injection ;
 

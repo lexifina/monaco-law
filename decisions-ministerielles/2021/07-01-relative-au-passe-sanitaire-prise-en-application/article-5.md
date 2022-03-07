@@ -14,9 +14,9 @@ c) les personnes chargées du contrôle sanitaire aux frontières ;
 
 d) les officiers et agents de police judiciaire ;
 
-2) de l'accès aux lieux, établissements, évènements et chantiers mentionnés à l'article 3 :
+2) de l'accès aux lieux, établissements et évènements mentionnés à l'article 3 :
 
-a) les exploitants ou les responsables des lieux et établissements ainsi que les organisateurs des évènements et l'employeur de toute personne présente sur un chantier de bâtiment ou de travaux publics, dont l'accès est subordonné à leur présentation en application des dispositions des articles 7, 8, 8-1, 8-2 et 9-1 ;
+a) les exploitants ou les responsables des lieux et établissements ainsi que les organisateurs des évènements, dont l'accès est subordonné à leur présentation en application des dispositions des articles 7, 8, 8-1, 8-2 et 9-1 ;
 
 b) les officiers et agents de police judiciaire ;
 
