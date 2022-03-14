@@ -1,0 +1,31 @@
+# Article 31
+
+L'exploitant ou le responsable de toute activité ou de tout évènement mentionnés à l'article 29 respecte ou fait respecter les mesures particulières suivantes :
+
+1) accueillir les clients uniquement sur réservation ;
+
+2) établir un plan de nettoyage et de désinfection renforcé des locaux et des équipements respectant le principe du TACT (Température, Action mécanique, Concentration, Temps de contact des produits d'entretien) ;
+
+3) matérialiser au sol, à l'entrée de l'établissement, conformément à l'article 5, la file d'attente pour maintenir la distance minimale d'au moins 1,5 mètre entre deux personnes fixée par l'article 2 ;
+
+4) limiter le nombre maximal de clients au nombre de places assises dans l'établissement ou, le cas échéant, respecter une jauge maximale validée par le Directeur de l'Action Sanitaire ;
+
+5) imposer le port du masque aux clients dans les files d'attente et au personnel ;
+
+6) limiter le nombre maximal de personnes à table à douze ;
+
+7) séparer les tables soit d'au moins 1 mètre, soit par des éléments de séparation entre les tables d'une hauteur suffisante ;
+
+8) favoriser le recours aux cartes ou menus affichés, rendus disponibles sur les smartphones des clients ou disponibles sur tout support pouvant être nettoyé et désinfecté avec un produit désinfectant virucide entre chaque client ;
+
+9) renforcer le nettoyage et la désinfection des tables entre chaque client ; désinfecter avec un produit désinfectant virucide les tables, les chaises, les écrans de protection et tous les accessoires de table ;
+
+10) proscrire :
+
+a) le service en buffets, sans serveur ;
+
+b) les assiettes et plats à partager ;
+
+c) l'utilisation d'équipements communs ;
+
+d) les ventilateurs et les brumisateurs.
