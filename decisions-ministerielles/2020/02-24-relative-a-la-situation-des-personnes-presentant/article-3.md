@@ -4,9 +4,7 @@ Toute personne âgée de seize ans ou plus souhaitant se déplacer à destinatio
 
 Toutefois, l'obligation mentionnée à l'alinéa précédent ne s'applique pas, à condition qu'ils ne soient pas hébergés à Monaco lors de leur présence sur le territoire national :
 
-- aux personnes résidant habituellement dans les départements français des Alpes-Maritimes et du Var ou dans la province d'Imperia ;
-
-- aux travailleurs, élèves et étudiants transfrontaliers ;
+- aux personnes résidant habituellement dans les départements français des Alpes-Maritimes et du Var ou dans la province d'Imperia ; - aux travailleurs, élèves et étudiants transfrontaliers ;
 
 - aux professionnels d'entreprises établies à l'étranger venant sur le territoire national pour y effectuer une prestation dont l'urgence ou la fréquence est incompatible avec la réalisation du test mentionné au chiffre 1 de l'article 2 de la Décision Ministérielle du 1er juillet 2021 relative au passe sanitaire, modifiée ;
 
