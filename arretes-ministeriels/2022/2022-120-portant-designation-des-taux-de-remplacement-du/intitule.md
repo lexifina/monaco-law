@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-120 du 9 mars 2022 portant désignation des taux de remplacement du Libor CHF en application de l'article 6 de la loi n° 1.522 du 11 février 2022 relative aux indices de référence
