@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-122 du 9 mars 2022 portant modification de l'arrêté ministériel n° 2016-353 du 6 juin 2016 relatif au prospectus simplifié d'un fonds commun de placement ou d'un fonds d'investissement, modifié
