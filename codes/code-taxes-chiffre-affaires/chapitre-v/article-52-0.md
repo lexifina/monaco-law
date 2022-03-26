@@ -4,7 +4,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - A. - Les livraisons portant sur :
 
-  - 1° L'eau et les boissons autres que les boissons alcooliques ainsi que les produits destinés à l'alimentation humaine à l'exception des produits suivants auxquels s'applique le taux prévu à l'article 51 :
+  - 1° Les denrées alimentaires destinées à la consommation humaine, les produits normalement destinés à être utilisés dans la préparation de ces denrées et les produits normalement utilisés pour compléter ou remplacer ces denrées, à l'exception des produits suivants auxquels s'applique le taux prévu à l'article 51 :
 
     - a) Les produits de confiserie ;
 
@@ -13,6 +13,8 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
     - c) Les margarines et graisses végétales ;
 
     - d) Le caviar ;
+
+    - e) Les boissons alcooliques ;
 
   - 1° bis Les produits de protection hygiénique féminine ;
 
@@ -25,6 +27,8 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
   - 5° les ascenseurs et matériels assimilés, spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées par arrêté ministériel ;
 
   - 5° bis Pour les appareillages, équipements et matériels mentionnés aux 2° et 5° du présent A, la taxe sur la valeur ajoutée au taux réduit de 5,5 % s'applique également à leur location ;
+
+  - 5° ter Les appareillages, matériels et équipements pour personnes en situation de handicap bénéficiant de la prise en charge prévue pour les produits innovants ;
 
   - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio.
 
@@ -48,7 +52,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 5, 5 % en ce qui c
 
 - À défaut d'une telle autre offre, le taux réduit est applicable aux sommes payées, par client, pour l'acquisition de ces prestations, dans la limite, le cas échéant, du prix auquel ces prestations sont commercialisées par ailleurs par le fournisseur ;
 
-- H. - Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article 56 du Code des taxes sur le chiffre d'affaires ou dans le cadre de festivals de cinéma.
+- H. - Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article 56 du code des taxes sur le chiffre d'affaires ou dans le cadre de festivals de cinéma.
 
 - I- 1° Les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires, effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un État membre de l'Union européenne autre que la France ;
 

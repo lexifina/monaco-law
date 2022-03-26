@@ -8,10 +8,10 @@ III. - Lorsque l'administration demande des informations complémentaires, elle 
 
 IV. - Le numéro individuel d'identification n'est pas attribué ou est invalidé dans l'un des cas suivants :
 
-- 1° Aucune réponse n'a été reçue dans le délai mentionné au II ;
+1° Aucune réponse n'a été reçue dans le délai mentionné au II ;
 
-- 2° Les conditions prévues à l'article 68 ne sont pas remplies ;
+2° Les conditions prévues à l'article 68 ne sont pas remplies ;
 
-- 3° De fausses données ont été communiquées afin d'obtenir une identification à la taxe sur la valeur ajoutée ;
+3° De fausses données ont été communiquées afin d'obtenir une identification à la taxe sur la valeur ajoutée ;
 
-- 4° Des modifications de données n'ont pas été communiquées.
+4° Des modifications de données n'ont pas été communiquées.

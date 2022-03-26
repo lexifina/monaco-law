@@ -8,7 +8,7 @@ I. - Sont exonérés de la taxe sur la valeur ajoutée :
 
 - L'exonération ne s'applique pas lorsqu'il est démontré que le fournisseur savait ou ne pouvait ignorer que le destinataire présumé de l'expédition ou du transport n'avait pas d'activité réelle.
 
-- L'exonération ne s'applique pas aux livraisons de biens effectuées par des assujettis visés à l'article 87 et aux livraisons de biens, autres que des alcools, des boissons alcooliques, des huiles minérales et des tabacs manufacturés ou des moyens de transports neufs, expédiés ou transportés à destination des personnes mentionnées aux a, b et c du 2° du I de l'article 2.
+- L'exonération ne s'applique pas aux livraisons de biens effectuées par des assujettis visés à l'article 87 et aux livraisons de biens, autres que des produits soumis à accise ou des moyens de transports neufs, expédiés ou transportés à destination des personnes mentionnées aux a, b et c du 2° du I de l'article 2.
 
 - L'exonération ne s'applique pas aux livraisons de biens d'occasion, d'œuvres d'art, d'objets de collection ou d'antiquité effectuées par des assujettis revendeurs qui appliquent les dispositions de l'article 93 A ;
 
