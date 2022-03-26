@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-146 du 23 mars 2022 modifiant l'arrêté ministériel n° 2021-361 du 6 mai 2021 fixant les conditions de délivrance de l'autorisation accordée aux exploitants de taxis étrangers
