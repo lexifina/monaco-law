@@ -1,0 +1,3 @@
+# Article 2
+
+L'arrêté ministériel n° 2021-681 du 22 octobre 2021, susvisé, est abrogé à compter du 1er avril 2022.
