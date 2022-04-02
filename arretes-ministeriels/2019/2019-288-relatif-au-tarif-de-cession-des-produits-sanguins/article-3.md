@@ -4,11 +4,11 @@ La définition et le tarif de cession des plasmas pour fractionnement sont les s
 
 En Euros HT |
 
-Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume supérieur ou égal à 400 ml, le litre | 101,50
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume supérieur ou égal à 400 ml, le litre | 110,00
 
-Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume inférieur à 400 ml, le litre | 76,70
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 1, de volume inférieur à 400 ml, le litre | 83,12
 
-Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 2, le litre | 47,40
+Plasma pour fractionnement provenant de plasmaphérèse, dit de catégorie 2, le litre | 51,37
 
 Plasma pour fractionnement provenant de déplasmatisation de sang total, dit de catégorie 1, le litre | 76,70
 
@@ -28,7 +28,7 @@ Plasma de catégorie 1 provenant de plasmaphérèse | 114,51
 
 Plasma de catégorie 1 provenant de déplasmatisation de sang total | 83,41
 
-Majoration du litre pour spécificité « anti-HBs » : |
+Majoration du litre pour spécificité « anti-HBs »: |
 
 Concentration en anticorps supérieure à 20 Ul par ml appliquée au : |
 
