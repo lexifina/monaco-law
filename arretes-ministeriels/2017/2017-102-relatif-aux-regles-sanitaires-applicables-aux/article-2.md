@@ -14,11 +14,11 @@ Pour l'application du présent arrêté, on entend par :
 
 4) « Remise directe » : toute cession à titre gratuit ou onéreux, réalisée entre un détenteur d'une denrée alimentaire et un consommateur final destinant ce produit à sa consommation, en dehors de toute activité de restauration collective ;
 
-5) « Restauration collective » : activité de restauration hors foyer caractérisée par la fourniture de repas à une collectivité de consommateurs réguliers, liée par accord ou par contrat ;
+5) « Restauration collective » : activité de restauration hors foyer caractérisée par la fourniture de repas à une collectivité de consommateurs réguliers, liée par accord ou par contrat ainsi que l'activité des cuisines centrales qui, le cas échéant, les approvisionnent ;
 
-6) « Cuisine centrale » : établissement dont une partie au moins de l'activité consiste en la fabrication de préparations culinaires destinées à être livrées à au moins un restaurant satellite ou à une collectivité de personnes à caractère social ;
+6) « Cuisine centrale » : établissement dont une partie au moins de l'activité consiste en la fabrication de préparations culinaires destinées à être livrées à au moins un restaurant satellite ;
 
-7) « Préparation culinaire élaborée à l'avance » : préparation culinaire devant être consommée de manière différée dans le temps ou l'espace et dont la stabilité microbiologique est assurée par l'une des modalités suivantes :
+7) « Préparation culinaire élaborée à l'avance » : préparation culinaire élaborée en vue d'être consommée de manière différée dans le temps ou l'espace et dont la stabilité microbiologique est assurée par l'une des modalités suivantes :
 
 - entreposage réfrigéré ou liaison froide : lorsque la conservation de ces préparations entre leur élaboration et leur utilisation est assurée par le froid ;
 
@@ -88,4 +88,6 @@ d) les déchets de cuisine et de table provenant de moyens de transport opérant
 
 - tout mollusque du phylum des Mollusca ;
 
-- tout crustacé du subphylum des Crustacea.
+- tout crustacé du subphylum des Crustacea ;
+
+20) « Excédent » : une préparation culinaire prévue à un service de restauration collective, non présentée aux convives et dont la salubrité a été assurée, notamment par un maintien au chaud ([ge] 63 °C) ou au froid (entre 0 et + 3 °C), jusqu'au constat de son caractère excédentaire au regard de la demande des consommateurs ou un produit stable à température ambiante, pré-emballé en portions individuelles.
