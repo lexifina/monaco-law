@@ -6,17 +6,27 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - l'Afrique du Sud ;
 
+- l'Albanie ;
+
 - l'Angola ;
+
+- Antigua-et-Barbuda ;
 
 - l'Arabie Saoudite ;
 
 - l'Argentine ;
+
+- Aruba ;
+
+- l'Azerbaïdjan ;
 
 - les Bahamas ;
 
 - Bahreïn ;
 
 - le Bangladesh ;
+
+- la Barbade ;
 
 - le Belize ;
 
@@ -27,6 +37,10 @@ La zone verte mentionnée à l'article 3 comprend :
 - la Birmanie ;
 
 - la Bolivie ;
+
+- Bonaire, Saint-Eustache et Saba ;
+
+- la Bosnie-Herzégovine ;
 
 - le Botswana ;
 
@@ -44,6 +58,8 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Canada ;
 
+- le Chili ;
+
 - la Colombie ;
 
 - les Comores ;
@@ -52,9 +68,13 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - la Corée du Sud ;
 
+- le Costa Rica ;
+
 - la Côte d'Ivoire ;
 
 - Cuba ;
+
+- le Curaçao ;
 
 - Djibouti ;
 
@@ -68,27 +88,45 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - les États-Unis d'Amérique ;
 
-- l'Éthiopie ;
+- l'Éthiopie ; -
 
-- le Gabon ;
+le Gabon ;
+
+- la Gambie ;
 
 - le Ghana ;
 
+- Grenade ;
+
+- le Groenland ;
+
+- le Guatemala ;
+
 - la Guinée ;
 
-- la Guinée équatoriale ;
-
 - la Guinée Bissau ;
+
+- la Guinée équatoriale ;
 
 - le Honduras ;
 
 - Hong-Kong ;
 
+- les Îles Féroé ;
+
 - les Îles Fidji ;
 
 - l'Île Maurice ;
 
+- les Îles Salomon ;
+
 - les Îles Samoa ;
+
+- les Îles Turques-et-Caïques ;
+
+- les Îles Vierges britanniques ;
+
+- les Îles Vierges des États-Unis ;
 
 - l'Inde ;
 
@@ -100,9 +138,15 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Japon ;
 
+- la Jordanie ;
+
 - le Kazakhstan ;
 
 - le Kenya ;
+
+- Kiribati ;
+
+- le Kosovo ;
 
 - le Koweït ;
 
@@ -110,13 +154,33 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Lesotho ;
 
+- le Liban ;
+
+- le Liberia ;
+
+- la Macédoine du Nord ;
+
 - Madagascar ;
 
+- la Malaisie ;
+
 - le Malawi ;
+
+- les Maldives ;
 
 - le Maroc ;
 
 - la Mauritanie ;
+
+- le Mexique ;
+
+- la Moldavie ;
+
+- la Mongolie ;
+
+- le Monténégro ;
+
+- Montserrat ;
 
 - le Mozambique ;
 
@@ -140,25 +204,39 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Panama ;
 
+- la Papouasie-Nouvelle-Guinée ;
+
 - le Paraguay ;
 
 - le Pérou ;
 
 - les Philippines ;
 
+- Porto Rico ;
+
 - le Qatar ;
 
 - la République démocratique du Congo ;
 
-- le Rwanda ;
-
 - la République dominicaine ;
+
+- le Royaume-Uni ;
+
+- le Rwanda ;
 
 - Saint-Christophe-et-Niévès ;
 
+- Sainte Lucie ;
+
+- Saint-Vincent-et-les-Grenadines ;
+
 - le Salvador ;
 
+- Sao Tomé-et-Principe ;
+
 - le Sénégal ;
+
+- la Serbie ;
 
 - les Seychelles ;
 
@@ -178,7 +256,15 @@ La zone verte mentionnée à l'article 3 comprend :
 
 - le Togo ;
 
+- Trinité-et-Tobago ;
+
 - la Tunisie ;
+
+- la Turquie ;
+
+- l'Ukraine ;
+
+- l'Uruguay ;
 
 - le Vanuatu ;
 
