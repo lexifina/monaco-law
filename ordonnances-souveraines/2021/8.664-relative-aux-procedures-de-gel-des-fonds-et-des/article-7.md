@@ -4,7 +4,7 @@ Le Ministre d'État peut désigner, par décision prise dans les formes prévues
 
 - a) toute personne ou entité qui commet ou tente de commettre des actes terroristes ou qui participe ou facilite la perpétration d'actes terroristes, ou ;
 
-- b) toute entité possédée ou contrôlée, directement ou indirectement, par toute personne ou entité désignée à la lettre a) , ou ;
+- b) toute entité possédée ou contrôlée, directement ou indirectement, par toute personne ou entité désignée à la lettre a), ou ;
 
 - c) toute personne ou entité agissant au nom ou sur instruction de toute personne ou entité désignée à la lettre a) ;
 
