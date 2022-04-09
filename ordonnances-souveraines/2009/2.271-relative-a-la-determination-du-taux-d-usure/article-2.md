@@ -1,6 +1,6 @@
 # Article 2
 
-Pour l'année 2022, le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
+Le taux moyen déterminé dans les conditions visées à l'article précédent est fixé à :
 
 Pour les particuliers :
 
@@ -8,7 +8,7 @@ Pour les particuliers :
 
 - Prêts personnels : 3,32 %
 
-- Prêts immobiliers : 1,44 %
+- Prêts immobiliers : 1,74 %
 
 Pour les entreprises et entrepreneurs individuels :
 
