@@ -21,5 +21,3 @@ La déclaration précise :
 - 4°) l'indication que la consultation des informations du registre des bénéficiaires effectifs intervient dans le cadre de la mise en œuvre d'au moins une des mesures de vigilance prévues au Chapitre II de la loi n° 1.362 du 3 août 2009, modifiée, susvisée.
 
 Les informations visées au premier alinéa de l'article 61 sont communiquées au requérant sous la forme d'un extrait et moyennant le paiement d'une redevance dont le montant est fixé par arrêté ministériel.
-
-Préalablement à la communication de l'extrait, la personne morale concernée est informée par le service du répertoire du commerce et de l'industrie de cette demande d'accès aux informations du registre, par lettre recommandée avec accusé de réception ou suivant un envoi électronique qualifié.
