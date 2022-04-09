@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2021-244 du 25 mars 2021 fixant le montant du quotient familial pour le bénéfice du remboursement des frais de voyage et de l'indemnité pour frais d'hébergement lors de cures thermales
