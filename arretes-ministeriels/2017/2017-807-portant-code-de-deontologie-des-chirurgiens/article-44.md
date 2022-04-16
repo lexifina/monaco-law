@@ -6,7 +6,7 @@ Le chirurgien-dentiste n'est jamais en droit de refuser à son patient des expli
 
 Il ne peut solliciter un acompte que lorsque l'importance des soins le justifie et en se conformant aux usages de la profession. Il ne peut refuser d'établir un reçu pour tout versement d'acompte.
 
-Les honoraires ne peuvent être réclamés qu'à l'occasion d'actes réellement effectués. L'avis ou le conseil dispensé à un patient par téléphone ou par correspondance ne peut donner lieu à aucun honoraire.
+Les honoraires ne peuvent être réclamés qu'à l'occasion d'actes, y compris de télémédecine, réellement effectués. L'avis ou le conseil dispensé à un patient par téléphone ou par correspondance ne peut donner lieu à aucun honoraire.
 
 Aucun mode particulier de règlement ne peut être imposé aux patients.
 
