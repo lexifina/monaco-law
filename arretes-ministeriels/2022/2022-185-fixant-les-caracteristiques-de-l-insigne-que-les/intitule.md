@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-185 du 8 avril 2022 fixant les caractéristiques de l'insigne que les pharmaciens et les personnes légalement autorisées à les seconder dans une officine doivent porter et les conditions selon lesquelles le public est informé de sa signification
