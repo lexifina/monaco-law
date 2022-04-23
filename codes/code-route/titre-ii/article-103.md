@@ -98,7 +98,9 @@ b) Véhicules déjà immatriculés, dits véhicules d'occasion :
 
 - pour les véhicules transformés et reconstitués, le procès-verbal de réception individuelle ou à titre isolé délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL),
 
-- pour les véhicules de provenance de la communauté européenne (CE), l'attestation d'acquisition/exonération de TVA délivrée par la Direction des Services Fiscaux à Monaco, - pour les véhicules de provenance hors communauté européenne (hors CE), le récépissé de paiement des droits de douanes dit modèle 846A délivré par le Receveur des Douanes françaises.
+- pour les véhicules de provenance de la communauté européenne (CE), l'attestation d'acquisition/exonération de TVA délivrée par la Direction des Services Fiscaux à Monaco,
+
+- pour les véhicules de provenance hors communauté européenne (hors CE), le récépissé de paiement des droits de douanes dit modèle 846A délivré par le Receveur des Douanes françaises.
 
 Dans tous les cas d'immatriculation d'un véhicule d'occasion acheté aux enchères publiques, si l'ancien certificat d'immatriculation ne peut être fourni, un procès-verbal de réception individuelle ou à titre isolé délivré par la Direction Régionale de l'Environnement, de l'Aménagement et du Logement (DREAL) doit être fourni en complément des pièces susvisées.
 

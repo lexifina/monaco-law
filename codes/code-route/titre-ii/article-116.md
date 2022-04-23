@@ -18,7 +18,7 @@ L'échange est effectué sous les conditions suivantes :
 
 3° - Le permis présenté et la catégorie ou sous-catégorie sollicitée sont en cours de validité au moment de la demande d'échange ;
 
-4° - La catégorie ou la sous-catégorie de permis sollicitée, mentionnée dans la liste susvisée, a été délivrée à l'issue au moins d'une épreuve pratique de conduite ;
+4° - (4° abrogé) ;
 
 5° - Le permis doit être rédigé en français ou, si nécessaire, être accompagné d'une traduction officielle en français ;
 
@@ -28,6 +28,6 @@ L'échange est effectué sous les conditions suivantes :
 
 8° - Son titulaire ne doit pas avoir fait l'objet d'une mesure d'interdiction du droit de faire usage, sur le territoire de la Principauté, de son permis de conduire au moment de sa demande.
 
-Si la condition mentionnée au 1° ou au 4° n'est pas remplie, le demandeur doit se soumettre, pour chacune des catégories ou sous-catégories, à un contrôle des aptitudes à la conduite d'un véhicule défini par arrêté ministériel qui, en cas de succès, lui donne droit à l'échange de son permis.
+Si la condition mentionnée au 1° n'est pas remplie, le demandeur doit se soumettre, pour chacune des catégories ou sous-catégories, à un contrôle des aptitudes à la conduite d'un véhicule défini par arrêté ministériel qui, en cas de succès, lui donne droit à l'échange de son permis.
 
 L'échange d'une catégorie permet l'octroi, par équivalence, des sous-catégories du permis de conduire telle que fixée par la réglementation applicable en Principauté dans les mêmes conditions légales en vigueur que le permis national.
