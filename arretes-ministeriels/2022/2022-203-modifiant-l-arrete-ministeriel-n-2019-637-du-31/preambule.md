@@ -1,0 +1,7 @@
+Vu l'Ordonnance Souveraine n° 6.551 du 28 mai 1979 rendant exécutoires à Monaco la Convention sur la circulation routière faite à Vienne le 8 novembre 1968 et l'Accord européen complétant ladite Convention fait à Genève le 1er mai 1971 ;
+
+Vu l'Ordonnance Souveraine n° 1.691 du 17 décembre 1957 portant réglementation de la police de la circulation routière (Code de la route), modifiée ;
+
+Vu l'arrêté ministériel n° 2019-637 du 31 juillet 2019 définissant les modalités du contrôle des aptitudes à la conduite d'un véhicule pour l'obtention d'un permis de conduire monégasque par échange d'un permis de conduire étranger, notamment son article 1er ;
+
+Vu la délibération du Conseil de Gouvernement en date du 6 avril 2022 ;
