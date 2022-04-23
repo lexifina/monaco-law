@@ -1,253 +1,253 @@
 # Article 1er
 
-États ou Autorités de délivrance du permis de conduire | Catégories et sous-catégories de permis pouvant être échangées
+États ou Autorités de délivrance du permis de conduire
 
-AFRIQUE DU SUD | Toutes
+AFRIQUE DU SUD
 
-ALBANIE | Toutes
+ALBANIE
 
-ALGÉRIE | Toutes
+ALGÉRIE
 
-ANDORRE | Toutes
+ANDORRE
 
-ANTIGUA-ET-BARBUDA | Toutes
+ANTIGUA-ET-BARBUDA
 
-ARABIE SAOUDITE | Toutes
+ARABIE SAOUDITE
 
-ARMÉNIE | Toutes
+ARMÉNIE
 
-AUSTRALIE | A ET B
+AUSTRALIE
 
-AZERBAIDJAN | Toutes
+AZERBAIDJAN
 
-BAHAMAS | Toutes
+BAHAMAS
 
-BAHREÏN | Toutes
+BAHREÏN
 
-BÉLARUS | Toutes
+BÉLARUS
 
-BÉLIZE | Toutes
+BÉLIZE
 
-BÉNIN | Toutes
+BÉNIN
 
-BHOUTAN | Toutes
+BHOUTAN
 
-BIRMANIE | Toutes
+BIRMANIE
 
-BOLIVIE | Toutes
+BOLIVIE
 
-BOSNIE-HERZÉGOVINE | B
+BOSNIE-HERZÉGOVINE
 
-BOTSWANA | Toutes
+BOTSWANA
 
-BRÉSIL | Toutes
+BRÉSIL
 
-BRUNEI | Toutes
+BRUNEI
 
-BURKINA FASO | Toutes sauf la catégorie D
+BURKINA FASO
 
-BURUNDI | Toutes
+BURUNDI
 
-BURUNDI | Toutes
+BURUNDI
 
-CANADA* Île du Prince Édouard* Nouveau-Brunswick* Terre-Neuve et Labrador* Québec* Manitoba* Ontario* Alberta* Colombie-Britannique | BToutesBBBBBB
+CANADA* Île du Prince Édouard* Nouveau-Brunswick* Terre-Neuve et Labrador* Québec* Manitoba* Ontario* Alberta* Colombie-Britannique
 
-CAP VERT | Toutes
+CAP VERT
 
-CENTRAFRIQUE | Toutes
+CENTRAFRIQUE
 
-CORÉE DU SUD | Toutes
+CORÉE DU SUD
 
-COSTA RICA | Toutes
+COSTA RICA
 
-CÔTE D'IVOIRE | Toutes
+CÔTE D'IVOIRE
 
-CUBA | Toutes
+CUBA
 
-DJIBOUTI | Toutes
+DJIBOUTI
 
-LA DOMINIQUE | Toutes
+LA DOMINIQUE
 
-ÉGYPTE | Toutes
+ÉGYPTE
 
-ÉMIRATS ARABES UNIS | Toutes
+ÉMIRATS ARABES UNIS
 
-ÉTATS-UNIS D'AMÉRIQUE* Delaware* Maryland* Ohio* Pennsylvanie* Virginie* Caroline du Sud* Massachussetts* New Hampshire* Illinois* Iowa* Michigan* Wisconsin* Arkansas* Oklahoma* Texas* Colorado* Floride* Connecticut | BBBA ET BBToutesToutesToutesToutesToutesToutesBBToutesBBA ET BA ET B
+ÉTATS-UNIS D'AMÉRIQUE* Delaware* Maryland* Ohio* Pennsylvanie* Virginie* Caroline du Sud* Massachussetts* New Hampshire* Illinois* Iowa* Michigan* Wisconsin* Arkansas* Oklahoma* Texas* Colorado* Floride* Connecticut
 
-ÉTHIOPIE | Toutes
+ÉTHIOPIE
 
-GABON | Toutes
+GABON
 
-GAMBIE | Toutes
+GAMBIE
 
-GÉORGIE | Toutes
+GÉORGIE
 
-GRENADE | Toutes
+GRENADE
 
-GUATEMALA | Toutes
+GUATEMALA
 
-GUINÉE BISSAU | Toutes
+GUINÉE BISSAU
 
-GUINÉE ÉQUATORIALE | Toutes
+GUINÉE ÉQUATORIALE
 
-GUYANA | Toutes
+GUYANA
 
-HONDURAS | Toutes
+HONDURAS
 
-HONG-KONG | Toutes
+HONG-KONG
 
-ÎLES ANGLO-NORMANDES* Île de Jersey* Île de Guernesey* Île de Man | ToutesToutesToutes
+ÎLES ANGLO-NORMANDES* Île de Jersey* Île de Guernesey* Île de Man
 
-IRAN | Toutes
+IRAN
 
-IRAQ | Toutes
+IRAQ
 
-ISRAËL | Toutes
+ISRAËL
 
-JAMAÏQUE | A ET B
+JAMAÏQUE
 
-JAPON | Toutes
+JAPON
 
-JORDANIE | Toutes
+JORDANIE
 
-KAZAKHSTAN | Toutes
+KAZAKHSTAN
 
-KENYA | Toutes
+KENYA
 
-KIRGHIZISTAN | Toutes
+KIRGHIZISTAN
 
-KOSOVO | Toutes
+KOSOVO
 
-KOWEÏT | Toutes
+KOWEÏT
 
-LAOS | Toutes
+LAOS
 
-LIBAN | Toutes
+LIBAN
 
-LIBÉRIA | Toutes
+LIBÉRIA
 
-LIBYE | Toutes
+LIBYE
 
-Ancienne République Yougoslave de Macédoine (ARYM) | Toutes
+Ancienne République Yougoslave de Macédoine (ARYM)
 
-MADAGASCAR | Toutes
+MADAGASCAR
 
-MALAISIE | Toutes
+MALAISIE
 
-MALAWI | Toutes
+MALAWI
 
-MALI | Toutes
+MALI
 
-MAROC | Toutes
+MAROC
 
-MAURICE | Toutes
+MAURICE
 
-MAURITANIE | Toutes
+MAURITANIE
 
-MONGOLIE | Toutes
+MONGOLIE
 
-MONTÉNÉGRO | Toutes
+MONTÉNÉGRO
 
-MOZAMBIQUE | Toutes
+MOZAMBIQUE
 
-NAMIBIE | Toutes
+NAMIBIE
 
-NÉPAL | Toutes
+NÉPAL
 
-NICARAGUA | Toutes
+NICARAGUA
 
-NIGER | Toutes
+NIGER
 
-NOUVELLE-ZÉLANDE | Toutes
+NOUVELLE-ZÉLANDE
 
-OMAN | Toutes
+OMAN
 
-OUZBÉKISTAN | Toutes
+OUZBÉKISTAN
 
-PAKISTAN | Toutes
+PAKISTAN
 
-PANAMA | Toutes
+PANAMA
 
-PAPOUASIE NOUVELLE GUINÉE | Toutes
+PAPOUASIE NOUVELLE GUINÉE
 
-PARAGUAY | Toutes
+PARAGUAY
 
-PÉROU | Toutes
+PÉROU
 
-PHILIPPINES | Toutes
+PHILIPPINES
 
-QATAR | Toutes
+QATAR
 
-RÉPUBLIQUE DE MOLDAVIE | Toutes
+RÉPUBLIQUE DE MOLDAVIE
 
-RÉPUBLIQUE DÉMOCRATIQUE DU CONGO | Toutes
+RÉPUBLIQUE DÉMOCRATIQUE DU CONGO
 
-RÉPUBLIQUE TCHÈQUE | Toutes
+RÉPUBLIQUE TCHÈQUE
 
-RUSSIE | Toutes
+RUSSIE
 
-SAINT CHRISTOPHE ET NIÉVÈS | Toutes
+SAINT CHRISTOPHE ET NIÉVÈS
 
-SAINTE-LUCIE | Toutes
+SAINTE-LUCIE
 
-SAINT-MARIN | Toutes
+SAINT-MARIN
 
-SAINT-MARTIN | Toutes
+SAINT-MARTIN
 
-SAINT-VINCENT-ET-LES-GRENADINES | Toutes
+SAINT-VINCENT-ET-LES-GRENADINES
 
-SALVADOR | Toutes
+SALVADOR
 
-SAMOA | Toutes
+SAMOA
 
-SAO-TOMÉ-ET-PRINCIPE | Toutes
+SAO-TOMÉ-ET-PRINCIPE
 
-SÉNÉGAL | Toutes
+SÉNÉGAL
 
-SERBIE | Toutes
+SERBIE
 
-SEYCHELLES | Toutes
+SEYCHELLES
 
-SIERRA LEONE | Toutes
+SIERRA LEONE
 
-SINGAPOUR | Toutes
+SINGAPOUR
 
-SOUDAN | Toutes
+SOUDAN
 
-SUISSE | Toutes
+SUISSE
 
-SURINAM | Toutes
+SURINAM
 
-SWAZILAND | Toutes
+SWAZILAND
 
-SYRIE | Toutes
+SYRIE
 
-TADJIKISTAN | Toutes
+TADJIKISTAN
 
-TAÏWAN | Toutes
+TAÏWAN
 
-TCHAD | Toutes
+TCHAD
 
-TOGO | Toutes
+TOGO
 
-TUNISIE | Toutes
+TUNISIE
 
-TUKMÉNISTAN | Toutes
+TUKMÉNISTAN
 
-TURQUIE | Toutes
+TURQUIE
 
-UKRAINE | Toutes
+UKRAINE
 
-URUGUAY | Toutes
+URUGUAY
 
-VANUATU | Toutes
+VANUATU
 
-VIETNAM | Toutes
+VIETNAM
 
-ZIMBABWE | Toutes
+ZIMBABWE
 
-États membres de l'UNION EUROPÉENNE(et Régions Ultrapériphériques - RUP - rattachées aux États membres de l'Union : Madères et Açores pour le Portugal et Îles Canaries pour l'Espagne) | Toutes
+États membres de l'UNION EUROPÉENNE(et Régions Ultrapériphériques - RUP - rattachées aux États membres de l'Union : Madères et Açores pour le Portugal et Îles Canaries pour l'Espagne)
 
-États parties à l'accord sur l'ESPACE ÉCONOMIQUEEUROPÉEN (Norvège, Islande et Liechtenstein) | Toutes
+États parties à l'accord sur l'ESPACE ÉCONOMIQUEEUROPÉEN (Norvège, Islande et Liechtenstein)
 
-État ayant ratifié la Convention sur la circulation routière (Convention de Vienne du 8 novembre 1968) | Toutes
+État ayant ratifié la Convention sur la circulation routière (Convention de Vienne du 8 novembre 1968)
