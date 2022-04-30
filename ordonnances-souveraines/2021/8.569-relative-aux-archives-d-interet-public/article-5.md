@@ -14,7 +14,7 @@ La Commission, présidée par une personnalité de nationalité monégasque dés
 
 - - Le Secrétaire Général du Gouvernement ou son représentant ;
 
-- - Le Délégué Interministériel chargé de la Transition Numérique ou son représentant ;
+- - Le Délégué Interministériel à l'Attractivité et à la Transition Numérique ou son représentant ;
 
 - - Le Directeur des Affaires Juridiques ou son représentant ;
 

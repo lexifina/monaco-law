@@ -2,7 +2,7 @@
 
 Au sens de la présente ordonnance, constituent des « archives d'intérêt public » les documents, y compris les données, quels que soient leur date, leur lieu de conservation, leur forme et leur support, produits ou reçus, dans le cadre de l'exercice de leur activité, par les personnes publiques ou les personnes privées mentionnées ci-après.
 
-Les « archives d'intérêt public » sont les « archives publiques » telles que définies au présent article et les « archives patrimoniales » telles que définies par l'article 10 de la loi n° 1.446 du 12 juin 2017, susvisée. Elles se caractérisent comme suit :
+Les « archives d'intérêt public » sont les « archives publiques »telles que définies au présent article et les « archives patrimoniales » telles que définies par l'article 10 de la loi n° 1.446 du 12 juin 2017, susvisée. Elles se caractérisent comme suit :
 
 I. Les « archives publiques », savoir les documents procédant :
 

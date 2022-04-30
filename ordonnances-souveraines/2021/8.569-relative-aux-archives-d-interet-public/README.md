@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.569 du 25 mars 2021 relative aux archives d'intérêt public
 
-Version en vigueur au 10 avril 2021.
+Version en vigueur au 30 avril 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/03-25-8.569@2021.04.10/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/03-25-8.569@2022.04.30/
 
 | | |
 | --- | --- |
