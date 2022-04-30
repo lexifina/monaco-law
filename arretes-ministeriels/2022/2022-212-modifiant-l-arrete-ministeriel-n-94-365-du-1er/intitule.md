@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-212 du 20 avril 2022 modifiant l'arrêté ministériel n° 94-365 du 1er septembre 1994 fixant les modalités de la suppression de la participation du bénéficiaire de prestations aux frais de traitement et d'examens, modifié
