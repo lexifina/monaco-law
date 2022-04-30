@@ -1,3 +1,3 @@
 # Article 4
 
-Le secrétariat du Conseil stratégique pour l'attractivité est assuré par le Département des Finances et de l'Économie.
+Le secrétariat et le suivi des travaux du Conseil Stratégique pour l'Attractivité est assuré par son Secrétaire Général.
