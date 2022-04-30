@@ -97,3 +97,5 @@ La suppression de participation est étendue, dans ce dernier cas, à l'ensemble
 - consultation d'un Chirurgien-Dentiste définie au point g) de l'article 56 de l'ordonnance souveraine n° 4.739 du 22 juin 1971.
 
 15°) Pour les frais de séjour relatifs à l'accouchement à l'hôpital ou en clinique, à concurrence du prix de journée ou des éléments de tarification à l'activité homologués pour l'établissement.
+
+16) Pour l'acte et le forfait de soins, lorsque la suppression de la participation du bénéficiaire est prévue par les dispositions de la nomenclature ou de la réglementation qui le désignent.

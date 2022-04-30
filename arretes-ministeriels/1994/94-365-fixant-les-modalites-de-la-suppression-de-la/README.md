@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 94-365 du 1er septembre 1994 fixant les modalités de la suppression de la participation du bénéficiaire de prestations aux frais de traitement et d'examens
 
-Version en vigueur au 25 octobre 2014.
+Version en vigueur au 30 avril 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1994/09-01-94-365@2014.10.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1994/09-01-94-365@2022.04.30/
 
 | | |
 | --- | --- |
