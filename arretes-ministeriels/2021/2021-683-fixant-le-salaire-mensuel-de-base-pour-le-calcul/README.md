@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2021-683 du 22 octobre 2021 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2021-2022
 
-Version en vigueur au 30 octobre 2021.
+Version en vigueur au 7 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2021/10-22-2021-683@2021.10.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2021/10-22-2021-683@2022.05.07/
 
 | | |
 | --- | --- |
