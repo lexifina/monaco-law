@@ -1,13 +1,13 @@
 # Article 2
 
-Le Centre d'études prospectives pour Monaco est composé :
+Le Centre d'Études Prospectives pour Monaco est composé des membres de droit suivants :
 
-- du Ministre d'État ;
+- Notre Chef de Cabinet ;
 
-- du Président du Conseil national ;
+- Notre Premier Conseiller Privé ;
 
-- du Directeur de Notre Cabinet.
+- Notre Administrateur des Biens ;
 
-Le Centre d'études prospectives pour Monaco comprend également des personnalités désignées en fonction de leurs compétences, par voie d'ordonnance souveraine.
+- Le Chargé de Mission de Notre Cabinet.
 
-En outre, le Président peut inviter à participer aux travaux toute personne dont le concours à titre occasionnel lui apparaît justifié.
+Le Président peut inviter à participer aux travaux du Centre d'Études Prospectives pour Monaco toute personne dont le concours à titre occasionnel lui apparaît justifié.

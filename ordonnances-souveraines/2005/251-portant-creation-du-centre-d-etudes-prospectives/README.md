@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 251 du 3 novembre 2005 portant création du Centre d'études prospectives pour Monaco (CEPROM)
 
-Version en vigueur au 12 novembre 2005.
+Version en vigueur au 14 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2005/11-03-251@2005.11.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2005/11-03-251@2022.05.14/
 
 | | |
 | --- | --- |
