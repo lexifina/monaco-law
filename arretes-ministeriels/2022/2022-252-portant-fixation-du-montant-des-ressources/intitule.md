@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-252 du 11 mai 2022 portant fixation du montant des ressources personnelles telles que prévues par l'Ordonnance Souveraine n° 9.070 du 28 janvier 2022 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
