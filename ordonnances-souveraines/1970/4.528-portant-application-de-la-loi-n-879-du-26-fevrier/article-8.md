@@ -2,14 +2,14 @@
 
 À l'occasion de l'accomplissement des formalités d'inscription ou de modification d'inscription, il est perçu au profit du Trésor :
 
-pour chaque inscription ............ | 50 euro(s)
+- Pour chaque inscription : 75 euro(s) ;
 
-- pour chaque modification d'inscription............ | 7 euro(s)
+- Pour chaque modification d'inscription ou radiation : 15 euro(s).
 
-Lors de la délivrance des pièces ci-après, il sera perçu :
+Lors de la délivrance de copies, d'extraits ou de certificats, il sera perçu :
 
-- pour un certificat d'inscription, de radiation ou de non-inscription d'une mention déterminée ............ | 3 euro(s)
+- Pour le représentant de la personne morale : 10 euro(s) ;
 
-- pour une copie ou un état de l'immatriculation compte tenu de la dernière modification enregistrée ............ | 17 euro(s)
+- Pour les tiers : 20 euro(s).
 
-La perception de ces droits est constatée au moyen de l'apposition du timbre unique créé par la loi n° 507 du 20 juillet 1949 ;
+La perception de ces droits est constatée au moyen de l'apposition du timbre unique, par application des dispositions de la loi n° 1.221 du 9 novembre 1999 portant fixation des droits de timbre.
