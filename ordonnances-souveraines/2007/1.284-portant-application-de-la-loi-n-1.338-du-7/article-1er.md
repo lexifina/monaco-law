@@ -1,6 +1,6 @@
 # Article 1er
 
-Le montant minimal du capital des sociétés anonymes monégasques visées à l'article 6 de la loi n° 1.338 du 7 septembre 2007 est de :
+Le montant minimal du capital social des sociétés anonymes monégasques visées à l'article 6 de la loi n° 1.338 du 7 septembre 2007 est de :
 
 - 1°) 450.000 euros pour les sociétés agréées pour l'exercice de l'activité visée au chiffre 1) de l'article premier de la loi n° 1.338 du 7 septembre 2007 et pour la gestion d'organismes de placement collectif de droit étranger visée au chiffre 6) du même article ;
 
