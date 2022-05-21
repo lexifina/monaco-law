@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.253 du 12 mai 2022 portant modification de l'article 4 de l'Ordonnance Souveraine n° 2.853 du 22 juin 1962, modifiée, portant application de la loi n° 721 du 27 décembre 1961 instituant un Répertoire du Commerce et de l'Industrie, modifiée
