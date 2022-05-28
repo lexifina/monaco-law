@@ -1,8 +1,8 @@
 # Loi n° 1.434 du 8 novembre 2016 relative à l'art dentaire
 
-Version en vigueur au 29 juin 2019.
+Version en vigueur au 28 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2016/11-08-1.434@2019.06.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2016/11-08-1.434@2022.05.28/
 
 | | |
 | --- | --- |
