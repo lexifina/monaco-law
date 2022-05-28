@@ -1,8 +1,8 @@
 # Ordonnance-loi n° 675 du 2 décembre 1959 relative aux prestations sociales des retraités
 
-Version en vigueur au 9 juillet 1994.
+Version en vigueur au 28 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1959/12-02-675@1994.07.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1959/12-02-675@2022.05.28/
 
 | | |
 | --- | --- |
