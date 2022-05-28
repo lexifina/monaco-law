@@ -4,7 +4,7 @@ Lorsque le Ministre d'État constate l'inexécution par le titulaire de ses obli
 
 Le titulaire est, si nécessaire, entendu en ses explications ou dûment appelé à les fournir.
 
-Si la mise en demeure n'est pas suivie d'effet dans le délai imparti, le Ministre d'État peut prononcer la résiliation du contrat.
+Si la mise en demeure n'e pas suivie d'effet dans le délai imparti, le Ministre d'État peut prononcer la résiliation du contrat.
 
 Le montant du capital exigible est alors réduit du total des loyers moyens ayant servi à la détermination du prix du contrat, comme le prévoit l'article 24.
 

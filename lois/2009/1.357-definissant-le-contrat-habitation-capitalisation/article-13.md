@@ -4,7 +4,7 @@ Le contrat « habitation-capitalisation » emporte pour son titulaire les obliga
 
 - payer le prix du contrat « habitation-capitalisation » à la signature ou aux termes convenus ;
 
-- user personnellement du logement en bon père de famille et l'occuper de manière effective, suivant la destination qui lui a été donnée par le contrat « habitation-capitalisation » et payer les charges locatives y afférentes ;
+- user personnellement du logement avec tous les soins attendus et l'occuper de manière effective, suivant la destination qui lui a été donnée par le contrat « habitation-capitalisation » et payer les charges locatives y afférentes ;
 
 - répondre des dégradations et des pertes qui surviennent pendant la durée du contrat « habitation-capitalisation » dans les locaux dont il a la jouissance exclusive, à moins qu'il ne prouve qu'elles ont eu lieu par cas de force majeure, par la faute de l'État propriétaire du logement ou par le fait d'un tiers qu'il n'a pas introduit dans le logement ;
 

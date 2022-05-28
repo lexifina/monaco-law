@@ -2,7 +2,7 @@
 
 Le titulaire peut désigner lors de la souscription du contrat « habitation-capitalisation » jusqu'à trois personnes physiques de son choix qui pourront prétendre au versement du capital exigible à concurrence du pourcentage qu'il aura déterminé, en cas de décès de ce titulaire, en l'absence de bénéficiaire désigné et de personne mentionnée au premier alinéa de l'article 30.
 
-À défaut de désignation lors de la souscription du contrat « habitation-capitalisation » le titulaire peut, à tout moment, désigner ces personnes et préciser le pourcentage de répartition entre elles du capital exigible au moyen d'un formulaire disponible auprès de l'Administration des Domaines, qui doit lui être retourné dûment rempli et accompagné des pièces justificatives requises, laquelle en accuse réception.
+À défaut de désignation lors de la souscription du contrat « habitation-capitalisation », le titulaire peut, à tout moment, désigner ces personnes et préciser le pourcentage de répartition entre elles du capital exigible au moyen d'un formulaire disponible auprès de l'Administration des Domaines, qui doit lui être retourné dûment rempli et accompagné des pièces justificatives requises, laquelle en accuse réception.
 
 Le titulaire communique sans délai à l'Administration des Domaines tout changement de l'identité de ces personnes, et de leurs coordonnées ou affectant le pourcentage du capital exigible, l'Administration des Domaines en accuse réception.
 
