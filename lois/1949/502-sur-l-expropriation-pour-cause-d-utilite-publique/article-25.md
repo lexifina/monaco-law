@@ -2,7 +2,7 @@
 
 Lorsque les travaux d'utilité publique ne nécessiteront que la dépossession partielle d'un immeuble bâti ou non bâti, le ou les propriétaires pourront requérir qu'il soit acquis en entier si, par suite du morcellement, la portion restante n'est plus susceptible d'être utilisée par eux.
 
-Cette requête, faite par lettre recommandée ou par acte extrajudiciaire, devra, pour produire effet, être présentée avant la désignation de l'expert prévu à l'article 11 ou en même temps qu'elle.
+Cette requête, faite par lettre recommandée ou par acte extrajudiciaire, devra, pour produire effet, être présentée avant la désignation de l'expert prévu à l'article11 ou en même temps qu'elle.
 
 Elle contiendra l'indication du montant du prix demandé pour la cession et en cas de refus, par l'Administration, les experts désignés auront, en outre, pour mission de rechercher si cette portion restante n'est réellement plus susceptible d'utilisation par le propriétaire exproprié et d évaluer le prix auquel elle pourrait être acquise par l'Administration.
 
