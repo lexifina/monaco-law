@@ -1,8 +1,8 @@
 # Loi n° 595 du 15 juillet 1954 fixant le régime des prestations familiales
 
-Version en vigueur au 14 janvier 2019.
+Version en vigueur au 28 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1954/07-15-595@2019.01.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1954/07-15-595@2022.05.28/
 
 | | |
 | --- | --- |

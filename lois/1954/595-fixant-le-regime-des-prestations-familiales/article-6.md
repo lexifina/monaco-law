@@ -1,6 +1,6 @@
 # Article 6
 
-Les allocations familiales sont versées à la mère. Toutefois, la caisse de compensation et les services particuliers pourront, dans certains cas, décider que les allocations seront versées au père ou à la personne effectivement chargée de l'entretien de l'enfant.
+Les allocations familiales sont versées mensuellement à l'allocataire, à moins qu'un accord écrit des parents désigne celui d'entre eux auquel les allocations seront intégralement versées. Toutefois, la caisse de compensation pourra, lorsque l'enfant risque d'être privé du bénéfice des allocations familiales, décider que celles-ci seront versées à la personne effectivement chargée de son entretien.
 
 En cas de résidence alternée de l'enfant au domicile de chacun de ses père et mère mise en œuvre de manière effective, les allocations familiales et autres allocations pour charge de famille sont versées par moitié à chacun d'eux, à moins qu'un accord écrit des parents ou une décision de justice désigne celui d'entre eux auquel les allocations seront intégralement versées.
 

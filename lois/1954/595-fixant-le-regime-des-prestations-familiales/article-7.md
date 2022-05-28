@@ -14,15 +14,7 @@
 
   - l'enfant est, par suite d'infirmité ou de maladie chronique, dans l'impossibilité médicalement reconnue de poursuivre ses études ou de se livrer à une activité salariée.
 
-3° Est assimilée à un enfant à charge, jusqu'à l'âge de 21 ans, la fille ou la sœur de l'allocataire ou de son conjoint, qui vit sous le même toit et se consacre exclusivement, après avoir satisfait à l'obligation scolaire, aux travaux ménagers et à l'éducation d'au moins deux enfants d'âge inférieur à celui visé à l'alinéa « a » ci-dessus, lorsque la mère de famille :
-
-- se trouve contrainte d'exercer une activité professionnelle ;
-
-- ou est décédée ;
-
-- ou a abandonné le domicile conjugal ;
-
-- ou enfin est dans l'impossibilité d'assumer la totalité des soins du ménage par suite d'incapacité physique ou du nombre d'enfants présents au foyer.
+3° (3° abrogé) ;
 
 4° Une ordonnance souveraine rendue conformément à l'article 25, ci-après, fixera les modalités d'application du présent article et notamment :
 
