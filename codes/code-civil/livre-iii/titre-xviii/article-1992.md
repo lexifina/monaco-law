@@ -1,6 +1,6 @@
 # Article 1992
 
-Les droits d'hypothèque purement légale du Prince et des établissements publics sur les biens des comptables, ceux des mineurs ou interdits sur les biens des tuteurs, des femmes mariées sur les biens de leurs époux, seront inscrits sur la représentation de deux bordereaux contenant seulement :
+Les droits d'hypothèque purement légale du Prince et des établissements publics sur les biens des comptables, ceux des mineurs ou majeurs en tutelle sur les biens des tuteurs, de l'époux sur les biens de l'autre, seront inscrits sur la représentation de deux bordereaux contenant seulement :
 
 - 1° Les nom, prénoms et domicile dans la Principauté du créancier ;
 
