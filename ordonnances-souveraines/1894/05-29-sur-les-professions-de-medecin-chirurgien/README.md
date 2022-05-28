@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 29 mai 1894 sur les professions de médecin, chirurgien, dentiste, sage-femme et herboriste
 
-Version en vigueur au 6 juillet 2019.
+Version en vigueur au 28 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1894/05-29-L001160@2019.07.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1894/05-29-L001160@2022.05.28/
 
 | | |
 | --- | --- |
