@@ -1,8 +1,8 @@
 # Loi n° 446 du 16 mai 1946 portant création d'un tribunal du travail
 
-Version en vigueur au 16 novembre 2019.
+Version en vigueur au 28 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1946/05-16-446@2019.11.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1946/05-16-446@2022.05.28/
 
 | | |
 | --- | --- |
