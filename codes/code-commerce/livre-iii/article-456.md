@@ -2,7 +2,7 @@
 
 Sont inopposables à la masse lorsqu'ils sont intervenus après la cessation des paiements les actes suivants :
 
-- 1° les actes à titre gratuit translatifs de propriété, y compris les constitutions de dot ;
+- 1° les actes à titre gratuit translatifs de propriété ;
 
 - 2° tout contrat commutatif dans lequel les obligations du débiteur excèdent notablement celles de l'autre partie ;
 
