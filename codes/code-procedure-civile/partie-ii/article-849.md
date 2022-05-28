@@ -22,7 +22,7 @@ Le tribunal de première instance connaîtra en chambre du conseil :
 
 - 10° des autorisations nécessaires pour accepter les offres et faire emploi des deniers, au cas d'expropriation pour cause d'utilité publique des immeubles appartenant aux mineurs et personnes en tutelle.
 
-- 11° de l'homologation de la délibération du conseil de famille de l'interdit concernant la dot de ses enfants et descendants ;
+- 11° (11° abrogé) ;
 
 - 12° de la nomination de tout mandataire spécial ou administrateur provisoire qu'il y aurait lieu de désigner pour une personne non interdite, placée à l'étranger dans un établissement d'aliénés ;
 
