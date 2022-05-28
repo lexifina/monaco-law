@@ -1,8 +1,8 @@
 # Loi n° 403 du 28 novembre 1944 autorisant la création de syndicats patronaux
 
-Version en vigueur au 29 mai 1951.
+Version en vigueur au 28 mai 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1944/11-28-403@1951.05.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1944/11-28-403@2022.05.28/
 
 | | |
 | --- | --- |
