@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-286 du 2 juin 2022 relatif aux produits de santé qui peuvent être délivrés ou distribués en urgence par d'autres personnes que les pharmaciens en cas d'accident nucléaire ou d'acte terroriste constituant une menace sanitaire grave
