@@ -14,13 +14,13 @@ Par dérogation aux dispositions des articles 17 et 18 et à la seule condition 
 
 La situation d'impasse thérapeutique est définie par la conjonction des deux critères suivants :
 
-1- l'existence chez le patient :
+- 1- l'existence chez le patient :
 
-- a) d'un groupe sanguin érythrocytaire rare caractérisé par l'absence d'un antigène de fréquence élevée dans la population dès lors que la fréquence du groupe ainsi caractérisé est inférieure à 4 pour 1000 ;
+  - a) d'un groupe sanguin érythrocytaire rare caractérisé par l'absence d'un antigène de fréquence élevée dans la population dès lors que la fréquence du groupe ainsi caractérisé est inférieure à 4 pour 1000 ;
 
-- b) ou d'un mélange d'anticorps irréguliers anti-érythrocytaire tel que la fréquence des phénotypes érythrocytaires compatibles est inférieure à 4 pour 100 000 ;
+  - b) ou d'un mélange d'anticorps irréguliers anti-érythrocytaire tel que la fréquence des phénotypes érythrocytaires compatibles est inférieure à 4 pour 100 000 ;
 
-2- l'absence d'une solution thérapeutique alternative disponible dans les délais compatibles avec l'état du malade.
+- 2- l'absence d'une solution thérapeutique alternative disponible dans les délais compatibles avec l'état du malade.
 
 Le constat d'impasse thérapeutique et la décision d'effectuer le prélèvement sont pris conjointement par le médecin prescripteur et par le médecin responsable des prélèvements de l'établissement de transfusion sanguine.
 
