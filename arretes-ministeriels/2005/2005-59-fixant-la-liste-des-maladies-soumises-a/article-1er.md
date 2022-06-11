@@ -14,6 +14,8 @@ Maladies infectieuses :
 
 - diphtérie ;
 
+- Encéphalite à tiques ;
+
 - fièvres hémorragiques africaines ;
 
 - fièvre jaune ;
@@ -51,6 +53,8 @@ Maladies infectieuses :
 - tularémie ;
 
 - typhus exanthématique.
+
+- Infection à virus du Nile occidental ;
 
 - Chikungunya ;
 
