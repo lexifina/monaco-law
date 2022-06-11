@@ -1,0 +1,9 @@
+# Article 12
+
+Lorsque l'action disciplinaire est engagée par le président du conseil de l'Ordre des pharmaciens, soit d'office, soit à la demande du Ministre d'État ou du procureur général, l'acte de saisine de la chambre de discipline précise les éléments de droit et de fait motivant cette saisine et est accompagné des pièces justificatives numérotées et d'un bordereau récapitulatif desdites pièces.
+
+Lorsque l'action disciplinaire est engagée par le président à la suite d'une plainte, l'acte de saisine de la chambre de discipline est accompagné d'une copie de ladite plainte avec les pièces annexées par son auteur, de la lettre du président en accusant réception et du ou des procès-verbaux de réunion de médiation. Cet acte de saisine peut également comporter tout développement ou tout grief complémentaire que le président du conseil de l'Ordre estime nécessaire d'associer à cette plainte, en précisant les éléments de droit et de fait retenus et en communiquant les pièces justificatives numérotées et un bordereau récapitulatif desdites pièces.
+
+Lorsque l'action disciplinaire est engagée par le Ministre d'État en application du troisième alinéa de l'article 30 de la loi n° 1.518 du 23 décembre 2021, susvisée, l'acte de saisine de la chambre de discipline est accompagné de la demande de l'auteur de la plainte adressée au Ministre d'État de saisir directement la chambre de discipline. Cette demande comprend une copie de sa plainte avec ses pièces annexes ainsi que, le cas échéant, de la lettre du président du conseil de l'Ordre en accusant réception et du ou des procès-verbaux de réunion de médiation.
+
+Dans tous les cas, l'acte de saisine de la chambre de discipline est daté et signé par celui qui l'établit et précise les nom, prénom et adresse professionnelle du pharmacien poursuivi. Cet acte et les pièces qui l'accompagnent sont adressés à la chambre de discipline par lettre recommandée avec demande d'avis de réception.
