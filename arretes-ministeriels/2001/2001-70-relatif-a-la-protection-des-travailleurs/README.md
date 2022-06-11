@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2001-70 du 13 février 2001 relatif à la protection des travailleurs intervenant en milieu hyperbare
 
-Version en vigueur au 12 octobre 2019.
+Version en vigueur au 11 juin 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2001/02-13-2001-70@2019.10.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2001/02-13-2001-70@2022.06.11/
 
 | | |
 | --- | --- |
