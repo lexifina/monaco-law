@@ -1,0 +1,3 @@
+# Article 11
+
+Dans les ordonnances souveraines, les arrêtés ministériels et règlements actuellement en vigueur, les termes : « arrêté ministériel n° 2017-56 du 1er février 2017 portant application de l'Ordonnance Souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré, modifiée » sont remplacés par les termes : « arrêté ministériel n° 2022-331 du 13 juin 2022 portant application de l'article 23 de la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique, fixant les mesures de sécurité des systèmes d'information de l'État ».

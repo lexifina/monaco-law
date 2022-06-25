@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-331 du 13 juin 2022 portant application de l'article 23 de la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique, fixant les mesures de sécurité des systèmes d'information de l'État

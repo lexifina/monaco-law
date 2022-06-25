@@ -1,0 +1,3 @@
+# Article 12
+
+Le Ministre d'État, le Conseiller de Gouvernement-Ministre des Affaires Sociales et de la Santé, le Conseiller de Gouvernement-Ministre de l'Équipement, de l'Environnement et de l'Urbanisme, le Conseiller de Gouvernement-Ministre de l'Intérieur, le Conseiller de Gouvernement-Ministre des Finances et de l'Économie et le Conseiller de Gouvernement-Ministre des Relations Extérieures et de la Coopération, le Secrétaire Général du Gouvernement, le Directeur de l'Agence Monégasque de Sécurité Numérique et le Responsable de la Sécurité des Systèmes d'Information sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
