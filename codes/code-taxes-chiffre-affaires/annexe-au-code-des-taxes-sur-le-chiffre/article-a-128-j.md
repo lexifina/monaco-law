@@ -16,7 +16,7 @@ Est joint à la demande un tableau récapitulatif faisant apparaître l'ensemble
 
 - 5° La base d'imposition et le montant de la taxe sur la valeur ajoutée, libellés en euros.
 
-La demande est accompagnée de la copie des factures ou documents d'importation lorsque la base d'imposition figurant sur la facture ou le document d'importation est égale ou supérieure à un montant de 1.000 €. Toutefois, lorsque la facture porte sur des dépenses de carburant, ce seuil est fixé à 250 €.
+La demande est accompagnée de la copie des factures ou documents d'importation lorsque la base d'imposition figurant sur la facture ou le document d'importation est égale ou supérieure à un montant de 1.000 euros. Toutefois, lorsque la facture porte sur des dépenses de carburant, ce seuil est fixé à 250 €.
 
 L'assujetti établi hors de l'Union européenne certifie qu'il remplit les conditions prévues à l'article A-128 G.
 

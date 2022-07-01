@@ -20,17 +20,17 @@ II. - 1. Dans la mesure où les biens et les services sont utilisés pour les be
 
 2. La déduction peut être opérée :
 
-- a) Pour les livraisons de biens et les prestations de services, si les redevables sont en possession des factures ;
+a) Pour les livraisons de biens et les prestations de services, si les redevables sont en possession des factures ;
 
-- b) Pour les autres opérations, si les redevables ont fait figurer sur la déclaration prévue à l'article 70, conformément au 4 du même article 70, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et s'ils détiennent :
+b) Pour les autres opérations, si les redevables ont fait figurer sur la déclaration prévue à l'article 70, conformément au 4 du même article 70, toutes les données nécessaires pour constater le montant de la taxe due au titre de ces opérations et s'ils détiennent :
 
-  - 1° Pour les acquisitions intracommunautaires, des factures établies conformément à la réglementation de l'Union européenne ;
+1° Pour les acquisitions intracommunautaires, des factures établies conformément à la réglementation de l'Union européenne ;
 
-  - 2° Pour les importations, soit la déclaration d'importation, soit les documents mentionnant le numéro, la date de cette déclaration et la base imposable constatée conformément au dernier alinéa de l'article 83, au moyen desquels leur rend compte la personne remplissant, pour leur compte, les obligations prévues au 3 de l'article 85 ;
+2° Pour les importations, soit la déclaration d'importation, soit les documents mentionnant le numéro, la date de cette déclaration et la base imposable constatée conformément au dernier alinéa de l'article 83, au moyen desquels leur rend compte la personne remplissant, pour leur compte, les obligations prévues au 3 de l'article 85 ;
 
-  - 3° Pour les sorties des régimes suspensifs mentionnés au I de l'article 50 A, les documents attestant de la sortie de ces régimes ainsi que les factures, déclarations d'importation ou autres documents à partir desquels la base d'imposition a été calculée.
+3° Pour les sorties des régimes suspensifs mentionnés au I de l'article 50 A, les documents attestant de la sortie de ces régimes ainsi que les factures, déclarations d'importation ou autres documents à partir desquels la base d'imposition a été calculée.
 
-- Toutefois, dans les cas prévus au b du présent 2, les redevables qui n'ont pas porté sur la déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque les conditions de fond sont remplies, sans préjudice de l'application de l'amende prévue à l'article 108 au 4.
+Toutefois, dans les cas prévus au b du présent 2, les redevables qui n'ont pas porté sur la déclaration le montant de la taxe due au titre de ces opérations sont autorisés à opérer la déduction lorsque les conditions de fond sont remplies, sans préjudice de l'application de l'amende prévue à l'article 108 au 4.
 
 3. Lorsque ces factures ou ces documents font l'objet d'une rectification, les redevables doivent apporter les rectifications correspondantes dans leurs déductions et les mentionner sur la déclaration qu'ils souscrivent au titre du mois au cours duquel ils ont eu connaissance de cette rectification.
 

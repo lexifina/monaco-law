@@ -32,6 +32,6 @@ II. - Est assimilée à une acquisition intracommunautaire :
 
   - c) à faire l'objet d'une installation ou d'un montage ;
 
-3° La réception à Monaco ou en France, par une personne morale non assujettie, d'un bien qu'elle a importé sur le territoire d'un État membre de l'Union européenne, autre que la France.
+- 3° La réception à Monaco ou en France, par une personne morale non assujettie, d'un bien qu'elle a importé sur le territoire d'un État membre de l'Union européenne, autre que la France.
 
 III. - Un assujetti, agissant en son nom propre mais pour le compte d'autrui, qui s'entremet dans une acquisition intracommunautaire, est réputé avoir personnellement acquis et livré le bien.

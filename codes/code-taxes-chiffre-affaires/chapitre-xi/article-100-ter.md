@@ -26,7 +26,7 @@
 
 2. L'assiette de la taxe sur la valeur ajoutée afférente aux produits pétroliers et exigible à la sortie du régime mentionnée au 3° du 1 bis ou à l'importation est déterminée, à la date de l'exigibilité, conformément aux dispositions ci-après :
 
-- 1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-14, ex 27-11-19, ex 27-11-21,27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable est fixée forfaitairement, pour chaque année par décision du directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
+- 1° Sauf en ce qui concerne les gaz de pétrole et autres hydrocarbures gazeux repris aux numéros 27-11-14, ex 27-11-19, ex 27-11-21, 27-11-29 du tarif des douanes et non destinés à être utilisés comme carburants, la valeur imposable est fixée forfaitairement, pour chaque année par décision du directeur général des douanes et des droits indirects, sur proposition du directeur des carburants.
 
 3. Sous réserve des dispositions du 4, les droits à déduction dont peuvent bénéficier l'industrie et le commerce du pétrole sont déterminés dans les conditions prévues à l'article 42.
 

@@ -22,7 +22,7 @@ La liste des appareillages et équipements spéciaux soumis au taux réduit de l
 
   - - chambre à cathéter implantable, monochambre, pour abord veineux ;
 
-  - - défibrillateurs cardiaques implantables avec stimulation atrio-bi-ventriculaire pour resynchronisation dits » triple chambre ' ;
+  - - défibrillateurs cardiaques implantables avec stimulation atrio-bi-ventriculaire pour resynchronisation dits « triple chambre » ;
 
   - - défibrillateurs cardiaques implantables simple et double chambre ;
 
@@ -248,4 +248,16 @@ La liste des appareillages et équipements spéciaux soumis au taux réduit de l
 
     - - dispositif de maintien du tronc par sangle ou par harnais ;
 
-    - - dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule.
+    - - dispositifs d'ancrage des fauteuils roulants à l'intérieur du véhicule ;
+
+  - 6. Pour l'ensemble des personnes en situation de handicap afin de faciliter la pratique d'une activité sportive :
+
+    - - appareils et équipements de mobilité adaptés (luges, skis, bateaux de paravoile …) ;
+
+    - - appareils et équipements fixes de pratique sportive adaptée (banc de musculation, home-trainer, siège de lancer athlétique, selle adaptée pour la pratique de l'équitation …) ;
+
+    - - matériels de fixation (plaque de lancer, matériel de fixation d'escrime …) ;
+
+    - - matériels d'assistance et de pratique sportive adaptés pour les personnes en situation de handicap moteur (flotteurs latéraux d'aviron, rampes de mise à cheval, massues d'athlétisme, filets de volley-ball assis …) ;
+
+    - - matériels d'assistance et de pratique sportive adaptés pour les personnes ayant une déficience visuelle (sonorisation pour guidage, matériel de cécifoot …).

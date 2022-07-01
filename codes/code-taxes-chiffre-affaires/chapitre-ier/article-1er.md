@@ -42,13 +42,13 @@ Est considéré comme un transfert au sens des dispositions qui précèdent, l'e
 
 III bis. - 1. N'est pas assimilé à une livraison de biens le transfert par un assujetti d'un bien de son entreprise sous un régime de stocks sous contrat de dépôt à destination d'un État membre de l'Union européenne autre que la France lorsque les conditions suivantes sont remplies :
 
-1° Les biens sont expédiés ou transportés par l'assujetti ou par un tiers pour le compte de celui-ci, à destination d'un État membre autre que la France afin d'y être livrés, à un stade ultérieur et après leur arrivée, à un autre assujetti qui pourra en disposer comme un propriétaire en vertu d'un accord entre les deux assujettis ;
+- 1° Les biens sont expédiés ou transportés par l'assujetti ou par un tiers pour le compte de celui-ci, à destination d'un État membre autre que la France afin d'y être livrés, à un stade ultérieur et après leur arrivée, à un autre assujetti qui pourra en disposer comme un propriétaire en vertu d'un accord entre les deux assujettis ;
 
-2° L'assujetti qui expédie ou transporte les biens n'est pas établi ou ne dispose pas d'un établissement stable dans l'État membre vers lequel les biens sont expédiés ou transportés ;
+- 2° L'assujetti qui expédie ou transporte les biens n'est pas établi ou ne dispose pas d'un établissement stable dans l'État membre vers lequel les biens sont expédiés ou transportés ;
 
-3° L'assujetti auquel les biens sont destinés à être livrés est identifié aux fins de la taxe sur la valeur ajoutée dans l'État membre vers lequel les biens sont expédiés ou transportés et a communiqué à l'assujetti mentionné au 2° son identité et ce numéro d'identification au moment du départ de l'expédition ou du transport ;
+- 3° L'assujetti auquel les biens sont destinés à être livrés est identifié aux fins de la taxe sur la valeur ajoutée dans l'État membre vers lequel les biens sont expédiés ou transportés et a communiqué à l'assujetti mentionné au 2° son identité et ce numéro d'identification au moment du départ de l'expédition ou du transport ;
 
-4° L'assujetti qui expédie ou transporte les biens inscrit le transfert des biens dans le registre prévu au 2 du I de l'article 69 et indique l'identité de l'assujetti qui acquiert les biens et le numéro d'identification aux fins de la taxe sur la valeur ajoutée attribué par l'État membre vers lequel les biens sont expédiés ou transportés dans l'état récapitulatif prévu au I de l'article 73.
+- 4° L'assujetti qui expédie ou transporte les biens inscrit le transfert des biens dans le registre prévu au 2 du I de l'article 69 et indique l'identité de l'assujetti qui acquiert les biens et le numéro d'identification aux fins de la taxe sur la valeur ajoutée attribué par l'État membre vers lequel les biens sont expédiés ou transportés dans l'état récapitulatif prévu au I de l'article 73.
 
 2. Si, dans les douze mois suivant leur arrivée dans l'État membre vers lequel ils ont été expédiés ou transportés, les biens n'ont pas été livrés à l'assujetti mentionné au 3° du 1 du présent III bis. et qu'aucune des circonstances mentionnées au 4 n'est intervenue, un transfert au sens du III du présent article est réputé avoir lieu le jour suivant celui de l'expiration de la période de douze mois.
 

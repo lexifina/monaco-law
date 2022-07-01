@@ -4,7 +4,7 @@
 
 - a) pour les livraisons de biens, les prestations de services et les acquisitions intracommunautaires, par toutes les sommes, valeurs, biens ou services reçus ou à recevoir par le fournisseur ou le prestataire en contrepartie de ces opérations, de la part de l'acheteur, du preneur ou d'un tiers, y compris les subventions directement liées aux prix de ces opérations ;
 
-- a bis)Sans préjudice de l'application du a, la base d'imposition de la livraison de biens ou de la prestation de services effectuée en lien avec un bon à usages multiples est égale à la contrepartie payée en échange du bon, diminuée du montant de la taxe sur la valeur ajoutée afférente aux biens livrés ou aux services fournis ;
+- a bis) Sans préjudice de l'application du a, la base d'imposition de la livraison de biens ou de la prestation de services effectuée en lien avec un bon à usages multiples est égale à la contrepartie payée en échange du bon ou, en l'absence d'information sur cette contrepartie, à la valeur monétaire indiquée sur le bon à usages multiples ou dans la documentation correspondante, diminuée du montant de la taxe sur la valeur ajoutée afférente aux biens livrés ou aux services fournis ;
 
 - b) pour les opérations ci-après, par le montant total de la transaction :
 
