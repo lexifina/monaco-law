@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-408 du 1er août 2022 fixant les tranches de rémunération et les montants mensuels de l'allocation de rémunération unique versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er juillet 2022
