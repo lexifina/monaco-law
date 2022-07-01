@@ -1,6 +1,6 @@
 # Article 96-2
 
-Par dérogation à l'article précédent, le praticien hospitalier exerçant dans l'une des disciplines visées à l'article 1er peut, lorsque l'intérêt du service le justifie, être autorisé par le Ministre d'État à prolonger son activité au delà de la limite d'âge, dans l'une des fonctions visées à l'article 4.
+Par dérogation à l'article 96, le praticien hospitalier exerçant dans l'une des disciplines visées à l'article 1er peut, lorsque l'intérêt du service le justifie, être autorisé par le Ministre d'État à prolonger son activité au delà de la limite d'âge, dans l'une des fonctions visées à l'article 4.
 
 La dérogation est accordée pour une durée d'un an, renouvelable une fois, sur proposition du Conseil d'administration, après avis de la Commission Médicale d'Établissement.
 
