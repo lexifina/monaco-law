@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.338 du 13 juillet 2022 modifiant l'Ordonnance Souveraine n° 13.839 du 29 décembre 1998 portant statut des praticiens hospitaliers au Centre Hospitalier Princesse Grace, modifiée
