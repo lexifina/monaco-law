@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.529 du 7 novembre 2022 modifiant certaines dispositions relatives à la retraite des Praticiens Hospitaliers et du personnel médical et assimilé du Centre Hospitalier Princesse Grace
