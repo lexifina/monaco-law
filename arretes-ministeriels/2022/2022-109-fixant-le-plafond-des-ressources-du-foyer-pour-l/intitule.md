@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2022-109 du 28 février 2022 fixant le plafond des ressources du foyer pour l'octroi de l'allocation de crèche, l'allocation de vacances et l'allocation exceptionnelle de rentrée scolaire aux fonctionnaires et agents de l'État et de la Commune à compter du 1er janvier 2022
