@@ -1,6 +1,6 @@
 # Article 35
 
-Tout local régi par la présente loi et qui devient vacant doit faire l'objet, par le propriétaire ou son représentant, d'une déclaration de vacance auprès de la direction de l'habitat dans le délai d'un mois, dans les conditions fixées par arrêté ministériel.
+Tout local régi par la présente loi, vacant ou qui devient vacant, doit faire l'objet, par le propriétaire ou son représentant, d'une déclaration de vacance auprès de la Direction de l'habitat dans le délai d'un mois, dans les conditions fixées par arrêté ministériel.
 
 Toutefois, le propriétaire peut, antérieurement à la déclaration de vacance et à compter de la délivrance du congé ou du préavis, faire procéder à la visite anticipée des locaux appelés à devenir vacants. Il en informe préalablement la direction de l'habitat qui procède aux formalités appropriées.
 
@@ -21,3 +21,5 @@ Si aucune location n'est intervenue malgré une publication de l'offre dans le J
 Le contrat de bail doit, avant sa conclusion, être soumis au visa de la direction de l'habitat, délivré dans les trois jours de la demande.
 
 Une copie du contrat de bail est transmise à la direction de l'habitat dans les huit jours de sa conclusion.
+
+Pour l'application du présent article, l'usufruitier est assimilé au propriétaire.

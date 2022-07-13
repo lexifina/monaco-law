@@ -2,7 +2,7 @@
 
 Le propriétaire, régulièrement autorisé, peut démolir l'intégralité de son immeuble pour reconstruire, sur le même terrain, un autre immeuble.
 
-À l'issue des travaux, il peut disposer et jouir librement des locaux reconstruits, sous réserve des dispositions du second alinéa de l'article premier.
+À l'issue des travaux, il peut disposer et jouir librement des locaux reconstruits.
 
 Lorsque l'immeuble visé à l'alinéa premier est occupé, le propriétaire doit donner congé à son locataire. Ce dernier dispose du droit d'être relogé par l'État, à titre provisoire ou définitif. Le propriétaire versera à l'État une indemnité pour chaque locataire ayant droit à un relogement dans des conditions déterminées par arrêté ministériel.
 
