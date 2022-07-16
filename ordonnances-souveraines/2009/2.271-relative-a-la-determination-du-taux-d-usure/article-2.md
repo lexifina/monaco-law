@@ -8,7 +8,7 @@ Pour les particuliers :
 
 - Prêts personnels : 3,32 %
 
-- Prêts immobiliers : 1,74 %
+- Prêts immobiliers : 2,13 %
 
 Pour les entreprises et entrepreneurs individuels :
 
