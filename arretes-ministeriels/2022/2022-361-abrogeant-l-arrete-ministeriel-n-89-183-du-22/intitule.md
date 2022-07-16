@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-361 du 7 juillet 2022 abrogeant l'arrêté ministériel n° 89-183 du 22 mars 1989 fixant la liste des topiques à usage externe pouvant être prescrits et appliqués par les pédicures-podologues
