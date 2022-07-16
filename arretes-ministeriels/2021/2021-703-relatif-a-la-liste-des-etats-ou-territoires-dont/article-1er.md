@@ -12,7 +12,9 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Cambodge
 
-- Émirats arabes unis
+- Émirats Arabes Unis
+
+- Gibraltar
 
 - Haïti
 
@@ -23,8 +25,6 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 - Jordanie
 
 - Mali
-
-- Malte
 
 - Maroc
 
