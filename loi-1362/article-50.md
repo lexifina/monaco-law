@@ -2,7 +2,7 @@
 
 Aux fins d'application de la présente loi, le Service d'Information et de Contrôle sur les Circuits Financiers reçoit à leur initiative, ou se fait communiquer à sa demande, dans les plus brefs délais, même en l'absence de la déclaration prévue, selon les cas, aux articles 36 et 40, toute information ou tout document en leur possession, nécessaire à l'accomplissement de sa mission, de la part :
 
-1°) de tout organisme ou personne visé à l'article premier ;
+- 1°) de tout organisme ou personne visé à l'article premier ;
 
 - 2°) de la Direction de la Sûreté Publique, notamment en ce qui concerne les informations d'ordre judiciaire ;
 
