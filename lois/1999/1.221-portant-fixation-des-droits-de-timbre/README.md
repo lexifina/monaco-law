@@ -1,8 +1,8 @@
 # Loi n° 1.221 du 9 novembre 1999 portant fixation des droits de timbre
 
-Version en vigueur au 1er janvier 2002.
+Version en vigueur au 23 juillet 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1999/11-09-1.221@2002.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1999/11-09-1.221@2022.07.23/
 
 | | |
 | --- | --- |
