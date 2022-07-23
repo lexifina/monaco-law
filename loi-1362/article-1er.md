@@ -88,11 +88,17 @@ Dans la mesure où elles le prévoient expressément, les dispositions de la pr�
 
 - 23°) les personnes morales titulaires de l'autorisation de procéder à une offre de jetons visée à l'article 2 de la loi n° 1.491 du 23 juin 2020 relative aux offres de jetons ;
 
-- 24°) toute personne qui, à titre de profession habituelle, soit se porte elle-même contrepartie, soit agit en tant qu'intermédiaire, en vue de l'acquisition ou de la vente d'actifs financiers virtuels pouvant être conservés ou transférés dans le but d'acquérir un bien ou un service, mais ne représentant pas de créance sur l'émetteur ;
+- 24°) toute personne qui, à titre de profession habituelle, soit se porte elle-même contrepartie, soit agit en tant qu'intermédiaire, en vue de l'acquisition ou de la vente d'actifs numériques contre de la monnaie ayant cours légal ;
 
-- 25°) les prestataires de service de conservation pour le compte de tiers d'actifs numériques ou d'accès à des actifs numériques, le cas échéant sous la forme de clés cryptographiques privées, en vue de détenir, stocker et transférer des actifs numériques ;
+- 25°) toute personne qui, à titre de profession habituelle, soit se porte elle-même contrepartie, soit agit en tant qu'intermédiaire, en vue de l'échange d'actifs numériques contre d'autres actifs numériques ;
 
-- 26°) les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux, uniquement pour lesdites opérations.
+- 26°) toute personne qui, à titre de profession habituelle, exerce l'activité de conservation et, ou, d'administration pour le compte de tiers d'actifs numériques ou de crypto-actifs, ou d'accès à des actifs numériques ou à des crypto-actifs, le cas échéant sous la forme de clés privées, en vue de détenir, stocker et transférer des actifs numériques ou des crypto-actifs ;
+
+- 27°) toute personne qui, à titre de profession habituelle, participe à la fourniture ou fournit des services financiers liés à l'offre d'un émetteur et, ou, à la vente d'actifs numériques ou de crypto-actifs ;
+
+- 28°) toute personne qui, à titre de profession habituelle, transfère la détention ou le contrôle d'actifs numériques ou de crypto-actifs en réalisant une transaction pour le compte d'un tiers, en déplaçant des actifs numériques ou des crypto-actifs d'une adresse ou d'un compte à un autre ;
+
+- 29°) les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux, uniquement pour lesdites opérations.
 
 Ne sont pas soumis aux dispositions de la présente loi les organismes et les personnes exerçant, à titre occasionnel, une activité financière qui remplit les conditions suivantes :
 
