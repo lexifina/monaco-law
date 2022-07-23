@@ -6,6 +6,6 @@ Les emplois permanents sont répartis entre les catégories ci-après :
 
 - catégorie B : fonctions d'application ;
 
-- catégories C et D : fonctions d'exécution.
+- catégorie C et D : fonctions d'exécution.
 
 Les critères servant à définir ces fonctions sont fixés par une ordonnance souveraine prise après avis de la commission de la Fonction publique instituée par l'article 26.
