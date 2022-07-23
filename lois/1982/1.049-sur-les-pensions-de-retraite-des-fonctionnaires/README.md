@@ -1,8 +1,8 @@
 # Loi n° 1.049 du 28 juillet 1982 sur les pensions de retraite des fonctionnaires, des magistrats et de certains agents publics
 
-Version en vigueur au 27 juin 2020.
+Version en vigueur au 23 juillet 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1982/07-28-1.049@2020.06.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1982/07-28-1.049@2022.07.23/
 
 | | |
 | --- | --- |
