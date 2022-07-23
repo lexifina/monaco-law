@@ -1,8 +1,8 @@
 # Loi n° 1.383 du 2 août 2011 pour une Principauté numérique
 
-Version en vigueur au 28 décembre 2019.
+Version en vigueur au 23 juillet 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2011/08-02-1.383@2019.12.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2011/08-02-1.383@2022.07.23/
 
 | | |
 | --- | --- |

@@ -16,6 +16,6 @@ Un service de coffre-fort numérique est un service qui a pour objet :
 
 - 7° de donner la possibilité à l'utilisateur de récupérer, soit les documents et les données stockés dans un standard ouvert aisément réutilisable et exploitable par un système d'information, sauf dans le cas des documents et données initialement déposés dans un format non ouvert ou non aisément réutilisable qui peuvent être restitués dans leur format d'origine, dans des conditions définies par ordonnance souveraine, soit les actifs numériques déposés.
 
-Ce service de coffre-fort numérique peut bénéficier d'une qualification établie selon un référentiel fixé par arrêté ministériel.
+- Ce service de coffre-fort numérique peut bénéficier d'une qualification établie selon un référentiel fixé par arrêté ministériel.
 
 Le fait, pour un fournisseur, de se prévaloir d'une offre de service de coffre-fort numérique qui ne présente pas les caractéristiques visées aux chiffres 1° à 7° du présent article est puni de l'amende prévue au chiffre 4 de l'article 26 du Code pénal dont le montant peut être porté au quadruple et d'un emprisonnement de deux ans, ou de l'une de ces deux peines seulement.

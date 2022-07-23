@@ -1,6 +1,6 @@
 # Article 38-1
 
-La sécurité des informations échangées par voie électronique est assurée par des personnes, physiques ou morales, fournissant des services dits « de confiance »tendant à la mise en œuvre de produits y contribuant, dénommées « prestataires de services de confiance »
+Pour accroître la confiance des personnes physiques et morales dans la transition numérique de la Principauté, les services de confiance sont introduits en vue de définir les exigences et obligations qui assurent un niveau élevé de sécurité de tous les services qui sont fournis par les prestataires de services de confiance.
 
 Les différentes catégories de services de confiance peuvent consister notamment en :
 
@@ -14,8 +14,10 @@ Les différentes catégories de services de confiance peuvent consister notammen
 
 - - la numérisation de documents ;
 
-- - la conservation et la gestion de données, documents ou actifs numériques au moyen d'un service d'archivage électronique, d'un service de coffre-fort numérique ou d'un service d'enregistrement numérique sur un dispositif d'enregistrement numérique sur un registre partagé ;
+- - la conservation et la gestion de données ou de documents au moyen d'un service d'archivage électronique ou d'un service de coffre-fort numérique ;
 
-- - le dépôt d'actifs numériques sur un dispositif d'enregistrement numérique sur un registre partagé.
+- - la fourniture d'un service d'informatique en nuage et d'hébergement ;
+
+- - l'intermédiation de données.
 
 L'Agence Monégasque de Sécurité Numérique établit et tient à jour une liste des prestataires de services de confiance qualifiés et des services de confiance qualifiés qu'ils fournissent.
