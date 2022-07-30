@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-394 du 22 juillet 2022 relatif aux conditions d'aptitude physique et médicale ainsi qu'aux modalités d'évaluation psychologique pour l'exercice des fonctions d'élève assistant(e) social(e) de police, d'assistant(e) social(e) de police stagiaire, ainsi qu'à leur titularisation en qualité d'assistant(e) social(e) de police
