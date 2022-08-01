@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 1.284 du 10 septembre 2007 portant application de la loi n° 1.338 du 7 septembre 2007 sur les activités financières
 
-Version en vigueur au 21 mai 2022.
+Version en vigueur au 1er août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/09-10-1.284@2022.05.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/09-10-1.284@2022.08.01/
 
 | | |
 | --- | --- |
