@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-413 du 1er août 2022 fixant les règles relatives à la publicité mentionnées à l'article 3 de la loi n° 1.516 du 23 décembre 2021 relative aux pratiques non conventionnelles participant au mieux-être
