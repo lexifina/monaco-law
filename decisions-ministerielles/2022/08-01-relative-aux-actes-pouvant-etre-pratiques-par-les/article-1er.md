@@ -1,0 +1,3 @@
+# Article 1er
+
+Les prélèvements nasopharyngés, oropharyngés ou salivaires destinés à permettre les examens de détection du génome du virus SARS-CoV-2 par RT-PCR ou les examens de détection antigénique dudit virus peuvent être effectués, sous la responsabilité d'un médecin ou d'un infirmier, par les secouristes de la Croix-Rouge Monégasque et les militaires de la Force Publique, titulaires de l'unité d'enseignement « premiers secours en équipe de niveau 1 » et ayant suivi une formation spécifique à la réalisation de l'examen conforme aux recommandations de la Société française de microbiologie et dispensée sous la supervision d'un médecin, d'un biologiste médical ou d'un infirmier.
