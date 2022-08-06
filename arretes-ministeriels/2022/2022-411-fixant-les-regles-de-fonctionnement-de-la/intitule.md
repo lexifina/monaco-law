@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-411 du 1er août 2022 fixant les règles de fonctionnement de la Commission consultative instaurée par l'article 4 de la loi n° 1.516 du 23 décembre 2021 relative aux pratiques non conventionnelles participant au mieux-être
