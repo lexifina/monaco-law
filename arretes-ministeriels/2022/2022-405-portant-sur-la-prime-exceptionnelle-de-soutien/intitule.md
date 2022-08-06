@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-405 du 1er août 2022 portant sur la prime exceptionnelle de soutien aux employés du secteur de l'hôtellerie et de la restauration dérogeant à l'article 15 du règlement intérieur de la Caisse de Compensation des Services Sociaux
