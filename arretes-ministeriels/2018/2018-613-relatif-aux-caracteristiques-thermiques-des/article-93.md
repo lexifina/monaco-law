@@ -8,6 +8,6 @@
 
 - c) les travaux d'isolation entraînent des modifications de l'aspect de la construction en contradiction avec les prescriptions prévues pour les bâtiments et constructions des secteurs réservés au sens de l'article 12 de l'Ordonnance Souveraine n° 3.647 du 9 septembre 1966 concernant l'urbanisme, la construction et la voirie, modifiée, ou pour les éléments bâtis remarquables au sens de l'article 21 de l'Ordonnance Souveraine n° 4.482 du 13 septembre 2013 portant délimitation et règlement d'urbanisme du secteur des quartiers ordonnancés, modifiée ;
 
-- d) le bâtiment est déjà isolé avec une résistance thermique supérieure à 2m2.K/W sur plus de 50% des parois.
+- d) le bâtiment est déjà isolé avec une résistance thermique supérieure à 2m².K/W sur plus de 50% des parois.
 
 2. Le maître d'ouvrage bénéficiant d'une dispense d'exécution au titre des dispositions du présent article qui procède, concomitamment ou dans le délai maximal de 5 ans suivant l'achèvement ou le récolement, selon le cas, des travaux visés aux articles 91 et 92, à des travaux de modification des aménagements intérieurs au sens de l'article 1er de l'Ordonnance Souveraine n° 3.647 du 9 septembre 1966 concernant l'urbanisme, la construction et la voirie, modifiée, concernant l'ensemble du bâtiment, doit dans ce cas réaliser concomitamment des travaux d'isolation intérieure.

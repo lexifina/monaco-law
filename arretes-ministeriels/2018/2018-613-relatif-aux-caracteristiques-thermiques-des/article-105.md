@@ -12,7 +12,11 @@
 
 Le propriétaire ou le syndic adresse une copie de cet accord à la Commission Technique, d'Hygiène, de Sécurité et de Protection de l'Environnement et est tenu de proposer, avant le 21 décembre 2022, à la Commission Technique, d'Hygiène, de Sécurité et de Protection de l'Environnement un changement d'énergie. Cette proposition doit être accompagnée de l'extrait de l'étude de faisabilité du concessionnaire avec mention de sa conclusion, d'un dossier technique (descriptif, plan et notice de sécurité établie par un bureau de contrôle de la Principauté) ainsi que d'un planning d'exécution.
 
-4. L'obligation de réaliser un audit énergétique et de l'annexer, dans sa version intégrale ou la fiche de synthèse, aux contrats de vente et de location, visée à l'article 96, est applicable :
+4. Sans préjudice des dispositions du 3. b) , la production de chauffage et/ou d'eau chaude sanitaire à partir de combustible liquide, tel que précisé à l'article 102, peut être autorisée temporairement, dans les bâtiments situés dans le périmètre géographique de l'annexe 1 de l'Ordonnance Souveraine n° 8.363 du 23 novembre 2020 susvisée, sous réserve de l'obtention d'un accord de principe avec le concessionnaire des boucles thalassothermiques pour le raccordement de l'immeuble avant le 1er septembre 2023, et ce, jusqu'à la date de raccordement auxdites boucles.
+
+Cette demande d'autorisation temporaire est adressée, par le propriétaire de l'installation de production ou le représentant de l'immeuble en copropriété, à la Commission Technique, d'Hygiène, de Sécurité et de Protection de l'Environnement et doit comporter, outre les pièces du dossier technique visées à l'article 102, une note technique du concessionnaire des boucles thalassothermiques indiquant la date de raccordement envisagée pour le bâtiment.
+
+5. L'obligation de réaliser un audit énergétique et de l'annexer, dans sa version intégrale ou la fiche de synthèse, aux contrats de vente et de location, visée à l'article 96, est applicable :
 
 - a) au 1er janvier 2022 pour les bâtiments achevés entre 1930 et 1990 ;
 

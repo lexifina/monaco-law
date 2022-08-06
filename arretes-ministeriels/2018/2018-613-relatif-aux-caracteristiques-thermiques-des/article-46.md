@@ -6,4 +6,4 @@
 
 - b) soit un dispositif automatique permettant l'extinction des sources de lumière artificielle pendant les périodes d'inoccupation, si aucune réglementation n'impose un niveau minimal.
 
-2. Le dispositif visé au présent article ne dessert qu'un seul niveau et au plus une surface de 500 m2.
+2. Le dispositif visé au présent article ne dessert qu'un seul niveau et au plus une surface de 500 m².

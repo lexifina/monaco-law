@@ -8,4 +8,4 @@
 
 2. Lors d'une commutation entre deux allures, la puissance de chauffage est nulle ou maximale de façon à minimiser les durées des phases de transition.
 
-3. Le dispositif visé au présent article ne peut être commun qu'à des locaux dont les horaires d'occupation sont similaires ; un même dispositif peut desservir au plus une SHOC de 5000 m2.
+3. Le dispositif visé au présent article ne peut être commun qu'à des locaux dont les horaires d'occupation sont similaires ; un même dispositif peut desservir au plus une SHOC de 5000 m².

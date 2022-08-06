@@ -20,8 +20,8 @@
 
 - c) Le label « Otimu, 3 étoiles », correspondant simultanément à :
 
-  - - une consommation conventionnelle d'énergie au moins inférieure de 30 % à la consommation conventionnelle maximale, notée Cepmax, définie au Titre II ;
+  - - une consommation conventionnelle d'énergie au moins inférieure de 30 % à la consommation conventionnelle maximale, notée Cepmax, définie au Titre II ; -
 
-  - - une contribution des énergies renouvelables au moins supérieure à 60% au coefficient Aepenrmin, défini au Titre II.
+  - une contribution des énergies renouvelables au moins supérieure à 60% au coefficient Aepenrmin, défini au Titre II.
 
 4. Les labels visés au présent article sont attribués par la Direction de la Prospective, de l'Urbanisme et de la Mobilité sur demande écrite du bureau d'études, de l'architecte, du propriétaire ou du syndic justifiant des performances du bâtiment considéré.

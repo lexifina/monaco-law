@@ -2,7 +2,7 @@
 
 1. Concernant les bâtiments collectifs d'habitation, pour tout nouveau bâtiment visé à l'article 2 § 1\. a) ou extension de bâtiment existant visée à l'article 2 § 2\.
 
-a), la consommation conventionnelle maximale d'énergie primaire exprimée en kWh d'énergie primaire par m2 de SHOC et par an, Cepmax, est déterminée comme suit :
+a), la consommation conventionnelle maximale d'énergie primaire exprimée en kWh d'énergie primaire par m² de SHOC et par an, Cepmax, est déterminée comme suit :
 
 - Cepmax = 57,5 × Mctype × (Mcgéo + Mcsurf)
 
