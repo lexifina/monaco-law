@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.399 du 29 juillet 2022 portant modification de l'Ordonnance Souveraine n° 1.635 du 30 avril 2008 fixant les attributions de la Direction des Ressources Humaines et de la Formation de la Fonction Publique
