@@ -1,8 +1,8 @@
 # Ordonnance-loi n° 664 du 23 mai 1959 sur le nantissement des biens d'équipement
 
-Version en vigueur au 24 décembre 1966.
+Version en vigueur au 13 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1959/05-23-664@1966.12.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance-loi/1959/05-23-664@2022.08.13/
 
 | | |
 | --- | --- |
