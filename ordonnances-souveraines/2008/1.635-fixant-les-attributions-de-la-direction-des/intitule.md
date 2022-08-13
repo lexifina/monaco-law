@@ -1,1 +1,1 @@
-Ordonnance souveraine n° 1.635 du 30 avril 2008 fixant les attributions de la Direction des Ressources Humaines et de la Formation de la Fonction Publique
+Ordonnance Souveraine n° 1.635 du 30 avril 2008 fixant les attributions de la Direction des Ressources Humaines et de la Formation de la Fonction Publique
