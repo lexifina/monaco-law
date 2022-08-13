@@ -6,10 +6,12 @@ Lorsque le professionnel exerce son activité dans le pays dans lequel le consom
 
 Le précédent alinéa n'est pas applicable :
 
-1. lorsque le consommateur s'est rendu dans le pays du fournisseur et y a conclu le contrat,
+- 1. lorsque le consommateur s'est rendu dans le pays du fournisseur et y a conclu le contrat,
 
-ou,
+- ou,
 
-2. lorsque le bien ou le service a été ou devait être fourni dans le pays où était situé l'établissement en charge de cette fourniture, à moins que, dans l'un ou l'autre cas, le consommateur ait été incité par le fournisseur à se rendre dans ledit pays en vue d'y conclure le contrat ;
+- 2. lorsque le bien ou le service a été ou devait être fourni dans le pays où était situé l'établissement en charge de cette fourniture, à moins que, dans l'un ou l'autre cas, le consommateur ait été incité par le fournisseur à se rendre dans ledit pays en vue d'y conclure le contrat ;
 
-3. au contrat de transport autre qu'un contrat portant sur un voyage, un circuit ou des vacances à forfait.
+- 2.1. En matière de services bancaires pour les conventions de compte de dépôt et de compte de titres tenues par un établissement installé sur le territoire de la Principauté ;
+
+- 3. au contrat de transport autre qu'un contrat portant sur un voyage, un circuit ou des vacances à forfait.
