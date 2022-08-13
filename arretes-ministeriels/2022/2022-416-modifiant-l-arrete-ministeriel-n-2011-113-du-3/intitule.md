@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-416 du 29 juillet 2022 modifiant l'arrêté ministériel n° 2011-113 du 3 mars 2011 relatif aux emplacements de stationnement des taxis et des véhicules de service de ville, modifié
