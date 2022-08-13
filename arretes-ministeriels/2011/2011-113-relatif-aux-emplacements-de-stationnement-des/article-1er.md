@@ -27,3 +27,5 @@ Les zones réservées au stationnement des taxis prévues à l'article 21 de l'o
 - Quai Antoine Ier
 
 - Avenue Albert II - Le Neptune
+
+Ces zones sont exclusivement réservées aux taxis pour l'exploitation de leur activité. Elles ne peuvent aucunement être considérées comme des emplacements de stationnement lorsque le taxi n'est pas en service.
