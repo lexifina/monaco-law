@@ -6,12 +6,12 @@ Définitions Au sens de la présente section, les expressions suivantes désigne
 
 2°) « Producteur d'électricité photovoltaïque » : exploitant de l'installation photovoltaïque. Il peut s'agir :
 
-a) du propriétaire de l'immeuble sur lequel est implantée l'installation de production d'électricité ;
+- a) du propriétaire de l'immeuble sur lequel est implantée l'installation de production d'électricité ;
 
-b) du syndic ou du représentant de l'immeuble en copropriété ;
+- b) du syndic ou du représentant de l'immeuble en copropriété ;
 
-c) du mandataire de l'indivision en cas de pluralité de propriétaires soumis à ce régime ;
+- c) du mandataire de l'indivision en cas de pluralité de propriétaires soumis à ce régime ;
 
-d) du tiers-investisseur ayant conclu un contrat de mise en place et d'exploitation d'une installation photovoltaïque avec une des personnes visées au a), b) ou c) du présent article.
+- d) du tiers-investisseur ayant conclu un contrat de mise en place et d'exploitation d'une installation photovoltaïque avec une des personnes visées au a), b) ou c) du présent article.
 
 3°) « Puissance installée » : puissance crête unitaire de chaque installation photovoltaïque.

@@ -2,9 +2,9 @@
 
 I. - Il est interdit de mettre à disposition, à titre onéreux ou gratuit,
 
-1°) tout sac de caisse en matière plastique à usage unique ;
+- 1°) tout sac de caisse en matière plastique à usage unique ;
 
-2°) tout sac en matière plastique à usage unique destiné à l'emballage de marchandises au point de vente, autres que les sacs de caisse, sauf pour les sacs compostables en compostage domestique et constitués, pour tout ou partie, de matières biosourcées.
+- 2°) tout sac en matière plastique à usage unique destiné à l'emballage de marchandises au point de vente, autres que les sacs de caisse, sauf pour les sacs compostables en compostage domestique et constitués, pour tout ou partie, de matières biosourcées.
 
 Les conditions d'application du présent paragraphe sont fixées par arrêté ministériel fixant notamment la teneur biosourcée minimale des sacs en matière plastique à usage unique et les conditions dans lesquelles celle-ci est progressivement augmentée.
 

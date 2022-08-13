@@ -2,9 +2,9 @@
 
 I. - Le coût de l'élimination des déchets doit être supporté par :
 
-1°) le détenteur qui remet les déchets à un ramasseur ou à une entreprise chargée de l'élimination et/ou ;
+- 1°) le détenteur qui remet les déchets à un ramasseur ou à une entreprise chargée de l'élimination et/ou ;
 
-2°) les détenteurs antérieurs ou le producteur du produit générateur de déchets.
+- 2°) les détenteurs antérieurs ou le producteur du produit générateur de déchets.
 
 II. - L'imputation du coût de l'élimination des déchets issus des ménages et des déchets assimilés à des déchets ménagers est fixée dans les conditions des concessions de collecte et d'élimination des déchets et des dispositions prises en application du présent article.
 

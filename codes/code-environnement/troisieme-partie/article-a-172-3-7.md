@@ -20,8 +20,8 @@ I. Une fois les travaux achevés dans son bâtiment, le bénéficiaire, au sens 
 
 - 6°) en cas de recours à la possibilité de perception de la subvention par l'entreprise ayant réalisé les travaux, tel que prévu à l'article A. 172-3-4 :
 
-- a) un mandat signé par le propriétaire autorisant l'entreprise à effectuer les démarches administratives pour son compte et à percevoir directement la subvention visée à l'article A. 172-3-2 ;
+  - a) un mandat signé par le propriétaire autorisant l'entreprise à effectuer les démarches administratives pour son compte et à percevoir directement la subvention visée à l'article A. 172-3-2 ;
 
-- b) le montant total avant subvention, le montant de la subvention et le montant net doivent être indiqués sur la facture détaillée, qui doit être visée par le bénéficiaire.
+  - b) le montant total avant subvention, le montant de la subvention et le montant net doivent être indiqués sur la facture détaillée, qui doit être visée par le bénéficiaire.
 
 II. La Direction de l'Environnement peut requérir du bénéficiaire visé au I du présent article, toute pièce complémentaire qu'elle estime nécessaire pour l'instruction de la demande.
