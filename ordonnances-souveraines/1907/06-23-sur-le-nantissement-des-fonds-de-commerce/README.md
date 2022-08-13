@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 23 juin 1907 sur le nantissement des fonds de commerce
 
-Version en vigueur au 26 décembre 1992.
+Version en vigueur au 13 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1907/06-23-L002045@1992.12.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1907/06-23-L002045@2022.08.13/
 
 | | |
 | --- | --- |
