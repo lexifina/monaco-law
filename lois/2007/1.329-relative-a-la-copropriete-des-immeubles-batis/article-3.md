@@ -1,6 +1,6 @@
 # Article 3
 
-Dans le silence ou la contradiction des titres, la quote-part des parties communes afférente à chaque lot est proportionnelle à la valeur relative de chaque partie privative par rapport à l'ensemble des valeurs desdites parties, telles que ces valeurs résultent lors de l'établissement de la copropriété, de la consistance, de la superficie et de la situation des lots, sans égard à leur utilisation.
+Dans le silence ou la contradiction des titres, la quote-part des parties communes, tant générales que spéciales, afférente à chaque lot est proportionnelle à la valeur relative de chaque partie privative par rapport à l'ensemble des valeurs desdites parties, telles que ces valeurs résultent lors de l'établissement de la copropriété, de la consistance, de la superficie et de la situation des lots, sans égard à leur utilisation.
 
 À défaut de répartition des quotes-parts des parties communes, tout copropriétaire peut saisir le tribunal de première instance à l'effet d'y faire procéder.
 

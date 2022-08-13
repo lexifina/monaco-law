@@ -2,7 +2,7 @@
 
 Sont décidés à l'unanimité des copropriétaires présents ou représentés représentant au moins les deux tiers des voix de tous les copropriétaires :
 
-- 1) les travaux de surélévation, d'affouillement ou de construction en vue de créer de nouveaux locaux privatifs ;
+- 1) les travaux de surélévation, d'affouillement ou de construction en vue de créer de nouveaux locaux privatifs lorsque les travaux sont réalisés par les soins du syndicat ;
 
 - 2) l'aliénation de parties communes ou de droits accessoires aux parties communes dont la conservation est nécessaire au respect de la destination de l'immeuble ;
 

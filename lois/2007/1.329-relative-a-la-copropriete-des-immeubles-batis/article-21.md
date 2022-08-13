@@ -10,4 +10,8 @@ Seul responsable de la gestion, il ne peut se faire substituer par d'autres pers
 
 Le syndic détient les archives du syndicat, notamment une expédition ou une copie du règlement de copropriété, ainsi que toutes conventions, pièces, correspondances, plans, registres, documents et décisions de justice relatifs à l'immeuble et au syndicat. Il détient, en particulier, les registres contenant les procès-verbaux des assemblées générales des copropriétaires et les pièces annexes.
 
-Sur simple demande des copropriétaires, il délivre des copies ou extraits, qu'il certifie conformes, des pièces visées à l'alinéa précédent.
+Le syndic est tenu d'établir et de tenir à jour et à disposition des copropriétaires une documentation dont le contenu est défini par arrêté ministériel.
+
+Il délivre au copropriétaire qui en fait la demande expresse, aux frais de ce dernier, des copies ou extraits, qu'il certifie conformes, des pièces visées aux alinéas précédents.
+
+Lorsque l'administration de la copropriété est assurée par un syndic professionnel, celui-ci peut proposer un accès en ligne sécurisé aux documents dématérialisés relatifs à la gestion de l'immeuble ou des lots gérés, ainsi qu'aux documents dématérialisés faisant l'objet ou ayant fait l'objet d'une délibération de l'assemblée générale, sauf décision contraire de l'assemblée générale prise à la majorité de l'article 14 de la présente loi. Cet accès est différencié selon la nature des documents mis à la disposition des membres du syndicat de copropriétaires ou de ceux du conseil syndical. Un arrêté ministériel précise la liste minimale des documents devant être accessibles en ligne dans un espace sécurisé.

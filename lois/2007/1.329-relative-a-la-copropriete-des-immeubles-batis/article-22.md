@@ -10,4 +10,6 @@ Lorsqu'une personne morale est nommée en qualité de membre du conseil syndical
 
 Toute personne physique peut se faire représenter par un mandataire de son choix.
 
+Les décisions du conseil syndical sont prises à la majorité des voix des copropriétaires composant le conseil syndical. En cas d'égalité, la voix du président est prépondérante.
+
 Le conseil syndical assiste le syndic et contrôle sa gestion. Il donne son avis au syndic et à l'assemblée générale sur toutes les questions sur lesquelles il est consulté ou dont il se saisit lui-même.

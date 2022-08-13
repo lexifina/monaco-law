@@ -14,4 +14,6 @@ La rémunération du syndic est fixée par l'assemblée générale à la majorit
 
 En cas de non renouvellement du mandat du syndic par l'assemblée générale, ce mandat est, le cas échéant, prorogé de droit jusqu'à ce qu'un successeur ait été désigné par celle-ci. Cette désignation intervient au plus tard dans un délai de quatre mois à compter de la décision de non renouvellement. Ce délai se renouvelle tant qu'un successeur n'a pas été désigné.
 
+Lorsque le syndicat des copropriétaires comporte au plus dix lots, chaque copropriétaire peut prendre l'initiative, en cas d'empêchement du syndic ou de défaillance avérée de celui-ci mettant en péril la conservation de l'immeuble, la santé ou la sécurité des occupants, de convoquer une assemblée générale extraordinaire afin qu'elle désigne un nouveau syndic ou qu'elle prenne les décisions nécessaires à la conservation de l'immeuble, de la santé ou de la sécurité de ses occupants.
+
 En cas d'absence de syndic ou de carence de celui-ci, le Président du Tribunal de Première Instance, saisi à la requête d'un copropriétaire, désigne un administrateur provisoire de la copropriété.

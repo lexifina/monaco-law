@@ -4,6 +4,6 @@ La présente loi s'applique à tous les immeubles bâtis dont la propriété est
 
 Les parties privatives sont la propriété exclusive de chaque copropriétaire.
 
-Les parties communes et les droits qui leur sont accessoires appartiennent indivisément à l'ensemble des copropriétaires ou à certains d'entre eux. Ils ne peuvent faire l'objet, indépendamment des parties privatives, d'un acte de partage ou d'une licitation forcée.
+Les parties communes et les droits qui leur sont accessoires appartiennent indivisément à l'ensemble des copropriétaires ou certains d'entre eux seulement ; selon le cas, elles sont générales ou spéciales. Leur administration et leur jouissance sont organisées conformément aux dispositions de la présente loi. Les parties communes et les droits qui leur sont accessoires ne peuvent faire l'objet, indépendamment des parties privatives, d'un acte de partage ou d'une licitation forcée.
 
 Chacun des copropriétaires peut user des parties communes suivant leur destination et sans faire obstacle aux droits des autres copropriétaires.

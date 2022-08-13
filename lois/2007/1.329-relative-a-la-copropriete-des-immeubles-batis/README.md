@@ -1,8 +1,8 @@
 # Loi n° 1.329 du 8 janvier 2007 relative à la copropriété des immeubles bâtis
 
-Version en vigueur au 27 juin 2020.
+Version en vigueur au 13 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2007/01-08-1.329@2020.06.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2007/01-08-1.329@2022.08.13/
 
 | | |
 | --- | --- |
