@@ -1,8 +1,8 @@
 # Loi n° 1.448 du 28 juin 2017 relative au droit international privé
 
-Version en vigueur au 8 juillet 2017.
+Version en vigueur au 13 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/06-28-1.448@2017.07.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/06-28-1.448@2022.08.13/
 
 | | |
 | --- | --- |
