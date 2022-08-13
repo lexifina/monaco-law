@@ -64,6 +64,8 @@ Les postes consulaires sont les suivants :
 
 - Gabon : Libreville ;
 
+- Géorgie : Tbilissi ;
+
 - Grande-Bretagne : Birmingham, Bristol, Edimbourg, Londres, Manchester ;
 
 - Grèce : Athènes ;
@@ -170,7 +172,7 @@ Les postes consulaires sont les suivants :
 
 - Suède : Göteborg, Stockolm ;
 
-- Suisse : Bâle, Berne, Genève, Lugano, Zurich ;
+- Suisse : Bâle, Berne, Lugano, Zurich ;
 
 - Sultanat d'Oman : Muscat ;
 
