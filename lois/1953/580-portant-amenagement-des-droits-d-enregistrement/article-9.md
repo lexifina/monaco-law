@@ -26,7 +26,7 @@ La partie du droit afférente à la première période sera seule acquittée lor
 
 Le droit est perçu sur la valeur des objets abandonnés.
 
-4° (4° abrogé).
+4° (4° abrogé) ;.
 
 5° Les atermoiements entre débiteurs et créanciers.
 
