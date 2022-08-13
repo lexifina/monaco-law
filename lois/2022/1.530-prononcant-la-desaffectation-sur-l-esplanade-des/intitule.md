@@ -1,0 +1,1 @@
+Loi n° 1.530 du 29 juillet 2022 prononçant la désaffectation, sur l'Esplanade des Pêcheurs, Quai Rainier Ier Grand Amiral de France et une partie du Quai Antoine Ier, d'une parcelle de terrain dépendant du domaine public de l'État
