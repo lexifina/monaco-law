@@ -24,14 +24,16 @@ La loi répute actes de commerce :
 
 - Entre toutes personnes, les lettres de change, ou remises d'argent faites de place en place.
 
-- Entre toutes personnes, le gage de monnaie, ainsi que le gage d'instruments financiers.
+- Entre toutes personnes, le gage de monnaie, le gage d'instruments financiers ainsi que le gage de produits financiers structurés.
 
 - Les instruments financiers comprennent les valeurs mobilières, les instruments financiers à terme, ainsi que tous instruments financiers équivalents émis sur le fondement de droits étrangers.
 
-- Sont considérés comme valeurs mobilières :
+Sont considérés comme valeurs mobilières :
 
-  - 1°) les actions et autres titres donnant ou pouvant donner accès directement ou indirectement au capital ou au droit de vote, transmissibles par inscription en compte ou tradition ;
+- 1°) les actions et autres titres donnant ou pouvant donner accès directement ou indirectement au capital ou au droit de vote, transmissibles par inscription en compte ou tradition ;
 
-  - 2°) les titres de créance qui représentent chacun un droit de créance sur la personne morale qui les émet, transmissibles par inscription en compte ou tradition, ainsi que les bons de caisse ;
+- 2°) les titres de créance qui représentent chacun un droit de créance sur la personne morale qui les émet, transmissibles par inscription en compte ou tradition, ainsi que les bons de caisse ;
 
-  - 3°) les parts ou actions d'organismes de placement collectif.
+- 3°) les parts ou actions d'organismes de placement collectif.
+
+Un produit financier structuré est un titre créé dans le but de titriser et de transférer le risque de crédit lié à un portefeuille d'actifs financiers, et conférant au détenteur de ce titre le droit à des versements réguliers, qui dépendent des flux de trésorerie provenant des actifs sous-jacents.

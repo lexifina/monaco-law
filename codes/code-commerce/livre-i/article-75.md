@@ -18,7 +18,7 @@ La lettre de change contient :
 
 - 8° La signature de celui qui émet la lettre (tireur).
 
-Le titre dans lequel une des énonciations indiquées aux alinéas précédents fait défaut ne vaut pas comme lettre de change, sauf dans les cas déterminés par les alinéas suivants :
+- Le titre dans lequel une des énonciations indiquées aux alinéas précédents fait défaut ne vaut pas comme lettre de change, sauf dans les cas déterminés par les alinéas suivants :
 
 La lettre de change dont l'échéance n'est pas indiquée est considérée comme payable à vue.
 
