@@ -1,11 +1,11 @@
 # Code civil
 
-Version en vigueur au 16 juillet 2022.
+Version en vigueur au 13 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-civil@2022.07.16/
+Source : Legimonaco, https://legimonaco.mc/code/code-civil@2022.08.13/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code civil |
-| Dernière modification | 16 juillet 2022 |
+| Dernière modification | 13 août 2022 |
