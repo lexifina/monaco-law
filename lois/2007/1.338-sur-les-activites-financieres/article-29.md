@@ -1,9 +1,15 @@
 # Article 29
 
-Sont interdites aux sociétés non agréées au titre de la présente loi, les démarches, sollicitées ou non, visant à proposer, quel que soit le lieu ou le moyen utilisé, des services ou produits financiers.
+Sont interdites à toute personne ou à toute entité non agréée dans les conditions prévues par la présente loi, toutes démarches, sollicitées ou non sollicitées, sur le territoire de la Principauté, en vue de proposer, quel que soit le lieu ou le moyen utilisé, des services, des instruments ou des produits financiers, à des personnes domiciliées en Principauté.
 
-Sont interdites aux sociétés agréées les démarches non sollicitées effectuées au domicile ou à la résidence des personnes, sur leurs lieux de travail ou dans les lieux publics, à l'exception des locaux des sociétés agréées, visant à proposer, quel que soit le moyen utilisé, des services ou produits financiers.
+Toutefois, ces dispositions ne s'appliquent pas lorsque la personne domiciliée sur le territoire de la Principauté est :
 
-Les démarches dans les lieux publics peuvent être autorisées par la Commission, selon les modalités déterminées par l'autorisation.
+- 1°) un investisseur institutionnel ;
 
-La mention de l'agrément délivré conformément à l'article 2 doit figurer sur la documentation commerciale des sociétés agréées ; toutefois, cette mention, à des fins publicitaires, présentée notamment comme constituant un label de qualité de la gestion, est strictement interdite.
+- 2°) une société agréée ;
+
+- 3°) un client d'une société agréée lorsque les démarches sont réalisées par son intermédiaire.
+
+L'interdiction visée au premier alinéa ne s'applique pas aux évènements organisés sur le territoire de la Principauté qui réunissent des professionnels du secteur bancaire et financier, sous réserve d'en informer préalablement la Commission et sauf avis défavorable de sa part.
+
+Les conditions d'application du présent article sont précisées par ordonnance souveraine.
