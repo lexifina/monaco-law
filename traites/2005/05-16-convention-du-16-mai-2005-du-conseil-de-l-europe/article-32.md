@@ -1,13 +1,13 @@
 # Article 32
 
-Le Secrétaire Général du Conseil de l'Europe notifie aux États membres du Conseil de l'Europe, à la Communauté européenne, aux États non membres ayant participé à l'élaboration de la présente Convention, ainsi qu'à tout État y ayant adhéré ou ayant été invité à y adhérer :
+1 Saisie d'une demande de coopération au titre des sections 3 et 4, la Partie requise reconnaît toute décision judiciaire rendue dans la Partie requérante en ce qui concerne les droits revendiqués par des tiers.
 
-a. toute signature ;
+2 La reconnaissance peut être refusée:
 
-b. le dépôt de tout instrument de ratification, d'acceptation, d'approbation ou d'adhésion ;
+- a si des tiers n'ont pas eu une possibilité suffisante de faire valoir leurs droits; ou
 
-c. toute date d'entrée en vigueur de la présente Convention conformément à l'article 23 ;
+- b si la décision est incompatible avec une décision déjà rendue dans la Partie requise sur la même question; ou
 
-d. toute déclaration faite en application des articles 1, paragraphe 2, 22, paragraphe 4, et 25 ;
+- c si elle est incompatible avec l'ordre public de la Partie requise; ou
 
-e. tout autre acte, notification ou communication ayant trait à la présente Convention.
+- d si la décision a été rendue contrairement aux dispositions en matière de compétence exclusive prévues par le droit de la Partie requise.

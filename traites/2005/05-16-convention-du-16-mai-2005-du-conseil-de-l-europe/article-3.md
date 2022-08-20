@@ -1,15 +1,13 @@
 # Article 3
 
-1. Chaque Partie prend des mesures appropriées, en particulier dans le domaine de la formation des autorités répressives et autres organes, ainsi que dans les domaines de l'éducation, de la culture, de l'information, des médias et de la sensibilisation du public, en vue de prévenir les infractions terroristes et leurs effets négatifs, tout en respectant les obligations relatives aux droits de l'homme lui incombant, telles qu'établies dans la Convention de sauvegarde des Droits de l'Homme et des Libertés fondamentales, dans le Pacte international relatif aux droits civils et politiques, et d'autres obligations relatives au droit international, lorsqu'ils lui sont applicables.
+1 Chaque Partie adopte les mesures législatives et autres qui se révèlent nécessaires pour lui permettre de confisquer des instruments, des biens blanchis et des produits ou des biens dont la valeur correspond à ces produits.
 
-2. Chaque Partie prend les mesures qui s'avèrent nécessaires pour améliorer et développer la coopération entre les autorités nationales en vue de prévenir les infractions terroristes et leurs effets négatifs, notamment :
+2 Sous réserve que le paragraphe 1 de cet article s'applique au blanchiment et aux catégories d'infractions visées à l'annexe de la Convention, chaque Partie peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d'acceptation, d'approbation ou d'adhésion, par une déclaration adressée au Secrétaire Général du Conseil de l'Europe, déclarer qu'elle n'appliquera le paragraphe 1 du présent article:
 
-a. par l'échange d'informations ;
+- a qu'aux infractions punies d'une peine privative de liberté ou d'une mesure de sûreté d'une durée maximale supérieure à un an. Cependant, les Parties peuvent formuler une déclaration concernant cette disposition pour ce qui concerne la confiscation des produits d'infraction fiscales, à la seule fin de leur permettre de procéder à la confiscation de tels produits sur le plan tant national que dans le cadre de la coopération internationale, sur la base d'instruments de droit national et international en matière de recouvrement de créances fiscales; et/ou
 
-b. par le renforcement de la protection physique des personnes et des infrastructures ;
+- b qu'à une liste d'infractions spécifiques.
 
-c. par l'amélioration des plans de formation et de coordination pour des situations de crise.
+3 Chaque Partie peut prévoir une confiscation obligatoire pour certaines infractions pouvant faire l'objet d'une confiscation. Chaque Partie peut notamment inclure dans ces infractions le blanchiment, le trafic de produits stupéfiants, la traite des êtres humains et d'autres infractions graves.
 
-3. Chaque Partie promeut la tolérance en encourageant le dialogue interreligieux et transculturel, en impliquant, le cas échéant, des organisations non gouvernementales et d'autres acteurs de la société civile à participer, en vue de prévenir les tensions qui pourraient contribuer à la commission d'infractions terroristes.
-
-4. Chaque Partie s'efforce de mieux sensibiliser le public à l'existence, aux causes à la gravité et à la menace que représentent les infractions terroristes et les infractions prévues par la présente Convention, et envisage d'encourager le public à fournir aux autorités compétentes une aide factuelle et spécifique, qui pourrait contribuer à la prévention des infractions terroristes et des infractions prévues par la présente Convention.
+4 Chaque Partie adopte les mesures législatives ou autres qui se révèlent nécessaires pour exiger, en cas d'une ou plusieurs infractions graves telles que définies par son droit interne, que l'auteur établisse l'origine de ses biens, suspectés d'être des produits ou d'autres biens susceptibles de faire l'objet d'une confiscation, dans la mesure où une telle exigence est compatible avec les principes de son droit interne.

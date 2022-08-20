@@ -1,7 +1,7 @@
 # Article 25
 
-1. Tout État ou la Communauté européenne peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d'acceptation, d'approbation ou d'adhésion, désigner le ou les territoires auxquels s'appliquera la présente Convention.
+1 Une Partie qui confisque des biens en application des articles 23 et 24 de la Convention, en dispose conformément à son droit interne et à ses procédures administratives.
 
-2. Toute Partie peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l'Europe, étendre l'application de la présente Convention à tout autre territoire désigné dans la déclaration. La Convention entrera en vigueur à l'égard de ce territoire le premier jour du mois qui suit l'expiration d'une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
+2 Lorsqu'une Partie agit à la demande d'une autre Partie en application des articles 23 et 24 de cette Convention, elle doit, dans la mesure où son droit interne le lui permet et si la demande lui en est faite, envisager à titre prioritaire de restituer les biens confisqués à la Partie requérante, afin que cette dernière puisse indemniser les victimes de l'infraction ou restituer ces biens à leur propriétaire légitime.
 
-3. Toute déclaration faite en application des deux paragraphes précédents peut être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général du Conseil de l'Europe. Le retrait prendra effet le premier jour du mois qui suit l'expiration d'une période de trois mois après la date de réception de ladite notification par le Secrétaire Général.
+3 Lorsqu'une Partie agit à la demande d'une autre Partie en application des articles 23 et 24 de cette Convention, elle peut envisager spécialement de conclure des accords ou arrangements prévoyant de partager ces biens avec d'autres Parties, systématiquement ou au cas par cas, conformément à son droit interne ou à ses procédures administratives.

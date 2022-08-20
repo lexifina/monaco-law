@@ -1,5 +1,11 @@
 # Article 18
 
-1. Dans les cas où elle est compétente en vertu de l'article 14, la Partie sur le territoire de laquelle se trouve l'auteur présumé de l'infraction est tenue, si elle ne l'extrade pas, de soumettre l'affaire, sans retard excessif et sans aucune exception, que l'infraction ait été ou non commise sur son territoire, à ses autorités compétentes pour l'exercice de l'action pénale, selon une procédure conforme à la législation de cette Partie. Ces autorités prennent leur décision dans les mêmes conditions que pour toute autre infraction de caractère grave, conformément aux lois de cette Partie.
+1 À la demande d'une autre Partie, la Partie requise fournit les renseignements concernant des comptes bancaires déterminés et des opérations bancaires qui ont été réalisées pendant une période déterminée sur un ou plusieurs comptes spécifiés dans la demande, y compris les renseignements concernant tout compte émetteur ou récepteur.
 
-2. Chaque fois que, en vertu de sa législation interne, une Partie n'est autorisée à extrader ou à remettre un de ses ressortissants qu'à la condition que l'intéressé lui sera remis pour purger la peine qui lui a été imposée à l'issue du procès ou de la procédure pour lesquels l'extradition ou la remise avait été demandée, et que cette Partie et la Partie requérant l'extradition acceptent cette option et les autres conditions qu'elles peuvent juger appropriées, l'extradition ou la remise conditionnelle suffit pour dispenser la Partie requise de l'obligation prévue au paragraphe 1.
+2 L'obligation prévue au présent article ne s'applique que dans la mesure où la banque qui gère le compte possède ces renseignements.
+
+3 En complément des indications contenues à l'article 37, la Partie requérante indique dans sa demande les raisons pour lesquelles elle considère que les informations demandées sont pertinentes aux fins de l'enquête pénale portant sur l'infraction.
+
+4 La Partie requise peut subordonner l'exécution d'une telle demande aux mêmes conditions que celles qu'elle applique pour les demandes aux fins de perquisition et de saisie.
+
+5 Les Parties peuvent étendre cette disposition aux comptes détenus par des institutions financières non bancaires. La mise en œuvre d'une telle extension peut être soumise au principe de réciprocité.

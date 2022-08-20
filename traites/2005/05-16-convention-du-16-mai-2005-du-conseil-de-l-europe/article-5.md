@@ -1,5 +1,9 @@
 # Article 5
 
-1. Aux fins de la présente Convention, on entend par « provocation publique à commettre une infraction terroriste » la diffusion ou toute autre forme de mise à disposition du public d'un message, avec l'intention d'inciter à la commission d'une infraction terroriste, lorsqu'un tel comportement, qu'il préconise directement ou non la commission d'infractions terroristes, crée un danger qu'une ou plusieurs de ces infractions puissent être commises.
+Chaque Partie adopte les mesures législatives et autres qui se révèlent nécessaires pour s'assurer que les mesures de gel, de saisie et de confiscation portent également :
 
-2. Chaque Partie adopte les mesures qui s'avèrent nécessaires pour ériger en infraction pénale, conformément à son droit interne, la provocation publique à commettre une infraction terroriste telle que définie au paragraphe 1, lorsqu'elle est commise illégalement et intentionnellement.
+- a sur les biens en lesquels les produits ont été transformés ou convertis;
+
+- b sur les biens acquis légitimement, si les produits ont été mêlés, entièrement ou partiellement, à de tels biens, à concurrence de la valeur estimée du produit qui y a été mêlé ;
+
+- c sur les revenus ou autres avantages tirés des produits, des biens en lesquels les produits ont été transformés ou convertis ou des biens auxquels ils ont été mêlés, à concurrence de la valeur estimée des produits qui y ont été mêlés, de la même manière et dans la même mesure que les produits.

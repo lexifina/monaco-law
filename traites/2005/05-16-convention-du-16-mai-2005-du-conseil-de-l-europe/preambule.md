@@ -1,25 +1,23 @@
-Les États membres du Conseil de l'Europe et les autres Signataires ;
+Préambule
 
-Considérant que le but du Conseil de l'Europe est de réaliser une union plus étroite entre ses membres ;
+Les États membres du Conseil de l'Europe et les autres Signataires de la présente Convention,
 
-Reconnaissant l'intérêt d'intensifier la coopération avec les autres Parties à la présente Convention ;
+Considérant que le but du Conseil de l'Europe est de réaliser une union plus étroite entre ses membres;
 
-Souhaitant que des mesures efficaces soient prises pour prévenir le terrorisme et pour faire face, en particulier, à la provocation publique à commettre des infractions terroristes, ainsi qu'au recrutement et à l'entraînement pour le terrorisme ;
+Convaincus de la nécessité de poursuivre une politique pénale commune tendant à la protection de la société;
 
-Conscients de la grave inquiétude causée par la multiplication des infractions terroristes et par l'accroissement de la menace terroriste ;
+Considérant que la lutte contre la criminalité grave, qui est de plus en plus un problème international, exige l'emploi de méthodes modernes et efficaces au niveau international;
 
-Conscients de la situation précaire à laquelle se trouvent confrontées les personnes du fait du terrorisme et réaffirmant, dans ce contexte, leur profonde solidarité avec les victimes du terrorisme et avec leurs familles ;
+Estimant qu'une de ces méthodes consiste à priver les délinquants des produits du crime et des instruments;
 
-Reconnaissant que les infractions terroristes ainsi que celles prévues par la présente Convention, quels que soient leurs auteurs, ne sont en aucun cas justifiables par des considérations de nature politique, philosophique, idéologique, raciale, ethnique, religieuse ou de toute autre nature similaire et rappelant l'obligation des Parties de prévenir de tels actes et, s'ils ne le sont pas, de les poursuivre et de s'assurer qu'ils sont punis par des peines qui tiennent compte de leur gravité ;
+Considérant qu'afin d'atteindre cet objectif, un système satisfaisant de coopération internationale doit également être mis en place ;
 
-Rappelant le besoin de renforcer la lutte contre le terrorisme et réaffirmant que toutes les mesures prises pour prévenir ou réprimer les infractions terroristes doivent respecter l'État de droit et les valeurs démocratiques, les droits de l'homme et les libertés fondamentales, ainsi que les autres dispositions du droit international, y compris le droit international humanitaire lorsqu'il est applicable ;
+Ayant à l'esprit la Convention du Conseil de l'Europe relative au blanchiment, au dépistage, à la saisie et à la confiscation des produits du crime (STE n° 141 - ci-après dénommée « la Convention de 1990 ») ;
 
-Reconnaissant que la présente Convention ne porte pas atteinte aux principes établis concernant la liberté d'expression et la liberté d'association ;
+Rappelant également la résolution 1373 (2001) sur la menace à la paix et à la sécurité internationales résultant d'actes terroristes adoptée par le Conseil de sécurité de l'Organisation des Nations Unies le 28 septembre 2001, et notamment son paragraphe 3.d;
 
-Rappelant que les actes de terrorisme, par leur nature ou leur contexte, visent à intimider gravement une population, ou à contraindre indûment un gouvernement ou une organisation internationale à accomplir ou à s'abstenir d'accomplir un acte quelconque, ou à gravement déstabiliser ou détruire les structures fondamentales politiques, constitutionnelles, économiques ou sociales d'un pays ou d'une organisation internationale ;
+Rappelant la Convention internationale pour la répression du financement du terrorisme adoptée par l'Assemblée générale des Nations Unies le 9 décembre 1999, notamment ses articles 2 et 4, qui font obligation aux États Parties d'ériger en infractions pénales les faits de financement du terrorisme ;
+
+Convaincus de la nécessité de prendre des mesures immédiates pour ratifier et pour mettre en œuvre sans restriction la Convention internationale pour la répression du financement du terrorisme susmentionnée,
 
 Sont convenus de ce qui suit :
-
-En foi de quoi, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention.
-
-Fait à Varsovie, le 16 mai 2005, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l'Europe. Le Secrétaire Général du Conseil de l'Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l'Europe, à la Communauté européenne, aux États non membres ayant participé à l'élaboration de la Convention et à tout État invité à y adhérer.
