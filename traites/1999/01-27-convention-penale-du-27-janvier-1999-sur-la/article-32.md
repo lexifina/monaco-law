@@ -1,6 +1,6 @@
 # Article 32
 
-1. La présente Convention est ouverte à la signature des États membres du Conseil de l'Europe et des États non membres qui ont participé à son élaboration. Ces États peuvent exprimer leur consentement à être liés par :
+1. La présente Convention est ouverte à la signature des États membres du Conseil de l'Europe et des États non membres qui ont participé à son élaboration. Ces États peuvent exprimer leur consentement à être liés par:
 
 - a) signature sans réserve de ratification, d'acceptation ou d'approbation ; ou
 

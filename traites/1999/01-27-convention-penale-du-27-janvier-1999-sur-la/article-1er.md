@@ -1,6 +1,6 @@
 # Article 1er
 
-Aux fins de la présente Convention :
+Aux fins de la présente Convention:
 
 - a) l'expression « agent public » est interprétée par référence à la définition de « fonctionnaire », « officier public », « maire », « ministre » ou « juge » dans le droit national de l'État dans lequel la personne en question exerce cette fonction et telle qu'elle est appliquée dans son droit pénal ;
 

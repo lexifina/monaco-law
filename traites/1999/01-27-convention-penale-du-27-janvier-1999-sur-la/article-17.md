@@ -1,6 +1,6 @@
 # Article 17
 
-1) Chaque Partie adopte les mesures législatives et autres qui se révèlent nécessaires pour établir sa compétence relativement à une infraction pénale établie en vertu des articles 2 à 14 de la présente Convention, lorsque :
+1) Chaque Partie adopte les mesures législatives et autres qui se révèlent nécessaires pour établir sa compétence relativement à une infraction pénale établie en vertu des articles 2 à 14 de la présente Convention, lorsque:
 
 - a) l'infraction est commise en tout ou en partie sur son territoire ;
 

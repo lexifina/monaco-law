@@ -1,8 +1,8 @@
 # Convention pénale du 27 janvier 1999 sur la corruption
 
-Version en vigueur au 26 novembre 2016.
+Version en vigueur au 20 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tai/convention/1999/01-27-tai1l015099@2016.11.26/
+Source : Legimonaco, https://legimonaco.mc/tai/convention/1999/01-27-tai1l015099@2022.08.20/
 
 | | |
 | --- | --- |
