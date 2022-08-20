@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.398 du 29 juillet 2022 modifiant l'Ordonnance Souveraine n° 6.696 du 7 décembre 2017 relative à la qualité et à la surveillance de l'eau potable de consommation humaine distribuée
