@@ -1,6 +1,6 @@
 # Article 15
 
-Pour les eaux potables, fournies par la société de concession de Service Public de la distribution d'eau potable en Principauté, des analyses du programme mentionné à l'article 13 peuvent se substituer à celles réalisées en application de l'article 8 lorsque les deux conditions suivantes sont remplies :
+Pour les eaux potables, fournies par la Société Monégasque des Eaux, des analyses du programme mentionné à l'article 13 peuvent se substituer à celles réalisées en application de l'article 8 lorsque les deux conditions suivantes sont remplies :
 
 1) Un système de gestion de la qualité est mis en place par la personne responsable de la production ou de la distribution d'eau, comprenant notamment :
 
