@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 5.766 du 21 mars 2016 relative aux modalités d'association entre médecins
 
-Version en vigueur au 26 mars 2016.
+Version en vigueur au 20 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2016/03-21-5.766@2016.03.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2016/03-21-5.766@2022.08.20/
 
 | | |
 | --- | --- |
