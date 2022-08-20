@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-167 du 3 mars 2003 relatif aux conditions d'ouverture, de modification et de fonctionnement des établissements pharmaceutiques
 
-Version en vigueur au 14 décembre 2019.
+Version en vigueur au 20 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/03-03-2003-167@2019.12.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/03-03-2003-167@2022.08.20/
 
 | | |
 | --- | --- |
