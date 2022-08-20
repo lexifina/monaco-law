@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.393 du 29 juillet 2022 rendant exécutoire la Convention relative au blanchiment, au dépistage, à la saisie et à la confiscation des produits du crime et au financement du terrorisme du Conseil de l'Europe (STCE n° 198 - dite Convention de Varsovie), adoptée le 16 mai 2005
