@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2017-807 du 10 novembre 2017 portant Code de déontologie des chirurgiens-dentistes
 
-Version en vigueur au 16 avril 2022.
+Version en vigueur au 20 août 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/11-10-2017-807@2022.04.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/11-10-2017-807@2022.08.20/
 
 | | |
 | --- | --- |

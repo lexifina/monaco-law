@@ -2,6 +2,10 @@
 
 Le chirurgien-dentiste détermine le montant de ses honoraires avec tact et mesure, en tenant compte de la législation et de la réglementation en vigueur, des actes dispensés et des circonstances particulières.
 
+Le chirurgien-dentiste qui présente son activité au public, notamment sur un site Internet, y inclut une information sur les honoraires pratiqués et les modes de paiement acceptés.
+
+Cette information est claire, honnête, précise et non comparative.
+
 Le chirurgien-dentiste n'est jamais en droit de refuser à son patient des explications sur le montant de ses honoraires.
 
 Il ne peut solliciter un acompte que lorsque l'importance des soins le justifie et en se conformant aux usages de la profession. Il ne peut refuser d'établir un reçu pour tout versement d'acompte.
