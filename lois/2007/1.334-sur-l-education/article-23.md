@@ -14,6 +14,8 @@ Le comité de l'Éducation nationale est obligatoirement consulté sur :
 
 - la détermination et les modifications du règlement intérieur type applicable aux élèves des établissements d'enseignement publics et privés sous contrat ;
 
+- l'état des situations de harcèlement et de violences au sein des établissements d'enseignement public ou privé de la Principauté ;
+
 - les projets de construction scolaire dressés pour le compte de l'État.
 
 Le comité de l'Éducation nationale entend en outre le rapport annuel du directeur de l'Éducation nationale mentionné à l'article 15 et émet les observations qu'il juge utiles à son sujet.

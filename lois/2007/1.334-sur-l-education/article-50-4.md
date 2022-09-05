@@ -1,0 +1,5 @@
+# Article 50-4
+
+Les personnels d'éducation identifiés à la Section I du Chapitre IV du Titre III, le personnel de direction des établissements scolaires, les conseillers principaux d'éducation, les conseillers d'éducation, le personnel de surveillance, les personnels sociaux et de santé, les aumôniers et catéchistes, doivent suivre des formations selon une périodicité au moins annuelle, destinées à prévenir, identifier et traiter les situations de harcèlement et de violences notamment par des outils de communication non-violente et de gestion des conflits, dans les conditions et selon les modalités prévues par ordonnance souveraine.
+
+Tout établissement d'enseignement scolaire organise des séances d'information, de formation et de prévention auprès des élèves destinées à leur permettre d'acquérir des outils de communication non-violente et de gestion des conflits, et d'être sensibilisés à l'empathie et à l'estime de soi dans les conditions et selon les modalités prévues par ordonnance souveraine.

@@ -1,6 +1,6 @@
 # Article 35
 
-Le contrôle de l'État sur les établissements privés mentionnés à l'article précédent se limite aux titres exigés des directeurs et maîtres, à l'obligation scolaire, l'instruction obligatoire, au respect de l'ordre public et des bonnes mœurs, à la prévention sanitaire et sociale.
+Le contrôle de l'État sur les établissements privés mentionnés à l'article précédent se limite aux titres exigés des directeurs et maîtres, à l'obligation scolaire, l'instruction obligatoire, au respect de l'ordre public et des bonnes mœurs, à la prévention sanitaire et sociale et à la prévention contre le harcèlement et la violence.
 
 Le directeur de l'Éducation nationale peut prescrire chaque année un contrôle des établissements privés hors contrat, afin de s'assurer que l'enseignement qui y est dispensé se situe au niveau minimal mentionné au second alinéa de l'article précédent.
 

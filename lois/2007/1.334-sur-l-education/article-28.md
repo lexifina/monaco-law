@@ -10,4 +10,4 @@ Le chef d'établissement met en œuvre les orientations définies au niveau nati
 
 Sous le contrôle du directeur de l'Éducation nationale, il veille, avec le concours des autorités compétentes s'il y a lieu, à ce que les personnels affectés à son établissement présentent les garanties de moralité et d'aptitude nécessaires au regard des missions qui leur sont confiées, notamment en ce qu'elles impliquent le contact d'enfants et d'adolescents.
 
-Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement, les objectifs à atteindre et les résultats obtenus. Ce rapport est adressé au directeur de l'Éducation nationale.
+Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement, les objectifs à atteindre et les résultats obtenus. Ce rapport comporte notamment un bilan de l'exécution du plan de prévention et de lutte contre le harcèlement et la violence. Ce rapport est adressé au directeur de l'Éducation nationale.
