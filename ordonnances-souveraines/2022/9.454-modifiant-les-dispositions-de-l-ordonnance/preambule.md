@@ -1,0 +1,55 @@
+Vu l'Ordonnance-loi n° 674 du 3 novembre 1959 concernant l'urbanisme, la construction et la voirie, modifiée ;
+
+Vu les articles L.110-1, L. 224-1, L. 224-2, L. 230-1 et L.230-2 du Code de la mer ;
+
+Vu le Code de l'environnement ;
+
+Vu l'Ordonnance Souveraine n° 3.647 du 9 septembre 1966 concernant l'urbanisme, la construction et la voirie, modifiée ;
+
+Vu l'Ordonnance Souveraine n° 10.886 du 12 mai 1993 rendant exécutoire la Convention de Bonn relative à la conservation des espèces migratrices appartenant à la faune sauvage adoptée le 23 juin 1979 ;
+
+Vu l'Ordonnance Souveraine n° 11.259 du 29 avril 1994 rendant exécutoire la Convention de Berne relative à la conservation de la vie sauvage et du milieu naturel de l'Europe adoptée le 19 septembre 1979 ;
+
+Vu l'Ordonnance Souveraine n° 11.261 du 9 mai 1994 rendant exécutoire la Convention sur la diversité biologique ;
+
+Vu l'Ordonnance Souveraine n° 11.975 du 25 juin 1996 rendant exécutoire la Convention des Nations Unies sur le droit de la mer faite à Montego Bay le 10 décembre 1982 ;
+
+Vu l'Ordonnance Souveraine n° 14.082 du 21 juillet 1999 rendant exécutoires la Convention Alpine et son Protocole d'application ;
+
+Vu l'Ordonnance Souveraine n° 14.856 du 23 avril 2001 rendant exécutoires le Protocole sur les aires spécialement protégées et à la diversité biologique en Méditerranée (dit protocole ASPIM) et ses annexes relatifs à la Convention de Barcelone ;
+
+Vu l'Ordonnance Souveraine n° 15.258 du 18 février 2002 rendant exécutoire l'Accord relatif à la création en Méditerranée d'un sanctuaire pour les mammifères marins, fait à Rome le 25 novembre 1999 ;
+
+Vu l'Ordonnance Souveraine n° 15.276 du 4 mars 2002 rendant exécutoire l'Accord sur la conservation des cétacés de la mer Noire, de la Méditerranée et de la zone atlantique adjacente (ACCOBAMS), fait à Monaco le 24 novembre 1996 ;
+
+Vu l'Ordonnance Souveraine n° 15.817 du 5 juin 2003 rendant exécutoire le Protocole à la Convention sur la protection des Alpes de 1991 relatif à l' « aménagement du territoire et développement durable », conclu à Chambéry le 20 décembre 1994 ;
+
+Vu l'Ordonnance Souveraine n° 15.818 du 5 juin 2003 rendant exécutoire le Protocole à la Convention sur la protection des Alpes de 1991 relatif au « règlement des différends », conclu à Lucerne le 31 octobre 2000 ;
+
+Vu l'Ordonnance Souveraine n° 15.819 du 5 juin 2003 rendant exécutoire le Protocole à la Convention sur la protection des Alpes de 1991 relatif à la « protection des sols », conclu à Bled le 16 octobre 1998 ;
+
+Vu l'Ordonnance Souveraine n° 16.278 du 2 avril 2004 rendant exécutoire à Monaco l'Accord relatif à la protection de l'environnement marin et côtier d'une zone de la mer Méditerranée (Accord RAMOGE) signé entre les Gouvernements de la République française de la République italienne et de S.A.S. le Prince de Monaco ;
+
+Vu l'Ordonnance Souveraine n° 16.440 du 20 septembre 2004 rendant exécutoires les amendements à la Convention de Barcelone pour la protection de la mer Méditerranée contre la pollution, faits à Barcelone (Espagne) le 10 juin 1995 ;
+
+Vu l'Ordonnance Souveraine n° 16.668 du 9 février 2005 rendant exécutoire le Protocole d'application de la Convention sur la protection des Alpes de 1991 « Protection de la Nature et Entretien des Paysages » conclu à Chambéry le 20 décembre 1994 ;
+
+Vu Notre Ordonnance n° 3.320 du 24 juin 2011 rendant exécutoire le Protocole relatif à la protection de la mer Méditerranée contre la pollution d'origine tellurique, adopté à Athènes le 17 mai 1980 ;
+
+Vu Notre Ordonnance n° 3.321 du 24 juin 2011 rendant exécutoires les amendements au Protocole relatif à la protection de la mer Méditerranée contre la pollution d'origine tellurique, adoptés à Syracuse le 7 mars 1996 ;
+
+Vu Notre Ordonnance n° 4.482 du 13 septembre 2013 portant délimitation et règlement d'urbanisme du secteur des quartiers ordonnancés, modifiée ;
+
+Vu l'avis du Comité Consultatif pour la Construction en date du 17 juin 2021 ;
+
+Vu l'avis du Conseil de la mer en date du 22 juillet 2021 ;
+
+Vu l'avis du Conseil Communal en date du 28 juillet 2021 ;
+
+Vu la délibération du Conseil de Gouvernement en date du 7 septembre 2022 qui Nous a été communiquée par Notre Ministre d'État ;
+
+Voir l'article 1er de l'ordonnance n° 4.482 du 13 septembre 2013.
+
+Ces dispositions particulières sont annexées à la présente ordonnance.
+
+Notre Secrétaire d'État, Notre Secrétaire d'État à la Justice, Directeur des Services Judiciaires et Notre Ministre d'État sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
