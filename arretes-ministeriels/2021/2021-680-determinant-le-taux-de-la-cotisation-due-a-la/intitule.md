@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2021-680 du 22 octobre 2021 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2021-2022
