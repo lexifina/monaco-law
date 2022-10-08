@@ -8,15 +8,15 @@ Par exception aux dispositions des alinéas précédents, les activités de rech
 
 Des dérogations aux interdictions mentionnées aux deux premiers alinéas, à condition qu'elles ne nuisent pas au maintien, dans un état de conservation favorable, des populations des espèces concernées dans leur aire de répartition naturelle, peuvent être accordées par le Ministre d'État, après avis de la Direction des Affaires Maritimes et de la Direction de l'Environnement :
 
-- a) dans l'intérêt de la protection de la faune et de la flore sauvages et de la conservation des habitats naturels ;
+a) dans l'intérêt de la protection de la faune et de la flore sauvages et de la conservation des habitats naturels ;
 
-- b) dans l'intérêt de la santé et de la sécurité publiques ou pour d'autres raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique, et pour des motifs qui comporteraient des conséquences bénéfiques primordiales pour l'environnement ;
+b) dans l'intérêt de la santé et de la sécurité publiques ou pour d'autres raisons impératives d'intérêt public majeur, y compris de nature sociale ou économique, et pour des motifs qui comporteraient des conséquences bénéfiques primordiales pour l'environnement ;
 
-- c) à des fins de recherche scientifique et d'éducation, de repeuplement et de réintroduction de ces espèces et pour des opérations de reproduction nécessaires à ces fins, y compris la propagation artificielle des plantes ;
+c) à des fins de recherche scientifique et d'éducation, de repeuplement et de réintroduction de ces espèces et pour des opérations de reproduction nécessaires à ces fins, y compris la propagation artificielle des plantes ;
 
-- d) pour permettre, dans des conditions strictement contrôlées, d'une manière sélective et dans une mesure limitée, la prise ou la détention d'un nombre limité et spécifié de certains spécimens ;
+d) pour permettre, dans des conditions strictement contrôlées, d'une manière sélective et dans une mesure limitée, la prise ou la détention d'un nombre limité et spécifié de certains spécimens ;
 
-- e) à des établissements, pour la détention ou l'élevage hors du milieu naturel de spécimens d'espèces à des fins de conservation et de reproduction.
+e) à des établissements, pour la détention ou l'élevage hors du milieu naturel de spécimens d'espèces à des fins de conservation et de reproduction.
 
 Des dérogations aux interdictions mentionnées au deuxième alinéa peuvent être accordées, sous la même forme, lorsqu'il a été autorisé de procéder à des travaux affectant l'écosystème de ces espèces, sous réserve que des mesures visant à limiter, réduire voire compenser la perte écologique soient mises en œuvre.
 
@@ -30,6 +30,6 @@ Les dispositions des deux premiers alinéas ne sont pas applicables aux fonction
 
 Tout spécimen d'une espèce répertoriée au titre des espèces animales visées au premier alinéa doit, en cas de capture accidentelle :
 
-- - être immédiatement relâché dans des conditions propres à assurer sa survie ;
+- être immédiatement relâché dans des conditions propres à assurer sa survie ;
 
-- - à défaut, être déclaré et remis à la Direction de l'Environnement dans les plus brefs délais.
+- à défaut, être déclaré et remis à la Direction de l'Environnement dans les plus brefs délais.

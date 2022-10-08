@@ -1,22 +1,22 @@
 # Article O. 413-2
 
-Des caractères des inscriptions prescrites par l'article L. 413-4 doivent présenter les dimensions suivantes :
+Les droits annuels de naturalisation sont fixés par ordonnance souveraine, en fonction de la longueur des navires.
 
-- * Navires dont la jauge brute est inférieure à 25 unités :
+* Navires dont la longueur est inférieure à 15 mètres :
 
-- - hauteur des caractères............ | de 8 à 18 cm
+- hauteur minimale des caractères | 8 cm
 
-- - largeur des caractères............ | de 4,5 à 10 cm
+- largeur minimale des caractères | 4 cm
 
-- - largeur du trait ............ | de 1 à 2,5 cm
+- largeur minimale du trait | 1 cm
 
-- * Navires dont la jauge brute est égale ou supérieure à 25 unités :
+* Navires dont la longueur est égale ou supérieure à 15 mètres :
 
-- - hauteur des caractères............ | 18 cm
+- hauteur minimale des caractères | 14 cm
 
-- - largeur des caractères............ | 10 cm
+- largeur minimale des caractères | 7 cm
 
-- - largeur du trait ............ | 2,5 cm
+- largeur du trait | 1,5 cm
 
 Ces caractères doivent être de couleur claire sur fond foncé ou de couleur foncée sur fond clair.
 

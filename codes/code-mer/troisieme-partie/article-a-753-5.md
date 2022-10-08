@@ -28,7 +28,7 @@ PHÉNOLS (INDICES PHÉNOLS) EN MG/L | - | Aucune odeur spécifique | Évaluation
 
 RÉSIDUS GOUDRONNEUX ET MATIÈRES FLOTTANTES TELLES QUE BOIS, PLASTIQUES, BOUTEILLES, RÉCIPIENTS EN VERRE, EN PLASTIQUE, EN CAOUTCHOUC, ET EN TOUTE AUTRE MATIÈRE. DÉBRIS OU ÉCLATS | Absence | - | Inspection visuelle
 
-(1) En pratique seuls sont pris en compte les escherichia coli.(2) En pratique seuls sont pris en compte les enterocoques .
+(1) En pratique seuls sont pris en compte les escherichia coli.(2) En pratique seuls sont pris en compte les enterocoques.
 
 TABLEAU B
 
