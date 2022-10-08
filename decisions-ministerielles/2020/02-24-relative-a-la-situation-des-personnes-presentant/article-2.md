@@ -20,4 +20,4 @@ Aucune décision de mise en quarantaine ne peut être prise lorsque la personne 
 
 - jusqu'à ce qu'un test virologique de type RT-PCR établisse qu'elle n'est pas ou plus porteuse du virus ;
 
-- pendant dix jours ou, lorsqu'elle est symptomatique, pendant la durée fixée au chiffre 1 de l'article 7, lorsqu'elle ne consent pas à la réalisation de ce test.
+- pendant dix jours ou, lorsqu'elle est symptomatique, pendant la durée fixée au chiffre 1 de l'article 5, lorsqu'elle ne consent pas à la réalisation de ce test.
