@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-517 du 3 octobre 2022 modifiant l'arrêté ministériel n° 2020-466 du 8 juillet 2020 fixant les conditions d'attribution d'une autorisation administrative de mise en exploitation de taxi
