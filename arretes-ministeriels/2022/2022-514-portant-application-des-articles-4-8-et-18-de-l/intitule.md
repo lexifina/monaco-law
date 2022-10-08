@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-514 du 30 septembre 2022 portant application des articles 4, 8 et 18 de l'Ordonnance Souveraine n° 927 du 23 janvier 2007 fixant les modalités d'application du vote par procuration, modifiée
