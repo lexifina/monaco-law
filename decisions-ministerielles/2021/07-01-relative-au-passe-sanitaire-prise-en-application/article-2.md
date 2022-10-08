@@ -1,25 +1,9 @@
 # Article 2
 
-Pour l'application de la présente décision :
+L'établissement des justificatifs mentionnés à l'article premier est assuré au moyen d'un traitement automatisé d'informations nominatives créé sur un système d'information de l'État dont la mise en œuvre est autorisée par décision ministérielle, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017, susvisée.
 
-1) un justificatif de résultat négatif d'un test virologique de type RT-PCR pour la détection du virus SARS-CoV-2 ou d'un test antigénique permettant la détection de la protéine N dudit virus, d'au plus 24 heures, est considéré comme justifiant de l'absence de contamination par ledit virus ;
+Ces justificatifs sont générés par ledit système d'information.
 
-2) un justificatif de statut vaccinal est considéré comme attestant d'un schéma vaccinal complet de l'un des vaccins contre la COVID-19 :
+Tout justificatif généré conformément à l'alinéa précédent comporte les noms et prénoms de la personne concernée, sa date de naissance et un code permettant sa vérification.
 
-a) s'agissant du vaccin « COVID-19 Vaccine Janssen », vingt-huit jours après l'administration d'une dose ; pour l'application :
-
-- de l'article 7 de la présente décision, toute personne ayant reçu ce vaccin doit, pour que son schéma vaccinal reste reconnu comme complet, avoir reçu une dose complémentaire d'un vaccin à acide ribonucléique messager entre un et deux mois suivant l'injection de la dose initiale ; pour celle ayant reçu cette dose complémentaire au-delà de ce délai de deux mois, le schéma vaccinal est reconnu comme complet sept jours après son injection ;
-
-- des articles 3, 4 et 5 de la Décision Ministérielle du 24 février 2020, modifiée, susvisée, toute personne ayant reçu ce vaccin doit, pour que son schéma vaccinal reste reconnu comme complet, avoir reçu une dose complémentaire d'un vaccin à acide ribonucléique messager au plus tard neuf mois suivant l'injection de la dose initiale ; pour celle ayant reçu cette dose complémentaire au-delà de ce délai de neuf mois, le schéma vaccinal est reconnu comme complet sept jours après son injection ;
-
-b) s'agissant des autres vaccins, sept jours après l'administration d'une deuxième dose, sauf en ce qui concerne les personnes ayant été infectées par le virus SARS-CoV-2, pour lesquelles ce délai court soit après l'administration d'une dose postérieurement à l'infection, soit après l'infection survenue postérieurement à l'administration d'une dose ; pour l'application :
-
-- de l'article 7 de la présente décision, toute personne âgée de dix-huit ans ou plus ayant reçu l'un de ces autres vaccins doit, pour que son schéma vaccinal reste reconnu comme complet soit :
-
-- avoir reçu une dose complémentaire d'un vaccin à acide ribonucléique messager au plus tard quatre mois soit après l'injection de la dernière dose requise, soit après l'infection ; pour celle ayant reçu cette dose complémentaire au-delà de ce délai de quatre mois, le schéma vaccinal est reconnu comme complet sept jours après son injection ;
-
-- avoir été infecté par le virus SARS-CoV-2 au plus tard quatre mois soit après l'injection de la dernière dose requise, soit après la première infection ; pour celle ayant été infectée au-delà de ce délai de quatre mois, le schéma vaccinal est reconnu comme complet sept jours après cette infection ;
-
-- des articles 3, 4 et 5 de la Décision Ministérielle du 24 février 2020, modifiée, susvisée, toute personne âgée de dix-huit ans ou plus ayant reçu l'un de ces autres vaccins doit, pour que son schéma vaccinal reste reconnu comme complet avoir reçu une dose complémentaire d'un vaccin à acide ribonucléique messager au plus tard neuf mois suivant l'injection de la dernière dose requise ; pour celle ayant reçu cette dose complémentaire au-delà de ce délai de neuf mois, le schéma vaccinal est reconnu comme complet sept jours après son injection ;
-
-3) un justificatif de certificat de rétablissement à la suite d'une contamination par le virus SARS-CoV-2 est considéré comme attestant de la délivrance d'un document mentionnant un résultat positif à un test virologique de type RT-PCR ou à un test antigénique pour la détection dudit virus, réalisé plus de onze jours auparavant ; la durée de validité de ce certificat est fixée à quatre mois pour l'application de l'article 7 de la présente décision et à six mois pour l'application des articles 3, 4 et 5 de la Décision Ministérielle du 24 février 2020, modifiée, susvisée, à compter de la date de réalisation de ce test virologique ou antigénique.
+Ces justificatifs peuvent être librement enregistrés par la personne concernée sur l'application mobile désignée par l'État, aux fins d'être conservées localement sur son téléphone mobile. Cette personne peut supprimer à tout moment les justificatifs enregistrés sur cette application mobile.
