@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.477 du 29 septembre 2022 relative aux modalités de calcul et de perception de l'indemnité de vacances et de l'indemnité de fin d'année pour les fonctionnaires et agents de la fonction publique
