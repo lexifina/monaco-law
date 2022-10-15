@@ -1,6 +1,6 @@
 # Article 16
 
-16.1. - Les jetons sont comptés par les cadres, employés de jeux et représentants de la Direction Administrative ou de la Direction Financière
+16.1. - Les jetons sont comptés par les cadres des jeux et les représentants de la Direction Administrative ou de la Direction Financière.
 
 Cette relève fait l'objet d'un bordereau, contresigné par les participants.
 

@@ -1,6 +1,6 @@
 # Article 12
 
-12.1. - Lorsque la fermeture d'une table de jeux a été décidée par la Direction des Jeux, la relève de la table est réalisée par les cadres, employés de jeux et représentants de la Direction Administrative ou de la Direction Financière.
+12.1. - Lorsque la fermeture d'une table de jeux a été décidée par la Direction des Jeux, la relève de la table est réalisée par un cadre des jeux et un représentant de la Direction Administrative ou de la Direction Financière.
 
 12.2. - Pour faciliter les opérations de comptée, un échange de jetons, remboursement d'ajouté, ou un versement de billets, peut être fait au change central suivant l'importance des jetons et espèces détenus à table, et ceci, sur instructions de l'inspecteur général.
 

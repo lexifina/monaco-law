@@ -50,6 +50,6 @@ Jeux dits «Européens' ou »Américains' :
 
 - - Trente et Quarante
 
-- - War Game ou jeu dit de la Bataille.'.
+- - War Game ou jeu dit de la Bataille.'
 
 3°) Appareils automatiques
