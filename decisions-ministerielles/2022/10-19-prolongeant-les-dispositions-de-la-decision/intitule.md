@@ -1,0 +1,1 @@
+Décision ministérielle du 19 octobre 2022 prolongeant les dispositions de la décision ministérielle du 14 octobre 2022 portant désignation d'une station-service mobilisée afin de distribuer du carburant à certains véhicules appartenant à des personnels prioritaires
