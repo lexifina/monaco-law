@@ -6,8 +6,6 @@ Les professionnels prennent, en outre, connaissance des pouvoirs de représentat
 
 Sont notamment visés au présent article :
 
-- - les représentants légaux de clients incapables ;
-
-- - les personnes autorisées à agir au nom des clients en vertu d'un mandat général ou spécial ;
+- - les représentants légaux de clients incapables ; - les personnes autorisées à agir au nom des clients en vertu d'un mandat général ou spécial ;
 
 - - les personnes autorisées à représenter les clients qui sont des personnes morales, des entités juridiques ou des trusts.
