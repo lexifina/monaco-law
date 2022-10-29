@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 3.836 du 5 juillet 2012 portant création du Centre Monégasque de Dépistage
+# Ordonnance Souveraine n° 3.836 du 5 juillet 2012 portant création du Centre Monégasque de Dépistage
 
-Version en vigueur au 14 juillet 2012.
+Version en vigueur au 29 octobre 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2012/07-05-3.836@2012.07.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2012/07-05-3.836@2022.10.29/
 
 | | |
 | --- | --- |
