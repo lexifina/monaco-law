@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-575 du 2 novembre 2022 modifiant l'arrêté ministériel n° 2019-789 du 16 septembre 2019 fixant les conditions de délivrance de l'autorisation accordée aux exploitants de véhicules de location avec chauffeurs étrangers, modifié
