@@ -1,0 +1,15 @@
+# Article 3
+
+Les agents qui relèvent des corps et grades de cadre de santé, de cadre supérieur de santé, d'infirmier en soins généraux, d'infirmier spécialisé de bloc opératoire, d'infirmier spécialisé de puériculture, d'infirmier anesthésiste, de manipulateur d'électroradiologie médicale et de masseur-kinésithérapeute peuvent opter pour un classement soit dans la catégorie active, soit dans la catégorie sédentaire.
+
+Lorsque l'agent opte pour la catégorie sédentaire, il ne peut plus se prévaloir des périodes de services, quelle que soit leur durée, accomplies dans un ou des emplois permanents classés en catégorie active pour le bénéfice des droits liés au classement dans la catégorie active fixés par l'article 86-1 de l'Ordonnance Souveraine n° 7.464 du 28 juillet 1982, modifiée, susvisée.
+
+Toutefois, les agents ayant le grade de cadre de santé ou de cadre supérieur de santé ne peuvent opter pour un classement dans la catégorie active que s'ils ont exercé précédemment au sein du Centre Hospitalier Princesse Grace, pendant au moins quinze années hors période de formation en institut de formation, dans un ou plusieurs emplois permanents classés dans la catégorie active.
+
+Les agents mentionnés au premier alinéa, à l'exception de ceux ayant le grade de cadre de santé ou de cadre supérieur de santé lorsqu'ils ne remplissent pas la condition d'ancienneté mentionnée au troisième alinéa, et en activité au jour de la publication du présent arrêté sont classés d'office dans la catégorie active avec effet rétroactif au 1er janvier 2022 ou à la date de leur nomination lorsque cette date est postérieure au 1er janvier 2022. Ils exercent leur choix d'option entre le lendemain du jour de la publication du présent arrêté et le 31 mai 2023 inclus. Passé ce délai, l'absence de choix entraîne le maintien dans la catégorie active. À compter du 1er juin 2023, les agents ayant opté avant cette date pour un classement dans la catégorie sédentaire sont reclassés dans les échelles correspondant à leur choix d'option avec effet rétroactif au lendemain du jour de la publication du présent arrêté.
+
+Les agents ayant le grade de cadre de santé ou de cadre supérieur de santé ne remplissant pas la condition d'ancienneté mentionnée au troisième alinéa et en activité au jour de la publication du présent arrêté sont classés d'office dans la catégorie sédentaire avec effet rétroactif au 1er janvier 2022 ou à la date de leur nomination lorsque cette date est postérieure au 1er janvier 2022.
+
+Tout agent mentionné au premier alinéa, à l'exception de celui ayant le grade de cadre de santé ou de cadre supérieur de santé, lorsqu'il ne remplit pas la condition d'ancienneté mentionnée au deuxième alinéa, et nommé à compter du lendemain du jour de la publication du présent arrêté exerce son choix d'option le jour de sa nomination.
+
+Le choix d'option est exercé par écrit par chaque agent auprès des services de ressources humaines de la Direction du Centre Hospitalier. Le choix ainsi exprimé par l'agent est définitif et irrévocable.

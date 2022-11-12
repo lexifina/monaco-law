@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-580 du 7 novembre 2022 fixant les catégories d'emplois permanents et établissant les échelles indiciaires de traitement applicables au personnel de service du Centre Hospitalier Princesse Grace
