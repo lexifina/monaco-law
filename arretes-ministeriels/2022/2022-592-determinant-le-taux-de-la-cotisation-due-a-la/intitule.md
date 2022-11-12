@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-592 du 8 novembre 2022 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2022‑2023
