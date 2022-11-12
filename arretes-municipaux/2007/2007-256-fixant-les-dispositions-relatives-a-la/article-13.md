@@ -14,7 +14,7 @@ a) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 b) La circulation des piétons est interdite dans le giratoire.
 
-2bis) Giratoire Canton
+2 bis) Giratoire Canton
 
 a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
@@ -36,7 +36,7 @@ a) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 b) La circulation des piétons est interdite dans le tunnel.
 
-3bis) Tunnel de la Colle
+3 bis) Tunnel de la Colle
 
 a) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
@@ -104,7 +104,7 @@ a) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 b) La circulation des piétons est interdite dans le tunnel.
 
-11bis) Tunnel Pasteur
+11 bis) Tunnel Pasteur
 
 a) Un sens unique de circulation est instauré du boulevard Charles III au boulevard Rainier III et ce, dans ce sens ;
 

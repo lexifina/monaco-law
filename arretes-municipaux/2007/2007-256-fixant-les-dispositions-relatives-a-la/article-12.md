@@ -2,7 +2,7 @@
 
 1) Annonciade (Avenue de l')
 
-Un sens unique de circulation est instauré avenue de l'Annonciade, dans sa partie comprise entre son n° 17 et « la chapelle de l'Annonciade » et ce, dans ce sens.
+Un sens unique de circulation est instauré avenue de l'Annonciade, dans sa partie comprise entre son n° 17 et «la chapelle de l'Annonciade » et ce, dans ce sens.
 
 2) Beaux-Arts (Avenue des)
 
@@ -48,7 +48,7 @@ a) Un sens unique de circulation est instauré :
 
 - du débouché du passage de la Porte Rouge à l'avenue d'Ostende, et ce, dans ce sens.
 
-- par dérogation au tiret précédent un double sens de circulation est instauré entre son n° 17 et le débouché du passage de la Porte Rouge à la seule intention des véhicules sortant des parkings des résidences « Château Plaisance » et « Villa Bijou ».
+- par dérogation au tiret précédent un double sens de circulation est instauré entre son n° 17 et le débouché du passage de la Porte Rouge à la seule intention des véhicules sortant des parkings des résidences «Château Plaisance» et «Villa Bijou».
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite dans sa section comprise entre le boulevard de Suisse et l'avenue d'Ostende.
 
@@ -204,11 +204,7 @@ b) La circulation des véhicules et ensemble de véhicules d'un poids total auto
 
 34) Président J.F. Kennedy (Avenue)
 
-a) Un sens unique de circulation est instauré dans sa section comprise entre l'amorce de l'avenue d'Ostende et l'accès au quai des États-Unis et ce, dans ce sens.
-
-b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
-
-c) Dans sa partie comprise entre l'amorce de l'avenue d'Ostende et le droit du n° 1, la voie aval est aménagée en couloir bus.
+La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée, exceptée dans sa section comprise entre le quai des États-Unis et l'amorce de l'avenue d'Ostende, et ce, dans ce sens.
 
 35) Princesse Charlotte (Boulevard)
 
