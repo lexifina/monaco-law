@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-594 du 8 novembre 2022 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2021-2022
