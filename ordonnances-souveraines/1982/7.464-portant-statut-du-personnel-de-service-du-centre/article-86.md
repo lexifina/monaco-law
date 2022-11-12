@@ -12,4 +12,4 @@ En outre, une somme égale au salaire annuel que percevait l'agent au moment de 
 
 Dans les deux cas, le versement des sommes dues aux mineurs se fait selon les conditions fixées par le directeur.
 
-À défaut de bénéficiaires tels qu'ils sont désignés ci-dessus, aucune somme n'est versée à la succession du de cujus .
+À défaut de bénéficiaires tels qu'ils sont désignés ci-dessus, aucune somme n'est versée à la succession du de cujus.
