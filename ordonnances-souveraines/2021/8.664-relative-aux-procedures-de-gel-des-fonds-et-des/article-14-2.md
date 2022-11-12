@@ -1,0 +1,3 @@
+# Article 14-2
+
+Nonobstant les règles du secret professionnel, les établissements de crédit, les autres institutions financières, les entreprises d'assurances et les autres organismes, entités ou personnes sont tenus d'informer promptement le Directeur du Budget et du Trésor de toute opération considérée comme étant contraire à une mesure de gel d'avoir ou d'interdiction de mise à disposition de fonds ou de ressources économiques adoptée par le Ministre d'État pour l'application des mesures restrictives adoptées par l'Union européenne eu égard aux actions compromettant ou menaçant l'intégrité territoriale, la souveraineté et l'indépendance de l'Ukraine.

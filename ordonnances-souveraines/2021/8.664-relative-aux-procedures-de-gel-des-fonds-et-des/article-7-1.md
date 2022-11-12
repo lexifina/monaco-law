@@ -10,6 +10,8 @@
 
 - d) toute entreprise possédée ou contrôlée, directement ou indirectement, par toute personne ou entité désignée à la lettre c) ou par des personnes agissant en leur nom ou sur leur instruction ;
 
-s'il estime disposer de suffisamment d'éléments de preuve pour considérer qu'elles remplissent l'un des critères de désignation susmentionnés.
+- s'il estime disposer de suffisamment d'éléments de preuve pour considérer qu'elles remplissent l'un des critères de désignation susmentionnés. Ces propositions de désignation ne sont pas subordonnées à l'existence d'une procédure pénale.
+
+Ces propositions de désignation sont transmises conformément aux procédures et modèles d'inscription sur les listes adoptées par les Comités compétents du Conseil de sécurité des Nations Unies.
 
 2°) Le Ministre d'État peut décider de demander à un autre État de donner effet à une mesure de gel nationale prise conformément à l'article 7.
