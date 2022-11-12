@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 2.271 du 6 juillet 2009 relative à la détermination du taux d'usure
+# Ordonnance Souveraine n° 2.271 du 6 juillet 2009 relative à la détermination du taux d'usure
 
-Version en vigueur au 16 juillet 2022.
+Version en vigueur au 12 novembre 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2009/07-06-2.271@2022.07.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2009/07-06-2.271@2022.11.12/
 
 | | |
 | --- | --- |
