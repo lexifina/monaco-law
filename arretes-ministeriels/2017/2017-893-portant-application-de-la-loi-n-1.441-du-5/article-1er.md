@@ -1,3 +1,5 @@
 # Article 1er
 
 En application de l'article premier de la loi n° 1.441 du 5 décembre 2016, susvisée, le présent arrêté fixe les modalités d'accessibilité du cadre bâti défini et délimité par ladite loi.
+
+Des solutions d'effet équivalent à ces modalités peuvent être mises en œuvre dès lors que celles-ci satisfont aux mêmes objectifs que les solutions prescrites par le présent arrêté.

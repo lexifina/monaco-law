@@ -2,7 +2,7 @@
 
 Les banques d'accueil d'un point d'accueil adapté d'un établissement recevant du public neuf sont utilisables par une personne en position « debout » comme en position « assis » et permettent la communication visuelle de face et sans éblouissement ni contre-jour entre les usagers et le personnel.
 
-Lorsque des usages tels que lire, écrire ou utiliser un clavier sont requis, une partie au moins desdites banques présentent les caractéristiques suivantes :
+Une partie au moins desdites banques, notamment afin de permettre l'application du premier alinéa, présente les caractéristiques suivantes :
 
 - une hauteur maximale de 0,80 mètre ;
 

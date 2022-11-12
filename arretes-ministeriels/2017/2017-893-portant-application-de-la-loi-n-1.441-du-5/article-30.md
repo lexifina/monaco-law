@@ -11,3 +11,5 @@ Toute main courante répond aux exigences suivantes :
 - être continue, rigide et facilement préhensible ; une discontinuité de moins de 0,10 mètre est admise pour un escalier hélicoïdal, côté mur, à condition de conserver l'alignement des mains courantes ;
 
 - être différenciée de la paroi support grâce à un éclairage particulier ou à un contraste visuel.
+
+Toutefois, lorsque la main courante obstrue les moyens de secours et les équipements techniques, celle-ci est rendue amovible au moyen d'un déverrouillage sans outil.

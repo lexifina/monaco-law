@@ -18,6 +18,6 @@ Les appareils d'interphonie comportent un retour visuel des informations princip
 
 Ces appareils comportent également une boucle d'induction magnétique respectant les prescriptions de l'annexe 5.
 
-Le respect de la norme NF EN 60118-4:2015 est réputé satisfaire à ces prescriptions. Les appareils à menu déroulant permettent l'appel direct par un code.
+Le respect de la norme NF EN 60118-4 est réputé satisfaire à ces prescriptions. Les appareils à menu déroulant permettent l'appel direct par un code.
 
 Afin d'être lisible par une personne malvoyante, toute information répond aux exigences définies en annexe 4.

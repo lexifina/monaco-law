@@ -1,12 +1,16 @@
 # Article 32
 
-L'élévateur vertical du cadre bâti neuf est adapté lorsqu'il respecte les caractéristiques suivantes : - la plate-forme élévatrice a une dimension utile minimale de 0,90 mètre × 1,40 mètre dans le cas d'un service simple ou opposé ou de 1,10 mètre × 1,40 mètre dans le cas d'un service en angle ;
+L'élévateur vertical du cadre bâti neuf est adapté lorsqu'il respecte les caractéristiques suivantes :
+
+- la plate-forme élévatrice a une dimension utile minimale de 0,90 mètre × 1,40 mètre dans le cas d'un service simple ou opposé ou de 1,10 mètre × 1,40 mètre dans le cas d'un service en angle ;
 
 - la plate-forme élévatrice peut soulever une charge de 250 kilogrammes par mètre carré correspondant à une masse de 315 kilogrammes pour une plate-forme de dimension 0,90 mètre × 1,40 mètre.
 
 La commande est positionnée de manière à être utilisable par une personne en fauteuil roulant.
 
 La commande d'appel d'un élévateur vertical avec gaine fermée est à enregistrement. Elle est située hors du débattement de la porte et ne gêne pas la circulation.
+
+La porte ou le portillon d'entrée a une largeur minimale de 0,93 mètre correspondant à une largeur minimale de passage utile de 0,90 mètre pour les portes coulissantes et de 0,87 mètre pour les autres portes.
 
 La porte ou le portillon d'entrée a une largeur nominale minimale de 0,90 mètre correspondant à une largeur minimale de passage utile de 0,83 mètre.
 

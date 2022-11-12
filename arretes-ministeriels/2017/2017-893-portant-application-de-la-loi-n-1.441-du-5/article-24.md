@@ -8,4 +8,6 @@ La largeur minimale des circulations intérieures horizontales secondaires est s
 
 Si la longueur des circulations secondaires est supérieure à 6 mètres, elles comportent un espace de manœuvre avec possibilité de demi-tour tous les 10 mètres.
 
-Des espaces de retournement sont aménagés pour une personne en fauteuil roulant au croisement entre les circulations secondaires et principales.
+Des espaces de manœuvre avec possibilité de demi-tour sont aménagés pour une personne en fauteuil roulant au croisement entre les circulations secondaires et principales.
+
+Dans tous les cas, les locaux accessibles desservis par ces circulations doivent pouvoir être atteints par une manœuvre simple en fauteuil roulant.

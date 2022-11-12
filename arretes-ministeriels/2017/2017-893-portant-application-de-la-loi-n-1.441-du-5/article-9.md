@@ -10,9 +10,9 @@ Les valeurs de pentes suivantes sont exceptionnellement tolérées :
 
 - jusqu'à dix pour cent sur une longueur inférieure ou égale à 0,50 mètre.
 
-Un palier de repos est nécessaire en haut et en bas de chaque plan incliné quelle qu'en soit la longueur. En cas de plan incliné de pente supérieure ou égale à quatre pour cent, un palier de repos est nécessaire tous les 10 mètres.
+Un palier de repos est nécessaire en haut et en bas de chaque plan incliné quelle qu'en soit la longueur. En cas de plan incliné de pente supérieure ou égale à quatre pour cent, un palier de repos est nécessaire tous les 10 mètres et à chaque changement de direction.
 
-Le palier de repos est d'une longueur au moins égale à 1,40 mètre.
+Le palier de repos est d'une longueur au moins égale à 1,40 mètre. Sa largeur est au moins égale à celle du cheminement sur lequel il est établi avec un minimum de 0,90 mètre.
 
 Lorsqu'il ne peut être évité, un faible écart de niveau peut être traité par un ressaut à bord arrondi ou muni d'un chanfrein, et dont la hauteur est inférieure ou égale à deux centimètres. Cette hauteur maximale peut toutefois être portée à 4 centimètres si le ressaut comporte sur toute sa hauteur une pente ne dépassant pas trente-trois pour cent.
 

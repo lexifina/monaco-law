@@ -1,6 +1,6 @@
 # Article 149
 
-Les poignées de porte du cadre bâti existant sont facilement préhensibles et manoeuvrables en position « debout » comme en position « assis » ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet.
+Les poignées de porte du cadre bâti existant sont facilement préhensibles et manœuvrables en position « debout » comme en position « assis » ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet.
 
 Lorsqu'une porte est à ouverture automatique, la durée d'ouverture permet le passage d'une personne en fauteuil roulant.
 

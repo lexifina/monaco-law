@@ -1,6 +1,6 @@
 # Article 42
 
-Les poignées de porte du cadre bâti neuf sont facilement préhensibles et manoeuvrables en position « debout » comme en position « assis » ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet.
+Les poignées de porte du cadre bâti neuf sont facilement préhensibles et manœuvrables en position « debout » comme en position « assis » ainsi que par une personne ayant des difficultés à saisir et à faire un geste de rotation du poignet.
 
 L'extrémité des poignées des portes, à l'exception de celles ouvrant uniquement sur un escalier, est située à plus de 0,40 mètre d'un angle rentrant de parois ou de tout autre obstacle à l'approche d'un fauteuil roulant.
 
