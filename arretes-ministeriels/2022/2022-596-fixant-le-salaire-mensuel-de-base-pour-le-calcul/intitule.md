@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-596 du 8 novembre 2022 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2022-2023
