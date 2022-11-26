@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 91-688 du 20 décembre 1991 approuvant le règlement intérieur de la caisse de compensation des services sociaux
 
-Version en vigueur au 1er mai 2020.
+Version en vigueur au 26 novembre 2022.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/12-20-91-688@2020.05.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1991/12-20-91-688@2022.11.26/
 
 | | |
 | --- | --- |
