@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2022-648 du 28 novembre 2022 relatif à la maîtrise énergétique au sein des bâtiments publics affectés à une mission de services publics et à l'exemplarité de l'État et de la Commune
