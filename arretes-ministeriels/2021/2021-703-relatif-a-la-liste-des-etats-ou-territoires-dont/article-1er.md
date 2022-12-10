@@ -12,13 +12,15 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Cambodge
 
-- Émirats Arabes Unis
+- Émirats arabes Unis
 
 - Gibraltar
 
 - Haïti
 
 - Îles Caïmans
+
+- République démocratique du Congo
 
 - Jamaïque
 
@@ -27,6 +29,8 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 - Mali
 
 - Maroc
+
+- Mozambique
 
 - Myanmar/Birmanie
 
@@ -46,6 +50,8 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Syrie
 
+- Tanzanie
+
 - Trinité-et-Tobago
 
 - Turquie
@@ -54,4 +60,4 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Yémen
 
-- Zimbabwe
+- Zimbabwe.
