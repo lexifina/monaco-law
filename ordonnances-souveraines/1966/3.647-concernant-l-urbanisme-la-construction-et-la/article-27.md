@@ -24,7 +24,7 @@ Les dimensions des saillies permises sont ainsi fixées :
 
 - À l'intérieur des propriétés privées et dans le cas où le nu extérieur de la façade est établi en retrait des limites de propriétés, les dimensions des saillies de balcons au-dessus des espaces privatifs peuvent être augmentées de ce retrait.
 
-- Les dimensions des saillies de balcons au-dessus des emprises publiques et des voies ouvertes à la circulation générale sont cumulatives dans les conditions suivantes
+- Les dimensions des saillies de balcons au-dessus des emprises publiques et des voies ouvertes à la circulation générale sont cumulatives dans les conditions suivantes :
 
   - - la dimension de la saillie implantée à la fois hors emprise du bâtiment et au-dessus de l'emprise ou voie publique ne peut excéder 2,50 m (ou 5,00 m sur 1/3 du linéaire de la façade) ;
 
