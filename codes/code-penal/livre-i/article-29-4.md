@@ -14,7 +14,7 @@ Les autres peines encourues par les personnes morales sont :
 
 - 6) l'interdiction, pour une durée de cinq ans au plus, d'émettre des chèques autres que ceux qui permettent le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés, ou d'utiliser des cartes de paiement ;
 
-- 7) la confiscation de la chose qui a servi ou était destinée à commettre l'infraction, ou de la chose qui en est le produit ;
+- 7) la confiscation dans les conditions prévues à l'article 12 ;
 
 - 8) l'affichage pendant trois mois au plus de la décision prononcée ou sa diffusion, pendant la même durée, par tout moyen de communication.
 

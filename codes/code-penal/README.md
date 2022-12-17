@@ -1,11 +1,11 @@
 # Code pénal
 
-Version en vigueur au 28 mai 2022.
+Version en vigueur au 17 décembre 2022.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-penal@2022.05.28/
+Source : Legimonaco, https://legimonaco.mc/code/code-penal@2022.12.17/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code pénal |
-| Dernière modification | 28 mai 2022 |
+| Dernière modification | 17 décembre 2022 |
