@@ -4,16 +4,10 @@ Les formalités d'inscription, de renouvellement quinquennal d'inscription, de m
 
 - - Inscription ou renouvellement quinquennal d'inscription :
 
-  - * 55 euro(s) pour les personnes physiques ;
+- - 55 € pour les personnes physiques ;
 
-  - * 75 euro(s) pour les personnes morales.
+- - 75 € pour les personnes morales.
 
-- - Modification ou radiation : 25 euro(s).
+- - Modification ou radiation : 25 €.
 
-- - Extrait ou certificat :
-
-  - * 10 euro(s) pour les personnes physiques ;
-
-  - * 15 euro(s) pour les personnes morales ;
-
-  - * 20 euro(s) pour les tiers.
+- - Extrait ou certificat : 15 €.
