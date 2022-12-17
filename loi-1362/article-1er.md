@@ -98,7 +98,9 @@ Dans la mesure où elles le prévoient expressément, les dispositions de la pr�
 
 - 28°) toute personne qui, à titre de profession habituelle, transfère la détention ou le contrôle d'actifs numériques ou de crypto-actifs en réalisant une transaction pour le compte d'un tiers, en déplaçant des actifs numériques ou des crypto-actifs d'une adresse ou d'un compte à un autre ;
 
-- 29°) les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux, uniquement pour lesdites opérations.
+- 29°) les personnes qui, à titre habituel, exercent l'activité de domiciliation consistant à fournir à des tiers un siège social, une adresse commerciale ou des locaux, une adresse administrative ou postale à une société de capitaux, une société de personnes ou toute personne morale ou entité juridique, outre les services accessoires de location de bureaux ou de salles de réunion, d'assistance administrative liées à l'activité de domiciliation, à l'exception de l'exercice de toutes activités réglementées ;
+
+- 30°) les personnes non mentionnées aux chiffres précédents et à l'article 2 qui, à titre professionnel, réalisent, contrôlent ou conseillent des opérations entraînant des mouvements de capitaux, uniquement pour lesdites opérations.
 
 Ne sont pas soumis aux dispositions de la présente loi les organismes et les personnes exerçant, à titre occasionnel, une activité financière qui remplit les conditions suivantes :
 
