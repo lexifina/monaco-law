@@ -1,11 +1,11 @@
 # Code de procédure pénale
 
-Version en vigueur au 28 mai 2022.
+Version en vigueur au 17 décembre 2022.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2022.05.28/
+Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2022.12.17/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de procédure pénale |
-| Dernière modification | 28 mai 2022 |
+| Dernière modification | 17 décembre 2022 |

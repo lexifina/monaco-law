@@ -1,0 +1,3 @@
+# Article 268-13
+
+Les décisions prises en application des articles 268-11 et 268-12 font l'objet d'une ordonnance motivée du juge d'instruction. Cette ordonnance est prise, soit sur réquisitions du procureur général, soit d'office ou à la demande de la partie intéressée, après avis du procureur général. Elle est notifiée au procureur général, aux parties intéressées et, s'ils sont connus, aux propriétaires ainsi qu'aux tiers ayant des droits sur le bien, qui peuvent la déférer à la Chambre du conseil dans les conditions prévues à l'article 226. L'appel des décisions prises en application de l'article 268-11 n'a pas d'effet suspensif et l'appel de celles prises en application de l'article 268-12 est suspensif.

@@ -1,17 +1,5 @@
 # Article 596-7
 
-Lorsque des procédures pénales parallèles, conduites dans la Principauté et un État membre de l'Union européenne, ayant pour objet les mêmes personnes pour les mêmes faits de blanchiment, sont susceptibles de donner lieu à des jugements définitifs, les poursuites peuvent être centralisées, dans l'intérêt d'une bonne administration de la justice, dans l'un des États concernés.
+Les demandes d'entraide émanant des autorités judiciaires étrangères sont exécutées dans les meilleurs délais.
 
-Sont pris en compte les éléments suivants :
-
-- a) l'État sur le territoire duquel l'infraction a été commise ;
-
-- b) la nationalité ou la résidence de l'auteur de l'infraction ;
-
-- c) le pays d'origine de la victime ou des victimes ; et
-
-- d) le territoire sur lequel l'auteur de l'infraction a été retrouvé.
-
-Ainsi, à cet effet, et sous réserve de l'acceptation préalable de l'autorité judiciaire d'un État membre de l'Union européenne, également compétent pour en connaître, le Procureur général peut, par un document écrit faisant preuve de son authenticité, lui transférer une procédure relative à la poursuite d'une infraction de blanchiment.
-
-Dans les mêmes conditions et aux mêmes fins, le Juge d'instruction peut prendre une ordonnance de dessaisissement. L'autorité judiciaire d'un État membre de l'Union européenne peut également et sous les mêmes conditions transmettre à la Principauté une procédure de même nature.
+Le procureur général ou le juge d'instruction peut décider de reporter l'exécution de la demande d'entraide si elle risque de nuire à une enquête, une instruction, ou à des poursuites en cours ou si les objets, documents ou données concernés sont déjà utilisés dans le cadre d'une autre procédure. Elle est mise à exécution sans délai dès lors que les raisons ayant justifié le report ont cessé. L'autorité centrale de l'État requérant en est immédiatement informée.

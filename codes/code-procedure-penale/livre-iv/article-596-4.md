@@ -1,3 +1,3 @@
 # Article 596-4
 
-Les dispositions du présent paragraphe ne sont applicables qu'à l'égard des États liés à la Principauté par des traités ou des accords prévoyant la constitution d'équipes communes d'enquêtes.
+Lorsqu'il est nécessaire de faire procéder à des actes d'investigation dans un État étranger, le juge d'instruction ou le procureur général émet à cet effet, une demande d'entraide judiciaire, à l'autorité étrangère compétente, transmise par la Direction des services judiciaires, sauf convention en stipulant autrement.

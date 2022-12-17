@@ -1,5 +1,5 @@
 # Article 596-5
 
-Pour l'exécution simultanée, sur le territoire de la Principauté et à l'étranger, de demandes d'entraides judiciaires internationales ou en application des articles 596-2 à 596-4, lorsque les nécessités de l'enquête ou de l'instruction le justifient, l'audition ou l'interrogatoire d'une personne ainsi que la confrontation entre plusieurs personnes peuvent être effectués entre un point du territoire de la Principauté et un point situé à l'extérieur, se trouvant reliés par des moyens de communications électroniques permettant la visualisation ainsi que l'audition des intéressés et, garantissant la confidentialité de la transmission.
+Les demandes d'entraide émanant des autorités judiciaires étrangères sont exécutées par le procureur général, ou par un juge d'instruction, ou par les officiers ou agents de police judiciaire requis à cette fin par ces derniers.
 
-Ces actes sont réalisés conformément aux règles prévues par les articles 60-10,125 à 147 et 166 à 175.
+Sauf dans les cas où la loi en dispose autrement et sans préjudice des droits de la défense, elles sont exécutées conformément aux dispositions de l'article 31 du présent code.

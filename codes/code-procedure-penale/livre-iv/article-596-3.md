@@ -1,7 +1,21 @@
 # Article 596-3
 
-Les officiers et agents de police judiciaire monégasques détachés auprès d'une équipe commune d'enquête peuvent procéder aux opérations prescrites par le responsable d'équipe, sur toute l'étendue du territoire de l'État où ils interviennent, dans la limite des pouvoirs qui leur sont reconnus par le présent code.
+En l'absence de convention internationale en stipulant autrement, les demandes d'entraide émanant des autorités judiciaires étrangères doivent contenir les informations suivantes :
 
-Leurs missions sont définies par l'autorité de 1'État étranger compétente pour diriger l'équipe commune d'enquête sur le territoire duquel l'équipe intervient.
+- 1° la désignation de l'autorité compétente dont émane la demande ;
 
-Ils peuvent recevoir les déclarations et constater les infractions dans les formes prévues par le présent code, sous réserve de l'accord de l'État sur le territoire duquel ils interviennent.
+- 2° l'objet, le motif et la nature de la demande ;
+
+- 3° la date et le lieu de la commission des faits, un exposé sommaire des faits et le lien entre ces faits et l'objet de l'acte d'instruction sollicité ;
+
+- 4° dans la mesure du possible, l'identité et la nationalité de la personne mise en cause ;
+
+- 5° le cas échéant, le nom et l'adresse du destinataire ;
+
+- 6° les textes prévoyant et réprimant les infractions poursuivies dans l'État requérant ;
+
+- 7° une traduction en langue française de la demande d'entraide et des pièces jointes.
+
+Au cas où la demande d'entraide est incomplète ou que les informations communiquées par les autorités centrales de l'État requérant se révèlent insuffisantes, un complément d'information peut être demandé.
+
+À défaut de production des informations prévues au deuxième alinéa, la Direction des services judiciaires informe l'autorité centrale de l'État requérant qu'il ne peut être donné suite à sa demande.
