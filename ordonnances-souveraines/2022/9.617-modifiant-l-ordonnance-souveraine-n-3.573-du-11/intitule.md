@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.617 du 15 décembre 2022 modifiant l'Ordonnance Souveraine n° 3.573 du 11 mai 1966, modifiée, portant application de la loi n° 797 du 18 février 1966 relative aux sociétés civiles, modifiée
