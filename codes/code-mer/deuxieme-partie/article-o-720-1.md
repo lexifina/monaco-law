@@ -1,0 +1,3 @@
+# Article O. 720-1
+
+En cas de contestation, le propriétaire d'un navire, d'une embarcation ou d'un engin flottant reconnu comme hors d'état de naviguer doit, en application de l'article L. 720-2, adresser au Directeur des Affaires Maritimes, par voie de recommandé avec demande d'avis de réception, une lettre mentionnant expressément son opposition à la décision prise et sollicitant l'organisation d'une procédure d'expertise contradictoire dans les formes, conditions et sous les réserves prévues par les articles O. 720-2 et suivants. Cette lettre de contestation doit être adressée dans un délai de deux mois suivant réception de la décision du Directeur des Affaires Maritimes.

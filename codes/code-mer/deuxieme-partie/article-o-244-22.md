@@ -4,8 +4,8 @@ L'emploi, pour la pêche sous-marine, d'un fusil ou d'un revolver utilisé pour 
 
 En outre, il ne peut être fait usage :
 
-- de foyers lumineux ou d'appâts ;
+- - de foyers lumineux ou d'appâts ;
 
-- d'appareils permettant de respirer en plongée et notamment de bouteilles d'air ou d'oxygène ;
+- - d'appareils permettant de respirer en plongée et notamment de bouteilles d'air ou d'oxygène ;
 
-- de tout type de harpon, tel que foëne, fouine ou trident, autre que la flèche armée d'une seule pointe.
+- - de tout type de harpon, tel que foëne, fouine ou trident, autre que la flèche armée d'une seule pointe.

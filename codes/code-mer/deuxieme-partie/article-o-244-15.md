@@ -4,11 +4,11 @@ La pêche au feu, notamment celle dite « au lamparo » est seulement permise au
 
 Les filets employés à l'occasion de ce type de pêche doivent répondre aux caractéristiques suivantes :
 
-- longueur maximum : 400 mètres ;
+- - longueur maximum : 400 mètres ;
 
-- hauteur maximum : 60 mètres ;
+- - hauteur maximum : 60 mètres ;
 
-- mailles : 10 m/m minimum au carré.
+- - mailles : 10 m/m minimum au carré.
 
 Ces filets ne doivent en aucun cas traîner sur le fond.
 

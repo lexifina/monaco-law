@@ -4,6 +4,6 @@ Nonobstant toute stipulation contraire, le transporteur est tenu, avant et au d�
 
 - a) de mettre le navire en état de navigabilité, compte tenu du voyage qu'il doit effectuer et des marchandises qu'il doit transporter ;
 
-- b) de convenablement armer, équiper et approvisionner le navire ;
+- b)de convenablement armer, équiper et approvisionner le navire ;
 
-- c) d'approprier et mettre en bon état tout ou partie du navire où les marchandises doivent être déchargées.
+- c)d'approprier et mettre en bon état tout ou partie du navire où les marchandises doivent être déchargées.

@@ -4,6 +4,6 @@ Toute immersion, au sens du Protocole relatif à la prévention et à l'élimina
 
 L'immersion des déchets ou autres matières suivants ne peut être réalisée que dans les conditions définies à l'article O.223-2 :
 
-a) matériaux de dragage,
+- a) matériaux de dragage,
 
-b) matières géologiques inertes non polluées, dont les constituants chimiques ne risquent pas d'être libérés dans le milieu marin.
+- b) matières géologiques inertes non polluées, dont les constituants chimiques ne risquent pas d'être libérés dans le milieu marin.

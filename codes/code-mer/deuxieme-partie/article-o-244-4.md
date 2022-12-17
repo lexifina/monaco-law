@@ -4,6 +4,6 @@ Au sens du présent chapitre, on entend par pêche l'acte de capturer, extraire 
 
 La pêche comprend :
 
-1° les activités préalables ayant pour finalité directe la pêche, tout comme les activités ultérieures exercées directement et immédiatement sur les espèces extraites, capturées ou mortes ;
+- 1° les activités préalables ayant pour finalité directe la pêche, tout comme les activités ultérieures exercées directement et immédiatement sur les espèces extraites, capturées ou mortes ;
 
-2° les opérations connexes de navires-gigogne et les opérations d'appui logistique et de transbordement des captures.
+- 2° les opérations connexes de navires-gigogne et les opérations d'appui logistique et de transbordement des captures.
