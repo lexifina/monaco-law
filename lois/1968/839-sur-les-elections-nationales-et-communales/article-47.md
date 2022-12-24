@@ -18,7 +18,7 @@ Sont nuls :
 
 - - les bulletins comportant une mention au verso.
 
-Ne sont pas valables les bulletins blancs ; toutefois, ces bulletins sont considérés comme suffrages exprimés pour le calcul de la majorité absolue.
+- Ne sont pas valables les bulletins blancs ; toutefois, ces bulletins sont considérés comme suffrages exprimés pour le calcul de la majorité absolue.
 
 Sont valables les bulletins qui portent moins de noms que de sièges à pourvoir.
 

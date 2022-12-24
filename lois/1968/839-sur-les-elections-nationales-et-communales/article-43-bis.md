@@ -2,11 +2,11 @@
 
 Peuvent exercer, sur leur demande, leur droit de vote par procuration, lorsqu'ils sont admis à voter au sens de l'article précédent, les électeurs qui :
 
-- 1° attestent sur l'honneur qu'ils ne peuvent pas se rendre au bureau de vote le jour de l'élection ;
+1° attestent sur l'honneur qu'ils ne peuvent pas se rendre au bureau de vote le jour de l'élection ;
 
-- 2° justifient de leur placement en détention, dans les conditions prévues par ordonnance souveraine.
+2° justifient de leur placement en détention, dans les conditions prévues par ordonnance souveraine.
 
-Le formulaire de demande de procuration est disponible à la Mairie, dans les représentations diplomatiques et consulaires de la Principauté à l'étranger, ainsi que sur les sites Internet de la Commune et du Gouvernement. Ce formulaire, l'attestation sur l'honneur de l'électeur qui souhaite voter par procuration ou le justificatif visé au chiffre 2 de l'alinéa précédent, ainsi que la photocopie de sa carte d'identité ou de son passeport monégasque en cours de validité sont déposés à la Mairie ou transmis par voie postale ou par voie électronique selon un procédé sécurisé, au Secrétariat Général de la Mairie qui en accuse réception. Une ordonnance souveraine détermine les conditions d'application du présent alinéa, notamment les formes et délais requis pour l'établissement de la procuration.
+Le formulaire de demande de procuration est disponible à la Mairie, dans les représentations diplomatiques et consulaires de la Principauté à l'étranger, ainsi que sur les sites Internet de la Commune et du Gouvernement. Ce formulaire, l'attestation sur l'honneur de l'électeur qui souhaite voter par procuration ou le justificatif visé au chiffre 2 de l'alinéa précédent, ainsi que la photocopie de sa carte d'identité ou de son passeport monégasque en cours de validité sont déposés à la Mairie ou transmis par voie postale ou par voie électronique selon un procédé sécurisé, au Secrétariat Général de la Mairie qui en accuse réception. Le dépôt ou la transmission de la photocopie de la carte d'identité ou du passeport monégasque en cours de validité ne sont toutefois pas requis lorsque la demande est effectuée en ligne par une personne faisant usage de son identité numérique au sens de la loi n° 1.483 du 17 décembre 2019 relative à l'identité numérique. Une ordonnance souveraine détermine les conditions d'application du présent alinéa, notamment les formes et délais requis pour l'établissement de la procuration.
 
 La validité de la procuration est limitée à un seul scrutin et s'étend, le cas échéant, au second tour. Le mandataire au profit duquel la procuration est dressée doit jouir de ses droits électoraux et être inscrit sur la liste électorale.
 
