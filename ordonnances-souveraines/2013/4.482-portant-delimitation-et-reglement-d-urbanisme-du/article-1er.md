@@ -6,11 +6,11 @@
 
 - des dispositions générales RU-ZQ-GEN-V10D (annexe n° 1) applicables à l'ensemble du secteur des quartiers ordonnancés ;
 
-- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D14 (annexe n° 2) ;
+- du plan de zonage du secteur des quartiers ordonnancés PU-ZQ-PTE-D15 (annexe n° 2) ;
 
 - du plan de répartition des indices de construction de référence PU-IC-PTE-D2 (annexe n° 3) ;
 
-- des dispositions particulières RU-CND-DP-V14D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de La Condamine ;
+- des dispositions particulières RU-CND-DP-V15D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de La Condamine ;
 
 - des dispositions particulières RU-FON-DP-V9D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
 
