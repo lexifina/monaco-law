@@ -1,0 +1,1 @@
+Décision ministérielle du 27 décembre 2022 permettant l'identification des personnes utilisant à leur domicile des appareils médicaux fonctionnant sur secteur et des personnes bénéficiaires du service de téléalarme, en vue de les informer des mesures à prendre en cas de délestage électrique et d'assurer leur sauvegarde
