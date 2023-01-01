@@ -1,3 +1,3 @@
 # Article 11
 
-Tout fonctionnaire, quelle que soit sa position, doit s'abstenir, soit pour son propre compte, soit pour le compte de toute autre personne physique ou morale, de toute démarche, activité ou manifestation incompatible avec la discrétion et la réserve qu'impliquent ses fonctions.
+Tout fonctionnaire, quelle que soit sa position, doit s'abstenir, soit pour son propre compte, soit pour le compte de toute autre personne physique ou morale, de toute démarche, activité ou manifestation incompatible avec la discrétion et la réserve qu'impliquent ses fonctions, cette dernière l'oblige à faire preuve de mesure et de retenue dans l'expression de ses opinions, aussi bien durant son service, qu'en dehors de celui‑ci.

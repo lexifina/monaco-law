@@ -1,7 +1,13 @@
 # Article 42
 
-Le fonctionnaire qui a fait l'objet d'une sanction disciplinaire, mais qui n'a pas été exclu des cadres, peut, après cinq années, s'il s'agit d'un avertissement ou d'un blâme et dix années s'il s'agit d'une autre sanction, obtenir par simple demande adressée au maire que toute trace de la sanction prononcée soit supprimée du dossier.
+Le fonctionnaire qui a fait l'objet d'une sanction disciplinaire, mais qui n'a pas été exclu des cadres, peut, après trois années, s'il s'agit d'un avertissement ou d'un blâme et cinq années s'il s'agit d'une autre sanction, introduire par la voie hiérarchique, une demande adressée au maire tendant à ce qu'aucune trace de la sanction prononcée ne subsiste à son dossier.
 
-Le maire statue après avis de la commission de la fonction communale.
+Il ne peut être fait droit à sa demande que si, par son comportement général, l'intéressé a donné toute satisfaction depuis la sanction dont il a fait l'objet.
 
-En cas de refus, le fonctionnaire peut former recours auprès du Ministre d'État.
+Le maire statue après avis de la commission de la fonction communale et du chef de service de l'intéressé.
+
+Lorsqu'il n'a pas été fait droit à la demande du fonctionnaire, ce dernier peut saisir à nouveau le maire à l'expiration d'un délai de trois ans à compter, selon le cas, de :
+
+- la décision de refus du maire statuant, soit en première demande, soit à la suite d'un recours gracieux ; ou
+
+- la décision rendue suite à l'exercice d'un recours contentieux.

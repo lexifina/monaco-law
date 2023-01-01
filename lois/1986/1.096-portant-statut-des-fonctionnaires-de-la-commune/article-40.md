@@ -2,11 +2,11 @@
 
 Le conseil de discipline comprend six membres :
 
-- un adjoint autre que celui dont dépend le service dans lequel se trouve placé le comparant, président ;
+- un adjoint autre que celui dont dépend le service dans lequel se trouve placé le comparant, président, désigné par le maire ;
 
 - deux conseillers communaux élus au scrutin secret en commission plénière du conseil communal ;
 
-- trois fonctionnaires désignés par leurs représentants au sein de la commission paritaire compétente et qui doivent être titulaires d'un grade au moins égal à celui du comparant.
+- trois fonctionnaires désignés par leurs représentants au sein de la commission paritaire compétente.
 
 Les membres ainsi nommés doivent présenter toutes garanties d'indépendance et d'impartialité.
 

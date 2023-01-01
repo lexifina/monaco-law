@@ -6,6 +6,6 @@ Les emplois permanents sont prévus à l'organigramme des services communaux. Il
 
 - Catégorie B : fonctions d'application ;
 
-- Catégories C et D : fonctions d'exécution.
+- Catégorie C :fonctions d'exécution.
 
 Les critères servant à définir ces fonctions sont fixés par une ordonnance souveraine prise après avis de la Commission de la fonction communale instituée par l'article 25.

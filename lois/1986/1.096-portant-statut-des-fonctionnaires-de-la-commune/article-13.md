@@ -1,5 +1,5 @@
 # Article 13
 
-Le dossier individuel de chaque fonctionnaire doit contenir toutes les pièces intéressant sa situation administrative, numérotées et classées sans discontinuité. Aucune mention faisant état des opinions politiques, philosophiques ou religieuses de l'intéressé ne pourra figurer au dossier.
+Le dossier individuel de chaque fonctionnaire doit contenir toutes les pièces intéressant sa situation administrative, numérotées et classées sans discontinuité. Une ordonnance souveraine détermine les pièces qui concernent cette situation et les modalités de tenue de dossier, ainsi que leur durée de conservation en fonction de la nature des informations qu'elles contiennent. Ne peut figurer au dossier aucune mention faisant état des opinions politiques, philosophiques, religieuses ou syndicales de l'intéressé, ni de données relatives à son orientation sexuelle, à ses mœurs ou à ses origines raciales ou ethniques.
 
-Le fonctionnaire a droit à la communication personnelle et confidentielle de son dossier avant l'intervention d'une des sanctions disciplinaires visées aux chiffres 3° à 7° et au dernier alinéa de l'article 36.
+Le fonctionnaire a accès à son dossier individuel, à l'exception des pièces non consultables dans les conditions définies par ordonnance souveraine. Il a le droit d'en obtenir communication avant le prononcé d'une des sanctions disciplinaires visées à l'article 36.
