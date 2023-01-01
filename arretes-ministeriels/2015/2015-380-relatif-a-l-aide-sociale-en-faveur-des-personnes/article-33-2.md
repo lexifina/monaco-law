@@ -4,7 +4,7 @@ Toute demande d'allocation handicap vieillesse est adressée à la Direction de 
 
 - 1°) un relevé d'identité postale ou bancaire ;
 
-- 2°) une déclaration contenant le montant des ressources du foyer du demandeur perçues au cours des douze derniers mois ou une attestation sur l'honneur de l'absence de ressources ;
+- 2°) une déclaration contenant le montant des ressources du demandeur perçues au cours des douze derniers mois ou une attestation sur l'honneur de l'absence de ressources ;
 
 - 3°) une copie de tout justificatif des ressources déclarées, notamment une attestation bancaire pour les revenus et capitaux mobiliers déclarés ;
 
@@ -14,4 +14,4 @@ Toute demande d'allocation handicap vieillesse est adressée à la Direction de 
 
 - 6°) un certificat de domicile.
 
-La décision d'attribution de l'allocation handicap vieillesse est prise par le Directeur de l'Action et de l'Aide Sociales. Elle est transmise à l'Office de Protection Sociale par la Direction de l'Action et de l'Aide Sociales, accompagnée d'une déclaration contenant le montant des ressources du foyer du demandeur perçues au cours des douze derniers mois.
+La décision d'attribution de l'allocation handicap vieillesse est prise par le Directeur de l'Action et de l'Aide Sociales. Elle est transmise à l'Office de Protection Sociale par la Direction de l'Action et de l'Aide Sociales, accompagnée d'une déclaration contenant le montant des ressources du demandeur perçues au cours des douze derniers mois.

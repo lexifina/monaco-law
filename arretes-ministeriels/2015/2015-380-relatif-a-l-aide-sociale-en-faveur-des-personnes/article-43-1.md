@@ -2,9 +2,7 @@
 
 Les montants maximums mensuels de chaque allocation, versés par l'Office de protection sociale, sont fixés comme suit :
 
-- - Allocation aux adultes handicapés pour une personne seule : 1.429,89 euros à compter du 1er mai 2022 et 1.458,89 euros à compter du 1er août 2022 ;
-
-- - Allocation aux adultes handicapés lorsque l'allocataire est marié ou vit maritalement avec une personne majeure : 2.859,78 euros à compter du 1er mai 2022 et 2.917,78 euros à compter du 1er août 2022 ;
+- - Allocation aux adultes handicapés : 1.429,89 euros à compter du 1er mai 2022 et 1.458,89 euros à compter du 1er août 2022 ;
 
 - - Complément de première catégorie de l'allocation aux adultes handicapées : 357,50 euros à compter du 1er mai 2022 et 364,70 euros à compter du 1er août 2022 ;
 

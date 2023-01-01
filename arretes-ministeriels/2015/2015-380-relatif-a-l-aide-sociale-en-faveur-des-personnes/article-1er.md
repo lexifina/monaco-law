@@ -4,4 +4,4 @@ L'allocation d'éducation spéciale, prévue par l'article 42 de la loi n° 1.41
 
 Toutefois, l'allocation n'est pas due lorsque le mineur ayant le statut de personne handicapée est placé en internat avec prise en charge intégrale des frais de séjour par l'assurance maladie ou l'aide sociale, sauf pour les périodes de congés ou de suspension de la prise en charge.
 
-L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire et Sociale.
+L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action et de l'Aide Sociales

@@ -4,16 +4,16 @@ L'allocation logement, prévue par l'article 45 de la loi n° 1.410 du 2 décemb
 
 - - l'attributaire dispose d'un logement indépendant et n'excédant pas les besoins normaux de son foyer ;
 
-- - l'attributaire est locataire dudit logement, conjoint du locataire ou vit maritalement avec le locataire ;
+- - l'attributaire est locataire dudit logement, conjoint du locataire, partenaire d'un contrat de vie commune du locataire, cohabitant d'un contrat de cohabitation ou vit maritalement avec le locataire ;
 
 - - l'attributaire n'est pas propriétaire, nu-propriétaire ou usufruitier à Monaco ou dans un rayon de quinze kilomètres de locaux à usage d'habitation correspondant à ses besoins normaux et qu'il pourrait légalement occuper.
 
 Toutefois, cette allocation n'est pas due lorsque la location a été consentie par :
 
-- - le conjoint de l'attributaire ou la personne avec laquelle il vit maritalement ;
+- - le conjoint, le partenaire d'un contrat de vie commune ou le contrat de cohabitation de l'attributaire ou la personne avec laquelle il vit maritalement ;
 
 - - un frère, une sœur, un ascendant ou un descendant de l'attributaire, de son conjoint ou de la personne avec laquelle il vit maritalement.
 
-L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action Sanitaire et Sociale.
+L'allocation est servie par l'Office de Protection Sociale sur décision du Directeur de l'Action et de l'Aide Sociales.
 
 Il n'est dû qu'une allocation par foyer.
