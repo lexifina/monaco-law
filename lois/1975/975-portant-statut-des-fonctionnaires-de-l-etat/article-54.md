@@ -1,9 +1,11 @@
 # Article 54
 
-À l'expiration des congés de maladie accordés en application des articles 50, 51, 52 et 53, ou si, sur proposition de la commission médicale compétente, il est mis fin à ces congés, l'intéressé peut être :
+Après l'épuisement de la totalité de ses droits à congés accordés en application des articles 50 bis, 51, 52 et 53 ou si, sur proposition de la commission médicale compétente, il est mis fin à ces congés, le fonctionnaire reconnu incapable d'exercer de façon permanente ses fonctions est dans l'attente de l'examen de sa situation :
 
-- soit muté d'office dans un emploi que son état de santé lui permettra de remplir ;
+- - soit placé en disponibilité d'office, s'il a épuisé ses droits statutaires à congé de maladie ;
 
-- soit mis en disponibilité d'office ;
+- - soit maintenu en congé de maladie, s'il n'a pas épuisé ces droits.
 
-- soit mis à la retraite pour invalidité.
+La décision est prise par le Ministre d'État pour une période maximale de six mois.
+
+La commission de reclassement, dont les conditions d'organisation et de fonctionnement sont fixées par ordonnance souveraine prise après avis de la commission de la fonction publique, examine, immédiatement saisie dans les formes prévues à l'article 27 et dans le délai fixé à l'alinéa précédent, les possibilités de reclassement du fonctionnaire.

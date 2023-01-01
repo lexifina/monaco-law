@@ -1,6 +1,8 @@
 # Article 21
 
-Un jury de concours, dont la composition est fixée par arrêté ministériel, désigne par ordre de mérite les candidats reconnus aptes.
+Des jurys de concours classent par ordre de mérite les candidats ayant concouru.
+
+Le classement personnel du candidat ainsi que ses résultats sont mis à la disposition de l'intéressé par le Directeur des Ressources Humaines et de la Formation de la Fonction Publique.
 
 Les nominations doivent intervenir dans l'ordre de classement arrêté par le jury, sous réserve des dispositions de la loi n° 188 du 18 juillet 1934.
 

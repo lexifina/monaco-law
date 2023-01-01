@@ -1,8 +1,8 @@
 # Article 31
 
-Les fonctionnaires ont droit ou ouvrent droit au profit de leurs ayants cause :
+Les fonctionnaires ont droit ou ouvrent droit au profit de leurs ayants cause dans les conditions prévues à l'article 33 :
 
-- 1° à des prestations familiales et à des avantages sociaux;
+- 1° à des prestations familiales et à des avantages sociaux ;
 
 - 2° à des prestations médicales, pharmaceutiques et chirurgicales ;
 
@@ -10,4 +10,6 @@ Les fonctionnaires ont droit ou ouvrent droit au profit de leurs ayants cause :
 
 - 4° à une pension de retraite, conformément à la législation en vigueur.
 
-Le droit aux prestations prévues aux chiffres 1 et 2 ci-dessus est maintenu aux fonctionnaires après leur mise à la retraite à la condition qu'ils n'exercent aucune activité lucrative.
+Le droit aux prestations prévues aux chiffres 1 et 2 ci-dessus est maintenu aux fonctionnaires domiciliés à Monaco après leur mise à la retraite à la condition qu'ils n'exercent aucune activité lucrative.
+
+Le droit à ces prestations est également maintenu aux fonctionnaires qui bénéficient d'une disponibilité parentale prévue au deuxième alinéa de l'article 63 ou d'une disponibilité d'office en application de l'article 54.

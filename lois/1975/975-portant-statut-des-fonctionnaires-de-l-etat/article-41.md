@@ -16,4 +16,6 @@ Les sanctions disciplinaires sont :
 
 - 7° la révocation.
 
+Toute sanction disciplinaire est inscrite au dossier visé à l'article 13.
+
 Une exclusion temporaire de fonction pour une durée de trois mois au plus peut, en outre, être prononcée à titre de sanction principale ou complémentaire.

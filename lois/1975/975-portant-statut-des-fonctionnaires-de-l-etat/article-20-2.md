@@ -1,0 +1,3 @@
+# Article 20-2
+
+En vue de favoriser la mobilité et la promotion internes, les fonctionnaires ayant acquis, dans leur catégorie, une ancienneté de service suffisante ou ceux disposant d'une expérience suffisante dans le domaine ou l'exercice de la fonction peuvent, s'ils remplissent les conditions d'aptitude nécessaires, être nommés à un emploi, de même catégorie ou de catégorie supérieure, soit à la suite d'une évaluation professionnelle, soit au choix après avis de la commission paritaire compétente instituée par l'article 28, le cas échéant, sur justification d'une formation professionnelle.

@@ -6,6 +6,8 @@ La comparution devant le conseil de discipline est ordonnée par un arrêté min
 
 Le fonctionnaire déféré au conseil de discipline est mis en demeure, par lettre recommandée avec avis de réception, de prendre connaissance de son dossier et de toutes les pièces relatives à l'affaire.
 
-Notification concomitante lui est faite, dans la même forme, de l'arrêté ministériel visé au deuxième alinéa ci-dessus ; il lui est accordé un délai de trente jours, à compter du lendemain de cette notification, pour présenter sa défense et désigner, le cas échéant, son défenseur.
+Notification concomitante lui est faite, dans la même forme, de l'arrêté ministériel visé au deuxième alinéa ci-dessus ; il lui est accordé un délai de trente jours calendaires pour présenter sa défense et désigner, le cas échéant, son défenseur, lequel pourra l'assister le jour de la comparution.
 
 Le fonctionnaire a le droit de citer des témoins. Ce droit appartient également à l'administration.
+
+L'avis motivé du conseil de discipline est notifié à l'intéressé par lettre recommandée avec demande d'avis de réception postal.
