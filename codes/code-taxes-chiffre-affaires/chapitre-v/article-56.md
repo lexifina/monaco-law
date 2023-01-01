@@ -24,7 +24,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - On entend par réseau de communications électroniques toute installation ou tout ensemble d'installations de transport ou de diffusion ainsi que, le cas échéant, les autres moyens assurant l'acheminement de communications électroniques, notamment ceux de commutation et de routage et par équipement terminal, tout équipement destiné à être connecté directement ou indirectement à un point de terminaison d'un réseau en vue de la transmission, du traitement ou de la réception d'informations.
 
-- i) les cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres.
+- iles cessions de droits patrimoniaux reconnus par la loi aux auteurs des œuvres de l'esprit et aux artistes interprètes ainsi que de tous droits portant sur les œuvres cinématographiques et sur les livres.
 
 - Cette disposition n'est pas applicable aux cessions de droits portant sur des œuvres d'architecture et des logiciels, ainsi qu'aux cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées dans le cadre de festivals de cinéma ou au cours des séances de spectacles cinématographiques suivantes :
 
@@ -52,4 +52,4 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - o) les ventes à consommer sur place, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51 ;
 
-- p) Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51
+- p) Les ventes à emporter ou à livrer de produits alimentaires préparés en vue d'une consommation immédiate, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51.

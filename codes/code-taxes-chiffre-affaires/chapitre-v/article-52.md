@@ -8,7 +8,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - 3° Sauf lorsqu'ils relèvent du 1° du A de l'article 52-0, les denrées alimentaires destinées à la consommation animale, les produits normalement destinés à être utilisés dans la préparation de ces denrées et ceux normalement utilisés pour compléter ou remplacer ces denrées lorsque l'une des conditions suivantes est remplie :
 
-  - a) Il s'agit de produits d'origine agricole, de la pêche, de la pisciculture ou de l'aviculture qui n'ont subi aucune transformation ;
+  - a)Il s'agit de produits d'origine agricole, de la pêche, de la pisciculture ou de l'aviculture qui n'ont subi aucune transformation ;
 
   - b) Il s'agit de matières premières, d'aliments composés ou d'additifs destinés aux animaux producteurs de denrées alimentaires elles-mêmes destinées à la consommation humaine ;
 

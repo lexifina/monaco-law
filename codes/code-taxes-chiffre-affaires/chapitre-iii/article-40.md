@@ -18,13 +18,13 @@
 
 2. La taxe est exigible :
 
-- a) Pour les livraisons et les achats mentionnés aux a et c quater du 1 et pour les opérations mentionnées au d du même 1, lors de la réalisation du fait générateur.
+- a) Pour les livraisons mentionnées aux a) et c) du 1, lors de la réalisation du fait générateur. Toutefois, en cas de versement préalable d'un acompte, la taxe devient exigible au moment de son encaissement, à concurrence du montant encaissé;
 
-- Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de biens similaires donnant lieu à des décomptes ou à des encaissements successifs, l'exigibilité peut intervenir au moment du débit sur autorisation du directeur des Services fiscaux ; elle intervient en tout état de cause dès la perception d'acomptes et à concurrence de leur montant, lorsqu'il en est demandé avant l'intervention du fait générateur ou du débit ;
+- Toutefois, pour les livraisons d'électricité, de gaz, de chaleur, de froid ou de biens similaires donnant lieu à des décomptes ou à des encaissements successifs, l'exigibilité peut intervenir au moment du débit sur autorisation du directeur des Services fiscaux ; elle intervient en tout état de cause dès la perception d'acomptes et à concurrence de leur montant, lorsqu'il en est demandé avant l'intervention du fait générateur ou du débit;
 
 - a bis) Pour les livraisons d'immeubles à construire, lors de chaque versement des sommes correspondant aux différentes échéances prévues par le contrat en fonction de l'avancement des travaux ;
 
-- b) (b abrogé) ;
+- b) Pour les opérations mentionnées aux c quater et d) du 1, lors de la réalisation du fait générateur ;
 
 - b bis) pour les prestations de services pour lesquelles la taxe est due par le preneur en application du 2 de l'article 62, lors du fait générateur, ou lors de l'encaissement des acomptes ;
 

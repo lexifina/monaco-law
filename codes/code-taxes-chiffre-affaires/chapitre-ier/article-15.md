@@ -6,7 +6,7 @@ Peuvent sur leur demande acquitter la taxe sur la valeur ajoutée :
 
 - L'option ne peut pas être exercée :
 
-  - a) si les locaux nus donnés en location sont destinés à l'habitation ou à usage agricole ;
+  - a)si les locaux nus donnés en location sont destinés à l'habitation ou à usage agricole ;
 
   - b) si le preneur est non assujetti, sauf lorsque le bail fait mention de l'option par le bailleur;
 

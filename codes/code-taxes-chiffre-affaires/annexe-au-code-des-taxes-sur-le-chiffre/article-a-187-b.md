@@ -8,4 +8,4 @@ Afin de bénéficier de l'exonération de taxe sur la valeur ajoutée prévue à
 
 - c) Leur poids en or ;
 
-- d) Le cours de l'or fin sur le marché libre au jour de la livraison.
+- d)Le cours de l'or fin sur le marché libre au jour de la livraison.

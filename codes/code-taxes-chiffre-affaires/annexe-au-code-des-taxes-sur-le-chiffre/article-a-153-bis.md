@@ -32,7 +32,7 @@ I. - Les mentions obligatoires qui doivent figurer sur les factures en applicati
 
 - 15° lorsque l'assujetti applique le régime particulier des agences de voyage, la mention : « Régime particulier - Agences de voyages » ;
 
-- 16° en cas d'application du régime prévu par l'article 93 A du code précité, la mention : « Régime particulier - Biens d'occasion », « Régime particulier - Objets d'art » ou « Régime particulier - Objets de collection et d'antiquité » selon l'opération considérée ;
+- 16° en cas d'application du régime prévu par l'article 93 A du code précité, la mention : « Régime particulier - Biens d'occasion », « Régime particulier - Objets d'art » ou « Régime particulier - Objets de collection et d'antiquités » selon l'opération considérée ;
 
 - 17° les caractéristiques du moyen de transport neuf telles qu'elles sont définies au III de l'article 94 du Code des taxes pour les livraisons mentionnées au II de ce même article ;
 

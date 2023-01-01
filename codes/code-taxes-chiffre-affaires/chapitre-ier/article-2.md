@@ -4,7 +4,7 @@ I. - 1° Sont également soumises à la taxe sur la valeur ajoutée les acquisit
 
 2° Sous réserve de ne pas excéder le seuil ci-après indiqué, ne sont pas soumises à la taxe sur la valeur ajoutée les acquisitions de biens autres que des moyens de transport neufs ou des produits soumis à accise effectuées :
 
-- a) par une personne morale non assujettie ;
+- a)par une personne morale non assujettie ;
 
 - b) par un assujetti qui ne réalise que des opérations n'ouvrant pas droit à déduction.
 
@@ -26,7 +26,7 @@ II. - Est assimilée à une acquisition intracommunautaire :
 
 - 2° L'affectation à Monaco ou en France par un assujetti pour les besoins de son entreprise d'un bien de son entreprise expédié ou transporté à partir d'un État membre, autre que la France, à l'exception d'un bien qui, à Monaco ou en France, est destiné :
 
-  - a) à être utilisé temporairement pour les besoins de prestations de services effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit, s'il était importé, au bénéfice de l'admission temporaire en exonération totale de droits ;
+  - a) être utilisé temporairement pour les besoins de prestations de services effectuées par l'assujetti ou dans des conditions qui lui ouvriraient droit, s'il était importé, au bénéfice de l'admission temporaire en exonération totale de droits ;
 
   - b) à faire l'objet de travaux, à condition que le bien soit réexpédié ou transporté à destination de l'assujetti dans l'État membre, autre que la France, de l'expédition ou du transport ;
 

@@ -4,15 +4,15 @@ I - Pour leurs livraisons de biens et leurs prestations de services, les assujet
 
 - 1° Un chiffre d'affaires supérieur à :
 
-  - a) 85 800 € l'année civile précédente ;
+  - a) 91 900 € l'année civile précédente ;
 
-  - b) Ou 94 300 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a) ;
+  - b) Ou 101 000 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a) ;
 
 - 2° Et un chiffre d'affaires afférent à des prestations de services, hors ventes à consommer sur place et prestations d'hébergement, supérieur à :
 
-  - a) 34 400 € l'année civile précédente ;
+  - a) 36 800 € l'année civile précédente ;
 
-  - b) Ou 36 500 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a).
+  - b) Ou 39 100 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a).
 
 II - 1. Le I cesse de s'appliquer :
 
@@ -22,16 +22,16 @@ II - 1. Le I cesse de s'appliquer :
 
 2. Les assujettis visés au 1 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
-III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 44 500 € :
+III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 47 700 € :
 
 - 1. Pour la livraison de leurs œuvres désignées à l'article 2 de l'ordonnance souveraine du 27 février 1989 sur la propriété littéraire et artistique et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'œuvres de l'esprit, à l'exception des architectes.
 
 - 2. Pour l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes définis comme étant des personnes qui représentent, chantent, récitent, déclament, jouent ou exécutent de tout autre manière une œuvre littéraire ou artistique, un numéro de variété, de cirque ou de marionnettes.
 
-IV. - Pour leurs livraisons de biens et leurs prestations de services qui n'ont pas bénéficié de l'application de la franchise prévue au III, ces assujettis bénéficient également d'une franchise lorsque le chiffre d'affaires correspondant réalisé au cours de l'année civile précédente n'excède pas 18 300 €.
+IV. - Pour leurs livraisons de biens et leurs prestations de services qui n'ont pas bénéficié de l'application de la franchise prévue au III, ces assujettis bénéficient également d'une franchise lorsque le chiffre d'affaires correspondant réalisé au cours de l'année civile précédente n'excède pas 19 600 € .
 
 Cette disposition ne peut pas avoir pour effet d'augmenter le chiffre d'affaires limite de la franchise afférente aux opérations mentionnées au 1 ou au 2 du III.
 
-V. - Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont le chiffre d'affaires de l'année en cours dépasse respectivement 54 700 € et 22 100 €. Ils deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et pour les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
+V. - Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont le chiffre d'affaires de l'année en cours dépasse respectivement 58 600 € et 23 700 € . Ils deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et pour les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
 
 VI - Les seuils mentionnés aux I à V sont actualisés tous les trois ans par arrêté ministériel. La première révision triennale prend effet à compter du 1er janvier 2017.

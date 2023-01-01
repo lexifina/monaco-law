@@ -66,9 +66,9 @@ c) Dans les cas visés au a et b du présent 2, la personne qui a obtenu l'autor
 
 4. Donnent lieu à une dispense de paiement :
 
-1° Lorsque le bien fait l'objet, directement après la sortie du régime, d'une exportation ou d'une livraison exonérée en application de l'article 29 ou du I de l'article 31, la taxe devenue exigible conformément au 1 du présent II ;
+- 1° Lorsque le bien fait l'objet, directement après la sortie du régime, d'une exportation ou d'une livraison exonérée en application de l'article 29 ou du I de l'article 31, la taxe devenue exigible conformément au 1 du présent II ;
 
-2° Lorsque la sortie du régime constitue une importation, au sens du b) du 2. du I de l'article 81, et que le bien n'a fait l'objet d'aucune livraison pour laquelle la taxe a été suspendue conformément aux 1°, 2° et 6° ainsi qu'au a) du 7° du I du présent article, la taxe afférente aux prestations de services comprises dans la base d'imposition de l'importation conformément à l'article 83.
+- 2° Lorsque la sortie du régime constitue une importation, au sens du b) du 2. du I de l'article 81, et que le bien n'a fait l'objet d'aucune livraison pour laquelle la taxe a été suspendue conformément aux 1°, 2° et 6° ainsi qu'au a) du 7° du I du présent article, la taxe afférente aux prestations de services comprises dans la base d'imposition de l'importation conformément à l'article 83.
 
 III. - La personne qui a obtenu l'autorisation d'ouverture d'un régime mentionné au 2° du I doit, au lieu de situation des biens :
 

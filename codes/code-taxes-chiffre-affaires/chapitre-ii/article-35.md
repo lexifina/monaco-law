@@ -12,7 +12,7 @@
 
   - opérations réalisées par les personnes établies en Principauté qui s'entremettent dans la livraison de biens ou l'exécution de services par des redevables qui n'ont pas établi en Principauté ou dans l'Union, le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle ;
 
-- c) (c abrogé) ;
+- c (c abrogé) ;
 
 - d) pour les opérations visées au e) du 1° de l'article 25 qui ont fait l'objet de l'option prévue à l'article 16, par le montant des profits et autres rémunérations ;
 
@@ -26,7 +26,7 @@
 
 - g) pour la prestation de services unique mentionnée au III de l'article 5 ter, par la différence entre le prix total payé par le client et le prix effectif facturé à l'agence ou à l'organisateur par les entrepreneurs de transports, les hôteliers, les restaurateurs, les entrepreneurs de spectacle et les autres assujettis qui exécutent matériellement les services utilisés par le client ;
 
-- h) pour les travaux immobiliers, par le montant des marchés, mémoires ou factures ;
+- h)pour les travaux immobiliers, par le montant des marchés, mémoires ou factures ;
 
 Des ordonnances peuvent fixer des bases minimales ou forfaitaires d'imposition pour les achats imposables.
 
@@ -34,12 +34,12 @@ Des ordonnances peuvent fixer des bases minimales ou forfaitaires d'imposition p
 
 3. En ce qui concerne les opérations mentionnées au I de l'article 5, la taxe sur la valeur ajoutée est assise :
 
-- a) pour les livraisons à soi-même, sur le prix de revient total des immeubles, y compris le coût des terrains ou leur valeur d'apport ;
+- a)pour les livraisons à soi-même, sur le prix de revient total des immeubles, y compris le coût des terrains ou leur valeur d'apport ;
 
 - b) pour les mutations à titre onéreux ou les apports en société sur :
 
-  - le prix de la cession, le montant de l'indemnité ou la valeur des droits sociaux rémunérant l'apport, augmenté des charges qui s'y ajoutent ;
+- le prix de la cession, le montant de l'indemnité ou la valeur des droits sociaux rémunérant l'apport, augmenté des charges qui s'y ajoutent ;
 
-  - la valeur vénale réelle des biens si cette valeur vénale est supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux, augmenté des charges.
+- la valeur vénale réelle des biens si cette valeur vénale est supérieure au prix, au montant de l'indemnité ou à la valeur des droits sociaux, augmenté des charges.
 
 4. Lorsque le bail à construction est soumis à la taxe sur la valeur ajoutée, la base d'imposition est constituée par la valeur du droit de reprise des immeubles qui doivent revenir au bailleur abstraction faite, le cas échéant, de l'indemnité de reprise stipulée au profit du preneur et du montant des loyers, lesquels sont imposés par ailleurs dans les conditions du a du 1.

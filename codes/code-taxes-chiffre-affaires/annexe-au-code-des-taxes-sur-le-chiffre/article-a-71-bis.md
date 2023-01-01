@@ -6,7 +6,7 @@
 
 - b) la date de publication au Journal de Monaco du récépissé de la déclaration d'existence au Secrétariat Général du Gouvernement ;
 
-- c) le nom et l'adresse du donateur ;
+- c)le nom et l'adresse du donateur ;
 
 - d) un inventaire détaillé retraçant la date du don, la nature et la quantité des biens donnés.
 

@@ -12,7 +12,7 @@ Les factures délivrées par les assujettis désignés au II de l'article 94 du 
 
   - b) genre ;
 
-  - c) marque ;
+  - c)marque ;
 
   - d) type ;
 

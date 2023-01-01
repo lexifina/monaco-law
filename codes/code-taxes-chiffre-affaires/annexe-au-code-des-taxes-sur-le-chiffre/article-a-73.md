@@ -16,7 +16,7 @@ III. - 1. Le coefficient de taxation d'un bien ou d'un service est égal à l'un
 
   - b. Et, au dénominateur, le montant total annuel du chiffre d'affaires afférent aux opérations imposables, y compris les subventions directement liées au prix de ces opérations.
 
-- Les sommes mentionnées aux deux termes de ce rapport s'entendent tous frais et taxes compris, à l'exclusion de la taxe sur la valeur ajoutée ;
+  - Les sommes mentionnées aux deux termes de ce rapport s'entendent tous frais et taxes compris, à l'exclusion de la taxe sur la valeur ajoutée ;
 
 - 2° Lorsqu'un assujetti a constitué des secteurs distincts d'activité en application de l'article A-76, le chiffre d'affaires à retenir pour le calcul du rapport mentionné au 1° est celui du ou des secteurs pour lesquels le bien ou le service est utilisé ;
 
