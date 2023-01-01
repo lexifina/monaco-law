@@ -1,165 +1,233 @@
 # Article 2
 
-PERMIS DE CONDUIRE ET LIVRET PROFESSIONNEL
+PERMIS DE CONDUIRE
 
-- - Droits d'inscription aux épreuves permettant l'obtention d'une première catégorie d'un permis de conduire (hors catégorie AM) | 113,00 euro(s)
+Inscription aux épreuves pour une 1ère catégorie (hors catégorie AM) | 115,00€
 
-- Droits d'inscription aux épreuves permettant l'obtention d'une catégorie supplémentaire de permis de conduire (hors catégorie AM) | 53,00 euro(s)
+Inscription aux épreuves pour une catégorie supplémentaire (hors catégorie AM) | 53,00 €
 
-- Droits d'inscription aux épreuves permettant l'obtention d'un permis de conduire de catégorie AM | 43,00 euro(s)
+Inscription aux épreuves de la catégorie AM | 43,00 €
 
-Droits d'inscription pour le contrôle des aptitudes à la conduite d'un véhicule d'une première catégorie | 113,00 euro(s)
+Échange d'un permis de conduire étranger | 115,00 €
 
-Droits d'inscription pour le contrôle des aptitudes à la conduite d'un véhicule d'une catégorie ou d'une sous-catégorie supplémentaire | 53,00 euro(s)
+Inscription au contrôle des aptitudes à la conduite d'un véhicule pour une 1ère catégorie | 115,00 €
 
-- Droits permettant de se présenter à de nouvelles épreuves après échec (toutes catégories) | 30,00 euro(s)
+Inscription au contrôle des aptitudes à la conduite d'un véhicule pour une catégorie supplémentaire | 53,00 €
 
-- Modification substantielle du dossier (changement d'auto-école ou de catégorie de permis de conduire) | 25,00 euro(s)
+Inscription à une nouvelle épreuve après échec | 30,00 €
 
-Frais d'absence ou de retard non excusé à une épreuve du permis de conduire | 42,00 euro(s)
+Inscription à une nouvelle épreuve après une absence ou un retard non excusé à une épreuve | 43,00 €
 
-- Échange d'un permis de conduire étranger : | 80,00 euro(s)
+Permis de conduire international | 30,00 €
 
-- Modification d'un permis de conduire après changement d'état civil | 19,00 euro(s)
+Modification substantielle d'un dossier d'inscription (changement d'auto-école ou de catégorie de permis de conduire) | 20,00 €
 
-- Renouvellement d'un permis de conduire après visite médicale toutes catégories | 25,00 euro(s)
+Renouvellement d'un permis de conduire | 25,00 €
 
-- Délivrance d'un duplicata de permis de conduire : | 20,00 euro(s)
+Modification ou duplicata d'un permis de conduire | 20,00 €
 
-- Délivrance d'un permis de conduire international : | 30,00 euro(s)
+TITRES PROFESSIONNELS & TRANSPORTS
 
-Droits d'inscription aux épreuves permettant l'obtention d'un livret professionnel | 113,00 euro(s)
+Inscription aux épreuves permettant l'obtention d'un livret professionnel | 115,00 €
 
-- Délivrance d'un livret professionnel, renouvellement, duplicata | 30,00 euro(s)
+Renouvellement, duplicata d'un livret professionnel | 30,00 €
 
-- Délivrance ou renouvellement d'une carte professionnelle (TST) ou moniteurs des écoles de conduite | 28,00 euro(s)
+Délivrance, renouvellement et duplicata d'une carte professionnelle de transport sanitaire terrestre et de moniteur de conduite | 30,00 €
+
+Carte chronotachygraphe ou duplicata | 245,00 €
+
+Autorisation ponctuelle d'utilisation de véhicule auxiliaire de grande remise | 15,00 €
+
+Autorisation annuelle d'utilisation de véhicule auxiliaire de grande remise | 180,00 €
+
+Duplicata autorisation annuelle d'utilisation de véhicule auxiliaire de grande remise | 20,00 €
+
+Attestation d'aménagement de véhicule de transport en commun de personnes | 115,00 €
+
+Jeu de plaquettes grande remise | 30,00 €
+
+Autocollant taxi ou duplicata | 10,00 €
+
+Autocollant motos à la demande ou duplicata | 10,00 €
 
 VISITE TECHNIQUE
 
-Visite technique de véhicule (thermique, hybride, électrique) d'un Poids Total Autorisé en Charge (P.T.A.C.) inférieur ou égal à 3,5 tonnes | 57,00 euro(s)
+Visite technique d'un véhicule d'un Poids Total Autorisé en Charge (P.T.A.C.) inférieur ou égal à 3,5 tonnes | 58,00 €
 
-Visite technique de véhicule (thermique, hybride, électrique) d'un Poids Total Autorisé en Charge (P.T.A.C.) supérieur à 3,5 tonnes et de Transport en Commun de Personne (T.C.P.) | 89,00 euro(s)
+Visite technique d'un véhicule d'un Poids Total Autorisé en Charge (P.T.A.C.) supérieur à 3,5 tonnes et de Transport en Commun de Personne (T.C.P.) | 90,00 €
 
--Visite technique de wagonnet de transport en commun | 41,00 euro(s)
+Visite technique de wagonnet de transport en commun | 43,00 €
 
-Frais d'absence ou de retard non excusé - Tous véhicules | 20,00 euro(s)
+Nouvelle visite technique après une absence ou un retard non excusé | 20,00 €
 
-ESTAMPILLE ANNUELLE DES VÉHICULES AUTOMOBILES
+IMMATRICULATION DES VÉHICULES (HORS VÉHICULES PARTICULIERS, CYCLOMOTEURS, MOTOCYCLES, TRICYCLES, QUADRICYCLES APPARTENANT À DES SOCIÉTÉS)
 
-- Véhicules appartenant à des particuliers ou à des associations : | 47,00 euro(s)
+Attestation provisoire ou duplicata (immatriculation garage) | 15,00 €
 
-- Véhicules utilitaires utilisés pour les besoins d'une activité professionnelle, commerciale | 47,00 euro(s)
+Cyclomoteur non électrique | 60,00 €
 
-Véhicules électriques dont la source d'énergie est EL | 00,00 euro(s)
+Cyclomoteur 100% électrique | 40,00 €
 
-- Véhicules publics, auto-écoles, ambulances, de démonstration, de courtoisie, de transport public routier de personnes (nombre de places supérieurs ou égal à 7) | 47,00 euro(s)
+Cyclomoteur immatriculé en série « Z » ou « TT » | 542,00 €
 
-- Véhicules non utilitaires de puissance inférieure ou égale à 4 chevaux immatriculés au nom de commerces ou de sociétés | 166,00 euro(s)
+Cyclomoteur immatriculé en série W garage | 55,00 €
 
-- Véhicules non utilitaires de puissance comprise entre 5 et 6 chevaux immatriculés au nom de commerces ou de sociétés | 185,00 euro(s)
+Cyclomoteur immatriculé en série W0 garage | 85,00 €
 
-- Véhicules non utilitaires de puissance comprise entre 7 et 8 chevaux immatriculés au nom de commerces ou de sociétés | 332,00 euro(s)
+Motocycle, tricycle, quadricycle non électrique | 77,00 €
 
-- Véhicules non utilitaires de puissance comprise entre 9 et 11 chevaux immatriculés au nom de commerces ou de sociétés | 807,00 euro(s)
+Motocycle, tricycle, quadricycle 100% électrique | 40,00 €
 
-- Véhicules non utilitaires de puissance comprise entre 12 et 16 chevaux immatriculés au nom de commerces ou de sociétés | 940,00 euro(s)
+Motocycle, tricycle et quadricycle immatriculé en série « Z » ou « TT » | 542,00 €
 
-- Véhicules non utilitaires de puissance comprise entre 17 et 25 chevaux immatriculés au nom de commerces ou de sociétés | 1128,00 euro(s)
+Motocycle, tricycle, quadricycle en série W garage | 72,00 €
 
-- Véhicules non utilitaires de puissance comprise entre 26 et 39 chevaux (inclus) immatriculés au nom de commerces ou de sociétés | 1233,00 euro(s)
+Motocycle, tricycle, quadricycle en série W0 garage | 102,00 €
 
-- Véhicules non utilitaires de puissance comprise entre 40 et 53 chevaux (inclus) immatriculés au nom de commerces ou de sociétés | 1336,00 euro(s)
+Véhicule léger ou poids lourd non électrique | 107,00 €
 
-- Véhicules non utilitaires de puissance à partir de 54 chevaux immatriculés au nom de commerces ou de sociétés | 1448,00 euro(s)
+Véhicule léger ou poids lourd 100% électrique | 60,00 €
 
-- Véhicules immatriculés en série « Z » ou « TT » : | 502,00 euro(s)
+Véhicule léger ou poids lourd immatriculé en série W garage | 102,00 €
 
-Véhicules immatriculés en série de collection | 47,00 euro(s)
+Véhicule léger ou poids lourd immatriculé en série W0 garage | 132,00 €
 
-ESTAMPILLE ANNUELLE DES CYCLOMOTEURS, MOTOCYCLES, TRICYCLES ET QUADRICYCLES
+Véhicule léger ou poids lourds immatriculé en série « Z » ou « TT » | 562,00 €
 
-- Cyclomoteurs | 20,00 euro(s)
+Remorque de plus de 750 kg | 87,00 €
 
-- Motocycles, tricycles, quadricycles | 37,00 euro(s)
+IMMATRICULATION DES VÉHICULES PARTICULIERS, CYCLOMOTEURS, MOTOCYCLES, TRICYCLES, QUADRICYCLES APPARTENANT À DES SOCIÉTÉS
 
-Cyclomoteurs dont la source d'énergie est EL | 00,00 euro(s)
+Cyclomoteur non électrique | 68,00 €
 
-Motocycles, tricycles, quadricycles électriques dont la source d'énergie est EL | 00,00 euro(s)
+Cyclomoteur 100% électrique | 40,00 €
 
-- Cyclomoteurs d'une cylindrée inférieure ou égale à 50 cm3 immatriculés au nom de commerces ou de sociétés | 28,00 euro(s)
+Motocycle, tricycle, quadricycle d'une cylindrée inférieure ou égale à 125 cm3 | 93,00 €
 
-- - Motocycles, tricycles, quadricycles d'une cylindrée inférieure ou égale à 125 cm3 immatriculés au nom de commerces ou de sociétés | 53,00 euro(s)
+Motocycle, tricycle, quadricycle d'une cylindrée supérieure à 125 cm3 | 118,00 €
 
-- Motocycles, tricycles, quadricycles d'une cylindrée supérieure à 125 cm3 immatriculés au nom de commerces ou de sociétés | 78,00 euro(s)
+Motocycle, tricycle, quadricycle 100% électrique | 40,00 €
 
-- Cyclomoteurs, motocycles, tricycles et quadricycles immatriculés en série « Z » ou « TT » | 502,00 euro(s)
+Véhicule de puissance inférieure ou égale à 4 chevaux | 226,00 €
 
-ESTAMPILLE REMORQUES
+Véhicule de puissance comprise entre 5 et 6 chevaux | 245,00 €
 
-- Remorque de moins de 750 kg : | 00,00 euro(s)
+Véhicule de puissance comprise entre 7 et 8 chevaux | 392,00 €
 
-- Remorque de plus de 750 kg : | 47,00 euro(s)
+Véhicule de puissance comprise entre 9 et 11 chevaux | 867,00 €
 
-SORTIE
+Véhicule de puissance comprise entre 12 et 16 chevaux | 1 000,00 €
 
-Certificat pour l'immatriculation à l'étranger : | 14,00 euro(s)
+Véhicule de puissance comprise entre 17 et 25 chevaux | 1 188,00 €
 
-Autorisation de retrait du fichier des immatriculations | 14,00 euro(s)
+Véhicule de puissance comprise entre 26 et 39 chevaux | 1 288,00 €
 
-Autorisation de destruction de véhicule | 14,00 euro(s)
+Véhicule de puissance comprise entre 40 et 53 chevaux | 1 391,00 €
 
-- Certificat d'immatriculation (ou duplicata) provisoire « WW » : | 19,00 euro(s)
+Véhicule de puissance à partir de 54 chevaux | 1 508,00 €
 
-PLAQUES
+Véhicule 100% électrique | 60,00 €
 
-- Bande autocollante WW avant ou arrière ou duplicata | 10,00 euro(s)
+IMMATRICULATION PROVISOIRE
 
-- Plaque minéralogique avant ou arrière : | 20,00 euro(s)
+Immatriculation provisoire (WW) véhicules | 40,00 €
 
-- Jeu de plaquettes Grande Remise : | 30,00 euro(s)
+Immatriculation provisoire (WW) cyclomoteur, Motocycle, tricycle, quadricycle | 30,00 €
 
-- Plaque spéciale pour collectionneurs : | 25,00 euro(s)
+Duplicata de plaque minéralogique provisoire (WW) avant ou arrière | 10,00 €
+
+Modification ou duplicata du certificat d'immatriculation provisoire | 20,00 €
+
+CERTIFICAT, REGISTRE ET PLAQUE D'IMMATRICULATION
+
+Modification ou duplicata du certificat d'immatriculation | 20,00 €
+
+Carte « W0 » ou duplicata délivrée aux professionnels de l'automobile | 20,00 €
+
+Duplicata de plaque minéralogique avant ou arrière | 20,00 €
+
+Enregistrement d'une remorque de moins de 750 kg | 40,00 €
+
+Plaque minéralogique spéciale pour collectionneurs | 25,00 €
+
+Carnet à souches « WW » délivré aux professionnels de l'automobile | 180,00 €
+
+Registre « WW » délivré aux professionnels de l'automobile | 43,00 €
+
+Registre « W0 » délivré aux professionnels de l'automobile | 25,00 €
+
+Carnet à souches « Véhicule de Collection » | 25,00 €
+
+SORTIE DE VÉHICULE
+
+Certificat pour l'immatriculation à l'étranger | 15,00 €
+
+Autorisation de retrait du fichier des immatriculations | 15,00 €
+
+Autorisation de destruction de véhicule | 15,00 €
+
+ESTAMPILLE ANNUELLE DES VÉHICULES (HORS VÉHICULES PARTICULIERS, CYCLOMOTEURS, MOTO/TRI/QUADRICYCLES APPARTENANT À DES SOCIÉTÉS)
+
+Cyclomoteur non électrique | 21,00 €
+
+Cyclomoteur 100% électrique | 00,00 €
+
+Motocycle, tricycle, quadricycle | 38,00 €
+
+Motocycle, tricycle, quadricycle 100% électrique | 00,00 €
+
+Tout véhicule immatriculé en série « Z » ou « TT » | 512,00 €
+
+Véhicule léger ou poids lourd non électrique | 48,00 €
+
+Véhicule léger ou poids lourd 100% électrique | 00,00 €
+
+ESTAMPILLE ANNUELLE DES VÉHICULES PARTICULIERS, CYCLOMOTEURS, MOTO/TRI/QUADRICYCLESAPPARTENANT À DES SOCIÉTÉS
+
+Cyclomoteur non électrique | 29,00 €
+
+Cyclomoteur 100% électrique | 00,00 €
+
+Motocycle, tricycle, quadricycle d'une cylindrée inférieure ou égale à 125 cm3 | 54,00 €
+
+Motocycle, tricycle, quadricycle d'une cylindrée supérieure à 125 cm3 | 79,00 €
+
+Motocycle, tricycle, quadricycle 100% électrique | 00,00 €
+
+Remorque de plus de 750 kg | 48,00 €
+
+Véhicule de puissance inférieure ou égale à 4 chevaux | 169,00 €
+
+Véhicule de puissance comprise entre 5 et 6 chevaux | 188,00 €
+
+Véhicule de puissance comprise entre 7 et 8 chevaux | 338,00 €
+
+Véhicule de puissance comprise entre 9 et 11 chevaux | 823,00 €
+
+Véhicule de puissance comprise entre 12 et 16 chevaux | 958,00 €
+
+Véhicule de puissance comprise entre 17 et 25 chevaux | 1 150,00 €
+
+Véhicule de puissance comprise entre 26 et 39 chevaux | 1 257,00 €
+
+Véhicule de puissance comprise entre 40 et 53 chevaux | 1 362,00 €
+
+Véhicule de puissance supérieure ou égale à 54 chevaux | 1 476,00 €
+
+Véhicule léger ou poids lourd 100% électrique | 00,00 €
 
 DIVERS
 
-- Estampille détériorée ou perdue | 10,00 euro(s)
+Duplicata d'estampille détériorée ou perdue | 10,00 €
 
-- Frais de retard de paiement estampille (tous véhicules) | 40,00 euro(s)
+Frais de retard de paiement de l'estampille par véhicule | 40,00 €
 
--Frais de régularisation d'un véhicule (tous véhicules) | 68,00 euro(s)
+Frais de régularisation d'un véhicule radié du registre des immatriculations | 70,00 €
 
-- Attestation | 15,00 euro(s)
+Attestation | 15,00 €
 
-- Copie d'un document constituant un dossier (Copie C.O.C, acte de vente, procès-verbal de contrôle technique[mldr].) | 10,00 euro(s)
+Inscription/radiation de gage | 15,00 €
 
-- Carte tachygraphique ou duplicata (chronotachygraphe numérique) | 245,00 euro(s)
+Copie d'un document constituant un dossier | 10,00 €
 
-- Autocollant taxi ou duplicata | 10,00 euro(s)
-
-- Carnet à souches « WW » délivré aux professionnels de l'automobile : | 178,00 euro(s)
-
-- Registre « WW » délivré aux professionnels de l'automobile : | 43,00 euro(s)
-
-- Registre « W0 » délivré aux professionnels de l'automobile : | 25,00 euro(s)
-
-- Carnet à souches « Véhicule de Collection » : | 25,00 euro(s)
-
-- Inscription/radiation de gage : | 14,00 euro(s)
-
-- Attestation de non inscription de gage (non gage à 8 jours) : | 15,00 euro(s)
-
-Autorisation ponctuelle d'utilisation des véhicules auxiliaires (véhicule de remise) | 15,00 euro(s)
-
-Autorisation annuelle réservée aux véhicules auxiliaires de grande remise | 172,00 euro(s)
-
-- Attestation d'aménagement (transport en commun de personnes) : | 115,00 euro(s)
-
-- Autocollant motos à la demande ou duplicata | 10,00 euro(s)
-
-- Duplicata de facture, récépissé de versement et attestation de paiement | 10,00 euro(s)
-
-- Établissement, modification, duplicata du certificat d'immatriculation | 19,00 euro(s)
-
-- Carte « W0 » délivrée aux professionnels de l'automobile : | 19,00 euro(s)
-
-- Attestation provisoire ou duplicata (immatriculation garage) : | 15,00 euro(s)
+Duplicata de facture, récépissé de versement et attestation de paiement | 10,00 €
