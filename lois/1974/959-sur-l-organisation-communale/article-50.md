@@ -6,8 +6,8 @@ Le Maire peut, dans les conditions fixées au précédent alinéa, donner délé
 
 - 1°) à un ou plusieurs conseillers communaux ;
 
-- 2°) au secrétaire général de la mairie ;
+- 2°) au secrétaire général de la mairie, directeur du personnel ;
 
-- 3°) au secrétaire de mairie.
+- 3°) au secrétaire général adjoint de la mairie.
 
 En cas d'absence ou d'empêchement, le Maire est remplacé dans ses fonctions par un adjoint désigné par arrêté municipal ou, à défaut, par l'un des adjoints selon l'ordre de nomination ou, en cas d'impossibilité, par un conseiller communal selon l'ordre du tableau.
