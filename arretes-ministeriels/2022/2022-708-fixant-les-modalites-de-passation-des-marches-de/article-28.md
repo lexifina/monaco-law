@@ -1,0 +1,3 @@
+# Article 28
+
+Ne peut être employé sur le chantier que du personnel employé soit par l'opérateur économique attributaire du marché, soit par ses sous-traitants, soit par une société de travail temporaire implantée dans la Principauté. Le pourcentage de travailleurs intérimaires ne peut excéder 35 % du personnel total intervenant sur le chantier pour le compte de l'opérateur économique. Le calcul de ce pourcentage exclut le nombre de personnels intervenant pour le compte des sous-traitants, lesquels sont tenus de respecter le même pourcentage pour leurs propres travailleurs intérimaires. Le respect de cette disposition est apprécié dans le cadre de la fiche qualité.

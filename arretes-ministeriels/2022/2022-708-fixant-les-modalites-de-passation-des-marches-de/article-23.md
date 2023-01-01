@@ -1,0 +1,5 @@
+# Article 23
+
+Les opérateurs économiques ont l'obligation de répondre strictement à la solution de base et aux éventuelles variantes obligatoires décrites dans le Dossier de Consultation des Entreprises. L'opérateur économique peut éventuellement, sous réserve d'une autorisation mentionnée dans ledit dossier, proposer à l'État, une solution variante en motivant et en détaillant techniquement sa proposition. Les prestations décrites dans le Dossier de Consultation des Entreprises correspondent aux exigences qui ne sauraient être dégradées dans le cadre d'une proposition variante. Celle-ci doit revêtir le formalisme administratif à l'identique de l'offre de base, ainsi que du Cahier des Clauses Techniques Particulières de base modifié ou des documents s'y apparentant.
+
+Dans l'hypothèse où un opérateur économique propose des solutions variantes, les offres relatives à celles-ci ne sont prises en considération que dans la mesure où l'offre de l'opérateur économique relative à la solution de base est jugée recevable.
