@@ -26,7 +26,7 @@ Ayant présente à l'esprit la nécessité permanente de mener et de promouvoir 
 
 Ayant aussi présente à l'esprit l'importance de l'éducation permanente des sportifs, du personnel d'encadrement des sportifs et de la société dans son ensemble pour prévenir le dopage,
 
-Consciente de la nécessité de donner aux Etats parties des moyens accrus de mettre en œuvre des programmes antidopage,
+Consciente de la nécessité de donner aux États parties des moyens accrus de mettre en œuvre des programmes antidopage,
 
 Consciente que les pouvoirs publics et les organisations sportives ont des responsabilités complémentaires pour ce qui est de prévenir et de combattre le dopage dans le sport, en particulier pour veiller au bon déroulement, dans un esprit de franc-jeu, des manifestations sportives et pour protéger la santé de ceux qui y prennent part,
 

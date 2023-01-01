@@ -1,6 +1,6 @@
 # Article 27
 
-Les Etats parties encouragent :
+Les États parties encouragent :
 
 - (a) les scientifiques et le corps médical à mener des recherches en sciences du sport en conformité avec les principes énoncés dans le Code ;
 

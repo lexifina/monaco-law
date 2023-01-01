@@ -1,6 +1,6 @@
 # Article 11
 
-Selon que de besoin, les Etats parties :
+Selon que de besoin, les États parties :
 
 - (a) inscrivent à leur budget le financement d'un programme national de contrôles dans toutes les disciplines sportives ou aident les organisations sportives et les organisations antidopage à financer des contrôles antidopage, soit en leur octroyant directement des subventions ou des allocations, soit en tenant compte du coût de ces contrôles lorsqu'ils déterminent le montant global de ces subventions ou allocations ;
 
