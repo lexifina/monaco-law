@@ -10,7 +10,7 @@
 
 - - quiconque aura sciemment participé à l'une des infractions établies conformément au présent article ou à toute autre association, entente, tentative ou complicité par fourniture d'une assistance, d'une aide ou de conseils en vue de sa commission.
 
-L'élément moral d'une infraction visée ci-dessus peut être déduit de circonstances factuelles objectives.
+- L'élément moral d'une infraction visée ci-dessus peut être déduit de circonstances factuelles objectives.
 
 2° En cas de circonstance aggravante, la peine encourue sera de dix à vingt ans d'emprisonnement ainsi que l'amende prévue au chiffre 4 de l'article 26, dont le maximum pourra être multiplié par vingt.
 
