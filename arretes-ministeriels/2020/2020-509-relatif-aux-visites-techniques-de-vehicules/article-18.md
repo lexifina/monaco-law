@@ -1,7 +1,5 @@
 # Article 18
 
-Si le propriétaire néglige de présenter son véhicule à la visite technique périodique selon les périodicités édictées aux articles 4 à 9, l'immatriculation sera automatiquement radiée du registre des immatriculations à la date d'échéance.
+Si le propriétaire néglige de présenter son véhicule à l'échéance de la visite technique périodique mentionnée sur le certificat d'immatriculation ou avant l'échéance de la contre-visite ou de la deuxième contre-visite dans le délai imparti et mentionné sur le procès-verbal, il n'est plus autorisé à maintenir son véhicule en circulation, jusqu'à la réalisation d'une visite technique vérifiant qu'il est en bon état de marche et en état satisfaisant d'entretien.
 
-Si le propriétaire néglige de présenter son véhicule à la première contre-visite ou à la deuxième contre-visite, au plus tard à la date d'échéance, l'immatriculation sera également automatiquement radiée du registre des immatriculations à la date d'échéance.
-
-Le propriétaire du véhicule radié devra restituer le certificat et les plaques d'immatriculation et s'acquitter des frais de régularisation fixés annuellement par arrêté ministériel en vue de solliciter la régularisation du véhicule.
+Le propriétaire du véhicule devra s'acquitter de frais de régularisation et solliciter un nouveau rendez-vous de visite technique. Le véhicule sera autorisé à circuler sur la voie publique pour effectuer le trajet entre le domicile du propriétaire ou le lieu de réparation et le centre de contrôle technique des véhicules uniquement le jour du rendez-vous de visite technique stipulé sur la convocation correspondante.

@@ -16,6 +16,12 @@ Pour l'application du présent arrêté, les véhicules sont identifiés selon l
 
 - O 3 et O 4 : Remorques conçues et construites pour le transport de marchandises ou de personnes, ainsi que pour l'hébergement de personnes, ayant une masse maximale supérieure à 3,5 tonnes,
 
-- T1, T2, T3, T4 et T5 : Tracteurs agricoles.
+- T1, T2, T3, T4 et T5 : Tracteurs agricoles ;
+
+- C : Tracteurs agricoles à chenilles ou à chenilles et à roues,
+
+- R1, R2, R3 et R4 : Remorques agricoles,
+
+- S1 et S2 : Engins interchangeables tractés.
 
 Ces véhicules sont classés en 7 catégories.
