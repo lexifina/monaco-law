@@ -1,11 +1,23 @@
 # Article 6
 
-Sauf en ce concerne les emplois supérieurs visés à l'article 4 de la loi n° 975 du 12 juillet 1975, les fonctionnaires sont recrutés par voie de concours ouverts aux candidats remplissant les conditions d'aptitude qui y seront prévues, compte tenu des besoins des services et des fonctions à exercer.
+Pour l'application de l'article 20-2 de la loi n° 975 du 12 juillet 1975, modifiée, lorsqu'un emploi est à pourvoir, la Direction des Ressources Humaines et de la Formation de la Fonction Publique procède à la diffusion d'une circulaire.
 
-Il pourra, à cet effet, être exigé des candidats qu'ils justifient, selon la fonction considérée :
+La circulaire visée à l'alinéa précédent mentionne notamment :
 
-- 1° pour les emplois de la catégorie « A » d'un diplôme de l'enseignement supérieur ou bien du titre spécifique afférent à la fonction ou encore d'au moins une formation générale s'établissant au niveau de ces diplômes.
+- 1°) l'obligation de posséder la nationalité monégasque ;
 
-- 2° pour les emplois de la catégorie « B » d'un diplôme de l'enseignement du second degré ou bien du titre spécifique afférent à la fonction ou encore d'une formation générale s'établissant au niveau de ce diplôme.
+- 2°) l'obligation d'être fonctionnaire ;
 
-- 3° pour les emplois des catégories « C » et « D » d'une formation générale s'établissant au niveau de l'enseignement du premier cycle du second degré ou bien d'une formation technique s'établissant au niveau de l'enseignement technique court ou encore d'une formation pratique.
+- 3°) la durée minimale de service exigée ou l'expérience requise dans le domaine ou l'exercice de la fonction considérée ;
+
+- 4°) le nombre, la nature et, s'il y a lieu, la catégorie des emplois à pourvoir ainsi que les indices hiérarchiques majorés extrêmes caractérisant les échelles indiciaires y afférentes ;
+
+- 5°) le cas échéant, l'âge minimal et maximal des candidats ainsi que, pour certaines fonctions, les conditions d'aptitude physique particulières qu'ils doivent remplir ;
+
+- 6°) le délai dans lequel les candidatures doivent parvenir auprès de la Direction des Ressources Humaines et de la Formation de la Fonction Publique ainsi que les pièces à produire à l'appui de celles-ci ;
+
+- 7°) la composition du jury de sélection, lequel comprend des représentants de l'Administration ;
+
+- 8°) les modalités de sélection des candidats à l'occasion de l'évaluation professionnelle.
+
+Les dossiers de candidature incomplets ou transmis hors délai seront déclarés irrecevables.

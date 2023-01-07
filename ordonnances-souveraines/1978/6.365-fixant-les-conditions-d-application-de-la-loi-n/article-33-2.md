@@ -1,6 +1,6 @@
 # Article 33-2
 
-La durée du congé de paternité est fixée à douze jours calendaires consécutifs en cas de naissance simple. Elle est portée à dix-neuf jours calendaires consécutifs en cas de naissances multiples ou si le foyer a déjà au moins deux enfants à charge.
+La durée du congé de paternité est fixée à vingt‑et‑un jours calendaires consécutifs en cas de naissance simple. Elle est portée à vingt-huit jours calendaires consécutifs en cas de naissances multiples ou si le foyer a déjà au moins deux enfants à charge.
 
 Le congé de paternité doit débuter dans les quatre mois qui suivent la naissance de l'enfant.
 

@@ -16,4 +16,4 @@ Les fonctions afférentes à chacune des catégories d'emplois permanents de l'�
 
 - par le contrôle de l'exécution de ces mesures particulières.
 
-3° Les fonctions qui sont exercées dans les emplois des catégories « C » et « D » sont caractérisées par la participation soit à la mise en œuvre des décisions administratives au moyen de mesures d'exécution appropriées, soit au fonctionnement matériel du service public.
+3° Les fonctions qui sont exercées dans les emplois de la catégorie « C » sont caractérisées par la participation soit à la mise en œuvre des décisions administratives au moyen de mesures d'exécution appropriées, soit au fonctionnement matériel du service public.

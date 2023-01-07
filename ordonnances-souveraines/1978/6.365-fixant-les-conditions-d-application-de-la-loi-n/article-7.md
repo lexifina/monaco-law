@@ -1,3 +1,5 @@
 # Article 7
 
-Peuvent toutefois être admis à concourir en vue de l'accession à un emploi relevant de la même catégorie ou de la catégorie immédiatement supérieure à celle dans laquelle ils ont été recrutés, les fonctionnaires ou agents en fonction qui, à défaut de remplir les conditions d'aptitude prévues aux chiffres 1°, 2° et 3° de l'article 6, justifient d'une durée minimale de service fixée lors de chaque ouverture de concours.
+La liste des candidats fonctionnaires remplissant les conditions de la circulaire visée à l'article précédent est fixée par la Direction des Ressources Humaines et de la Formation de la Fonction Publique.
+
+Ces fonctionnaires candidats sont informés par la Direction des Ressources Humaines et de la Formation de la Fonction Publique, en temps utile, des modalités de l'évaluation professionnelle.
