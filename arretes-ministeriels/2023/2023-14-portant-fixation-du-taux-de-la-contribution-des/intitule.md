@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-14 du 5 janvier 2023 portant fixation du taux de la contribution des employeurs et de la Caisse de Congés Payés du Bâtiment au « Fonds Complémentaire de Réparation des Accidents du Travail et des Maladies Professionnelles » au titre de l'année 2023
