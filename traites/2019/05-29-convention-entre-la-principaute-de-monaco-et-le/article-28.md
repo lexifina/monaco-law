@@ -1,0 +1,3 @@
+# Article 28
+
+La présente Convention demeurera en vigueur jusqu'à sa dénonciation par un État contractant. Toutefois, après une période de cinq années civiles suivant la date d'entrée en vigueur de la Convention, chacun des États contractants pourra la dénoncer moyennant un préavis notifié par la voie diplomatique au moins six mois avant la fin de toute année civile. Dans ce cas, la Convention cessera d'être applicable au titre des impôts sur les revenus générés au cours de toute année calendaire ou période comptable, selon le cas, commençant le ou après le 1er janvier suivant immédiatement la date à laquelle la notification est donnée.
