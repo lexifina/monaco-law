@@ -8,4 +8,4 @@ Eu égard à la situation sanitaire, peut administrer, avec ou sans prescription
 
 Toutefois, les professionnels de santé mentionnés aux chiffres 1 et 2 ne peuvent administrer cette vaccination que s'ils ont suivi soit un enseignement relatif à la vaccination dans le cadre de leur formation initiale, soit la formation relative aux vaccinations pouvant être administrées par les pharmaciens d'officine prévue par la réglementation française.
 
-L'honoraire de vaccination est fixé à 6,30 euros hors taxe.
+L'honoraire de vaccination est fixé à 7,50 euros toutes taxes comprises (TTC).
