@@ -1,0 +1,7 @@
+Vu l'Ordonnance Souveraine du 1er avril 1921 réglementant l'exercice de la médecine, modifiée ;
+
+Vu l'arrêté ministériel n° 99-379 du 30 août 1999 déterminant les actes médicaux ne pouvant être pratiqués que par des médecins ou pouvant être pratiqués également par des auxiliaires médicaux, modifié ;
+
+Vu l'avis du Comité de la santé publique en date du 14 décembre 2022 ;
+
+Vu la délibération du Conseil de Gouvernement en date du 11 janvier 2023 qui Nous a été communiquée par Notre Ministre d'État ;
