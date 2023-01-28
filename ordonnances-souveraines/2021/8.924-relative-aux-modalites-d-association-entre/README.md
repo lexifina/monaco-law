@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.924 du 23 novembre 2021 relative aux modalités d'association entre orthophonistes
 
-Version en vigueur au 27 novembre 2021.
+Version en vigueur au 28 janvier 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/11-23-8.924@2021.11.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/11-23-8.924@2023.01.28/
 
 | | |
 | --- | --- |
