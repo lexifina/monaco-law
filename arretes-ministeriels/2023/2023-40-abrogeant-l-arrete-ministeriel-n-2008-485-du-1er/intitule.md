@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-40 du 20 janvier 2023 abrogeant l'arrêté ministériel n° 2008-485 du 1er septembre 2008 réglementant les conditions de délivrance des autorisations d'exercer aux auxiliaires médicaux, modifié
