@@ -1,3 +1,0 @@
-# Article 11
-
-Les bouches de reprise des eaux placées dans le radier, les parois des bassins ou en surface de manière horizontale à un angle du bassin doivent être en nombre suffisant et conçues de manière à éviter qu'un usager puisse s'y trouver plaqué, aspiré sur tout ou partie du corps ou par les cheveux. Elles sont munies de grilles ou de tout dispositif conçu pour ne pas plier ou casser et ne pas blesser l'usager. Ces grilles doivent être vissées ou comporter un système de verrouillage interdisant leur ouverture par les usagers. Ce système de fixation ou verrouillage fait l'objet d'une vérification périodique.
