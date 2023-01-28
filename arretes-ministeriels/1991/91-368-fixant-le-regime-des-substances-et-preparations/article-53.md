@@ -1,6 +1,6 @@
 # Article 53
 
-Les établissements mentionnés à l'article 31 de la loi n° 1.029 du 16 juillet 1980, sont soumis aux dispositions de la présente section lorsqu'ils ont un pharmacien gérant.
+Les établissements mentionnés à l'article 90 de la loi n° 1.518 du 23 décembre 2021, susmentionnée, sont soumis aux dispositions de la présente section lorsqu'ils ont un pharmacien gérant.
 
 Les établissements sans pharmacien gérant ne peuvent détenir les médicaments mentionnés à la présente section que pour soins urgents et à la condition qu'un médecin attaché à l'établissement accepte la responsabilité de leur dépôt.
 

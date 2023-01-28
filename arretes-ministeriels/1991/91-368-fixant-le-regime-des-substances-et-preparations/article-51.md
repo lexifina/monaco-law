@@ -1,6 +1,6 @@
 # Article 51
 
-L'emballage extérieur des médicaments et produits mentionnés aux articles 43, 51, 80 de la loi n° 1.029 du 16 juillet 1980, relevant de la présente section, comporte :
+L'emballage extérieur des médicaments et produits mentionnés à l'article 2 de la loi n° 1.254 du 12 juillet 2002, modifiée, susmentionnée, à l'article 2 de la loi n° 1.257 du 12 juillet 2002, susmentionnée, et à l'article 80 de la loi n° 1.029 du 16 juillet 1980, modifiée, susvisée, relevant de la présente section, comporte :
 
 - 1° si ces médicaments et produits sont destinés à l'homme, un espace blanc, entouré d'un filet coloré, dans lequel le pharmacien, le médecin ou l'opticien-lunetier dispensateur inscrit son nom, son adresse, le numéro d'ordre prévu à l'article 48 et la posologie prescrite ;
 
