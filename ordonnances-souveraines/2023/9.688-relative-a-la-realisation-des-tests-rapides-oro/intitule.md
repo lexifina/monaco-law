@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.688 du 20 janvier 2023 relative à la réalisation des tests rapides oro-pharyngés d'orientation diagnostique des angines à streptocoque du groupe A par les pharmaciens d'officine
