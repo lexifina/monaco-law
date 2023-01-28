@@ -1,6 +1,6 @@
 # Article 3
 
-La liste des vaccinations qu'une sage-femme peut prescrire ou pratiquer chez l'entourage de l'enfant ou de la femme enceinte, dans le respect des dispositions y afférentes de l'article 6 de l'Ordonnance du 29 mai 1894, modifiée, susvisée, est fixée comme suit :
+La liste des vaccinations qu'une sage-femme peut prescrire ou pratiquer chez l'entourage de l'enfant ou de la femme enceinte, dans le respect des dispositions y afférentes de l'article 6 de l'Ordonnance du 29 mai 1894, modifiée, susvisée, et à l'exception des vaccins vivants atténués chez l'entourage immunodéprimé, est fixée comme suit :
 
 - 1) vaccination contre la rubéole, la rougeole et les oreillons ;
 
@@ -34,6 +34,10 @@ La liste des vaccinations qu'une sage-femme peut prescrire ou pratiquer chez l'e
 
 - 16) vaccination contre la grippe saisonnière ;
 
-- 17) vaccination à titre préventif contre la rage.
+- 17) vaccination à titre préventif contre la rage. Pour ces vaccinations, la sage-femme prescrit ou utilise des vaccins monovalents ou associés ;
 
-- Pour ces vaccinations, la sage-femme prescrit ou utilise des vaccins monovalents ou associés.
+- 18) vaccination contre la varicelle ;
+
+- 19) vaccination contre la fièvre jaune ;
+
+- 20) vaccination contre le zona.

@@ -1,6 +1,6 @@
 # Article 1er
 
-La liste des vaccinations qu'une sage-femme peut prescrire ou pratiquer chez la femme est fixée comme suit :
+La liste des vaccinations qu'une sage-femme peut prescrire ou pratiquer chez la femme, à l'exception des vaccins vivants atténués chez la femme immunodéprimée, est fixée comme suit :
 
 - 1) vaccination contre la rubéole, la rougeole et les oreillons ;
 
@@ -34,6 +34,10 @@ La liste des vaccinations qu'une sage-femme peut prescrire ou pratiquer chez la 
 
 - 16) vaccination contre la grippe saisonnière ;
 
-- 17) vaccination à titre préventif contre la rage.
+- 17) vaccination à titre préventif contre la rage ;
+
+- 18) vaccination contre la fièvre jaune ;
+
+- 19) vaccination contre le zona.
 
 Pour ces vaccinations, la sage-femme prescrit ou utilise des vaccins monovalents ou associés.
