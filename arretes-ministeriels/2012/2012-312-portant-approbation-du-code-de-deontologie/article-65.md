@@ -1,9 +1,17 @@
 # Article 65
 
-Un médecin ne peut se faire remplacer dans son exercice que temporairement et par un confrère inscrit au tableau de l'Ordre monégasque ou d'un Ordre départemental français.
+En cas d'absence ou d'empêchement temporaire d'un médecin en exercice et à la demande de celui-ci, un médecin peut être autorisé à exercer pour le remplacer à condition de satisfaire aux exigences suivantes :
 
-Le médecin qui se fait remplacer doit préalablement en solliciter l'autorisation à l'autorité administrative compétente qui consulte le Conseil de l'Ordre et doit indiquer les nom et qualité du remplaçant ainsi que les dates et la durée du remplacement.
+- être inscrit au tableau principal ou annexe de l'Ordre des médecins monégasque ou à un tableau de l'Ordre des médecins français ou d'un État membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ;
 
-Le remplacement est personnel.
+- avoir souscrit un contrat d'assurance responsabilité civile professionnelle.
 
-Le médecin remplacé doit cesser toute activité médicale libérale pendant la durée du remplacement.
+Cette autorisation est délivrée au médecin remplaçant par le Directeur de l'Action Sanitaire après avis motivé du Conseil de l'Ordre des médecins. Elle est notifiée au médecin remplacé.
+
+La demande de remplacement indique les nom, prénom et qualité du remplaçant ainsi que les dates et la durée du remplacement. L'attestation du contrat d'assurance responsabilité civile professionnelle du médecin remplaçant est jointe à la demande.
+
+Le remplacement est personnel et ne peut excéder une année.
+
+En cas d'urgence, le remplacement peut débuter dès que la demande de remplacement a été adressée au Directeur de l'Action Sanitaire. Cette demande justifie alors de ce cas d'urgence. Ce remplacement cesse en cas de décision expresse de refus d'autorisation.
+
+Le médecin remplacé cesse toute activité médicale libérale pendant la durée du remplacement.
