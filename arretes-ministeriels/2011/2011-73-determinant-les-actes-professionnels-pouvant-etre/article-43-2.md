@@ -1,6 +1,6 @@
 # Article 43-2
 
-L'infirmier ou l'infirmière en pratique avancée, dans les domaines prévus à l'article 43-1, est compétent pour :
+Sous réserve des dispositions de l'article 43-2-1, l'infirmier ou l'infirmière en pratique avancée, dans les domaines prévus à l'article 43-1, est compétent pour :
 
 1) conduire un entretien avec le patient qui lui est confié, effectuer une anamnèse de sa situation et procéder à son examen clinique ;
 
@@ -10,61 +10,61 @@ L'infirmier ou l'infirmière en pratique avancée, dans les domaines prévus à 
 
 4) effectuer les actes techniques suivants :
 
-a) réalisation d'un débitmètre de pointe ;
+- a) réalisation d'un débitmètre de pointe ;
 
-b) holter tensionnel, prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux ;
+- b) holter tensionnel, prélèvements de sang par ponction veineuse ou capillaire ou par cathéter veineux ;
 
-c) prélèvements de sang par ponction artérielle pour gazométrie ;
+- c) prélèvements de sang par ponction artérielle pour gazométrie ;
 
-d) prélèvements non sanglants effectués au niveau des téguments ou des muqueuses directement accessibles ;
+- d) prélèvements non sanglants effectués au niveau des téguments ou des muqueuses directement accessibles ;
 
-e) prélèvements et collecte de sécrétions et d'excrétions ;
+- e) prélèvements et collecte de sécrétions et d'excrétions ;
 
-f) recueil aseptique des urines ;
+- f) recueil aseptique des urines ;
 
-g) réalisation et surveillance de pansements spécifiques ;
+- g) réalisation et surveillance de pansements spécifiques ;
 
-h) ablation du matériel de réparation cutanée ;
+- h) ablation du matériel de réparation cutanée ;
 
-i) pose de bandages de contention ;
+- i) pose de bandages de contention ;
 
-j) ablation des dispositifs d'immobilisation et de contention ;
+- j) ablation des dispositifs d'immobilisation et de contention ;
 
-k) renouvellement et ablation des pansements médicamenteux, des systèmes de tamponnement et de drainage, à l'exception des drains pleuraux et médiastinaux ;
+- k) renouvellement et ablation des pansements médicamenteux, des systèmes de tamponnement et de drainage, à l'exception des drains pleuraux et médiastinaux ;
 
-l) pose de sondes vésicales en vue de prélèvement d'urines, de lavage, d'instillation, d'irrigation ou de drainage de la vessie ;
+- l) pose de sondes vésicales en vue de prélèvement d'urines, de lavage, d'instillation, d'irrigation ou de drainage de la vessie ;
 
-m) pose de sondes rectales, lavements, extractions de fécalomes, pose et surveillance de goutte-à-goutte rectal ;
+- m) pose de sondes rectales, lavements, extractions de fécalomes, pose et surveillance de goutte-à-goutte rectal ;
 
-n) appareillage, irrigation et surveillance d'une plaie, d'une fistule ou d'une stomie ;
+- n) appareillage, irrigation et surveillance d'une plaie, d'une fistule ou d'une stomie ;
 
-o) branchement, surveillance et débranchement d'une dialyse rénale, péritonéale ou d'un circuit d'échanges plasmatique ;
+- o) branchement, surveillance et débranchement d'une dialyse rénale, péritonéale ou d'un circuit d'échanges plasmatique ;
 
-p) utilisation de techniques de médiation à visée thérapeutique ;
+- p) utilisation de techniques de médiation à visée thérapeutique ;
 
 5) demander les actes de suivi et de prévention suivants :
 
-a) conseils hygiéno-diététiques adaptés ;
+- a) conseils hygiéno-diététiques adaptés ;
 
-b) examen de la vision, épreuves fonctionnelles sur l'œil ;
+- b) examen de la vision, épreuves fonctionnelles sur l'œil ;
 
-c) rétinographie avec ou sans mydriase ;
+- c) rétinographie avec ou sans mydriase ;
 
-d) électrocardiographie (ECG) de repos ;
+- d) électrocardiographie (ECG) de repos ;
 
-e) mesure des pressions intravasculaires périphériques par méthode non effractive (Holter tensionnel, Tilt test) ;
+- e) mesure des pressions intravasculaires périphériques par méthode non effractive (Holter tensionnel, Tilt test) ;
 
-f) explorations fonctionnelles de la respiration ;
+- f) explorations fonctionnelles de la respiration ;
 
-g) électro-encéphalographie ;
+- g) électro-encéphalographie ;
 
-h) examens d'imagerie nécessaires au suivi du patient ;
+- h) examens d'imagerie nécessaires au suivi du patient ;
 
-i) échographie-doppler des troncs supra-carotidiens ;
+- i) échographie-doppler des troncs supra-carotidiens ;
 
-j) doppler du greffon ;
+- j) doppler du greffon ;
 
-k) débit de fistule artério-veineuse ;
+- k) débit de fistule artério-veineuse ;
 
 6) prescrire des dispositifs médicaux non soumis à prescription médicale obligatoire dont la liste est fixée par arrêté ministériel ;
 

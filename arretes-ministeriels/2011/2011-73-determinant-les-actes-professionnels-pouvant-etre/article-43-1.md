@@ -22,4 +22,6 @@ f) épilepsie ;
 
 4) la maladie rénale chronique, la dialyse, la transplantation rénale ;
 
-5) la psychiatrie et la santé mentale.
+5) la psychiatrie et la santé mentale ;
+
+6) les urgences, à la condition que cette activité soit exercée par un établissement de santé disposant d'une activité de soins de médecine d'urgence.

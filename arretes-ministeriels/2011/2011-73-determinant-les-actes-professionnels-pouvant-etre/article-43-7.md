@@ -2,6 +2,10 @@
 
 Est annexé au protocole d'organisation un document rempli et signé par le médecin précisant les modalités de prise en charge par l'infirmier en pratique avancée, à remettre au patient, ou, le cas échéant, à sa personne de confiance ou son représentant légal.
 
+Lorsque l'infirmier en pratique avancée intervient en application des dispositions de l'article 43-2-1, il informe le patient des modalités prévues de sa prise en charge.
+
+Il remplit, signe et remet le document, prévu en annexe du protocole d'organisation, au patient ou, le cas échéant, à sa personne de confiance ou à son représentant légal.
+
 Ce document précise les informations suivantes :
 
 - la composition de l'équipe de soins ;
