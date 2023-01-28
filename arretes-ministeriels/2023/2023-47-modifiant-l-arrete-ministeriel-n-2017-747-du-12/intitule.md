@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-47 du 20 janvier 2023 modifiant l'arrêté ministériel n° 2017-747 du 12 octobre 2017 fixant les modalités d'élimination des déchets d'activités de soins à risques infectieux et assimilés, des déchets d'activités de soins à risques infectieux perforants, des pièces anatomiques d'origine humaine et des médicaments à usage humain non utilisés, modifié
