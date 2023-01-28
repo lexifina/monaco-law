@@ -1,6 +1,6 @@
 # Article 45
 
-En application du dernier alinéa de l'article 8 de l'Ordonnance Souveraine n° 6.596 du 12 octobre 2017, susvisée, l'exploitant de médicaments à usage humain, le fabricant de dispositifs médicaux ou le mandataire de ce dernier qui recourt, pour éliminer les déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement et par les utilisateurs d'autotests, à un prestataire de services établit préalablement avec celui-ci une convention écrite qui précise notamment :
+En application du dernier alinéa de l'article O. 433-8 du Code de l'environnement, l'exploitant de médicaments à usage humain, le fabricant de dispositifs médicaux ou le mandataire de ce dernier qui recourt, pour éliminer les déchets d'activités de soins à risques infectieux perforants produits par les patients en autotraitement et par les utilisateurs d'autotests, à un prestataire de services établit préalablement avec celui-ci une convention écrite qui précise notamment :
 
 1) l'identification des parties contractantes, l'objet de la convention et sa durée ;
 
@@ -8,13 +8,13 @@ En application du dernier alinéa de l'article 8 de l'Ordonnance Souveraine n° 
 
 3) les modalités du prétraitement ou de l'incinération, y compris :
 
-a) l'identification de la ou des installations de prétraitement ou d'incinération habituelles ;
+- a) l'identification de la ou des installations de prétraitement ou d'incinération habituelles ;
 
-b) l'identification de l'installation de prétraitement ou d'incinération prévue en cas d'arrêt momentané de la ou des installations habituelles ;
+- b) l'identification de l'installation de prétraitement ou d'incinération prévue en cas d'arrêt momentané de la ou des installations habituelles ;
 
-c) l'engagement du prestataire de services à prétraiter ou à incinérer les déchets dans des installations conformes à la législation et à la réglementation en vigueur ;
+- c) l'engagement du prestataire de services à prétraiter ou à incinérer les déchets dans des installations conformes à la législation et à la réglementation en vigueur ;
 
-4) les caractéristiques des collecteurs mentionnés à l'article 6 de l'Ordonnance Souveraine n° 6.596 du 12 octobre 2017, susvisée, ainsi que les conditions dans lesquelles s'effectue la remise de ceux-ci aux officines ;
+4) les caractéristiques des collecteurs mentionnés à l'article O. 433-6 du Code de l'environnement, ainsi que les conditions dans lesquelles s'effectue la remise de ceux-ci aux officines ;
 
 5) les caractéristiques des emballages à usage unique mentionnés à l'article 5 permettant le regroupement des collecteurs ;
 

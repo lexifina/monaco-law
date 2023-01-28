@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2017-747 du 12 octobre 2017 fixant les modalités d'élimination des déchets d'activités de soins à risques infectieux et assimilés, des déchets d'activités de soins à risques infectieux perforants, des pièces anatomiques d'origine humaine et des médicaments à usage humain non utilisés
 
-Version en vigueur au 16 janvier 2021.
+Version en vigueur au 28 janvier 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/10-12-2017-747@2021.01.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/10-12-2017-747@2023.01.28/
 
 | | |
 | --- | --- |
