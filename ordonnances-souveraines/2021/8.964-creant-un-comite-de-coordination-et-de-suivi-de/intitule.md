@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 8.964 du 6 décembre 2021 créant un Comité de coordination et de suivi de la stratégie nationale de lutte contre le blanchiment de capitaux, le financement du terrorisme, la prolifération des armes de destruction massive et la corruption
