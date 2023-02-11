@@ -2,16 +2,16 @@
 
 Par dérogation aux dispositions de l'article 34, l'attributaire dont le logement excède les besoins normaux de son foyer peut bénéficier d'une allocation logement calculée sur la base du loyer mensuel de référence relatif à la catégorie d'appartement dont le nombre de pièces satisfait à son besoin normal de logement.
 
-Ce loyer mensuel de référence est fixé à compter du 1er janvier 2022, à :
+Ce loyer mensuel de référence est fixé à compter du 1er janvier 2023 comme suit :
 
-- - 1.825 euros pour un studio ;
+- Studio : 1 912,50 € ;
 
-- - 3.180 euros pour un logement de 2 pièces ;
+- 2 pièces : 3 312,50 € ;
 
-- - 5.080 euros pour un logement de 3 pièces ;
+- 3 pièces : 5 275,00 € ;
 
-- - 7.630 euros pour un logement de 4 pièces ;
+- 4 pièces : 7 895,00 € ;
 
-- - 9.315 euros pour un logement de 5 pièces ou plus.
+- 5 pièces et plus : 9 617,50 €
 
 Ledit loyer mensuel de référence est révisé annuellement au 1er janvier, après avis de la Commission administrative de l'Office de Protection Sociale.

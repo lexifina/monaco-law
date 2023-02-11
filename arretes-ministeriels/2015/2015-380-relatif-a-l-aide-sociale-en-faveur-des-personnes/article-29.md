@@ -2,17 +2,17 @@
 
 Lorsque le bénéficiaire de l'allocation aux adultes handicapés est accueilli dans un établissement d'hébergement pour personnes handicapées, les frais d'hébergement et d'entretien sont à la charge dudit bénéficiaire, dans les limites des pourcentages ci-après fixés en fonction du taux du handicap et de la durée d'hébergement :
 
-1) pour un hébergement cinq jours sur sept et lorsque le bénéficiaire :
+- 1) pour un hébergement cinq jours sur sept et lorsque le bénéficiaire :
 
-- - exerce une activité dans le secteur protégé, sa contribution est égale à 30 % de ses ressources ;
+  - - exerce une activité dans le secteur protégé, sa contribution est égale à 30 % de ses ressources ;
 
-- - relève d'un foyer occupationnel, sa contribution est égale à 50 % de ses ressources ;
+  - - relève d'un foyer occupationnel, sa contribution est égale à 50 % de ses ressources ;
 
-2) pour un hébergement sept jours sur sept et lorsque le bénéficiaire :
+- 2) pour un hébergement sept jours sur sept et lorsque le bénéficiaire :
 
-- - exerce une activité dans le secteur protégé, sa contribution est égale à 40 % de ses ressources ;
+  - - exerce une activité dans le secteur protégé, sa contribution est égale à 40 % de ses ressources ;
 
-- - relève d'un foyer occupationnel, sa contribution est égale à 60 % de ses ressources.
+  - - relève d'un foyer occupationnel, sa contribution est égale à 60 % de ses ressources.
 
 Lorsque celui-ci perçoit un complément d'allocation, ce dernier est versé audit établissement excepté durant les périodes de séjour à son foyer.
 
