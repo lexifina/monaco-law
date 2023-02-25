@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.766 du 22 février 2023 portant modification de l'Ordonnance Souveraine n° 8.609 du 12 avril 2021 portant création d'un Institut monégasque de formation aux professions judiciaires
