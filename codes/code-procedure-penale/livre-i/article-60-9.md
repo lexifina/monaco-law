@@ -6,6 +6,8 @@ Elle est également informée que si elle renonce au droit mentionné au premier
 
 La personne gardée à vue a le droit de bénéficier de l'assistance d'un avocat dès le début de la garde à vue. Toutefois, elle peut toujours renoncer à cette assistance de manière expresse, à la condition d'avoir été préalablement informée de son droit de ne faire aucune déclaration. Mention en est faite dans le procès-verbal.
 
+Elle est informée de ce droit dès le début de la garde à vue.
+
 Si la personne gardée à vue n'est pas en mesure de désigner un avocat ou si l'avocat choisi ne peut être joint, elle peut demander qu'il lui en soit commis un d'office par le président du tribunal de première instance sur la base d'un tableau de roulement établi par le Bâtonnier de l'ordre des avocats-défenseurs et avocats de Monaco.
 
 L'avocat est informé par l'officier de police judiciaire de la qualification juridique et des circonstances de l'infraction. Procès-verbal en est dressé par l'officier de police judiciaire et signé par l'avocat.

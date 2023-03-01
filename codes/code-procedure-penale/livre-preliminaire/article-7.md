@@ -6,4 +6,4 @@ Pourra être poursuivi et jugé dans la Principauté :
 
 - 2°) L'étranger coauteur ou complice de tout crime commis hors du territoire de la Principauté par un Monégasque, lorsque celui-ci sera poursuivi ou aura été condamné dans la Principauté à raison dudit crime ;
 
-- 3°) l'étranger qui, hors du territoire de la Principauté, se sera rendu coupable d'un fait qualifié de corruption ou de trafic d'influence par la loi monégasque et impliquant un agent public national au sens du premier alinéa de l'article 113 du Code pénal, ou un Monégasque, agent public international au sens du deuxième alinéa de l'article 113 du Code pénal.
+- 3°) l'étranger qui, hors du territoire de la Principauté, se sera rendu coupable d'un fait qualifié de corruption ou de trafic d'influence par la loi monégasque et impliquant un agent public national au sens du premier alinéa de l'article 113 du Code pénal, ou un Monégasque, agent public international au sens du deuxième alinéa de l'article 113 du Code pénal .
