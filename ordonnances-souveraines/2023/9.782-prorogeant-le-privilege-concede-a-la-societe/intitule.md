@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.782 du 22 février 2023 prorogeant le privilège concédé à la Société Hôtelière et de Loisirs de Monaco d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français
