@@ -6,7 +6,7 @@ L'accès aux informations nominatives concernant une personne contenues dans le 
 
 2) aux personnes chargées de la réalisation des tests pratiqués dans le cadre du Centre de dépistage national ;
 
-3) aux personnes chargées d'identifier les personnes ayant été en contact avec des personnes infectées par le virus SARS-CoV-2 ;
+3) 3) abrogé;
 
 4) aux personnes chargées d'assurer la traçabilité de la vaccination dont a pu bénéficier une personne ou le suivi du taux de couverture vaccinale de la population, aux personnes chargées d'apprécier l'efficacité de ce vaccin au regard du résultat de tout test susmentionné pratiqué sur cette personne ou aux personnes intervenant dans le cadre de la pharmacovigilance ;
 

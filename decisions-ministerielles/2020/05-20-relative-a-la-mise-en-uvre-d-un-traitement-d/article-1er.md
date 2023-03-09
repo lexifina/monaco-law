@@ -10,8 +10,6 @@ a) du résultat de tout test détectant les anticorps anti-SARS-CoV-2, l'ARN du 
 
 b) des données nécessaires pour assurer le suivi à domicile des personnes infectées par le virus SARS-CoV-2 ;
 
-c) des données d'identification des personnes ayant été en contact avec des personnes infectées par ce virus afin d'identifier, au moyen d'une enquête sanitaire si nécessaire, les personnes présentant un risque d'infection ;
-
 3) la réalisation et la gestion des tests détectant l'ARN du virus SARS-CoV-2 pratiqués sur toute personne dans le cadre du Centre de dépistage national, mis en place par l'État en application de sa politique de lutte contre la propagation de la COVID-19 ;
 
 4) la réalisation et la gestion de la vaccination contre la COVID-19 pratiquée avec son consentement sur toute personne, notamment la collecte des fiches de traçabilité, afin d'assurer la traçabilité de la vaccination dont a pu bénéficier une personne et le suivi du taux de couverture vaccinale de la population et d'apprécier l'efficacité de ce vaccin au regard du résultat de tout test susmentionné pratiqué sur cette personne, ainsi qu'à des fins de pharmacovigilance ;
