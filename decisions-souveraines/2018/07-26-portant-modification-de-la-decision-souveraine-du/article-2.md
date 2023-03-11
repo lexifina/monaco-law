@@ -24,17 +24,17 @@ Le passeport diplomatique est accordé, pour leurs déplacements à l'étranger 
 
   - - Les Secrétaires d'Ambassade,
 
-- 6°/ Aux personnels du Département des Relations Extérieures et de la Coopération :
+- 6°/ Au conjoint et aux enfants mineurs des titulaires d'un passeport diplomatique, visés aux alinéas 2°/ à 5°/ ci-dessus ;
 
-  - - Le Directeur Général,
+- 7°/ Aux personnels du Département des Relations Extérieures et de la Coopération :
 
-  - - Les Directeurs des services,
+  - - le Directeur Général ;
 
-  - - Le cas échéant, les collaborateurs chargés d'une mission de coopération à l'étranger,
+  - - les Directeurs des services ;
 
-- 7°/ Au conjoint et aux enfants mineurs des titulaires d'un passeport diplomatique, visés aux alinéas 2°/ à 6°/ ci-dessus,
+  - - les collaborateurs chargés d'une mission de coopération ou de représentation à l'étranger ;
 
-- 8°/ À titre gracieux aux Ministres d'État, aux Ambassadeurs, Conseillers de Gouvernement-Ministres, admis à faire valoir leur droit à la retraite et à leur conjoint,
+- 8°/ À titre gracieux, aux Ministres d'État ainsi qu'aux Conseillers de Gouvernement-Ministres, admis à faire valoir leurs droits à la retraite et à leurs conjoints [ ;]
 
 - 9°/ À toute personne désignée par Nous.
 
