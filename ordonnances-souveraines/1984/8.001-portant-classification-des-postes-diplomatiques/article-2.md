@@ -66,6 +66,8 @@ Les postes consulaires sont les suivants :
 
 - Géorgie : Tbilissi ;
 
+- Ghana : Accra ;
+
 - Grande-Bretagne : Birmingham, Bristol, Edimbourg, Londres, Manchester ;
 
 - Grèce : Athènes ;
