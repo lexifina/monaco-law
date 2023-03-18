@@ -4,4 +4,4 @@ Sous réserve des dispositions de l'article 10-III, le conducteur est tenu de pr
 
 La commande de la course peut se faire soit directement auprès du conducteur sur la voie publique, soit par l'application mobile, soit par la centrale d'appel de gestion des courses.
 
-Le conducteur doit s'assurer de la destination intra-muros avant que le client s'installe dans le véhicule.
+Le conducteur doit s'assurer de la destination avant que le client s'installe dans le véhicule.

@@ -1,5 +1,7 @@
 # Article 38-18
 
-La présence d'un minimum de sept véhicules 100% électriques doit être mis en œuvre 24 heures sur 24 heures, pour chaque jour de la semaine durant toute la période estivale. Cette présence est assurée par la coordination mutuelle de chacun des titulaires de l'autorisation visée à l'article 38-13.
+Les conducteurs de taxi des véhicules 100% électriques à titre saisonnier assurent un service minimum selon les modalités fixées par arrêté ministériel.
 
-Lorsque ce service est insuffisant, le Ministre d'État peut prendre toutes mesures utiles afin de remédier à cette insuffisance.
+Lorsque ce service est défaillant ou insuffisant pour satisfaire les besoins de la population, le Ministre d'État peut, dans des conditions fixées par arrêté ministériel, prendre toutes mesures utiles afin de remédier à cette défaillance ou cette insuffisance.
+
+Le Directeur de l'Expansion Économique, le cas échéant, en coopération avec la Direction de la Sûreté Publique, veille au respect de ces mesures. À cette fin, peut être requise l'assistance de l'organisme chargé d'assurer, au plan technique, l'exécution du service de centralisation téléphonique des demandes de courses et leur distribution visé au chiffre 4 de l'article 38-9.
