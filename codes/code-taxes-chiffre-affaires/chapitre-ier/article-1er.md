@@ -86,6 +86,6 @@ V. - 1° L'assujetti, agissant en son nom propre mais pour le compte d'autrui, q
 
 - a) L'assujetti qui facilite, par l'utilisation d'une interface électronique telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire, les ventes à distance de biens importés de territoires tiers ou de pays tiers contenus dans des envois d'une valeur intrinsèque ne dépassant pas 150 € ;
 
-- b)L'assujetti qui facilite, par l'utilisation d'une interface électronique telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire, la livraison d'un bien dans l'Union européenne par un assujetti non établi sur le territoire de l'Union européenne à une personne non assujettie.
+- b) L'assujetti qui facilite, par l'utilisation d'une interface électronique telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire, la livraison d'un bien dans l'Union européenne par un assujetti non établi sur le territoire de l'Union européenne à une personne non assujettie.
 
 - Lorsqu'un assujetti est réputé avoir acquis et livré des biens dans les conditions prévues aux a et b du présent 2°, l'expédition ou le transport de ces biens est imputé à la livraison effectuée par cet assujetti.

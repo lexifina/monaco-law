@@ -34,7 +34,7 @@ Des ordonnances peuvent fixer des bases minimales ou forfaitaires d'imposition p
 
 3. En ce qui concerne les opérations mentionnées au I de l'article 5, la taxe sur la valeur ajoutée est assise :
 
-- a)pour les livraisons à soi-même, sur le prix de revient total des immeubles, y compris le coût des terrains ou leur valeur d'apport ;
+- a) pour les livraisons à soi-même, sur le prix de revient total des immeubles, y compris le coût des terrains ou leur valeur d'apport ;
 
 - b) pour les mutations à titre onéreux ou les apports en société sur :
 

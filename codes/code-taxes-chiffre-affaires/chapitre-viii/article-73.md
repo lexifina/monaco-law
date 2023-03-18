@@ -27,3 +27,5 @@ III. - Dans l'état récapitulatif relatif aux prestations de services doivent f
 - 4° Le montant des régularisations effectuées en application du 1 de l'article 44. Ces montants sont déclarés au titre du mois au cours duquel la régularisation est notifiée au preneur.
 
 IV. - L'état récapitulatif mentionné au III est souscrit selon des modalités fixées par ordonnance souveraine.
+
+Les documents nécessaires à l'établissement de l'état récapitulatif mentionné au même II. doivent être conservés par les assujettis pendant un délai de six ans à compter de la date de l'opération ayant donné lieu à cet état.

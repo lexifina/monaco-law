@@ -16,6 +16,8 @@ II. - Toutefois, sont exonérés :
 
 - Cette ordonnance détermine également les modalités d'application du présent paragraphe ;
 
+- 2° bis En cas de catastrophe affectant le territoire de Monaco ou d'un État membre de l'Union européenne, les importations de biens relevant d'une autorisation accordée par une décision de la Commission européenne prise en application du premier alinéa de l'article 53 de la directive 2009/132/ CE du Conseil du 19 octobre 2009 déterminant le champ d'application de l'article 143, points b et c, de la directive 2006/112/ CE en ce qui concerne l'exonération de la taxe sur la valeur ajoutée de certaines importations définitives de biens. Un arrêté ministériel détermine les obligations de recensement et de suivi des opérations auxquelles est subordonné le bénéfice de l'exonération et, dans la limite où l'autorisation de la Commission européenne le prévoit, précise les biens et personnes concernés par cette exonération. Sont également exonérées les importations en Guadeloupe, en Martinique et à La Réunion réalisées dans les mêmes conditions ;
+
 - 3° (3° abrogé).
 
 - 4° L'or, sous toutes ses formes, importé par les instituts d'émission ;

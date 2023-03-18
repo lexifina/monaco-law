@@ -6,11 +6,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - 2° (2° abrogé) ;
 
-- 3° Sauf lorsqu'ils relèvent du 1° du A de l'article 52-0, les denrées alimentaires destinées à la consommation animale, les produits normalement destinés à être utilisés dans la préparation de ces denrées et ceux normalement utilisés pour compléter ou remplacer ces denrées lorsque l'une des conditions suivantes est remplie :
-
-  - a)Il s'agit de produits d'origine agricole, de la pêche, de la pisciculture ou de l'aviculture qui n'ont subi aucune transformation ;
-
-  - b) Il s'agit de matières premières, d'aliments composés ou d'additifs destinés aux animaux producteurs de denrées alimentaires elles-mêmes destinées à la consommation humaine ;
+- 3° (3° abrogé) ;
 
 - 3° bis Produits suivants :
 
@@ -24,13 +20,13 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - 4° (4° abrogé) ;
 
-- 5° Produits suivants, lorsqu'ils sont d'un type normalement destiné à être utilisé dans la production agricole et qu'ils ne sont pas destinés à l'alimentation animale :
+- 5° Produits suivants :
 
-  - a) Produits d'origine agricole n'ayant subi aucune transformation ;
+  - a) (a) abrogé) ;
 
-  - a bis) Produits de la pêche, de la pisciculture ou de l'aviculture n'ayant subi aucune transformation ;
+  - a bis) (a bis) abrogé) ;
 
-  - a ter) Poulains vivants ;
+  - a ter) (a) ter abrogé) ;
 
   - b) engrais et amendements calcaires mentionnés à l'annexe I au règlement (CE) n° 889/2008 de la Commission du 5 septembre 2008 portant modalités d'application du règlement (CE) n° 834/2007 du Conseil relatif à la production biologique et à l'étiquetage des produits biologiques en ce qui concerne la production biologique, l'étiquetage et les contrôles ;
 

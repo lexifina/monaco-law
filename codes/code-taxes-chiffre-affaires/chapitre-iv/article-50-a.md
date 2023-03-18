@@ -74,7 +74,7 @@ III. - La personne qui a obtenu l'autorisation d'ouverture d'un régime mentionn
 
 - 1° Tenir un registre des stocks et des mouvements de biens, et un registre devant notamment faire apparaître, pour chaque bien, la nature et le montant des opérations réalisées, les nom et adresse des fournisseurs et des clients. Les prestations de services mentionnées au I doivent faire l'objet d'une indication particulière sur ce dernier registre.
 
-- Les assujettis peuvent être autorisés, sur leur demande, à regrouper les informations contenues dans les registres mentionnés ci-dessus dans une comptabilité matières identifiant les biens placés sous les régimes visés, ainsi que la date d'entrée et de sortie desdits régimes.
+- Les assujettis peuvent regrouper les informations contenues dans les registres mentionnés ci-dessus dans une comptabilité matières identifiant les biens placés sous les régimes visés, ainsi que la date d'entrée et de sortie desdits régimes.
 
 - Un arrêté du ministre d'État fixe les conditions de tenue des registres et de la comptabilité matières.
 
@@ -90,6 +90,4 @@ V.- Le redevable désigné au 2 du II communique à l'administration chargée de
 
 Il indique, le cas échéant, s'il s'agit d'une opération exonérée ou dispensée du paiement de la taxe.
 
-L'administration chargée de la gestion du régime transmet ces informations à l'administration chargée de la gestion de la déclaration de la taxe.
-
-Un arrêté ministériel définit les informations prévues au 2° et les modalités de la transmission prévue à l'avant-dernier alinéa du présent V.
+Un arrêté ministériel définit les informations prévues au 2°.

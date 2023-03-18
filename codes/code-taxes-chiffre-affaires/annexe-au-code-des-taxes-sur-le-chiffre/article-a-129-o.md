@@ -12,7 +12,7 @@ Le registre des stocks et des mouvements de biens prévu au 1° du III de l'arti
 
 - e) Adresse complète du lieu de provenance du bien.
 
-- f) Date de sortie du bien du régime.
+- f)Date de sortie du bien du régime.
 
 - g) Adresse complète du lieu de destination du bien à la sortie du régime.
 

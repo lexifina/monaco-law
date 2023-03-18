@@ -42,4 +42,6 @@ VI. - Pour satisfaire aux conditions prévues au IV, l'assujetti peut émettre o
 
 - Une ordonnance souveraine précise les conditions d'émission, de signature et de stockage de ces factures ;
 
-- 3° Soit sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, dans les conditions précisées par ordonnance souveraine.
+- 3° Soit sous la forme d'un message structuré selon une norme convenue entre les parties, permettant une lecture par ordinateur et pouvant être traité automatiquement et de manière univoque, dans les conditions précisées par ordonnance souveraine ;
+
+- 4° Soit en recourant à la procédure de cachet électronique qualifié au sens du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE. Une ordonnance souveraine précise les conditions d'émission, de cachet et de stockage de ces factures.

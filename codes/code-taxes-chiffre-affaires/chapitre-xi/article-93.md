@@ -6,7 +6,7 @@ La taxe sur la valeur ajoutée est perçue aux taux suivants :
 
 - 2° 2,10 % en ce qui concerne :
 
-  - les opérations visées au 1° et 6° du A de l'article 52-0 et à l'article 52 portant sur des produits passibles de la taxe sur la valeur ajoutée au taux réduit et livrés en Corse ;
+  - les opérations visées au 1°, 1° bis A., 1° bis B. et 6° du A de l'article 52-0 et à l'article 52 portant sur des produits passibles de la taxe sur la valeur ajoutée au taux réduit et livrés en Corse ;
 
   - les prestations de services visées aux B,C, E à H de l'article 52-0 et aux a) à h) de l'article 56
 

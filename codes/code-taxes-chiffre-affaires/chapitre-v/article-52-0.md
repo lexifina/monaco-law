@@ -16,6 +16,10 @@ A. - Les livraisons portant sur :
 
   - e) Les boissons alcooliques ;
 
+- 1° bis A. Les denrées alimentaires destinées à la consommation des animaux producteurs de denrées alimentaires elles-mêmes destinées à la consommation humaine, les produits normalement destinés à être utilisés dans la préparation de ces denrées et les produits normalement utilisés pour compléter ou remplacer ces denrées ;
+
+- 1° bis B. Les produits d'origine agricole, de la pêche, de la pisciculture ou de l'aviculture lorsqu'ils sont d'un type normalement destiné à être utilisé dans la production agricole ;
+
 - 1° bis Les produits de protection hygiénique féminine ;
 
 - 2° les appareillages pour handicapés ainsi que sur les équipements spéciaux, dénommés aides techniques et autres appareillages, dont la liste est fixée par l'article A-130 de l'annexe au code et qui sont conçus exclusivement pour les personnes handicapées en vue de la compensation d'incapacités graves.
@@ -71,3 +75,11 @@ K ter- Les produits destinés à l'hygiène corporelle et adaptés à la lutte c
 L. - Les droits d'entrée pour la visite des parcs zoologiques.
 
 M. - Les prestations de collecte séparée, de collecte en déchetterie, de tri et de valorisation matière des déchets des ménages et des autres déchets qui, eu égard à leurs caractéristiques et aux quantités produites, peuvent être collectés et traités sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations.
+
+N - Les prestations de pose, d'installation et d'entretien d'infrastructures de recharge pour véhicules électriques qui répondent aux conditions suivantes :
+
+- 1° Les infrastructures de recharge sont installées dans des locaux à usage d'habitation et sont destinées aux résidents ;
+
+- 2° La configuration des infrastructures de recharge répond aux exigences techniques fixées par arrêté ministériel ;
+
+- 3° Les prestations sont réalisées par une personne répondant à des critères de qualification définis par l'arrêté mentionné au 2° du présent N - .

@@ -4,7 +4,7 @@ I. - 1° Sont également soumises à la taxe sur la valeur ajoutée les acquisit
 
 2° Sous réserve de ne pas excéder le seuil ci-après indiqué, ne sont pas soumises à la taxe sur la valeur ajoutée les acquisitions de biens autres que des moyens de transport neufs ou des produits soumis à accise effectuées :
 
-- a)par une personne morale non assujettie ;
+- a) par une personne morale non assujettie ;
 
 - b) par un assujetti qui ne réalise que des opérations n'ouvrant pas droit à déduction.
 

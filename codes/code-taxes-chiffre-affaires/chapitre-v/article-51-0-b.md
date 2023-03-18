@@ -9,3 +9,5 @@ II.- La prestation de travail à façon relève du taux prévu pour les livraiso
 - 2° À être utilisés dans la préparation de denrées alimentaires ;
 
 - 3° À être consommés en l'état par l'homme.
+
+III.- Les livraisons à soi-même de travaux réalisées en application du 2° du 1. du II. de l'article 5 relèvent des taux prévus aux articles 52-0 bis ou 56 bis lorsqu'elles portent sur des travaux répondant aux conditions fixées respectivement aux 1. et 2. de l'article 52-0 bis et au 1. de l'article 56 bis.
