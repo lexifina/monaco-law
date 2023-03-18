@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.819 du 9 mars 2023 relative à la cession de créances professionnelles instituée par la loi n° 1.529 du 29 juillet 2022 portant diverses dispositions d'ordre économique et juridique
