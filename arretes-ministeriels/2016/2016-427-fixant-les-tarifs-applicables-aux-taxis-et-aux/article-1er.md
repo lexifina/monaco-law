@@ -1,57 +1,69 @@
 # Article 1er
 
-I - Le tarif forfaitaire T.T.C., non négociable, de véhicules à taximètre, dites « taxis 100% électriques à titre saisonnier » est fixé, selon le taux de T.V.A. en vigueur, à 15 euro(s) pour le forfait intra-muros (sans attente) quel que soit le nombre de personnes.
+Les tarifs forfaitaires T.T.C., non négociables, de véhicules à taximètre, sont fixés selon le taux de T.V.A. en vigueur, comme suit (de 1 à 4 personnes, bagages et droits de péage compris) :
 
-II - Les tarifs forfaitaires T.T.C., non négociables, de véhicules à taximètre, dites « taxi » sont fixés selon le taux de T.V.A. en vigueur, comme suit (de 1 à 4 personnes, bagages et droits de péage compris) :
+A - Courses à l'intérieur de la zone urbaine (jour et nuit) - Forfait intra-muros (sans attente, avec trafic normal) :
 
-A - Courses à l'intérieur de la zone urbaine (jour et nuit) :
+1°) Zone 1 - Monaco :
 
-- Forfait intramuros (sans attente, avec trafic normal) : 15 euro(s)
+- Sans réservation : 18 euros
 
-- Transport de 5 à 8 personnes par taxi van : supplément de 50 % du tarif forfaitaire
+- Avec réservation : 28 euros
 
-- Attente et Marche lente/heure (dont 3 minutes gratuites jour et nuit / si la vitesse est inférieure à 5 km/heure) : 60 euro(s)
+B - Courses hors de la zone urbaine (jour et nuit) - Forfaits extra-muros (sans attente, avec trafic normal) :
 
-B - Courses hors de la zone urbaine (jour et nuit) :
+2°) Zone 2 - Commune de Cap d'Ail / Beausoleil / Roquebrune (hors Cap-Martin et Roquebrune village) :
 
-Commune de Cap d'Ail : 25 euro(s)
+- Sans réservation : 25 euros
 
-Commune de Beausoleil : 25 euro(s)
+- Avec réservation : 38 euros
 
-Roquebrune (hors Cap-Martin et Roquebrune village) : 25 euro(s)
+3°) Zone 3 (non éligible à la réservation) :
 
-Commune d'Èze : 45 euro(s)
+- Saint-Laurent d'Èze : 35 euros
 
-Commune de La Turbie : 45 euro(s)
+- Commune d'Èze : 50 euros
 
-Roquebrune-Cap-Martin : 45 euro(s)
+- Commune de La Turbie : 50 euros
 
-Roquebrune Village : 45 euro(s)
+- Roquebrune-Cap-Martin : 50 euros
 
-Commune de Beaulieu : 55 euro(s)
+- Roquebrune Village : 50 euros
 
-Commune de Menton : 55 euro(s)
+- Commune de Beaulieu : 60 euros
 
-Commune de Peille : 55 euro(s)
+- Commune de Menton Centre : 60 euros
 
-Commune de Saint-Jean-Cap-Ferrat : 65 euro(s)
+- Commune de Menton Garavan : 70 euros
 
-Commune de Villefranche sur Mer : 65 euro(s)
+- Commune de Saint-Jean-Cap-Ferrat : 75 euros
 
-Commune de Nice (hors aéroport) : 80 euro(s)
+- Commune de Villefranche-sur-Mer : 75 euros
 
-Aéroport de Nice (par autoroute) : 95 euro(s)
+4°) Zone 4 (réservation possible et gratuite) :
 
-Commune de Vintimille : 90 euro(s)
+- Commune de Nice (hors aéroport) : 90 euros
 
-Commune d'Antibes : 180 euro(s)
+- Commune de Vintimille : 95 euros
 
-Commune de Cannes : 180 euro(s)
+- Aéroport de Nice (par autoroute) : 100 euros
 
-Commune de San Remo : 150 euro(s)
+- Commune de San Remo : 165 euros
 
-Autres destinations : Forfait proposé par le taxi de manière ferme et définitive au préalable de la course
+- Commune de Antibes : 190 euros
 
-- Transport de 5 à 8 personnes par taxi van : supplément de 50 % du tarif forfaitaire
+- Commune de Cannes : 190 euros
 
-- Attente et Marche lente/heure (dont 3 minutes gratuites jour et nuit / si la vitesse est inférieure à 5 km/heure) : 60 euro(s)
+- Autres destinations : Forfait proposé par le taxi de manière ferme et définitive au préalable de la course
+
+C - Suppléments
+
+- Transport de 5 à 8 personnes par taxi van supplément de 50 % du tarif forfaitaire
+
+- Attente et Marche lente/Heure (dont 3 minutes gratuites jour et nuit / si la vitesse est inférieure à 8 km/heure) : 80 €
+
+- Colis moyen, type valise : gratuit
+
+- Gros colis (malle/voiture d'enfant) : gratuit
+
+- Animaux : gratuit
