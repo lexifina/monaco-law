@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 2.317 du 31 juillet 2009 portant application de la loi n° 1.360 du 4 juillet 2009 sur le soutien et la protection sociale des artistes professionnels indépendants
+# Ordonnance Souveraine n° 2.317 du 31 juillet 2009 portant application de la loi n° 1.360 du 4 juillet 2009 sur le soutien et la protection sociale des artistes professionnels indépendants
 
-Version en vigueur au 8 août 2009.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2009/07-31-2.317@2009.08.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2009/07-31-2.317@2023.03.25/
 
 | | |
 | --- | --- |
