@@ -6,4 +6,4 @@ Les incapacités prononcées en application des dispositions du précédent alin
 
 La juridiction saisie fixe la durée de l'incapacité, qui ne peut excéder dix ans sauf en cas de récidive ; dans ce dernier cas, elle peut être définitive.
 
-Un extrait de la décision de justice passée en force de chose jugée est adressé par le greffier en chef sans délai et selon le cas, à la Direction de l'Expansion Économique ou au Service de l'Emploi.
+Un extrait de la décision de justice passée en force de chose jugée est adressé par le greffier en chef sans délai et selon le cas, à la Direction du Développement Économique ou au Service de l'Emploi.
