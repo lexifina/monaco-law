@@ -1,6 +1,6 @@
 # Article 27
 
-Le Ministre d'État est saisi par la Direction de l'Expansion Économique des rapports de contrôles mentionnés à l'article 26, accompagnés de l'ensemble des pièces sur lesquels ils se fondent.
+Le Ministre d'État est saisi par la Direction du Développement Économique des rapports de contrôles mentionnés à l'article 26, accompagnés de l'ensemble des pièces sur lesquels ils se fondent.
 
 Il les transmet sans délai à la commission visée à l'article 14.
 
@@ -18,6 +18,6 @@ La commission émet un avis sur l'existence et la gravité d'un ou plusieurs man
 
 La commission transmet son avis, ainsi que le procès-verbal visé au sixième alinéa, au Ministre d'État.
 
-Le Ministre d'État informe la personne mise en cause de sa décision par lettre recommandée avec demande d'avis de réception. Il en informe également la commission et la Direction de l'Expansion Économique.
+Le Ministre d'État informe la personne mise en cause de sa décision par lettre recommandée avec demande d'avis de réception. Il en informe également la commission et la Direction du Développement Économique.
 
 Les modalités d'application du présent article sont précisées par ordonnance souveraine.
