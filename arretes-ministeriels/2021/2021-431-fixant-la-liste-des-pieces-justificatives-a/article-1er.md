@@ -1,8 +1,8 @@
 # Article 1er
 
-Les personnes qui sollicitent l'agrément pour exercer l'activité de mandataire judiciaire à la protection des personnes conformément à l'article 19 de la loi n° 1.474 du 2 juillet 2019 et à l'article 2 de l'Ordonnance Souveraine n° 8.700 du 17 juin 2021, susvisées, doivent déposer auprès de la Direction de l'Expansion Économique :
+Les personnes qui sollicitent l'agrément pour exercer l'activité de mandataire judiciaire à la protection des personnes conformément à l'article 19 de la loi n° 1.474 du 2 juillet 2019 et à l'article 2 de l'Ordonnance Souveraine n° 8.700 du 17 juin 2021, susvisées, doivent déposer auprès de la Direction du Développement Économique :
 
-- une notice de renseignements individuels complétée, disponible auprès de la Direction de l'Expansion Économique ou accessible en ligne sur le site Internet du Gouvernement Princier ;
+- une notice de renseignements individuels complétée, disponible auprès de la Direction du Développement Économique ou accessible en ligne sur le site Internet du Gouvernement Princier ;
 
 - une photocopie de la carte d'identité pour les personnes de nationalité monégasque ou une photocopie de la carte de résident pour les résidents à Monaco ;
 
@@ -14,4 +14,4 @@ Les personnes qui sollicitent l'agrément pour exercer l'activité de mandataire
 
 - une requête adressée à S.E. M. le Ministre d'État formalisant la demande d'agrément.
 
-La Direction de l'Expansion Économique peut solliciter toute pièce utile à l'instruction de la demande.
+La Direction du Développement Économique peut solliciter toute pièce utile à l'instruction de la demande.
