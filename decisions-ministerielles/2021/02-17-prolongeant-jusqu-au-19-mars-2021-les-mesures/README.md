@@ -1,8 +1,8 @@
 # Décision ministérielle du 17 février 2021 prolongeant jusqu'au 19 mars 2021 les mesures exceptionnelles qui devaient prendre fin le 19 février 2021, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 20 février 2021.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2021/02-17-L021069@2021.02.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2021/02-17-L021069@2023.03.25/
 
 | | |
 | --- | --- |
