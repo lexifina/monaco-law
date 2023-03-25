@@ -1,6 +1,6 @@
 # Article 38-11
 
-Une affichette d'information délivrée par la Direction de l'Expansion Économique, parfaitement lisible de la clientèle, est placée en permanence à l'arrière de l'appui-tête du conducteur.
+Une affichette d'information délivrée par la Direction du Développement Économique, parfaitement lisible de la clientèle, est placée en permanence à l'arrière de l'appui-tête du conducteur.
 
 Elle énumère les indications suivantes :
 

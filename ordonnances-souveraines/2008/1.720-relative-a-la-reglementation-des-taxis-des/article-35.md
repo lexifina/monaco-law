@@ -1,6 +1,6 @@
 # Article 35
 
-Une affichette d'information délivrée par la Direction de l'Expansion économique, parfaitement lisible de la clientèle, est placée en permanence à l'arrière de l'appui-tête du conducteur.
+Une affichette d'information délivrée par la Direction du Développement économique, parfaitement lisible de la clientèle, est placée en permanence à l'arrière de l'appui-tête du conducteur.
 
 Elle énumère les indications suivantes :
 

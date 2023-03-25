@@ -6,7 +6,7 @@ Elle comprend :
 
 - le Directeur de la Sûreté Publique ou son représentant ;
 
-- le Directeur de l'Expansion Économique ou son représentant ;
+- le Directeur du Développement Économique ou son représentant ;
 
 - le Chef du Service des Titres de Circulation ou son représentant ;
 
