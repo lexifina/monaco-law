@@ -12,7 +12,7 @@ La Commission est composée comme suit :
 
 - le Directeur du Budget et du Trésor ou son représentant ;
 
-- le Directeur de l'Expansion Économique ou son représentant.
+- le Directeur du Développement Économique ou son représentant.
 
 Le secrétariat de la Commission est assuré par un représentant du Département des Finances et de l'Économie.
 
