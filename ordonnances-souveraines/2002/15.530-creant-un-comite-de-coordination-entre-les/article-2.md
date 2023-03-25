@@ -4,7 +4,7 @@ Ce Comité présidé par le Conseiller de Gouvernement-Ministre des Finances et 
 
 - le Directeur du Budget et du Trésor ou son représentant ;
 
-- le Directeur de l'Expansion Économique ou son représentant ;
+- le Directeur du Développement Économique ou son représentant ;
 
 - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant ;
 
