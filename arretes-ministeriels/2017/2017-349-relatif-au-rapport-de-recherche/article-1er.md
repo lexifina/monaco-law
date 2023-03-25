@@ -8,4 +8,4 @@ Au sens du présent texte, il faut entendre par :
 
 - « convention », la convention sur la délivrance de brevets européens et son règlement d'exécution ;
 
-- « service de la propriété industrielle », le pôle propriété intellectuelle de la direction de l'expansion économique.
+- « service de la propriété industrielle », le pôle propriété intellectuelle de la direction du Développement économique.
