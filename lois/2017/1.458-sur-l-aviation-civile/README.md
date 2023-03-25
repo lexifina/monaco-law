@@ -1,8 +1,8 @@
 # Loi n° 1.458 du 13 décembre 2017 sur l'aviation civile
 
-Version en vigueur au 23 décembre 2017.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/12-13-1.458@2017.12.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2017/12-13-1.458@2023.03.25/
 
 | | |
 | --- | --- |
