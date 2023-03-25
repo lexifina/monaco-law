@@ -40,7 +40,7 @@ Ce Comité est présidé par le Conseiller de Gouvernement-Ministre des Finances
 
 - - le Directeur du Budget et du Trésor ou son représentant.
 
-- Le secrétariat de ce Comité est assuré par la Direction du Budget et du Trésor.
+Le secrétariat de ce Comité est assuré par la Direction du Budget et du Trésor.
 
 Ce Comité se réunit autant que de besoin, sur convocation du Président, soit à l'initiative de celui-ci, soit à la demande d'un de ses membres.
 

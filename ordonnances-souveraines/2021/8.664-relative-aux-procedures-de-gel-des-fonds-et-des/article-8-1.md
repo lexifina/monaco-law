@@ -4,7 +4,7 @@ Aux fins d'application de la présente ordonnance, le secret professionnel ne fa
 
 La Direction du Budget et du Trésor échange toute information en lien avec la présente ordonnance avec les autres services de l'État chargés de préparer ou de mettre en œuvre toute mesure de gel, lesquels sont les suivants :
 
-- a) la Direction de l'Expansion Économique ;
+- a) la Direction du Développement Économique ;
 
 - b) la Direction des Services Fiscaux ;
 
