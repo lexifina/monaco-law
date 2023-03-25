@@ -14,6 +14,6 @@ L'autorisation mentionnée à l'article 3 peut être suspendue en ses effets ou 
 
 - 6°) si, sous quelque forme que ce soit et à quelque titre que ce soit, le psychologue a admis que soient exercées ou domiciliées dans ses locaux des activités non autorisées ou les a sciemment laissées s'exercer ou y être domiciliées.
 
-Préalablement à toute décision de révocation ou de suspension prononcée par le Directeur de l'Expansion Économique, le titulaire de l'autorisation est entendu en ses explications ou dûment appelé à les fournir.
+Préalablement à toute décision de révocation ou de suspension prononcée par le Directeur du Développement Économique, le titulaire de l'autorisation est entendu en ses explications ou dûment appelé à les fournir.
 
-Le Directeur de l'Expansion Économique veille à l'application de la présente ordonnance.
+Le Directeur du Développement Économique veille à l'application de la présente ordonnance.
