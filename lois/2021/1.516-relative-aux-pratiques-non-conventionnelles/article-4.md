@@ -2,7 +2,7 @@
 
 Il est instauré une Commission consultative, composée comme suit :
 
-- - le Directeur de l'expansion économique ou son représentant ;
+- - le Directeur du Développement économique ou son représentant ;
 
 - - le Directeur de l'action sanitaire ou son représentant ;
 
