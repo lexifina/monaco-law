@@ -1,6 +1,6 @@
 # Article 13
 
-Le Ministre d'État est saisi par la Direction de l'Expansion Économique des comptes rendus de contrôle ; il les transmet à la commission visée à l'article 2.
+Le Ministre d'État est saisi par la Direction du Développement Économique des comptes rendus de contrôle ; il les transmet à la commission visée à l'article 2.
 
 Sauf dans les cas où il n'y a manifestement pas lieu de proposer une sanction, la personne mise en cause est informée, par écrit, des griefs susceptibles d'être formulés à son encontre.
 

@@ -1,8 +1,8 @@
 # Loi n° 1.491 du 23 juin 2020 relative aux offres de jetons
 
-Version en vigueur au 23 juillet 2022.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2020/06-23-1.491@2022.07.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2020/06-23-1.491@2023.03.25/
 
 | | |
 | --- | --- |
