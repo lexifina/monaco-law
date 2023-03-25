@@ -1,8 +1,8 @@
 # Décision ministérielle du 23 septembre 2020 modifiant la Décision Ministérielle du 28 avril 2020 portant instauration de mesures exceptionnelles dans le cadre de la reprise progressive des activités en vue de lutter contre l'épidémie de COVID-19
 
-Version en vigueur au 26 septembre 2020.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/09-23-L021027@2020.09.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/09-23-L021027@2023.03.25/
 
 | | |
 | --- | --- |
