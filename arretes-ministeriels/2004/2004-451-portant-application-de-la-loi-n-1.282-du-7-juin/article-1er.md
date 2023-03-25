@@ -4,4 +4,4 @@ La modification des statuts des sociétés par actions en vue de satisfaire à l
 
 La déclaration est signée par le représentant statutaire de la société concernée et mentionne la décision de l'assemblée générale portant modification des statuts. Le procès-verbal de l'assemblée générale ayant décidé de ladite modification est annexé à la déclaration.
 
-La déclaration assortie de sa pièce annexe est adressée à la Direction de l'expansion économique qui en délivre récépissé.
+La déclaration assortie de sa pièce annexe est adressée à la Direction du Développement économique qui en délivre récépissé.
