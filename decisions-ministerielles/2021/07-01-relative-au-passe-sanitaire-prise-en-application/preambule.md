@@ -20,7 +20,9 @@ Considérant qu'aux termes de l'article premier de la loi n° 1.430 du 13 juille
 
 Considérant le caractère pathogène et contagieux du virus SARS-CoV-2 et sa propagation rapide ;
 
-Considérant l'urgence de santé publique de portée internationale, déclarée le 30 janvier 2020 par le Directeur Général de l'Organisation mondiale de la Santé, constituée par la flambée épidémique due au virus 2019-nCoV, actuellement dénommé SARS-CoV-2 ; Considérant les recommandations temporaires au titre du Règlement Sanitaire International émises par le Directeur Général de l'Organisation mondiale de la Santé le 30 janvier 2020 ;
+Considérant l'urgence de santé publique de portée internationale, déclarée le 30 janvier 2020 par le Directeur Général de l'Organisation mondiale de la Santé, constituée par la flambée épidémique due au virus 2019-nCoV, actuellement dénommé SARS-CoV-2 ;
+
+Considérant les recommandations temporaires au titre du Règlement Sanitaire International émises par le Directeur Général de l'Organisation mondiale de la Santé le 30 janvier 2020 ;
 
 Considérant l'état de la menace sanitaire liée au risque épidémique en cours ;
 

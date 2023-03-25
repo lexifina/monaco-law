@@ -1,9 +1,13 @@
 # Article 2
 
-L'établissement des justificatifs mentionnés à l'article premier est assuré au moyen d'un traitement automatisé d'informations nominatives créé sur un système d'information de l'État dont la mise en œuvre est autorisée par décision ministérielle, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017, susvisée.
+Pour l'application de la présente décision :
 
-Ces justificatifs sont générés par ledit système d'information.
+- 1) un justificatif de résultat négatif d'un test virologique de type RT-PCR pour la détection du virus SARS-CoV-2 ou d'un test antigénique permettant la détection de la protéine N dudit virus, d'au plus 72 heures, est considéré comme justifiant de l'absence de contamination par ledit virus ;
 
-Tout justificatif généré conformément à l'alinéa précédent comporte les noms et prénoms de la personne concernée, sa date de naissance et un code permettant sa vérification.
+- 2) un justificatif de statut vaccinal est considéré comme attestant d'un schéma vaccinal complet de l'un des vaccins contre la COVID-19 :
 
-Ces justificatifs peuvent être librement enregistrés par la personne concernée sur l'application mobile désignée par l'État, aux fins d'être conservées localement sur son téléphone mobile. Cette personne peut supprimer à tout moment les justificatifs enregistrés sur cette application mobile.
+  - a) s'agissant du vaccin « COVID-19 Vaccine Janssen », 28 jours après l'administration d'une dose ;
+
+  - b) s'agissant des autres vaccins, 7 jours après l'administration d'une deuxième dose, sauf en ce qui concerne les personnes ayant été infectées par le virus SARS-CoV-2, pour lesquelles ce délai court après l'administration d'une dose ;
+
+- 3) un justificatif de certificat de rétablissement à la suite d'une contamination par le virus SARS-CoV-2 est considéré comme attestant de la délivrance d'un document mentionnant un résultat positif à un test virologique de type RT-PCR pour la détection dudit virus réalisé plus de onze jours et moins de six mois auparavant ; ce certificat n'est valable que pour une durée de six mois à compter de la date de réalisation dudit test.
