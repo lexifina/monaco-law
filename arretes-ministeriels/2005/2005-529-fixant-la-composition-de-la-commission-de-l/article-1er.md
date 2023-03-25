@@ -16,7 +16,7 @@ Membres :
 
 - le directeur des Services fiscaux ou son représentant ;
 
-- le directeur de l'Expansion économique ou son représentant ;
+- le directeur du Développement économique ou son représentant ;
 
 - le délégué général au Tourisme ou son représentant ;
 
