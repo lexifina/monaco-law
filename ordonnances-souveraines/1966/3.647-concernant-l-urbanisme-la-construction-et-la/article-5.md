@@ -4,7 +4,7 @@ La demande et les pièces jointes doivent être rédigées en langue française.
 
 La demande (annexe n° 1) doit être datée. Elle est signée par le propriétaire, le locataire agissant avec l'autorisation dudit propriétaire, leur représentant et par l'architecte pour sa seconde partie.
 
-Dans le cas d'une société en cours d'autorisation et dès lors qu'elle a acquis la personnalité morale lors de la signature des statuts, elle est signée par le propriétaire et par les associés ou leur représentant agissant pour le compte et au nom de la société en cours d'autorisation, sur justification du dépôt du dossier de demande d'immatriculation complet auprès de la Direction de l'Expansion Économique.
+Dans le cas d'une société en cours d'autorisation et dès lors qu'elle a acquis la personnalité morale lors de la signature des statuts, elle est signée par le propriétaire et par les associés ou leur représentant agissant pour le compte et au nom de la société en cours d'autorisation, sur justification du dépôt du dossier de demande d'immatriculation complet auprès de la Direction du Développement Économique.
 
 Les plans doivent être signés par un architecte autorisé à exercer dans la Principauté, le pétitionnaire, le propriétaire lorsque le pétitionnaire est un locataire, leur représentant et pour les cas prévus par la loi n° 1.329 du 8 janvier 2007 relative à la copropriété des immeubles bâtis, modifiée, par le syndic.
 

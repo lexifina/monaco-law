@@ -4,7 +4,7 @@
 
 La construction doit permettre aux occupants, en cas d'incendie, soit de quitter l'immeuble sans secours extérieur, soit de recevoir un tel secours.
 
-2 - Des prescriptions particulières, définissant les mesures de sécurité applicables aux constructions, à leurs équipements techniques sont énoncées par un règlement de sécurité introduit par Arrêté ministériel.
+2 - Des prescriptions particulières, définissant les mesures de sécurité applicables aux constructions, à leurs équipements techniques sont énoncées par un règlement de sécurité introduit par Arrêté Ministériel.
 
 3 - les constructeurs, installateurs et exploitants sont tenus, chacun en ce qui les concerne, de s'assurer que les installations ou équipements sont établis, maintenus et entretenus selon les règles fixées par la réglementation propre à chaque local en fonction de sa destination et de la réglementation propre au bâtiment qui l'accueille.
 

@@ -4,6 +4,6 @@ Les escaliers des immeubles doivent être largement éclairés et suffisamment a
 
 Si les escaliers comportent des fenêtres, les parties ouvrantes de celles-ci doivent être disposées de façon à pouvoir rester ouvertes sans gêner le passage.
 
-Les escaliers faisant communiquer plus de deux étages et ne comportant pas de baie ouvrant sur l'extérieur doivent recevoir à la partie inférieure de leur cage de l'air frais au moyen d'une gaine horizontale ; cette gaine ne doit pas déboucher dans un passage couvert ou dans une cour intérieure.
+Les escaliers faisant communiquer plus de deux étages et ne comportant pas de baie ouvrant sur l'extérieur doivent recevoir à la partie inférieure de leur cage de l'air frais au moyen d'une gaine horizontale ; cette gaine ne doit pas déboucher dans un passage couvert ou dans une cour inférieure.
 
 En partie haute l'aération doit pouvoir être assurée par une ouverture de section suffisante, communiquant avec l'air libre et pouvant être manœuvrée par une commande facilement accessible.

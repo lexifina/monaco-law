@@ -10,7 +10,7 @@ L'accomplissement de cette formalité est constaté par huissier à la demande d
 
 Pendant un délai de un an et un mois à dater de l'affichage ou du dernier des deux affichages, le Ministre d'État autorise toute personne justifiant d'un intérêt qui lui en aura présenté la demande, à consulter à la Direction de la Prospective, de l'Urbanisme et de la Mobilité les pièces suivantes du dossier :
 
-- 1. - l'autorisation de construire et/ou de démolir,
+- 1.- l'autorisation de construire et/ou de démolir,
 
 - 2. - la note descriptive donnant toutes les indications et précisions utiles sur les travaux projetés,
 
