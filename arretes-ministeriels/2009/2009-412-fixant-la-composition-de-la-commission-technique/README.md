@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2009-412 du 7 août 2009 fixant la composition de la Commission Technique d'Hygiène, de Sécurité et de Protection de l'Environnement
 
-Version en vigueur au 15 octobre 2016.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/08-07-2009-412@2016.10.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/08-07-2009-412@2023.03.25/
 
 | | |
 | --- | --- |

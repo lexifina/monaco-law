@@ -6,7 +6,7 @@ La composition de la Commission Technique d'Hygiène, de Sécurité et de Protec
 
 - le Chef du Corps des Sapeurs-Pompiers ou son représentant ;
 
-- le Directeur de l'Expansion Économique ou son représentant ;
+- le Directeur du Développement Économique ou son représentant ;
 
 - le Directeur du Travail ou son représentant ;
 
