@@ -1,8 +1,8 @@
 # Décision ministérielle du 17 octobre 2022 prolongeant jusqu'au 31 janvier 2023 certaines mesures qui devaient prendre fin le 31 octobre 2022, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 22 octobre 2022.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2022/10-17-L021560@2022.10.22/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2022/10-17-L021560@2023.03.25/
 
 | | |
 | --- | --- |
