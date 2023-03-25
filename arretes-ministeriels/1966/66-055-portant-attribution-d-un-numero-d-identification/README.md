@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 66-055 du 9 mars 1966 portant attribution d'un numéro d'identification aux établissements industriels, artisanaux, commerciaux, et autres et rendant obligatoire l'utilisation de ce numéro d'identification pour les classifications et les statistiques officielles
 
-Version en vigueur au 30 mars 2013.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1966/03-09-66-055@2013.03.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1966/03-09-66-055@2023.03.25/
 
 | | |
 | --- | --- |

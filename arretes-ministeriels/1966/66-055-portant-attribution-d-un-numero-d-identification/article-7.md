@@ -12,7 +12,7 @@ En cas de modification ou de radiation du numéro d'identification statistique, 
 
 - a) à la personne physique ou morale concernée ;
 
-- b) à la Direction de l'Expansion Economique ;
+- b) à la Direction du Développement Économique ;
 
 - c) à la Direction du Travail ;
 
