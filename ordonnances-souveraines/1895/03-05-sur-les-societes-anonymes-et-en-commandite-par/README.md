@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 5 mars 1895 sur les sociétés anonymes et en commandite par actions
 
-Version en vigueur au 31 décembre 2011.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1895/03-05-L002035@2011.12.31/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1895/03-05-L002035@2023.03.25/
 
 | | |
 | --- | --- |
