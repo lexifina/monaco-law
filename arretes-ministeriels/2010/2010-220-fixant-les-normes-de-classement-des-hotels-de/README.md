@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2010-220 du 28 avril 2010 fixant les normes de classement des hôtels de tourisme
 
-Version en vigueur au 1er mai 2010.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/04-28-2010-220@2010.05.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/04-28-2010-220@2023.03.25/
 
 | | |
 | --- | --- |
