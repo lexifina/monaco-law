@@ -32,7 +32,7 @@ Les pièces visées à l'article 3 de la loi n° 1.492 du 8 juillet 2020, susvis
 
 4°) Pour une société commerciale :
 
-- a) un extrait d'inscription au Répertoire du Commerce et de l'Industrie, datant de moins de trois mois ou, pour les sociétés en cours de constitution, le récépissé délivré par la Direction de l'Expansion Économique confirmant la réception de la déclaration d'activité ou la recevabilité de la demande d'autorisation d'activité ou de création de société ;
+- a) un extrait d'inscription au Répertoire du Commerce et de l'Industrie, datant de moins de trois mois ou, pour les sociétés en cours de constitution, le récépissé délivré par la Direction du Développement Économique confirmant la réception de la déclaration d'activité ou la recevabilité de la demande d'autorisation d'activité ou de création de société ;
 
 - b) pour la personne ayant le pouvoir de diriger, gérer ou engager à titre habituel la société : copie recto verso d'un justificatif d'identité, en cours de validité, délivrée par une autorité publique, comportant la photographie du titulaire et copie d'un justificatif de domicile datant de moins de trois mois ;
 
