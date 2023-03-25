@@ -14,7 +14,7 @@ La Commission de Classement est composée comme suit :
 
 - l'Administrateur des Domaines ou son représentant,
 
-- le Directeur de l'Expansion Économique ou son représentant,
+- le Directeur du Développement Économique ou son représentant,
 
 - un représentant du Département des Affaires Sociales et de la Santé,
 
