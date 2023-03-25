@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 7.528 du 13 décembre 1982 portant création d'une Commission spéciale consultative pour le commerce et l'industrie
 
-Version en vigueur au 30 novembre 2019.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1982/12-13-7.528@2019.11.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1982/12-13-7.528@2023.03.25/
 
 | | |
 | --- | --- |

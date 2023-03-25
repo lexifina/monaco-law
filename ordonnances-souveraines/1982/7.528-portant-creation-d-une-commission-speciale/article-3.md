@@ -18,7 +18,7 @@ Placée sous la présidence de S.E.M. le Ministre d'État, la Commission Spécia
 
 - le Maire ou son représentant ;
 
-- le Directeur de l'Expansion Économique ;
+- le Directeur du Développement Économique ;
 
 - un représentant de la Direction du Tourisme et des Congrès ;
 
