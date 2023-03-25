@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2013-102 du 28 février 2013 relatif à la carte professionnelle du bâtiment
 
-Version en vigueur au 9 mars 2013.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/02-28-2013-102@2013.03.09/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/02-28-2013-102@2023.03.25/
 
 | | |
 | --- | --- |
