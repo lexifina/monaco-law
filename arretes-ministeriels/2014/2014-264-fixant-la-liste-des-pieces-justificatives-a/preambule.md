@@ -14,7 +14,7 @@ Vu la loi n° 1.362 du 3 août 2009 relative à la lutte contre le blanchiment d
 
 Vu l'ordonnance souveraine n° 3.509 du 1er mars 1966 créant une Direction de l'Action Sanitaire et Sociale ;
 
-Vu l'ordonnance souveraine n° 11.986 du 2 juillet 1996 portant création de la Direction de l'Expansion Économique, modifiée ;
+Vu l'ordonnance souveraine n° 11.986 du 2 juillet 1996 portant création de la Direction du Développement Économique, modifiée ;
 
 Vu l'ordonnance souveraine n° 2.318 du 3 août 2009 fixant les conditions d'application de la loi n° 1.362 du 3 août 2009 relative à la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption, modifiée ;
 
