@@ -298,7 +298,7 @@ Direction de l'Habitat
 
 - Déclarer la vacance ou la location d'un logement du Secteur protégé (traitement mis en œuvre le 12/05/2017).
 
-Direction de l'Expansion Économique
+Direction du Développement Économique
 
 - Gestion des brevets et personnes y associées (traitement mis en œuvre le 28/12/2000, modifié le 03/09/2002),
 
@@ -312,7 +312,7 @@ Direction de l'Expansion Économique
 
 - Tenue du Registre des Professions et du Registre des Artisans (traitement mis en œuvre le 07/11/2005),
 
-- Consultation en ligne du Répertoire du Commerce et de l'Industrie dans le cadre du site Internet de la Direction de l'Expansion Économique (traitement mis en œuvre le 26/07/2006),
+- Consultation en ligne du Répertoire du Commerce et de l'Industrie dans le cadre du site Internet de la Direction du Développement Économique (traitement mis en œuvre le 26/07/2006),
 
 - Tenue du registre des mutuelles et institutions de prévoyance agréées par le Ministre d'État de la Principauté (traitement mis en œuvre le 21/11/2008),
 
@@ -326,7 +326,7 @@ Direction de l'Expansion Économique
 
 - Suivi des contacts relatifs à l'installation d'entrepreneurs et/ou de résidents à Monaco par le MWBO, dénommé « Suivi d'installation des entrepreneurs et résidents » (traitement mis en œuvre le 30/05/2014),
 
-- Gestion et suivi des sociétés civiles de droit monégasque par la Direction de l'Expansion Économique, la Direction des Services Fiscaux et l'IMSEE (traitement mis en œuvre le 12/02/2016),
+- Gestion et suivi des sociétés civiles de droit monégasque par la Direction du Développement Économique, la Direction des Services Fiscaux et l'IMSEE (traitement mis en œuvre le 12/02/2016),
 
 - Gestion du service des courses de taxi (traitement mis en œuvre le 06/04/2018),
 
@@ -1428,7 +1428,7 @@ Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendant
 
 - Transmission annuelle par la CAMTI d'un fichier ciblant une population concernée par le dépistage de l'anévrisme de l'aorte abdominale (traitement mis en œuvre le 07/04/2017),
 
-- Échange d'informations entre la Direction de l'Expansion Économique et la CAMTI/CARTI en vue de contrôler l'effectivité de l'activité d'un travailleur indépendant à Monaco et la validité de son adresse professionnelle (traitement mis en œuvre le 20/03/2020),
+- Échange d'informations entre la Direction du Développement Économique et la CAMTI/CARTI en vue de contrôler l'effectivité de l'activité d'un travailleur indépendant à Monaco et la validité de son adresse professionnelle (traitement mis en œuvre le 20/03/2020),
 
 - Gestion du régime de prestations familiales en faveur des travailleurs indépendants (traitement mis en œuvre le 04/02/2022).
 
