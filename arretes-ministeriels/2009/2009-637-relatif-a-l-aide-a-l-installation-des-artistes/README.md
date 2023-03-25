@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2009-637 du 17 décembre 2009 relatif à l'aide à l'installation des artistes professionnels indépendants
 
-Version en vigueur au 1er juin 2013.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/12-17-2009-637@2013.06.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/12-17-2009-637@2023.03.25/
 
 | | |
 | --- | --- |
