@@ -4,8 +4,8 @@ Le ou les porteurs de projet procèdent à la remise des pièces nécessaires à
 
 Après avis desdits services, le statut dénommé «MT » est, le cas échéant, attribué audit projet selon les modalités ci-après :
 
-- Délivrance d'une autorisation administrative d'exercice d'activité au(x) porteur(s) du projet par le Directeur de l'Expansion Économique et,
+- - Délivrance d'une autorisation administrative d'exercice d'activité au(x) porteur(s) du projet par le Directeur du Développement Économique et,
 
-- Immatriculation du projet au Répertoire du Commerce et de l'Industrie de Monaco sous l'appellation présentée au jury.
+- - Immatriculation du projet au Répertoire du Commerce et de l'Industrie de Monaco sous l'appellation présentée au jury.
 
 Toutes deux sont délivrées pour une période de six mois, renouvelable deux fois pour une même période de six mois.
