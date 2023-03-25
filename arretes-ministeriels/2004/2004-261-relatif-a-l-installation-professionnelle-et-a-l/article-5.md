@@ -16,7 +16,7 @@ Elle est composée comme suit :
 
 - le Contrôleur Général des Dépenses ou son représentant ;
 
-- le Directeur de l'Expansion Économique ou son représentant.
+- le Directeur du Développement Économique ou son représentant.
 
 Le Président de la Commission Économique peut convier à participer à ses travaux, avec voix délibérative, tout chef de service dont la présence lui paraît justifiée.
 

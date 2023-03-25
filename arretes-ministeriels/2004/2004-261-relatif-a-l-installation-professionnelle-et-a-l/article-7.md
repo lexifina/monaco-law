@@ -12,7 +12,7 @@
 
 - - un curriculum vitae énumérant les diplômes ou justificatifs de formation ou d'expérience professionnelle attestant de la capacité d'exercer l'activité ;
 
-- - une attestation de non-perception de revenus établie selon un formulaire fourni par la Direction de l'Expansion Economique.
+- - une attestation de non-perception de revenus établie selon un formulaire fourni par la Direction du Développement Economique.
 
 En outre, pour les conjoints de monégasques :
 
