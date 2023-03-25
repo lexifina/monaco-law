@@ -20,7 +20,7 @@ Le premier Collège comprend :
 
 - - le Directeur du budget et du trésor, ou son représentant ;
 
-- - le Directeur de l'expansion économique, ou son représentant ;
+- - le Directeur du Développement économique, ou son représentant ;
 
 - - le Directeur des services fiscaux, ou son représentant ;
 
