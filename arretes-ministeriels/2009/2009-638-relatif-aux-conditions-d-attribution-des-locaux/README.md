@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2009-638 du 17 décembre 2009 relatif aux conditions d'attribution des locaux domaniaux à usage commercial, de bureau ou d'activité libérale
 
-Version en vigueur au 26 décembre 2009.
+Version en vigueur au 25 mars 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/12-17-2009-638@2009.12.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/12-17-2009-638@2023.03.25/
 
 | | |
 | --- | --- |

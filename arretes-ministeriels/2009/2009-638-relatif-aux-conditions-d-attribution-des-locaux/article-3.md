@@ -2,17 +2,17 @@
 
 La décision est prise par le Ministre d'État après avis consultatif d'une Commission présidée par le Conseiller de Gouvernement pour les Finances et l'Économie et composée comme suit :
 
-- l'Administrateur des Domaines,
+- - l'Administrateur des Domaines,
 
-- le Directeur de l'Expansion Économique,
+- - le Directeur du Développement Économique,
 
-- le Directeur des Services Fiscaux,
+- - le Directeur des Services Fiscaux,
 
-- le Président du Conseil National,
+- - le Président du Conseil National,
 
-- le Président de la Commission des Finances et de l'Économie Nationale du Conseil National,
+- - le Président de la Commission des Finances et de l'Économie Nationale du Conseil National,
 
-- le Président de l'Union des Commerçants et Artisans de Monaco.
+- - le Président de l'Union des Commerçants et Artisans de Monaco.
 
 Le secrétariat de la Commission est assuré par le Département des Finances et de l'Économie.
 

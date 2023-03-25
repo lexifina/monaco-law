@@ -4,16 +4,16 @@ Une candidature peut être présentée par toute personne intéressée au moyen 
 
 L'appel à candidatures visé à l'article premier du présent arrêté indique :
 
-- la description du local concerné,
+- - la description du local concerné,
 
-- le type d'activité assignée au local,
+- - le type d'activité assignée au local,
 
-- la composition du dossier et la liste des éléments que les candidats doivent présenter,
+- - la composition du dossier et la liste des éléments que les candidats doivent présenter,
 
-- les modalités d'organisation des visites pour les personnes ayant retiré un dossier,
+- - les modalités d'organisation des visites pour les personnes ayant retiré un dossier,
 
-- la date impérative de remise des dossiers,
+- - la date impérative de remise des dossiers,
 
-- la prise en compte des dossiers sous réserve qu'ils comportent de manière exhaustive l'ensemble des pièces demandées,
+- - la prise en compte des dossiers sous réserve qu'ils comportent de manière exhaustive l'ensemble des pièces demandées,
 
-- les critères de sélection déterminants.
+- - les critères de sélection déterminants.
