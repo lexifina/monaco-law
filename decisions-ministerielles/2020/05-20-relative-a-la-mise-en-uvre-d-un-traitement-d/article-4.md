@@ -4,9 +4,9 @@ L'accès aux informations nominatives concernant une personne contenues dans le 
 
 1) aux médecins-inspecteurs de la Direction de l'Action Sanitaire afin de permettre la mise en œuvre de toute mesure sanitaire pour éviter la propagation de la COVID-19 ;
 
-2) aux personnes chargées de la réalisation des tests pratiqués dans le cadre du Centre de dépistage national ;
+2) (2) abrogé) ;
 
-3) 3) abrogé;
+3) (3) abrogé) ;
 
 4) aux personnes chargées d'assurer la traçabilité de la vaccination dont a pu bénéficier une personne ou le suivi du taux de couverture vaccinale de la population, aux personnes chargées d'apprécier l'efficacité de ce vaccin au regard du résultat de tout test susmentionné pratiqué sur cette personne ou aux personnes intervenant dans le cadre de la pharmacovigilance ;
 
