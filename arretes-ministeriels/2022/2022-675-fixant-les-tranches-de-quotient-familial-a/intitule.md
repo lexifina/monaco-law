@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2022-675 du 2 décembre 2022 fixant les tranches de quotient familial, à compter du 1er septembre 2022, et les montants de référence annuels, à compter du 1er octobre 2022, de l'allocation de fin d'année, versée aux fonctionnaires et agents de l'État et de la Commune
