@@ -1,6 +1,6 @@
 # Article 4
 
-Au terme de l'instruction de la demande, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique pour une durée d'une année civile. Par exception, la validité des vignettes délivrées pour la période du 1er mai au 31 octobre 2022 pourra être prorogée jusqu'au 31 décembre 2022, sans coût additionnel, et ce exclusivement pour les détenteurs actuels.
+Au terme de l'instruction de la demande, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique soit pour une durée d'une année civile, soit pour la période du 15 mars au 31 octobre de l'année. Par exception, pour l'année 2023, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique soit pour la période du 1er avril au 31 octobre, soit pour la période du 1er novembre au 31 décembre.
 
 L'autorisation est personnelle et incessible.
 
