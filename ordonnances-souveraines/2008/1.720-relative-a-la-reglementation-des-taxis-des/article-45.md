@@ -6,7 +6,7 @@ L'autorisation consiste à accorder à l'exploitant de taxis étrangers ou de v�
 
 Il est interdit d'utiliser un véhicule de location avec chauffeur étranger qui est muni de tout ou partie des équipements spéciaux d'un taxi étranger, dont l'exploitant pourrait être régulièrement autorisé dans son pays d'origine pour les deux activités correspondantes.
 
-Le nombre maximal de vignettes accordées est fixé chaque année par arrêté ministériel.
+Le nombre maximal de vignettes accordées est fixé chaque année par arrêté ministériel .
 
 La vignette, délivrée par le Directeur de la Sûreté Publique, doit être collée à l'intérieur du véhicule, recto visible de l'extérieur, sur la partie inférieure droite du pare-brise.
 

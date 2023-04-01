@@ -1,7 +1,9 @@
 # Article 46
 
-Un taxi étranger ou un véhicule avec chauffeur étranger peut transporter à Monaco des personnes et leurs bagages pris en charge à l'extérieur du territoire national et se tenir à la disposition de la clientèle pour une durée qui ne saurait excéder huit heures.
+Seul un véhicule avec chauffeur étranger ou un excursionniste, qui remplit les conditions de délivrance de l'autorisation accordée aux exploitants étrangers, prévues par arrêté ministériel, peut transporter à Monaco des personnes et leurs bagages, pris en charge à l'extérieur du territoire national et se tenir à leur disposition exclusive sans quitter le territoire de la Principauté. Cette mise à disposition peut être sans limitation de durée. Le conducteur du véhicule doit alors justifier d'une réservation.
 
-De même, un taxi étranger ou un véhicule avec chauffeur étranger ayant déposé à Monaco des personnes et leurs bagages peut revenir dans la Principauté aux fins de ramener cette clientèle à l'extérieur, à la condition que cette prise en charge s'effectue dans un délai d'au plus huit heures à compter du dépôt. Ce délai ne s'applique pas au transport de personnes qui nécessitent des soins médicaux sur le territoire national.
+Un taxi étranger peut transporter à Monaco des personnes et leurs bagages, pris en charge à l'extérieur du territoire national et se tenir à leur disposition exclusive sans quitter le territoire de la Principauté. Cette mise à disposition peut être sans limitation de durée. Le conducteur du véhicule doit alors justifier d'une réservation.
 
-Dans les cas visés aux alinéas précédents, le conducteur du taxi étranger ou du véhicule avec chauffeur étranger doit pouvoir justifier, par tout moyen, de l'exactitude de l'heure et du jour du transport ou de la dépose de la clientèle sur le territoire de la Principauté.
+Dans les cas visés aux alinéas précédents, le conducteur du taxi étranger, ou du véhicule avec chauffeur étranger ou excursionniste qui remplit les conditions de délivrance de l'autorisation accordée aux exploitants étrangers, prévues par arrêté ministériel, doit effectuer une déclaration de dépose telle que prévue par arrêté ministériel.
+
+Ces dispositions ne s'appliquent pas au transport de personnes qui nécessitent des soins médicaux sur le territoire de la Principauté.
