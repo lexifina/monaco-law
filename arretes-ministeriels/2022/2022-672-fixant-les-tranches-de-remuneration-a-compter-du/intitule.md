@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2022-672 du 2 décembre 2022 fixant les tranches de rémunération, à compter du 1er septembre 2022, et les montants mensuels, à compter du 1er octobre 2022, de l'allocation de soutien de famille versée aux fonctionnaires et agents de l'État et de la Commune
