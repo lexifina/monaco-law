@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-190 du 30 mars 2023 réglementant la circulation des piétons, le stationnement et la circulation des véhicules, les soirées du 6ème E-Prix et du 80ème Grand Prix Automobile de Monaco
