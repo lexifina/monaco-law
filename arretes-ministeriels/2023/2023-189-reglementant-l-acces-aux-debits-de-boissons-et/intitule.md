@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-189 du 30 mars 2023 réglementant l'accès aux débits de boissons et aux établissements de restauration et de loisirs situés sur la Darse Sud, les nuits des 5 et 6 mai 2023 et des 25, 26, 27 et 28 mai 2023
