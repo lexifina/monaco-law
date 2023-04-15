@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-211 du 11 avril 2023 fixant la liste des enquêtes statistiques réalisées par l'Institut Monégasque de la Statistique et des Études Économiques et abrogeant l'arrêté ministériel n° 2020-163 du 18 février 2020
