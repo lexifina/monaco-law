@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2023-179 du 27 mars 2023 fixant, pour l'année 2023, le nombre maximal de vignettes accordées aux exploitants de taxis étrangers, en application de l'article 45 de l'Ordonnance Souveraine n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise et des motos à la demande, modifiée
