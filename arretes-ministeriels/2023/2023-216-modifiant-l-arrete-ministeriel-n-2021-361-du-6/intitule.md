@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-216 du 11 avril 2023 modifiant l'arrêté ministériel n° 2021-361 du 6 mai 2021 fixant les conditions de délivrance de l'autorisation accordée aux exploitants de taxis étrangers, modifié
