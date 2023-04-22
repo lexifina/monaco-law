@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2019-558 du 2 juillet 2019 fixant la durée du congé de maternité des fonctionnaires et agents de l'État
 
-Version en vigueur au 6 juillet 2019.
+Version en vigueur au 22 avril 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/07-02-2019-558@2019.07.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/07-02-2019-558@2023.04.22/
 
 | | |
 | --- | --- |
