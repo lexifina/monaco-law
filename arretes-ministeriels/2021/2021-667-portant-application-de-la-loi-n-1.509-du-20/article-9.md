@@ -1,3 +1,0 @@
-# Article 9
-
-Le Conseiller de Gouvernement-Ministre des Affaires Sociales et de la Santé, le Conseiller de Gouvernement-Ministre de l'Intérieur et le Conseiller de Gouvernement-Ministre des Finances et de l'Économie, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.
