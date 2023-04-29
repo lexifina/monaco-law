@@ -294,13 +294,23 @@ En cas de contrôle routier, la décision d'autorisation de circulation du véhi
 
 Toute mise en circulation de véhicules à délégation partielle ou totale sous couvert d'un certificat DPTC en dehors des conditions susvisées pourra entraîner le retrait immédiat du certificat et des plaques d'immatriculation leur ayant été attribué sans préjudice de sanctions administratives comportant la modification, la suspension ou le retrait de l'autorisation administrative par décision du Ministre d'État
 
-Véhicules appartenant au Ministère d'État, aux membres du corps diplomatique accrédités auprès de S.A.S. le Prince Souverain ainsi qu'aux membres du personnel administratif et technique des Ambassades et aux fonctionnaires des Organismes Internationaux :
+Véhicules appartenant au Ministère d'État, au Conseil National, aux membres du corps diplomatique accrédités auprès de S.A.S. le Prince Souverain ainsi qu'aux membres du personnel administratif et technique des Ambassades, aux Organismes Internationaux et à leurs fonctionnaires :
 
 - Véhicules du Ministère d'État
 
 Couleur des caractères : bleu.
 
 Le numéro d'immatriculation est composé d'un chiffre suivi des lettres " ME " et d'un chiffre. L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
+
+- Véhicules du Conseil National
+
+Couleur des caractères : bleu
+
+Le numéro d'immatriculation est composé d'un chiffre, suivi des lettres " CN " et d'un chiffre.
+
+L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous les droits ayant trait à l'application du Code de la route.
+
+Il ne peut être attribué que deux numéros d'immatriculation au Conseil National.
 
 - Véhicules des membres du corps diplomatique
 
@@ -310,7 +320,15 @@ Le numéro d'immatriculation est composé des lettres " CD " suivies d'un numér
 
 L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
 
-- Véhicules des membres du personnel administratif et technique, porteurs du passeport de service délivré par le Ministère des Affaires Etrangères de l'État accréditant s'agissant du personnel des Ambassades en Principauté, et des fonctionnaires des Organismes internationaux ne bénéficiant pas d'un statut diplomatique.
+- Véhicules des Ambassades
+
+Couleur des caractères : bleu
+
+Le numéro d'immatriculation est composé des lettres " CD " suivies d'un numéro d'identification et d'une lettre classant les véhicules de chaque Ambassade.
+
+L'immatriculation des véhicules de cette sous-catégorie est exonérée de tous droits ayant trait à l'application du Code de la route.
+
+- Véhicules des membres du personnel administratif et technique, porteurs du passeport de service délivré par le Ministère des Affaires Étrangères de l'État accréditant s'agissant du personnel des Ambassades en Principauté, et des fonctionnaires des Organismes internationaux ne bénéficiant pas d'un statut diplomatique.
 
 Couleur des caractères : bleu
 
@@ -318,7 +336,17 @@ Le numéro d'immatriculation est composé d'un numéro d'identification identiqu
 
 Il ne peut être attribué qu'un seul numéro d'immatriculation par membre du personnel administratif et technique des Ambassades concerné et par fonctionnaire des Organismes Internationaux.
 
-L'immatriculation des véhicules de cette sous-catégorie au nom des membres du personnel administratif et technique des Ambassades, porteurs du passeport de service délivré par le Ministère des affaires étrangères de l'État accréditant s'agissant du personnel des Ambassades en Principauté, est exonérée des droits ayant trait à l'application du Code de la Route.
+L'immatriculation des véhicules de cette sous-catégorie au nom des membres du personnel administratif et technique des Ambassades, porteurs du passeport de service délivré par le Ministère des Affaires Étrangères de l'État accréditant s'agissant du personnel des Ambassades en Principauté, est exonérée de tous droits ayant trait à l'application du Code de la route.
+
+L'immatriculation des véhicules de cette sous-catégorie au nom du fonctionnaire des Organismes Internationaux ne bénéficiant pas d'un statut diplomatique est exonérée des droits liés à la visite technique des véhicules.
+
+- Véhicules des Organismes Internationaux
+
+Couleur des caractères : bleu
+
+Le numéro d'immatriculation est composé d'un numéro d'identification identique à celui attribué aux membres du corps diplomatique suivi de la lettre " K " et de deux chiffres classant les véhicules.
+
+Il ne peut être attribué que deux numéros d'immatriculation par Organismes Internationaux.
 
 * Véhicules automobiles ou remorqués de plus de 30 ans d'âge ;
 
