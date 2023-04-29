@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-234 du 20 avril 2023 portant réglementation de la circulation des piétons, le stationnement et la circulation des véhicules à l'occasion des épreuves des 6ème Monaco E-Prix et 80ème Grand Prix Automobile de Monaco
