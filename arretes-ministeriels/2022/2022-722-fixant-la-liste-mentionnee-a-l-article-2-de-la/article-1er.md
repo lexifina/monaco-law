@@ -10,8 +10,6 @@ La liste des pratiques non conventionnelles participant au mieux-être mentionn�
 
 - méditation ;
 
-- modelage ;
-
 - réflexologie ;
 
 - reiki ;
