@@ -14,7 +14,7 @@ Seront punis de l'amende prévue au chiffre 1 de l'article 29 :
 
 - 6° ceux qui auront cueilli et mangé sur le lieu même des fruits appartenant à autrui ;
 
-- 7° (7° abrogé) ;
+- 7° (7° abrogé);
 
 - 8° ceux qui, imprudemment, auront jeté des immondices sur quelque personne ;
 
