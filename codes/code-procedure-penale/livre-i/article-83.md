@@ -1,3 +1,7 @@
 # Article 83
 
-Sauf les dispositions spéciales à la poursuite des crimes et délits commis par la voie de la presse, les réquisitions du procureur général devront être datées, signées et spécifier le fait incriminé, ainsi que les articles de la loi applicables.
+Le juge d'instruction est saisi soit par les réquisitions du ministère public, soit par la plainte de la partie lésée, dans les conditions prévues par les articles 74 et 77.
+
+Sauf les dispositions spéciales en matière de poursuite des crimes et délits commis par la voie de presse, les réquisitions du procureur général devront spécifier les faits reprochés.
+
+À peine de nullité, elles devront également indiquer leur qualification juridique et les dispositions légales applicables, les circonstances de temps et de lieu de la commission de l'infraction, et devront être datées et signées.

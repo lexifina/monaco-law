@@ -6,6 +6,6 @@ Si la demande émane de l'inculpé ou de la partie civile, elle est communiquée
 
 Les observations qu'elle peut comporter doivent être produites dans les trois jours de cette communication.
 
-La décision du juge d'instruction peut être déférée à la chambre du conseil de la cour d'appel, sur simple requête, dans les dix jours de la notification aux parties intéressées, sans toutefois que l'information puisse s'en trouver retardée.
+L'appel de la décision du juge d'instruction pourra être interjeté dans les quinze jours de sa notification aux parties intéressées. L'appel n'a pas d'effet suspensif.
 
-Le tiers peut, au même titre que les parties, être entendu par la chambre du conseil de la cour d'appel en ses observations, mais il ne saurait prétendre que la procédure soit mise à sa disposition.
+Le tiers a le droit d'être entendu par la chambre du conseil de la Cour d'appel et de formuler des observations. Il peut uniquement prétendre à la mise à disposition des pièces se rapportant à la saisie.

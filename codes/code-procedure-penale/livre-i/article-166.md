@@ -1,15 +1,9 @@
 # Article 166
 
-Lors de la première comparution, le juge d'instruction constate l'identité de l'inculpé, lui fait connaître les faits qui lui sont imputés et reçoit ses déclarations, après l'avoir averti qu'il est libre de ne pas en faire.
+Le juge d'instruction qui envisage l'inculpation d'une personne qui n'a pas déjà été entendue en qualité de témoin assisté procède à sa première comparution soit sur convocation, soit sur défèrement, selon les modalités prévues au présent article ainsi qu'aux articles 166-1 et 166-2.
 
-Le procès-verbal doit, à peine de nullité de l'acte de la procédure ultérieure, contenir mention de cet avertissement.
+- 1°) Lorsque l'intéressé a été convoqué par le juge d'instruction en application des dispositions de l'article 88-2, son défenseur présent s'il en a fait la demande, le juge d'instruction constate l'identité de la personne convoquée et lui fait connaître expressément les faits dont il est saisi, leurs circonstances de temps et de lieux, leur qualification juridique ainsi que les dispositions légales applicables et pour lesquels l'inculpation est envisagée. Les articles 139 et 140 applicables au témoin reçoivent, le cas échéant, application. Le procès-verbal doit, à peine de nullité de l'acte de la procédure ultérieure, contenir mention de l'accomplissement de ces formalités.
 
-Dès ce premier interrogatoire, le magistrat donne avis à l'inculpé qu'il a le droit de choisir un défenseur parmi les avocats-défenseurs ou les avocats exerçant près la cour d'appel de Monaco ou qu'il lui en sera désigné un d'office s'il en fait la demande.
+- 2°) Les dispositions de l'alinéa précédent reçoivent application lorsque l'intéressé est présenté au juge d'instruction soit par le procureur général sur ses réquisitions, soit sur décision du juge d'instruction dans le cadre de sa commission rogatoire. Néanmoins, et avant de procéder à son interrogatoire, le juge d'instruction informe la personne sur le point d'être inculpée, de son droit de choisir un défenseur parmi les avocats-défenseurs ou les avocats exerçant près la cour d'appel de Monaco, ou de demander qu'il lui en soit désigné un d'office. L'accomplissement de cette formalité est mentionné à peine de nullité de toute la procédure ultérieure.
 
-L'accomplissement de cette formalité est mentionné à peine de nullité de toute la procédure ultérieure.
-
-La désignation d'un défenseur, à défaut de choix, sera obligatoire, à peine de nullité également, pour les mineurs de dix-huit ans et les inculpés en matière criminelle.
-
-La désignation sera faite, dans tous les cas, par le président du tribunal.
-
-La partie civile régulièrement constituée aura aussi le droit de se faire assister d'un défenseur.
+Si l'avocat choisi ne peut être joint, le juge d'instruction informe l'intéressé du droit de demander la désignation d'office d'un défenseur pour la première comparution. Le défenseur choisi ou désigné a le droit de consulter le dossier sur-le-champ et de communiquer librement avec la personne devant faire l'objet de l'inculpation. La personne qui n'est pas assistée d'un avocat a également le droit de consulter le dossier sur‑le-champ. La désignation d'un défenseur, à défaut de choix, sera obligatoire, à peine de nullité également, pour les mineurs de dix-huit ans et les inculpés en matière criminelle. La désignation sera faite, dans tous les cas, par le président du tribunal de première instance. En cas de pluralité de défenseurs et sauf indication contraire de l'intéressé par nouvelle déclaration ou lettre recommandée avec demande d'avis de réception adressée au juge d'instruction, les convocations et notifications seront adressées au premier défenseur désigné.

@@ -1,0 +1,15 @@
+# Article 81-7-4
+
+Lorsque la visite domiciliaire est exercée dans les conditions prévues à l'article 81-7-1, le procureur général et la personne visée au paragraphe IV de l'article 81-7-1 ont seuls le droit de prendre connaissance des éléments découverts lors des visites domiciliaires et permettant d'établir l'existence d'une infraction ou d'en déterminer l'auteur, et notamment, des documents, données informatiques, papiers ou autres objets utiles à la manifestation de la vérité. Le procureur général ne peut pas saisir des documents, données informatiques, papiers ou autres objets, étrangers à l'infraction ou aux infractions mentionnées dans la décision visée aux paragraphes I et II de l'article 81-7-1.
+
+Le procureur général veille à ce que les investigations conduites ne portent pas atteinte au secret professionnel, à l'indépendance de la justice ou au secret médical et, le cas échéant, au libre exercice de la profession d'avocat.
+
+La personne visée au paragraphe IV de l'article 81‑7‑1 peut, si elle l'estime irrégulière, s'opposer à la saisie des éléments découverts lors des visites domiciliaires et permettant d'établir l'existence d'une infraction ou d'en déterminer l'auteur, et notamment, des documents, données informatiques, papiers ou autres objets. Ces éléments litigieux sont alors placés sous scellé fermé et il est dressé procès-verbal, non-joint à la procédure, mentionnant les objections de la personne visée au paragraphe IV de l'article 81-7-1. Le ou les indices litigieux ainsi que le procès-verbal sont transmis sans délai au juge des libertés avec l'original ou une copie de la procédure.
+
+Dans les cinq jours ouvrables de la réception de ces pièces, le juge des libertés statue, à peine de nullité de la saisie, sur la contestation par ordonnance motivée et après avoir entendu le procureur général et les personnes visées aux paragraphes I et IV de l'article 81-7-1.
+
+Lorsque la visite domiciliaire est effectuée dans les locaux de l'Ordre des avocats ou de l'Ordre des médecins, les attributions confiées au juge des libertés au présent article sont exercées par le président du tribunal de première instance qui doit être préalablement avisé de la mesure.
+
+Le scellé peut être ouvert par le juge des libertés en présence des personnes mentionnées au quatrième alinéa. S'il estime qu'il n'y a pas lieu à saisir le ou les éléments mentionnés au troisième alinéa, il ordonne la restitution immédiate ainsi que la destruction du procès-verbal des opérations et, le cas échéant, la cancellation de toute référence à ce document, à son contenu ou à cet objet qui figurerait dans le dossier de la procédure. Dans le cas contraire, il ordonne le versement du scellé et du procès-verbal à la procédure, sans préjudice d'une éventuelle demande ultérieure de nullité de la saisie.
+
+L'ordonnance prise en application du précédent alinéa est notifiée au procureur général et aux personnes visées aux paragraphes I et IV de l'article 81-7-1. Elle peut être déférée à la Chambre du conseil de la Cour d'appel, sur simple requête, dans un délai de quinze jours à compter de la notification de l'ordonnance. Cet appel n'est pas suspensif.

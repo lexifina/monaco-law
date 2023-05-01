@@ -2,8 +2,6 @@
 
 La personne lésée par un crime ou un délit peut également saisir de sa constitution de partie civile un juge d'instruction.
 
-Celui-ci communique la plainte dans les quarante-huit heures au procureur général qui, dans le même délai, présente requête au président du tribunal en vue de la désignation du juge chargé de l'instruire.
+Toutefois en matière délictuelle, lorsque la peine maximale encourue est inférieure ou égale à trois ans d'emprisonnement, la plainte avec constitution de partie civile en matière délictuelle n'est recevable que si une plainte a été déposée au préalable auprès des services de police ou devant le procureur général et, que soit le procureur général a fait connaître sa décision de classer sans suite la plainte, soit qu'un délai de trois mois s'est écoulé depuis que la personne a déposé plainte sans qu'aucun acte d'enquête n'a été réalisé.
 
-Ce dernier, après audition le cas échéant de la partie civile et dépôt de la consignation prévue par l'article 77, est tenu, sur les réquisitions du procureur général, d'informer ou de statuer ainsi qu'il est dit aux articles 84 et 85.
-
-Le plaignant peut toujours prendre la qualité de partie civile tant que l'information n'est pas close.
+Le plaignant peut toujours se constituer partie civile tant que l'information n'est pas close.

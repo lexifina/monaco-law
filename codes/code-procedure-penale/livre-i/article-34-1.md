@@ -4,7 +4,7 @@ En cas de contravention ou de délit, s'il lui apparaît qu'une telle mesure, es
 
 - 1°) procéder au rappel auprès de l'auteur des faits des obligations résultant de la loi ;
 
-- 2°) orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ; cette mesure peut consister dans l'accomplissement par l'auteur des faits, à ses frais
+- 2°) orienter l'auteur des faits vers une structure sanitaire, sociale ou professionnelle ; cette mesure peut consister dans l'accomplissement par l'auteur des faits, à ses frais :
 
   - de traitements ou soins auprès d'une structure sanitaire ou d'un professionnel de santé, notamment une consultation d'un psychiatre ou d'un psychologue ;
 
