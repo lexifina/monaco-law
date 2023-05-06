@@ -26,6 +26,6 @@ Cette Direction est chargée :
 
 12) de proposer les programmes d'équipement et les travaux d'infrastructure concernant l'exploitation de ces services ;
 
-13) d'assurer l'exploitation du Centre Intégré de Gestion de la Mobilité ;
+13) d'assurer la surveillance de la circulation et la gestion du trafic grâce à l'exploitation du Centre Intégré de Gestion de la Mobilité dont les missions sont définies par arrêté ministériel ;
 
 14) d'assurer des missions d'optimisation de l'occupation de l'espace public en délivrant des autorisations et en proposant des schémas de circulation provisoires.
