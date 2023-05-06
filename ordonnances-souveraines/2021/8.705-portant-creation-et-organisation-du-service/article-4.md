@@ -1,10 +1,10 @@
 # Article 4
 
-Au titre de l'exécution de la mission d'intérêt général définie à l'article premier, M.C.R. veille notamment à la production et à la diffusion de programmes de télévision dans le respect de la Constitution ainsi que des lois et règlements en vigueur à Monaco de même que des actes juridiques déterminant ses modalités d'intervention, accompagnés du cahier des charges mentionné à l'article 11.
+Au titre de l'exécution de la mission d'intérêt général définie à l'article premier, TV Monaco veille notamment à la production et à la diffusion de programmes de télévision dans le respect de la Constitution ainsi que des lois et règlements en vigueur à Monaco de même que des actes juridiques déterminant ses modalités d'intervention, accompagnés du cahier des charges mentionné à l'article 11.
 
-M.C.R. est plus spécialement chargée de concevoir et de programmer, suivant une ligne éditoriale indépendante, des émissions de télévision à caractère national ainsi que de fournir aux usagers du service public national télévisuel des programmes complets, répondant aux exigences énoncées à l'article premier et dans le cahier des charges mentionné à l'article 11.
+TV Monaco est plus spécialement chargée de concevoir et de programmer, suivant une ligne éditoriale indépendante, des émissions de télévision à caractère national ainsi que de fournir aux usagers du service public national télévisuel des programmes complets, répondant aux exigences énoncées à l'article premier et dans le cahier des charges mentionné à l'article 11.
 
-Dans ce cadre, M.C.R. contribue à l'information, à la formation ainsi qu'au divertissement du public et, à ce titre, doit en particulier :
+Dans ce cadre, TV Monaco contribue à l'information, à la formation ainsi qu'au divertissement du public et, à ce titre, doit en particulier :
 
 - a) proposer une offre d'émissions assurant la diversité des programmes et comprenant notamment des émissions d'information générale, nationale, européenne et internationale, des émissions de développement culturel, d'éducation permanente, de divertissement et des émissions destinées à la jeunesse ;
 

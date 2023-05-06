@@ -16,8 +16,8 @@ Au sens de la présente Ordonnance, on entend par « service public national té
 
 - g) de concourir au développement et à la diffusion de la création intellectuelle et artistique et des connaissances civiques, économiques, sociales, scientifiques et techniques ;
 
-- h) de concevoir, produire et diffuser des programmes du type de ceux mentionnés aux paragraphes b) et c) se rapportant à des territoires proches de la Principauté et avec lesquels celle-ci entretient des relations dans le domaine administratif, économique, social, sportif ou culturel ;
+- h) de concevoir, produire et diffuser des programmes du type de ceux mentionnés aux paragraphes b) et c) se rapportant notamment à des territoires proches de la Principauté ;
 
-- i) de participer à l'éducation à l'environnement et au développement durable ;
+- i) de participer à l'éducation et à l'environnement et au développement durable notamment au moyen de programmes de dimension internationale ;
 
 - j) de contribuer à l'action audiovisuelle extérieure ainsi qu'à la diffusion de la culture et de l'identité monégasques dans le monde.
