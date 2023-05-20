@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.901 du 10 mai 2023 rendant exécutoire la Convention de l'UNESCO et du Conseil de l'Europe sur la reconnaissance des qualifications relatives à l'enseignement supérieur dans la région européenne (dite Convention de Lisbonne), adoptée le 11 avril 1997 et entrée en vigueur le 1er février 1999
