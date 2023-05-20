@@ -1,0 +1,3 @@
+# Article IV.3
+
+Lorsqu'une qualification ne donne accès qu'à certains types d'établissements ou de programmes spécifiques d'enseignement supérieur dans la Partie dans laquelle elle a été obtenue, toute autre Partie garantit aux titulaires d'une telle qualification l'accès à des programmes spécifiques similaires dans les institutions relevant de son système d'enseignement supérieur, à moins que l'on ne puisse prouver qu'il existe une différence substantielle entre les conditions d'accès dans la Partie dans laquelle la qualification a été obtenue et les conditions d'accès dans la Partie dans laquelle la reconnaissance de la qualification est demandée.

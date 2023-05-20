@@ -1,0 +1,3 @@
+# Article VII
+
+Chaque Partie prend toutes les mesures possibles et raisonnables dans le cadre de son système éducatif, en conformité avec ses dispositions constitutionnelles, légales et administratives, pour élaborer des procédures appropriées permettant d'évaluer équitablement et efficacement si les réfugiés, les personnes déplacées et les personnes assimilées aux réfugiés remplissent les conditions requises pour l'accès à l'enseignement supérieur, la poursuite de programmes d'enseignement supérieur complémentaires ou l'exercice d'une activité professionnelle et ce même lorsque les qualifications obtenues dans l'une des Parties ne peuvent être prouvées par des documents les attestant.

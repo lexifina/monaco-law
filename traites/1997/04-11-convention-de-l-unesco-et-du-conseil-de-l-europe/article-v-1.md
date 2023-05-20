@@ -1,0 +1,3 @@
+# Article V.1
+
+Chaque Partie reconnaît les périodes d'études accomplies dans le cadre d'un programme d'enseignement supérieur dans une autre Partie. Cette reconnaissance comprend de telles périodes d'études en vue de l'accomplissement d'un programme d'enseignement supérieur dans la Partie dans laquelle la reconnaissance est demandée, à moins que l'on ne puisse démontrer qu'il existe une différence substantielle entre les périodes d'études accomplies dans une autre Partie et la partie du programme d'enseignement supérieur qu'elles remplaceraient dans la Partie où la reconnaissance est demandée.
