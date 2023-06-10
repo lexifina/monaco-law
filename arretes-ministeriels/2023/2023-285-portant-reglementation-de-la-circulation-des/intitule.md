@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-285 du 7 juin 2023 portant réglementation de la circulation des piétons, le stationnement et la circulation des véhicules à l'occasion du Jumping International de Monte-Carlo 2023
