@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-292 du 7 juin 2023 modifiant l'arrêté ministériel n° 2003-415 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse de compensation des services sociaux, modifié
