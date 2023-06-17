@@ -383,3 +383,21 @@ La tarification des différents honoraires facturés par les pharmaciens d'offic
 - Honoraires de dispensation médicament spécifique : 3,57 euros
 
 Ces tarifs entrent en vigueur à compter du 1er janvier 2020.
+
+6. Test rapide oro-pharyngé d'orientation diagnostique (TROD)
+
+Le test rapide oro-pharyngé d'orientation diagnostique des angines à streptocoque du groupe A, réalisé en officine par un pharmacien dans les conditions prévues par la réglementation, peut donner lieu à la facturation d'un honoraire fixé selon les circonstances de cette réalisation.
+
+6.1. Patient se présentant spontanément à l'officine avec un mal de gorge, sans consultation médicale préalable.
+
+Le tarif est fixé à 6 € quel que soit le résultat du test.
+
+6.2. Patient orienté par son médecin avec une ordonnance conditionnelle d'antibiotiques.
+
+En cas de résultat positif, le tarif est fixé à 6 €.
+
+En cas de résultat négatif, le tarif est fixé à 7 €.
+
+D - Frais d'orthopédie
+
+La prise en charge des dispositifs médicaux pour traitements et matériels d'aide à la vie, aliments diététiques et articles pour pansements, des orthèses et prothèses externes, des dispositifs médicaux implantables et des véhicules pour handicapés physiques, et plus généralement tous les dispositifs qui y figurent, hormis l'optique médicale, médicalement prescrits, est assurée conformément aux conditions et tarifs fixés par la Liste des Produits et Prestations remboursables par l'Assurance Maladie (LPP) publiée en France.
