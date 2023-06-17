@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-294 du 7 juin 2023 approuvant la modification des statuts du syndicat patronal dénommé « Chambre Monégasque des Interprètes, Traducteurs et Formateurs linguistiques Professionnels »
