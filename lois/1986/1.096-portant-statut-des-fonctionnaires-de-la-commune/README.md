@@ -1,8 +1,8 @@
 # Loi n° 1.096 du 7 août 1986 portant statut des fonctionnaires de la Commune
 
-Version en vigueur au 1er janvier 2023.
+Version en vigueur au 1er juillet 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1986/08-07-1.096@2023.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1986/08-07-1.096@2023.07.01/
 
 | | |
 | --- | --- |
