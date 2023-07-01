@@ -4,7 +4,7 @@ Les valeurs de base des prestations en nature servant à la détermination du ta
 
 A - Honoraires
 
-MÉDECINS : | Tarifs d'autorité en euro(s) |
+MÉDECINS : | Tarifs d'autorité en € |
 
 C | Consultation omnipraticien | 6,3
 
@@ -62,15 +62,15 @@ K non agressif [K] | Actes d'investigation et de spécialité | 1,04
 
 KE | Actes d'échographie et de doppler | 1,04
 
-CDE | Consultation Spéciale en Dermatologie | 11,34 euro(s)
+CDE | Consultation Spéciale en Dermatologie | 11,34 €
 
-MPF | Majoration consultation famille | 3 euro(s)
+MPF | Majoration consultation famille | 3 €
 
-MAF | Majoration consultation annuelle famille | 3 euro(s)
+MAF | Majoration consultation annuelle famille | 3 €
 
-MAU | Majoration d'Acte Unique | 0,45 euro(s)
+MAU | Majoration d'Acte Unique | 0,45 €
 
-MCI | Majoration de Coordination Infirmière | 1,68 euro(s)
+MCI | Majoration de Coordination Infirmière | 1,68 €
 
 AUXILIAIRES MÉDICAUX : |
 
@@ -80,7 +80,7 @@ AMI | Actes pratiqués par l'infirmier | 0,83
 
 AIS | Actes infirmiers de soins | 0,70
 
-PAI | Forfait pour soin infirmier en pratique avancée | 8,62 euro(s)
+PAI | Forfait pour soin infirmier en pratique avancée | 8,62 €
 
 [DAMI] | Indemnité de déplacement infirmier | 0,54
 
@@ -120,7 +120,7 @@ AMY | Actes pratiqués par l'orthoptiste | 0,76
 
 [DAMY] | Indemnité de déplacement orthoptiste | 0,52
 
-RNO | Réalisation d'un bilan visuel dans le cadre d'un protocole de délégation entre l'ophtalmologue et l'orthoptiste | 28 euro(s)
+RNO | Réalisation d'un bilan visuel dans le cadre d'un protocole de délégation entre l'ophtalmologue et l'orthoptiste | 28 €
 
 Majorations pour dimanche et nuit : |
 
@@ -214,7 +214,7 @@ IFD | Indemnité forfaitaire de déplacement | 3,81
 
 Des indemnités forfaitaires sont versées aux Médecins Généralistes de la Principauté par les Régimes obligatoires d'Assurance Maladie, pour chaque garde effectuée, soit du lundi au vendredi de 19 heures à 22 heures, soit le samedi, le dimanche et les jours fériés de 7 heures à 22 heures.
 
-Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent à 75 euro(s) pour chaque tour de garde complet assuré.
+Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent à 75 € pour chaque tour de garde complet assuré.
 
 Le règlement des indemnités forfaitaires intervient trimestriellement, à compter du mois de janvier de chaque année, dans les 30 jours de la communication, par l'Ordre des Médecins de la Principauté de Monaco, à la Caisse de Compensation des Services Sociaux, d'un relevé nominatif des tours de garde assurés.
 
@@ -222,65 +222,71 @@ Cette dernière procède au versement des indemnités forfaitaires et à la réc
 
 B - Soins externes hospitaliers - établissements publics
 
+Pour ce qui concerne les actes dispensés par les médecins, dentistes, sages-femmes et auxiliaires médicaux, lorsqu'un tarif maximum d'honoraires a été fixé avec les représentants qualifiés de ces professionnels de santé, conformément à l'article 22 de la loi n° 1.048 du 28 juillet 1982, susvisée, la valeur la plus basse de ce tarif s'applique aux actes désignés, nonobstant ce qui suit.
+
 Lettre-clé | Acte | Tarifs d'autorité
 
 Actes dispensés par les médecins |
 
-C | Consultation médecin généraliste | 22,00 euro(s)
+C | Consultation médecin généraliste | 22,00 €
 
-CS | Consultation par médecin spécialiste | 28,51euro(s)
+CS | Consultation par médecin spécialiste | 28,51 €
 
-CPSY | Consultation par Neuropsychiatre | 35,83 euro(s)
+CPSY | Consultation par Neuropsychiatre | 35,83 €
 
-CSC | Consultation approfondie en cardiologie | 73,18 euro(s)
+CSC | Consultation approfondie en cardiologie | 73,18 €
 
-CDE | Consultation Spéciale en Dermatologie | 44,00 euro(s)
+CDE | Consultation Spéciale en Dermatologie | 44,00 €
+
+TVA | Forfait mensuel pour opérateur de télésurveillance de niveau 1, par patient | 11 €
+
+TVB | Forfait mensuel pour opérateur de télésurveillance de niveau 2, par patient | 28 €
 
 Actes dispensés par les dentistes |
 
-CCD | Consultation | 22,00 euro(s)
+CCD | Consultation | 22,00 €
 
-D | Soins dentaires | 3,99 euro(s)
+D | Soins dentaires | 3,99 €
 
-Z (R) | Actes utilisant les radiations ionisantes | 2,72 euro(s)
+Z (R) | Actes utilisant les radiations ionisantes | 2,72 €
 
 Actes dispensés par les sages-femmes |
 
-CSF | Consultation sage-femme | 17,00 euro(s)
+CSF | Consultation sage-femme | 17,00 €
 
-SF | Actes pratiqués par la sage-femme | 2,73 euro(s)
+SF | Actes pratiqués par la sage-femme | 2,73 €
 
-SFI | Soins infirmiers pratiqués par la sage-femme | 2,73 euro(s)
+SFI | Soins infirmiers pratiqués par la sage-femme | 2,73 €
 
-CSF2 | Séance de préparation à l'accouchement | 34,00 euro(s)
+CSF2 | Séance de préparation à l'accouchement | 34,00 €
 
-SP | Séance de suivi postnatal réalisé par la sage-femme | 18,55 euro(s)
+SP | Séance de suivi postnatal réalisé par la sage-femme | 18,55 €
 
 Actes dispensés par les auxiliaires médicaux |
 
-AMC | Actes pratiqués par le kinésithérapeute | 2,29 euro(s)
+AMC | Actes pratiqués par le kinésithérapeute | 2,29 €
 
-AMI | Actes pratiqués par l'infirmier | 3,15 euro(s)
+AMI | Actes pratiqués par l'infirmier | 3,15 €
 
-PAI | Forfait pour soin infirmier en pratique avancée | 32,70 euro(s)
+PAI | Forfait pour soin infirmier en pratique avancée | 32,70 €
 
-MIP | Majoration liée à l'âge du patient (- de 7 ans ou 80 ans et +) pour réalisation d'un soin infirmier en pratique avancée | 3,90 euro(s)
+MIP | Majoration liée à l'âge du patient (- de 7 ans ou 80 ans et +) pour réalisation d'un soin infirmier en pratique avancée | 3,90 €
 
-AMY | Actes pratiqués par l'orthoptiste | 2,38 euro(s)
+AMY | Actes pratiqués par l'orthoptiste | 2,38 €
 
-AMO | Actes pratiqués par l'orthophoniste | 2,40 euro(s)
+AMO | Actes pratiqués par l'orthophoniste | 2,40 €
 
-DAMO | Indemnité de déplacement pour l'orthophoniste | 1,52 euro(s)
+DAMO | Indemnité de déplacement pour l'orthophoniste | 1,52 €
 
 Autres actes | |
 
 K | Actes de spécialité | 3,31euro(s)
 
-KA | Actes de chirurgie et de spécialité | 3,60 euro(s)
+KA | Actes de chirurgie et de spécialité | 3,60 €
 
-B, BR, BM | Actes de biologie | 0,27 euro(s)
+B, BR, BM | Actes de biologie | 0,27 €
 
-BP | Actes d'anatomo-cytho-pathologie | 0,29 euro(s)
+BP | Actes d'anatomo-cytho-pathologie | 0,29 €
 
 C - Frais pharmaceutiques
 
@@ -312,17 +318,17 @@ Pour ces catégories, et lorsqu'un accord exceptionnel a été délivré, la val
 
 Des indemnités de délivrance sont facturables aux patients lorsque la dispensation de produits pharmaceutiques intervient à volets fermés. Elles sont prises en charge intégralement au vu de leur facturation par le pharmacien de garde et dans la limite des tarifs suivants, par ordonnance :
 
-- indemnité de nuit : | 8,00 euro(s) ;
+- indemnité de nuit : | 8,00 € ;
 
-- indemnité de samedi, dimanche ou jour férié | 5,00 euro(s) ;
+- indemnité de samedi, dimanche ou jour férié | 5,00 € ;
 
-- indemnité jours ouvrables | 2,00 euro(s).
+- indemnité jours ouvrables | 2,00 €.
 
 Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, à compter du 1er janvier 2019 et pour chaque tour de garde complet assuré :
 
-- la nuit : | à 190 euro(s) ;
+- la nuit : | à 190 € ;
 
-- la journée du samedi, du dimanche ou d'un jour férié | à 190 euro(s) ;
+- la journée du samedi, du dimanche ou d'un jour férié | à 190 € ;
 
 Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le Directeur de la Caisse de Compensation des Services Sociaux, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
 
