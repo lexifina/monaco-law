@@ -1,0 +1,5 @@
+# Article 7
+
+Le montant de l'indemnisation prévue par l'article 7 de la loi n° 1.541 du 16 décembre 2022, susvisée, est égal à la somme du montant des préjudices imputés à l'infection nosocomiale, déduction faite du montant des sommes perçues ou pouvant être perçues par le demandeur au titre d'une indemnisation desdits préjudices par un organisme autre qu'un organisme d'assurance maladie obligatoire. Il est fait une évaluation du montant de l'indemnisation pour les préjudices patrimoniaux d'une part, et ceux extrapatrimoniaux, d'autre part. Toutefois, lorsque la somme des montants d'indemnisation ainsi calculé excède le montant du plafond correspondant, fixé à l'article premier du présent arrêté, l'indemnisation est réduite au montant de ce plafond.
+
+L'indemnisation des frais de logement adapté, de véhicule adapté ou d'assistance à tierce personne n'est pas due lorsque le demandeur bénéficie d'une prise en charge de ces frais au titre du handicap, en application de la loi n° 1.410 du 2 décembre 2014, modifiée, susvisée.
