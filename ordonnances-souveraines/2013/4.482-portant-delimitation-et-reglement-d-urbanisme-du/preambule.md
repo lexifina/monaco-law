@@ -18,7 +18,7 @@ Vu l'ordonnance souveraine n° 11.259 du 29 avril 1994 rendant exécutoire la Co
 
 Vu l'ordonnance souveraine n° 11.975 du 25 juin 1996 rendant exécutoire la Convention des Nations-Unies sur le droit de la mer, faite à Montego Bay le 10 décembre 1982 ;
 
-Vu l'ordonnance souveraine n° 14.082 du 21 juillet 1999 rendant exécutoire la Convention Alpine et son Protocole d'application ;
+Vu l'ordonnance souveraine n° 14.082 du 21 juillet 1999 rendant exécutoire la Convention Alpine et son Protocole d'application ; ;
 
 Vu l'ordonnance souveraine n° 14.856 du 23 avril 2001 rendant exécutoire le Protocole sur les aires spécialement protégées et à la diversité biologique en Méditerranée (dit protocole ASPIM) et ses annexes relatifs à la Convention de Barcelone ;
 
@@ -32,7 +32,7 @@ Vu l'ordonnance souveraine n° 15.630 du 13 janvier 2003 portant délimitation, 
 
 Vu l'ordonnance souveraine n° 15.955 du 16 septembre 2003 portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du quartier ordonnancé de Malbousquet, modifiée ;
 
-Vu l'ordonnance souveraine n° 16.278 du 2 avril 2004 rendant exécutoire à Monaco l'accord relatif à la protection de l'environnement marin et côtier d'une zone de la mer méditerranée (Accord RAMOGE) signé entre les Gouvernements de la République française, de la République italienne et de S.A.S. le Prince de Monaco ;
+Vu l'ordonnance souveraine n° 16.278 du 2 avril 2004 rendant exécutoire à Monaco l'Accord relatif à la protection de l'environnement marin et côtier d'une zone de la mer méditerranée (Accord RAMOGE) signé entre les Gouvernements de la République française, de la République italienne et de S.A.S. le Prince de Monaco ;
 
 Vu l'ordonnance souveraine n° 16.313 du 6 mai 2004 portant délimitation, plans de coordination et règlement particulier d'Urbanisme, de Construction et de Voirie du quartier ordonnancé de Fontvieille, modifiée ;
 
