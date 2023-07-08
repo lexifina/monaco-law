@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 9.965 du 30 juin 2023 rendant exécutoire l'Accord entre la Principauté de Monaco et le Grand-Duché de Luxembourg concernant l'hébergement de données et de systèmes d'information, signé à Luxembourg le 15 juillet 2021
