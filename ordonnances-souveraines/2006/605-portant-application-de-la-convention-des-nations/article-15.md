@@ -1,3 +1,3 @@
 # Article 15
 
-Les infractions définies aux articles 4 à 8 et à l'article 10 se prescrivent par dix ans.
+Les infractions définies aux articles 7, 8 et 10 se prescrivent par dix ans.

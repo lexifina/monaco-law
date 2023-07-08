@@ -6,8 +6,8 @@ Constitue l'infraction de trafic illicite de migrants tout acte commis et ayant 
 
 - 2) de permettre à une telle personne de demeurer dans cet État, sans satisfaire aux conditions nécessaires pour y séjourner légalement, par tout moyen illégal, et notamment par le fait :
 
-  - a ) de contrefaire ou de modifier frauduleusement un titre de transport, ou un titre de voyage ou d'identité en tenant lieu,
+  - a) de contrefaire ou de modifier frauduleusement un titre de transport, ou un titre de voyage ou d'identité en tenant lieu,
 
-  - b ) de procurer ou posséder un tel document délivré ou obtenu de manière irrégulière, moyennant fausse déclaration, corruption ou contrainte, ou de toute autre manière illégale,
+  - b) de procurer ou posséder un tel document délivré ou obtenu de manière irrégulière, moyennant fausse déclaration, corruption ou contrainte, ou de toute autre manière illégale,
 
-  - c ) d'utiliser un tel document à la place de son titulaire légitime.
+  - c) d'utiliser un tel document à la place de son titulaire légitime.
