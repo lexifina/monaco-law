@@ -1,8 +1,8 @@
 # Loi n° 1.381 du 29 juin 2011 relative aux droits d'enregistrement exigibles sur les mutations de biens et droits immobiliers
 
-Version en vigueur au 12 décembre 2015.
+Version en vigueur au 15 juillet 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2011/06-29-1.381@2015.12.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2011/06-29-1.381@2023.07.15/
 
 | | |
 | --- | --- |

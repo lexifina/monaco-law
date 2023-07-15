@@ -1,6 +1,6 @@
 # Article 15
 
-Le droit de 4,5 % établi à l'article 13 n'est pas exigible lorsque le changement de bénéficiaires économiques effectifs résulte :
+Le droit de 4,75 % établi à l'article 13 n'est pas exigible lorsque le changement de bénéficiaires économiques effectifs résulte :
 
 - d'une libéralité ou d'une dévolution successorale légale en faveur du conjoint, des ascendants ou des descendants en ligne directe ;
 
