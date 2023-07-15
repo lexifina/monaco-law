@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 29 avril 1828 sur l'enregistrement, le timbre, les droits de greffe et les hypothèques
 
-Version en vigueur au 24 juillet 2004.
+Version en vigueur au 15 juillet 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1828/04-29-L000678@2004.07.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1828/04-29-L000678@2023.07.15/
 
 | | |
 | --- | --- |
