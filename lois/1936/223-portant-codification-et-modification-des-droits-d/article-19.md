@@ -4,4 +4,4 @@ Si la mutation n'est pas pure et simple et si l'acte renferme les clauses, condi
 
 S'il s'agit d'un échange de bien situé dans la Principauté contre un bien situé à l'étranger, le droit devra être perçu comme pour les échanges ordinaires ; à l'égard d'une soulte ou plus-value dérivant de l'un de ces biens, le droit proportionnel ne sera perçu que pour celle provenant du bien situé dans la Principauté.
 
-Dans le cas contraire, il ne sera perçu pour la plus-value que le droit fixe de dix euros.
+Dans le cas contraire, il ne sera perçu pour la plus-value que le droit fixe de cinquante euros.
