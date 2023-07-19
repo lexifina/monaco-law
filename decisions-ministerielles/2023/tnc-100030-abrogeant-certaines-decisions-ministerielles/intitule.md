@@ -1,0 +1,1 @@
+Décision ministérielle du 18 juillet 2023 abrogeant certaines Décisions ministérielles prises en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
