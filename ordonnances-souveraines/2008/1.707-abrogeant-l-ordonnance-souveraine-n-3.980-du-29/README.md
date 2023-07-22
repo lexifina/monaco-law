@@ -1,8 +1,8 @@
 # Ordonnance n° 1.707 du 2 juillet 2008 abrogeant l'ordonnance souveraine n° 3.980 du 29 février 1968 sur la Commission Supérieure des Comptes, modifiée
 
-Version en vigueur au 12 juillet 2008.
+Version en vigueur au 22 juillet 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/07-02-1.707@2008.07.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/07-02-1.707@2023.07.22/
 
 | | |
 | --- | --- |
