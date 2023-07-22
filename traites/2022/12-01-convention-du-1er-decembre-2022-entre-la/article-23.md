@@ -1,0 +1,15 @@
+# Article 23
+
+- Les nationaux d'un État contractant ne sont pas soumis dans l'autre État contractant à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celles auxquelles sont ou pourront être assujettis les nationaux de cet autre État qui se trouvent dans la même situation, notamment concernant la résidence. La présente disposition s'applique également, nonobstant les dispositions de l'article 1, aux personnes qui ne sont pas des résidents de l'un ou des deux États contractants.
+
+- Les apatrides qui sont des résidents d'un État contractant ne sont soumis dans aucun des États contractants à une imposition ou obligation y relative, qui est autre ou plus lourde que celles auxquelles sont ou pourront être assujettis les nationaux de l'État concerné se trouvant dans la même situation, notamment concernant la résidence.
+
+- L'imposition d'un établissement stable qu'une entreprise d'un État contractant a dans l'autre État contractant ne devrait pas être établie dans cet autre État de façon moins favorable que l'imposition des entreprises de cet autre État qui exercent la même activité. La présente disposition ne peut être interprétée comme obligeant un État contractant à accorder aux résidents de l'autre État contractant les déductions personnelles, abattements et réductions d'impôt en fonction de l'état civil ou des charges de famille qu'il accorde à ses propres résidents.
+
+- À moins que les dispositions du paragraphe 1 de l'article 9, du paragraphe 5 de l'article 11 ou du paragraphe 6 de l'article 1 2 ne soient applicables, les intérêts, redevances et autres débours payés par une entreprise d'un État contractant à un résident de l'autre État contractant sont déductibles, pour déterminer des bénéfices imposables de cette entreprise, dans les mêmes conditions que s'ils avaient été payés à un résident du premier État. De même, les dettes d'une entreprise d'un État contractant envers un résident de l'autre État contractant sont déductibles, pour la détermination du capital imposable de cette entreprise, dans les mêmes conditions que si elles avaient été contractées envers un résident du premier État.
+
+- Les entreprises d'un État contractant, dont le capital est en totalité ou en partie détenu ou contrôlé, directement ou indirectement, par un ou plusieurs résidents de l'autre État contractant, ne sont soumises dans le premier État à aucune imposition ou obligation y relative, qui est autre ou plus lourde que celles auxquelles sont ou pourront être assujetties les autres entreprises similaires du premier État.
+
+- Chaque État contractant n'applique pas de mesures préjudiciables ou restrictives fondées sur des pratiques fiscales dommageables aux résidents ou aux ressortissants de l'une ou l'autre des Etats contractants, ces mesures comprenant, sans s'y limiter, l'inscription sur une liste discriminatoire de manière arbitraire.
+
+- Les dispositions du présent article s'appliquent, nonobstant les dispositions de l'article 2, aux impôts de toute nature et dénomination.
