@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-426 du 14 juillet 2023 relatif à la maîtrise énergétique des éclairages et des lumières intérieures, des façades, des vitrines et des enseignes de certains locaux professionnels en période estivale
