@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-425 du 14 juillet 2023 relatif à la maîtrise énergétique au sein des bâtiments publics affectés à une mission de services publics et à l'exemplarité de l'État et de la Commune
