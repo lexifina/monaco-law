@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2018-1079 du 21 novembre 2018 portant règlement relatif aux principes généraux de sécurité contre les risques d'incendie et de panique dans les constructions
 
-Version en vigueur au 7 novembre 2020.
+Version en vigueur au 22 juillet 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/11-21-2018-1079@2020.11.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/11-21-2018-1079@2023.07.22/
 
 | | |
 | --- | --- |
