@@ -10,9 +10,9 @@ L'appareil sera réputé avoir subi l'épreuve avec succès s'il a supporté la 
 
 Après qu'un appareil ait été éprouvé avec succès, l'expert appose, en regard de la marque portant la pression d'épreuve, les chiffres indiquant la date de l'épreuve, suivis de son poinçon. Il poinçonne également, si elles n'ont déjà été poinçonnées auparavant, les marques d'identité prévues à l'article 3 ci-dessus ou appose sur l'appareil une marque indélébile.
 
-Toutefois, si au vu des documents qui lui sont communiqués à l'occasion de l'épreuve ou lors de l'examen de l'appareil qu'il effectue pendant l'épreuve, l'expert se trouve amené à constater l'existence soit d'une inobservation des règlements, soit d'une défectuosité susceptible de rendre dangereux l'emploi de l'appareil, il sursoit au poinçonnage et en rend compte au Président de la Commission Technique pour la Lutte contre la Pollution et pour la Sauvegarde de la Sécurité, de l'Hygiène, de la Salubrité et de la Tranquillité Publique qui statue.
+Toutefois, si au vu des documents qui lui sont communiqués à l'occasion de l'épreuve ou lors de l'examen de l'appareil qu'il effectue pendant l'épreuve, l'expert se trouve amené à constater l'existence soit d'une inobservation des règlements, soit d'une défectuosité susceptible de rendre dangereux l'emploi de l'appareil, il sursoit au poinçonnage et en rend compte au Président de la Commission Technique d'Hygiène, de Sécurité et de Protection de l'Environnement qui statue.
 
-L'expert qui a procédé à une épreuve établit, quel qu'en soit le résultat. un procès-verbal en deux exemplaires, dont l'un est remis à la personne qui a demandé l'épreuve, l'autre étant adressé au Président de la Commission Technique pour la Lutte contre la Pollution et pour la Sauvegarde de la Sécurité, de l'Hygiène, de la Salubrité et de la Tranquillité Publique.
+L'expert qui a procédé à une épreuve établit, quel qu'en soit le résultat. un procès-verbal en deux exemplaires, dont l'un est remis à la personne qui a demandé l'épreuve, l'autre étant adressé au Président de la Commission Technique d'Hygiène, de Sécurité et de Protection de l'Environnement.
 
 Si l'épreuve n'est pas suivie de l'apposition du poinçon, le procès-verbal en indique le motif.
 
