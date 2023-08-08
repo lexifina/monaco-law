@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.984 du 16 avril 1963 sur l'organisation et le fonctionnement du Tribunal Suprême
 
-Version en vigueur au 30 novembre 2019.
+Version en vigueur au 8 août 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1963/04-16-2.984@2019.11.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1963/04-16-2.984@2023.08.08/
 
 | | |
 | --- | --- |
