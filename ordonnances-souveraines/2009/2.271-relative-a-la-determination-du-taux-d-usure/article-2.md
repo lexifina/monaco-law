@@ -6,9 +6,9 @@ Pour les particuliers :
 
 - Découverts : 14,88 %
 
-- Prêts personnels : 3,32 %
+- Prêts personnels : 4,75 %
 
-- Prêts immobiliers : 3,44 %
+- Prêts immobiliers : 4,01 %
 
 Pour les entreprises et entrepreneurs individuels :
 
