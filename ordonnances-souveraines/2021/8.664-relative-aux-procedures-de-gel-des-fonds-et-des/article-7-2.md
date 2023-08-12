@@ -16,6 +16,8 @@ Ce Comité a pour objet :
 
   - - un exposé des motifs contenant autant d'informations que possible sur les raisons de l'inscription, y compris des informations spécifiques venant étayer la décision selon laquelle la personne ou l'entité remplit les critères pertinents de désignation, la nature des informations, les informations et documents justificatifs pouvant être fournis et les informations sur toute relation entre la personne ou entité dont l'inscription est proposée et toute personne ou entité déjà listée ;
 
+  - - une déclaration précisant si Monaco doit rendre public son statut d'État proposant la désignation.
+
 - 4°) de soumettre au Ministre d'État une proposition de demande à un autre État tendant à donner effet à une mesure de gel nationale, en application du chiffre 2° de l'article 7-1.
 
 - Pour l'application du chiffre 4°), le Comité consultatif en matière de gel des fonds et des ressources économiques fournit les informations pertinentes sur le nom proposé et, en particulier, des informations d'identification suffisantes pour permettre l'identification précise et positive des personnes et entités et des informations spécifiques venant étayer la décision selon laquelle la personne ou l'entité remplit les critères de désignation pertinents ;
@@ -38,7 +40,13 @@ Ce Comité est présidé par le Conseiller de Gouvernement-Ministre des Finances
 
 - - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant ;
 
-- - le Directeur du Budget et du Trésor ou son représentant.
+- - le Directeur du Budget et du Trésor ou son représentant ;
+
+- - le Directeur des Services Fiscaux, ou son représentant ;
+
+- - le Procureur Général ou le magistrat qui le représente ;
+
+Le Président du Comité consultatif peut inviter toute personne qui n'est pas membre dudit Comité à participer sans voix délibérative à ses réunions et à ses travaux.
 
 Le secrétariat de ce Comité est assuré par la Direction du Budget et du Trésor.
 

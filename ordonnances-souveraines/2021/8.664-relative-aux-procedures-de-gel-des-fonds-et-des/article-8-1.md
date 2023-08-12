@@ -28,4 +28,4 @@ Les informations détenues par lesdites autorités de contrôle ne sont utilisé
 
 Les autorités de contrôle mentionnées à l'article 8 peuvent transmettre aux services de l'État visés au deuxième alinéa toute information en lien avec la présente ordonnance utile pour l'exercice de leurs missions respectives.
 
-Lorsqu'elles identifient des informations susceptibles de constituer une méconnaissance aux dispositions de la présente ordonnance, les autorités de contrôle mentionnées à l'article 8 communiquent ces informations au Procureur Général.
+Lorsqu'elles identifient des informations susceptibles de constituer une méconnaissance aux dispositions de la présente ordonnance, les autorités de contrôle mentionnées à l'article 8 communiquent sans délai ces informations au Procureur Général.

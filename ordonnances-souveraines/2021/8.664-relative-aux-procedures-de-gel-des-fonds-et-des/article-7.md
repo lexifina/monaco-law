@@ -9,3 +9,7 @@ Le Ministre d'État peut désigner, par décision prise dans les formes prévues
 - c) toute personne ou entité agissant au nom ou sur instruction de toute personne ou entité désignée à la lettre a) ;
 
 - dès lors qu'il a l'assurance que la désignation envisagée est étayée par des motifs raisonnables permettant de soupçonner que la personne ou l'entité concernée remplit l'un des critères de désignation susmentionnés. Ces désignations ne sont pas subordonnées à l'existence d'une procédure pénale.
+
+La norme de preuve pour décider d'une désignation en vertu du présent article consiste en un motif raisonnable de suspicion ou de croyance que les critères de désignation définis au premier alinéa sont remplis.
+
+Ces décisions sont portées sans délai à la connaissance du Procureur Général.

@@ -12,6 +12,8 @@
 
 - s'il estime disposer de suffisamment d'éléments de preuve pour considérer qu'elles remplissent l'un des critères de désignation susmentionnés. Ces propositions de désignation ne sont pas subordonnées à l'existence d'une procédure pénale.
 
+La norme de preuve pour décider d'une désignation en vertu du présent article consiste en un motif raisonnable de suspicion ou de croyance que les critères de désignation définis au premier alinéa sont remplis.
+
 Ces propositions de désignation sont transmises conformément aux procédures et modèles d'inscription sur les listes adoptées par les Comités compétents du Conseil de sécurité des Nations Unies.
 
 2°) Le Ministre d'État peut décider de demander à un autre État de donner effet à une mesure de gel nationale prise conformément à l'article 7.
