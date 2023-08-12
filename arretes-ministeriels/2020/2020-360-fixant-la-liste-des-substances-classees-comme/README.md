@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2020-360 du 7 mai 2020 fixant la liste des substances classées comme stupéfiants
 
-Version en vigueur au 28 janvier 2023.
+Version en vigueur au 12 août 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/05-07-2020-360@2023.01.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/05-07-2020-360@2023.08.12/
 
 | | |
 | --- | --- |
