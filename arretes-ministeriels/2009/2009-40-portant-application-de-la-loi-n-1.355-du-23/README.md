@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2009-40 du 22 janvier 2009 portant application de la loi n° 1.355 du 23 décembre 2008 concernant les associations et les fédérations d'associations
 
-Version en vigueur au 21 mai 2016.
+Version en vigueur au 23 septembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/01-22-2009-40@2016.05.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2009/01-22-2009-40@2023.09.23/
 
 | | |
 | --- | --- |
