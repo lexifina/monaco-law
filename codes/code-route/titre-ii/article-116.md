@@ -10,6 +10,14 @@ Tout titulaire d'un permis de conduire étranger venant fixer sa résidence norm
 
 Au terme de ce délai, le permis étranger n'est plus valable et son titulaire perd tout droit de conduire un véhicule en Principauté.
 
+Constitue une résidence normale au sens du présent article, le lieu où une personne demeure habituellement, c'est-à-dire pendant au moins 185 jours par année civile, en raison d'attaches personnelles et professionnelles, ou, dans le cas d'une personne sans attaches professionnelles, en raison d'attaches personnelles révélant des liens étroits entre elle-même et l'endroit où elle demeure.
+
+Est présumée avoir sa résidence normale en Principauté, toute personne détentrice d'une carte d'identité monégasque ou d'un passeport monégasque, à charge pour elle d'apporter la preuve contraire.
+
+Les personnes détentrices d'une carte d'identité monégasque ou d'un passeport monégasque doivent remettre au Service des Titres de Circulation une copie de leur titre en cours de validité.
+
+Les personnes détentrices d'une carte de séjour délivrée conformément aux dispositions de l'Ordonnance Souveraine n° 3.153 du 19 mars 1964 relative aux conditions d'entrée et de séjour des étrangers dans la Principauté, modifiée, doivent remettre au Service des Titres de Circulation une copie de leur carte de séjour en cours de validité. Elles doivent également compléter le formulaire mis à leur disposition afin d'attester sur l'honneur de la date à laquelle elles ont fixé leur résidence en Principauté, qu'elles ont acquis leur résidence normale à Monaco et qu'elles y demeurent au moins 185 jours par année civile. Pour ces personnes, la date d'acquisition de la résidence normale est fixée au 186e jour suivant leur date d'arrivée sur le territoire de la Principauté. Toute fausse déclaration sera passible des sanctions prévues à l'article 98 du Code pénal.
+
 L'échange est effectué sous les conditions suivantes :
 
 - 1° - La demande d'échange est sollicitée dans le délai d'un an, à compter de l'acquisition de la résidence normale en Principauté de son titulaire ;
@@ -31,3 +39,5 @@ L'échange est effectué sous les conditions suivantes :
 Si la condition mentionnée au 1° n'est pas remplie, le demandeur doit se soumettre, pour chacune des catégories ou sous-catégories, à un contrôle des aptitudes à la conduite d'un véhicule défini par arrêté ministériel qui, en cas de succès, lui donne droit à l'échange de son permis.
 
 L'échange d'une catégorie permet l'octroi, par équivalence, des sous-catégories du permis de conduire telle que fixée par la réglementation applicable en Principauté dans les mêmes conditions légales en vigueur que le permis national.
+
+Les dispositions du présent article relatives à l'échange du permis de conduire étranger contre un permis délivré par le Service des Titres et de Circulation ne sauraient avoir pour objet ou pour effet d'affecter les dispositions de l'Ordonnance Souveraine n° 3.153 du 19 mars 1964 relatives aux conditions d'entrée et de séjour des étrangers dans la Principauté et ses textes pris pour leur application.
