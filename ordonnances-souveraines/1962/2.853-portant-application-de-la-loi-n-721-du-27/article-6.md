@@ -1,3 +1,3 @@
 # Article 6
 
-À la remise de la demande d'inscription, il est délivré un récépissé provisoire qui mentionne les pièces justificatives jointes. Après vérification de la régularité des déclarations, le service remet au déposant, s'il y a lieu, un exemplaire de la déclaration portant le numéro d'inscription. Ce document sur lequel est apposé le timbre fiscal prévu à l'article 20 de la loi n° 721 du 27 décembre 1961, vaut certificat d'inscription au répertoire.
+Toute déclaration complémentaire, rectificative ou quinquennale et toute demande de radiation doivent être établies en deux exemplaires sur le formulaire dédié, accessible en ligne sur le site internet du Gouvernement Princier ou disponible auprès de la Direction du Développement Économique.

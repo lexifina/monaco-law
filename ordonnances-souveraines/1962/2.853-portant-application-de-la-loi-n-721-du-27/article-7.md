@@ -1,9 +1,11 @@
 # Article 7
 
-Les communications au public, prévues à l'article 19 de la loi n° 721, du 27 décembre 1961, peuvent revêtir les formes suivantes :
+Toute déclaration complémentaire ou rectificative indique notamment les informations élémentaires prévues :
 
-- 1° La copie qui est la reproduction intégrale de toutes les mentions figurant sur les formules de déclaration ;
+- aux chiffres 1°, 4° à 7° du I de l'article 5, lorsque la déclaration concerne l'inscription d'une personne physique ;
 
-- 2° L'extrait qui est l'état de l'immatriculation, compte tenu de la dernière modification enregistrée et des interdictions de communications prévues à l'article 19 susvisé ;
+- aux chiffres 1°, 2°, 5°, 9° a) et 10° du II de l'article 5, lorsque la déclaration concerne l'inscription d'une société ou d'un établissement étranger ;
 
-- 3° Le certificat de l'inscription, de la radiation, ou de la non-inscription d'une mention, pour une référence déterminée.
+- aux chiffres 1°, 2°, 7° et 8° du III de l'article 5, lorsque la déclaration concerne l'inscription d'un groupement d'intérêt économique.
+
+Ces déclarations mentionnent en outre le numéro d'inscription de l'assujetti au répertoire, l'état de l'activité, de la société ou du groupement et l'objet de la modification ou de la rectification de l'une des informations élémentaires prescrites à l'article 5.
