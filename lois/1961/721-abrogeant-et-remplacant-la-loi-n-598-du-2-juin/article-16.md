@@ -1,11 +1,11 @@
 # Article 16
 
-La mention des modifications visées à l'article 4 et énumérées par l'ordonnance portant application de la présente loi, ainsi que la radiation visée à l'article 9, peut être requise par toute personne y ayant intérêt. La requête entraîne, si besoin est, la procédure d'injonction prévue à l'article 8.
+I. Les personnes morales assujetties à l'obligation d'inscription au répertoire du commerce et de l'industrie obtiennent, conservent et tiennent à jour les informations élémentaires visées à l'article 3. À cette fin, elles sont tenues d'obtenir et de conserver les informations adéquates, exactes et actuelles relatives auxdites informations élémentaires ainsi que les pièces justificatives correspondantes.
 
-Si l'administration chargée de la tenue du répertoire rencontre des difficultés ou si une contestation s'élève entre elle et le requérant, les dispositions de l'article 7 sont applicables ; l'assujetti sera appelé aux débats à toutes fins utiles.
+Elles sont tenues de conserver ces informations et pièces pendant dix ans après la date à laquelle elles cessent d'être clientes des organismes et personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée.
 
-Le notaire, qui rédige un acte comportant pour les parties en cause pour l'une d'elles une incidence quelconque sur la matière du répertoire du commerce et de l'industrie, est tenu de procéder aux diverses formalités afférentes, aux termes de la présente loi, à l'acte qu'il a rédigé. S'il reçoit un contrat de mariage entre deux personnes, dont l'une au moins est commerçante au jour de l'union, il doit dans le mois transmettre un extrait dudit contrat au fonctionnaire chargé de la tenue du répertoire pour y être mentionné d'office. Cet extrait mentionne :
+Ces informations et ces pièces sont conservées et disponibles au siège social de la personne morale, ou à défaut, auprès de l'une des personnes ou organismes visés aux chiffres 6°), 13°), 19°) ou 20°) de l'article premier ou aux chiffres 1°) ou 3°) de l'article 2 de la loi n° 1.362 du 3 août 2009, modifiée, dont l'identité et l'adresse sont communiquées au service du répertoire du commerce et de l'industrie.
 
-- 1° Le régime matrimonial adopté par les époux ;
+II. Les dirigeants ou les liquidateurs desdites personnes morales sont tenus de conserver les informations élémentaires visées à l'article 3 et les pièces justificatives correspondantes pendant dix ans après la date de la dissolution ou de la liquidation de la personne morale. Ces informations et ces pièces doivent être conservées et disponibles à Monaco dans un lieu communiqué au service du répertoire du commerce et de l'industrie. Elles peuvent également être confiées aux mêmes fins à l'une des personnes ou organismes visés aux chiffres 6°), 13°), 19°) ou 20°) de l'article premier ou aux chiffres 1°) ou 3°) de l'article 2 de la loi n° 1.362 du 3 août 2009, modifiée, dont l'identité est communiquée au service du répertoire du commerce et de l'industrie.
 
-- 2° Les clauses opposables aux tiers, restrictives de la libre dispositions des biens des époux, ou l'absence de telles clauses.
+Ces informations sont accessibles sur demande aux autorités mentionnées à l'article 20.

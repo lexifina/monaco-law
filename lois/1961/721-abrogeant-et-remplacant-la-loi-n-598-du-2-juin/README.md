@@ -1,8 +1,8 @@
 # Loi n° 721 du 27 décembre 1961 abrogeant et remplaçant la loi n° 598, du 2 juin 1955 instituant un répertoire du commerce et de l'industrie
 
-Version en vigueur au 28 mai 2022.
+Version en vigueur au 25 septembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1961/12-27-721@2022.05.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1961/12-27-721@2023.09.25/
 
 | | |
 | --- | --- |

@@ -1,21 +1,23 @@
 # Article 8
 
-Le magistrat est saisi par voie de requête présentée, selon le cas, par la personne intéressée ou par le fonctionnaire chargé du répertoire.
+Sont mentionnés d'office au répertoire :
 
-L'ordonnance rendue sur requête peut réformer la décision de ce fonctionnaire ou faire obligation à l'assujetti d'accomplir toutes formalités utiles dans le délai qu'elle impartit.
+- 1°) les décisions ordonnant une mesure de protection des majeurs incapables à l'égard d'une personne inscrite au répertoire, les mesures d'incapacité ou d'interdiction d'exercer une activité professionnelle, de gérer, d'administrer ou de diriger une personne morale résultant d'une décision juridictionnelle passée en force de chose jugée ou d'interdiction d'exercer une activité, d'effectuer certaines opérations, de gérer, d'administrer ou de diriger une personne morale résultant d'une décision administrative définitive et les décisions administratives prononçant la suspension ou la privation d'effet de la déclaration d'activité, la suspension ou la révocation de l'autorisation d'exercer ou de l'autorisation de constitution ;
 
-Elle peut notamment, l'assujetti entendu ou dûment appelé :
+- 2°) les décisions judiciaires prononçant la dissolution ou la nullité de la personne morale ;
 
-- 1° lui enjoindre de s'inscrire au répertoire ou de faire les déclarations complémentaires ou rectificatives nécessaires ;
+- 3°) la dissolution d'une société par la survenance du terme statutaire, sauf en cas de prorogation décidée par les associés dans les conditions prévues à l'article 1704 du Code civil ;
 
-- 2° lui ordonner de compléter ou de corriger les demandes ou déclarations qui se seront révélées incomplètes ou inexactes ;
+- 4°) le défaut de la déclaration quinquennale prévue à l'article 4-2 ;
 
-- 3° le radier d'office du répertoire.
+- 5°) la cessation d'activité constatée ;
 
-Expédition de l'ordonnance est notifiée à la diligence du greffe général, par lettre recommandée avec demande d'avis de réception, à l'assujetti et au fonctionnaire chargé du répertoire.
+- 6°) les décisions judiciaires définitives ordonnant la liquidation judiciaire de la société ou la cession totale des actifs ;
 
-L'ordonnance n'est pas susceptible d'opposition.
+- 7°) les jugements de cessation des paiements visés au deuxième alinéa de l'article 408 du Code de commerce ;
 
-Appel peut être interjeté devant la cour d'appel dans les quinze jours suivant la notification de l'ordonnance ; il est formé par simple inscription sur un registre spécial tenu au greffe général.
+- 8°) le décès d'une personne inscrite ;
 
-Les parties sont averties qu'elles doivent comparaître à la plus prochaine audience, aux frais avancés par l'appelant ; l'avertissement est donné, par lettre recommandée du greffier en chef, adressée avec demande d'avis de réception.
+- 9°) la réunion de toutes les parts ou actions en une seule main, ainsi que la date de survenance de cet évènement, ou la décision judiciaire accordant une prorogation dans les conditions prévues à l'article 1703‑I du Code civil.
+
+La Direction du Développement Économique est informée des décisions et jugements visés aux chiffres 1°), 2°), 6°), 7°) et 9°), ainsi que du décès d'une personne inscrite au répertoire, dans les conditions définies par ordonnance souveraine.

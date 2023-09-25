@@ -1,7 +1,7 @@
 # Article 7
 
-Le président du tribunal de première instance ou le magistrat délégué à cet effet connaît :
+Les formes de la demande d'inscription, de déclarations complémentaires, rectificatives ou quinquennales et des demandes de radiation, ainsi que la nature et la liste des pièces justificatives à fournir, sont déterminées par ordonnance souveraine.
 
-- 1° des contestations nées à l'occasion de demandes d'inscription, de déclarations complémentaires ou rectificatives ou de demandes en délivrance de copies, extraits et certificats d'inscription ou de non-inscription ;
+L'accomplissement de ces formalités d'inscription, de mention, de modification, de déclarations quinquennales et de radiation, ainsi que la délivrance des extraits visés à l'article 19, sont soumis à la perception de droits de timbre dont les montants sont fixés par ordonnance souveraine.
 
-- 2° des demandes formées en vue soit de faire injonction à des assujettis de procéder à leur inscription, d'effectuer les déclarations complémentaires ou rectificatives nécessaires ou de corriger des mentions incomplètes ou inexactes, soit de les faire radier d'office du répertoire.
+La perception des droits est constatée au moyen de l'apposition du timbre unique, en application de la loi n° 1.221 du 9 novembre 1999, modifiée.

@@ -1,3 +1,3 @@
 # Article 11
 
-Les droits et émoluments afférents aux formalités effectuées en application des articles 8 et 10 sont à la charge de l'assujetti.
+Toute personne y ayant intérêt peut solliciter de la Direction du Développement Économique la modification des informations élémentaires visées à l'article 4, ainsi que la radiation visée à l'article 4-3. À réception de cette demande, le Directeur du Développement Économique en avise la personne concernée en vue de recueillir ses observations. Si la demande est fondée, il invite l'assujetti à régulariser sa situation dans un délai qu'il détermine. À défaut de réponse dans le délai d'un mois ou de régularisation dans le délai déterminé, le Directeur procède conformément aux dispositions des articles 28 et 29.

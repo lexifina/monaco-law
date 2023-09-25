@@ -1,3 +1,3 @@
 # Article 26
 
-En même temps qu'il prononce les peines prévues ci-dessus, le tribunal ordonne, soit l'inscription d'office, soit la rectification des mentions inexactes ou incomplètes.
+Les sanctions administratives pécuniaires sont à régler à la Trésorerie Générale des Finances de la Principauté dans un délai de soixante jours suivant la date de leur notification et portent intérêt calculé au taux de l'intérêt légal applicable par mois de retard, à l'expiration de ce délai.

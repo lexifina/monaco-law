@@ -1,3 +1,3 @@
 # Article 17
 
-Tout commerçant inscrit au répertoire doit confirmer tous les cinq ans, aux dates et dans les formes qui sont fixées par ordonnance souveraine, les déclarations exigées par les articles 3 et 4, ce alors même qu'il aurait, dans le courant des années considérées effectué une ou plusieurs déclarations en vertu des dispositions de la présente loi.
+Les informations, les pièces justificatives visées à l'article 16 et le registre visé à l'article 16-1 sont accessibles, sur demande et dans le délai qu'ils déterminent, aux agents habilités de la Direction du Développement Économique et aux autorités visées à l'article 20.

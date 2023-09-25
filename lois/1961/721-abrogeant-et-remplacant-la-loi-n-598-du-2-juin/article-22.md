@@ -1,3 +1,3 @@
 # Article 22
 
-Les infractions aux dispositions de l'article premier de la présente loi sont punies d'une amende de seize à vingt-deux nouveaux francs.
+La Direction du Développement Économique supervise et veille au respect par les personnes tenues à l'inscription au répertoire du commerce et de l'industrie des dispositions de la présente loi et des mesures prises pour son application.

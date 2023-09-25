@@ -1,3 +1,3 @@
 # Article 21
 
-Une ordonnance souveraine règle l'organisation du service chargé de la tenue du répertoire et fixe les conditions dans lesquelles les renseignements figurant au répertoire sont communiqués aux diverses administrations.
+Les agents habilités de la Direction du Développement Économique ayant accès aux informations élémentaires inscrites au répertoire sont soumis au secret professionnel sous peine des sanctions prévues à l'article 308 du Code pénal.
