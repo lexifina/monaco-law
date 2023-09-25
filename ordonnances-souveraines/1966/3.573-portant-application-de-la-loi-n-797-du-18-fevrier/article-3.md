@@ -1,21 +1,9 @@
 # Article 3
 
-La demande d'inscription contiendra les renseignements suivants :
+Pour satisfaire à la formalité d'inscription, à celle des déclarations subséquentes, ou à celle de la demande de radiation, les pièces justificatives doivent être déposées en langue française, le cas échéant, traduites et certifiées conformes par le déclarant. Seul le dépôt des pièces justificatives en langue française fait foi.
 
-- a) La forme de la société ;
+Lorsque la pièce justificative déposée est une copie, celle-ci est certifiée conforme par le déclarant.
 
-- b) La dénomination sociale et les abréviations utilisées ;
+Des pièces justificatives complémentaires peuvent être demandées au déclarant lorsque le service du répertoire du commerce et de l'industrie l'estime nécessaire.
 
-- c) L'objet de la société ;
-
-- d) La nature des activités effectivement exercées par la société à titre principal et, le cas échéant, à titre secondaire ;
-
-- e) L'adresse du siège social ;
-
-- f) Les nom, prénoms et adresse de chacune des personnes ayant qualité pour administrer la société ;
-
-- g) Le montant du capital social et le nombre d'actions ou de parts qui le représentent ;
-
-- h) La date de la constitution de la société ;
-
-- i) La durée de la société.
+Lorsque le dossier relatif à la demande d'inscription, aux déclarations subséquentes ou à la demande de radiation est incomplet, notification en est faite au déclarant ou à son mandataire, par lettre recommandée avec demande d'avis de réception, d'avoir à régulariser le dossier. À défaut de régularisation dans un délai de trente jours suivant la notification, la demande d'inscription, les déclarations subséquentes ou la demande de radiation sont refusées et les droits perçus en application de l'article 19 sont conservés.
