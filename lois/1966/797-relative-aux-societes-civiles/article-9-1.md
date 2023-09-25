@@ -1,7 +1,0 @@
-# Article 9-1
-
-Les sociétés civiles sont soumises à l'obligation de tenue d'une comptabilité dont les modalités seront précisées par arrêté ministériel.
-
-Les documents afférents à la comptabilité ainsi que toutes les pièces justificatives correspondantes, doivent être conservés au siège social des sociétés civiles pendant une durée d'au moins cinq années.
-
-En cas de manquement à cette obligation, le ou les administrateurs sont passibles de l'amende prévue au chiffre 4 de l'article 26 du Code pénal.

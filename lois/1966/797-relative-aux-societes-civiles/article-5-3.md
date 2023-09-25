@@ -1,0 +1,13 @@
+# Article 5-3
+
+I. Toute société civile obtient, conserve et tient à jour les informations élémentaires visées à l'article 5-1. À cette fin elle est tenue d'obtenir et de conserver les informations adéquates, exactes et actuelles relatives auxdites informations élémentaires ainsi que les pièces justificatives correspondantes.
+
+Elles sont tenues de conserver ces informations et pièces pendant dix ans après la date à laquelle elles cessent d'être clientes des organismes et personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée.
+
+Ces informations et ces pièces sont conservées et disponibles au siège social de la société, ou à défaut, auprès de l'une des personnes ou organismes visés aux chiffres 6°), 13°), 19°) ou 20°) de l'article premier ou aux chiffres 1°) ou 3°) de l'article 2 de la loi n° 1.362 du 3 août 2009, modifiée.
+
+II. Les dirigeants ou les liquidateurs de toute société civile sont tenus de conserver les informations élémentaires visées à l'article 5-1 et les pièces justificatives correspondantes pendant dix ans après la date de la dissolution ou de la liquidation de la société.
+
+Ces informations et ces pièces doivent être conservées et disponibles à Monaco dans un lieu communiqué au service du répertoire du commerce et de l'industrie. Elles peuvent également être confiées aux mêmes fins à l'une des personnes ou organismes visés aux chiffres 6°), 13°), 19°) ou 20°) de l'article premier ou aux chiffres 1°) ou 3°) de l'article 2 de la loi n° 1.362 du 3 août 2009, modifiée, dont l'identité est communiquée au service du répertoire du commerce et de l'industrie.
+
+Ces informations sont accessibles sur demande aux autorités mentionnées à l'article 7-1.

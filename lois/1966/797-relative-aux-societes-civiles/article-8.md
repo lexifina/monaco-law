@@ -1,3 +1,5 @@
 # Article 8
 
-Les formes de la demande d'inscription et des déclarations complémentaires ou rectificatives, la nature et la liste des pièces justificatives à fournir à l'appui de ces demandes et déclarations, ainsi que les montants des droits exigibles seront déterminés par ordonnance souveraine.
+Les sociétés civiles sont soumises à l'obligation de tenue d'une comptabilité dont les modalités seront précisées par ordonnance souveraine.
+
+Les documents afférents à la comptabilité ainsi que toutes les pièces justificatives correspondantes, doivent être conservés au siège social des sociétés civiles pendant une durée de dix ans.

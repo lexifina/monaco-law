@@ -1,3 +1,3 @@
 # Article 7
 
-Le service du répertoire du commerce et de l'industrie est habilité à donner communication aux tiers intéressés, sous forme d'extraits du répertoire spécial, des seules indications visées aux lettres a), b) et e) de l'article 5.
+Les informations élémentaires sont accessibles au public par la remise d'un extrait du registre spécial. Les modalités de délivrance de l'extrait et les informations élémentaires y figurant sont déterminées par ordonnance souveraine.

@@ -1,3 +1,3 @@
 # Article 11
 
-Sous réserve des dispositions transitoires prévues aux articles 12 et 13, des sociétés civiles constituées avant la publication de la présente loi sont soumises aux prescriptions ci-dessus.
+Dans le cadre des contrôles, la visite des locaux de la société ne peut être effectuée qu'entre neuf heures et dix-huit heures, ou, en dehors de ces heures, lorsque l'accès au public est autorisé ou lorsqu'une activité professionnelle est en cours.

@@ -1,25 +1,7 @@
 # Article 5
 
-Toute société doit, dans les deux mois de sa constitution, faire procéder à son inscription sur un registre spécial tenu par le service du répertoire du commerce et de l'industrie.
+Sauf disposition législative contraire, toute société doit, dans le mois suivant la réalisation des formalités d'enregistrement prévues à l'article 2, faire procéder à son inscription sur un registre spécial tenu par le service du répertoire du commerce et de l'industrie. Lorsque la création de la société est soumise à l'obtention d'une autorisation administrative, le délai est porté à deux mois suivant l'obtention de ladite autorisation.
 
-La demande d'inscription à adresser par écrit à ce service comportera les indications suivantes :
+À défaut l'inscription au registre est refusée. En outre, l'autorisation administrative devient caduque et le dossier est classé sans suite s'agissant des sociétés civiles soumises à l'obtention d'une telle autorisation.
 
-- a) La forme de la société ;
-
-- b) La dénomination sociale et les abréviations utilisées ;
-
-- c) L'objet de la société ;
-
-- d) La nature des activités effectivement exercées par la société à titre principal et, le cas échéant, à titre secondaire ;
-
-- e) Le siège social ;
-
-- f) Les nom, prénoms et adresse de chacune des personnes ayant qualité pour administrer la société ;
-
-- g) Le montant du capital social et le nombre d'actions ou de parts qui le représentent ;
-
-- h) La date de la constitution de la société ;
-
-- i) La durée de la société ;
-
-La demande d'inscription n'est recevable que si elle est accompagnée des pièces justificatives nécessaires.
+Les délais visés à l'alinéa premier peuvent être prorogés par le Directeur du Développement Économique pour un délai qu'il détermine, sur simple demande motivée et justifiée.

@@ -1,7 +1,7 @@
 # Article 6
 
-Toute modification portant sur l'une des indications contenues dans la déclaration primitive doit faire l'objet, en vue de sa mention sur le répertoire spécial, d'une déclaration complémentaire ou rectificative.
+À peine d'inopposabilité aux tiers, toute modification portant sur l'une des informations élémentaires doit faire l'objet, en vue de sa mention sur le registre spécial, d'une déclaration complémentaire ou rectificative.
 
-Cette déclaration, accompagnée s'il y a lieu des pièces justificatives nécessaires, est notifiée au service du répertoire du commerce et de l'industrie dans les deux mois de la date de la modification.
+Cette déclaration doit, après accomplissement des formalités prescrites par la législation et la réglementation en vigueur applicables selon la nature de l'acte, être accompagnée des pièces justificatives propres à établir son exactitude. La déclaration et les pièces justificatives s'y rapportant sont communiquées au service du répertoire du commerce et de l'industrie dans le mois de la date de la modification, ou le cas échéant, de l'enregistrement de l'acte portant modification de l'information élémentaire concernée ou de la délivrance de l'autorisation administrative. Ce délai peut être prorogé par le Directeur du Développement Économique pour un délai qu'il détermine, sur simple demande motivée et justifiée.
 
-En cas de dissolution, la société est tenue de se faire radier dans les conditions et délais prévus ci-dessus.
+Le service du répertoire du commerce et de l'industrie vérifie la conformité des déclarations avec les pièces justificatives produites. S'il est constaté des inexactitudes ou s'il s'élève des difficultés, il est procédé comme il est dit à l'article 12.

@@ -1,0 +1,3 @@
+# Article 6-8
+
+Au terme du délai de six mois après la mention au registre de la cessation totale d'activité visée au chiffre 1°) de l'article 6-1, le Directeur du Développement Économique met en demeure la société par lettre recommandée avec accusé de réception d'avoir à déclarer la poursuite de l'activité ou de procéder à la demande d'inscription modificative relative à la dissolution visée au chiffre 2°) de l'article 6-1. La mise en demeure lui fait savoir qu'à défaut d'y procéder sans motif légitime dans le délai d'un mois, il saisira le Président du Tribunal de première instance aux fins de radiation de la société dans les conditions prévues par les articles 15 et 16.

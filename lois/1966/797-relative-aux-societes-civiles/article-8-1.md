@@ -1,7 +1,5 @@
 # Article 8-1
 
-Le président du tribunal de première instance ou le magistrat délégué à cet effet connaît :
+Les sociétés dépourvues d'un compte de dépôt dans un établissement de crédit établi à Monaco, sont tenues de désigner une personne visée aux chiffres 6°), 13°), 19°) ou 20°) de l'article premier ou aux chiffres 1°) ou 3°) de l'article 2 de la loi n° 1.362 du 3 août 2009, modifiée, en qualité de responsable des informations élémentaires et des informations sur les bénéficiaires effectifs, en application du II de l'article 22-1 de la loi n° 1.362 du 3 août 2009, modifiée.
 
-- 1° des contestations nées à l'occasion de demandes d'inscription, de déclarations complémentaires ou rectificatives ou de demandes en délivrance d'extraits du registre spécial ;
-
-- 2° des demandes formées en vue soit de faire injonction au représentant statutaire de la société de procéder à son inscription, d'effectuer les déclarations complémentaires ou rectificatives nécessaires ou de corriger des mentions incomplètes ou inexactes, soit de faire radier d'office la société du registre.
+Toute décision de clôture de compte à l'initiative de la société ou de l'établissement de crédit doit faire l'objet d'une notification écrite au service du répertoire du commerce et de l'industrie, à la diligence de la société et de l'établissement de crédit, dans un délai de trente jours suivant la décision.

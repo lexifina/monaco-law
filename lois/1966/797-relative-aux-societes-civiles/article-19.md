@@ -1,0 +1,7 @@
+# Article 19
+
+I. Sont punis de l'amende prévue au chiffre 4°) de l'article 26 du Code pénal, les dirigeants ou les liquidateurs de toute société civile inscrite au registre visé à l'article 5, qui ne conservent pas les informations élémentaires visées à l'article 5-1, ainsi que les pièces justificatives correspondantes, pendant dix ans après la date de la dissolution ou de la liquidation de la société, dans les conditions prévues à l'article 5-3.
+
+II. Sont punis de l'amende prévue au chiffre 4°) de l'article 29 du Code pénal, les dirigeants ou les liquidateurs de toute société civile inscrite au registre spécial visé à l'article premier, qui ne communiquent pas au répertoire le lieu où sont conservés les informations et pièces, en méconnaissance du dernier alinéa de l'article 5-4.
+
+III. Sont punis d'un emprisonnement de six mois et du double de l'amende prévue au chiffre 4°) de l'article 26 du Code pénal, les dirigeants ou les liquidateurs de toute société civile inscrite au registre visé à l'article 5, qui ne communiquent pas sur demande dans le délai imparti et sans motif légitime, aux autorités visées à l'article 5-5 et en méconnaissance de cette disposition, les informations et documents visés à l'article 5-3 et le registre visé à l'article 5-4.
