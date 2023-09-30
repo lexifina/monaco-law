@@ -22,4 +22,6 @@ Il est interdit aux notaires, soit par eux-mêmes, soit par personnes interposé
 
 - 10° De se servir de prête-noms, en aucune circonstance, même pour des actes autres que ceux désignés ci-dessus ;
 
-- 11° De laisser intervenir leurs clercs, sans un mandat écrit, dans les actes qu'ils reçoivent.
+- 11° De laisser intervenir leurs clercs, sans un mandat écrit, dans les actes qu'ils reçoivent ;
+
+- 12° De manquer aux obligations législatives et réglementaires qui leur sont applicables en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive ou la corruption.

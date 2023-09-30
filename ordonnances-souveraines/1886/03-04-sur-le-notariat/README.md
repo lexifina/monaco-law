@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 4 mars 1886 sur le notariat
 
-Version en vigueur au 28 mai 2022.
+Version en vigueur au 30 septembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1886/03-04-L002680@2022.05.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1886/03-04-L002680@2023.09.30/
 
 | | |
 | --- | --- |
