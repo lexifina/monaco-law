@@ -1,9 +1,3 @@
 # Article 29
 
-Sont punis de l'amende prévue au chiffre 4 de l'article 26 du Code pénal :
-
-- 1 ° - les administrateurs de fondations qui mettent obstacle aux vérifications ou aux contrôles des commissaires aux comptes ou qui refusent à ceux-ci la communication des pièces utiles à l'exercice de leur mission ;
-
-- 2° - les administrateurs de fondations qui ne transmettent pas au président de la commission de surveillance les documents visés à l'article l3-1 dans les conditions fixées par ledit article.
-
-- 3° - les administrateurs de fondations qui ne respectent pas les obligations mises à leur charge par les articles 17 à 17-2.
+Le Département de l'Intérieur supervise et veille au respect par les fondations des dispositions de la présente loi et des mesures prises pour son application, ainsi que, en ce qui concerne les fondations, des dispositions prévues aux articles 21, 22, 22-1 de la loi n° 1.362 du 3 août 2009, modifiée.

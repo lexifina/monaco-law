@@ -1,6 +1,6 @@
 # Article 15
 
-Les administrateurs doivent être majeurs, jouir de leurs droits civils dans la Principauté, et, s'ils sont étrangers, dans leur pays d'origine, et résider dans la Principauté depuis une année au moins pour les deux tiers d'entre eux.
+Les administrateurs doivent être majeurs, jouir de leurs droits civils dans la Principauté, et, s'ils sont étrangers, dans leur pays d'origine, présenter toutes les garanties de moralité et résider dans la Principauté depuis une année au moins pour les deux tiers d'entre eux.
 
 Les premiers administrateurs sont nommés par la commission de surveillance si le fondateur est décédé sans les avoir désignés ou sans avoir chargé ses exécuteurs testamentaires de leur désignation, ou s'il a désigné des personnes qui ne remplissent pas les conditions prévues à l'alinéa précédent.
 
