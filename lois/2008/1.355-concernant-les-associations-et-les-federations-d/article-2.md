@@ -8,7 +8,7 @@ Les statuts de l'association doivent obligatoirement mentionner :
 
 - 3° - les règles relatives à la composition, à la convocation, au mode de délibération et aux pouvoirs de l'organe délibérant formé par l'assemblée générale des sociétaires ;
 
-- 4° - les règles relatives à la désignation, à la composition, au fonctionnement et aux pouvoirs de l'organe chargé de l'administration ;
+- 4° - les règles relatives à la désignation, à la composition, à la révocation, au fonctionnement et aux pouvoirs de l'organe chargé de l'administration ainsi que la durée du mandat de ses membres ;
 
 - 5° - les conditions de modification des statuts ;
 

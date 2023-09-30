@@ -12,4 +12,8 @@ Sous réserve des dispositions de l'article 4, les statuts de l'association doiv
 
 - 5° - la majorité des administrateurs doit être domiciliée dans la Principauté ;
 
-- 6° - en cas de dissolution de l'association et quel que soit le mode de dévolution de son patrimoine, les sociétaires ne peuvent se voir attribuer une part quelconque des biens de l'association en dehors de la reprise des apports.
+- 6° - en cas de dissolution de l'association et quel que soit le mode de dévolution de son patrimoine, les sociétaires ne peuvent se voir attribuer une part quelconque des biens de l'association en dehors de la reprise des apports ;
+
+- 7° - l'association ne peut exercer d'activité commerciale, autre qu'à titre accessoire ;
+
+- 8° - l'association ne peut utiliser dans sa dénomination le mot " fondation " sauf autorisation accordée par le Ministre d'État.

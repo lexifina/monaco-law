@@ -4,4 +4,4 @@ Est nulle et de nul effet l'association dont l'objet est contraire à la loi, po
 
 Doit être considérée comme ayant ce caractère l'association qui poursuit des activités ayant pour finalité ou pour conséquence de créer, de maintenir ou d'exploiter la sujétion psychologique ou physique des personnes qui participent à ces activités.
 
-Doit être considérée comme portant atteinte à la sécurité nationale toute association qui a pour finalité ou pour conséquence directes ou indirectes de favoriser la commission d'un acte visé par les articles 391-1 à 391-8 bis du Code pénal ou d'en faire l'apologie, quel que soit le moyen utilisé à cette fin.
+Doit être considérée comme portant atteinte à la sécurité nationale toute association qui a pour finalité ou pour conséquence directes ou indirectes de favoriser la commission ou la préparation d'un acte visé par les articles 391-1 à 391-8 bis du Code pénal ou d'en faire l'apologie, quel que soit le moyen utilisé à cette fin.

@@ -1,8 +1,8 @@
 # Loi n° 1.355 du 23 décembre 2008 concernant les associations et les fédérations d'associations
 
-Version en vigueur au 7 juillet 2018.
+Version en vigueur au 30 septembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2008/12-23-1.355@2018.07.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2008/12-23-1.355@2023.09.30/
 
 | | |
 | --- | --- |
