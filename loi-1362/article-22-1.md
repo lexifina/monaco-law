@@ -10,19 +10,19 @@ Le service vérifie la conformité des déclarations avec les pièces produites.
 
 Lorsque le dossier est complet, la demande d'inscription ou de mention est enregistrée et le récépissé qui en est délivré énumère les pièces déposées. Le cas échéant, un duplicata de ce récépissé peut être délivré au représentant de la personne morale concernée, contre paiement d'un droit de timbre.
 
-II. Les sociétés commerciales, les groupements d'intérêt économique et les sociétés civiles sont tenus de désigner en qualité de responsable d'une part des informations élémentaires de la personne morale et d'autre part, des informations sur leurs bénéficiaires effectifs :
+II. Les sociétés commerciales, les groupements d'intérêts économiques et les sociétés civiles sont tenus de désigner en qualité de responsable des informations élémentaires et des informations sur leurs bénéficiaires effectifs :
 
-- 1°) une ou plusieurs personnes physiques, résidant à Monaco, choisies parmi leurs associés, actionnaires, personnels, dirigeants, membres ou les représentants de leurs associés, actionnaires, dirigeants ou membres personnes morales ;
+- 1°) une ou plusieurs personnes physiques, résidant à Monaco choisies parmi leurs associés, actionnaires, personnels, dirigeants, membres ou les représentants de leurs associés, actionnaires, dirigeants ou membres personnes morales ;
 
 - ou à défaut,
 
 - 2°) une personne visée aux chiffres 6°), 13°), 19°) ou 20°) de l'article premier ou aux chiffres 1°) ou 3°) de l'article 2.
 
-Les sociétés civiles régies par la loi n° 797 du 18 février 1966, modifiée, dépourvues d'un compte de dépôt dans un établissement de crédit à Monaco ne peuvent désigner comme responsable des informations élémentaires et responsable des informations sur leurs bénéficiaires effectifs que l'une des personnes visées au chiffre 2°) du précédent alinéa.
+Les sociétés civiles régies par la loi n° 797 du 18 février 1966, modifiée, dépourvues d'un compte de dépôt dans un établissement de crédit à Monaco ne peuvent désigner comme responsable des informations élémentaires et des informations sur leurs bénéficiaires effectifs que l'une des personnes visées au chiffre 2°) du précédent alinéa.
 
 Les fondations, les associations et les fédérations d'associations sont tenues de désigner un responsable des informations élémentaires et des informations sur leurs bénéficiaires effectifs dans les conditions prévues par les lois n° 56 du 29 janvier 1922, modifiée, et n° 1.355 du 23 décembre 2008, modifiée.
 
-S'agissant des informations sur les bénéficiaires effectifs, ces personnes désignées sont responsables :
+Ces personnes désignées sont responsables :
 
 - a) de la conservation des informations adéquates, exactes et actuelles sur les bénéficiaires effectifs des personnes morales visées au troisième alinéa de l'article 21 ;
 
@@ -34,13 +34,13 @@ S'agissant des informations sur les bénéficiaires effectifs, ces personnes dé
 
   - - pour les sociétés et les groupements d'intérêt économique, aux autorités compétentes visées à l'article 22-5 ;
 
-  - - pour les fondations, les associations et les fédérations d'associations, aux autorités compétentes mentionnées par les lois n° 1.355 du 23 décembre 2008, modifiée, et n° 56 du 29 janvier 1922, modifiée ;
+  - - pour les fondations, les associations et les fédérations d'associations, aux autorités compétentes mentionnées par les lois n° 1.355 du 23 décembre 2008 concernant les associations et les fédérations d'associations, modifiée, et n° 56 du 29 janvier 1922 sur les fondations, modifiée,
 
 - et,
 
 - e) de fournir toute autre forme d'assistance auxdites autorités compétentes.
 
-Toute désignation en vertu du présent article doit être communiquée selon le cas à la Direction du Développement Économique ou au Département de l'Intérieur. Cette communication doit permettre de formaliser le consentement préalable des personnes désignées.
+Toute désignation en vertu du présent article doit faire l'objet d'une notification selon le cas à la Direction du Développement Économique ou au Département de l'Intérieur. Cette notification doit permettre de formaliser le consentement préalable des personnes désignées.
 
 Les modalités d'identification des personnes désignées sont définies par ordonnance souveraine.
 

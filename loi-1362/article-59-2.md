@@ -1,0 +1,5 @@
+# Article 59-2
+
+Les demandes de coopération et les informations reçues par le service exerçant la fonction de supervision de l'Autorité ou le Conseil de l'Ordre des avocats-défenseurs et avocats, selon le cas, de la part des autorités étrangères sont couvertes par le secret professionnel selon les dispositions de l'article 308 du Code pénal.
+
+Les informations nominatives recueillies par les autorités de supervision dans ce cadre sont traitées aux fins de la prévention du blanchiment de capitaux, du financement du terrorisme et de la prolifération des armes de destruction massive et de la corruption et ne peuvent faire l'objet d'un traitement incompatible avec lesdites finalités conformément à la réglementation en vigueur relative à la protection des informations nominatives. Les autorités compétentes sont autorisées à refuser la communication d'informations à un homologue étranger si ce dernier n'est pas en mesure de protéger les informations échangées conformément à la réglementation en vigueur applicable en matière de protection des informations nominatives et de protection de la vie privée.

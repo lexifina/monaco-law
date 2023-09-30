@@ -18,15 +18,13 @@ La société ou l'entité est alors informée qu'elle dispose d'un délai de tre
 
 À défaut de régularisation sans motif légitime, elle s'expose au prononcé à son encontre, par le Directeur du Développement Économique, à une seconde sanction administrative pécuniaire pouvant atteindre :
 
-- 1°) 20.000 euros pour les sociétés civiles autres que des sociétés anonymes monégasques à objet civil ainsi que pour les groupements d'intérêt économique ;
+- - 20.000 euros pour les sociétés civiles autres que des sociétés anonymes monégasques à objet civil ainsi que pour les groupements d'intérêt économique ;
 
-- 2°) 20.000 euros pour les personnes morales dont le chiffre d'affaires annuel hors taxe est inférieur à 1.000.000 d'euros ;
+- - 20.000 euros pour les personnes morales dont le chiffre d'affaires annuel hors taxe est inférieur à 1.000.000 d'euros ;
 
-- 3°) 50.000 euros pour les personnes morales dont le chiffre d'affaires annuel hors taxe est supérieur ou égal à 1.000.000 d'euros et inférieur à 2.000.000 d'euros ;
+- - 50.000 euros pour les personnes morales dont le chiffre d'affaires annuel hors taxe est supérieur ou égal à 1.000.000 d'euros et inférieur à 2.000.000 d'euros ;
 
-- 4°) 100.000 euros pour les personnes morales dont le chiffre d'affaires annuel hors taxe est égal ou supérieur à 2.000.000 d'euros.
-
-Si l'assujetti ne régularise pas sa situation dans les délais précités, le Directeur du Développement Économique détermine le montant de l'amende administrative selon les critères précités et la notifie à l'assujetti par lettre recommandée avec demande d'avis de réception.
+- - 100.000 euros pour les personnes morales dont le chiffre d'affaires annuel hors taxe est égal ou supérieur à 2.000.000 d'euros.
 
 Si le manquement persiste, le Directeur du Développement Économique spécialement habilité par le Ministre d'État au titre de la gestion du répertoire du commerce et de l'industrie saisit le Président du Tribunal de première instance en application de l'article 22-3.
 

@@ -6,7 +6,7 @@ I - Par dérogation à l'article 36, les personnes visées aux chiffres 1°) à 
 
 - b) les informations ne sont échangées qu'entre personnes du même groupe soumises à une obligation de déclaration équivalente à l'article 36 ;
 
-- c) les informations divulguées sont nécessaires à l'exercice, au sein du groupe, de la vigilance en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption et seront exclusivement utilisées à cette fin ;
+- c) les informations divulguées sont nécessaires à l'exercice, au sein du groupe, de la vigilance en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive et la corruption et seront exclusivement utilisées à cette fin ;
 
 - d) les informations communiquées le sont en conformité avec les dispositions de la loi n° 1.165 du 23 décembre 1993, modifiée.
 
@@ -16,7 +16,7 @@ II - Par dérogation aux articles 36 et 40, les personnes visées aux chiffres 1
 
 - b) les informations ne sont échangées qu'entre personnes d'une même structure professionnelle soumises à des obligations de déclaration équivalentes aux articles 36 ou 40 ;
 
-- c) les informations divulguées sont nécessaires à l'exercice, au sein de la structure, de la vigilance en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption et seront exclusivement utilisées à cette fin ;
+- c) les informations divulguées sont nécessaires à l'exercice, au sein de la structure, de la vigilance en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive et la corruption et seront exclusivement utilisées à cette fin ;
 
 - d) les informations communiquées le sont en conformité avec les dispositions de la loi n° 1.165 du 23 décembre 1993, modifiée.
 
@@ -28,6 +28,6 @@ Ces échanges d'informations ne sont autorisés qu'entre des organismes et perso
 
 - b) les personnes concernées sont soumises à des obligations équivalentes en matière de secret professionnel ;
 
-- c) les informations échangées sont utilisées exclusivement à des fins de prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption ;
+- c) les informations échangées sont utilisées exclusivement à des fins de prévention du blanchiment de capitaux, du financement du terrorisme et de la prolifération des armes de destruction massive et de la corruption ;
 
 - d) les informations communiquées le sont en conformité avec les dispositions de la loi n° 1.165 du 23 décembre 1993, modifiée.

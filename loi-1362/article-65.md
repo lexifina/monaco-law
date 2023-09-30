@@ -1,15 +1,7 @@
 # Article 65
 
-Des manquements graves, répétés ou systématiques par un organisme ou une personne mentionnés à l'article premier, à tout ou partie des obligations lui incombant en vertu du Chapitre II, à l'exclusion du paragraphe III de la Sous-Section I de la Section I et de la Section V, ainsi que des Chapitres III, IV et V, peuvent donner lieu au prononcé d'une sanction administrative par le Ministre d'État sur proposition de la commission mentionnée à l'article 65-1.
+En cas de manquement par les organismes et les personnes mentionnés à l'article premier, à l'exception de ceux visés au chiffre 20°), à tout ou partie des obligations leur incombant en application du Chapitre II, à l'exception de la Section V, et des Chapitres III, IV, V, VI et X et des textes pris pour leur application ou si ces organismes et personnes n'ont pas déféré à une mise en demeure de se conformer à ces dispositions, ou si elles n'ont pas régularisé leur situation en application du dernier alinéa de l'article 64-8, l'Autorité peut prononcer à leur encontre une ou plusieurs des sanctions énumérées à l'article 65-8.
 
-Dans les cas prévus au précédent alinéa, le Ministre d'État peut également, sur proposition de la commission, prononcer une sanction administrative à l'encontre des dirigeants des personnes morales poursuivies ainsi que des autres personnes physiques salariées, préposées ou agissant pour le compte de cette personne, du fait de leur implication personnelle.
+L'Autorité peut également sanctionner les dirigeants de l'organisme ou de la personne morale poursuivie ainsi que les salariés, préposés, ou les personnes agissant pour le compte de ces organismes ou ces personnes morales, du fait de leur implication personnelle.
 
-Lorsque les manquements visés au premier alinéa concernent les personnes mentionnées à l'article 2, outre les sanctions visées aux troisième et quatrième tirets du premier alinéa et au deuxième alinéa de l'article 67, des sanctions peuvent être prononcées à l'encontre :
-
-- 1°) des notaires, clercs de notaires et apprentis notaires dans les conditions des articles 63 et suivants de l'Ordonnance du 4 mars 1886, modifiée ;
-
-- 2°) des huissiers de justice, dans les conditions des articles 90 et suivants de la loi n° 1.398 du 24 juin 2013 ;
-
-- 3°) des avocats-défenseurs et avocats, dans les conditions des articles 32 et suivants de la loi n° 1.047 du 28 juillet 1982, modifiée.
-
-Le Ministre d'État peut également, sur proposition de la commission, prononcer une sanction administrative à l'encontre des personnes physiques salariées, préposées, ou agissant pour le compte des professionnels visés à l'alinéa précédent, du fait de leur implication personnelle.
+En cas de manquement aux obligations visées au premier alinéa par les personnes mentionnées au chiffre 20°) de l'article premier et aux chiffres 1°) et 2°) de l'article 2, des sanctions peuvent être prononcées à leur encontre dans les conditions prévues par les dispositions qui régissent leurs professions.

@@ -23,3 +23,5 @@ Sous réserve des textes régissant l'exercice de chacune de ces professions, le
   - iv) l'organisation des apports nécessaires à la constitution, à la gestion ou à la direction de sociétés ;
 
   - v) la constitution, la gestion ou la direction de fiducies/trusts, de sociétés, de fondations ou de structures similaires.
+
+Les dispositions de la présente loi sont également applicables aux huissiers de justice lorsque ceux-ci exercent leur ministère dans le cadre des ventes aux enchères publiques.

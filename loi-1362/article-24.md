@@ -1,6 +1,10 @@
 # Article 24
 
-Les organismes et les personnes visés aux articles premier et 2 disposent de systèmes leur permettant de répondre rapidement aux demandes d'information émanant, selon les cas, du Service d'Information et de Contrôle sur les Circuits Financiers ainsi qu'à celles du Procureur Général, ou du Bâtonnier de l'Ordre des avocats-défenseurs et avocats, par l'intermédiaire de canaux sécurisés et garantissant la confidentialité des communications.
+Les organismes et les personnes visés aux articles premier et 2 disposent de systèmes leur permettant de répondre rapidement aux demandes d'information émanant, selon les cas, de l'Autorité monégasque de sécurité financière ou du Conseil de l'Ordre des avocats-défenseurs et avocats, par l'intermédiaire de canaux sécurisés.
+
+Ils disposent de systèmes leur permettant de répondre rapidement aux demandes d'information émanant également du Procureur Général ou du juge d'instruction dans le cadre d'une investigation en cours, par l'intermédiaire de canaux sécurisés.
+
+Ces canaux sécurisés garantissent la confidentialité des communications. Les conditions d'application du présent alinéa sont définies par ordonnance souveraine.
 
 La durée maximale de conservation des demandes d'information visées à l'alinéa précédent est d'un an.
 

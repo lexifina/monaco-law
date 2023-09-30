@@ -1,6 +1,6 @@
 # Article 54
 
-Le contrôle de l'application des dispositions de la présente loi et des mesures prises pour son application par les organismes et les personnes visées à l'article premier est exercé par les agents du Service d'Information et de Contrôle sur les Circuits Financiers, spécialement commissionnés et assermentés.
+Le contrôle de l'application des dispositions de la présente loi et des mesures prises pour son application par les organismes et les personnes visées à l'article premier et aux chiffres 1°) et 2°) de l'article 2 est exercé par les agents du service exerçant la fonction de supervision de l'Autorité, spécialement commissionnés et assermentés.
 
 À cette fin, ils peuvent effectuer des contrôles sur pièces et sur place, sans que le secret professionnel ne puisse leur être opposé, et notamment :
 
@@ -20,4 +20,6 @@ Le contrôle de l'application des dispositions de la présente loi et des mesure
 
 - 8°) recueillir toutes les informations nécessaires auprès des gestionnaires d'un système de cartes de paiement ou de retrait.
 
-À l'issue d'un contrôle sur place, les agents du Service d'Information et de Contrôle sur les Circuits Financiers, qui y ont participé, rédigent, au terme d'échanges contradictoires, un rapport dans les conditions prévues par ordonnance souveraine.
+Tout manquement à l'une des obligations ci-dessus par les organismes et personnes objet du contrôle est sanctionné dans les conditions prévues par l'article 70.
+
+À l'issue d'un contrôle sur place, les agents du service exerçant la fonction de supervision de l'Autorité, qui y ont participé, rédigent, au terme d'échanges contradictoires, un rapport dans les conditions prévues par ordonnance souveraine.

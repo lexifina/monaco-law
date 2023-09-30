@@ -1,5 +1,5 @@
 # Article 65-4
 
-Le Ministre d'État informe la personne mise en cause de sa décision, par lettre recommandée avec demande d'avis de réception postale. Il en informe également la commission et le Service d'Information et de Contrôle sur les Circuits Financiers.
+L'agent qui a procédé à la notification des griefs en application des articles 65-2 ou 65-3 en transmet, dans le même temps, une copie au chef du service exerçant la fonction de sanction de l'Autorité qui en saisit sans délai l'agent assurant la présidence de la formation de sanction qui sera chargée d'instruire la procédure et, le cas échéant, de prononcer une sanction.
 
-Postérieurement à la notification de la décision du Ministre d'État, la personne mise en cause peut se faire communiquer sur simple demande auprès du Ministre d'État, une copie de l'avis motivé de la commission.
+Le chef de service informe par tout moyen la personne concernée de la composition de la formation de sanction en précisant qu'elle peut demander la récusation d'un de ses membres dans les conditions définies par le règlement intérieur de l'Autorité.

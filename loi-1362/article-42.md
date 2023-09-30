@@ -1,3 +1,5 @@
 # Article 42
 
-Les obligations de déclarations du présent Chapitre, mises à la charge des organismes et personnes visés aux articles premier et 2, sont étendues aux opérations et aux faits concernant des personnes physiques ou morales visées par des mesures de gel des fonds et des ressources économiques nécessaires pour l'application des sanctions économiques qui sont décrétées par l'Organisation des Nations unies, par l'Union européenne ou par la République française et sont destinées à faire respecter le droit international public, notamment les droits de l'homme, la démocratie, la paix et la sécurité internationales.
+Les obligations de déclarations du présent Chapitre, mises à la charge des organismes et personnes visés aux articles premier et 2, sont étendues aux opérations et aux faits concernant des personnes physiques ou morales, entités ou organismes visés par des mesures des gels de fonds et des ressources économiques désignées par décision du Ministre d'État.
+
+Les listes des personnes physiques ou morales, entités ou organismes faisant l'objet de ces mesures, publiées sur le site Internet du Gouvernement dédié au gel des fonds et des ressources économiques, sont également accessibles depuis le site Internet de l'Autorité monégasque de sécurité financière.

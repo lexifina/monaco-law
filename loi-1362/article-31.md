@@ -8,9 +8,9 @@ Les éléments de nature à identifier l'auteur du signalement ne peuvent être 
 
 Les éléments de nature à identifier la personne mise en cause par un signalement ne peuvent être divulgués, sauf à l'autorité judiciaire, qu'une fois établi le caractère fondé du signalement.
 
-Si aucune suite n'est donnée au signalement dans un délai raisonnable, celui-ci peut être adressé, par toute personne qui en a connaissance, selon le cas, au Service d'Information et de Contrôle sur les Circuits Financiers, au Procureur Général ou au Bâtonnier de l'Ordre des avocats-défenseurs et avocats.
+Si aucune suite n'est donnée au signalement dans un délai raisonnable, celui-ci peut être adressé, par toute personne qui en a connaissance, selon le cas, au service exerçant la fonction de supervision de l'Autorité ou au Conseil de l'Ordre des avocats-défenseurs et avocats.
 
-La responsabilité pénale de la personne qui procède au signalement ne peut être engagée lorsque les informations qu'elle divulgue portent atteinte à un secret protégé par la loi, dès lors que cette divulgation est nécessaire et proportionnée à la sauvegarde des intérêts en cause dans le cadre de la lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption.
+La responsabilité pénale de la personne qui procède au signalement ne peut être engagée lorsque les informations qu'elle divulgue portent atteinte à un secret protégé par la loi, dès lors que cette divulgation est nécessaire et proportionnée à la sauvegarde des intérêts en cause dans le cadre de la lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive ou la corruption.
 
 La personne qui procède au signalement ne peut, pour ce motif, être écartée d'une procédure de recrutement, de l'accès à un stage ou à une période de formation professionnelle, ou faire l'objet d'un licenciement, d'une sanction ou de toute autre mesure professionnelle défavorable.
 

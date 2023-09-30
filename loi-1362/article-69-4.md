@@ -1,0 +1,13 @@
+# Article 69-4
+
+Le Conseil de l'Ordre des avocats-défenseurs et avocats peut décider de faire procéder à la publication de sa décision au Journal de Monaco ou sur le site Internet de l'Ordre des avocats-défenseurs et avocats et, le cas échéant, sur tout papier ou support numérique.
+
+Toutefois, les décisions mentionnées ci-dessus sont publiées de manière anonyme dans les cas suivants :
+
+- 1°) lorsque la publication sous une forme non anonyme compromettrait une enquête pénale en cours ;
+
+- 2°) lorsqu'il ressort d'éléments objectifs et vérifiables fournis par la personne sanctionnée que le préjudice qui résulterait pour elle d'une publication sous une forme non anonyme serait disproportionné.
+
+Si les situations mentionnées aux chiffres 1°) et 2°) sont susceptibles de cesser d'exister dans un court délai, le Conseil de l'Ordre des avocats-défenseurs et avocats peut différer la publication pendant ce délai.
+
+Le Conseil de l'Ordre des avocats-défenseurs et avocats peut également décider de mettre à la charge de la personne sanctionnée tout ou partie des frais de la publication visée à l'alinéa premier, ainsi que les frais occasionnés par les mesures de contrôle ayant permis la constatation des faits.

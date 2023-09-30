@@ -4,4 +4,6 @@ Lorsque les organismes et les personnes visés aux articles premier et 2 entreti
 
 Ils appliquent, en outre, des mesures de vigilance renforcées supplémentaires déterminées par ordonnance souveraine.
 
+Ils appliquent également des contre-mesures adaptées, efficaces et proportionnelles aux risques, déterminées par ordonnance souveraine.
+
 Les modalités d'application des dispositions du présent article sont également définies par ordonnance souveraine.

@@ -1,6 +1,6 @@
 # Article 38
 
-L'opposition peut être prorogée en ses effets au-delà de la durée légale par ordonnance du Président du Tribunal de première instance sur réquisition du Procureur Général, à son initiative ou saisi par le Service d'Information et de Contrôle sur les Circuits Financiers, conformément aux articles 851 et 852 du Code de procédure civile, qui peut, à toute fin de sauvegarde, placer sous séquestre les fonds, titres ou matières concernés par la déclaration.
+L'opposition peut être prorogée en ses effets au delà de la durée légale par ordonnance du Président du Tribunal de première instance sur réquisition du Procureur Général, à son initiative ou saisi par le service exerçant la fonction de renseignement financier de l'Autorité, conformément aux articles 851 et 852 du Code de procédure civile, qui peut, à toute fin de sauvegarde, placer sous séquestre les fonds, titres ou matières concernés par la déclaration.
 
 L'ordonnance est exécutoire sur minute après son enregistrement, ou même avant l'accomplissement de cette formalité, si le Président du Tribunal de première instance l'ordonne exceptionnellement à raison de l'urgence.
 

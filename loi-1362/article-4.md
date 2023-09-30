@@ -14,10 +14,10 @@ Sont tenus d'appliquer les mesures de vigilance visées à l'article 4-1 à l'é
 
 - 4°) les personnes visées au chiffre 15° ter) de l'article premier, lorsqu'elles exécutent, à titre occasionnel, une transaction lorsque le montant de cette transaction est égal ou supérieur à un montant fixé par ordonnance souveraine, que la transaction soit effectuée en une ou plusieurs opérations qui semblent liées ;
 
-- 5°) les organismes et les personnes visés aux articles premier et 2, lorsqu'il y a soupçon de blanchiment de capitaux, de financement du terrorisme ou de corruption, indépendamment de tout seuil, exemptions ou dérogations applicables. ;
+- 5°) les organismes et les personnes visés aux articles premier et 2, lorsqu'il y a soupçon de blanchiment de capitaux, de financement du terrorisme et de la prolifération des armes de destruction massive ou de corruption, indépendamment de tout seuil, exemptions ou dérogations applicables. ;
 
 - 6°) les personnes visées aux chiffres 23°) à 28°) de l'article premier lorsqu'elles réalisent, à titre occasionnel, une transaction d'un montant qui atteint ou excède un montant fixé par ordonnance souveraine, qu'elle soit effectuée en une seule ou en plusieurs opérations entre lesquelles il semble exister un lien.
 
-- Les organismes et les personnes visés aux articles premier et 2 sont tenus d'appliquer les mesures de vigilance visées aux articles 4-1 et 4-3 à l'égard de leur client lorsqu'ils nouent une relation d'affaires.
+Les organismes et les personnes visés aux articles premier et 2 sont tenus d'appliquer les mesures de vigilance visées aux articles 4-1 et 4-3 à l'égard de leur client lorsqu'ils nouent une relation d'affaires.
 
 Au sens de la présente loi, la relation d'affaires s'entend d'une relation d'affaires professionnelle ou commerciale, liée aux activités professionnelles de l'un des organismes ou de l'une des personnes visés aux articles premier et 2 de la présente loi, et censée, au moment où le contact est établi, s'inscrire dans la durée.
