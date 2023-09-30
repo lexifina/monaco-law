@@ -4,7 +4,7 @@ En application de l'article 17 de la loi n° 1.362 du 3 août 2009, modifiée, s
 
 Ces dispositions sont également applicables aux organismes et personnes visés aux chiffres 1°), 3°) et 4°) de l'article premier à l'égard des bénéficiaires de contrats d'assurance vie ou d'un autre type d'assurance liée à des placements.
 
-Les procédures internes et la politique d'acceptation des clients précisent les critères et les méthodes permettant de déterminer s'ils sont des personnes politiquement exposées.
+Les procédures internes et la politique d'acceptation des clients précisent les critères et les méthodes permettant de déterminer s'ils sont des personnes politiquement exposées ou le deviennent.
 
 Les professionnels entretenant une relation d'affaires avec des personnes politiquement exposées sont tenus d'assurer un contrôle renforcé de la relation d'affaires sur une base continue.
 
@@ -51,5 +51,3 @@ Sont considérées comme des personnes étroitement associées aux personnes pol
 - 1°) les personnes physiques identifiées comme étant les bénéficiaires effectifs d'une personne morale ou d'un fonds commun de placement, un fonds d'investissement, un trust ou un dispositif juridique comparable de droit étranger conjointement avec une personne politiquement exposée, ou pour entretenir toute autre relation d'affaires étroite avec une telle personne ;
 
 - 2°) les personnes physiques seules bénéficiaires effectifs d'une personne morale, d'un fonds commun de placement, d'un fonds d'investissement, d'un trust ou d'un dispositif juridique comparable de droit étranger connu pour avoir été établie au profit d'une personne politiquement exposée.
-
-Est déterminée par arrêté ministériel la liste des fonctions publiques importantes au plan national qui correspondent aux fonctions énumérées aux chiffres 1°) à 9°) du neuvième alinéa. Cette liste comprend également toute fonction importante susceptible d'être confiée à des représentants de pays tiers et d'instances internationales accrédités par l'État.

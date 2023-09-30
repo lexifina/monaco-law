@@ -1,6 +1,6 @@
 # Article 50
 
-Le Service d'Information et de Contrôle sur les Circuits Financiers assure le secrétariat du Comité.
+L'Autorité monégasque de sécurité financière assure le secrétariat du Comité.
 
 Le Comité peut s'adjoindre, en tant que de besoin, toute personne qualifiée intervenant ou exerçant une activité dans le domaine de la lutte contre le blanchiment de capitaux, le financement du terrorisme et la corruption.
 

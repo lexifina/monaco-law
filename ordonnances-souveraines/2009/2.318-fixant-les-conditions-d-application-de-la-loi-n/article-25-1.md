@@ -1,6 +1,6 @@
 # Article 25-1
 
-Les organismes et les personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, définissent et mettent en œuvre des procédures leur permettant de déterminer si la transaction qu'elles exécutent relèvent de celles visées à l'article 14-2 de la loi n° 1.362 du 3 août 2009 modifiée, susvisée.
+Les organismes et les personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, définissent et mettent en œuvre des procédures leur permettant de déterminer si la transaction qu'ils exécutent relèvent de celles visées à l'article 14-2 de la loi n° 1.362 du 3 août 2009 modifiée, susvisée.
 
 Lorsqu'ils exécutent une telle transaction, ils appliquent les mesures de vigilance renforcées suivantes, dont l'intensité varie selon une approche par les risques et qui prennent en compte les spécificités des opérations :
 

@@ -14,7 +14,7 @@ Ce Groupe présidé par le Directeur des Services Judiciaires comprend :
 
 - - le Directeur de la Sûreté Publique ou son représentant, éventuellement assisté de membres de la Direction de la Sûreté Publique plus spécialement chargés de la lutte contre le blanchiment de capitaux et le financement du terrorisme ;
 
-- - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant, éventuellement assisté de membres du Service d'Information et de Contrôle sur les Circuits Financiers.
+- - le Directeur de l'Autorité Monégasque de Sécurité Financière ou son représentant, éventuellement assisté de membres du service exerçant la fonction de renseignement financier de cette Autorité.
 
 En cas d'empêchement ou d'absence du Directeur des Services Judiciaires, le Procureur Général assure la présidence du Groupe.
 

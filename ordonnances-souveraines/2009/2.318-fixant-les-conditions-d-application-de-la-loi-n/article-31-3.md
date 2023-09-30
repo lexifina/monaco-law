@@ -4,9 +4,9 @@ Les personnes visées au premier alinéa de l'article 31-2 sont tenues de s'insc
 
 Toutefois, lesdits organismes ou sociétés peuvent, pour des motifs de service ou d'organisation interne, solliciter auprès de l'Association Monégasque des Activités Financières un délai supplémentaire pour l'inscription desdites personnes.
 
-Les modalités des examens sont précisées dans un règlement établi par l'Association Monégasque des Activités Financières, validé par le Service d'Information et de Contrôle sur les Circuits Financiers, après consultation de la Commission mentionnée à l'article 31-4.
+Les modalités des examens sont précisées dans un règlement établi par l'Association Monégasque des Activités Financières, validé par l'Autorité monégasque de sécurité financière, après consultation de la Commission mentionnée à l'article 31-4.
 
-Toute modification du règlement devra être validée par le Service d'Information et de Contrôle sur les Circuits Financiers, après consultation de la Commission mentionnée à l'article 31-4.
+Toute modification du règlement devra être validée par l'Autorité monégasque de sécurité financière, après consultation de la Commission mentionnée à l'article 31-4.
 
 Le règlement sera publié sur le site Internet de l'Association Monégasque des Activités Financières.
 

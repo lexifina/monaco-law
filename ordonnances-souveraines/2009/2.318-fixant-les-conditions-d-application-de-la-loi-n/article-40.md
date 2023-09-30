@@ -4,7 +4,7 @@ Le prestataire de services de paiement du donneur d'ordre veille à ce que les t
 
 - - le nom du donneur d'ordre ;
 
-- - le numéro de compte de paiement du donneur d'ordre ;
+- - le numéro de compte du donneur d'ordre ;
 
 - - s'il n'existe pas de numéro de compte en raison de l'activité du professionnel, un numéro de référence unique ;
 
@@ -14,9 +14,9 @@ Le prestataire de services de paiement du donneur d'ordre veille à ce que le tr
 
 - - le nom du bénéficiaire ;
 
-- - le numéro de compte de paiement du bénéficiaire.
+- - le numéro de compte du bénéficiaire.
 
-Par dérogation aux premier et deuxième alinéas, dans le cas d'un transfert qui n'est pas effectué à partir ou à destination d'un compte de paiement, le prestataire de services de paiement du donneur d'ordre veille à ce que le transfert de fonds soit accompagné d'un identifiant de transaction unique plutôt que du ou des numéros de compte de paiement.
+Par dérogation aux premier et deuxième alinéas, dans le cas d'un transfert qui n'est pas effectué à partir ou à destination d'un compte, le prestataire de services de paiement du donneur d'ordre veille à ce que le transfert de fonds soit accompagné d'un identifiant de transaction unique plutôt que du ou des numéros de compte.
 
 Avant de transférer les fonds, le prestataire de services de paiement du donneur d'ordre vérifie l'exactitude des informations visées au premier alinéa sur la base de documents, de données ou de renseignements obtenus d'une source fiable et indépendante.
 

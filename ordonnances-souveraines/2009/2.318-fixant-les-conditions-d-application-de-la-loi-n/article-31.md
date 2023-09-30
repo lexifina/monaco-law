@@ -8,11 +8,11 @@ En outre, les organismes et les personnes visés aux articles premier et 2 de la
 
 D'une manière générale, ils doivent veiller au respect par le professionnel de l'ensemble de ses obligations de prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption, et, notamment, à la mise en place d'une organisation administrative et d'un contrôle interne adéquats conformes aux articles 30-1 à 30-4. À cet effet, ils disposent du pouvoir de proposer à la direction du professionnel toutes mesures nécessaires ou utiles.
 
-En particulier, ils organisent et mettent en application, sous leur autorité, les procédures d'analyse des rapports écrits, établis conformément aux articles 33 et 33-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, ainsi que les procédures de déclaration au Service d'Information et de Contrôle sur les Circuits Financiers, et au Procureur Général, selon le cas, effectuées conformément au Chapitre V de ladite loi.
+En particulier, ils organisent et mettent en application, sous leur autorité, les procédures d'analyse des rapports écrits, établis conformément aux articles 33 et 33-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, ainsi que les procédures de déclaration au service exerçant la fonction de renseignement financier de l'Autorité, et au Conseil de l'Ordre des avocats-défenseurs et des avocats, selon le cas, effectuées conformément au Chapitre V de ladite loi.
 
 Ils veillent à la formation et à la sensibilisation du personnel conformément à l'article 30 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, et à l'article 34 de la présente ordonnance.
 
-Ils sont les correspondants désignés du Service d'Information et de Contrôle sur les Circuits Financiers pour toutes questions relatives à la prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption.
+Ils sont les correspondants désignés de l'Autorité monégasque de sécurité financière ou du Conseil de l'Ordre des avocats-défenseurs et des avocats, selon le cas, pour toutes questions relatives à la prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption.
 
 Lorsqu'ils sont désignés par les organismes ou personnes visés à l'article premier de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, à l'exception de ceux visés au chiffre 15°) dudit article, les responsables de la prévention du blanchiment de capitaux et du financement du terrorisme établissent et transmettent au moins une fois par an, un rapport d'activité à l'organe de direction du professionnel sur les conditions dans lesquelles la prévention du blanchiment de capitaux, du financement du terrorisme et de la corruption est assurée.
 
@@ -26,4 +26,4 @@ Ce rapport doit, notamment, permettre :
 
 - - de décrire les modifications significatives réalisées dans le cadre des contrôles pendant la période de référence, en particulier pour prendre en compte l'évolution de l'activité et des risques.
 
-Une copie de ce rapport annuel d'activité est systématiquement adressée au Service d'Information et de Contrôle sur les Circuits Financiers, et, le cas échéant, au commissaire aux comptes du professionnel.
+Une copie de ce rapport annuel d'activité est systématiquement adressée au service exerçant la fonction de supervision de l'Autorité, et, le cas échéant, au commissaire aux comptes du professionnel.

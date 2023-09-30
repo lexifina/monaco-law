@@ -8,6 +8,6 @@ Pour l'exercice de leur fonction, les personnes désignées en qualité de respo
 
 - 2°) détermine le contenu des enseignements dispensés au cours des sessions de formation, ainsi que le niveau des connaissances et des compétences minimales requises pour la délivrance de la certification ;
 
-- 3°) organise un examen de connaissances à l'issue des sessions de formation, lequel est sanctionné par la délivrance, aux personnes déclarées reçues au terme des épreuves, d'une certification professionnelle visée conjointement par l'Association Monégasque des Activités Financières et le Service d'Information et de Contrôle sur les Circuits Financiers.
+- 3°) organise un examen de connaissances à l'issue des sessions de formation, lequel est sanctionné par la délivrance, aux personnes déclarées reçues au terme des épreuves, d'une certification professionnelle visée conjointement par l'Association Monégasque des Activités Financières et l'Autorité monégasque de sécurité financière.
 
-L'Association Monégasque des Activités Financières exerce les compétences qui lui sont confiées en concertation avec le Service d'Information et de Contrôle sur les Circuits Financiers et après avis de la commission mentionnée à l'article 31-4.
+L'Association Monégasque des Activités Financières exerce les compétences qui lui sont confiées en concertation avec l'Autorité monégasque de sécurité financière et après avis de la commission mentionnée à l'article 31-4.

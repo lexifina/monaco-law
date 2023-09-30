@@ -14,7 +14,7 @@ Le présent Chapitre n'est pas applicable aux personnes qui ne font que numéris
 
 Le présent Chapitre ne s'applique pas aux transferts de fonds :
 
-- a) qui impliquent que le donneur d'ordre retire des espèces de son propre compte de paiement ;
+- a) qui impliquent que le donneur d'ordre retire des espèces de son propre compte ;
 
 - b) qui constituent des transferts de fonds au profit d'une autorité publique pour le paiement d'impôts, d'amendes ou d'autres prélèvements sur le territoire de la Principauté ;
 

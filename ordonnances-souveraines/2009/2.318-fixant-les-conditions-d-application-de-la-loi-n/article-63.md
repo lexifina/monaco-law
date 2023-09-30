@@ -1,16 +1,18 @@
 # Article 63
 
-Pour l'application des dispositions de l'article 22-7 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, et sans préjudice des articles 63-1 à 63-3, les informations du registre des bénéficiaires effectifs portant sur le nom, le mois et l'année de naissance, le pays de résidence, la nationalité d'un bénéficiaire effectif et la nature et l'étendue des intérêts effectifs détenus, peuvent être communiquées après information de la personne morale concernée, aux personnes qui en font la demande dans les conditions suivantes.
+Pour l'application des dispositions de l'article 22-7 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, et sans préjudice des articles 63-1 à 63-3, les informations du « registre des bénéficiaires effectifs - sociétés et GIE - » portant sur le nom, le mois et l'année de naissance, le pays de résidence, la nationalité d'un bénéficiaire effectif et la nature et l'étendue des intérêts effectifs détenus, peuvent être communiquées après information de la personne morale concernée, aux personnes qui en font la demande dans les conditions suivantes.
 
 La demande d'information est adressée au service du répertoire du commerce et de l'industrie au moyen d'un formulaire signé du requérant.
 
 À peine d'irrecevabilité, la demande d'information est accompagnée d'une copie d'une pièce d'identité en cours de validité du signataire et précise :
 
-- 1°) si le requérant est une personne physique, ses nom, nom d'usage, surnom ou pseudonyme, prénoms, date et lieu de naissance, nationalité, adresse personnelle, élection de domicile à Monaco ;
+- 1°) la forme juridique, la dénomination ou raison sociale et le numéro d'immatriculation de la société ou du groupement d'intérêt économique objet de la demande ;
 
-- 2°) si le requérant est une personne morale, sa forme, sa dénomination, son siège social et l'organe qui la représente légalement, ou en vertu d'une délégation ;
+- 2°) si le requérant est une personne physique, ses nom, nom d'usage, surnom ou pseudonyme, prénoms, date et lieu de naissance, nationalité, adresse et, le cas échéant, son numéro et son lieu d'immatriculation dans un registre public ;
 
-- 3°) l'énoncé des motifs de la demande et son lien avec la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+- 3°) si le requérant est une personne morale, sa forme, sa dénomination, son siège social, son numéro et son lieu d'immatriculation dans un registre public ainsi que la personne habilitée à agir pour son compte ;
+
+- 4°) l'énoncé des motifs de la demande et son lien avec la lutte contre le blanchiment de capitaux et le financement du terrorisme.
 
 Préalablement à la communication des informations au requérant, la demande d'information, ses motifs et leur lien avec la lutte contre le blanchiment de capitaux et le financement du terrorisme allégué par le requérant sont notifiés par le service du répertoire du commerce et de l'industrie à la personne morale et aux bénéficiaires effectifs concernés par lettre recommandée avec accusé de réception ou suivant un envoi électronique qualifié.
 

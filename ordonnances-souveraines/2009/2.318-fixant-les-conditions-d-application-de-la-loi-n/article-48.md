@@ -10,7 +10,9 @@ Au sens du I de l'article 45 de la loi n° 1.362 du 3 août 2009, modifiée, sus
 
   - c) lorsqu'elle détermine en fait, par les droits de vote dont elle dispose, les décisions dans les assemblées générales de cette société ;
 
-  - d) lorsqu'elle est associée ou actionnaire de cette société et dispose du pouvoir de nommer ou de révoquer la majorité des membres des organes d'administration, de direction ou de surveillance de cette société.
+  - d) lorsqu'elle est associée ou actionnaire de cette société et dispose du pouvoir de nommer ou de révoquer la majorité des membres des organes d'administration, de direction ou de surveillance de cette société ;
+
+  - e) toute autre forme de contrôle direct ou indirect.
 
 - Elle est présumée exercer ce contrôle lorsqu'elle dispose directement ou indirectement, d'une fraction des droits de vote supérieure à 40 % et qu'aucun autre associé ou actionnaire ne détient directement ou indirectement une fraction supérieure à la sienne.
 

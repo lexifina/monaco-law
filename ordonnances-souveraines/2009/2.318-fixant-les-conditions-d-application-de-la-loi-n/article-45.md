@@ -18,6 +18,6 @@ Lorsque le prestataire de services de paiement intermédiaire constate, lors de 
 
 Lorsqu'un prestataire de services de paiement omet de manière répétée de fournir les informations requises sur le donneur d'ordre ou le bénéficiaire, le prestataire de services de paiement intermédiaire prend des dispositions qui peuvent, dans un premier temps, comporter l'émission d'avertissements et la fixation d'échéances, avant soit de rejeter tout nouveau transfert de fonds provenant de ce prestataire, soit de restreindre sa relation d'affaires avec celui-ci ou d'y mettre fin.
 
-Le prestataire de services de paiement intermédiaire déclare cette omission et les mesures prises au Service d'Information et de Contrôle sur les Circuits Financiers.
+Le prestataire de services de paiement intermédiaire déclare cette omission et les mesures prises au service exerçant la fonction de renseignement financier de l'Autorité.
 
-Le prestataire de services de paiement intermédiaire prend en compte les informations manquantes sur le donneur d'ordre ou le bénéficiaire comme un facteur pour apprécier si un transfert de fonds, ou toute transaction qui s'y rattache, présente un caractère suspect et doit être déclaré au Service d'Information et de Contrôle sur les Circuits Financiers.
+Le prestataire de services de paiement intermédiaire prend en compte les informations manquantes sur le donneur d'ordre ou le bénéficiaire comme un facteur pour apprécier si un transfert de fonds, ou toute transaction qui s'y rattache, présente un caractère suspect et doit être déclaré au service exerçant la fonction de renseignement financier de l'Autorité.

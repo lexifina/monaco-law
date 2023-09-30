@@ -1,12 +1,14 @@
 # Article 14
 
-Lorsque le client est une personne morale, les professionnels identifient et vérifient l'identité :
+Lorsque le client est une personne morale, les professionnels identifient et vérifient l'identité des bénéficiaires effectifs au sens de l'article 21 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, à savoir :
 
 - - des personnes physiques qui, en dernier ressort, détiennent ou contrôlent directement ou indirectement au moins 25 % du capital ou des droits de vote de la personne morale ; ou, s'il existe des doutes quant au fait de savoir si la ou les personnes ayant une participation de contrôle sont le ou les bénéficiaires effectifs ou dès lors qu'aucune personne physique n'exerce de contrôle au travers d'une participation ;
 
 - - des personnes physiques qui exercent effectivement par tout autre moyen, un pouvoir de contrôle sur le capital ou sur les organes de gestion, d'administration ou de direction de la société ou sur l'assemblée générale de ses associés ou de la personne physique.
 
 Ces dispositions ne sont pas applicables aux sociétés dont les titres sont admis à la négociation sur un marché réglementé et qui sont soumises à des obligations de publicité conformes au droit de l'Union européenne ou soumises à des normes internationales équivalentes garantissant une transparence adéquate des informations relatives à la propriété du capital, ce dont les organismes ou personnes visés aux articles premier et 2 sont en mesure de justifier auprès des autorités de contrôle.
+
+Lorsqu'un trust détient ou contrôle directement ou indirectement au moins 25 % du capital ou des droits de vote de la personne morale, il faut entendre par bénéficiaire effectif les personnes visées à l'article 15.
 
 Lorsqu'aucune personne physique n'a pu être identifiée selon les critères prévus aux précédents alinéas, et lorsqu'il n'y a pas de soupçon de blanchiment de capitaux, de financement du terrorisme ou de corruption à l'encontre du client mentionné au premier alinéa, le bénéficiaire effectif est la ou les personnes physiques ci-après ou, si la société n'est pas immatriculée à Monaco, leur équivalent en droit étranger qui représente légalement la société :
 

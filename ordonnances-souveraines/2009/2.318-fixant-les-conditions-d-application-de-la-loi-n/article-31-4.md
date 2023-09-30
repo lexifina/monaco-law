@@ -10,7 +10,7 @@ Elle comprend les membres suivants :
 
 - - le Secrétaire Général de l'Association Monégasque des Activités Financières ;
 
-- - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ;
+- - le Directeur de l'Autorité monégasque de sécurité financière ;
 
 - - le Secrétaire Général de la Commission de Contrôle des Activités Financières ;
 

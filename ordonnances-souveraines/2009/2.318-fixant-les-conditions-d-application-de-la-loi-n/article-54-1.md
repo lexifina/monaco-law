@@ -10,6 +10,6 @@ En application des dispositions de l'article 64-3 de la loi n° 1.362 du 3 août
 
 - - lorsque le titulaire du compte ou le locataire du coffre-fort ou toute personne prétendant agir en son nom, ses mandataires ou ses bénéficiaires effectifs est une personne physique : les nom, prénoms, date et lieu de naissance, adresse et numéro du répertoire du commerce et de l'industrie pour les entrepreneurs individuels ;
 
-- - lorsque le titulaire du compte ou le locataire du coffre-fort ou toute personne prétendant agir en son nom, ses mandataires ou ses bénéficiaires effectifs est une personne morale : leur dénomination ou raison sociale, forme juridique, numéro du répertoire du commerce et de l'industrie ou du répertoire spécial des sociétés civiles et adresse.
+- - lorsque le titulaire du compte ou le locataire du coffre-fort ou toute personne prétendant agir en son nom, ses mandataires ou ses bénéficiaires effectifs est une personne morale, un trust, une entité juridique, une association ou une fondation : leur dénomination ou raison sociale, forme juridique, numéro du répertoire du commerce et de l'industrie ou du répertoire spécial des sociétés civiles et adresse.
 
-Ces données sont conservées dix ans révolus après l'enregistrement de la clôture du compte que le titulaire soit une personne physique ou une personne morale.
+Ces données sont conservées dix ans révolus après l'enregistrement de la clôture du compte que le titulaire soit une personne physique , une personne morale, un trust, toute entité juridique, une association ou une fondation. Ce délai de conservation peut être prorogé à l'initiative du Service exerçant la fonction de renseignement financier pour les besoins de ses missions.
