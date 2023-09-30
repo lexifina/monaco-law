@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2018-1053 du 8 novembre 2018 portant application de l'article 27 de la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique
 
-Version en vigueur au 26 décembre 2020.
+Version en vigueur au 30 septembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/11-08-2018-1053@2020.12.26/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2018/11-08-2018-1053@2023.09.30/
 
 | | |
 | --- | --- |
