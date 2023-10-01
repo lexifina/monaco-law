@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-717 du 11 décembre 2023 fixant le montant maximal mensuel de l'allocation de crèche versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er octobre 2023
