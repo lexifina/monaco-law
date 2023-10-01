@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-626 du 25 octobre 2023 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2023-2024
