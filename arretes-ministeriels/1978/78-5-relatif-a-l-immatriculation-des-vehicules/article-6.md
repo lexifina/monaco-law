@@ -6,19 +6,19 @@ Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatricul
 
 * Série mise à la disposition de S.A.S. le Prince Souverain pour l'immatriculation de Ses véhicules :
 
-- un groupe de deux lettres, suivi d'un groupe de deux chiffres soit MC01 à MC99, MP01 à MP99 et PM01 à PM99 ;
+- - un groupe de deux lettres, suivi d'un groupe de deux chiffres soit MC01 à MC99, MP01 à MP99 et PM01 à PM99 ;
 
-- couleur des caractères : bleue
+- - couleur des caractères : bleue
 
-- à l'avant et à l'arrière, les armoiries princières remplacent l'écusson rouge et blanc et l'estampille annuelle.
+- - à l'avant et à l'arrière, les armoiries princières remplacent l'écusson rouge et blanc et l'estampille annuelle.
 
 Véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée :
 
-- couleur des caractères : bleue
+- - couleur des caractères : bleue
 
 * Pour les motocycles et assimilés y compris les cyclomoteurs :
 
-- deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99, MP01 à MP99, PM01 à PM99)
+- - deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99, MP01 à MP99, PM01 à PM99)
 
 les lettres étant choisies dans la liste :
 
@@ -26,17 +26,17 @@ A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
 
 * Pour les remorques et les semi-remorques de plus de 750 kg de poids total en charge :
 
-- une lettre et un groupe de trois chiffres au plus, soit du n° A001 au n° A999.
+- - une lettre et un groupe de trois chiffres au plus, soit du n° A001 au n° A999.
 
 * Pour les véhicules automobiles :
 
-- un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
+- - un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
 
-- ou une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999 ;
+- - ou une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999 ;
 
-les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y.
+- les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y.
 
-- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, X, Y
+- - ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, X, Y
 
 la lettre Z étant réservée aux personnes physiques visées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée, justifiant en nom personnel d'un titre de propriété ou d'un bail à loyer concernant un logement en Principauté.
 
@@ -86,13 +86,13 @@ Ces numéros sont réservés aux véhicules admis en circulation sur la voie pub
 
 - a) véhicule neuf carrossé ou non, à vide ou lesté, mais non chargé, à l'exception des personnes et du matériel nécessaires aux essais, et dont la mise en circulation provisoire, avant la déclaration de mise en circulation, est strictement limitée aux opérations suivantes :
 
-- 1° déplacement entre le dépôt, le magasin ou l'atelier du concessionnaire ou de l'agent chargé de la vente et un lieu spécialisé dans lequel l'équipement doit être complété, modifié ou adapté ;
+  - 1° déplacement entre le dépôt, le magasin ou l'atelier du concessionnaire ou de l'agent chargé de la vente et un lieu spécialisé dans lequel l'équipement doit être complété, modifié ou adapté ;
 
-- 2° déplacement entre, d'une part, le dépôt, le magasin, l'atelier du concessionnaire ou de l'agent chargé de la vente ou l'atelier spécialisé ou l'équipement a été complété et, d'autre part, un lieu de contrôle administratif ou un lieu d'exposition de la clientèle ;
+  - 2° déplacement entre, d'une part, le dépôt, le magasin, l'atelier du concessionnaire ou de l'agent chargé de la vente ou l'atelier spécialisé ou l'équipement a été complété et, d'autre part, un lieu de contrôle administratif ou un lieu d'exposition de la clientèle ;
 
-- 3° présentation à un client éventuel ;
+  - 3° présentation à un client éventuel ;
 
-- 4° essai par un client éventuel
+  - 4° essai par un client éventuel
 
 - b) véhicules déjà immatriculés dont la mise en circulation a strictement pour objet :
 
@@ -108,7 +108,7 @@ Les intéressés devront justifier que le nombre de cartes qu'ils demandent est 
 
 Les véhicules mis en circulation sous le couvert de cartes " W " devront, dans tous les cas, être accompagnés de l'attributaire ou de l'un de ses employés, qui devra présenter à toute réquisition la carte qui lui a été affectée.
 
-Les cartes " W " ne seront valables que pour l'année de leur délivrance. Elles pourront être renouvelées au début de chaque année, sur la demande des intéressés, après justification qu'elles continuent à répondre à un besoin réel du commerce de ces derniers. Les cartes périmées devront être restituées au moment de la remise des cartes nouvelles.
+Les cartes " W " sont valables pour une durée d'un an, jusqu'au 31 décembre de l'année en cours. Leur reconduction s'effectue dans le cadre de la campagne de renouvellement annuelle des immatriculations dont les modalités sont fixées par l'article 5 du présent arrêté.
 
 Il pourra être procédé, en cours d'année, au retrait de tout ou partie des cartes délivrées, en cas de cessation de commerce, ou s'il est établi qu'elles ont cessé de répondre à un besoin réel de celui qui les utilise.
 
@@ -140,7 +140,7 @@ Ces numéros ne pourront être utilisés qu'accompagnés d'un certificat d'immat
 
   - 4. déplacement pour présentation aux acquéreurs éventuels ou à leurs représentants des véhicules de démonstration de plus de 3,5 tonnes de P.T.A.C.
 
-- Par exception à la règle générale énoncée au début du paragraphe b), l'essai du matériel par un client éventuel peut être réalisé en charge dans les conditions qui seront celles de son exploitation normale, sous réserve du respect de la réglementation relative aux transports routiers de marchandises.
+  - Par exception à la règle générale énoncée au début du paragraphe b), l'essai du matériel par un client éventuel peut être réalisé en charge dans les conditions qui seront celles de son exploitation normale, sous réserve du respect de la réglementation relative aux transports routiers de marchandises.
 
 - c) véhicule déjà immatriculé dont la mise en circulation a strictement pour objet :
 
@@ -150,11 +150,11 @@ Ces numéros ne pourront être utilisés qu'accompagnés d'un certificat d'immat
 
 Peuvent bénéficier d'une immatriculation dans la série provisoire les véhicules en provenance de la Principauté de Monaco destinés à des personnes domiciliées en Principauté ainsi que les véhicules achetés en Principauté par des personnes domiciliées hors de la Principauté à destination de l'étranger. Le numéro d'immatriculation provisoire est composé :
 
-* a) d'un groupe de 4 chiffres pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques ou de 2 lettres et 2 chiffres pour les motocycles et assimilés ;
+- * a) d'un groupe de 4 chiffres pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques ou de 2 lettres et 2 chiffres pour les motocycles et assimilés ;
 
-* b) suivi du symbole WW ou WW2, suivi, le cas échéant, d'une lettre de série (A, B, C, etc.) ;
+- * b) suivi du symbole WW ou WW2, suivi, le cas échéant, d'une lettre de série (A, B, C, etc.) ;
 
-* c) suivi des lettres MC.
+- * c) suivi des lettres MC.
 
 Le numéro d'immatriculation provisoire figure sur des bandes autocollantes conformes aux modèles déposés auprès du Service des Titres de Circulation et dont le modèle figure en annexe. Elles doivent être apposées sur le véhicule aux emplacements prévus pour les plaques d'immatriculation.
 
@@ -164,41 +164,41 @@ Sur ces bandes, la date de fin de validité de l'immatriculation provisoire est 
 
 Elles doivent en outre correspondre aux caractéristiques suivantes :
 
-- dimensions des bandes :
+- - dimensions des bandes :
 
-* pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques : longueur : 45,5 cm ; largeur : 8,5 cm,
+  - * pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques : longueur : 45,5 cm ; largeur : 8,5 cm,
 
-* pour les motocycles, cyclomoteurs et assimilés : longueur : 20,5 cm ; largeur : 10 cm.
+  - * pour les motocycles, cyclomoteurs et assimilés : longueur : 20,5 cm ; largeur : 10 cm.
 
-- police et taille des caractères figurant sur ces bandes :
+- - police et taille des caractères figurant sur ces bandes :
 
-* pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques :
+  - * pour les véhicules automobiles, utilitaires, camions, remorques ou semi-remorques :
 
-* numéro d'immatriculation : police : Swiss721 BT ; taille : 160,
+  - * numéro d'immatriculation : police : Swiss721 BT ; taille : 160,
 
-* date de fin de validité : police : Swiss721 BT ; taille : 58.
+  - * date de fin de validité : police : Swiss721 BT ; taille : 58.
 
-* pour les motocycles, cyclomoteurs et assimilés :
+  - * pour les motocycles, cyclomoteurs et assimilés :
 
-* numéro d'immatriculation : police : Swiss721 BT ; taille : 85,
+  - * numéro d'immatriculation : police : Swiss721 BT ; taille : 85,
 
-* date de fin de validité : police : Swiss721 BT ; taille : 36.
+  - * date de fin de validité : police : Swiss721 BT ; taille : 36.
 
 Les certificats d'immatriculation provisoire sont délivrés par le Service des Titres de Circulation ou par l'intermédiaire d'un professionnel de l'automobile (constructeurs, importateurs, carrossiers ou commerçants), sous son entière responsabilité, afin de permettre, pendant une période de validité, la circulation des véhicules dans l'attente de la délivrance d'un certificat d'immatriculation définitif ou de leur sortie temporaire ou définitive à l'étranger.
 
 Il existe deux sortes d'immatriculations provisoires :
 
-- la série WW normale destinée aux véhicules neufs ou d'occasion devant recevoir une immatriculation en Principauté de Monaco ou en France,
+- - la série WW normale destinée aux véhicules neufs ou d'occasion devant recevoir une immatriculation en Principauté de Monaco ou en France,
 
-- la série WW2 destinée aux véhicules neufs achetés hors taxes ou aux véhicules d'occasion exportés vers des pays autres que la France.
+- - la série WW2 destinée aux véhicules neufs achetés hors taxes ou aux véhicules d'occasion exportés vers des pays autres que la France.
 
 Peuvent également recevoir une immatriculation provisoire dans la série WW2, les véhicules en attente d'immatriculation dans la série " TT " ou la série " Diplomatique ".
 
 L'attribution d'un certificat d'immatriculation WW2 est toutefois, dans ce cas, subordonnée à la présentation :
 
-- pour les véhicules devant recevoir une immatriculation TT, du certificat 846 B délivré par les douanes,
+- - pour les véhicules devant recevoir une immatriculation TT, du certificat 846 B délivré par les douanes,
 
-- pour les véhicules devant recevoir une immatriculation CD ou CC, d'une autorisation de la direction générale des douanes.
+- - pour les véhicules devant recevoir une immatriculation CD ou CC, d'une autorisation de la direction générale des douanes.
 
 Pour obtenir les certificats d'immatriculation provisoire, les professionnels de l'automobile doivent adresser au Service des Titres de Circulation une demande établie sur un imprimé disponible audit service.
 
@@ -238,9 +238,9 @@ Seuls les véhicules sous couvert d'un numéro WW2 peuvent circuler dans les aut
 
 À l'issue de cette période :
 
-- les véhicules bénéficiant d'un numéro WW doivent être immatriculés en Principauté de Monaco ou en France ;
+- - les véhicules bénéficiant d'un numéro WW doivent être immatriculés en Principauté de Monaco ou en France ;
 
-- les véhicules bénéficiant d'un numéro WW2 doivent, selon le cas, avoir quitté définitivement la Principauté ou la France ou être immatriculés dans la série " TT " ou la série " Diplomatique ".
+- - les véhicules bénéficiant d'un numéro WW2 doivent, selon le cas, avoir quitté définitivement la Principauté ou la France ou être immatriculés dans la série " TT " ou la série " Diplomatique ".
 
 Sous couvert d'un numéro WW2 un véhicule peut ne pas être conforme aux dispositions techniques du Code de la route.
 
@@ -254,15 +254,15 @@ Pour être admis en circulation internationale, un véhicule circulant avec un n
 
 La délivrance de ce certificat pour véhicule exporté sous couvert d'un numéro WW2 est subordonnée à la présentation en sus du certificat d'immatriculation provisoire correspondant :
 
-- pour un véhicule neuf :
+- - pour un véhicule neuf :
 
-* de la notice du constructeur s'il n'est pas conforme à un type réceptionné,
+  - * de la notice du constructeur s'il n'est pas conforme à un type réceptionné,
 
-* du certificat de conformité ; dans ce cas, il sera apposé sur ce certificat un cachet portant la mention " véhicule exporté sous le numéro... " (indication du numéro WW2 délivré),
+  - * du certificat de conformité ; dans ce cas, il sera apposé sur ce certificat un cachet portant la mention " véhicule exporté sous le numéro... " (indication du numéro WW2 délivré),
 
-* dans les deux cas ci-dessus, du certificat de cession établi par le vendeur au nom du titulaire de la carte WW2, sauf si le nom de l'acheteur est déjà mentionné sur le certificat de conformité.
+  - * dans les deux cas ci-dessus, du certificat de cession établi par le vendeur au nom du titulaire de la carte WW2, sauf si le nom de l'acheteur est déjà mentionné sur le certificat de conformité.
 
-- pour un véhicule d'occasion : du certificat d'immatriculation accompagné du certificat de cession établi par le vendeur au nom du titulaire du certificat d'immatriculation provisoire.
+- - pour un véhicule d'occasion : du certificat d'immatriculation accompagné du certificat de cession établi par le vendeur au nom du titulaire du certificat d'immatriculation provisoire.
 
 Les carnets WW pourront ne pas être renouvelés dans le cas où les certificats d'immatriculation provisoire ne sont pas délivrés dans les conditions édictées par le présent arrêté ministériel.
 
@@ -274,13 +274,13 @@ La couleur des caractères de la plaque d'immatriculation de cette série est ro
 
 Le numéro d'immatriculation est composé :
 
-- d'un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
+- - d'un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
 
-- ou d'une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999.
+- - ou d'une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999.
 
 Les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, Y.
 
-- ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, Y.
+- - ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, Y.
 
 L'immatriculation des véhicules à délégation partielle ou totale de conduite est subordonnée à la délivrance, par décision du Ministre d'État, d'une autorisation administrative, conformément aux dispositions du Titre VII bis du Code de la route.
 
@@ -354,7 +354,7 @@ Il ne peut être attribué que deux numéros d'immatriculation par Organismes In
 
 * Véhicules automobiles ne circulant qu'épisodiquement (véhicules de collection ou de compétition) ;
 
-- Couleur des caractères : bleu.
+- - Couleur des caractères : bleu.
 
 L'immatriculation des véhicules de collection est composée des mêmes caractères que la série normale.
 
