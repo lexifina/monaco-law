@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-718 du 11 décembre 2023 fixant les tranches de rémunération et les montants mensuels de l'allocation de soutien de famille versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er octobre 2023
