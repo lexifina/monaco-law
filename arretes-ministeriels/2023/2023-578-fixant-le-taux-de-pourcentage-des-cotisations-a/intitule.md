@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-578 du 29 septembre 2023 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2021-2022
