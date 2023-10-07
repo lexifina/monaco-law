@@ -4,13 +4,13 @@ L'immobilisation consiste à maintenir le véhicule soit, sur place ou à proxim
 
 Pendant tout le temps de l'immobilisation, le véhicule demeure sous la garde juridique de son conducteur ou propriétaire.
 
-Lorsqu'il est constaté la nécessité de faire cesser sans délai l'une des infractions visées ci-après, l'immobilisation du véhicule peut être prescrite par les officiers et agents de police judiciaire mentionnés aux articles 42 et 56 du Code de procédure pénale ou, dans le cadre de leur compétence, soit par les agents assermentés du Service des titres de circulation, soit par les agents assermentés de la Direction de l'Environnement. L'immobilisation peut, en tout état de cause, être prononcée en cas de refus du propriétaire du véhicule ou en son absence.
+Lorsqu'il est constaté la nécessité de faire cesser sans délai l'une des infractions visées ci-après, l'immobilisation du véhicule peut être prescrite par les officiers et agents de police judiciaire mentionnés aux articles 42 et 56 du Code de procédure pénale ou, dans le cadre de leur compétence, soit par les agents assermentés du Service des Titres de Circulation, soit par les agents assermentés de la Direction de l'Environnement, soit par les agents assermentés du Service des Parkings Publics. L'immobilisation peut, en tout état de cause, être prononcée en cas de refus du propriétaire du véhicule ou en son absence. En cas de refus du propriétaire, l'agent assermenté ayant constaté l'infraction peut demander à la Direction de la Sûreté Publique de dresser le procès-verbal d'immobilisation du véhicule.
 
 Conformément à l'alinéa précédent, l'immobilisation peut être prescrite afin de faire cesser les infractions suivantes :
 
 - 1 - Lorsque le conducteur interpellé est en état d'ivresse, sous l'empire d'un état alcoolique, de substances ou de plantes classées comme stupéfiants ;
 
-- 2 (2 abrogé) ;
+- 2 - lorsque le conducteur refuse de s'acquitter du droit exigé pour le stationnement dans une zone réglementée payante ;
 
 - 3 - lorsque le mauvais état du véhicule, son poids, sa charge par essieu, la forme, la nature, l'état et les conditions d'utilisation des bandages, la pression sur le sol, l'absence, la non-conformité et la défectuosité de son équipement réglementaire en ce qui concerne les freins ou l'éclairage, ou son chargement, créent un danger important pour les autres usagers ou constituent une menace pour l'intégrité de la chaussée ;
 

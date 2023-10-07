@@ -10,4 +10,4 @@ Peuvent bénéficier de l'immatriculation de véhicules :
 
 - La mention « véhicules de service » sera inscrite sur le certificat d'immatriculation des véhicules d'entreprises.
 
-- Les sociétés civiles sont exclues du bénéfice de l'immatriculation en application des dispositions qui précèdent.
+- Sont exclues du bénéfice de l'immatriculation en application des dispositions qui précèdent, les sociétés civiles immobilières, ainsi que les sociétés civiles dont les activités de conseil ou de gestion sont principalement exercées au bénéfice de leurs fondateurs ou associés et dont les fondateurs ou les associés ne sont pas domiciliés en Principauté.

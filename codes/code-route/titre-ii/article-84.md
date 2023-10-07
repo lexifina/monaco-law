@@ -27,3 +27,13 @@
 - 7° Signal de détresse :
 
 - Tout véhicule automobile ou remorqué doit être muni d'un feu signal de détresse constitué par le fonctionnement simultané des indicateurs de changement de direction.
+
+- 8° Signalisation matérialisant les angles morts sur les véhicules lourds :
+
+- Tout véhicule dont le poids total en charge excède 3,5 tonnes doit porter, visible sur les côtés ainsi qu'à l'arrière du véhicule, une signalisation matérialisant la position des angles morts depuis le poste de conduite.
+
+- Ne sont pas concernés les véhicules agricoles et forestiers et les engins de service hivernal dont le poids total en charge excède 3,5 tonnes.
+
+- Le modèle de la signalisation et ses modalités d'apposition sont fixés par arrêté ministériel.
+
+- Sont réputés satisfaire aux dispositions de la présente ordonnance, les véhicules lourds qui portent, sur les côtés et à l'arrière, un dispositif destiné à matérialiser la présence des angles morts en application d'une législation d'un autre État membre de l'Union européenne.
