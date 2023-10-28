@@ -2,64 +2,64 @@
 
 La liste des affections comportant un traitement prolongé et une thérapeutique particulièrement coûteuse est établie ainsi qu'il suit :
 
-- accident vasculaire cérébral invalidant ;
+- - accident vasculaire cérébral invalidant ;
 
-- insuffisances médullaires et autres cytopénies chroniques ;
+- - insuffisances médullaires et autres cytopénies chroniques ;
 
-- artériopathies chroniques avec manifestations ischémiques ;
+- - artériopathies chroniques avec manifestations ischémiques ;
 
-- bilharziose compliquée ;
+- - bilharziose compliquée ;
 
-- insuffisance cardiaque grave, troubles du rythme graves, cardiopathies valvulaires graves ;
+- - insuffisance cardiaque grave, troubles du rythme graves, cardiopathies valvulaires graves ;
 
-- cardiopathies congénitales graves ;
+- - cardiopathies congénitales graves ;
 
-- maladies chroniques actives du foie et cirrhoses ;
+- - maladies chroniques actives du foie et cirrhoses ;
 
-- déficit immunitaire primitif grave nécessitant un traitement prolongé, infection par le virus de l'immunodéficience humaine ;
+- - déficit immunitaire primitif grave nécessitant un traitement prolongé, infection par le virus de l'immunodéficience humaine ;
 
-- diabète de type 1 et diabète de type 2 ;
+- - diabète de type 1 et diabète de type 2 ;
 
-- formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave ;
+- - formes graves des affections neurologiques et musculaires (dont myopathie), épilepsie grave ;
 
-- hémoglobinopathies, hémolyses, chroniques constitutionnelles et acquises sévères ;
+- - hémoglobinopathies, hémolyses, chroniques constitutionnelles et acquises sévères ;
 
-- hémophilies et affections constitutionnelles de l'hémostase graves ;
+- - hémophilies et affections constitutionnelles de l'hémostase graves ;
 
-- hypertension artérielle sévère ;
+- - hypertension artérielle sévère ;
 
-- maladie coronaire ;
+- - maladie coronaire ;
 
-- insuffisance respiratoire chronique grave ;
+- - insuffisance respiratoire chronique grave ;
 
-- maladie d'Alzheimer et autres démences ;
+- - maladie d'Alzheimer et autres démences ;
 
-- maladie de Parkinson ;
+- - maladie de Parkinson ;
 
-- maladies métaboliques héréditaires nécessitant un traitement prolongé spécialisé ;
+- - maladies métaboliques héréditaires nécessitant un traitement prolongé spécialisé ;
 
-- mucoviscidose ;
+- - mucoviscidose ;
 
-- néphropathie chronique grave et syndrome néphrétique primitif ;
+- - néphropathie chronique grave et syndrome néphrétique primitif ;
 
-- paraplégie ;
+- - paraplégie ;
 
-- vascularites, lupus érythémateux systémique, sclérodermie systémique ;
+- - vascularites, lupus érythémateux systémique, sclérodermie systémique ;
 
-- polyarthrite rhumatoïde évolutive ;
+- - polyarthrite rhumatoïde évolutive ;
 
-- affections psychiatriques de longue durée ;
+- - affections psychiatriques de longue durée ;
 
-- rectocolite hémorragique et maladie de Crohn évolutives ;
+- - rectocolite hémorragique et maladie de Crohn évolutives ;
 
-- sclérose en plaques ;
+- - sclérose en plaques ;
 
-- scoliose idiopathique structurale évolutive ;
+- - scoliose idiopathique structurale évolutive ;
 
-- spondylarthrite grave ;
+- - spondylarthrite grave ;
 
-- suites de transplantation d'organe ;
+- - suites de transplantation d'organe ;
 
-- tuberculose active, lèpre ;
+- - tuberculose active, lèpre ;
 
-- tumeur maligne, affection maligne du tissu lymphatique ou hématopoïétique.
+- - tumeur maligne, affection maligne du tissu lymphatique ou hématopoïétique.
