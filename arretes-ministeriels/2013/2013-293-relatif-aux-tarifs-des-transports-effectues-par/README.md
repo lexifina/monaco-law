@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2013-293 du 17 juin 2013 relatif aux tarifs des transports effectués par des véhicules sanitaires terrestres agréés
 
-Version en vigueur au 24 avril 2021.
+Version en vigueur au 7 novembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/06-17-2013-293@2021.04.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/06-17-2013-293@2023.11.07/
 
 | | |
 | --- | --- |
