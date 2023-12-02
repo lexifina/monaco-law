@@ -1,0 +1,1 @@
+La présente Ordonnance Souveraine, publiée au Journal de Monaco du 1er décembre 2023, entre en vigueur le 1er janvier 2024. Ses dispositions sont consultables dans la « version à venir » accessible via l'onglet « Historique – voir toutes les versions ».
