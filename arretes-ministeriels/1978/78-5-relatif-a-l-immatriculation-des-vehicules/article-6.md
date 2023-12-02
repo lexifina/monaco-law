@@ -348,27 +348,33 @@ Le numéro d'immatriculation est composé d'un numéro d'identification identiqu
 
 Il ne peut être attribué que deux numéros d'immatriculation par Organismes Internationaux.
 
-* Véhicules automobiles ou remorqués de plus de 30 ans d'âge ;
+Les véhicules à moteur ou remorqués peuvent bénéficier d'une immatriculation en série de collection s'ils remplissent les conditions cumulatives suivantes :
 
-* Véhicules automobiles n'ayant pu satisfaire à l'ensemble des contrôles imposés au titre de la procédure de réception à titre isolé prévue à l'article 98 de l'ordonnance n° 1.691 du 17 décembre 1957 ;
+1° ils ont été construits ou immatriculés pour la première fois il y a au moins trente ans ;
 
-* Véhicules automobiles ne circulant qu'épisodiquement (véhicules de collection ou de compétition) ;
+2° ils relèvent d'un type qui n'est plus produit ;
 
-- - Couleur des caractères : bleu.
+3° ils sont maintenus dans leur état d'origine et aucune modification essentielle n'a été apportée aux caractéristiques techniques de leurs composants principaux.
 
-L'immatriculation des véhicules de collection est composée des mêmes caractères que la série normale.
+L'immatriculation d'un véhicule dans cette série est conditionnée à la remise d'un des trois documents suivants :
 
-Les véhicules immatriculés dans cette série ne peuvent circuler que lors de rallyes ou autres manifestations ou est requise la participation de véhicules d'un type particulier.
+- une attestation de la Fédération Française des Véhicules d'Époque pour l'obtention d'un certificat d'immatriculation " Véhicule de Collection " ;
 
-Ils sont toutefois autorisés à circuler dans la Principauté dans les mêmes conditions que les véhicules immatriculés en série normale.
+- une attestation pour l'obtention d'un certificat d'immatriculation avec mention d'usage " Véhicule de Collection " délivrée par le constructeur ;
 
-Les propriétaires de véhicules de collection doivent, lorsqu'ils sont amenés à faire circuler lesdits véhicules hors de la Principauté pour les acheminer sur les lieux du déroulement de rallyes ou autres manifestations, établir une déclaration en triple exemplaire.
+- un certificat d'immatriculation français portant la mention " Véhicule de Collection ".
 
-Cette déclaration doit être tirée d'un carnet à souches délivré par le service de la circulation et comportant vingt-quatre feuillets numérotés. Chaque feuillet comprend trois volets sur lesquels doivent être rédigées les déclarations.
+Les véhicules dépourvus de Certificat de Conformité Européen, et disposant d'un des trois documents susmentionnés, seront obligatoirement immatriculés en série collection.
 
-Les deux premiers volets ou volets A et B doivent être adressés respectivement à la direction de la sûreté publique et au service de la circulation, trois jours au moins avant la date de départ des véhicules indiquée dans la déclaration, le cachet de la poste faisant foi. Le troisième volet ou volet C doit être conservé par les conducteurs et présenté par eux lors de tout contrôle.
+Le numéro d'immatriculation est composé des mêmes caractères que la série normale. La mention " véhicule de collection " est inscrite sur le certificat d'immatriculation.
 
-Les véhicules automobiles ou remorqués de plus de 25 ans d'âge jusqu'alors immatriculés en série normale, pourront être maintenus dans cette catégorie à condition de satisfaire, chaque année, aux visites techniques prévues aux articles 111 à 115 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957.
+L'utilisation de ces véhicules se fait exclusivement à usage non professionnel à l'exclusion des voitures de transport avec chauffeur, sans restriction géographique de déplacement.
+
+Toute modification intervenue postérieurement à son immatriculation en série collection affectant les caractéristiques techniques du véhicule, devra être signalée au Service des Titres de Circulation. Le cas échéant, le véhicule devra faire l'objet d'une nouvelle immatriculation en série normale, sous réserve de présenter une attestation de conformité délivrée par un professionnel habilité par le constructeur.
+
+S'entend comme véhicule de compétition, tout véhicule dont le but principal est la recherche de performances dès sa sortie d'usine ou par préparation dont l'équipement de pièces spécifiques ne lui permet d'être immatriculé, ni de rouler sur route en condition de circulation normale.
+
+Tout véhicule répondant à cette description doit présenter un passeport technique délivré par la Fédération Française du Sport Automobile ou la Fédération Internationale de l'Automobile. Les caractéristiques nécessaires à l'identification (marque, type, numéro de série) du véhicule sont alors indiquées au sein de ce document.
 
 * Couleur des caractères : bleu.
 
