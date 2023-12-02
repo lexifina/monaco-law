@@ -8,18 +8,18 @@ L'échange d'appartements est autorisé sous réserve que :
 
 - dans le cadre d'un échange d'appartements de même catégorie, le montant de l'Aide Nationale au Logement ne saurait excéder la somme globale versée avant l'opération d'échange ;
 
-- dans le cadre d'un échange d'appartements de catégories différentes, le montant de l'Aide Nationale au Logement ne saurait excéder soit la somme globale versée avant l'opération d'échange soit les moyennes octroyées pour les logements domaniaux, au titre de l'année 2022, pour chaque type de logement et qui s'appliqueront pour l'année 2023 :
+- dans le cadre d'un échange d'appartements de catégories différentes, le montant de l'Aide Nationale au Logement ne saurait excéder soit la somme globale versée avant l'opération d'échange soit les moyennes octroyées pour les logements domaniaux, au titre de l'année 2023, pour chaque type de logement et qui s'appliqueront pour l'année 2024 :
 
-• studio : 291,00 euros
+- studio : 297,00 euros,
 
-• 2 pièces : 375,00 euros
+- 2 pièces : 399,00 euros,
 
-• 3 pièces : 386,00 euros
+- 3 pièces : 477,00 euros,
 
-• 4 pièces : 653,00 euros
+- 4 pièces : 676,00 euros,
 
-• 5 pièces : 1.105,00 euros
+- 5 pièces : 1.079,00 euros.
 
-Dans l'hypothèse où un co-échangeur est logé dans un appartement excédant son besoin normal, le montant de l'Aide Nationale au Logement retenu pour l'établissement de l'incidence financière est arrêté sans application du coefficient de pondération proportionnel au nombre de pièces qui satisfait le besoin normal de son foyer.
+étant précisé que dans l'hypothèse où un co-échangeur est logé dans un appartement excédant son besoin normal, le montant de l'Aide Nationale au Logement retenu pour l'établissement de l'incidence financière est arrêté sans application du coefficient de pondération proportionnel au nombre de pièces qui satisfait le besoin normal de son foyer.
 
-Le calcul de l'incidence de l'Aide Nationale au Logement évoqué ci-dessus s'effectue également en cas de contrat « habitation-capitalisation », sur la base du loyer qui serait facturé en l'absence dudit contrat.
+Il est précisé que le calcul de l'incidence de l'Aide Nationale au Logement évoqué ci-dessus s'effectue également en cas de contrat « habitation-capitalisation », sur la base du loyer qui serait facturé en l'absence dudit contrat.
