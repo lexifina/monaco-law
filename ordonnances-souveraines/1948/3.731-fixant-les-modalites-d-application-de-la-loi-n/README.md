@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 3.731 du 28 juillet 1948 fixant les modalités d'application de la loi n° 455 du 27 juin 1947 modifiée par la loi n° 481 du 17 juillet 1948 sur les retraites des salariés
+# Ordonnance Souveraine n° 3.731 du 28 juillet 1948 fixant les modalités d'application de la loi n° 455 du 27 juin 1947 modifiée par la loi n° 481 du 17 juillet 1948 sur les retraites des salariés
 
-Version en vigueur au 8 octobre 1988.
+Version en vigueur au 16 décembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1948/07-28-3.731@1988.10.08/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1948/07-28-3.731@2023.12.16/
 
 | | |
 | --- | --- |
