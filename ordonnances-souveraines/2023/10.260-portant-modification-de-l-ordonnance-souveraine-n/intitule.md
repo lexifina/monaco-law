@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.260 du 7 décembre 2023 portant modification de l'Ordonnance Souveraine n° 7.191 du 31 août 1981 relative aux règles applicables aux opérations financières et comptables de la Caisse de Compensation des Services Sociaux, de la Caisse Autonome des Retraites et de la Caisse Autonome des Retraites des Travailleurs Indépendants
