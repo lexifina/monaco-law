@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.258 du 7 décembre 2023 relative à la retraite complémentaire anticipée avec le cumul d'une activité professionnelle instituée par la loi n° 1.544 du 20 avril 2023 instituant une Caisse Monégasque de Retraite Complémentaire
