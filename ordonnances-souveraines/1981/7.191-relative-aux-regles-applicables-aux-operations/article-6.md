@@ -1,6 +1,6 @@
 # Article 6
 
-Le directeur, nommé dans les conditions prévues par les textes régissant la caisse autonome des retraites, la caisse autonome des retraites des travailleurs indépendants et la caisse de compensation des services sociaux, constate et liquide les droits et charges de chaque caisse. Il a seul qualité pour émettre des ordres de recette et des ordres de paiement.
+Le directeur, nommé dans les conditions prévues par les textes régissant la caisse autonome des retraites, la caisse autonome des retraites des travailleurs indépendants, la Caisse de Compensation des Services Sociaux et la Caisse Monégasque de Retraite Complémentaire, constate et liquide les droits et charges de chaque caisse. Il a seul qualité pour émettre des ordres de recette et des ordres de paiement.
 
 Toutefois, il peut déléguer, à titre permanent, sa signature à un ou plusieurs agents en précisant, pour chacun, la nature des opérations qu'il peut effectuer et leur montant maximum.
 
