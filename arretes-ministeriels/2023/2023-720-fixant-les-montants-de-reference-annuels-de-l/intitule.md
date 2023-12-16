@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-720 du 11 décembre 2023 fixant les montants de référence annuels de l'allocation de vacances versée aux fonctionnaires et agents de l'État et de la Commune pour l'année 2024
