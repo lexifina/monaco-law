@@ -30,6 +30,10 @@ Vpsy [Vnp] | Visite neuropsychiatre | 11,7 €
 
 CDE | Consultation Spéciale en Dermatologie | 11,34 €
 
+TVA | Forfait mensuel pour opérateur de télésurveillance de niveau 1, par patient | 11 €
+
+TVB | Forfait mensuel pour opérateur de télésurveillance de niveau 2, par patient | 28 €
+
 MPF | Majoration consultation famille | 3 €
 
 MAF | Majoration consultation annuelle famille | 3 €
@@ -78,7 +82,11 @@ AMI | Actes pratiqués par l'infirmier | 0,83 €
 
 AIS | Actes infirmiers de soins | 0,70 €
 
-PAI | Forfait pour soin infirmier en pratique avancée | 8,62 €
+PAI | Soins infirmiers en pratique avancée | 8,62 €
+
+TLS | Acte infirmier d'accompagnement d'une consultation à distance réalisée entre un patient et un médecin (lors d'un soin prévu) | 10 €
+
+TLD | Acte infirmier d'accompagnement d'une consultation à distance réalisée entre un patient et un médecin (sans autre soin prévu) | 15 €
 
 [DAMI]a | Indemnité de déplacement infirmier | 0,54 €
 
@@ -170,7 +178,7 @@ SFI | Soins infirmiers | 0,86 €
 
 CGSF | Examen médical de suivi de grossesse réalisé par la sage-femme | 7, 00 €
 
-SP | Séance de suivi postnatal réalisé par la sage-femme | 6,12 €
+SP | Séance de suivi ou d'entretien postnatal réalisé par la sage-femme | 2,00 €
 
 [DSF] DSFI | Indemnité de déplacement | 0,66 €
 
@@ -264,7 +272,7 @@ SFI | Soins infirmiers pratiqués par la sage-femme | 2,73 €
 
 CSF2 | Séance de préparation à l'accouchement | 34,00 €
 
-SP | Séance de suivi postnatal réalisé par la sage-femme | 18,55 €
+SP | Séance de suivi ou d'entretien postnatal réalisé par la sage-femme | 2,00 €
 
 Actes dispensés par les auxiliaires médicaux |
 
@@ -272,7 +280,7 @@ AMC | Actes pratiqués par le kinésithérapeute | 2,29 €
 
 AMI | Actes pratiqués par l'infirmier | 3,15 €
 
-PAI | Forfait pour soin infirmier en pratique avancée | 32,70 €
+PAI | Soins infirmiers en pratique avancée | 8,62 €
 
 MIP | Majoration liée à l'âge du patient (- de 7 ans ou 80 ans et +) pour réalisation d'un soin infirmier en pratique avancée | 3,90 €
 
