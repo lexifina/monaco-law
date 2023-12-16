@@ -1,0 +1,1 @@
+Loi n° 1.553 du 7 décembre 2023 portant adaptation de dispositions législatives en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive (Partie III)
