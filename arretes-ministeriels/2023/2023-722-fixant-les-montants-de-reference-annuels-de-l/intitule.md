@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-722 du 11 décembre 2023 fixant les montants de référence annuels de l'allocation de scolarité versée aux fonctionnaires et agents de l'État et de la Commune pour l'année scolaire 2023-2024
