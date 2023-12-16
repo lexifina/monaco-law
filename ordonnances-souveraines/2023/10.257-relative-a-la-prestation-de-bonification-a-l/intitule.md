@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.257 du 7 décembre 2023 relative à la prestation de bonification, à l'allocation compensatoire et au remboursement des cotisations institués par la loi n° 1.544 du 20 avril 2023 instituant une Caisse Monégasque de Retraite Complémentaire
