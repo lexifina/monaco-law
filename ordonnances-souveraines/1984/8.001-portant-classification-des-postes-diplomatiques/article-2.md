@@ -14,6 +14,8 @@ Les postes consulaires sont les suivants :
 
 - Bahamas : Nassau ;
 
+- Barbade : Saint James ;
+
 - Belgique : Anvers, Liège, Ostende ;
 
 - Bermudes (Îles) : Hamilton ;
@@ -105,6 +107,8 @@ Les postes consulaires sont les suivants :
 - Luxembourg : Luxembourg ;
 
 - Madagascar : Antananarivo ;
+
+- Malaisie : Kuala Lumpur ;
 
 - Mali : Bamako ;
 
