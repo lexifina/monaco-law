@@ -60,4 +60,6 @@ Constitue également, aux conditions prévues au premier alinéa, une infraction
 
 - 2°) la provocation d'inondations ayant pour effet de mettre en danger des vies humaines ;
 
-- 3°) la perturbation ou l'interruption de l'approvisionnement en eau, en électricité ou toute autre ressource naturelle fondamentale ayant pour effet de mettre en danger des vies humaines.
+- 3°) la perturbation ou l'interruption de l'approvisionnement en eau, en électricité ou toute autre ressource naturelle fondamentale ayant pour effet de mettre en danger des vies humaines ;
+
+- 4°) le fait, sans autorisation, de détenir, de rechercher, de se procurer, de transférer ou d'exporter, de concevoir ou de fabriquer des armes nucléaires, chimiques ou biologiques, leurs vecteurs et tout matériel ou donnée connexe.
