@@ -2,22 +2,24 @@
 
 L'Administration des Domaines est chargée :
 
-1°) de la gestion du patrimoine immobilier de l'État ;
+- 1°) de la gestion du patrimoine immobilier de l'État ;
 
-2°) de la préparation et de la conclusion des baux, contrats « habitation-capitalisation », conventions d'occupation et autres contrats afférents au domaine de l'État ;
+- 2°) de la préparation et de la conclusion des baux, contrats « habitation-capitalisation », conventions d'occupation et autres contrats afférents au domaine de l'État ;
 
-3°) de l'encaissement ainsi que du recouvrement des loyers, redevances, charges, indemnités et, plus généralement, de toutes sommes dues à l'État, sauf dispositions légales ou réglementaires contraires ;
+- 3°) de l'encaissement ainsi que du recouvrement des loyers, redevances, charges, indemnités et, plus généralement, de toutes sommes dues à l'État, sauf dispositions légales ou réglementaires contraires ;
 
-4°) de l'entretien et de la maintenance des immeubles domaniaux à usage privé ;
+- 4°) de l'entretien et de la maintenance des immeubles domaniaux à usage privé ;
 
-5°) de la remise en état des appartements domaniaux à usage d'habitation ;
+- 5°) de la remise en état des appartements domaniaux à usage d'habitation ;
 
-6°) de la conservation et de la valorisation du patrimoine immobilier de l'État ;
+- 6°) de la conservation et de la valorisation du patrimoine immobilier de l'État ;
 
-7°) de la procédure d'attribution des locaux domaniaux à usage commercial, industriel, de bureau et professionnel ;
+- 7°) de la procédure d'attribution des locaux domaniaux à usage commercial, industriel, de bureau et professionnel ;
 
-8°) de la préparation et de la conclusion des contrats engageant le Trésor ;
+- 8°) de la préparation et de la conclusion des contrats engageant le Trésor ;
 
-9°) de la gestion des achats de fournitures, de matériels et de tous marchés nécessaires au fonctionnement des services exécutifs ;
+- 9°) de la gestion des achats de fournitures, de matériels et de tous marchés nécessaires au fonctionnement des services exécutifs ;
 
-10°) de l'accomplissement de toutes autres missions à caractère patrimonial qui viendraient à lui être confiées par l'autorité administrative.
+- 10°) de l'accomplissement de toutes autres missions à caractère patrimonial qui viendraient à lui être confiées par l'autorité administrative.
+
+- 11°) de la mise en œuvre, dans les conditions visées à l'article 7 de l'Ordonnance Souveraine n° 10.245 du 7 décembre 2023 portant application du chapitre II de la loi n° 1.535 du 9 décembre 2022 relative à la saisie et à la confiscation des instruments et produits du crime, de la procédure d'aliénation des biens saisis ou confisqués prévue par ce texte.
