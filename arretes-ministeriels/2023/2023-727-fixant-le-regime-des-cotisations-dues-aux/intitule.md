@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-727 du 7 décembre 2023 fixant le régime des cotisations dues aux organismes sociaux pour les gens de maison et pour certaines catégories de personnel occasionnellement employé par les associations
