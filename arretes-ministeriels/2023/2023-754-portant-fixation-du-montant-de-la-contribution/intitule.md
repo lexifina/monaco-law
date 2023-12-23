@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-754 du 20 décembre 2023 portant fixation du montant de la contribution touristique instituée par le Chapitre V de la loi n° 1.548 du 6 juillet 2023 portant diverses dispositions d'ordre fiscal
