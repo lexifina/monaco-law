@@ -1,13 +1,13 @@
 # Article 40
 
+Le résultat d'un fonds commun de placement est égal aux revenus nets de l'exercice diminués ou augmentés des plus et moins-values réalisées nettes et des variations des plus et moins-values latentes nettes, sous déduction des acomptes versés au titre de l'exercice.
+
 Le compte de résultat d'un fonds commun de placement doit faire apparaître notamment :
 
-- le montant des intérêts, arrérages, dividendes, jetons de présence et tous autres produits relatifs aux titres et autres valeurs constituant le portefeuille du fonds ;
+- les revenus nets, composés des revenus financiers nets, des autres produits et charges et des comptes de régularisation des revenus nets ;
 
-- les produits des sommes en dépôt ;
+- les plus et moins-values réalisées nettes et les comptes de régularisation qui s'y rattachent ;
 
-- le montant des lots et primes de remboursement attachés aux obligations ;
+- les variations des plus et moins-values latentes nettes et les comptes de régularisation qui s'y rattachent ;
 
-- les frais de gestion prévus par le prospectus complet ;
-
-- éventuellement, la charge des emprunts.
+- les acomptes versés au titre de l'exercice.

@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 1.285 du 10 septembre 2007 portant application de la loi n° 1.339 du 7 septembre 2007 relative aux fonds communs de placement et aux fonds d'investissement
 
-Version en vigueur au 12 mars 2022.
+Version en vigueur au 23 décembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/09-10-1.285@2022.03.12/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/09-10-1.285@2023.12.23/
 
 | | |
 | --- | --- |

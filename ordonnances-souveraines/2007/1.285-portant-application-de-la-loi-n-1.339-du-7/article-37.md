@@ -2,9 +2,9 @@
 
 Les sommes distribuables sont constituées par :
 
-- le résultat net augmenté du report à nouveau et majoré ou diminué du solde du compte de régularisation des revenus afférents à l'exercice clos ;
+- - le revenu net augmenté du report à nouveau et majoré ou diminué du solde du compte de régularisation des revenus afférents à l'exercice clos ;
 
-- les plus-values réalisées, nettes de frais, diminuées des moins-values réalisées, nettes de frais, constatées au cours de l'exercice, augmentées des plus-values nettes de même nature constatées au cours d'exercices antérieurs n'ayant pas fait l'objet d'une distribution ou d'une capitalisation et diminuées ou augmentées du solde du compte de régularisation des plus-values.
+- - les plus-values réalisées, nettes de frais, diminuées des moins-values réalisées, nettes de frais, constatées au cours de l'exercice, augmentées des plus-values nettes de même nature constatées au cours d'exercices antérieurs n'ayant pas fait l'objet d'une distribution ou d'une capitalisation et diminuées ou augmentées du solde du compte de régularisation des plus-values.
 
 Ces catégories peuvent être distribuées en tout ou partie, indépendamment l'une de l'autre.
 
