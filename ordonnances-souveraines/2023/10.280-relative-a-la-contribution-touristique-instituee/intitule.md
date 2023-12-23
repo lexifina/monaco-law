@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.280 du 20 décembre 2023 relative à la contribution touristique instituée par le Chapitre V de la loi n° 1.548 du 6 juillet 2023 portant diverses dispositions d'ordre fiscal
