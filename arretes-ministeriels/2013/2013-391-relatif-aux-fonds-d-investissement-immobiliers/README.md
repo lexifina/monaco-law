@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2013-391 du 8 août 2013 relatif aux fonds d'investissement immobiliers
 
-Version en vigueur au 21 mars 2020.
+Version en vigueur au 23 décembre 2023.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/08-08-2013-391@2020.03.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2013/08-08-2013-391@2023.12.23/
 
 | | |
 | --- | --- |
