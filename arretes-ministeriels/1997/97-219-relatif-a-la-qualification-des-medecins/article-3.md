@@ -2,51 +2,51 @@
 
 Est considéré comme médecin compétent qualifié tout docteur en médecine qui possède une formation spécialisée transversale, dont la liste est fixée comme suit :
 
-- Addictologie ;
+- - Addictologie ;
 
-- Bio-informatique médicale ;
+- - Bio-informatique médicale ;
 
-- Cancérologie ;
+- - Cancérologie ;
 
-- Cardiologie pédiatrique et congénitale ;
+- - Cardiologie pédiatrique et congénitale ;
 
-- Chirurgie de la main ;
+- - Chirurgie de la main ;
 
-- Chirurgie en situation de guerre ou de catastrophe ;
+- - Chirurgie en situation de guerre ou de catastrophe ;
 
-- Chirurgie orbito-palpébro-lacrymale ;
+- - Chirurgie orbito-palpébro-lacrymale ;
 
-- Douleur ;
+- - Douleur ;
 
-- Expertise médicale-préjudice corporel ;
+- - Expertise médicale-préjudice corporel ;
 
-- Foetopathologie ;
+- - Foetopathologie ;
 
-- Génétique et médecine moléculaire bioclinique ;
+- - Génétique et médecine moléculaire bioclinique ;
 
-- Hématologie bioclinique ;
+- - Hématologie bioclinique ;
 
-- Hygiène-prévention de l'infection, résistances, vigilances ;
+- - Hygiène-prévention de l'infection, résistances, vigilances ;
 
-- Maladies allergiques ;
+- - Maladies allergiques ;
 
-- Médecine scolaire ;
+- - Médecine scolaire ;
 
-- Médecine et biologie de la reproduction-andrologie ;
+- - Médecine et biologie de la reproduction-andrologie ;
 
-- Médecine du sport ;
+- - Médecine du sport ;
 
-- Nutrition appliquée ;
+- - Nutrition appliquée ;
 
-- Pharmacologie médicale-thérapeutique ;
+- - Pharmacologie médicale-thérapeutique ;
 
-- Soins palliatifs ;
+- - Soins palliatifs ;
 
-- Sommeil ;
+- - Sommeil ;
 
-- Thérapie cellulaire ;
+- - Thérapie cellulaire ;
 
-- Urgences pédiatriques.
+- - Urgences pédiatriques.
 
 À défaut de la possession d'une des formations précitées, peuvent être prises en considération des connaissances particulières qui seront appréciées par le Conseil de l'Ordre des Médecins.
 

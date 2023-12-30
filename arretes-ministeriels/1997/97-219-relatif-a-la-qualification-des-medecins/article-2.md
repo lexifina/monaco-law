@@ -8,245 +8,245 @@ Ces disciplines sont :
 
 1. Pour les médecins spécialistes issus du nouveau régime des études médicales, ayant commencé leur 3ème cycle en 2017 :
 
-- Allergologie ;
+- - Allergologie ;
 
-- Anatomie et cytologie pathologiques ;
+- - Anatomie et cytologie pathologiques ;
 
-- Anesthésie-réanimation ;
+- - Anesthésie-réanimation ;
 
-- Biologie médicale ;
+- - Biologie médicale ;
 
-- Chirurgie maxillo-faciale ;
+- - Chirurgie maxillo-faciale ;
 
-- Chirurgie orale ;
+- - Chirurgie orale ;
 
-- Chirurgie orthopédique et traumatologique ;
+- - Chirurgie orthopédique et traumatologique ;
 
-- Chirurgie pédiatrique ;
+- - Chirurgie pédiatrique ;
 
-- Chirurgie plastique, reconstructrice et esthétique ;
+- - Chirurgie plastique, reconstructrice et esthétique ;
 
-- Chirurgie thoracique et cardiovasculaire ;
+- - Chirurgie thoracique et cardiovasculaire ;
 
-- Chirurgie vasculaire ;
+- - Chirurgie vasculaire ;
 
-- Chirurgie viscérale et digestive ;
+- - Chirurgie viscérale et digestive ;
 
-- Dermatologie et vénéréologie ;
+- - Dermatologie et vénéréologie ;
 
-- Endocrinologie-diabétologie-nutrition ;
+- - Endocrinologie-diabétologie-nutrition ;
 
-- Génétique médicale ;
+- - Génétique médicale ;
 
-- Gériatrie ;
+- - Gériatrie ;
 
-- Gynécologie médicale ; -
+- - Gynécologie médicale ;
 
-Gynécologie obstétrique ;
+- - Gynécologie obstétrique ;
 
-- Hématologie ;
+- - Hématologie ;
 
-- Hépato-gastro-entérologie ;
+- - Hépato-gastro-entérologie ;
 
-- Maladies infectieuses et tropicales ;
+- - Maladies infectieuses et tropicales ;
 
-- Médecine cardiovasculaire ;
+- - Médecine cardiovasculaire ;
 
-- Médecine d'urgence ;
+- - Médecine d'urgence ;
 
-- Médecine et santé au travail ;
+- - Médecine et santé au travail ;
 
-- Médecine intensive-réanimation ;
+- - Médecine intensive-réanimation ;
 
-- Médecine interne et immunologie clinique ;
+- - Médecine interne et immunologie clinique ;
 
-- Médecine légale et expertises médicales ;
+- - Médecine légale et expertises médicales ;
 
-- Médecine nucléaire ;
+- - Médecine nucléaire ;
 
-- Médecine physique et de réadaptation ;
+- - Médecine physique et de réadaptation ;
 
-- Médecine vasculaire ;
+- - Médecine vasculaire ;
 
-- Néphrologie ;
+- - Néphrologie ;
 
-- Neurochirurgie ;
+- - Neurochirurgie ;
 
-- Neurologie ;
+- - Neurologie ;
 
-- Oncologie ;
+- - Oncologie ;
 
-- Ophtalmologie ;
+- - Ophtalmologie ;
 
-- Oto-rhino-laryngologie
+- - Oto-rhino-laryngologie
 
-- chirurgie cervico-faciale ;
+- - chirurgie cervico-faciale ;
 
-- Pédiatrie ;
+- - Pédiatrie ;
 
-- Pneumologie ;
+- - Pneumologie ;
 
-- Psychiatrie ;
+- - Psychiatrie ;
 
-- Radiologie et imagerie médicale ;
+- - Radiologie et imagerie médicale ;
 
-- Rhumatologie ;
+- - Rhumatologie ;
 
-- Santé publique ;
+- - Santé publique ;
 
-- Urologie.
+- - Urologie.
 
 2. Pour les médecins spécialistes issus du régime des études médicales, ayant commencé leur 3ème cycle à partir d'octobre 1984 :
 
-- anatomie et cytologie pathologiques ;
+- - anatomie et cytologie pathologiques ;
 
-- anesthésiologie
+- - anesthésiologie
 
-- réanimation chirurgicale ;
+- - réanimation chirurgicale ;
 
-- biologie médicale ;
+- - biologie médicale ;
 
-- chirurgie générale ;
+- - chirurgie générale ;
 
-- chirurgie infantile ;
+- - chirurgie infantile ;
 
-- chirurgie maxillo-faciale et stomatologie ;
+- - chirurgie maxillo-faciale et stomatologie ;
 
-- chirurgie orthopédique et traumatologie ;
+- - chirurgie orthopédique et traumatologie ;
 
-- chirurgie plastique reconstructrice et esthétique ;
+- - chirurgie plastique reconstructrice et esthétique ;
 
-- chirurgie thoracique et cardio-vasculaire ;
+- - chirurgie thoracique et cardio-vasculaire ;
 
-- chirurgie urologique ;
+- - chirurgie urologique ;
 
-- chirurgie vasculaire ;
+- - chirurgie vasculaire ;
 
-- chirurgie viscérale ;
+- - chirurgie viscérale ;
 
-- dermatologie et vénéréologie ;
+- - dermatologie et vénéréologie ;
 
-- endocrinologie et métabolismes ;
+- - endocrinologie et métabolismes ;
 
-- gastro-entérologie et hépatologie ;
+- - gastro-entérologie et hépatologie ;
 
-- génétique médicale ;
+- - génétique médicale ;
 
-- gynécologie obstétrique ;
+- - gynécologie obstétrique ;
 
-- hématologie ;
+- - hématologie ;
 
-- médecine interne ;
+- - médecine interne ;
 
-- médecine nucléaire ;
+- - médecine nucléaire ;
 
-- médecine du travail ;
+- - médecine du travail ;
 
-- néphrologie ;
+- - néphrologie ;
 
-- neurochirurgie ;
+- - neurochirurgie ;
 
-- neurologie ;
+- - neurologie ;
 
-- oncologie option médicale ;
+- - oncologie option médicale ;
 
-- oncologie option radiothérapie ;
+- - oncologie option radiothérapie ;
 
-- ophtalmologie ;
+- - ophtalmologie ;
 
-- oto-rhino-laryngologie ;
+- - oto-rhino-laryngologie ;
 
-- pathologie cardio-vasculaire ;
+- - pathologie cardio-vasculaire ;
 
-- pédiatrie ;
+- - pédiatrie ;
 
-- pneumologie ;
+- - pneumologie ;
 
-- psychiatrie ;
+- - psychiatrie ;
 
-- radiodiagnostic et imagerie médicale ;
+- - radiodiagnostic et imagerie médicale ;
 
-- radiothérapie ;
+- - radiothérapie ;
 
-- recherche médicale ;
+- - recherche médicale ;
 
-- rééducation et réadaptation fonctionnelles (médecine physique et de réadaptation) :
+- - rééducation et réadaptation fonctionnelles (médecine physique et de réadaptation) :
 
-- rhumatologie ;
+- - rhumatologie ;
 
-- santé publique et médecine sociale ;
+- - santé publique et médecine sociale ;
 
-- stomatologie.
+- - stomatologie.
 
 3. Pour les médecins spécialistes issus du régime des études médicales, ayant commencé leur 3ème cycle avant octobre 1984 :
 
-- anatomie et cytologie pathologiques humaines ;
+- - anatomie et cytologie pathologiques humaines ;
 
-- anesthésie-réanimation ;
+- - anesthésie-réanimation ;
 
-- biologie médicale ;
+- - biologie médicale ;
 
-- cardiologie et médecine des affections vasculaires ;
+- - cardiologie et médecine des affections vasculaires ;
 
-- chirurgie générale ;
+- - chirurgie générale ;
 
-- chirurgie orthopédique ;
+- - chirurgie orthopédique ;
 
-- chirurgie vasculaire ;
+- - chirurgie vasculaire ;
 
-- dermatologie-vénéréologie ;
+- - dermatologie-vénéréologie ;
 
-- électroradiologie ;
+- - électroradiologie ;
 
-- endocrinologie et maladies métaboliques ;
+- - endocrinologie et maladies métaboliques ;
 
-- génétique médicale ;
+- - génétique médicale ;
 
-- gynécologie-obstétrique ;
+- - gynécologie-obstétrique ;
 
-- maladie de l'appareil digestif ;
+- - maladie de l'appareil digestif ;
 
-- médecine interne ;
+- - médecine interne ;
 
-- médecine nucléaire ;
+- - médecine nucléaire ;
 
-- médecine du travail ;
+- - médecine du travail ;
 
-- néphrologie ;
+- - néphrologie ;
 
-- neurochirurgie ;
+- - neurochirurgie ;
 
-- neurologie ;
+- - neurologie ;
 
-- neuropsychiatrie ;
+- - neuropsychiatrie ;
 
-- oncologie médicale ;
+- - oncologie médicale ;
 
-- oncologie-radiothérapique ;
+- - oncologie-radiothérapique ;
 
-- ophtalmologie ;
+- - ophtalmologie ;
 
-- oto-rhino-laryngologie ;
+- - oto-rhino-laryngologie ;
 
-- pédiatrie ;
+- - pédiatrie ;
 
-- pneumologie ;
+- - pneumologie ;
 
-- psychiatrie (avec éventuellement une option psychiatrie de l'enfant et de l'adolescent) ;
+- - psychiatrie (avec éventuellement une option psychiatrie de l'enfant et de l'adolescent) ;
 
-- radiologie (radiodiagnostic et radiothérapie) ;
+- - radiologie (radiodiagnostic et radiothérapie) ;
 
-- radiologie (option radiodiagnostic) ;
+- - radiologie (option radiodiagnostic) ;
 
-- radiologie (option radiothérapie) ;
+- - radiologie (option radiothérapie) ;
 
-- rééducation et réadaptation fonctionnelles ;
+- - rééducation et réadaptation fonctionnelles ;
 
-- rhumatologie ;
+- - rhumatologie ;
 
-- santé publique ;
+- - santé publique ;
 
-- stomatologie.
+- - stomatologie.
 
 Toutefois, la neurologie et la psychiatrie peuvent être exercées simultanément. Il en est de même pour le radiodiagnostic et la radiothérapie.
 
