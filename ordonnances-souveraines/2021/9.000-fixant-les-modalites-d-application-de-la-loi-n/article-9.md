@@ -6,8 +6,8 @@ En outre, il n'est pas tenu compte des planchers et parties de locaux d'une haut
 
 Les balcons, terrasses, loggias, jardins ou jardinières entrent dans le calcul de la surface habitable selon la pondération suivante, à appliquer à la somme des surfaces privatives :
 
-- 1/2 jusqu'à 50 m^2 ;
+- - 1/2 jusqu'à 50 m² ;
 
-- 1/3 pour le surplus.
+- - 1/3 pour le surplus.
 
 Cette surface habitable est calculée, conformément aux dispositions du présent article, par un professionnel agréé conformément à l'arrêté ministériel n° 2018-320 du 16 avril 2018, susvisé.
