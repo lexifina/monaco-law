@@ -14,8 +14,8 @@ IV. - Le médecin de l'établissement ou du service assure la visite d'admission
 
 Sont définis par arrêté ministériel :
 
-- les objectifs de la visite d'admission et le modèle de certificat médical à établir ;
+- - les objectifs de la visite d'admission et le modèle de certificat médical à établir ;
 
-- les conditions de la transmission de ce document à l'établissement ou au service dans le cas où la visite d'admission est assurée par le médecin de l'enfant.
+- - les conditions de la transmission de ce document à l'établissement ou au service dans le cas où la visite d'admission est assurée par le médecin de l'enfant.
 
 V. - Pour l'exercice de ses missions et lorsqu'il l'estime nécessaire, le médecin de l'établissement ou du service, à son initiative ou à la demande du professionnel de santé présent ou apportant son concours à l'établissement ou au service et avec l'accord des parents, examine les enfants.
