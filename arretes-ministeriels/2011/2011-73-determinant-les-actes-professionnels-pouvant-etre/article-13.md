@@ -4,12 +4,12 @@ Le masseur-kinésithérapeute est habilité à participer à la réalisation de 
 
 Ces actions concernent en particulier :
 
-1° La formation initiale et continue des masseurs-kinésithérapeutes ;
+- 1° La formation initiale et continue des masseurs-kinésithérapeutes ;
 
-2° La contribution à la formation d'autres professionnels ;
+- 2° La contribution à la formation d'autres professionnels ;
 
-3° La collaboration, en particulier avec les autres membres des professions sanitaires et sociales, permettant de réaliser des interventions coordonnées, notamment en matière de prévention ;
+- 3° La collaboration, en particulier avec les autres membres des professions sanitaires et sociales, permettant de réaliser des interventions coordonnées, notamment en matière de prévention ;
 
-4° Le développement de la recherche en rapport avec la masso-kinésithérapie ;
+- 4° Le développement de la recherche en rapport avec la masso-kinésithérapie ;
 
-5° La pratique de la gymnastique hygiénique, d'entretien ou préventive.
+- 5° La pratique de la gymnastique hygiénique, d'entretien ou préventive.

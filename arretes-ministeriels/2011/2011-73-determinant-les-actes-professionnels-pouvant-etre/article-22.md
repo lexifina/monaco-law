@@ -4,9 +4,9 @@ Le protocole organisationnel permet à un orthoptiste de participer à la prise 
 
 Il peut concerner :
 
-1° La préparation par l'orthoptiste de l'examen médical du médecin ophtalmologiste ;
+- 1° La préparation par l'orthoptiste de l'examen médical du médecin ophtalmologiste ;
 
-2° Le suivi par l'orthoptiste d'un patient dont la pathologie visuelle est déjà diagnostiquée, sans examen ophtalmologique réalisé le même jour, afin de vérifier que l'état reste stabilisé.
+- 2° Le suivi par l'orthoptiste d'un patient dont la pathologie visuelle est déjà diagnostiquée, sans examen ophtalmologique réalisé le même jour, afin de vérifier que l'état reste stabilisé.
 
 Le protocole organisationnel décrit les situations médicales concernées et les actes orthoptiques nécessaires.
 

@@ -6,13 +6,13 @@ Cette autorisation ne peut être délivrée qu'à un masseur-kinésithérapeute 
 
 Cette formation complémentaire est celle délivrée par un établissement d'enseignement supérieur ou de formation professionnelle compétent d'un État membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen et qui comprend chacun des modules suivants permettant au professionnel :
 
-- de maîtriser les règles d'hygiène et de bonnes pratiques propres à cette technique ;
+- - de maîtriser les règles d'hygiène et de bonnes pratiques propres à cette technique ;
 
-- d'identifier et d'évaluer les déficiences du patient par l'intermédiaire du bilan diagnostic kinésithérapique ;
+- - d'identifier et d'évaluer les déficiences du patient par l'intermédiaire du bilan diagnostic kinésithérapique ;
 
-- de déterminer une démarche thérapeutique et d'utiliser les techniques appropriées au traitement ;
+- - de déterminer une démarche thérapeutique et d'utiliser les techniques appropriées au traitement ;
 
-- de connaître les dangers et les actions appropriées face aux évènements indésirables.
+- - de connaître les dangers et les actions appropriées face aux évènements indésirables.
 
 Ces modules comportent au total un minimum de cinquante heures, réalisées sur une période maximale de deux ans.
 

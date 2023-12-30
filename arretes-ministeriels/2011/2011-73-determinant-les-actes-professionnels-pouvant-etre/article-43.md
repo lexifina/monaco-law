@@ -2,11 +2,11 @@
 
 L'infirmier ou l'infirmière, anesthésiste diplômé d'État, est seul habilité(e), à condition qu'un médecin anesthésiste-réanimateur puisse intervenir à tout moment, et après qu'un médecin anesthésiste-réanimateur a examiné le patient et établi le protocole, à appliquer les techniques suivantes :
 
-1° Anesthésie générale ;
+- 1° Anesthésie générale ;
 
-2° Anesthésie loco-régionale et réinjections dans le cas où un dispositif a été mis en place par un médecin anesthésiste-réanimateur ;
+- 2° Anesthésie loco-régionale et réinjections dans le cas où un dispositif a été mis en place par un médecin anesthésiste-réanimateur ;
 
-3° Réanimation per-opératoire.
+- 3° Réanimation per-opératoire.
 
 Il ou elle accomplit les soins et peut, à l'initiative exclusive du médecin anesthésiste-réanimateur, réaliser les gestes techniques qui concourent à l'application du protocole.
 

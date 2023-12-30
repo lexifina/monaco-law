@@ -2,20 +2,20 @@
 
 Le manipulateur d'électroradiologie médicale est habilité à réaliser, sous la responsabilité du médecin mentionné à l'article 48, en application soit d'une prescription médicale individuelle, soit d'un protocole écrit, qualitatif et quantitatif préalablement établi, daté et signé par ce médecin, les actes et activités suivants :
 
-1° Dans le domaine de l'imagerie médicale : réalisation des actes d'exploration ne nécessitant pas l'administration concomitante de médicaments, à l'exclusion des échographies ;
+- 1° Dans le domaine de l'imagerie médicale : réalisation des actes d'exploration ne nécessitant pas l'administration concomitante de médicaments, à l'exclusion des échographies ;
 
-2° Dans le domaine de la médecine nucléaire :
+- 2° Dans le domaine de la médecine nucléaire :
 
-a) Mesure et vérification de l'activité des composés radioactifs ;
+  - a) Mesure et vérification de l'activité des composés radioactifs ;
 
-b) Mesure et vérification de l'activité prescrite par le médecin mentionné à l'article 48 ;
+  - b) Mesure et vérification de l'activité prescrite par le médecin mentionné à l'article 48 ;
 
-c) Réalisation des actes d'exploration ne nécessitant pas l'administration concomitante de médicaments ;
+  - c) Réalisation des actes d'exploration ne nécessitant pas l'administration concomitante de médicaments ;
 
-3° Dans le domaine de la radiothérapie :
+- 3° Dans le domaine de la radiothérapie :
 
-a) Confection des moyens de contention et des caches personnalisés ;
+  - a) Confection des moyens de contention et des caches personnalisés ;
 
-b) Mise à jour des éléments de traçabilité du traitement ;
+  - b) Mise à jour des éléments de traçabilité du traitement ;
 
-4° Dans le domaine des explorations fonctionnelles : réalisation des explorations d'électrophysiologie et de magnétophysiologie ne nécessitant pas de stimulation.
+- 4° Dans le domaine des explorations fonctionnelles : réalisation des explorations d'électrophysiologie et de magnétophysiologie ne nécessitant pas de stimulation.

@@ -6,14 +6,14 @@ La réalisation du bilan orthoptique comporte l'étude des axes sensoriel, moteu
 
 Dans le cadre de ce bilan, l'orthoptiste peut être amené à effectuer :
 
-1° Une mesure de la réfraction et de l'acuité visuelle ;
+- 1° Une mesure de la réfraction et de l'acuité visuelle ;
 
-2° Une étude des mouvements oculaires enregistrés ou non ;
+- 2° Une étude des mouvements oculaires enregistrés ou non ;
 
-3° Un bilan des déséquilibres oculomoteurs ;
+- 3° Un bilan des déséquilibres oculomoteurs ;
 
-4° Une déviométrie ;
+- 4° Une déviométrie ;
 
-5° Une analyse fonctionnelle des troubles neuro-visuels.
+- 5° Une analyse fonctionnelle des troubles neuro-visuels.
 
 Ce bilan, accompagné du choix des actes et des techniques appropriées, est communiqué au médecin prescripteur.

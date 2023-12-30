@@ -4,11 +4,11 @@ La délivrance des verres correcteurs est subordonnée à la présentation ou à
 
 La durée de validité de l'ordonnance médicale est fixée à :
 
-- un an pour les patients âgés de moins de 16 ans ;
+- - un an pour les patients âgés de moins de 16 ans ;
 
-- cinq ans pour les patients âgés de 16 à 42 ans ;
+- - cinq ans pour les patients âgés de 16 à 42 ans ;
 
-- trois ans pour les patients âgés de plus de 42 ans.
+- - trois ans pour les patients âgés de plus de 42 ans.
 
 Une copie de cette ordonnance est conservée par l'opticien-lunetier jusqu'à l'expiration de sa validité, sauf opposition du patient.
 
