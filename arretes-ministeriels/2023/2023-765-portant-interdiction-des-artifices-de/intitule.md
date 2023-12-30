@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2023-765 du 26 décembre 2023 portant interdiction des artifices de divertissement et articles pyrotechniques sur le territoire de la Principauté à l'occasion des festivités de la Saint‑Sylvestre 2023
