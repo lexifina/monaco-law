@@ -1,12 +1,12 @@
 # Article 1er
 
-Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er mai 2023 :
+Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2020 :
 
 Nourriture :
 
-Un repas au cours d'une journée : 4,10 €
+- Un repas au cours d'une journée : 4,15 €
 
-Deux repas au cours d'une journée : 8,20 €
+- Deux repas au cours d'une journée : 8,30 €
 
 Logement pour les salariés des catégories suivantes :
 
@@ -20,9 +20,9 @@ Logement pour les salariés des catégories suivantes :
 
 - • Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
 
-Par semaine : 20,50 €
+Par semaine : 20,75 €
 
-Par mois : 82,00 €
+Par mois : 83,00 €
 
 Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé.
 
