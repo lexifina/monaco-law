@@ -4,4 +4,4 @@ Le droit à pension de l'orphelin s'ouvre du jour du décès de son auteur, il s
 
 Toutefois, si l'orphelin est placé en apprentissage ou poursuit ses études, ce droit subsiste jusqu'à la fin des études ou de l'apprentissage.
 
-En tout état de cause, le droit de l'orphelin s'éteint à l'âge de vingt ans s'il est placé en apprentissage, à l'âge de vingt et un ans s'il poursuit ses études.
+En tout état de cause, le droit de l'orphelin s'éteint à l'âge de vingt-cinq ans.
