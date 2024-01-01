@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2015-380 du 8 juin 2015 relatif à l'aide sociale en faveur des personnes handicapées
 
-Version en vigueur au 5 août 2023.
+Version en vigueur au 1er janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2015/06-08-2015-380@2023.08.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2015/06-08-2015-380@2024.01.01/
 
 | | |
 | --- | --- |
