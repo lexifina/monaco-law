@@ -8,7 +8,7 @@ Le montant des redevances est fixé comme suit :
 
   - - Traitement de requête 60 euros
 
-  - - Établissement du rapport de recherche 2.336 euros
+  - - Établissement du rapport de recherche 2.468 euros
 
   - - Délivrance d'une copie du rapport de recherche 15 euros
 
