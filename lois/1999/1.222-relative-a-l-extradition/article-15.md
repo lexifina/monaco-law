@@ -1,7 +1,11 @@
 # Article 15
 
-Dès sa présentation au juge d'instruction, l'étranger peut se faire assister par un défenseur de son choix ou désigné d'office et le cas échéant par un interprète.
+Dès sa présentation au juge d'instruction en application des articles 11, 12, et 13, la personne réclamée, qui a été informée de cette possibilité par ce magistrat, peut se faire assister par l'avocat de son choix ou un avocat désigné d'office, et peut, le cas échéant, demander le concours d'un interprète.
 
-L'étranger peut demander sa mise en liberté provisoire en tout état de la procédure. Jusqu'à la saisine de la chambre du conseil, il y est statué par le juge d'instruction.
+La personne réclamée peut demander sa mise en liberté provisoire ou la modification de son contrôle judiciaire à tout moment de la procédure.
 
-Les articles du Code de procédure pénale relatifs à la liberté de l'inculpé sont applicables en matière d'extradition.
+Tant que la chambre du conseil de la cour d'appel n'est pas saisie par le procureur général, le juge d'instruction est compétent pour examiner cette demande.
+
+Les dispositions du Code de procédure pénale relatives à la mise en liberté et au placement sous contrôle judiciaire de l'inculpé sont applicables.
+
+Dans tous les cas, la mise en liberté de la personne réclamée ne sera ordonnée qu'en présence de sérieuses garanties de représentation, et à la condition que l'intéressé élise domicile chez un avocat-défenseur ou un avocat si il n'est pas domicilié dans la Principauté.
