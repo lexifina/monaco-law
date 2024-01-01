@@ -4,7 +4,7 @@
 
 2. Par dérogation au 1, le taux prévu à l'article 51 s'applique aux travaux réalisés sur une période de deux ans au plus:
 
-- a)Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 5 ;
+- a) Qui concourent à la production d'un immeuble neuf au sens du 2° du 2 du I de l'article 5 ;
 
 - b) à l'issue desquels la surface de plancher hors œuvre nette des locaux existants est majorée de plus de 10 %.
 

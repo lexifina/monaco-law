@@ -64,9 +64,9 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - Toutefois, demeurent soumises à la taxe sur la valeur ajoutée, sous réserve des dispositions du b) :
 
-  - les opérations d'hébergement et de restauration ;
+- les opérations d'hébergement et de restauration ;
 
-  - l'exploitation des bars et buvettes.
+- l'exploitation des bars et buvettes.
 
 - Ces dispositions sont également applicables aux unions d'associations qui répondent aux conditions ci-dessus, dans leurs rapports avec les membres des associations faisant partie de ces unions ;
 
@@ -84,11 +84,11 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 - d) le caractère désintéressé de la gestion résulte de la réunion des conditions ci-après :
 
-  - l'organisme doit être géré et administré à titre bénévole par des personne n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation ;
+- l'organisme doit être géré et administré à titre bénévole par des personne n'ayant elles-mêmes, ou par personne interposée, aucun intérêt direct ou indirect dans les résultats de l'exploitation ;
 
-  - l'organisme ne doit procéder à aucune distribution directe ou indirecte de bénéfice, sous quelque forme que ce soit ;
+- l'organisme ne doit procéder à aucune distribution directe ou indirecte de bénéfice, sous quelque forme que ce soit ;
 
-  - les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
+- les membres de l'organisme et leurs ayants droit ne doivent pas pouvoir être déclarés attributaires d'une part quelconque de l'actif, sous réserve du droit de reprise des apports.
 
 - Les obligations des organismes visés ci-dessus ainsi que l'étendue et les modalités d'exercice de leurs droits à déduction sont fixées par les articles A-76 et A-180 de l'annexe au code.
 

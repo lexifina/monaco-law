@@ -1,11 +1,11 @@
 # Code des taxes sur le chiffre d'affaires
 
-Version en vigueur au 19 mai 2023.
+Version en vigueur au 1er janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2023.05.19/
+Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2024.01.01/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code des taxes sur le chiffre d'affaires |
-| Dernière modification | 19 mai 2023 |
+| Dernière modification | 1 janvier 2024 |

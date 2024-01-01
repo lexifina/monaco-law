@@ -18,7 +18,7 @@ I. - Les opérations concourant à la production ou à la livraison d'immeubles 
 
 - a) Soit la majorité des fondations ;
 
-- b) Soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
+- b)Soit la majorité des éléments hors fondations déterminant la résistance et la rigidité de l'ouvrage ;
 
 - c) Soit la majorité de la consistance des façades hors ravalement ;
 
