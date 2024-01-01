@@ -8,4 +8,6 @@ Elle ne peut, sur le seul appel de la partie civile, modifier le jugement dans u
 
 La partie civile ne peut, en cause d'appel, former aucune demande nouvelle ; toutefois, elle peut demander une augmentation des dommages-intérêts pour le préjudice souffert depuis la décision de première instance.
 
-S'il s'agit d'un délit de droit commun et si la peine prononcée est au moins d'une année, la cour, par décision spéciale et motivée, peut décerner mandat d'arrêt contre le prévenu.
+Conformément aux deuxième et troisième alinéas de l'article 395, la cour peut décerner mandat d'arrêt contre le prévenu.
+
+Lorsqu'elle est saisie en appel d'un jugement rendu en application de l'article 399 ou 399-1, la cour peut, quelle que soit la durée d'emprisonnement prononcée, ordonner le maintien des effets du mandat d'arrêt décerné en application de l'article 399 par le procureur général.

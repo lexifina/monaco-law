@@ -1,12 +1,12 @@
 # Article 255
 
-Il procède, en opérant les perquisitions nécessaires, à la saisie des documents, données informatiques, papiers, lettres ou autres objets en la possession des personnes qui paraissent avoir participé aux faits incriminés ou qui sont susceptibles de détenir les pièces, informations ou objets s'y rapportant.
+Le procureur général, ou, sur ses instructions préalables, l'officier de police judiciaire, peut saisir ou faire saisir tous les documents, données informatiques, papiers, lettres ou autres objets, numéraires ou autres biens meubles, en la possession des personnes qui paraissent avoir participé aux faits incriminés ou qui sont susceptibles de détenir les pièces, informations ou objets s'y rapportant. Ces documents, données informatiques, papiers, objets, numéraires ou autres biens meubles, saisis sont immédiatement placés sous scellés, après inventaire. La personne qui est en possession du bien placé sous scellés ou en a la conservation ou l'usage, peut être désignée gardien judiciaire selon les modalités prévues à l'article 596‑1‑2.
 
 Ces opérations ont lieu en présence des personnes chez lesquelles les perquisitions sont effectuées et, en cas d'empêchement, en présence d'un fondé de pouvoir désigné par elles ou, à défaut, de deux témoins. Il en est dressé procès-verbal.
 
 Le procureur général peut rechercher et saisir à la poste les lettres et lui interdire de délivrer au destinataire des télégrammes émanant de l'inculpé ou à lui adressés.
 
-Les documents, données informatiques, papiers, lettres ou autres objets saisis sont placés sous scellés après inventaire. Cependant, si leur inventaire sur place présente des difficultés, ils font l'objet de scellés fermés provisoires jusqu'au moment de leur inventaire et de leur mise sous scellés définitifs et ce, en présence des personnes qui ont assisté à la perquisition suivant les modalités prévues au deuxième alinéa.
+Les documents, données informatiques, papiers, lettres ou autres objets, numéraires ou autres biens meubles, saisis sont placés sous scellés après inventaire. Cependant, si leur inventaire sur place présente des difficultés, ils font l'objet de scellés fermés provisoires jusqu'au moment de leur inventaire et de leur mise sous scellés définitifs et ce, en présence des personnes qui ont assisté à la perquisition suivant les modalités prévues au deuxième alinéa.
 
 Le procureur général peut procéder à l'ouverture des scellés. Il en dresse inventaire dans un rapport qui doit mentionner toute ouverture ou réouverture des scellés.
 
@@ -24,7 +24,7 @@ Ainsi, il est procédé à la saisie des données informatiques nécessaires à 
 
 Si une copie est réalisée, il peut être procédé, sur instruction du procureur général, à l'effacement définitif, sur le support physique qui n'a pas été placé sous scellés, des données informatiques dont la détention ou l'usage est illégal ou dangereux pour la sécurité des personnes ou des biens.
 
-Le procureur général ne conserve que la saisie des documents, données informatiques, papiers, lettres ou autres objets utiles à la manifestation de la vérité.
+Le procureur général ne conserve que la saisie des documents, données informatiques, papiers, lettres ou autres objets, numéraires ou autres biens meubles, utiles à la manifestation de la vérité.
 
 En outre, il pourra ordonner à toute personne connaissant le fonctionnement du système d'information ou les mesures appliquées pour protéger les données informatiques qu'il contient, de fournir toutes les informations raisonnablement nécessaires pour l'application du présent article.
 

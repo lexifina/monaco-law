@@ -4,7 +4,7 @@ Le président devra avertir le prévenu qu'il a le droit de réclamer un délai 
 
 Si celui-ci use de cette faculté, le tribunal lui accordera un délai de trois jours au moins.
 
-Le jugement mentionnera l'avis donné et la réponse faite.
+Le jugement mentionnera l'avis donné et la réponse faite. Il se prononcera en outre sur les effets du mandat d'arrêt décerné en application de l'article 399.
 
 Ces dispositions sont prescrites à peine de nullité.
 

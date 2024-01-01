@@ -4,7 +4,9 @@ Le contrôle judiciaire peut être ordonné si l'inculpé encourt une peine d'em
 
 Le juge d'instruction astreint l'inculpé à une ou plusieurs des obligations énumérées ci-après :
 
-- 1°) ne pas sortir des limites territoriales de la Principauté ;
+- 1°) fournir un cautionnement dans les conditions fixées aux articles suivants ;
+
+- 1°bis) ne pas sortir des limites territoriales de la Principauté ;
 
 - 2°) informer le juge d'instruction de tout déplacement ;
 
@@ -30,7 +32,7 @@ Le juge d'instruction astreint l'inculpé à une ou plusieurs des obligations é
 
 - 13°) justifier qu'il contribue aux charges familiales ou acquitte régulièrement les aliments qu'il a été condamné à payer par décision judiciaire ;
 
-- 14°) fournir un cautionnement dans les conditions fixées aux articles suivants ;
+- 14°) constituer, dans un délai, pour une période et un montant déterminés par le juge d'instruction, des sûretés personnelles ou réelles dans les conditions fixées par ordonnance souveraine ;
 
 - 15°) ne pas paraître ou résider en certains lieux ou ne pas entrer, par quelque moyen que ce soit, y compris les communications électroniques, en relation avec la victime de l'infraction.
 
