@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 6.255 du 30 janvier 2017 relative à l'allocation de soutien à l'emploi
 
-Version en vigueur au 24 juin 2023.
+Version en vigueur au 1er janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/01-30-6.255@2023.06.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/01-30-6.255@2024.01.01/
 
 | | |
 | --- | --- |
