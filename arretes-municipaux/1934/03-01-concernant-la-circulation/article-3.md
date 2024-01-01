@@ -16,7 +16,7 @@ En dehors des stationnements fixés ci-dessus, les véhicules ne pourront prendr
 
 - 3° Ceux qui effectuent un service direct entre Nice et Menton et vice-versa, par la Basse-Corniche :
 
-- À l'aller comme au retour, aux endroits ci-dessus fixés. Toutefois, au retour, c'est-à-dire en se dirigeant de Menton sur Nice, les cars emprunteront l'avenue de la Madone où seuls pourront s'arrêter ceux qui ont l'autorisation d'y stationner, puis gagneront l'avenue de Monte-Carlo par la place du Casino.
+  - À l'aller comme au retour, aux endroits ci-dessus fixés. Toutefois, au retour, c'est-à-dire en se dirigeant de Menton sur Nice, les cars emprunteront l'avenue de la Madone où seuls pourront s'arrêter ceux qui ont l'autorisation d'y stationner, puis gagneront l'avenue de Monte-Carlo par la place du Casino.
 
 - 4° Ceux qui effectuent un service sur Nice ou sur la Turbie par la Moyenne-Corniche :
 
@@ -24,8 +24,8 @@ En dehors des stationnements fixés ci-dessus, les véhicules ne pourront prendr
 
   - Au retour : Mêmes arrêts.
 
-- - Place d'Armes - Cars assurant le service de Monaco vers Nice : entrée du boulevard Charles-III, au droit de l'Hôtel de Genève ;
+- Place d'Armes - Cars assurant le service de Monaco vers Nice : entrée du boulevard Charles-III, au droit de l'Hôtel de Genève ;
 
-- - Cars assurant le service de Monaco vers Menton : à l'origine de l'Avenue du Port (après l'emplacement réservé aux Autobus de Monaco) '.
+- Cars assurant le service de Monaco vers Menton : à l'origine de l'Avenue du Port (après l'emplacement réservé aux Autobus de Monaco) '.
 
 Sauf en cas de force majeure, les arrêts devront toujours s'effectuer à droite, le long du trottoir et ne devront pas se prolonger au-delà du temps strictement nécessaire aux voyageurs pour monter ou descendre.
