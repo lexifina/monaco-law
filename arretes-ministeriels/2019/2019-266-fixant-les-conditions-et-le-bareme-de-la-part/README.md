@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2019-266 du 15 mars 2019 fixant les conditions et le barème de la part contributive des obligés alimentaires
 
-Version en vigueur au 11 février 2023.
+Version en vigueur au 1er janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/03-15-2019-266@2023.02.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/03-15-2019-266@2024.01.01/
 
 | | |
 | --- | --- |
