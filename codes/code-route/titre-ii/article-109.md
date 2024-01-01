@@ -1,5 +1,7 @@
 # Article 109
 
-Le titulaire du certificat d'immatriculation d'un véhicule qu'il veut détruire, doit adresser au Service des titres de circulation, une demande d'autorisation de destruction établie sur un imprimé délivré par ce service accompagnée du certificat d'immatriculation et des plaques minéralogiques du véhicule à détruire.
+Le propriétaire qui veut détruire son véhicule doit se rapprocher d'un centre agréé de traitement des véhicules hors d'usage (Centre VHU) afin de solliciter la destruction de son véhicule. Le propriétaire doit fournir au Centre VHU une attestation de non-inscription de gage, remise par le Service des Titres de Circulation.
 
-L'autorisation délivrée s'il y a lieu, sera ensuite retournée au Service des titres de circulation revêtue du cachet commercial de l'entrepreneur qui aura procédé à la destruction ainsi que de la mention et de la date de cette destruction.
+À l'issue de la destruction, le centre VHU délivre un certificat de destruction qui précise si les plaques d'immatriculation sont conservées ou détruites. La mention destruction doit être apposée sur le certificat d'immatriculation par ledit centre.
+
+Le propriétaire, ou le centre VHU, doit remettre l'acte de cession, le certificat de destruction, le certificat d'immatriculation comprenant la mention destruction visée au précédent alinéa et les plaques, le cas échéant, au Service des Titres de Circulation. Ce Service procède alors à la sortie du véhicule du registre des immatriculations.
