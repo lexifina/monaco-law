@@ -1,8 +1,8 @@
 # Loi n° 1.398 du 24 juin 2013 relative à l'administration et à l'organisation judiciaires
 
-Version en vigueur au 30 septembre 2023.
+Version en vigueur au 1er janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2013/06-24-1.398@2023.09.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2013/06-24-1.398@2024.01.01/
 
 | | |
 | --- | --- |
