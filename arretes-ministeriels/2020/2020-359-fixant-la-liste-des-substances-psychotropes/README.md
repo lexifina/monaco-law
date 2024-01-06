@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2020-359 du 7 mai 2020 fixant la liste des substances psychotropes
 
-Version en vigueur au 3 juillet 2021.
+Version en vigueur au 6 janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/05-07-2020-359@2021.07.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/05-07-2020-359@2024.01.06/
 
 | | |
 | --- | --- |
