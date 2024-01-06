@@ -6,4 +6,4 @@ Le certificat médical requis à l'article premier atteste que les personnes vis
 
 - n'être atteint d'aucune pathologie affectant l'exercice normal des missions opérationnelles attachées aux fonctions ;
 
-- être à jour des vaccins antidiphtérique, antitétanique, antipoliomyélitique et antiVHB.
+- être à jour des vaccins antidiphtérique, antitétanique et antipoliomyélitique.
