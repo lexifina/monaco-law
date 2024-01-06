@@ -30,6 +30,8 @@ Maladies infectieuses :
 
 - légionellose ;
 
+- leptospirose ;
+
 - listériose ;
 
 - orthopoxvirose dont la variole ;

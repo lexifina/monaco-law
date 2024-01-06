@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2005-59 du 19 janvier 2005 fixant la liste des maladies soumises à déclaration obligatoire
 
-Version en vigueur au 11 juin 2022.
+Version en vigueur au 6 janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/01-19-2005-59@2022.06.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2005/01-19-2005-59@2024.01.06/
 
 | | |
 | --- | --- |
