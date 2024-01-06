@@ -4,7 +4,7 @@ Les véhicules spécialement adaptés au transport sanitaire terrestre ressortis
 
 - 1) Catégorie A : Ambulance de secours et de soins d'urgence (ASSU) ;
 
-- 2) Catégorie B : Voiture de secours d'urgence aux asphyxiés et blessés (VSAB) ;
+- 2) Catégorie B : Véhicule de secours et d'assistance aux victimes (VSAV) ;
 
 - 3) Catégorie C : Ambulance ;
 
