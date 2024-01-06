@@ -12,9 +12,7 @@ La constitution de cette provision précise :
 
 - - la dénomination et la quantité du médicament ou du produit ;
 
-- - la mention « usage professionnel ».
-
-La reconstitution de cette provision précise :
+- - la mention « usage professionnel ». La reconstitution de cette provision précise :
 
 - - les noms des bénéficiaires ;
 

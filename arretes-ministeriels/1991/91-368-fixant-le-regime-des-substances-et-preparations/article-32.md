@@ -4,7 +4,7 @@ I. - Sont interdits la production, la fabrication, le transport, l'importation, 
 
 - 1° Du cannabis, de sa plante et de sa résine, des produits qui en contiennent ou de ceux qui sont obtenus à partir du cannabis, de sa plante ou de sa résine ;
 
-- 2° Des tétrahydrocannabinols, à l'exception du delta 9-tétrahydrocannabinol, de leurs esters, éthers, sels ainsi que des sels des dérivés précités et de produits qui en contiennent.
+- 2° Des tétrahydrocannabinols, de leurs esters, éthers, sels ainsi que des sels des dérivés précités et de produits qui en contiennent.
 
 II. - Des dérogations aux dispositions énoncées ci-dessus peuvent être accordées par le Ministre d'État aux fins de recherche et de contrôle ainsi que de fabrication de dérivés autorisés.
 
