@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 93-353 du 24 juin 1993 relatif aux vaccinations obligatoires pour certaines activités professionnelles
 
-Version en vigueur au 18 novembre 2017.
+Version en vigueur au 6 janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1993/06-24-93-353@2017.11.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1993/06-24-93-353@2024.01.06/
 
 | | |
 | --- | --- |
