@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-18 du 17 janvier 2024 portant réglementation de la circulation des piétons, le stationnement et la circulation des véhicules à l'occasion du 92ème Rallye Automobile de Monte‑Carlo et du 26ème Rallye Monte‑Carlo Historique
