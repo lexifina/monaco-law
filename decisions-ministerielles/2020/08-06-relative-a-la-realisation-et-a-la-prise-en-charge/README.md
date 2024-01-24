@@ -1,8 +1,8 @@
 # Décision ministérielle du 6 août 2020 relative à la réalisation et à la prise en charge des examens de détection du génome du virus SARS-CoV-2 par RT-PCR et des examens de détection d'anticorps dirigés contre ce virus, prise en application de l'article 65 de l'Ordonnance Souveraine n° 6.387 du 9 mai 2017 relative à la mise en œuvre du Règlement Sanitaire International (2005) en vue de lutter contre la propagation internationale des maladies
 
-Version en vigueur au 25 octobre 2023.
+Version en vigueur au 24 janvier 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/08-06-L021020@2023.10.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/decision-ministerielle/2020/08-06-L021020@2024.01.24/
 
 | | |
 | --- | --- |
