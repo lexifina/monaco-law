@@ -226,7 +226,7 @@ L'attributaire doit également signer le certificat d'immatriculation provisoire
 
 Par ailleurs, le professionnel de l'automobile doit reporter sur un registre spécial l'identité et l'adresse de l'attributaire du certificat d'immatriculation provisoire ainsi que le numéro WW, la validité, la marque, le type, le numéro dans la série du type de véhicule, son origine (véhicule neuf ou d'occasion) et son État de destination accompagné le cas échéant du nouveau numéro d'immatriculation.
 
-La durée de validité des certificats d'immatriculation provisoire est de deux mois, quel que soit le lieu de destination du véhicule.
+La durée de validité des certificats d'immatriculation provisoire est de quatre mois, quel que soit le lieu de destination du véhicule.
 
 La durée de validité de ces certificats ne peut être prorogée.
 
