@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-35 du 24 janvier 2024 modifiant l'arrêté ministériel n° 2019-266 du 15 mars 2019 fixant les conditions et le barème de la part contributive des obligés alimentaires, modifié
