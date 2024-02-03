@@ -1,6 +1,6 @@
 # Article 2
 
-Le passeport diplomatique est accordé, pour leurs déplacements à l'étranger :
+Le passeport diplomatique peut être accordé, pour leurs déplacements à l'étranger :
 
 - 1°/ Aux Membres de Notre Famille (ascendants, descendants directs, collatéraux),
 
@@ -38,7 +38,7 @@ Le passeport diplomatique est accordé, pour leurs déplacements à l'étranger 
 
 - 9°/ À toute personne désignée par Nous.
 
-Le passeport de service est accordé :
+Le passeport de service peut être accordé :
 
 - 1°/ À toute personne désignée par Nous et chargée d'une mission à l'étranger,
 
