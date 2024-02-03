@@ -18,7 +18,13 @@ L'Agence Monégasque de Sécurité Numérique est dirigée par un directeur, aya
 
 - h) la certification de sécurité des dispositifs de création et de vérification de signature électronique conformément à l'Ordonnance Souveraine n° 8.099 du 16 juin 2020, susvisée ;
 
-- i) la qualification d'hébergeur de données de santé à caractère personnel conformément à l'Ordonnance Souveraine n° 8.337 du 5 novembre 2020, susvisée.
+- i) la qualification d'hébergeur de données de santé à caractère personnel conformément à l'Ordonnance Souveraine n° 8.337 du 5 novembre 2020, susvisée ;
+
+- j) la qualification des Prestataires de Vérification d'Identité à Distance (PVID) ;
+
+- k) la qualification des Prestataires d'Administration et de Maintenance Sécurisées (PAMS) ;
+
+- l) la qualification des Prestataires d'Accompagnement et de Conseil en Sécurité des systèmes d'information (PACS).
 
 Les modalités d'évaluation, de certification et de qualification des produits de sécurité ainsi que les conditions de délivrance de la qualification des divers prestataires sont déterminées par arrêté ministériel.
 
