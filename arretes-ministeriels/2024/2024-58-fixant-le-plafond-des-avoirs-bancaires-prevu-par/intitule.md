@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-58 du 29 janvier 2024 fixant le plafond des avoirs bancaires prévu par l'Ordonnance Souveraine n° 904 du 8 janvier 2007 portant création de la prestation d'autonomie, modifiée
