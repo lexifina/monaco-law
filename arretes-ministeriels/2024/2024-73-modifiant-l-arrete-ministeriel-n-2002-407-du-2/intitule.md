@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-73 du 1er février 2024 modifiant l'arrêté ministériel n° 2002-407 du 2 juillet 2002 fixant les modalités de calcul de la reconstitution des périodes d'interruption de travail indemnisées
