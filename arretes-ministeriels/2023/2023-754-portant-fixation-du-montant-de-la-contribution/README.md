@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2023-754 du 20 décembre 2023 portant fixation du montant de la contribution touristique instituée par le Chapitre V de la loi n° 1.548 du 6 juillet 2023 portant diverses dispositions d'ordre fiscal
 
-Version en vigueur au 23 décembre 2023.
+Version en vigueur au 10 février 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/12-20-2023-754@2023.12.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/12-20-2023-754@2024.02.10/
 
 | | |
 | --- | --- |

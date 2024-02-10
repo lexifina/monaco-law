@@ -4,38 +4,36 @@ Le montant de la contribution touristique fixé, pour chaque établissement, par
 
 Hôtels | Montant de la contribution touristique applicable
 
-HOTEL DE FRANCE, 6, rue de la Turbie | 5 €
+HÔTEL DE FRANCE,6, rue de la Turbie (2 étoiles) | 2 €
 
-AMBASSADOR, 10, avenue Prince Pierre | 5 €
+AMBASSADOR,10, avenue Prince Pierre (3 étoiles) | 3 €
 
-MIRAMAR, 1, avenue J.F. Kennedy | 5 €
+MIRAMAR,1, avenue J.F. Kennedy (3 étoiles) | 3 €
 
-NOVOTEL, 16, boulevard Princesse Charlotte | 10 €
+NOVOTEL,16, boulevard Princesse Charlotte (3 étoiles) | 3 €
 
-COLUMBUS, 23, avenue des Papalins | 10 €
+COLUMBUS,23, avenue des Papalins (3 étoiles) | 3 €
 
-MONTE-CARLO BAY HOTEL & RESORT, 40, avenue Princesse Grace | 13 €
+MONTE-CARLO BAYHÔTEL & RESORT, 40, avenue Princesse Grace (4 étoiles) | 5 €
 
-FAIRMONT, 12, avenue des Spélugues | 13 €
+FAIRMONT,12, avenue des Spélugues (4 étoiles) | 5 €
 
-PORT PALACE, 7, avenue J.F. Kennedy | 13 €
+PORT PALACE,7, avenue J.F. Kennedy (4 étoiles) | 5 €
 
-MERIDIEN BEACH PLAZA, 22, avenue Princesse Grace | 13 €
+MERIDIEN BEACH PLAZA, 22, avenue Princesse Grace (4 étoiles) | 5 €
 
-HOTEL DE PARIS MONTE-CARLO, Place du Casino | 14 €
+HÔTEL DE PARIS MONTE‑CARLO, Place du Casino (5 étoiles) | 7 €
 
-HOTEL HERMITAGE MONTE-CARLO, Square Beaumarchais | 14 €
+HÔTEL HERMITAGE MONTE‑CARLO, Square Beaumarchais (5 étoiles) | 7 €
 
-METROPOLE, 4, avenue de la Madone | 14 €
+MÉTROPOLE ,4, avenue de la Madone (5 étoiles) | 7 €
 
 Résidences hôtelières | Montant de la contribution touristique applicable
 
-RESIDENCE DE MONTE-CARLO, 16, boulevard Princesse Charlotte | 10 €
+COLUMBUS, 23, avenue des Papalins (3 étoiles) | 3 €
 
-COLUMBUS, 23, avenue des Papalins | 10 €
+MERIDIEN BEACH PLAZA, 22, avenue Princesse Grace (4 étoiles) | 5 €
 
-MERIDIEN BEACH PLAZA, 22, avenue Princesse Grace | 13 €
+FAIRMONT,12, avenue des Spélugues (4 étoiles) | 5 €
 
-FAIRMONT, 12, avenue des Spélugues | 13 €
-
-METROPOLE, 4, avenue de la Madone | 14 €
+MÉTROPOLE, 4, avenue de la Madone (5 étoiles) | 7 €
