@@ -1,6 +1,6 @@
 # Article 19
 
-Le conseil de l'ordre dresse et tient à jour le tableau de l'ordre des architectes.
+Le conseil de l'ordre dresse et tient à jour le tableau de l'Ordre des architectes.
 
 Il donne son avis sur les demandes d'autorisation d'exercer la profession conformément aux dispositions prévues aux articles 2, 5 et 13.
 
