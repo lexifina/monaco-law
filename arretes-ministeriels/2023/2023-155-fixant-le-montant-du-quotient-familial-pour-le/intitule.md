@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2023-155 du 15 mars 2023 fixant le montant du quotient familial pour le bénéfice du remboursement des frais de voyage et de l'indemnité pour frais d'hébergement lors de cures thermales
