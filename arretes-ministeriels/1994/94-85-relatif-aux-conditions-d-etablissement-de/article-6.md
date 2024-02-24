@@ -8,4 +8,4 @@ Toute suppression de restrictions médicales à la conduite, est subordonnée à
 
 En outre, si le candidat est atteint d'une affection susceptible de donner lieu à la délivrance d'un permis dont la durée de validité est limitée, il précise cette durée qui ne peut excéder trois ans.
 
-Les certificats médicaux destinés à un dossier de permis de conduire doivent être produits dans un délai maximum de trois mois à compter de leur date d'établissement.
+Une fois établi, le certificat médical destiné à un dossier de permis de conduire doit être remis sans délai au candidat par le médecin examinateur. Dans un délai maximum de trois mois à compter de sa date d'établissement, ledit certificat doit être transmis au Service des Titres de Circulation, par le candidat. À défaut, la demande d'obtention du permis de conduire de l'intéressé est irrecevable.

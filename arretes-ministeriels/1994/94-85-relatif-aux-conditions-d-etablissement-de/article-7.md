@@ -1,6 +1,6 @@
 # Article 7
 
-Lorsque le médecin examinateur conclut à l'inaptitude du candidat à l'obtention ou au renouvellement du permis de conduire, celui-ci peut comparaître, à sa demande devant une commission médicale d'appel.
+Lorsque le médecin examinateur conclut à l'inaptitude du candidat à l'obtention ou au renouvellement du permis de conduire, ce dernier peut, dans les trois mois suivant la remise du certificat médical, adresser un courrier avec demande d'avis de réception postal au Ministre d'État en vue de saisir une commission médicale d'appel.
 
 Cette commission, constituée par le Ministre d'État, comprend :
 
@@ -28,4 +28,6 @@ Cette commission, constituée par le Ministre d'État, comprend :
 
   - 9° diabétologie ou endocrinologie.
 
-Le refus de délivrance d'un certificat d'aptitude physique par la commission médicale d'appel ne met pas obstacle à une nouvelle demande du candidat, sauf si la commission a mentionné une lésion chronique et irréversible. Toutefois, cette nouvelle demande ne peut être présentée que six mois après la date du refus formulé par la commission.
+La décision de la commission médicale d'appel est notifiée au candidat par le Ministre d'État dans les quinze jours suivant son prononcé.
+
+Le Ministre d'État informe, dans le même délai, le Service des Titres de Circulation de la décision de refus de délivrance d'un certificat médical d'aptitude à la conduite.
