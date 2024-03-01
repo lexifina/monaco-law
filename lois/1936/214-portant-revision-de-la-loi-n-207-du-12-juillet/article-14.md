@@ -1,3 +1,5 @@
 # Article 14
 
-Le trustee qui n'a pas rempli les obligations prévues aux articles 11 à 13 est passible de l'amende prévue au chiffre 3 de l'article 26 du Code pénal.
+Sont punis de l'amende prévue au chiffre 4 de l'article 26 du Code pénal, le représentant local du trustee, la ou les personnes physiques habilitées à agir pour le compte du trustee ou pour le compte de la personne morale occupant une fonction équivalente dans une construction juridique similaire au trust, ainsi que la personne physique occupant une fonction équivalente à celle du trustee dans une construction juridique similaire au trust qui ne fournissent pas aux organismes et personnes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, les informations visées au I de l'article 6-1 en méconnaissance de l'article 6-2.
+
+Le trustee ou toute autre personne morale, déclaré pénalement responsable de l'infraction visée à l'alinéa précédent, encourt, outre l'amende fixée selon les modalités prévues par l'article 29-2 du Code pénal et dont le montant est égal au double de l'amende prévue pour les personnes physiques et pouvant aller jusqu'au quintuple, les peines déterminées par les articles 29-3 à 29-8 du même Code.

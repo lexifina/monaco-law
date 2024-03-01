@@ -1,0 +1,5 @@
+# Article 18
+
+Sont punies de l'amende prévue au chiffre 4 de l'article 26 du Code pénal, qui peut être portée au triple, les personnes physiques exerçant une activité visée aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, et les personnes qui, si elles étaient établies ou domiciliées sur le territoire de la Principauté, seraient considérées comme relevant de ces dispositions, visées au premier alinéa du paragraphe I de l'article 6-1-1, qui ne communiquent pas, dans le délai imparti et sans motif légitime, toutes les informations nécessaires au trustee et au représentant local du trustee établi ou domicilié à l'étranger ainsi que toute modification ultérieure de ces informations, dans les conditions prévues au paragraphe II de l'article 6-1-1.
+
+Le trustee ou toute autre personne morale, déclaré pénalement responsable de l'infraction visée à l'alinéa précédent, encourt, outre l'amende fixée selon les modalités prévues par l'article 29-2 du Code pénal et dont le montant peut être porté au décuple de l'amende prévue pour les personnes physiques, les peines déterminées par les articles 29-3 à 29-8 du même Code.

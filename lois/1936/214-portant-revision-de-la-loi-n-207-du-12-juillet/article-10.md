@@ -1,7 +1,7 @@
 # Article 10
 
-Les trusts sont soumis à l'obligation de tenue d'une comptabilité dont les modalités seront précisées par arrêté ministériel.
+Les trusts constitués ou transférés dans la Principauté sont soumis à l'obligation de tenue d'une comptabilité dont les modalités seront précisées par ordonnance souveraine.
 
-Les documents afférents à la comptabilité ainsi que toutes les pièces justificatives correspondantes, doivent être conservés chez le trustee pendant une durée d'au moins cinq années.
+Les documents afférents à la comptabilité ainsi que toutes les pièces justificatives correspondantes, doivent être conservés par le trustee, et s'il est établi ou domicilié à l'étranger son représentant local, pendant dix ans après la date de la cessation de leur implication en qualité de trustee ou de représentant local du trust.
 
-En cas de manquement à cette obligation, le trustee est passible de l'amende prévue au chiffre 4 de l'article 26 du Code pénal.
+Ces documents et pièces justificatives correspondantes sont conservés par le trustee établi ou domicilié dans la Principauté ou par le représentant local dans un lieu situé à Monaco, communiqué à la Direction du Développement Économique.

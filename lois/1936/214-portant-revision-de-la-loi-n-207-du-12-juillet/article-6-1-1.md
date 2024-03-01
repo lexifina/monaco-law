@@ -1,0 +1,11 @@
+# Article 6-1-1
+
+I- Le trustee, et s'il est établi ou domicilié à l'étranger son représentant local, obtiennent, conservent et tiennent à jour en permanence les informations élémentaires portant sur les personnes et les organismes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, et les personnes et les organismes de droit étranger qui, si elles étaient établies ou domiciliées sur le territoire de la Principauté, seraient considérées comme relevant de ces dispositions, qui fournissent des prestations de services ou qui entrent en relation d'affaires ou réalisent, à titre occasionnel, une transaction, au sens de l'article 4 de la loi n° 1.362 du 3 août 2009, modifiée, avec le trust constitué ou transféré à Monaco, pour fournir des services ou conseils.
+
+À cet effet, le trustee, et s'il est établi ou domicilié à l'étranger son représentant local, sont tenus d'obtenir et de conserver les informations adéquates, exactes et actuelles relatives auxdites informations élémentaires ainsi que les pièces justificatives correspondantes, pendant toute la durée des prestations de services ou de conseils. Ces informations sont précisées par ordonnance souveraine.
+
+Le trustee, et s'il est établi ou domicilié à l'étranger son représentant local, conservent ces informations et ces pièces pendant dix ans après la date de la cessation de leur implication en qualité de trustee ou de représentant local du trust.
+
+Le trustee, ou s'il est établi ou domicilié à l'étranger son représentant local, conserve ces informations et ces pièces dans un lieu situé à Monaco communiqué à la Direction du Développement Économique.
+
+II- Les personnes et les organismes visés aux articles premier et 2 de la loi n° 1.362 du 3 août 2009, modifiée, et les personnes et les organismes de droit étranger qui, si elles étaient établies ou domiciliées sur le territoire de la Principauté, seraient considérées comme relevant de ces dispositions, visés au premier alinéa du paragraphe I, sont tenus de communiquer toutes les informations nécessaires au trustee, et s'il est établi ou domicilié à l'étranger à son représentant local, ainsi que toute modification ultérieure de ces informations ainsi que les pièces justificatives y afférentes, pour qu'ils satisfassent aux exigences prévues audit paragraphe dans un délai de trente jours.

@@ -4,7 +4,7 @@ Seront seules en mesure d'agir comme trustees toutes personnes morales et, éven
 
 La loi monégasque est seule compétente, à l'exclusion de la loi étrangère, pour la détermination et la désignation des trustees, et des représentants locaux qui dès lors ne rentrent pas dans les termes de l'attestation prévue à l'article 2, alinéa premier.
 
-Lorsque le trustee n'est pas établi dans la Principauté, il doit désigner un représentant local.
+Lorsque le trustee n'est pas établi ou domicilié dans la Principauté, il doit désigner un représentant local.
 
 Les conditions d'inscription des trustees et des représentants locaux seront fixées par ordonnance souveraine.
 

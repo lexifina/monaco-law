@@ -1,0 +1,5 @@
+# Article 19
+
+Sont punis d'un emprisonnement de six mois et de l'amende prévue au chiffre 4 de l'article 26 du Code pénal, qui peut être portée au double, le co-trustee, le représentant local du trustee établi ou domicilié à l'étranger, la ou les personnes physiques habilitées à agir pour le compte du trustee ou pour le compte de la personne morale occupant une fonction équivalente dans une construction juridique similaire au trust, ainsi que la personne physique occupant une fonction équivalente à celle du trustee dans une construction juridique similaire au trust, qui ne communiquent pas sur demande, dans le délai imparti et sans motif légitime, aux autorités visées à l'article 13-3, les informations et les documents justificatifs visés à l'article 6-3 et en méconnaissance de cette disposition.
+
+Le trustee ou toute autre personne morale, déclaré pénalement responsable de l'infraction visée à l'alinéa premier, encourt, outre l'amende fixée selon les modalités prévues par l'article 29-2 du Code pénal et dont le montant est égal au quintuple de l'amende prévue pour les personnes physiques, les peines déterminées par les articles 29-3 à 29-8 du même Code.
