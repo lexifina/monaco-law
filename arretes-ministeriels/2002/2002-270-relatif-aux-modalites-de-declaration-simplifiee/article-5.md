@@ -22,4 +22,4 @@ Peuvent exclusivement être destinataires des catégories d'informations visées
 
 - les autorités judiciaires en matière pénale ;
 
-- le service d'information et de contrôle sur les circuits financiers (SICCFIN).
+- l'Autorité Monégasque de Sécurité Financière.
