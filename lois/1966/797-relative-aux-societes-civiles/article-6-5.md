@@ -22,4 +22,4 @@ Sont mentionnés d'office au registre :
 
 - 10°) la réunion de toutes les parts ou actions en une seule main, ainsi que la date de survenance de cet évènement, ou la décision judiciaire accordant une prorogation dans les conditions prévues à l'article 1703‑I du Code civil.
 
-La Direction du Développement Économique est informée des décisions et jugements visés aux chiffres 1°), 2°), 6°) et 10°) dans les conditions définies par ordonnance souveraine.
+La Direction du Développement Économique est informée des décisions et jugements visés aux chiffres 1°), 2°), 6°) et 10°) ainsi que du décès d'un associé, d'un actionnaire ou d'un dirigeant, dans les conditions définies par ordonnance souveraine.

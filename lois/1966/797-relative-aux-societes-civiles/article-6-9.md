@@ -6,9 +6,7 @@ Le Directeur du Développement Économique radie d'office toute société après
 
 - à une mention d'office au registre en application des chiffres 2°) et 3°) de l'article 6-5 ;
 
-- à l'expiration du délai d'un an, éventuellement prorogé judiciairement, prévu à l'article 1703-I du Code civil ;
-
-- à réception de la déclaration faite en application de l'article 6-3-1.
+- à l'expiration du délai d'un an, éventuellement prorogé judiciairement, prévu à l'article 1703-I du Code civil.
 
 La radiation d'office intervient au terme du délai fixé par les statuts ou par un acte distinct pour la durée de la liquidation ou du transfert de patrimoine ou, à défaut, au terme d'un délai d'un an après la date de la mention de sa dissolution.
 
