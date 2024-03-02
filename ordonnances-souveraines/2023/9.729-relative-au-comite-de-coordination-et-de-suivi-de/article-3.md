@@ -14,7 +14,7 @@ Le premier Collège comprend :
 
 - - le Procureur général, ou son représentant ;
 
-- - le Directeur du service d'information et de contrôle sur les circuits financiers, ou son représentant ;
+- - le Directeur de l'Autorité Monégasque de Sécurité Financière, ou son représentant ;
 
 - - le Contrôleur général de la sûreté publique, ou son représentant ;
 

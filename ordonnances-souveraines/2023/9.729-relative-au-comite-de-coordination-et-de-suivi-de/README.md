@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 9.729 du 1er février 2023 relative au Comité de coordination et de suivi de la stratégie nationale de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive et la corruption
 
-Version en vigueur au 25 mars 2023.
+Version en vigueur au 2 mars 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2023/02-01-9.729@2023.03.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2023/02-01-9.729@2024.03.02/
 
 | | |
 | --- | --- |
