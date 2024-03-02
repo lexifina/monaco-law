@@ -15,3 +15,5 @@ Aux fins d'application de la présente loi, le service exerçant la fonction de 
 - 6°) des organismes professionnels énumérés par arrêté ministériel, à l'exclusion de ceux des professionnels mentionnés à l'article 2 ;
 
 - 7°) du Conseil de l'Ordre des avocats-défenseurs et des avocats.
+
+Sous peine des sanctions prévues à l'article 73, les personnes visées à l'article premier et aux chiffres 1°) et 2°) de l'article 2 ne peuvent porter à la connaissance de leurs clients ou à la connaissance de tiers les informations transmises à l'Autorité monégasque de sécurité financière.

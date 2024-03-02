@@ -24,17 +24,19 @@ Les fondations, les associations et les fédérations d'associations sont tenues
 
 Ces personnes désignées sont responsables :
 
-- a) de la conservation des informations adéquates, exactes et actuelles sur les bénéficiaires effectifs des personnes morales visées au troisième alinéa de l'article 21 ;
+- a) de la conservation des informations adéquates, exactes et actuelles sur les bénéficiaires effectifs des personnes morales visées au troisième alinéa de l'article 21, dans un lieu situé à Monaco communiqué selon le cas au service du répertoire du commerce et de l'industrie ou au Département de l'Intérieur ;
 
 - b) de la communication, selon les cas au Ministre d'État ou à la Direction du Développement Économique desdites informations et de leur mise à jour, en vue de leur inscription au registre concerné ;
 
-- c) de la conservation des informations et des pièces relatives aux informations sur les bénéficiaires effectifs desdites personnes morales pendant dix ans après la date de la dissolution ou de la liquidation de la société dans un lieu à Monaco notifié au service du répertoire du commerce et de l'industrie ;
+- c) de la conservation des informations et des pièces relatives aux informations sur les bénéficiaires effectifs desdites personnes morales pendant dix ans après la date de la dissolution ou de la liquidation de la personne morale dans un lieu à Monaco communiqué selon le cas au service du répertoire du commerce et de l'industrie ou au Département de l'Intérieur ;
 
 - d) de la communication des informations sur les bénéficiaires effectifs sur demande et dans le délai déterminé :
 
-  - - pour les sociétés et les groupements d'intérêt économique, aux autorités compétentes visées à l'article 22-5 ;
+  - pour les sociétés et les groupements d'intérêt économique, aux autorités compétentes visées à l'article 22-5, selon les modalités prévues audit article ;
 
-  - - pour les fondations, les associations et les fédérations d'associations, aux autorités compétentes mentionnées par les lois n° 1.355 du 23 décembre 2008 concernant les associations et les fédérations d'associations, modifiée, et n° 56 du 29 janvier 1922 sur les fondations, modifiée,
+  - pour les fondations, aux autorités compétentes mentionnées par l'article 6-2 de la loi n° 56 du 29 janvier 1922, modifiée, selon les modalités prévues par l'article 12-4 de ladite loi ;
+
+  - pour les associations et les fédérations d'associations, aux autorités compétentes mentionnées par l'article 12-2 de la loi n° 1.355 du 23 décembre 2008, modifiée, selon les modalités prévues par ledit article ;
 
 - et,
 

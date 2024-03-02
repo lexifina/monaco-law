@@ -2,9 +2,9 @@
 
 Les organismes et les personnes visés aux articles premier et 2 sont tenus de conserver pendant une durée de cinq ans :
 
-- après avoir mis fin aux relations avec leurs clients habituels ou occasionnels, une copie de tous les documents et informations, quel qu'en soit le support, obtenus dans le cadre des mesures de vigilance relatives à la clientèle, notamment ceux qui ont servi à l'identification et à la vérification de l'identité de leurs clients habituels ou occasionnels ;
+- après avoir mis fin aux relations avec leurs clients habituels ou occasionnels, une copie de tous les documents et informations, quel qu'en soit le support, obtenus dans le cadre des mesures de vigilance relatives à la clientèle, notamment ceux qui ont servi à l'identification et à la vérification de l'identité de leurs clients habituels ou occasionnels, ainsi que les résultats de toute analyse réalisée ;
 
-- à partir de l'exécution des opérations, les documents et informations, quel qu'en soit le support, relatifs aux opérations faites par leurs clients habituels ou occasionnels, et notamment une copie des enregistrements, des livres de comptes, de la correspondance commerciale de façon à pouvoir reconstituer précisément lesdites opérations ;
+- à partir de l'exécution des opérations, les documents et informations, quel qu'en soit le support, relatifs aux opérations faites par leurs clients habituels ou occasionnels, et notamment une copie des enregistrements, des livres de comptes, de la correspondance commerciale de façon à pouvoir reconstituer précisément lesdites opérations, ainsi que les résultats de toute analyse réalisée ;
 
 - une copie de tout document en leur possession remis par des personnes avec lesquelles une relation d'affaires n'a pu être établie, quelles qu'en soient les raisons, ainsi que toute information les concernant.
 

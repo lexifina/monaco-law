@@ -11,3 +11,5 @@ Toutefois, les sanctions administratives prononcées par l'Autorité monégasque
 Lorsque les situations mentionnées aux chiffres 1°) et 2°) sont susceptibles de cesser d'exister dans un court délai, l'Autorité monégasque de sécurité financière peut décider de différer la publication pendant ce délai.
 
 Elle peut également décider de mettre à la charge de la personne sanctionnée tout ou partie des frais de la publication visée à l'alinéa premier, ainsi que les frais occasionnés par les mesures de contrôle ayant permis la constatation des faits sanctionnés.
+
+Les sanctions publiées conformément aux précédents alinéas demeurent disponibles pendant une période d'au moins cinq ans à compter de la publication initiale. Toutefois, les données à caractère personnel figurant dans la décision publiée sur les supports numériques mentionnés au premier alinéa sont supprimées à l'issue d'une durée qui ne peut excéder cinq ans.
