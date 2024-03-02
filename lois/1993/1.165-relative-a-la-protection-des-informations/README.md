@@ -1,8 +1,8 @@
 # Loi n° 1.165 du 23 décembre 1993 relative à la protection des informations nominatives
 
-Version en vigueur au 30 septembre 2023.
+Version en vigueur au 2 mars 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1993/12-23-1.165@2023.09.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1993/12-23-1.165@2024.03.02/
 
 | | |
 | --- | --- |

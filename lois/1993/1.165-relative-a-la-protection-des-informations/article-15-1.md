@@ -8,7 +8,7 @@ Le président de la commission informe la personne concernée que les vérificat
 
 La personne concernée par des informations nominatives contenues dans des traitements visés au deuxième alinéa de l'article 25 et aux articles 53-2 à 53-7 de la loi n° 1.362 du 3 août 2009, modifiée, peut saisir la Commission de Contrôle des Informations Nominatives d'une demande de vérification desdites informations. Cette demande est instruite dans les conditions prévues au deuxième alinéa.
 
-Les informations nominatives peuvent être communiquées au demandeur lorsque la commission constate, en accord avec le Service d'Information et de Contrôle sur les Circuits Financiers, et après avis du responsable du traitement, que leur communication n'est pas susceptible de mettre en cause la finalité du traitement de lutte contre le blanchiment de capitaux et le financement du terrorisme ou de révéler :
+Les informations nominatives peuvent être communiquées au demandeur lorsque la commission constate, en accord avec l'Autorité Monégasque de Sécurité Financière, et après avis du responsable du traitement, que leur communication n'est pas susceptible de mettre en cause la finalité du traitement de lutte contre le blanchiment de capitaux et le financement du terrorisme ou de révéler :
 
 - - l'existence d'une des déclarations prévues aux articles 36, 40 à 42 et 53 de la loi n° 1.362 du 3 août 2009, modifiée ;
 
