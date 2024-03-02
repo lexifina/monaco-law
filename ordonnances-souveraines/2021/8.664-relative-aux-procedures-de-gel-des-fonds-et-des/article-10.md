@@ -6,4 +6,4 @@ Dans le respect des conditions prévues par les sanctions économiques décrét�
 
 - 2° Les comptes gelés peuvent être crédités, à condition que toute somme supplémentaire versée sur ces comptes soit gelée conformément à l'article 3.
 
-L'établissement financier ou de crédit en informe sans délai le Service d'Information et de Contrôle sur les Circuits Financiers.
+L'établissement financier ou de crédit en informe sans délai l'Autorité Monégasque de Sécurité Financière.

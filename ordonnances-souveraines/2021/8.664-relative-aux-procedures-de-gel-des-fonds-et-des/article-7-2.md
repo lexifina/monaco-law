@@ -38,7 +38,7 @@ Ce Comité est présidé par le Conseiller de Gouvernement-Ministre des Finances
 
 - - le Directeur Général du Département des Relations Extérieures et de la Coopération ou son représentant ;
 
-- - le Directeur du Service d'Information et de Contrôle sur les Circuits Financiers ou son représentant ;
+- - le Directeur de l'Autorité Monégasque de Sécurité Financière ou son représentant ;
 
 - - le Directeur du Budget et du Trésor ou son représentant ;
 
