@@ -1,8 +1,8 @@
-# Arrêté ministériel n° 2022-553 du 20 octobre 2022 fixant les modalités de communication des questionnaires établis par le Service d'Information et de Contrôle sur les Circuits Financiers (SICCFIN)
+# Arrêté ministériel n° 2022-553 du 20 octobre 2022 fixant les modalités de communication des questionnaires établis par l'Autorité Monégasque de Sécurité Financière
 
-Version en vigueur au 29 octobre 2022.
+Version en vigueur au 2 mars 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2022/10-20-2022-553@2022.10.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2022/10-20-2022-553@2024.03.02/
 
 | | |
 | --- | --- |
