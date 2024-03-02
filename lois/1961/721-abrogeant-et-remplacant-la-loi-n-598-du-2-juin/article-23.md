@@ -1,6 +1,6 @@
 # Article 23
 
-Le contrôle de l'application de la présente loi et des mesures prises pour son exécution par les personnes visées à l'article premier est exercé par les agents habilités de la Direction du Développement Économique, spécialement commissionnés et assermentés à cet effet.
+Le contrôle de l'application de la présente loi et des mesures prises pour son exécution par les personnes visées à l'article premier est exercé par les agents habilités de la Direction du Développement Économique, spécialement commissionnés et assermentés à cet effet, auxquels le secret professionnel ne peut pas être opposé pour ce qui concerne les informations et les pièces relatives à la personne morale contrôlée.
 
 À cette seule fin, ils peuvent effectuer des contrôles sur pièces et notamment :
 
@@ -10,11 +10,9 @@ Le contrôle de l'application de la présente loi et des mesures prises pour son
 
 - 3°) recueillir auprès du commerçant, des associés ou actionnaires, des dirigeants, des membres du groupement ainsi que de toute personne, tous renseignements, documents ou justificatifs nécessaires à l'accomplissement de leur mission ;
 
-- 4°) entendre toute personne susceptible de leur fournir des informations.
+- 4°) entendre toute personne susceptible de leur fournir des informations le cas échéant par un système de visioconférence ou d'audioconférence.
 
-Dans l'hypothèse où le contrôle sur pièces s'avèrerait impossible ou infructueux, lesdits agents peuvent, après l'information préalable et par tout moyen écrit de la personne assujettie ou son représentant, accéder à tous les locaux professionnels ou à usage professionnel de l'assujetti, à l'exclusion des parties de ceux-ci affectées au domicile privé, afin de procéder aux opérations prévues aux chiffres 1°) à 4°). L'accès aux locaux ou la partie des locaux qui ne sont pas accessibles au public doit faire l'objet du consentement préalable de l'assujetti ou son représentant.
-
-Lorsque le contrôle est réalisé au sein de locaux professionnels abritant une activité soumise au secret professionnel, celui-ci ne peut pas être opposé aux agents chargés du contrôle pour ce qui concerne les informations et les pièces relatives à l'entité contrôlée.
+Dans l'hypothèse où le contrôle sur pièces s'avèrerait impossible ou infructueux, lesdits agents peuvent accéder à tous les locaux professionnels ou à usage professionnel de l'assujetti après l'information préalable de ce dernier ou son représentant, ou du centre de domiciliation qui héberge son siège social, à l'exclusion des parties des locaux affectées au domicile privé, afin de procéder aux opérations prévues aux chiffres 1°) à 4°). L'accès aux locaux ou la partie des locaux qui ne sont pas accessibles au public doit faire l'objet du consentement préalable de l'assujetti ou de son représentant.
 
 À l'issue d'un contrôle, les agents habilités de la Direction du Développement Économique qui y ont participé, rédigent, au terme d'échanges contradictoires, un rapport dans les conditions prévues par ordonnance souveraine.
 

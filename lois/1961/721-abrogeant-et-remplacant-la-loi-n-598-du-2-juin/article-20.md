@@ -1,6 +1,6 @@
 # Article 20
 
-Les informations élémentaires des personnes inscrites au répertoire du commerce et de l'industrie sont accessibles, sans restriction et sans information de la personne concernée, aux autorités suivantes :
+Les informations du répertoire du commerce et de l'industrie sont directement accessibles et de manière immédiate, sans restriction et sans information de la personne concernée, aux autorités suivantes :
 
 - 1°) les agents habilités de l'Autorité monégasque de sécurité financière ;
 
@@ -20,6 +20,8 @@ Ces informations sont également directement accessibles et de manière immédia
 
 - 4°) les agents habilités de la Commission de Contrôle des Activités Financières.
 
-Ces informations sont également accessibles, par l'intermédiaire de l'Autorité monégasque de sécurité financière, au Conseil de l'Ordre des avocats dans le cadre de ses missions prévues par le Chapitre VII de la loi n° 1.362 du 3 août 2009, modifiée.
+Ces informations sont également accessibles, sans restriction, par l'intermédiaire de l'Autorité monégasque de sécurité financière, au Conseil de l'Ordre des avocats-défenseurs et avocats dans le cadre de ses missions prévues par le Chapitre VII de la loi n° 1.362 du 3 août 2009, modifiée.
+
+Les informations du répertoire du commerce et de l'industrie peuvent être communiquées à des autorités étrangères par les autorités visées au premier alinéa dans les conditions prévues à l'article 51-1 et au Chapitre VIII de la loi n° 1.362 du 3 août 2009, modifiée, ou par la voie de l'entraide judiciaire internationale.
 
 Les conditions d'accès au registre, ainsi que les dispositifs permettant d'assurer la traçabilité des consultations effectuées par les personnes habilitées, sont définies par ordonnance souveraine.

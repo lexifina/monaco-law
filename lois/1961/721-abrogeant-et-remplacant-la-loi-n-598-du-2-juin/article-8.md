@@ -18,6 +18,6 @@ Sont mentionnés d'office au répertoire :
 
 - 8°) le décès d'une personne inscrite ;
 
-- 9°) la réunion de toutes les parts ou actions en une seule main, ainsi que la date de survenance de cet évènement, ou la décision judiciaire accordant une prorogation dans les conditions prévues à l'article 1703‑I du Code civil.
+- 9°) la réunion de toutes les parts ou actions en une seule main, ainsi que la date de survenance de cet évènement, ou la décision judiciaire accordant une prorogation dans les conditions prévues à l'article 1703-I du Code civil.
 
 La Direction du Développement Économique est informée des décisions et jugements visés aux chiffres 1°), 2°), 6°), 7°) et 9°), ainsi que du décès d'une personne inscrite au répertoire, dans les conditions définies par ordonnance souveraine.
