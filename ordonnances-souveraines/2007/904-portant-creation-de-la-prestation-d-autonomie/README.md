@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 904 du 8 janvier 2007 portant création de la prestation d'autonomie
 
-Version en vigueur au 22 février 2020.
+Version en vigueur au 2 mars 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/01-08-904@2020.02.22/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2007/01-08-904@2024.03.02/
 
 | | |
 | --- | --- |

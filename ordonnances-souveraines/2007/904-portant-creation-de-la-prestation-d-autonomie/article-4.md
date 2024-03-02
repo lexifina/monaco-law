@@ -12,12 +12,12 @@ Tout dépassement du forfait « Prestation d'autonomie - sortie d'hospitalisatio
 
 S'ajoutent à la prestation d'autonomie :
 
-1- pour les personnes résidant à leur domicile, une participation au coût d'achat de certains matériels dans les limites de plafonds fixés chaque année par arrêté ministérielpris après avis de la Commission Administrative de l'Office de Protection Sociale.
+- 1- pour les personnes résidant à leur domicile, une participation au coût d'achat de certains matériels dans les limites de plafonds fixés chaque année par arrêté ministérielpris après avis de la Commission Administrative de l'Office de Protection Sociale.
 
-Ces sommes sont allouées à l'occasion de l'attribution de la prestation d'autonomie ou de chaque aggravation du degré de perte d'autonomie constatée par le Centre de Coordination Gérontologique de Monaco, chaque somme étant réduite de celle accordée au stade précédent. Le ticket modérateur demeure applicable.
+- Ces sommes sont allouées à l'occasion de l'attribution de la prestation d'autonomie ou de chaque aggravation du degré de perte d'autonomie constatée par le Centre de Coordination Gérontologique de Monaco, chaque somme étant réduite de celle accordée au stade précédent. Le ticket modérateur demeure applicable.
 
-2- pour les personnes résidant en établissement d'accueil, dont les avoirs bancaires sont inférieurs à un montant fixé par arrêté ministériel, une somme complémentaire calculée de telle sorte que la personne âgée puisse disposer :
+- 2- pour les personnes résidant en établissement d'accueil, dont les avoirs bancaires sont inférieurs à un montant fixé par arrêté ministériel, une somme complémentaire calculée de telle sorte que la personne âgée puisse disposer :
 
-- d'un revenu d'au moins 20 % du revenu-plancher utilisé pour le calcul du ticket modérateur s'agissant d'une personne seule ;
+  - - d'un revenu d'au moins 20 % du revenu-plancher utilisé pour le calcul du ticket modérateur s'agissant d'une personne seule ;
 
-- et de 20 % par membre du couple.
+  - - et de 20 % par membre du couple.

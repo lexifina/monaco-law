@@ -4,6 +4,6 @@
 
 2- Lorsque deux personnes bénéficiant de la prestation d'autonomie vivent en couple, la prestation est réévaluée ainsi qu'il suit :
 
-- en cas d'hospitalisation du conjoint le plus dépendant, le nombre d'heures d'auxiliaire de vie pris en charge est limité au nombre d'heures préconisé au plan d'aide de la personne restant à domicile,
+- - en cas d'hospitalisation du conjoint le plus dépendant, le nombre d'heures d'auxiliaire de vie pris en charge est limité au nombre d'heures préconisé au plan d'aide de la personne restant à domicile,
 
-- en cas d'hospitalisation du conjoint le moins dépendant, le nombre d'heures d'auxiliaire de vie pris en charge ne varie pas
+- - en cas d'hospitalisation du conjoint le moins dépendant, le nombre d'heures d'auxiliaire de vie pris en charge ne varie pas

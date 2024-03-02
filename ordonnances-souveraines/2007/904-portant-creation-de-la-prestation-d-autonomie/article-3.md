@@ -6,10 +6,10 @@ Ce ticket modérateur varie linéairement à partir de 0 % pour des ressources i
 
 Les ressources prises en compte pour la détermination du ticket modérateur sont celles correspondant au douzième des revenus annuels de toute nature dont dispose le foyer (pension, revenus immobiliers et financiers, aides sociales, contributions alimentaires) diminuées, le cas échéant, des sommes acquittées au titre d'un impôt sur le revenu auquel le demandeur est assujetti en application d'une législation étrangère et des dépenses de logement, à savoir :
 
-- du loyer plafonné selon les dispositions de l'Aide Nationale au Logement ;
+- - du loyer plafonné selon les dispositions de l'Aide Nationale au Logement ;
 
-- des charges locatives ou le cas échéant, des charges courantes de copropriété ;
+- - des charges locatives ou le cas échéant, des charges courantes de copropriété ;
 
-- des charges d'hébergement comprises dans la facturation de l'établissement d'accueil.
+- - des charges d'hébergement comprises dans la facturation de l'établissement d'accueil.
 
 Les ressources et les charges déclarées doivent être justifiées.
