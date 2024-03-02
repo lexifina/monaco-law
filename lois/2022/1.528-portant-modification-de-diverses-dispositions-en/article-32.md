@@ -6,9 +6,9 @@ Le Ministre d'État peut décider de procéder à la publication de ses décisio
 
 Toutefois, les sanctions administratives prononcées par le Ministre d'État sont publiées de manière anonyme dans les cas suivants :
 
-1°) lorsque la publication sous une forme non anonyme compromettrait une enquête pénale en cours ;
+- 1°) lorsque la publication sous une forme non anonyme compromettrait une enquête pénale en cours ;
 
-2°) lorsque le préjudice qui résulterait d'une publication sous une forme non anonyme serait disproportionné.
+- 2°) lorsque le préjudice qui résulterait d'une publication sous une forme non anonyme serait disproportionné.
 
 Lorsque les situations mentionnées aux chiffres 1°) et 2°) sont susceptibles de cesser d'exister dans un court délai, le Ministre d'État peut décider de différer la publication pendant ce délai.
 
