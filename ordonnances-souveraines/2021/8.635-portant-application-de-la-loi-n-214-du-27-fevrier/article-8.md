@@ -1,8 +1,8 @@
 # Article 8
 
-I - Sans préjudice des articles 10 et 11, en application du chiffre 1°) de l'article 13-5 de la loi n° 214 du 27 février 1936, modifiée, susvisée, les informations du registre des trusts portant sur le nom, le mois et l'année de naissance, le pays de résidence, la nationalité d'un bénéficiaire effectif ainsi que la nature et l'étendue des intérêts effectifs détenus peuvent être communiquées, au cas par cas, à toute personne physique ou morale qui démontre un intérêt légitime dans le cadre de la lutte contre le blanchiment de capitaux et le financement du terrorisme, suivant une ordonnance rendue sur requête par le Président du Tribunal de première instance.
+I - Sans préjudice des articles 10 et 11, en application du chiffre 1°) de l'article 13-5 de la loi n° 214 du 27 février 1936, modifiée, susvisée, les informations du registre des trusts portant sur le nom, le mois et l'année de naissance, le pays de résidence, la nationalité d'un bénéficiaire effectif peuvent être communiquées, au cas par cas, à toute personne physique ou morale qui démontre un intérêt légitime dans le cadre de la lutte contre le blanchiment de capitaux et le financement du terrorisme, et de la prolifération des armes de destruction massive, suivant une ordonnance rendue sur requête par le Président du Tribunal de première instance.
 
-La requête doit être dûment motivée et justifier de l'existence d'un intérêt légitime en ce qui concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+La requête doit être dûment motivée et justifier de l'existence d'un intérêt légitime en ce qui concerne la lutte contre le blanchiment de capitaux et le financement du terrorisme, et de la prolifération des armes de destruction massive.
 
 À cet égard, doit être précisée l'utilisation aux fins desquelles l'accès à l'information est demandé.
 
@@ -12,19 +12,19 @@ Elle ne peut concerner qu'un seul trust ou construction juridique équivalente p
 
 II - À peine d'irrecevabilité, la demande est accompagnée d'une copie d'une pièce d'identité en cours de validité du requérant et précise :
 
-1°) si le requérant est une personne physique, ses nom, nom d'usage, surnom ou pseudonyme, prénoms, date et lieu de naissance, nationalité, adresse personnelle ;
+- 1°) si le requérant est une personne physique, ses nom, nom d'usage, surnom ou pseudonyme, prénoms, date et lieu de naissance, nationalité, adresse personnelle ;
 
-2°) si le requérant est une personne morale, sa forme, sa dénomination, son siège social et l'organe qui la représente légalement, ou en vertu d'une délégation ;
+- 2°) si le requérant est une personne morale, sa forme, sa dénomination, son siège social et l'organe qui la représente légalement, ou en vertu d'une délégation ;
 
-3°) pour le trust ou la construction juridique équivalente visé par la demande, les données nécessaires à l'identification du trust ou de la construction juridique.
+- 3°) pour le trust ou la construction juridique équivalente visé par la demande, les données nécessaires à l'identification du trust ou de la construction juridique.
 
-III - Aux fins d'appréciation de l'existence d'un intérêt légitime, est prise en considération toute circonstance pertinente susceptible d'indiquer si l'accès à l'information est demandé dans le cadre de la lutte contre le blanchiment de capitaux et le financement du terrorisme.
+III - Aux fins d'appréciation de l'existence d'un intérêt légitime, est prise en considération toute circonstance pertinente susceptible d'indiquer si l'accès à l'information est demandé dans le cadre de la lutte contre le blanchiment de capitaux et le financement du terrorisme, et de la prolifération des armes de destruction massive.
 
 Il est tenu compte de la protection des droits fondamentaux des personnes, notamment du droit à la vie privée et du droit à la protection des informations nominatives lors de sa prise de décision.
 
 L'ordonnance est notifiée à la personne physique ou morale requérante et à l'entité qui fait l'objet de la demande. L'entité est tenue de porter l'ordonnance à la connaissance du ou des bénéficiaires effectifs concernés.
 
-IV - En cas de décision favorable, celle-ci ne donne pas lieu à la délivrance d'un extrait. Le requérant peut consulter les informations visées au paragraphe I sur place auprès du service en charge du registre des trusts en présence d'un fonctionnaire, au plus tôt trente jours à compter de la signification.
+IV - En cas de décision favorable, celle-ci ne donne pas lieu à la délivrance d'un extrait. Le requérant peut consulter les informations visées au paragraphe I sur place auprès du service en charge du registre des trusts en présence d'un fonctionnaire, au plus tôt trente jours à compter de la signification de l'ordonnance rendue sur requête.
 
 En cas de recours contre l'ordonnance rendue sur requête, la consultation des informations auprès du service en charge du registre des trusts est suspendue jusqu'à ce qu'à ce qu'intervienne une décision irrévocable.
 

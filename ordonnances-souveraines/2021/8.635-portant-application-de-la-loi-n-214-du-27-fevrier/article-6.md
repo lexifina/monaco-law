@@ -1,15 +1,9 @@
 # Article 6
 
-Dans les conditions prévues à l'article 13-3 de la loi n° 214 du 27 février 1936, modifiée, susvisée, ont accès aux informations du registre des trusts visées aux chiffres 1°) à 6°) de l'article 2 les personnes suivantes :
+Les informations contenues dans le registre des trusts sont accessibles dans les conditions prévues par l'article 13-3 de la loi n° 214 du 27 février 1936, modifiée, susvisée, aux personnels habilités et spécifiquement désignés par les autorités compétentes.
 
-1°) les agents spécialement commissionnés et assermentés du Service d'Information sur les Circuits Financiers visé à l'article 46 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée ;
+À cette fin, les autorités compétentes visées à l'article 13-3 de la loi n° 214 du 27 février 1936, modifiée, susvisée, établissent une liste des personnes habilitées et de leurs fonctions occupées, spécifiquement désignées en leur sein. Cette liste doit être communiquée de manière sécurisée à la Direction du Développement Économique, en la personne de son Directeur.
 
-2°) les magistrats du siège et les magistrats du parquet général dans le cadre de leur mission ;
+Les droits d'accès desdites personnes sont créés par la Direction du Développement Économique en considération de la liste des personnes désignées.
 
-3°) les officiers de police judiciaire de la Direction de la Sûreté Publique agissant sur réquisition écrite du Procureur Général ou sur délégation d'un juge d'instruction ;
-
-4°) les agents spécialement habilités de la Direction des Services Fiscaux ;
-
-5°) le Bâtonnier de l'Ordre des avocats-défenseurs et avocats ;
-
-6°) les agents spécialement habilités de la Commission de Contrôle des Activités Financières.
+La gestion des accès au registre est réalisée conformément aux procédures de la Direction des systèmes d'information.
