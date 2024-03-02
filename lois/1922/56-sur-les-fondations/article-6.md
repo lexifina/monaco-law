@@ -1,12 +1,12 @@
 # Article 6
 
-Les demandes d'autorisation sont adressées au Secrétariat Général du Gouvernement ; une expédition de l'acte constitutif de la fondation et un double exemplaire des statuts doivent être joints à la demande. Il en est délivré récépissé.
+Les demandes d'autorisation sont adressées au Ministre d'État ; une expédition de l'acte constitutif de la fondation et un double exemplaire des statuts doivent être joints à la demande. Il en est délivré récépissé.
 
 La demande doit comporter les informations suivantes :
 
 - 1°) le nom et l'objet de la fondation ;
 
-- 2°) l'adresse de son siège social ;
+- 2°) l'adresse de son siège social situé à Monaco ;
 
 - 3°) l'identité de chaque fondateur ou cofondateur ;
 

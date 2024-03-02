@@ -1,8 +1,8 @@
 # Loi n° 56 du 29 janvier 1922 sur les fondations
 
-Version en vigueur au 30 septembre 2023.
+Version en vigueur au 2 mars 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1922/01-29-56@2023.09.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1922/01-29-56@2024.03.02/
 
 | | |
 | --- | --- |

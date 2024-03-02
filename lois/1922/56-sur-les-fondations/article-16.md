@@ -1,5 +1,5 @@
 # Article 16
 
-En cas de faute grave commise par un administrateur dans l'exercice de ses fonctions de gestion ou d'administration, les autres administrateurs ont le droit de prononcer son exclusion et de désigner un nouvel administrateur, sous réserve de l'agrément du Ministre d'État, après avis de la commission de surveillance.
+En cas de faute grave commise par un administrateur dans l'exercice de ses fonctions de gestion ou d'administration ou si l'administrateur ne jouit plus de ses droits civils ou ne présente plus les garanties de moralité prévues à l'article 15, les autres administrateurs ont le droit de prononcer son exclusion et de désigner un nouvel administrateur, sous réserve de l'agrément du Ministre d'État, après avis de la commission de surveillance.
 
 Lorsque les administrateurs n'exercent pas leur droit, l'exclusion peut être prononcée, sur la demande de la commission de surveillance, par le Ministre d'État. Dans tous les cas, les intéressés sont entendus ou mis en demeure de faire valoir leurs moyens de défense
