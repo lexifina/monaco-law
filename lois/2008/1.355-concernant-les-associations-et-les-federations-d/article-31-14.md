@@ -8,4 +8,4 @@ Encourt la dissolution :
 
 Afin de mettre en œuvre la procédure de dissolution des associations visées aux chiffres 1°) et 2°) de l'alinéa premier, le Ministre d'État met en demeure des administrateurs et fait paraître un avis au Journal de Monaco, invitant l'association à se mettre en conformité dans un délai de deux mois à compter de la réception de la mise en demeure ou de la publication de l'avis.
 
-En l'absence de régularisation dans le délai imparti, le Ministre d'État saisit le Président du Tribunal de première instance pour prononcer la dissolution de l'association selon la procédure prévue par l'article 31‑15.
+En l'absence de régularisation dans le délai imparti, le Ministre d'État saisit le Président du Tribunal de première instance pour prononcer la dissolution de l'association selon la procédure prévue par l'article 31-15.

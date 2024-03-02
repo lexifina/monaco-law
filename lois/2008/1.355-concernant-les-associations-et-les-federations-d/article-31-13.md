@@ -10,6 +10,10 @@ Encourt la dissolution :
 
 - 4°) l'association dont les activités sont de nature à susciter de graves difficultés avec un gouvernement étranger ;
 
-- 5°) l'association qui est dépourvue des organes nécessaires à son fonctionnement pendant plus de six mois ou qui, depuis plus de cinq ans, ne s'est livrée à aucune activité ;
+- 5°) l'association qui est dépourvue des organes nécessaires à son fonctionnement pendant plus de six mois ;
 
-- 6°) la fédération qui n'est plus constituée dans les conditions prévues à l'article 24.
+- 6°) la fédération qui n'est plus constituée dans les conditions prévues à l'article 24 ;
+
+- 7°) l'association dont l'inactivité pendant plus de deux ans a été constatée selon les modalités prévues par ordonnance souveraine.
+
+Le Ministre d'État saisit le Président du Tribunal de première instance pour prononcer la dissolution de l'association selon la procédure prévue par l'article 31-15.

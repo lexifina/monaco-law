@@ -2,7 +2,7 @@
 
 Toute association souhaitant acquérir la personnalité morale et la capacité juridique prévues par l'article 5 doit être déclarée et rendue publique.
 
-La déclaration doit être faite au Ministre d'État par lettre recommandée avec accusé de réception. Elle doit comporter les renseignements suivants :
+La déclaration doit être faite au Ministre d'État par lettre recommandée avec accusé de réception selon les modalités prévues par ordonnance souveraine. Elle doit comporter les renseignements suivants :
 
 - 1°) la dénomination, l'objet et les activités déclarées de l'association ;
 

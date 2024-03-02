@@ -14,4 +14,4 @@ L'association est tenue, dans le mois suivant sa survenance, de déclarer au Min
 
 - 6° - toute autre modification de l'une des informations déclarées en application de l'article 7, nécessaire pour garantir que les informations du registre visé à l'article 13-1 soient adéquates, exactes et actuelles.
 
-Les modalités de la déclaration sont fixées par arrêté ministériel.
+Les modalités de la déclaration sont fixées par ordonnance souveraine.
