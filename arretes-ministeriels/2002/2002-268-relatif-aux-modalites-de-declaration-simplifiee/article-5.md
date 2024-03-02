@@ -22,6 +22,6 @@ Peuvent exclusivement être destinataires des catégories d'informations visées
 
 - les services chargés du contrôle (Commission bancaire, Commission de contrôle de la gestion de portefeuilles, Commission de contrôle des OPCVM, commissaires aux comptes, Services chargés des procédures internes ou externes de contrôle) ;
 
-- le Service d'Information et de Contrôle sur les circuits financiers (SICCFIN) ;
+- l'Autorité Monégasque de Sécurité Financière ;
 
 - les Autorités Judiciaires en matière pénale.
