@@ -22,4 +22,4 @@ Les manquements ci-après énumérés imputables aux organismes et personnes men
 
 - 10°) défaut de transmission à l'Autorité monégasque de sécurité financière des renseignements demandés en méconnaissance de l'article 56-2-1 ;
 
-- 11°) défaut de déclaration à l'Autorité monégasque de sécurité financière en méconnaissance de l'article 64 1.
+- 11°) défaut de déclaration à l'Autorité monégasque de sécurité financière en méconnaissance de l'article 64-1.
