@@ -1,0 +1,1 @@
+Loi n° 1.559 du 29 février 2024 portant adaptation de dispositions législatives en matière de lutte contre le blanchiment de capitaux, le financement du terrorisme et de la prolifération des armes de destruction massive (Partie IV)
