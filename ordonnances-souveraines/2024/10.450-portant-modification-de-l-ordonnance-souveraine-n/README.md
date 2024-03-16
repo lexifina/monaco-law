@@ -1,0 +1,12 @@
+# Ordonnance Souveraine n° 10.450 du 15 mars 2024 portant modification de l'Ordonnance Souveraine n° 3.573 du 11 mai 1966 portant application de la loi n° 797 du 18 février 1966 relative aux sociétés civiles, modifiée
+
+Version en vigueur au 16 mars 2024.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2024/03-15-10.450@2024.03.16/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 15 mars 2024 |
+| Publication | Journal de Monaco du 15 mars 2024 |
