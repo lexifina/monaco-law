@@ -8,11 +8,11 @@ I- Pour les personnes physiques :
 
 - 2°) la ou les activités exercées ;
 
-- 3°) s'il en est utilisé, le nom commercial ou l'enseigne ;
+- 3°) s'il en est utilisé, le nom commercial ou la ou les enseignes ;
 
 - 4°) l'adresse de l'établissement ou le cas échéant, des locaux annexes à Monaco ;
 
-- 5°) les nom, nom d'usage, prénoms, date et lieu de naissance, adresse personnelle, nationalité(s) et le cas échéant, le régime matrimonial de la personne inscrite et des personnes ayant le pouvoir général d'engager à titre habituel par leur signature sa responsabilité ;
+- 5°) les nom, nom d'usage, prénoms, date et lieu de naissance, nationalité(s) et le cas échéant, le régime matrimonial de la personne inscrite et des personnes ayant le pouvoir général d'engager à titre habituel par leur signature sa responsabilité ;
 
 - 6°) le mode d'exploitation ;
 
@@ -26,7 +26,7 @@ II- Pour les sociétés, établissements étrangers et groupements d'intérêt �
 
 - 2°) sa forme juridique ;
 
-- 3°) sa dénomination ou raison sociale suivie, le cas échéant, des sigles utilisés ainsi que le nom commercial ou l'enseigne utilisé ;
+- 3°) sa dénomination ou raison sociale suivie, le cas échéant, du sigle utilisé ainsi que le nom commercial ou la ou les enseignes utilisés ;
 
 - 4°) son objet social ;
 
@@ -38,7 +38,7 @@ II- Pour les sociétés, établissements étrangers et groupements d'intérêt �
 
 - 8°) la date de clôture de son exercice social ;
 
-- 9°) les nom, prénoms, date et lieu de naissance, nationalité(s) et adresse personnelle de chacune des personnes ayant la qualité pour administrer, diriger, gérer ou engager la société. Lorsqu'il s'agit de personnes morales, leur dénomination ou raison sociale, leur forme juridique, l'adresse de leur siège social, leur numéro et lieu d'immatriculation dans un registre public et le cas échéant, les nom et prénoms de son représentant permanent ;
+- 9°) les nom, prénoms, date et lieu de naissance, nationalité(s) de chacune des personnes ayant la qualité pour administrer, diriger, gérer ou engager la société. Lorsqu'il s'agit de personnes morales, leur dénomination ou raison sociale, leur forme juridique, l'adresse de leur siège social, leur numéro et lieu d'immatriculation dans un registre public et le cas échéant, les nom et prénoms de son représentant permanent ;
 
 - 10°) la preuve de la constitution de la société constituée de :
 

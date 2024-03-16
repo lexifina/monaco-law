@@ -12,7 +12,7 @@ I- Pour les personnes physiques :
 
 - 4° la ou les activités exercées ;
 
-- 5° s'il en est utilisé, le nom commercial ou l'enseigne ;
+- 5° s'il en est utilisé, le nom commercial ou la ou les enseignes ;
 
 - 6° l'adresse de l'établissement et le cas échéant, celle des locaux annexes à Monaco ;
 
@@ -28,7 +28,7 @@ I- Pour les personnes physiques :
 
 - 10° le cas échéant, la mention selon laquelle l'activité est exercée conjointement ;
 
-- 11° la mention qu'il s'agit soit de la création d'un fonds de commerce, soit de l'acquisition d'un fonds existant, soit d'une modification du régime juridique sous lequel ce fonds est exploité. Dans ces deux derniers cas, sont indiqués les nom, nom d'usage et prénoms du précédent exploitant, son numéro d'inscription au répertoire et la date de sa radiation. En cas d'achat ou de licitation, le prix stipulé et, en cas de partage, l'évaluation du fonds, sont indiqués, ainsi que l'élection de domicile, le titre et la date du journal où a été publiée la première insertion prescrite par la loi ; et
+- 11° la mention qu'il s'agit soit de la création d'un fonds de commerce, soit de l'acquisition d'un fonds existant, soit d'une modification du régime juridique sous lequel ce fonds est exploité. Dans ces deux derniers cas, sont indiqués les nom, nom d'usage et prénoms du précédent exploitant lorsqu'il s'agit d'une personne physique ou la dénomination ou raison sociale lorsqu'il s'agit d'une personne morale, son numéro d'inscription au répertoire et la date de sa radiation. En cas d'achat ou de licitation, le prix stipulé et, en cas de partage, l'évaluation du fonds, sont indiqués, ainsi que l'élection de domicile, le titre et la date du journal où a été publiée la première insertion prescrite par la loi ; et
 
 - 12° l'état de l'activité constitué de sa date de commencement.
 
@@ -36,7 +36,7 @@ II- Pour les sociétés et les établissements étrangers :
 
 - 1° la forme juridique de la société ;
 
-- 2° la dénomination ou la raison sociale de la société, suivie, le cas échéant, des sigles utilisés ainsi que le nom commercial ou l'enseigne utilisé ;
+- 2° la dénomination ou la raison sociale de la société, suivie, le cas échéant, du sigle utilisé ainsi que le nom commercial ou la ou les enseignes utilisés ;
 
 - 3° l'objet social de la société ;
 
@@ -68,13 +68,19 @@ II- Pour les sociétés et les établissements étrangers :
 
 - 10° l'identité de la ou des personnes désignées comme responsables des informations élémentaires de la personne morale et, si elle est différente, celle de la ou des personnes responsables des informations sur les bénéficiaires effectifs ;
 
-- 11° le nom de l'établissement de crédit établi à Monaco où est ouvert le compte de dépôt pour l'exercice de son activité professionnelle en vertu de la loi n° 1.492 du 8 juillet 2020, susvisée ; et
+- 11° le nom de l'établissement de crédit établi à Monaco où est ouvert le compte de dépôt pour l'exercice de son activité professionnelle en vertu de la loi n° 1.492 du 8 juillet 2020, susvisée ;
 
-- 12° l'état de la société constitué de la date de commencement de l'activité.
+- 12° l'état de la société constitué de la date de commencement de l'activité ;
+
+- 13° en cas de gérance libre, la date de commencement et de fin d'exploitation ainsi que les dates des première et seconde insertions au Journal de Monaco :
+
+  - Lorsque le bailleur propriétaire du fonds est une personne physique : ses nom, prénoms, son numéro d'inscription au répertoire ;
+
+  - Lorsque le bailleur propriétaire du fonds est une personne morale : la dénomination ou raison sociale et son numéro d'inscription au répertoire.
 
 III - Pour les groupements d'intérêt économique :
 
-- 1° la dénomination du groupement, suivie, le cas échéant, des sigles utilisés ;
+- 1° la dénomination du groupement, suivie, le cas échéant, du sigle utilisé ;
 
 - 2° l'adresse du siège du groupement ;
 
