@@ -4,7 +4,7 @@ La demande d'inscription doit contenir les informations élémentaires suivantes
 
 - 1° la forme juridique de la société ;
 
-- 2° la dénomination ou la raison sociale de la société, suivie, le cas échéant, des sigles utilisés ;
+- 2° la dénomination ou la raison sociale de la société, suivie, le cas échéant, de son sigle ;
 
 - 3° l'objet social de la société ;
 

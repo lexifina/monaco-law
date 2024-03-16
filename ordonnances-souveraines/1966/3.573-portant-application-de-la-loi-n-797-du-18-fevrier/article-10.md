@@ -6,7 +6,7 @@ En application de l'article 7 de la loi n° 797 du 18 février 1966, modifiée, 
 
 - 2°) sa forme juridique ;
 
-- 3°) sa dénomination ou raison sociale suivie, le cas échéant, des sigles utilisés ;
+- 3°) sa dénomination ou raison sociale suivie, le cas échéant, de son sigle ;
 
 - 4°) son objet social ;
 
@@ -18,7 +18,7 @@ En application de l'article 7 de la loi n° 797 du 18 février 1966, modifiée, 
 
 - 8°) la date de clôture de son exercice social ;
 
-- 9°) les nom, prénoms, date et lieu de naissance, nationalité(s) et adresse personnelle de chacune des personnes ayant la qualité pour administrer, diriger, gérer ou engager la société. Lorsqu'il s'agit de personnes morales, leur dénomination ou raison sociale, leur forme juridique, l'adresse de leur siège social, leur numéro et lieu d'immatriculation dans un registre public ainsi que les nom et prénoms de son représentant permanent ;
+- 9°) les nom, prénoms, date et lieu de naissance, nationalité(s) de chacune des personnes ayant la qualité pour administrer, diriger, gérer ou engager la société. Lorsqu'il s'agit de personnes morales, leur dénomination ou raison sociale, leur forme juridique, l'adresse de leur siège social, leur numéro et lieu d'immatriculation dans un registre public ainsi que les nom et prénoms de son représentant permanent ;
 
 - 10°) la preuve de la constitution de la société constituée de :
 
