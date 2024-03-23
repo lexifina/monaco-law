@@ -6,7 +6,7 @@
 
 - 2°) la copie de l'arrêté ministériel d'autorisation de l'association et des arrêtés qui auraient approuvé les modifications successives pour les groupements constitués antérieurement à la promulgation de la loi n° 1.355 du 23 décembre 2008, modifiée, susvisée, ainsi que des insertions au Journal de Monaco s'y rapportant ;
 
-- 3°) la copie du récépissé de déclaration initiale ainsi que celle de l'insertion au Journal de Monaco prévue au huitième alinéa de l'article 7 de ladite loi ;
+- 3°) la copie du récépissé de déclaration initiale ainsi que celle de l'insertion au Journal de Monaco prévue au huitième alinéa de l'article 7 de la loi n° 1.355 du 23 décembre 2008, modifiée, susvisée ;
 
 - 4°) la copie des accusés de réception des déclarations de modifications statutaires éventuellement intervenues par la suite ;
 
