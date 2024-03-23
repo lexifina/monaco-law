@@ -18,7 +18,9 @@ Pour les besoins exclusifs des missions qui leurs sont confiées en matière de 
 
 - concernant les officiers de police ayant au moins le grade de capitaine, par le Directeur de la Sûreté Publique ;
 
-- concernant les agents de la Direction des Services Fiscaux, par le Directeur des Services Fiscaux.
+- concernant les agents de la Direction des Services Fiscaux, par le Directeur des Services Fiscaux ;
+
+- concernant les agents de la Direction du Budget et du Trésor, par le Directeur du Budget et du Trésor.
 
 Le Secrétaire Général de la Commission de Contrôle des Activités Financières désigne deux de ses agents et le Bâtonnier de l'Ordre des avocats-défenseurs et avocats désigne deux membres du Conseil de l'Ordre habilités à solliciter ces informations auprès de l'Autorité monégasque de sécurité financière et à en recevoir la communication.
 
