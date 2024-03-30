@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-164 du 22 mars 2024 portant application de l'article 6 de l'Ordonnance Souveraine n° 8.504 du 18 février 2021 portant application de l'article 24 de la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique
