@@ -192,9 +192,7 @@ Accouchement gémellaire | 167,69 €
 
 BIOLOGISTES : |
 
-B, actes pratiqués : | en ville | 0,27 €
-
-en clinique privée | 0,13 € |
+B | Acte de biologie médicale | 0,25 €
 
 PB | Prélèvement sanguin par directeur de laboratoire non médecin | 2,52 €
 
@@ -412,6 +410,6 @@ En cas de résultat positif, le tarif est fixé à 6 €.
 
 En cas de résultat négatif, le tarif est fixé à 7 €.
 
-D - Frais d'orthopédie
+D - Frais d'orthopédie, aliments, matériels et autres dispositifs médicaux
 
 La prise en charge des dispositifs médicaux pour traitements et matériels d'aide à la vie, aliments diététiques et articles pour pansements, des orthèses et prothèses externes, des dispositifs médicaux implantables et des véhicules pour handicapés physiques, et plus généralement tous les dispositifs qui y figurent, hormis l'optique médicale, médicalement prescrits, est assurée conformément aux conditions et tarifs fixés par la Liste des Produits et Prestations remboursables par l'Assurance Maladie (LPP) publiée en France.
