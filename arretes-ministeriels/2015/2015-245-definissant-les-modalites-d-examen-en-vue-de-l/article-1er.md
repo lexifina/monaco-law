@@ -16,6 +16,8 @@ Les modalités d'examen du permis de conduire sont définies ci-après, en fonct
 
 Tout véhicule utilisé pour une épreuve pratique en vue de l'obtention du permis de conduire doit appartenir à la catégorie ou sous-catégorie pour laquelle le permis est sollicité.
 
+Lors de l'apprentissage et des épreuves pratiques des sous catégories B1, C1, C1E, D1, D1E, des catégories B, BE, C, CE, D et DE, et pour les quadricycles légers à moteur, le port de la ceinture de sécurité est obligatoire pour le conducteur et les passagers des places avant et arrière du véhicule.
+
 1° Véhicules de la sous-catégorie AM :
 
 a) Cyclomoteur
@@ -23,6 +25,26 @@ a) Cyclomoteur
 - - Une épreuve théorique sur le Code de la route, sous forme d'un questionnaire à choix multiple audiovisuel comprenant vingt questions (trois erreurs maximum).
 
 - - Une épreuve pratique comprenant une partie hors circulation (destinée à apprécier, d'une part les connaissances du candidat quant à l'usage de sa machine et au comportement du conducteur de deux-roues, d'autre part sa maîtrise du véhicule sur circuit fermé), et une partie en circulation (en liaison radio avec l'inspecteur qui prend place dans un véhicule suiveur).
+
+- Lors de l'épreuve pratique, les équipements de protection suivants sont obligatoires :
+
+  - casque de type homologué muni de dispositifs réfléchissants,
+
+  - gants adaptés à la pratique de la moto (soit possédant le marquage NF, CE ou EPI, soit renforcés et munis d'un dispositif de fermeture au poignet),
+
+  - blouson ou veste manches longues adapté (les coupe-vents ne sont pas autorisés),
+
+  - gilet de haute visibilité,
+
+  - pantalon ou combinaison,
+
+  - bottes ou chaussures montantes fermées et couvrant la malléole (les bottes en caoutchouc ne sont pas autorisées).
+
+- En cas de non-présentation des équipements précités ou d'équipement non adapté avant le début des épreuves, l'examen ne peut avoir lieu.
+
+- Le passager qui participe au test de déplacement à allure réduite lors de l'épreuve hors circulation doit porter un équipement aux caractéristiques identiques.
+
+- La conformité et le bon état des équipements obligatoires portés, lors des examens, hors et en circulation, relèvent de la seule responsabilité du candidat, ou de son représentant légal pour un mineur.
 
 - De plus, lors de l'épreuve hors circulation, a lieu une interrogation orale dont le but consiste à apprécier les connaissances indispensables à la sécurité et au bon comportement du candidat.
 
@@ -46,15 +68,21 @@ b) Quadricycle léger à moteur
 
 - - L'épreuve pratique est identique à celle de la sous-catégorie AM Quadricycle léger à moteur, seul diffère le type de véhicule d'examen.
 
-- Il est fait recours à la procédure du véhicule suiveur, avec liaison radio permanente entre le candidat et l'examinateur.
-
 4° Véhicules de la catégorie B :
 
 - - Les épreuves sont identiques à celles de la catégorie B1 ; seul diffère le véhicule d'examen. Il n'est pas fait recours à la procédure du véhicule suiveur.
 
 5° Véhicules de la catégorie BE :
 
-- - Les épreuves sont identiques à celles de la catégorie B ; seul diffère le véhicule d'examen. (L'ensemble doit comprendre un véhicule et une remorque attelée correspondants à la catégorie).
+- Une épreuve théorique identique à celle de la catégorie B.
+
+- Une épreuve pratique comprenant :
+
+* Une épreuve hors circulation composée d'une interrogation orale et d'exercices de maniabilité,
+
+* Une épreuve en circulation identique à la catégorie B ; seul diffère le véhicule d'examen.
+
+(L'ensemble doit comprendre un véhicule et une remorque attelée correspondants à la catégorie).
 
 6° Véhicules de la sous-catégorie C1 :
 
