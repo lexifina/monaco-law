@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2023-169 du 23 mars 2023 relatif aux traitements automatisés d'informations nominatives mis en œuvre par les personnes morales de droit public, autorités publiques, organismes de droit privé investis d'une mission d'intérêt général ou concessionnaires d'un service public
