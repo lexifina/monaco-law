@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-149 du 15 mars 2024 portant agrément de la Convention entre la Fédération Agirc‑Arrco et la Caisse Monégasque de Retraite Complémentaire relative à la sortie de Monaco du régime Agirc-Arrco
