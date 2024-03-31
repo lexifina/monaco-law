@@ -1,6 +1,6 @@
 # Article 40
 
-Il en sera de même du condamné à un emprisonnement de plus d'une année pour délit, qui, dans le délai de cinq ans, serait reconnu coupable du même délit ou d'un crime n'ayant entraîné qu'une peine d'emprisonnement.
+Il en sera de même du condamné à un emprisonnement de plus d'une année pour délit, qui, dans le délai de cinq ans après l'expiration de cette peine ou sa prescription, serait reconnu coupable du même délit ou d'un crime n'ayant entraîné qu'une peine d'emprisonnement.
 
 Celui qui, ayant été condamné antérieurement à une peine d'emprisonnement de moindre durée, commettrait le même délit dans les mêmes conditions de temps, sera condamné à une peine d'emprisonnement qui ne pourra être inférieure au double de celle précédemment prononcée, sans toutefois qu'elle puisse dépasser le double du maximum de la peine encourue.
 

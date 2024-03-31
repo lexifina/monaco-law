@@ -20,4 +20,4 @@ La personne morale dont la responsabilité pénale est établie en application d
 
 L'amende prévue au chiffre 4°) de l'article 26 pourra être portée au décuple. Elle peut également être élevée au montant des fonds effectivement fournis ou réunis.
 
-V. Dans tous les cas, la juridiction saisie prononcera la confiscation des fonds utilisés ou destinés à être utilisés pour commettre l'infraction définie au premier alinéa du paragraphe I ainsi que du produit de ces infractions, sauf motivation contraire.
+V. Dans tous les cas, la juridiction saisie prononcera la confiscation des fonds utilisés ou destinés à être utilisés pour commettre l'infraction définie au premier alinéa du paragraphe I ainsi que du produit de ces infractions, sous réserve des droits du propriétaire de bonne foi et des deux derniers alinéas de l'article 12, et sauf motivation contraire.

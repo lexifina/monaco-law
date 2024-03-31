@@ -9,5 +9,3 @@ Les tribunaux pourront également prononcer, à l'encontre d'une personne physiq
 - 3° l'interdiction d'exercer, pour une durée déterminée, l'activité professionnelle ou sociale à l'occasion de laquelle l'infraction a été commise ;
 
 - 4° l'interdiction d'exercer, pour une durée déterminée, une profession ou une activité bénévole impliquant un contact habituel avec des mineurs lorsque l'infraction a été commise sur un mineur ou avec l'aide d'un mineur.
-
-Le fait d'enfreindre l'une des interdictions mentionnées au précédent alinéa est puni d'une peine d'emprisonnement d'un à six mois et de l'amende prévue au chiffre 3 de l'article 26, ou de l'une de ces deux peines seulement.
