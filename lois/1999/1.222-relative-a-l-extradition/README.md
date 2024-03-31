@@ -1,8 +1,8 @@
 # Loi n° 1.222 du 28 décembre 1999 relative à l'extradition
 
-Version en vigueur au 1er janvier 2024.
+Version en vigueur au 31 mars 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1999/12-28-1.222@2024.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1999/12-28-1.222@2024.03.31/
 
 | | |
 | --- | --- |
