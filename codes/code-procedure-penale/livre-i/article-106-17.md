@@ -1,6 +1,6 @@
 # Article 106-17
 
-Lorsque les nécessités de l'enquête ou de l'information le justifient, le procureur général ou le juge d'instruction, dans le cadre d'une commission rogatoire, peut autoriser, à titre exceptionnel, qu'il soit procédé, sous son contrôle, à une opération d'infiltration lorsque l'enquête ou l'information porte sur l'une des infractions relevant de la criminalité et de la délinquance organisées déterminées ci-après :
+Lorsque les nécessités de l'enquête ou de l'information le justifient, le procureur général ou le juge d'instruction, dans le cadre d'une commission rogatoire, peut autoriser, à titre exceptionnel, qu'il soit procédé, sous son contrôle, à une opération d'infiltration lorsque l'enquête ou l'information porte sur l'une des infractions ci‑après :
 
 - 1°) celles prévues aux articles 209, 218 à 218-5, 225, 227, 243, 261, 265, 268, 269-1, 280 à 294-8, 389-14 à 389-19, 391-1 à 391-12 ; ou
 

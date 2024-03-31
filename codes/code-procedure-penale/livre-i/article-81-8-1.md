@@ -1,8 +1,8 @@
 # Article 81-8-1
 
-S'il y a lieu de rechercher, à bord d'un navire, des indices permettant d'établir l'existence d'une infraction ou d'en déterminer l'auteur, l'officier de police judiciaire, peut accéder à bord et procéder à une visite des navires présents dans les eaux territoriales ou intérieures monégasques.
+S'il y a lieu de rechercher, à bord d'un navire, des indices permettant d'établir l'existence d'une infraction ou d'en déterminer l'auteur, l'officier de police judiciaire, peut accéder à bord et procéder à une visite des navires présents dans les eaux territoriales ou intérieures monégasques, ainsi que des navires présents sur les quais des ports et leurs dépendances.
 
-La visite se déroule en présence du propriétaire du navire ou du capitaine de ce dernier ou de son représentant. Est considérée comme le capitaine la personne qui exerce, de droit ou de fait, le commandement, la conduite ou la garde du navire lors de la visite.
+La visite se déroule en présence du propriétaire du navire ou du capitaine de ce dernier, de son représentant ou, à défaut, en présence de deux témoins requis par l'officier de police judiciaire. Est considérée comme le capitaine la personne qui exerce, de droit ou de fait, le commandement, la conduite ou la garde du navire lors de la visite.
 
 La visite comprend l'inspection des extérieurs ainsi que des cales, des soutes et des locaux.
 

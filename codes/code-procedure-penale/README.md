@@ -1,11 +1,11 @@
 # Code de procédure pénale
 
-Version en vigueur au 1er janvier 2024.
+Version en vigueur au 31 mars 2024.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2024.01.01/
+Source : Legimonaco, https://legimonaco.mc/code/code-procedure-penale@2024.03.31/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de procédure pénale |
-| Dernière modification | 1 janvier 2024 |
+| Dernière modification | 31 mars 2024 |
