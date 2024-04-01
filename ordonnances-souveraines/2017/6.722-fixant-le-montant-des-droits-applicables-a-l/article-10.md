@@ -6,8 +6,8 @@ Le montant des redevances est fixé comme suit :
 
 - 2) Registre spécial
 
-  - - Demande d'inscription, par titre : 30 euros
+  - Demande d'inscription, par titre : 35 euros
 
-  - - État des inscriptions, par titre : 20 euros
+  - État des inscriptions, par titre : 20 euros
 
-  - - Certificat d'identité : 15 euros
+  - Certificat d'identité : 15 euros.

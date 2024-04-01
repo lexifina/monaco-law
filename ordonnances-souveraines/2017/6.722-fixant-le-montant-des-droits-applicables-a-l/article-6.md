@@ -10,45 +10,45 @@ Le montant des taxes est fixé comme suit :
 
 - 4) Annuité :
 
-  - - La première 1 euro
+  - La première 1 euro
 
-  - - La deuxième 30 euros
+  - La deuxième 30 euros
 
-  - - La troisième 50 euros
+  - La troisième 55 euros
 
-  - - La quatrième 55 euros
+  - La quatrième 60 euros
 
-  - - La cinquième 95 euros
+  - La cinquième 100 euros
 
-  - - La sixième 130 euros
+  - La sixième 135 euros
 
-  - - La septième 145 euros
+  - La septième 150 euros
 
-  - - La huitième 150 euros
+  - La huitième 160 euros
 
-  - - La neuvième 165 euros
+  - La neuvième 175 euros
 
-  - - La dixième 185 euros
+  - La dixième 195 euros
 
-  - - La onzième 230 euros
+  - La onzième 240 euros
 
-  - - La douzième 270 euros
+  - La douzième 285 euros
 
-  - - La treizième 305 euros
+  - La treizième 320 euros
 
-  - - La quatorzième 350 euros
+  - La quatorzième 365 euros
 
-  - - La quinzième 370 euros
+  - La quinzième 390 euros
 
-  - - La seizième 385 euros
+  - La seizième 405 euros
 
-  - - La dix-septième 395 euros
+  - La dix-septième 415 euros
 
-  - - La dix-huitième 400 euros
+  - La dix-huitième 420 euros
 
-  - - La dix-neuvième 420 euros
+  - La dix-neuvième 440 euros
 
-  - - La vingtième 450 euros
+  - La vingtième 470 euros
 
 - 5) Supplément pour paiement tardif de l'annuité : 1/5 de la taxe correspondante due
 
@@ -60,8 +60,8 @@ Le montant des taxes est fixé comme suit :
 
 - 9) Registre spécial
 
-  - - Demande d'inscription, par titre : 30 euros
+  - Demande d'inscription, par titre : 35 euros
 
-  - - État des inscriptions, par titre : 20 euros
+  - État des inscriptions, par titre : 20 euros
 
 - 10) Reproduction de tout document, par page : 2 euros
