@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2023-282 du 15 juin 2023 portant fixation du montant des ressources personnelles telles que prévues à l'Ordonnance Souveraine n° 9.930 du 15 juin 2023 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
