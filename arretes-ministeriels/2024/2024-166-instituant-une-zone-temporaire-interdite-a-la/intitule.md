@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-166 du 28 mars 2024 instituant une zone temporaire interdite à la baignade dans l'espace maritime de la Réserve du Larvotto, à l'occasion des travaux de nivellement de la plage
