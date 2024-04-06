@@ -6,7 +6,7 @@ Les taxis doivent répondre aux caractéristiques techniques suivantes :
 
 - 2° - avoir une longueur minimale hors tout de 4,20 mètres, une largeur hors tout d'au moins 1,65 mètre et une hauteur de seuil inférieure à 0,55 mètre ;
 
-- 3° - disposer d'un compteur horokilométrique et d'un dispositif répétiteur lumineux de tarifs dont les caractéristiques techniques, les conditions et les modalités d'installation et d'utilisation sont fixées par arrêté ministériel;
+- 3° - disposer d'un compteur horokilométrique et d'un dispositif répétiteur lumineux de tarifs dont les caractéristiques techniques, les conditions et les modalités d'installation et d'utilisation sont fixées par arrêté ministériel
 
 - 4° - disposer de l'appareillage de communication mis à disposition par l'autorité administrative compétente, pour l'exécution du service de centralisation téléphonique des demandes de courses et leur distribution, dont les conditions et modalités d'installation et d'utilisation sont fixées par arrêté ministériel;
 
@@ -14,6 +14,4 @@ Les taxis doivent répondre aux caractéristiques techniques suivantes :
 
 - 6° - disposer d'un véhicule répondant aux normes environnementales fixées par arrêté ministériel;
 
-- 7° - disposer et accepter le règlement via le terminal de paiement électronique (T.P.E.) ;
-
-Les équipements mentionnés aux chiffres 3 et 4 de l'alinéa précédent sont présentés en état de fonctionnement lors de la présentation du véhicule prévue à l'article 7.
+- 7° - disposer et accepter le règlement via le terminal de paiement électronique (T.P.E.).
