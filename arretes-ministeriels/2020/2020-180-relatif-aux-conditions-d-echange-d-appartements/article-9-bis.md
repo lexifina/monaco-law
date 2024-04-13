@@ -1,6 +1,6 @@
 # Article 9 bis
 
-Les mesures incitatives suivantes sont appliquées à toute demande d'échange validée pour les foyers occupant un appartement de 4 ou 5 pièces, sans enfant à charge, qui intègrent un 2 ou 3 pièces.
+Les mesures incitatives suivantes sont appliquées à toute demande d'échange validée pour les foyers occupant un appartement de 4 ou 5 pièces, sans enfant à charge, ni en visite, qui intègrent un 2 ou 3 pièces.
 
 Dans ce cas uniquement, le loyer de l'appartement sera, à titre de mesure bienveillante et personnelle, maintenu dans le cas où le loyer de l'appartement de typologie inférieure s'avérait être supérieur.
 
