@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024‑175 du 4 avril 2024 portant réglementation de la circulation des piétons, du stationnement et de la circulation des véhicules à l'occasion du 33ème Rallye Aïcha des Gazelles du Maroc
