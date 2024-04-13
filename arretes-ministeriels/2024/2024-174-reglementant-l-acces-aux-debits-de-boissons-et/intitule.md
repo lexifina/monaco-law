@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024‑174 du 4 avril 2024 réglementant l'accès aux débits de boissons et aux établissements de restauration et de loisirs situés sur la Darse Sud, les nuits des 26 et 27 avril 2024 et des 10, 11, 23, 24, 25 et 26 mai 2024
