@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024‑185 du 8 avril 2024 portant réglementation des travaux de chantiers à l'occasion des 7ème Monaco E-Prix, 14ème Grand Prix de Monaco Historique et 81ème Grand Prix Automobile de Monaco
