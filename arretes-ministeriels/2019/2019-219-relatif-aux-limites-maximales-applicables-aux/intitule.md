@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2019-219 du 8 mars 2019 relatif aux limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d'origine végétale et animale
