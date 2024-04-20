@@ -378,16 +378,6 @@ Tout véhicule répondant à cette description doit présenter un passeport tech
 
 * Couleur des caractères : bleu.
 
-L'immatriculation des véhicules de location est composée des mêmes caractères que la série normale. Cette série étant attribuée aux véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'Ordonnance Souveraine n° 1.691 du 17 décembre 1957, modifiée, susvisée.
-
-Est qualifié de " location longue durée " la mise à disposition d'un véhicule pour une durée supérieure à un an en contrepartie du versement, à titre de loyer, d'une somme d'argent.
-
-La location des véhicules immatriculés dans cette série doit, lorsqu'elle excède une durée d'une année, faire l'objet de l'agrément du service des titres de circulation.
-
-Cet agrément ne peut être accordé qu'à la condition que soit communiqué le contrat de location et que le locataire justifie d'une résidence ou bien d'une activité professionnelle, commerciale ou industrielle en Principauté de Monaco au sens de l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957 portant réglementation de la police de la circulation routière (Code de la route), modifiée. Le nom ou la raison sociale du loueur et du locataire sont mentionnés sur le certificat d'immatriculation du véhicule.
-
-Est qualifié de " location courte durée " la mise à disposition d'un véhicule pour une durée égale ou inférieure à un an. Aucune condition de résidence en Principauté n'est exigée pour les locataires de ces véhicules.
-
 Les mentions " location longue durée " et " location courte durée " seront inscrites sur les certificats d'immatriculation des véhicules correspondants.
 
 Véhicules appartenant aux agents consulaires honoraires accrédités auprès de S.A.S. le Prince Souverain :
