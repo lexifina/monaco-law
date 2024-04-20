@@ -2,58 +2,62 @@
 
 En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, la liste des États ou territoires dont les dispositifs de lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption présentent des carences stratégiques, est la suivante :
 
-- Afghanistan,
+- • Afghanistan ;
 
-- Afrique du Sud,
+- • Afrique du Sud ;
 
-- Barbade,
+- • Barbade ;
 
-- Bulgarie,
+- • Bulgarie ;
 
-- Burkina Faso,
+- • Burkina Faso ;
 
-- Cameroun,
+- • Cameroun ;
 
-- Croatie,
+- • Croatie ;
 
-- Émirats arabes unis,
+- • Émirats arabes unis ;
 
-- Gibraltar,
+- • Gibraltar ;
 
-- Haïti,
+- • Haïti ;
 
-- République démocratique du Congo,
+- • République démocratique du Congo ;
 
-- Jamaïque,
+- • Jamaïque ;
 
-- Mali,
+- • Kenya ;
 
-- Mozambique,
+- • Mali ;
 
-- Myanmar/Birmanie,
+- • Mozambique ;
 
-- Nigéria,
+- • Namibie ;
 
-- Ouganda,
+- • Myanmar/Birmanie ;
 
-- Panama,
+- • Nigéria ;
 
-- Philippines,
+- • Ouganda ;
 
-- Sénégal,
+- • Panama ;
 
-- Soudan du Sud,
+- • Philippines ;
 
-- Syrie,
+- • Sénégal ;
 
-- Tanzanie,
+- • Soudan du Sud ;
 
-- Trinité-et-Tobago,
+- • Syrie ;
 
-- Turquie,
+- • Tanzanie ;
 
-- Vanuatu,
+- • Trinité-et-Tobago ;
 
-- Vietnam,
+- • Turquie ;
 
-- Yémen.
+- • Vanuatu ;
+
+- • Vietnam ;
+
+- • Yémen.
