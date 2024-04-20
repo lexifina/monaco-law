@@ -1,19 +1,13 @@
 # Article 36-3
 
-Les personnes visées au premier alinéa de l'article 53-2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, ne doivent pas avoir fait l'objet depuis moins de dix ans :
+En application de l'article 53‑2 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, l'honorabilité des personnes physiques visées à l'article premier de cette loi, des personnes assurant la direction effective, des associés, des actionnaires et des bénéficiaires effectifs des organismes et des personnes morales visées au même article, s'apprécie notamment en considération :
 
-- 1°) d'une condamnation définitive à une peine d'emprisonnement ferme ou d'au moins six mois avec sursis pour l'une des infractions prévues à la Section VII du Chapitre III du Titre I du Livre III du Code pénal ou aux articles 70, 71, 75, 77-2, 80 et 80-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée ;
+- De tout antécédent judiciaire, administratif ou disciplinaire pertinent les concernant, tel que notamment des décisions judiciaires, administratives, disciplinaires ou des mesures de gels de fonds, et de toute procédure en cours notamment judiciaire, administrative ou disciplinaire, dans lesquelles lesdites personnes sont impliquées ou qui portent sur des questions dont elles pourraient être tenues responsables ;
 
-- 2°) d'une mesure de gel des fonds et des ressources économiques en application de l'Ordonnance Souveraine n° 8.664 du 26 mai 2021, modifiée, susvisée ;
+- De toutes les informations pertinentes et de tous les éléments susceptibles d'établir que les personnes visées jouissent d'une bonne réputation et présentent toutes les garanties d'une activité irréprochable.
 
-- 3°) d'une sanction administrative prévue par les chiffres 8°) à 11°) de l'article 65-8 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, devenue définitive ;
+Les contrôles d'honorabilité sont réalisés, au cas par cas, sur le fondement de l'ensemble des informations pertinentes disponibles permettant d'apprécier, au regard de la nature de l'activité concernée, les risques présentés par la personne.
 
-- 4°) d'une condamnation définitive à l'une des sanctions visées aux chiffres 1°) à 7°) de l'article 65-8 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, en cas de récidive à des manquements aux obligations de la même loi.
+Aux fins de contrôle de l'honorabilité des personnes visées au premier alinéa, le service exerçant la fonction de supervision de l'Autorité peut se fonder sur les informations dont il dispose au titre de ses fonctions de supervision, ainsi que sur les renseignements ou documents utiles qu'il peut solliciter ou recevoir à leur initiative des autres services de l'Autorité qui exercent les fonctions de cellule de renseignement financier et de sanction.
 
-L'Autorité apprécie la compatibilité des condamnations suivantes avec la nature de l'activité exercée des personnes visées au premier alinéa lorsque ces personnes ont fait l'objet :
-
-- a) d'une condamnation non-définitive pour l'une des infractions visées au chiffre 1°) ou à l'une des sanctions administratives visées aux chiffres 3°) ou 4°) ;
-
-- b) d'une condamnation définitive datant de plus de dix ans pour l'une des infractions visées au chiffre 1°) ou à l'une des sanctions administratives visées aux chiffres 3°) ou 4°) ;
-
-- c) de toute autre condamnation devant une juridiction civile, administrative, pénale, disciplinaire ou d'une mesure de gel des fonds et des ressources économiques en application de l'Ordonnance Souveraine n° 8.664 du 26 mai 2021, modifiée, susvisée, datant de plus de dix ans.
+En outre, le service exerçant la fonction de supervision de l'Autorité peut également utiliser toute information utile recueillie auprès des services de l'État mentionnés à l'article 36‑4 ainsi que dans le cadre de la coopération internationale auprès des autorités de supervision étrangères exerçant des compétences analogues.
