@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-215 du 11 avril 2024 portant application de l'Ordonnance Souveraine n° 10.511 du 11 avril 2024 portant création d'une gratification de stage pour les formations relevant de l'enseignement professionnel
