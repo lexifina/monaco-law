@@ -18,7 +18,7 @@ Les infractions aux dispositions de l'article 11 seront punies :
 
 Les infractions aux dispositions des articles 4, alinéa 2, 5 et 39, en ce qui concerne les signaux lumineux de circulation, 47 à 53, 64 à 67, 70 à 100, 111, 112, 115, 132, 136 à 140, 143 à 147, 149, 150, 154 à 155, 170, 172 2°/, 175 bis, 181 à 182 bis, 182-3, 182-8, 182-10 et 182-15 ou aux arrêtés pris en vue de leur application seront punies d'une amende de 15 à 300 euros.
 
-Les infractions aux dispositions de l'article 6, du premier alinéa de l'article 10 et de l'article 32 sont punies d'une amende de 45 à 75 euros.
+Les infractions aux dispositions de l'article 6, du premier alinéa de l'article 10 et des articles 32 et 32‑2 sont punies d'une amende de 45 à 75 euros.
 
 Les infractions aux dispositions de l'article 32-1 sont punies d'une amende de 75 à 150 euros.
 
@@ -32,9 +32,9 @@ Les infractions aux autres dispositions du présent Code de la route ou aux arr�
 
 Dans tous les cas prévus aux alinéas 5, 7, 8, 9, 10 et 12 ci-dessus, les agents verbalisateurs percevront, sauf refus du contrevenant, séance tenante, à titre transactionnel, et sans autre formalité, la moitié du maximum de l'amende encourue. Ils délivreront récépissé de la somme reçue qui sera ensuite versée à l'enregistrement.
 
-En cas d'infraction aux articles 31, 32, 32-1 et 33, le véhicule pourra être mis en fourrière par les agents de l'autorité aux frais, risques et périls du contrevenant.
+En cas d'infraction aux articles 31, 32, 32-1, 32-2 et 33, le véhicule pourra être mis en fourrière par les agents de l'autorité aux frais, risques et périls du contrevenant.
 
-Les infractions aux articles 31 et 32 commises dans les parkings publics peuvent être constatées par les agents du Service des Parkings Publics spécialement assermentés à cet effet. En cas d'infraction ainsi constatée, le véhicule pourra être mis en fourrière par les agents de l'autorité aux frais, risques et périls du contrevenant.
+Les infractions aux articles 31, 32 et 32‑2 commises dans les parkings publics peuvent être constatées par les agents du Service des Parkings Publics spécialement assermentés à cet effet. En cas d'infraction ainsi constatée, le véhicule pourra être mis en fourrière par les agents de l'autorité aux frais, risques et périls du contrevenant.
 
 Sous réserve de dispositions particulières, en cas d'infractions aux dispositions de la présente ordonnance, punies de peines non susceptibles de transaction, comme aussi en cas de refus de transaction lorsqu'elle est possible, le véhicule sera saisi et mis en fourrière, aux frais du propriétaire jusqu'à ce qu'il ait été statué par la juridiction compétente, à moins de versement à titre de cautionnement entre les mains du commissaire de police ou d'un officier de carabiniers, d'une somme égale au maximum de l'amende pour les délits, ou encore que le délinquant ne justifie qu'il réside d'une manière effective dans la Principauté, y possède des immeubles ou un établissement commercial. Le commissaire de police ou l'officier de carabiniers délivrera récépissé de la somme versée et la déposera au Greffe général.
 
