@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-276 du 13 mai 2024 portant modification de l'arrêté ministériel n° 2016-427 du 5 juillet 2016 fixant les tarifs applicables aux taxis et aux taxis 100 % électriques à titre saisonnier, modifié
