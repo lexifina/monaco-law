@@ -8,6 +8,6 @@ L'Institut est chargé :
 
 - 2°) d'assurer des séminaires de formation pour les magistrats, pour les avocats et les avocats-défenseurs, ainsi que pour les autres professions judiciaires ;
 
-- 3°) d'organiser des manifestations ou colloques sur des thématiques juridiques ;
+- 3°) d'organiser des formations en lien avec le service public de la justice ainsi que des manifestations ou des colloques sur des thématiques juridiques ;
 
 - 4°) de participer à la diffusion du droit monégasque à travers la publication, sous quelque support que ce soit, de chroniques et d'études juridiques ainsi que de décisions de justice.

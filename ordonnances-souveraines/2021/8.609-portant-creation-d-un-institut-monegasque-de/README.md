@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.609 du 12 avril 2021 portant création d'un Institut monégasque de formation aux professions judiciaires
 
-Version en vigueur au 25 février 2023.
+Version en vigueur au 18 mai 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/04-12-8.609@2023.02.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/04-12-8.609@2024.05.18/
 
 | | |
 | --- | --- |
