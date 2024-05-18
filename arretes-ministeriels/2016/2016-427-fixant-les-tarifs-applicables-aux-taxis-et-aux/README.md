@@ -1,8 +1,8 @@
 # Arrêté Ministériel n° 2016-427 du 5 juillet 2016 fixant les tarifs applicables aux taxis et aux taxis 100% électriques à titre saisonnier
 
-Version en vigueur au 18 mars 2023.
+Version en vigueur au 18 mai 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2016/07-05-2016-427@2023.03.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2016/07-05-2016-427@2024.05.18/
 
 | | |
 | --- | --- |
