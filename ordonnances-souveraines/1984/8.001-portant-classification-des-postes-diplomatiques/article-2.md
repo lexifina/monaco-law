@@ -6,6 +6,8 @@ Les postes consulaires sont les suivants :
 
 - Allemagne (République Fédérale d') : Düsseldorf, Francfort/Main, Hambourg, Munich, Potsdam, Stuttgart ;
 
+- Andorre : Andorre-la-Vieille ;
+
 - Argentine : Buenos Aires ;
 
 - Australie : Melbourne, Sydney ;
