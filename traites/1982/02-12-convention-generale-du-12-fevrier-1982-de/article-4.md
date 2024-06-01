@@ -14,7 +14,9 @@ Paragraphe 2 . - Le principe énoncé au paragraphe 1 du présent article compor
 
 - d) les travailleurs occupés dans les eaux territoriales ou dans le port de l'un des pays contractants à bord d'un navire battant pavillon de l'autre pays contractant, sans appartenir toutefois à l'équipage, sont soumis à la législation du premier pays ;
 
-- e) les travailleurs à domicile sont soumis à la législation en vigueur au lieu de leur travail quel que soit le lieu du siège de l'établissement de l'employeur.
+- e) les travailleurs à domicile sont soumis à la législation en vigueur au lieu de leur travail quel que soit le lieu du siège de l'établissement de l'employeur ;
+
+- f) les travailleurs salariés ou assimilés aux salariés résidant dans l'un des deux Pays contractants qui exercent pour le compte exclusif d'un employeur, dont le siège social ou le domicile est établi dans l'un des deux Pays contractants, une activité en télétravail depuis le territoire de l'autre Pays contractant, sont soumis à la législation du Pays contractant dans le territoire duquel l'employeur a son siège social ou son domicile, à condition qu'ils effectuent au moins un tiers de leur temps de travail hebdomadaire dans les locaux de l'employeur.
 
 Les modalités d'application du présent paragraphe, notamment celles relatives au versement des cotisations, seront déterminées par arrangement administratif.
 
