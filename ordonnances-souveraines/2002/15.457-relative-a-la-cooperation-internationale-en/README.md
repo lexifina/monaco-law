@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 15.457 du 9 août 2002 relative à la coopération internationale en matière de saisie et de confiscation dans le cadre de la lutte contre le blanchiment
+# Ordonnance Souveraine n° 15.457 du 9 août 2002 relative à la coopération internationale en matière de saisie et de confiscation en application de divers traités internationaux
 
-Version en vigueur au 17 août 2002.
+Version en vigueur au 8 juin 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2002/08-09-15.457@2002.08.17/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2002/08-09-15.457@2024.06.08/
 
 | | |
 | --- | --- |

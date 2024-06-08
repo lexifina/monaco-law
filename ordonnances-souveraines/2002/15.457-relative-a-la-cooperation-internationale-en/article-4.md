@@ -1,3 +1,3 @@
 # Article 4
 
-Pour l'exécution de la demande présentée par une autorité judiciaire étrangère, en application du chiffre 1 de l'article 1 et du chiffre 1 de l'article 2, les commissions rogatoires sont exécutées conformément au droit monégasque.
+La demande présentée par une autorité judiciaire étrangère, en application de l'une des conventions internationales mentionnées aux articles 1 à 2-1 est exécutée conformément au droit monégasque.

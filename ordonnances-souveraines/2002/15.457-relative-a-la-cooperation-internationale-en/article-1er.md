@@ -1,9 +1,9 @@
 # Article 1er
 
-Les dispositions de la présente ordonnance s'appliquent à toute demande présentée en application de l'article 5 de la convention des Nations Unies contre le trafic illicite de stupéfiants et de substances psychotropes adoptée à Vienne le 20 décembre 1988, par un État partie à cette convention, tendant à une ou plusieurs des mesures suivantes :
+Les dispositions de la présente ordonnance s'appliquent à toute demande présentée en application de la Convention des Nations unies contre le trafic illicite de stupéfiants et de substances psychotropes adoptée à Vienne le 20 décembre 1988, par un État partie à cette convention, tendant à une ou plusieurs des mesures suivantes, notamment prévues à ses articles 5 et 7 :
 
-- 1 - la recherche et l'identification de l'objet d'une infraction définie en application du premier paragraphe de l'article 3 de ladite convention, la recherche et l'identification du produit provenant directement ou indirectement de cette infraction ainsi que des installations, matériels et biens ayant servi à la commettre ;
+- 1 - la recherche et l'identification du produit provenant directement ou indirectement d'une infraction établie conformément au premier paragraphe de l'article 3 de ladite Convention ou des biens dont la valeur correspond à celle desdits produits ainsi que des stupéfiants, substances psychotropes, matériels et équipements ou autres instruments utilisés ou destinés à être utilisés de quelque manière que ce soit pour lesdites infractions ;
 
-- 2 - la confiscation de ces objets, produits, installations, matériels et biens :
+- 2 - la confiscation de ces produits, biens, y compris des biens dont la valeur correspond à celle desdits produits, stupéfiants, substances psychotropes, matériels et équipements ou autres instruments ;
 
-- 3 - la prise de mesures conservatoires sur ces objets, produits, installations, matériels et biens.
+- 3 - la prise de mesures conservatoires sur ces produits, biens, stupéfiants, substances psychotropes, matériels et équipements ou autres instruments, aux fins de confiscation éventuelle.
