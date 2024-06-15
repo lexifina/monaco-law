@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-345 du 4 juin 2024 modifiant l'arrêté ministériel n° 94-85 du 11 février 1994 relatif aux conditions d'établissement, de délivrance et de validité des permis de conduire, modifié
