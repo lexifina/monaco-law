@@ -1,5 +1,3 @@
 # Article 24
 
-Les représentants titulaires et suppléants de l'Administration sont désignés par le Conseil d'Administration du Centre Hospitalier.
-
-Ils sont choisis parmi les membres de l'équipe de Direction ou, de façon subsidiaire, parmi les agents titulaires de catégorie A de l'établissement.
+Les membres mentionnés à l'article 23 représentant l'administration, autres que le président, sont désignés par le Conseil d'administration du Centre Hospitalier Princesse Grace, selon des modalités fixées par arrêté ministériel.

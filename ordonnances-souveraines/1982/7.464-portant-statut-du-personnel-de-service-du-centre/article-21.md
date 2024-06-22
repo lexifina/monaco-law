@@ -1,3 +1,5 @@
 # Article 21
 
-Il est institué neuf Commissions paritaires présidées par le Président du Conseil d'Administration du Centre Hospitalier Princesse Grace ou par son représentant ; ces Commissions ont compétence, dans la limite fixées par le présent statut, pour connaître des questions traitées aux articles 6, 20, 43, 46, 48, 51, 52, 53, 77, 88, et 93 et plus généralement pour toutes questions statutaires individuelles concernant le personnel soumis au présent statut.
+Il est institué dix commissions paritaires présidées par le président du Conseil d'administration du Centre Hospitalier Princesse Grace ou par son représentant.
+
+Elles constituent des instances consultatives, compétentes pour connaître des décisions relatives à la situation individuelle des agents soumis au présent statut. À cet effet, elles exercent les attributions qui leur sont confiées par les dispositions du présent statut.

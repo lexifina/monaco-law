@@ -1,3 +1,3 @@
 # Article 27
 
-Les conditions de fonctionnement des commissions paritaires et les modalités de désignation de leurs membres, sont fixées par arrêté ministériel.
+Les conditions de fonctionnement des commissions paritaires instituées par l'article 21 sont fixées par arrêté ministériel.

@@ -1,7 +1,5 @@
 # Article 30
 
-La commission des recours est compétente dans les cas visés aux articles 52, 64, 65, 66, 67 et 88.
+La durée du mandat des membres de la commission des recours instituée par l'article 29 est égale à la durée du mandat des membres des commissions paritaires prévue par l'article 26. Lorsque cette dernière durée est réduite ou prorogée conformément aux dispositions de ce même article, la durée du mandat des membres de la commission des recours est, de plein droit, pareillement réduite ou prorogée.
 
-Elle est saisie soit par l'agent, soit par la commission paritaire intéressée, dans un délai de 15 jours.
-
-Les dispositions relatives à l'organisation et au fonctionnement de la commission des recours figurent aux articles 52, 64 à 67 et 88 du présent statut.
+Les conditions de fonctionnement de la commission sont fixées par arrêté ministériel.

@@ -1,15 +1,13 @@
 # Article 29
 
-Il est institué une commission des recours placée sous la présidence d'un magistrat désigné par le directeur des services judiciaires.
+Il est institué une commission des recours présidée par un magistrat désigné par le directeur des services judiciaires. Elle exerce les attributions qui lui sont confiées par les dispositions du présent statut.
 
-La commission des recours, outre son président, comprend :
+Elle comprend quatre autres membres titulaires, ainsi que quatre membres suppléants, désignés comme suit :
 
-- 1° deux membres titulaires désignés par le Ministre d'État ;
+- 1) deux membres titulaires et deux membres suppléants, désignés par le Ministre d'État ;
 
-- 2° deux membres titulaires représentant le personnel de service. Ces membres sont élus, entre eux, par les agents ayant atteint l'un des grades dont la liste est établie par un arrêté ministériel.
+- 2) deux membres titulaires et deux membres suppléants, représentant les agents soumis au présent statut, élus par lesdits agents.
 
-Selon la même procédure, il est désigné ou élu un membre suppléant pour chacun des membres titulaires.
+Le mandat de membre d'une commission paritaire instituée par l'article 21 ou du conseil d'administration du Centre Hospitalier Princesse Grace est incompatible avec le mandat de membre de la commission des recours.
 
-La durée des mandats est de trois ans.
-
-Les personnes composant les commissions paritaires visées aux articles 21 et suivants, ne peuvent faire partie de la commission des recours.
+Les modalités d'application du présent article sont fixées par arrêté ministériel.
