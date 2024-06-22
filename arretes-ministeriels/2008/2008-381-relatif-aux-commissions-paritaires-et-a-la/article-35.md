@@ -1,3 +1,0 @@
-# Article 35
-
-Les Commissions paritaires sont compétence pour toutes les questions statutaires individuelles relevant de l'ordonnance souveraine n° 7.464 du 28 juillet 1982 portant statut du personnel de service, et notamment les questions traitées aux articles 6 (dérogation en matière d'exercice d'une activité professionnelle lucrative), 19 (licenciement en fin de stage), 20 (titularisation), 43 (révisions de note), 46 (avancements d'échelon), 48 (avancements de grade), 51 à 52 (litiges en matière d'inscription au tableau d'avancement), 77 (licenciement à l'issue d'une disponibilité), 88 et 93 (litiges en matière d'attribution ou de calcul des pensions de retraite).
