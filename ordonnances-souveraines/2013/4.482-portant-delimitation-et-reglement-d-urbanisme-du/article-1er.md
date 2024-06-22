@@ -20,7 +20,7 @@
 
 - des dispositions particulières RU-MGI-DP-V10D (annexe n° 8) et des plans de coordination correspondants applicables au quartier des Moneghetti ;
 
-- des dispositions particulières RU-MCO-DP-V14D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
+- des dispositions particulières RU-MCO-DP-V15D (annexe n° 9) et des plans de coordination correspondants applicables au quartier de Monte-Carlo ;
 
 - des dispositions particulières RU-LRS-DP-V13D (annexe n° 10) et des plans de coordination correspondants applicables au quartier de La Rousse
 
