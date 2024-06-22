@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-352 du 12 juin 2024 portant réglementation de la circulation des piétons, le stationnement et la circulation des véhicules à l'occasion du départ de la dernière étape du Tour de France 2024
