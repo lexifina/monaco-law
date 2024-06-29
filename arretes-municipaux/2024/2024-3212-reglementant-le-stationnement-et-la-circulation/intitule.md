@@ -1,0 +1,1 @@
+Arrêté municipal n° 2024-3212 du 25 juin 2024 réglementant le stationnement et la circulation des véhicules ainsi que la circulation des piétons à l'occasion de l'organisation de la dernière étape du Tour de France 2024, sous la forme d'un « contre la montre individuel » entre la Principauté de Monaco et la ville de Nice
