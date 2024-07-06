@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.642 du 27 juin 2024 portant modification de l'Ordonnance Souveraine n° 5.095 du 14 février 1973 sur l'organisation et le fonctionnement du Centre Hospitalier Princesse Grace, modifiée
