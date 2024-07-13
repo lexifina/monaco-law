@@ -1,1 +1,0 @@
-Vu les arrêtés ministériels n° 94-338 du 29 juillet 1994, n° 2007-370 du 23 juillet 2007, n° 2008-447 du 8 août 2008, n° 2009-420 du 10 août 2009, n° 2010-218 du 28 avril 2010, n° 2011-243 du 20 avril 2011, n° 2012-288 du 15 mai 2012 et n° 2013-498 du 30 septembre 2013 approuvant le règlement d'attribution des bourses d'études ;
