@@ -1,0 +1,3 @@
+# Article 1er
+
+En application du cinquième alinéa de l'article 25 de l'Ordonnance Souveraine n° 9.640 du 23 décembre 2022, modifiée, susvisée, par dérogation aux durées d'engagement prévues par cet article, le premier engagement de l'agent contractuel exerçant l'une des fonctions relevant du personnel d'éducation et d'enseignement de la Direction de l'Éducation Nationale, de la Jeunesse et des Sports, figurant à l'article 2, conclu pour une durée d'un an, peut être renouvelé cinq fois pour la même durée dans les conditions prévues par l'Ordonnance Souveraine n° 9.640 du 23 décembre 2022, modifiée, susvisée.
