@@ -1,8 +1,8 @@
 # Loi n° 1.465 du 11 décembre 2018 relative à l'aide à la famille monégasque et à l'aide sociale
 
-Version en vigueur au 19 décembre 2020.
+Version en vigueur au 27 juillet 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2018/12-11-1.465@2020.12.19/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2018/12-11-1.465@2024.07.27/
 
 | | |
 | --- | --- |
