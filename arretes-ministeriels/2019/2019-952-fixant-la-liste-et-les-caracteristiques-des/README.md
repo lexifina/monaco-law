@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2019-952 du 14 novembre 2019 fixant la liste et les caractéristiques des produits sanguins labiles
 
-Version en vigueur au 14 décembre 2019.
+Version en vigueur au 3 août 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/11-14-2019-952@2019.12.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/11-14-2019-952@2024.08.03/
 
 | | |
 | --- | --- |
