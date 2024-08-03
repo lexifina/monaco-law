@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-446 du 27 juillet 2024 modifiant l'arrêté ministériel n° 2012-197 du 5 avril 2012 relatif à la pratique du tatouage avec effraction cutanée, du maquillage permanent et du perçage, modifié
