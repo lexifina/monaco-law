@@ -1,8 +1,8 @@
-# Arrêté ministériel n° 2012-264 du 27 avril 2012 fixant les conditions de réalisation des tests rapides d'orientation diagnostique de l'infection à virus de l'immunodéficience humaine (VIH 1 et 2)
+# Arrêté ministériel n° 2012-264 du 27 avril 2012 fixant les conditions de réalisation des tests rapides d'orientation diagnostique de l'infection à virus de l'immunodéficience humaine (VIH 1 et 2) et des hépatites virales (VHC)
 
-Version en vigueur au 5 mai 2012.
+Version en vigueur au 3 août 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-27-2012-264@2012.05.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-27-2012-264@2024.08.03/
 
 | | |
 | --- | --- |
