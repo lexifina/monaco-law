@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-444 du 27 juillet 2024 modifiant l'arrêté ministériel n° 2012-264 du 27 avril 2012 fixant les conditions de réalisation des tests rapides d'orientation diagnostique de l'infection à virus de l'immunodéficience humaine (VIH 1 et 2)
