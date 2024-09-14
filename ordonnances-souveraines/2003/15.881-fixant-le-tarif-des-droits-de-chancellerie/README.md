@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 15.881 du 22 juillet 2003 fixant le tarif des droits de chancellerie
 
-Version en vigueur au 21 avril 2012.
+Version en vigueur au 14 septembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2003/07-22-15.881@2012.04.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2003/07-22-15.881@2024.09.14/
 
 | | |
 | --- | --- |
