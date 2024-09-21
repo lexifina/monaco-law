@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-482 du 12 septembre 2024 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2022-2023
