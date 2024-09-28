@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.056 du 29 avril 2020 relative à la taxe sur la valeur ajoutée
 
-Version en vigueur au 18 mars 2023.
+Version en vigueur au 28 septembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2020/04-29-8.056@2023.03.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2020/04-29-8.056@2024.09.28/
 
 | | |
 | --- | --- |
