@@ -6,11 +6,31 @@ La déclaration d'importation s'entend de la déclaration en douane, au sens du 
 
 2. Le redevable de la taxe est :
 
-- 1° Lorsque le bien fait l'objet d'une livraison située à Monaco ou en France, conformément aux I à IV de l'article 6, ou d'une vente à distance de biens importés, expédiés ou transportés dans un État membre autre que la France, la personne qui réalise cette livraison ;
+- 1° Lorsque le bien fait l'objet d'une livraison située à Monaco ou en France, conformément aux I à III de l'article 6, la personne qui réalise cette livraison ;
 
-- 2° Lorsque le bien fait l'objet d'une vente à distance de biens importés ne relevant pas du 1° et qu'un assujetti facilite la livraison par l'utilisation d'une interface électronique, telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire, cet assujetti ;
+- 2° Lorsque le bien fait l'objet d'une vente à distance de biens importés :
 
-- 3° Dans les autres situations, le destinataire des biens indiqué sur la déclaration d'importation ;
+  - a) La personne qui réalise cette vente, sauf dans les situations mentionnées aux b) ou c) du présent 2° ;
+
+  - b) L'assujetti qui facilite cette vente par l'utilisation d'une interface électronique, telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire, si toutes les conditions suivantes sont remplies :
+
+    - les biens se trouvent à Monaco au moment de l'arrivée de l'expédition ou du transport à destination de l'acquéreur ;
+
+    - un tel assujetti intervient sans être réputé avoir réalisé la vente en application du a) du 2° du V de l'article 1er ;
+
+  - c) Le destinataire de cette vente, si toutes les conditions suivantes sont remplies :
+
+    - les biens se trouvent à Monaco au moment de l'arrivée de l'expédition ou du transport à destination de l'acquéreur ;
+
+    - aucun assujetti n'a facilité la vente à distance de biens importés par l'utilisation d'une interface électronique, telle qu'une place de marché, une plateforme, un portail ou un dispositif similaire ;
+
+    - la base d'imposition de la taxe due à l'importation est égale à celle qui serait déterminée pour la vente à distance si elle était localisée à Monaco ;
+
+- 3° Dans les autres situations :
+
+  - a) Le destinataire de la vente mentionnée à l'article 128 du règlement d'exécution (UE) 2015/2447 de la Commission du 24 novembre 2015 établissant les modalités d'application de certaines dispositions du règlement (UE) n° 952/2013 du Parlement européen et du Conseil établissant le Code des douanes de l'Union, si la valeur en douane est déterminée à partir de la valeur transactionnelle mentionnée à l'article 70 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le Code des douanes de l'Union ;
+
+  - b) Le débiteur de la dette douanière déterminé en application du 3 de l'article 77 ou des 3 et 4 de l'article 79 du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 précité, si la valeur en douane n'est pas déterminée à partir de la valeur transactionnelle mentionnée à l'article 70 du même règlement ;
 
 - 4° Par dérogation aux 1° à 3°, la personne recourant à l'option prévue à l'article 86 ter.
 
@@ -30,6 +50,6 @@ Les manquements aux dispositions du présent 3° sont sanctionnés dans les cond
 
 4. Le représentant en douane, au sens du 6 de l'article 5 du Code des douanes de l'Union, lorsqu'il agit en son nom propre et pour le compte d'autrui, est solidaire du paiement de la taxe.
 
-Toutefois, cette disposition n'est pas applicable aux opérations pour lesquelles le représentant a rempli les obligations prévues au 3. du présent article pour le compte du redevable assujetti de la taxe mentionné au 2 et est en mesure d'établir qu'il a transmis à ce redevable, ou lui a rendu accessible par voie électronique, au plus tard lors de la réception des marchandises par le destinataire, l'information de la base imposable constatée conformément au dernier alinéa de l'article 83 ainsi que les documents nécessaires pour l'exercice du droit à déduction conformément au 2 de l'article 42 ;
+Le représentant en douane transmet au redevable ou lui rend accessible par voie électronique, au plus tard lors de la réception des marchandises par le destinataire, l'information de la base imposable constatée conformément au dernier alinéa de l'article 83 ainsi que les documents nécessaires pour l'exercice du droit à déduction conformément au 2 de l'article 42 ;
 
-5. Sans préjudice des dispositions du 4., en cas de vente à distance de biens importés, lorsque ni le vendeur, ni le destinataire indiqué sur la déclaration d'importation ne sont redevables, ils sont solidairement tenus au paiement de la taxe.
+5. Sans préjudice du 4, dans les cas mentionnés aux b) et c) du 2° du 2, la personne qui réalise la livraison du bien importé et le destinataire de cette livraison sont solidairement tenus au paiement de la taxe.

@@ -1,6 +1,6 @@
 # Article 13
 
-Par dérogation à l'article 11, le lieu des prestations de services suivantes est réputé ne pas se situer à Monaco lorsqu'elles sont fournies à une personne non assujettie qui n'est pas établie ou n'a pas son domicile ou sa résidence habituelle à Monaco ou dans un État membre de la Communauté européenne :
+Par dérogation à l'article 11, le lieu des prestations de services suivantes est réputé ne pas se situer à Monaco lorsqu'elles sont fournies à une personne non assujettie qui n'est pas établie ou n'a pas son domicile ou sa résidence habituelle à Monaco ou dans un État membre de l'Union européenne :
 
 - 1° Cessions et concessions de droits d'auteurs, de brevets, de droits de licences, de marques de fabrique et de commerce et d'autres droits similaires ;
 

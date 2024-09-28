@@ -4,9 +4,7 @@ I. - La taxe sur la valeur ajoutée est déclarée et perçue lorsqu'elle devien
 
 - 1° Les importations pour lesquelles le redevable est une personne non assujettie et non identifiée conformément aux dispositions combinées des articles 68 et 68 ter ;
 
-- 2° (2° abrogé) ;
-
-- 3° Les transports entre Monaco et les territoires situés en dehors du territoire communautaire, au sens de l'article préliminaire bis.
+- 2° Les opérations mentionnées aux 5° et 6° du II de l'article 68 ter, lorsque le redevable est un assujetti qui n'est pas tenu d'être identifié, conformément aux dispositions combinées des articles 68 et 68 ter.
 
 Dans ces situations, la taxe sur la valeur ajoutée est recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et privilèges que les droits de douanes.
 

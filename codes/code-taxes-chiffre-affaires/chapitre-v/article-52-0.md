@@ -22,6 +22,8 @@ A. - Les livraisons portant sur :
 
 - 1° bis Les produits de protection hygiénique féminine ;
 
+- 1° ter Les préservatifs masculins et féminins ;
+
 - 2° les appareillages pour handicapés ainsi que sur les équipements spéciaux, dénommés aides techniques et autres appareillages, dont la liste est fixée par l'article A-130 de l'annexe au code et qui sont conçus exclusivement pour les personnes handicapées en vue de la compensation d'incapacités graves.
 
 - 3° les autopiqueurs, les appareils pour lecture automatique chiffrée de la glycémie, les seringues pour insuline, les stylos injecteurs d'insuline et les bandelettes et comprimés pour l'autocontrôle du diabète ;
@@ -48,7 +50,9 @@ E. - La fourniture de repas par les prestataires dans les établissements public
 
 F. - 1° Les spectacles suivants : théâtres, théâtres de chansonniers, cirques, concerts ; spectacles de variétés à l'exception de ceux qui sont donnés dans les établissements où il est d'usage de consommer pendant les séances ;
 
-2° Le prix du billet d'entrée donnant accès à des interprétations originales d'œuvres musicales nécessitant la présence physique d'au moins un artiste du spectacle percevant une rémunération dans des établissements où il est servi facultativement des consommations pendant le spectacle.
+2° Le prix du billet d'entrée donnant accès à des interprétations originales d'œuvres musicales nécessitant la présence physique d'au moins un artiste du spectacle percevant une rémunération dans des établissements où il est servi facultativement des consommations pendant le spectacle ;
+
+3° Les droits d'entrée des spectateurs aux compétitions de jeux vidéo, à l'exception de ceux comportant des séquences à caractère pornographique ou de très grande violence. Est considéré comme un jeu vidéo tout logiciel de loisir mis à la disposition du public sur un support physique ou en ligne intégrant des éléments de création artistique et technologique, proposant à un ou plusieurs utilisateurs une série d'interactions s'appuyant sur une trame scénarisée ou des situations simulées et se traduisant sous forme d'images animées, sonorisées ou non.
 
 G. - Les droits d'entrée dans les salles de spectacles cinématographiques, quels que soient le procédé de fixation ou de transmission et la nature du support des œuvres ou documents audiovisuels qui sont présentés.
 
@@ -83,3 +87,5 @@ N - Les prestations de pose, d'installation et d'entretien d'infrastructures de 
 - 2° La configuration des infrastructures de recharge répond aux exigences techniques fixées par arrêté ministériel ;
 
 - 3° Les prestations sont réalisées par une personne répondant à des critères de qualification définis par l'arrêté mentionné au 2° du présent N - .
+
+O.- L'enseignement et la pratique de l'équitation, les animations et les activités de démonstration aux fins de découverte de l'environnement équestre et de familiarisation avec celui‑ci ainsi que l'accès aux installations sportives destinées à l'utilisation des équidés.

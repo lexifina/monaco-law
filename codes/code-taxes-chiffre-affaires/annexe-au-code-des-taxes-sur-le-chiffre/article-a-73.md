@@ -50,6 +50,8 @@ IV. - 1. Le coefficient d'admission d'un bien ou d'un service est égal à l'uni
 
   - e. Acquis par les entreprises de transports publics de voyageurs et affectés de façon exclusive à la réalisation desdits transports ;
 
+  - f. Aménagés pour le transport des équidés ;
+
 - 6° Pour les éléments constitutifs, pièces détachées et accessoires des véhicules et engins mentionnés au premier alinéa du 5° ;
 
 - 7° À l'exception des cas prévus au 3° de l'article 100 ter du Code des taxes sur le chiffre d'affaires :

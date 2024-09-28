@@ -28,13 +28,13 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
   - b) Les ventes à consommer sur place ;
 
-  - c) Sont réputées effectuées à Monaco les ventes à consommer sur place lorsqu'elles sont réalisées matériellement à bord de navires au cours de la partie d'un transport de passagers effectuée à Monaco ou à l'intérieur de la Communauté européenne et que le lieu de départ du transport de passagers est situé à Monaco.
+  - c) Sont réputées effectuées à Monaco les ventes à consommer sur place lorsqu'elles sont réalisées matériellement à bord de navires au cours de la partie d'un transport de passagers effectuée à Monaco ou à l'intérieur de l'Union européenne et que le lieu de départ du transport de passagers est situé à Monaco.
 
-- On entend par partie d'un transport de passagers effectuée à Monaco ou à l'intérieur de la Communauté, la partie d'un transport effectuée sans escale en dehors de la Communauté européenne, entre le lieu de départ et le lieu d'arrivée du transport de passagers.
+- On entend par partie d'un transport de passagers effectuée à Monaco ou à l'intérieur de l'Union européenne, la partie d'un transport effectuée sans escale en dehors de l'Union européenne, entre le lieu de départ et le lieu d'arrivée du transport de passagers.
 
-- On entend par lieu de départ d'un transport de passagers, le premier point d'embarquement de passagers prévu à Monaco ou dans la Communauté européenne, le cas échéant après escale en dehors de la Communauté européenne.
+- On entend par lieu de départ d'un transport de passagers, le premier point d'embarquement de passagers prévu à Monaco ou dans l'Union européenne, le cas échéant après escale en dehors de l'Union européenne.
 
-- On entend par lieu d'arrivée d'un transport de passagers, le dernier point de débarquement, prévu à Monaco ou dans la Communauté européenne, pour des passagers ayant embarqué à Monaco ou dans la Communauté européenne, le cas échéant avant escale en dehors de la Communauté européenne.
+- On entend par lieu d'arrivée d'un transport de passagers, le dernier point de débarquement, prévu à Monaco ou dans l'Union européenne, pour des passagers ayant embarqué à Monaco ou dans l'Union européenne, le cas échéant avant escale en dehors de l'Union européenne.
 
 - Dans le cas d'un transport aller-retour, le trajet de retour est considéré comme un transport distinct ;
 

@@ -1,6 +1,6 @@
 # Article 74
 
-1. Les échanges de biens avec les États membres de la Communauté européenne autres que la France font l'objet de la déclaration périodique prévue par le Règlement (UE) 2019/2152 du Parlement européen et du Conseil du 27 novembre 2019 relatif aux statistiques européennes d'entreprises.
+1. Les échanges de biens avec les États membres de l'Union européenne autres que la France font l'objet de la déclaration périodique prévue par le Règlement (UE) 2019/2152 du Parlement européen et du Conseil du 27 novembre 2019 relatif aux statistiques européennes d'entreprises.
 
 2. La déclaration prévue au 1 et l'état récapitulatif des clients mentionné au II [de] l'article 73 du code font l'objet d'une déclaration unique.
 

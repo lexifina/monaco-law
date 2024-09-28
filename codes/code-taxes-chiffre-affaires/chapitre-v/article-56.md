@@ -4,7 +4,9 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - a) les prestations relatives :
 
-  - à la fourniture de logement dans les établissements d'hébergement ; ce taux s'applique aux locations meublées dans les mêmes conditions que pour les établissements d'hébergement ;
+  - À la fourniture d'un hébergement dans le cadre du secteur hôtelier ou de secteurs ayant une fonction similaire et répondant aux conditions fixées au b) du 4° de l'article 26 ;
+
+  - À la location de logements meublés répondant aux conditions fixées au b bis) du même 4° ;
 
 - b) les recettes provenant de la fourniture des repas dans les cantines d'entreprises et répondant aux conditions qui sont fixées par l'article A-132 de l'annexe au code, à l'exclusion de celles relatives aux boissons alcooliques qui relèvent du taux prévu à l'article 51 ;
 

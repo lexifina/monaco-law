@@ -2,6 +2,8 @@
 
 I. - Pour l'importation de biens faisant l'objet d'une vente à distance de biens importés, à l'exception des produits soumis à accises, contenus dans des envois d'une valeur intrinsèque ne dépassant pas 150 € ou sa contre-valeur en monnaie nationale, la personne qui présente les marchandises en douane pour le compte de la personne destinataire des biens peut se prévaloir du régime particulier prévu au présent article pour la déclaration et le paiement de la taxe sur la valeur ajoutée à l'importation en ce qui concerne des biens expédiés ou transportés à destination de Monaco ou de la France.
 
+Les marchandises ne sont pas présentées pour le compte de la personne destinataire des biens lorsque la base d'imposition à l'importation diffère de celle qui serait déterminée pour la vente à distance de biens importés si elle était située à Monaco.
+
 II. - Lorsqu'il est recouru au présent dispositif, les conditions suivantes sont applicables :
 
 - 1° Par dérogation au 2 de l'article 85, le redevable de la taxe sur la valeur ajoutée est le destinataire du bien indiqué sur la déclaration d'importation et l'option prévue à l'article 86 ter ne peut être exercée ;

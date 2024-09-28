@@ -2,7 +2,7 @@
 
 I. - Sont soumises à la taxe sur la valeur ajoutée les acquisitions intracommunautaires de moyens de transport neufs effectuées par des personnes mentionnées au 2° du I de l'article 2 du Code des taxes sur le chiffre d'affaires ou par toute autre personne non assujettie.
 
-II. - Est exonérée de la taxe sur la valeur ajoutée la livraison par un assujetti d'un moyen de transport neuf expédié ou transporté sur le territoire d'un État membre de la Communauté économique européenne, autre que la France.
+II. - Est exonérée de la taxe sur la valeur ajoutée la livraison par un assujetti d'un moyen de transport neuf expédié ou transporté sur le territoire d'un État membre de l'Union européenne, autre que la France.
 
 III. - 1. Sont considérés comme moyens de transport : les bateaux d'une longueur de plus de 7,5 mètres, les aéronefs dont le poids total au décollage excède 1 550 kilogrammes et les véhicules terrestres à moteur d'une cylindrée de plus de 48 centimètres cubes ou d'une puissance de plus 7,2 kilowatts, destinés au transport de personnes ou de marchandises, à l'exception des bateaux et aéronefs visés aux 2° et 4° du II de l'article 29.
 
@@ -12,7 +12,7 @@ III. - 1. Sont considérés comme moyens de transport : les bateaux d'une longue
 
 - les véhicules terrestres dont la livraison est effectuée dans les six mois suivant la première mise en service ou qui ont parcouru moins de 6 000 kilomètres.
 
-IV. - Est considérée comme un assujetti toute personne qui effectue à titre occasionnel la livraison d'un moyen de transport neuf expédié ou transporté sur le territoire d'un État membre de la Communauté économique européenne autre que la France à destination de l'acheteur, par le vendeur, par l'acheteur ou pour leur compte, dans les conditions prévues au II.
+IV. - Est considérée comme un assujetti toute personne qui effectue à titre occasionnel la livraison d'un moyen de transport neuf expédié ou transporté sur le territoire d'un État membre de l'Union européenne autre que la France à destination de l'acheteur, par le vendeur, par l'acheteur ou pour leur compte, dans les conditions prévues au II.
 
 V. - Le droit à déduction prend naissance au moment de la livraison du moyen de transport neuf.
 

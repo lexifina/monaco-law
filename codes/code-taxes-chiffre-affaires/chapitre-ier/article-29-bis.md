@@ -1,6 +1,6 @@
 # Article 29 bis
 
-I.- Les personnes qui interviennent, en leur nom et pour leur compte ou au nom et pour le compte des vendeurs qui leur sont affiliés, dans une opération de livraison de biens exonérée de la taxe sur la valeur ajoutée dans les conditions mentionnées au deuxième alinéa du 2° du I de l'article 29, en transmettant à l'administration des douanes, au moyen d'une plate-forme d'échange de données informatisées certifiée par l'administration des douanes, les données électroniques des bordereaux de vente à l'exportation qu'elles émettent ou qui sont émis par les vendeurs qui leur sont affiliés doivent, pour exercer leur activité, être agréées par l'administration des douanes en tant qu'opérateur de détaxe.
+I.- Les personnes qui interviennent, en leur nom et pour leur compte ou au nom et pour le compte des vendeurs qui leur sont affiliés, dans une opération de livraison de biens exonérée de la taxe sur la valeur ajoutée dans les conditions mentionnées au deuxième alinéa du 2° du I de l'article 29, doivent, pour exercer leur activité, être agréées par l'administration des douanes en tant qu'opérateur de détaxe.
 
 L'agrément est accordé lorsque les critères suivants sont remplis :
 
@@ -12,7 +12,7 @@ L'agrément est accordé lorsque les critères suivants sont remplis :
 
 II.- L'opérateur de détaxe agréé :
 
-- 1° Assure, dans un délai fixé par l'administration des douanes, la transmission à celle-ci des données électroniques des bordereaux de vente à l'exportation qu'il émet ou qui sont émis par les vendeurs qui lui sont affiliés, au moyen de la plate-forme mentionnée au I ;
+- 1° Assure, dans un délai fixé par l'administration des douanes, la transmission à celle-ci des données électroniques des bordereaux de vente à l'exportation qu'il émet ou qui sont émis par les vendeurs qui lui sont affiliés, au moyen d'une plateforme d'échange de données informatisées certifiée par l'administration des douanes ;
 
 - 2° Utilise un système d'évaluation et de gestion des risques liés au processus de détaxe ;
 
@@ -32,6 +32,6 @@ IV.- L'administration des douanes définit :
 
 - 1° Les modalités de délivrance et de retrait de l'agrément mentionné au I ;
 
-- 2° Les conditions et procédures préalables à la certification de la plate-forme mentionnée au même I ;
+- 2° Les conditions et procédures préalables à la certification de la plate-forme mentionnée au II ;
 
-- 3° Les modalités techniques permettant le respect des obligations mentionnées au II.
+- 3° Les modalités techniques permettant le respect des obligations mentionnées au même II.

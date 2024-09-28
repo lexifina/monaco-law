@@ -54,6 +54,8 @@ V. - Ouvrent droit à déduction dans les mêmes conditions que s'ils étaient s
 
 - c) les opérations exonérées en application des dispositions du 7 - de l'article 23, des articles 29, 30, des I et III de l'article 31, de l'article 33 et des 1° et 2° bis du II et du 2° du III de l'article 81 ;
 
-- d) les opérations non imposables en Principauté réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se situait en Principauté. Les modalités et les limites du remboursement de la taxe déductible au titre de ces opérations sont fixées par les articles A-119 à A-126 et A-167 de l'annexe au code.
+- d) les opérations non imposables en Principauté réalisées par des assujettis dans la mesure où elles ouvriraient droit à déduction si leur lieu d'imposition se situait en Principauté. Les modalités et les limites du remboursement de la taxe déductible au titre de ces opérations sont fixées par les articles A-119 à A-126 et A-167 de l'annexe au code ;
+
+- e) Les opérations exonérées en application du 2 de l'article 23.
 
 VI. - Pour l'application du présent article, une opération légalement effectuée en franchise, conformément à l'article 48, ou en suspension de paiement, conformément au I de l'article 50 A, de la taxe sur la valeur ajoutée est considérée comme en ayant été grevée à concurrence du montant de la somme bénéficiant de la franchise ou dont le paiement a été suspendu.

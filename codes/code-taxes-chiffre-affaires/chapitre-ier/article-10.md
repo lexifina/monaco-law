@@ -1,12 +1,12 @@
 # Article 10
 
-I. - Les acquisitions intracommunautaires de biens meubles corporels situés à Monaco en application du I de l'article 9, réalisées par un acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée dans un État membre de la Communauté économique européenne autre que la France, ne sont pas soumises à la taxe sur la valeur ajoutée lorsque les conditions suivantes sont réunies :
+I. - Les acquisitions intracommunautaires de biens meubles corporels situés à Monaco en application du I de l'article 9, réalisées par un acquéreur qui dispose d'un numéro d'identification à la taxe sur la valeur ajoutée dans un État membre de l'Union européenne autre que la France, ne sont pas soumises à la taxe sur la valeur ajoutée lorsque les conditions suivantes sont réunies :
 
 - 1° L'acquéreur est un assujetti qui n'est pas établi à Monaco ou en France et qui n'y a pas désigné de représentant en application du I de l'article 72 ;
 
 - 2° L'acquisition intracommunautaire est effectuée pour les besoins d'une livraison consécutive du même bien à destination d'un assujetti ou d'une personne morale non assujettie, identifié à la taxe sur la valeur ajoutée en application des dispositions de l'article 68 ;
 
-- 3° Le bien est expédié ou transporté directement à partir d'un État membre de la Communauté autre que la France et autre que celui dans lequel est identifié l'acquéreur, à destination de l'assujetti ou de la personne morale non assujettie mentionné au 2° ;
+- 3° Le bien est expédié ou transporté directement à partir d'un État membre de l'Union européenne autre que la France et autre que celui dans lequel est identifié l'acquéreur, à destination de l'assujetti ou de la personne morale non assujettie mentionné au 2° ;
 
 - 4° L'acquéreur s'assure qu'est délivrée au destinataire de la livraison mentionné au 2° une facture hors taxe comportant :
 

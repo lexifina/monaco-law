@@ -4,7 +4,7 @@ I. - 1. Les importations de biens sont soumises à la taxe sur la valeur ajouté
 
 2. Est considérée comme importation d'un bien :
 
-- a) L'entrée à Monaco ou en France d'un bien originaire ou en provenance d'un État ou d'un territoire n'appartenant pas à l'Union européenne, et qui n'a pas été mis en libre pratique, ou bien en provenance d'un territoire visé au 1° de l'article préliminaire bis d'un autre État membre de la Communauté européenne autre que la France.
+- a) L'entrée à Monaco ou en France d'un bien originaire ou en provenance d'un État ou d'un territoire n'appartenant pas à l'Union européenne, et qui n'a pas été mis en libre pratique, ou bien en provenance d'un territoire visé au 1° de l'article préliminaire bis d'un autre État membre de l'Union européenne autre que la France.
 
 - b) La mise à la consommation à Monaco ou en France d'un bien placé, lors de son entrée sur le territoire, sous l'un des régimes suivants prévus par les règlements communautaires en vigueur : conduite en douane, magasins et aires de dépôt temporaire, zone franche, entrepôt franc, entrepôt d'importation, perfectionnement actif, admission temporaire en exonération totale des droits à l'importation, transit externe ou sous le régime du transit communautaire interne.
 

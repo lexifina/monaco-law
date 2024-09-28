@@ -16,8 +16,14 @@ Sont exonérées de la taxe sur la valeur ajoutée :
 
 Toutefois, l'exonération ne s'applique pas :
 
-- a) aux prestations d'hébergement fournies dans les hôtels de tourisme classés et les résidences de tourisme classées lorsque ces dernières sont destinées à l'hébergement des touristes et qu'elles sont louées par un contrat d'une durée d'au moins neuf ans à un exploitant qui a souscrit un engagement de promotion touristique à l'étranger;
+- a) (a abrogé) ;
 
-- b) Aux prestations de mise à disposition d'un local meublé ou garni effectuées à titre onéreux et de manière habituelle, comportant en sus de l'hébergement au moins trois des prestations suivantes, rendues dans des conditions similaires à celles proposées par les établissements d'hébergement à caractère hôtelier exploités de manière professionnelle : le petit déjeuner, le nettoyage régulier des locaux, la fourniture de linge de maison et la réception, même non personnalisée, de la clientèle.
+- b) Aux prestations d'hébergement fournies dans le cadre du secteur hôtelier ou de secteurs ayant une fonction similaire qui remplissent les conditions cumulatives suivantes :
 
-- c)aux locations de locaux nus, meublés ou garnis, consenties par bail ou convention de toute nature à l'exploitant d'un établissement d'hébergement qui remplit les conditions fixées au a) ou au b) ci-dessus.
+  - elles sont offertes au client pour une durée n'excédant pas trente nuitées, sans préjudice des possibilités de reconduction proposées ;
+
+  - elles comprennent la mise à disposition d'un local meublé et au moins trois des prestations suivantes : le petit-déjeuner, le nettoyage régulier des locaux, la fourniture de linge de maison et la réception, même non personnalisée, de la clientèle ;
+
+- b bis) Aux locations de logements meublés à usage résidentiel dans le cadre de secteurs autres que ceux mentionnés au b) qui sont assorties d'au moins trois des prestations suivantes : le petit‑déjeuner, le nettoyage régulier des locaux, la fourniture de linge de maison et la réception, même non personnalisée, de la clientèle ;
+
+- c) aux locations de locaux nus, meublés ou garnis, consenties par bail ou convention de toute nature à l'exploitant d'un établissement d'hébergement qui remplit les conditions fixées au b) ou b bis) ci-dessus.

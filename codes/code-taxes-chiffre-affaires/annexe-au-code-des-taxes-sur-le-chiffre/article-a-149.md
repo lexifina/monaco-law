@@ -1,6 +1,6 @@
 # Article A-149
 
-Le registre des biens prévu au I de l'article 69 du Code des taxes sur le chiffre d'affaires comporte les mentions nécessaires à l'identification de l'expédition ou du transport de biens sur le territoire d'un État membre de la Communauté économique européenne autre que la France et destinés dans cet État à être utilisés à titre temporaire ou à faire l'objet de travail à façon dans les conditions prévues aux a) et b) du III de l'article 1er du code :
+Le registre des biens prévu au I de l'article 69 du Code des taxes sur le chiffre d'affaires comporte les mentions nécessaires à l'identification de l'expédition ou du transport de biens sur le territoire d'un État membre de l'Union européenne autre que la France et destinés dans cet État à être utilisés à titre temporaire ou à faire l'objet de travail à façon dans les conditions prévues aux a) et b) du III de l'article 1er du code :
 
 - a) désignation des biens ou matériaux ;
 

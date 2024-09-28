@@ -14,4 +14,4 @@ Pour les intermédiaires mentionnés au V de l'article 1er et au III de l'articl
 
   - b) ou qui aboutissent à la livraison de produits imposables par des personnes qui ne sont pas redevables de la taxe : à l'exception des opérations portant sur les objets d'occasion et les animaux vivants de boucherie et de charcuterie ;
 
-  - c) ou qui sont réalisées par des personnes établies à Monaco ou en France qui s'entremettent dans la livraison de biens ou l'exécution des services par des redevables qui n'ont pas établi dans la Communauté économique européenne le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle.
+  - c) ou qui sont réalisées par des personnes établies à Monaco ou en France qui s'entremettent dans la livraison de biens ou l'exécution des services par des redevables qui n'ont pas établi dans l'Union européenne le siège de leur activité, un établissement stable, leur domicile ou leur résidence habituelle.

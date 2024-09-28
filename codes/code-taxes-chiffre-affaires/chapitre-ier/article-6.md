@@ -28,6 +28,6 @@ IV. - Le lieu de livraison des biens importés de territoires tiers ou de pays t
 
 V.- Est également réputé se situer à Monaco le lieu des livraisons suivantes :
 
-- 1° La livraison d'un bien qui est importé, lorsque le vendeur recourt à l'option prévue à l'article 86 ter ;
+- 1° La livraison d'un bien qui est importé et les éventuelles livraisons subséquentes, si le redevable de la taxe sur la valeur ajoutée à l'importation est le vendeur de cette première livraison en application du 4° du 2 de l'article 85 ;
 
-- 2° Les éventuelles livraisons subséquentes à celle mentionnée au 1° du présent V.
+- 2° La vente à distance de biens importés ne relevant pas du IV du présent article, sauf dans les cas mentionnés aux b) et c) du 2° du 2 de l'article 85.
