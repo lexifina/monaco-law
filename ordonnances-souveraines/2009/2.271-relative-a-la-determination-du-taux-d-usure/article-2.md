@@ -4,12 +4,12 @@ Le taux moyen déterminé dans les conditions visées à l'article précédent e
 
 Pour les particuliers :
 
-- Découverts : 14,88 %
+- Découverts : 13,66 %
 
-- Prêts personnels : 4,75 %
+- Prêts personnels : 4,96 %
 
-- Prêts immobiliers : 4,91 %
+- Prêts immobiliers : 4,69 %
 
 Pour les entreprises et entrepreneurs individuels :
 
-- Découverts : 8,36 %
+- Découverts : 6,59 %
