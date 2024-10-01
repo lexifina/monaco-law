@@ -1,0 +1,3 @@
+# Article 3
+
+Conformément à l'article 33 de la loi n° 1.544 du 20 avril 2023, susvisée, l'allocation mutuelle est versée à la condition que le montant total des ressources visées au troisième alinéa de l'article 12 de l'Ordonnance Souveraine n° 2.922 du 30 novembre 1962, modifiée, susvisée, dont le retraité et, le cas échéant, son conjoint, ont disposé au cours de l'année civile précédant celle du début de l'exercice de la Caisse Monégasque de Retraite Complémentaire au cours duquel l'allocation est attribuée, n'excède pas les plafonds de ressources prévus au deuxième alinéa de l'article 12 de l'Ordonnance Souveraine n° 2.922 du 30 novembre 1962, modifiée, susvisée.
