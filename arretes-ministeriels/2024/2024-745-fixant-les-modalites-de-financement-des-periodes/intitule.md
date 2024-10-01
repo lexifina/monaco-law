@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-745 du 20 décembre 2024 fixant les modalités de financement des périodes de privation momentanée et involontaire d'emploi en Principauté indemnisées par les employeurs exclus des dispositions de l'arrêté ministériel n° 68-151 du 8 avril 1968, modifié
