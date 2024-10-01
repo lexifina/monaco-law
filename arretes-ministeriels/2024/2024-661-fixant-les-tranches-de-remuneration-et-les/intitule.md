@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-661 du 25 novembre 2024 fixant les tranches de rémunération et les montants mensuels de l'allocation de rémunération unique versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er octobre 2024
