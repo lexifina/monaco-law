@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2023-699 du 11 décembre 2023 fixant les paramètres financiers de la Caisse Monégasque de Retraite Complémentaire
 
-Version en vigueur au 1er janvier 2024.
+Version en vigueur au 1er octobre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/12-11-2023-699@2024.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/12-11-2023-699@2024.10.01/
 
 | | |
 | --- | --- |

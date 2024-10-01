@@ -1,3 +1,3 @@
 # Article 3
 
-Le salaire de référence est fixé à 24,9328 euros.
+Le salaire de référence est fixé à 25,4689 euros à compter du 1er octobre 2024.
