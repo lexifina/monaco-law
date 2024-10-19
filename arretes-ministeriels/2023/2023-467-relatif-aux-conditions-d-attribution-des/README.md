@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2023-467 du 31 juillet 2023 relatif aux conditions d'attribution des logements domaniaux
 
-Version en vigueur au 5 août 2023.
+Version en vigueur au 19 octobre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/07-31-2023-467@2023.08.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/07-31-2023-467@2024.10.19/
 
 | | |
 | --- | --- |
