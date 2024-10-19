@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.095 du 3 décembre 1963 sur la déclaration des maladies contagieuses
 
-Version en vigueur au 15 août 1992.
+Version en vigueur au 19 octobre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1963/12-03-3.095@1992.08.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1963/12-03-3.095@2024.10.19/
 
 | | |
 | --- | --- |
