@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré
 
-Version en vigueur au 10 avril 2021.
+Version en vigueur au 19 octobre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/08-29-3.413@2021.04.10/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2011/08-29-3.413@2024.10.19/
 
 | | |
 | --- | --- |
