@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 7.851 du 6 décembre 1983 instituant un comité de la santé publique et un conseil supérieur médical
+# Ordonnance Souveraine n° 7.851 du 6 décembre 1983 instituant un comité de la santé publique
 
-Version en vigueur au 11 mars 2006.
+Version en vigueur au 19 octobre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1983/12-06-7.851@2006.03.11/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1983/12-06-7.851@2024.10.19/
 
 | | |
 | --- | --- |

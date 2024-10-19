@@ -1,23 +1,19 @@
 # Article 4
 
-Placé sous la Présidence du Ministre d'État, le Comité de Santé publique est composé ainsi que suit :
+Le Comité de la santé publique est composé comme suit :
 
-- le Conseiller de Gouvernement pour les Affaires sociales et la Santé, Vice-Président,
+- 1) le Conseiller de Gouvernement-Ministre des Affaires Sociales et de la Santé, ou son représentant, président ;
 
-- un Conseiller d'État, désigné par le Président du Conseil d'État,
+- 2) le Directeur de l'Action Sanitaire, ou son représentant ;
 
-- le maire ou son représentant,
+- 3) un conseiller d'État, désigné par le président du Conseil d'État ;
 
-- le président du Conseil de l'Ordre des médecins, ou son représentant,
+- 4) le Maire, ou son représentant ;
 
-- le président du collège des chirurgiens-dentistes, ou son représentant,
+- 5) le président du Conseil de l'Ordre de chacune des professions de santé concernées par les dossiers soumis à l'avis du Comité ou son représentant ;
 
-- le président du Conseil de l'Ordre des pharmaciens, ou son représentant,
+- 6) un médecin-inspecteur de la Direction de l'Action Sanitaire désigné par son directeur ;
 
-- le directeur de l'Action sanitaire et sociale ;
+- 7) un pharmacien-inspecteur de la Direction de l'Action Sanitaire désigné par son directeur ;
 
-- le médecin-inspecteurde la direction de l'Action sanitaire et sociale,
-
-- l'inspecteur des pharmacies ;
-
-- le président de la Commission médicale consultative du Centre hospitalier Princesse Grace, ou son représentant.
+- 8) le président de la commission médicale d'établissement du Centre Hospitalier Princesse Grace, ou son représentant, lorsque cet établissement est concerné par les dossiers soumis à l'avis du Comité.

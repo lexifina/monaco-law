@@ -1,5 +1,7 @@
 # Article 3
 
-Le Ministre d'État réunit le comité de la santé publique chaque fois qu'il l'estimera utile.
+Le Comité de la santé publique est convoqué par le Conseiller de Gouvernement-Ministre des Affaires Sociales et de la Santé.
 
-Les dossiers établis à l'intention du comité seront accompagnés le cas échéant de l'avis formulé par le conseil médical supérieur.
+La convocation précise les modalités de la réunion qui peut être organisée en présentiel, par conférence téléphonique ou audiovisuelle ou par tout procédé assurant l'échange d'écrits transmis par voie électronique.
+
+Lorsque la réunion est assurée au moyen d'un procédé assurant l'échange d'écrits transmis par voie électronique, les observations émises par chacun des membres du Comité sont communiquées à l'ensemble des autres membres ou leur sont accessibles, de façon qu'ils puissent répondre dans le délai prévu pour la réunion.
