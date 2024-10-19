@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024‑555 du 10 octobre 2024 modifiant l'arrêté ministériel n° 2019‑795 du 17 septembre 2019 relatif au service sanitaire pour les étudiants de l'Institut de Formation en Soins Infirmiers
