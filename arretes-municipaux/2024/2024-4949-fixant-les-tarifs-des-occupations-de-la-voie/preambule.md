@@ -1,0 +1,1 @@
+Le présent arrêté, publié au Journal de Monaco du 25 octobre 2024, entre en vigueur le 1er janvier 2025. Ses dispositions sont consultables dans la « version à venir » accessible via l'onglet « Historique – voir toutes les versions ».
