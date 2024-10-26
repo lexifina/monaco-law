@@ -4,13 +4,17 @@ La liste des pratiques non conventionnelles participant au mieux-être mentionn�
 
 - art thérapie ;
 
+- bains froids ou bains glacés ;
+
 - coupeur de feu ;
 
 - médiation animale ;
 
-- méditation ;
+- méditation pleine conscience ;
 
-- réflexologie ;
+- modelage Tui Na ;
+
+- réflexologie manuelle ;
 
 - reiki ;
 
