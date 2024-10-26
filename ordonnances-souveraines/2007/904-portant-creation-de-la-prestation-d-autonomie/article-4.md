@@ -21,3 +21,5 @@ S'ajoutent à la prestation d'autonomie :
   - - d'un revenu d'au moins 20 % du revenu-plancher utilisé pour le calcul du ticket modérateur s'agissant d'une personne seule ;
 
   - - et de 20 % par membre du couple.
+
+- 3 - pour les personnes résidant à leur domicile, une participation financière à la prise en charge des gardes itinérantes de nuit, dans la limite des besoins évalués par le Centre de Coordination Gérontologique de Monaco et du coût fixé par arrêté ministériel, pris après avis de la Commission administrative de l'Office de Protection Sociale. Le ticket modérateur demeure applicable.
