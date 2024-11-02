@@ -30,4 +30,6 @@ Cette Direction est chargée :
 
 - 14) d'organiser et d'animer la concertation nécessaire à la diffusion de référentiels et règles générales d'accessibilité et d'utilisation des services numériques ;
 
-- 15) d'assurer la gestion du Service du Registre National Monégasque de l'Identité Numérique.
+- 15) d'assurer la gestion du Service du Registre National Monégasque de l'Identité Numérique ;
+
+- 16) de créer et attribuer une identité numérique aux personnes physiques visées au premier alinéa de l'article 5 de la loi n° 1.483 du 17 décembre 2019 relative à l'identité numérique, en tant que prestataire de services de confiance au sens de la réglementation monégasque en vigueur en la matière.
