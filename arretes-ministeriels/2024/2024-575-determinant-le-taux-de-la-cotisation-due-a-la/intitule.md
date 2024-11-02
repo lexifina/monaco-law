@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-575 du 24 octobre 2024 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2024-2025
