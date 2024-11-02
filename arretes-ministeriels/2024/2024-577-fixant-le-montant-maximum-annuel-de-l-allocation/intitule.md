@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-577 du 24 octobre 2024 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2023-2024
