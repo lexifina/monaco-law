@@ -8,11 +8,9 @@ Les mentions obligatoires des clauses contractuelles stipulées en application d
 
 - 3) les modalités d'exécution du télétravail et notamment :
 
-  - a . les jours pendant lesquels le travail est réalisé sous forme de télétravail,
+  - a. les modalités de détermination préalable des jours pendant lesquels le travail est réalisé sous forme de télétravail avec un minima d'un jour par semaine ;
 
-  - b . les jours pendant lesquels le travail est réalisé dans les locaux de l'employeur,
-
-  - c . l'organisation du temps de travail, à savoir, notamment, le décompte des jours et des heures travaillées et les modalités de vérification ;
+  - b. l'organisation du temps de travail, notamment, le décompte des jours et des heures travaillées et des modalités de vérification ;
 
 - 4) les modalités de protection de la santé et de la sécurité du salarié, notamment toute information utile relative à l'ergonomie du poste de travail ;
 
