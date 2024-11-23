@@ -1,0 +1,1 @@
+Arrêté municipal n° 2024-5354 du 18 novembre 2024 réglementant le stationnement et la circulation des véhicules et des piétons lors de la marche pour la Paix organisée à l'occasion de la 14ème édition du Forum International « Peace & Sport »
