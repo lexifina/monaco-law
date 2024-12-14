@@ -1,8 +1,8 @@
 # Règlement intérieur du Conseil National du 25 novembre 2020
 
-Version en vigueur au 4 janvier 2021.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01@2021.01.04/
+Source : Legimonaco, https://legimonaco.mc/tnc/autre-texte-reglementaire/2020/11-25-R01@2024.12.14/
 
 | | |
 | --- | --- |
