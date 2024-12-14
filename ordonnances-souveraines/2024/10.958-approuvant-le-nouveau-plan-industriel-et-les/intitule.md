@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.958 du 5 décembre 2024 approuvant le nouveau plan industriel et les modalités d'encadrement tarifaire annexés au cahier des charges de la concession de service public des communications électroniques
