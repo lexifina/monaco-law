@@ -40,7 +40,7 @@ Un prestataire de services de confiance qualifié qui fournit des services de co
 
 - - a un plan actualisé d'arrêt par service afin d'assurer la continuité du service conformément aux dispositions vérifiées par l'Agence Monégasque de Sécurité Numérique ;
 
-- - assure le traitement licite de données à caractère personnel conformément à la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée ;
+- - assure le traitement licite de données à caractère personnel conformément à la loi n° 1.565 du 3 décembre 2024 ;
 
 - - au cas où le prestataire de services de confiance qualifié délivre des certificats qualifiés, il établit et tient à jour, une base de données relative aux certificats.
 

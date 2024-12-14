@@ -1,6 +1,6 @@
 # Article 14
 
-Les prestataires de services de confiance qualifiés font l'objet, au moins tous les vingt-quatre mois, d'un audit effectué à leurs frais par un organisme d'évaluation de la conformité visé à l'article 8\. Le but de l'audit est de confirmer que les prestataires de services de confiance qualifiés et les services de confiance qualifiés qu'ils fournissent remplissent les exigences fixées par le Référentiel Général de Sécurité de la Principauté.
+Les prestataires de services de confiance qualifiés font l'objet, au moins tous les vingt-quatre mois, d'un audit effectué à leurs frais par un organisme d'évaluation de la conformité visé à l'article 8. Le but de l'audit est de confirmer que les prestataires de services de confiance qualifiés et les services de confiance qualifiés qu'ils fournissent remplissent les exigences fixées par le Référentiel Général de Sécurité de la Principauté.
 
 Les prestataires de services de confiance qualifiés transmettent le rapport d'évaluation de la conformité à l'Agence Monégasque de Sécurité Numérique dans un délai de trois jours ouvrables qui suivent sa réception.
 
