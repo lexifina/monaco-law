@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2017-578 du 19 juillet 2017 portant application de l'article 8 de la loi n° 1.430 du 13 juillet 2016 portant diverses mesures relatives à la préservation de la sécurité nationale
 
-Version en vigueur au 29 juillet 2017.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/07-19-2017-578@2017.07.29/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/07-19-2017-578@2024.12.14/
 
 | | |
 | --- | --- |
