@@ -1,0 +1,1 @@
+Loi n° 1.566 du 3 décembre 2024 portant approbation de ratification du Protocole d'amendement à la Convention pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel
