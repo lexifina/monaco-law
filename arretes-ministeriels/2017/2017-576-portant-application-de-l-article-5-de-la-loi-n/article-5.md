@@ -8,4 +8,4 @@ Il n'est en outre pas fait droit aux demandes trop générales ou trop imprécis
 
 L'article 26 de l'Ordonnance Souveraine n° 3.413 du 29 août 2011, modifiée, susvisée, est applicable aux décisions de refus d'accès.
 
-Toute personne intéressée peut saisir la Commission de Contrôle des Informations Nominatives de toute difficulté tenant au fonctionnement d'un système de vidéoprotection, aux fins prévues par la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée.
+Toute personne intéressée peut saisir la Commission de Contrôle des Informations Nominatives de toute difficulté tenant au fonctionnement d'un système de vidéoprotection, aux fins prévues par la loi n° 1.565 du 3 décembre 2024.
