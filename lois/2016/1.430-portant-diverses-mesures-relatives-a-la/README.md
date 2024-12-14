@@ -1,8 +1,8 @@
 # Loi n° 1.430 du 13 juillet 2016 portant diverses mesures relatives à la préservation de la sécurité nationale
 
-Version en vigueur au 23 juillet 2016.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2016/07-13-1.430@2016.07.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2016/07-13-1.430@2024.12.14/
 
 | | |
 | --- | --- |

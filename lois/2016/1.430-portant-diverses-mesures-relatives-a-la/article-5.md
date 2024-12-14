@@ -24,7 +24,7 @@ Ces mêmes autorités procèdent également à ces opérations dans des lieux ou
 
 Les opérations de vidéoprotection de la voie publique sont réalisées de telle sorte qu'elles ne permettent pas la visualisation des images de l'intérieur privatif des immeubles d'habitation.
 
-L'installation d'un système de vidéoprotection est subordonnée à une autorisation du Ministre d'État, dans le respect des dispositions de la loi n° 1.165 du 23 décembre 1993, modifiée. Cette autorisation peut être assortie de prescriptions particulières tenant notamment :
+L'installation d'un système de vidéoprotection est subordonnée à une autorisation du Ministre d'État, dans le respect des dispositions de la loi n° 1.565 du 3 décembre 2024. Cette autorisation peut être assortie de prescriptions particulières tenant notamment :
 
 - - à la qualité des personnes chargées de l'exploitation du système de vidéoprotection ou du visionnage des images ;
 
