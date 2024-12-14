@@ -4,9 +4,9 @@ L'I.M.S.E.E. est chargé d'assurer, pour le compte des personnes, Autorités et 
 
 - 1. mettre en place un système d'information statistique sur la structure et l'activité de la Principauté ;
 
-- 2. réaliser des enquêtes statistiques, dont la liste est fixée chaque année par arrêté ministériel sur avis du Conseil Scientifique de la Statistique et des Études Économiques;
+- 2. réaliser des enquêtes statistiques, dont la liste est fixée chaque année par arrêté ministériel sur avis du Conseil Scientifique de la Statistique et des Études Économiques ;
 
-- 3. exploiter, rapprocher et produire, dans le sens de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée, à des fins statistiques des renseignements collectés auprès des services de l'État, de la Mairie, des personnes morales de droit public et de droit privé disposant d'informations utiles à l'accomplissement de ses missions, en vue de l'établissement de statistiques publiques lesquelles regroupent l'ensemble des productions issues des enquêtes et de l'exploitation, à des fins d'information générale, de données détenues par les personnes et organismes susmentionnés.
+- 3. exploiter, rapprocher et produire, dans le sens de la loi n° 1.565 du 3 décembre 2024, à des fins statistiques des renseignements collectés auprès des services de l'État, de la Mairie, des personnes morales de droit public et de droit privé disposant d'informations utiles à l'accomplissement de ses missions, en vue de l'établissement de statistiques publiques lesquelles regroupent l'ensemble des productions issues des enquêtes et de l'exploitation, à des fins d'information générale, de données détenues par les personnes et organismes susmentionnés.
 
 - 4. coordonner des méthodes, des moyens et des nomenclatures statistiques utilisés à Monaco ;
 
