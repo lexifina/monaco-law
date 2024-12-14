@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.504 du 18 février 2021 portant application de l'article 24 de la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique
 
-Version en vigueur au 3 février 2024.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/02-18-8.504@2024.02.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/02-18-8.504@2024.12.14/
 
 | | |
 | --- | --- |
