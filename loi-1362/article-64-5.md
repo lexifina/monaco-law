@@ -1,6 +1,6 @@
 # Article 64-5
 
-Le droit d'accès et de rectification aux informations figurant dans le registre des comptes bancaires et des coffres-forts concernant le titulaire des comptes et contrats visés à l'article 64-1 s'exerce dans les conditions de l'article 15 de la loi n° 1.165 du 23 décembre 1993, modifiée.
+Le droit d'accès et de rectification aux informations figurant dans le registre des comptes bancaires et des coffres-forts concernant le titulaire des comptes et contrats visés à l'article 64-1 s'exerce dans les conditions de l'article 12 de la loi n° 1.565 du 3 décembre 2024.
 
 Lorsque des rectifications sont à apporter, la demande doit ensuite en être faite par le titulaire ou ses ayants droits directement auprès de l'établissement bancaire de domiciliation du ou des comptes ou contrats concernés.
 

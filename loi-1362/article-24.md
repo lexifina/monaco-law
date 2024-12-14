@@ -8,4 +8,4 @@ Ces canaux sécurisés garantissent la confidentialité des communications. Les 
 
 La durée maximale de conservation des demandes d'information visées à l'alinéa précédent est d'un an.
 
-Les informations conservées en application du présent article sont accessibles par les personnes concernées dans les conditions prévues à l'article 15-1 de la loi n° 1.165 du 23 décembre 1993 relative à la protection des informations nominatives, modifiée.
+Les informations conservées en application du présent article sont accessibles par les personnes concernées dans les conditions prévues à l'article 74 de la loi n° 1.565 du 3 décembre 2024 relative à la protection des données personnelles.

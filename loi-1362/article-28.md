@@ -4,6 +4,6 @@ Les organismes et les personnes visés aux articles premier et 2 établis sur le
 
 Ces informations ne peuvent être transmises par les organismes et les personnes visés aux chiffres 1°) à 4°) de l'article premier à des personnes extérieures au groupe, à l'exception de l'autorité de supervision de la société mère, qu'avec l'accord préalable de la personne ou de l'organisme concerné.
 
-Les dispositions du présent article sont applicables sans préjudice de la loi n° 1.165 du 23 décembre 1993, modifiée.
+Les dispositions du présent article sont applicables sans préjudice de la loi n° 1.565 du 3 décembre 2024.
 
 Les procédures internes de l'établissement monégasque définissent les modalités de circulation, au sein du groupe, des informations nécessaires à l'organisation de la lutte contre le blanchiment de capitaux et le financement du terrorisme et de la prolifération des armes de destruction massive.

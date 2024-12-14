@@ -10,7 +10,7 @@ L'information n'est communiquée qu'aux conditions suivantes :
 
 - les cellules de renseignement financier étrangères sont soumises à des obligations de secret professionnel équivalentes à celles auxquelles le service exerçant la fonction de renseignement financier de l'Autorité est légalement tenu ;
 
-- le traitement des informations communiquées garantit un niveau de protection adéquat conformément aux dispositions de la loi n° 1.165 du 23 décembre 1993, modifiée.
+- le traitement des informations communiquées garantit un niveau de protection adéquat conformément aux dispositions de la loi n° 1.565 du 3 décembre 2024.
 
 Le service exerçant la fonction de renseignement financier de l'Autorité donne rapidement et dans la plus large mesure possible, son accord préalable à la transmission par la cellule de renseignement financier homologue étrangère à ses autorités compétentes, des informations qu'il lui communique, quelle que soit la nature de l'infraction sous-jacente associée.
 
