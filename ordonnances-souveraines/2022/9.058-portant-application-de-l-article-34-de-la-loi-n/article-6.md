@@ -1,6 +1,6 @@
 # Article 6
 
-La conservation des données mentionnées à l'article premier doit être réalisée dans le respect des prescriptions de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée, notamment en ce qui concerne les prescriptions relatives à la sécurité des informations.
+La conservation des données mentionnées à l'article premier doit être réalisée dans le respect des prescriptions de la loi n° 1.565 du 3 décembre 2024, notamment en ce qui concerne les prescriptions relatives à la sécurité des informations.
 
 Les conditions de la conservation doivent permettre d'extraire les données dans les meilleurs délais pour répondre à une demande des autorités judiciaires et administratives.
 
