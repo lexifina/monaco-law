@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2010-653 du 27 décembre 2010 relatif à la délivrance des cartes tachygraphiques et aux obligations des entreprises
 
-Version en vigueur au 17 août 2013.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/12-27-2010-653@2013.08.17/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2010/12-27-2010-653@2024.12.14/
 
 | | |
 | --- | --- |

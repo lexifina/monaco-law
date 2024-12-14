@@ -2,7 +2,7 @@
 
 Les entreprises entrant dans le champ d'application du présent arrêté doivent, dans les conditions fixées par le règlement (C.E.E.) n° 3821-85 du 20 décembre 1985 modifié, susvisé, opérer un téléchargement, tel que défini à l'appendice 7 de l'annexe 1 B de ce règlement, des données électroniques contenues, d'une part, dans la mémoire de l'appareil de contrôle électronique dit "chronotachygraphe' de l'ensemble des véhicules utilisés et, d'autre part, dans les cartes de l'ensemble de ses conducteurs.
 
-Les entreprises procèdent au téléchargement afin de garantir la sécurité et l'exactitude des données conformément à la loi n° 1.165, modifiée, susvisée.
+Les entreprises procèdent au téléchargement afin de garantir la sécurité et l'exactitude des données conformément à la loi n° 1.565 du 3 décembre 2024.
 
 L'entreprise doit être en mesure de remettre sur support numérique une copie des fichiers résultant du téléchargement des données issues du chronotachygraphe numérique de l'ensemble des véhicules utilisés et des cartes de l'ensemble de ses conducteurs aux agents en charge du contrôle et à leur demande.
 
