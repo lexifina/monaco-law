@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2003-164 du 3 mars 2003 relatif à la pharmacovigilance exercée sur les médicaments dérivés du sang humain
 
-Version en vigueur au 15 mars 2003.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/03-03-2003-164@2003.03.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2003/03-03-2003-164@2024.12.14/
 
 | | |
 | --- | --- |
