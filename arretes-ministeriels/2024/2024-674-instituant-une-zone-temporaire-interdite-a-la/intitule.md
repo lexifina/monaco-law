@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-674 du 5 décembre 2024 instituant une zone temporaire interdite à la baignade dans l'espace maritime de la Réserve du Larvotto, à l'occasion des travaux d'enlèvement des géotubes et de la création d'un îlot rocheux
