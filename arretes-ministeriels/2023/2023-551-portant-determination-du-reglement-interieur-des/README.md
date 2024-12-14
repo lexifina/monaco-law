@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2023-551 du 21 septembre 2023 portant détermination du règlement intérieur des parkings publics
 
-Version en vigueur au 1er novembre 2023.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/09-21-2023-551@2023.11.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2023/09-21-2023-551@2024.12.14/
 
 | | |
 | --- | --- |
