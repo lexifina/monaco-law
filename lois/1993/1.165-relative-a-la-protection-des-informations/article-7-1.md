@@ -1,9 +1,0 @@
-# Article 7-1
-
-Les responsables de traitements, personnes physiques ou morales, ne peuvent mettre en œuvre des traitements automatisés d'informations nominatives ayant pour fin la recherche dans le domaine de la santé qu'après avis motivé de la commission de contrôle des informations nominatives. Préalablement au prononcé de cet avis, celle-ci peut, dans des conditions fixées par ordonnance souveraine, consulter un service public compétent dans le domaine de la santé. Cette consultation suspend le délai imparti à la commission de contrôle des informations nominatives pour rendre son avis.
-
-Si l'avis de la commission est défavorable, le responsable du traitement ne peut le mettre en œuvre qu'après y avoir été autorisé par arrêté ministériel motivé.
-
-Ces dispositions ne sont pas applicables aux responsables de traitements agissant dans le cadre de recherches biomédicales telles que définies dans la loi n° 1.265 du 23 décembre 2002 relative à la protection des personnes dans la recherche biomédicale. Les traitements mis en œuvre dans ce cadre restent soumis, selon les cas, aux dispositions des articles 6 ou 7.
-
-Dans tous les cas, le dossier produit à l'appui de la demande d'avis ou de la déclaration doit comporter, en sus des éléments prévus à l'article 8, la mention de l'objectif de la recherche, de la population concernée, de la méthode d'observation ou d'investigation retenue, de la justification du recours aux informations nominatives traitées, de la durée et des modalités d'organisation de la recherche, de la méthode d'analyse des données, ainsi que, le cas échéant, de l'avis émis par le comité consultatif d'éthique en matière de recherche biomédicale institué par la loi n° 1.265 du 23 décembre 2002. La commission de contrôle des informations nominatives est tenue par les termes de cet avis.
