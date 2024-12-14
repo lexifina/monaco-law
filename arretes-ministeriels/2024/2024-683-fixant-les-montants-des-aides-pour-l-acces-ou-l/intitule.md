@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-683 du 5 décembre 2024 fixant les montants des aides pour l'accès ou l'accompagnement au retour à l'emploi et du plafond mensuel de ressources pour en bénéficier en application de la loi n° 1.501 du 11 décembre 2020
