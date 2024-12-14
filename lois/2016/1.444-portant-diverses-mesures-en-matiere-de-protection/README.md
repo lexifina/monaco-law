@@ -1,8 +1,8 @@
 # Loi n° 1.444 du 19 décembre 2016 portant diverses mesures en matière de protection des informations nominatives et de confidentialité dans le cadre de l'échange automatique de renseignements en matière fiscale
 
-Version en vigueur au 24 décembre 2016.
+Version en vigueur au 14 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2016/12-19-1.444@2016.12.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2016/12-19-1.444@2024.12.14/
 
 | | |
 | --- | --- |
