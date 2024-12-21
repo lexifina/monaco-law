@@ -4,7 +4,7 @@ Sont interdites de pêche les espèces suivantes :
 
 - 1° oursin diadème (Centrostephanus longispinus) ;
 
-- 2° mérou brun (Epinephelus marginatus) et corb commun (Sciaena umbra) ;
+- 2° mérou brun (Epinephelus marginatus), mérou royal (Mycteroperca rubra), mérou blanc (Epinephelus aeneus) ; mérou gris (Epinephelus caninus), la badèche (Epinephelus costae) et corb commun (Sciaena umbra) ;
 
 - 3° homard (Homarus gammarus) et langouste (Palinuridae) du 15 août au 15 février pour les homards et langoustes mâles ou non œuvés ; Les femelles de langoustes et de homards œuvées sont immédiatement remises à la mer en cas de capture accidentelle ;
 
