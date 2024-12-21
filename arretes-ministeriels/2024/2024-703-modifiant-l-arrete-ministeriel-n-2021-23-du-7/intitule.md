@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-703 du 5 décembre 2024 modifiant l'arrêté ministériel n° 2021-23 du 7 janvier 2021 fixant la durée de prescription des médicaments à base de tramadol administrés par voie orale
