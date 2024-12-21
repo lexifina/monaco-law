@@ -1,7 +1,19 @@
 # Article 1er
 
-Un masseur-kinésithérapeute autorisé par arrêté ministériel à exercer sa profession à titre libéral, dénommé masseur-kinésithérapeute titulaire, peut s'associer avec un ou deux masseurs-kinésithérapeutes, dénommés masseurs-kinésithérapeutes associés.
+Un masseur-kinésithérapeute autorisé par arrêté ministériel à exercer sa profession à titre libéral, dénommé masseur-kinésithérapeute titulaire, peut s'associer avec un ou deux masseurs-kinésithérapeutes, dénommés masseurs-kinésithérapeutes associés, à condition de disposer d'un lieu d'exercice professionnel adapté à l'exercice en association.
 
-L'autorisation d'exercer la masso-kinésithérapie en association, à titre libéral, est délivrée au masseur-kinésithérapeute associé par arrêté ministériel.
+L'autorisation d'exercer la profession de masseur-kinésithérapeute en qualité de masseur-kinésithérapeute associé peut être délivrée à la personne physique qui remplit les conditions suivantes :
 
-Cette autorisation est personnelle et incessible.
+- 1) être titulaire des diplômes, certificats ou titres permettant l'exercice de la profession de masseur-kinésithérapeute sur le territoire français ou délivrés conformément aux obligations communautaires par un État membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen et permettant l'exercice de la profession de masseur-kinésithérapeute dans cet État ;
+
+- 2) ne pas avoir été condamnée à une peine privative de liberté ;
+
+- 3) offrir toutes les garanties d'honorabilité et de moralité ;
+
+- 4) justifier d'une connaissance suffisante de la langue française.
+
+Cette autorisation est délivrée par arrêté ministériel, après avis motivé d'une association ayant pour objet statutaire la défense de la profession de masseur-kinésithérapeute.
+
+Elle est personnelle et incessible.
+
+L'exercice de la profession de masseur-kinésithérapeute en qualité de masseur-kinésithérapeute associé ne peut avoir lieu qu'à titre libéral.
