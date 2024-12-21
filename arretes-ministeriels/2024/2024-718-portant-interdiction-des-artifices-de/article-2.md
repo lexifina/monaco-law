@@ -1,0 +1,3 @@
+# Article 2
+
+Le Conseiller de Gouvernement-Ministre de l'Intérieur, le Conseiller de Gouvernement-Ministre des Finances et de l'Économie et le Conseiller de Gouvernement-Ministre de l'Équipement, de l'Environnement et de l'Urbanisme sont chargés de l'exécution du présent arrêté.

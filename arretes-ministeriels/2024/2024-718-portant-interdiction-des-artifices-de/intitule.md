@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024‑718 du 16 décembre 2024 portant interdiction des artifices de divertissement et articles pyrotechniques sur le territoire de la Principauté à l'occasion des festivités de la Saint-Sylvestre 2024
