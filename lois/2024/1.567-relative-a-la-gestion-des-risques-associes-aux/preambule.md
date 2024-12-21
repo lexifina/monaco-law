@@ -1,0 +1,1 @@
+La présente loi, publiée au Journal de Monaco du 20 décembre 2024, entre en vigueur le 20 mars 2025. Ses dispositions sont consultables dans la « version à venir » accessible via l'onglet « Historique – voir toutes les versions ».
