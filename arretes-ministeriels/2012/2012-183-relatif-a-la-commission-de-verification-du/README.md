@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2012-183 du 5 avril 2012 relatif à la Commission de vérification du diplôme de médecin
 
-Version en vigueur au 2 janvier 2016.
+Version en vigueur au 21 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-05-2012-183@2016.01.02/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2012/04-05-2012-183@2024.12.21/
 
 | | |
 | --- | --- |
