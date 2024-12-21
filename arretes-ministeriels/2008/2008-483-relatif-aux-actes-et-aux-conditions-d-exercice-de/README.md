@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2008-483 du 1er septembre 2008 relatif aux actes et aux conditions d'exercice de l'ostéopathie
 
-Version en vigueur au 3 juillet 2021.
+Version en vigueur au 21 décembre 2024.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2008/09-01-2008-483@2021.07.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2008/09-01-2008-483@2024.12.21/
 
 | | |
 | --- | --- |
