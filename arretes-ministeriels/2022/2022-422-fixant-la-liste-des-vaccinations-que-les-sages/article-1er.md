@@ -38,6 +38,8 @@ La liste des vaccinations qu'une sage-femme peut prescrire ou pratiquer chez la 
 
 - 18) vaccination contre la fièvre jaune ;
 
-- 19) vaccination contre le zona.
+- 19) vaccination contre le zona ;
+
+- 20) vaccination contre les infections à virus respiratoire syncitial chez la femme enceinte entre la trente-deuxième et la trente-sixième semaine d'aménorrhée.
 
 Pour ces vaccinations, la sage-femme prescrit ou utilise des vaccins monovalents ou associés.
