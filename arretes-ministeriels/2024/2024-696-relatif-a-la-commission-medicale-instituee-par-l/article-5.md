@@ -1,0 +1,5 @@
+# Article 5
+
+L'avis de la commission médicale mentionnée à l'article premier est transmis par son Président, dans un délai de deux mois à compter de sa saisine, à l'autorité qui l'a saisie.
+
+Ce délai est prolongé de un mois lorsque la commission estime nécessaire de soumettre l'intéressé, avec son consentement, à des examens ou analyses médicaux.
