@@ -1,6 +1,6 @@
 # Article 8
 
-Pour être engagé, l'apprenti doit être âgé de seize ans au moins et de vingt-six ans au plus au début de l'apprentissage.
+Pour être engagé, l'apprenti doit être âgé de seize ans au moins et de vingt-neuf ans au plus au début de l'apprentissage.
 
 Les jeunes âgés d'au moins quinze ans peuvent toutefois être liés par un contrat d'apprentissage, s'ils justifient avoir effectué la scolarité du premier cycle de l'enseignement secondaire.
 
