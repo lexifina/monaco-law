@@ -1,12 +1,10 @@
 # Article 1er
 
-Seuls les candidats préalablement inscrits auprès d'une école de conduite sont éligibles à se présenter devant l'Inspecteur des permis de conduire ou son adjoint et conformément aux dispositions du Code de la route, pour passer un examen comprenant :
+Seuls les candidats préalablement inscrits auprès d'une école de conduite sont éligibles à se présenter, conformément aux dispositions du Code de la route, à un examen comprenant :
 
-- - Une épreuve théorique d'admissibilité portant sur leur connaissance des règlements concernant la circulation et la conduite du véhicule ainsi que sur le comportement du conducteur.
+- - Une épreuve théorique d'admissibilité, devant l'Inspecteur des permis de conduire, son adjoint ou l'un des trois agents spécialement désignés par le Chef du Service des Titres de Circulation, portant sur leur connaissance des règlements concernant la circulation et la conduite du véhicule ainsi que sur le comportement du conducteur. Cette épreuve peut être présentée deux mois avant l'âge requis pour l'obtention du permis ;
 
-- - L'épreuve théorique peut être présentée deux mois avant l'âge requis pour l'obtention du permis.
-
-- - Une épreuve pratique d'admission permettant d'apprécier leur aptitude, leur comportement et leur connaissance des règles de conduite des véhicules de la catégorie ou de la sous-catégorie pour laquelle le permis est sollicité.
+- - Une épreuve pratique d'admission, devant l'Inspecteur des permis de conduire ou son Adjoint, permettant d'apprécier leur aptitude, leur comportement et leur connaissance des règles de conduite des véhicules de la catégorie ou de la sous-catégorie pour laquelle le permis est sollicité.
 
 Seuls peuvent subir l'épreuve pratique les candidats ayant obtenu un résultat favorable à l'épreuve théorique.
 
