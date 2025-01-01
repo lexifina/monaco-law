@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2024-737 du 19 décembre 2024 fixant le barème servant à la détermination du capital représentatif de la rente accident du travail allouée aux fonctionnaires et agents de l'État et de la Commune
