@@ -1,0 +1,3 @@
+# Article 11‑0 A
+
+Par dérogation au 2° de l'article 11, ne sont pas situées à Monaco les prestations de services ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités, lorsque ces activités sont diffusées ou mises à disposition virtuellement au bénéfice d'une personne non assujettie qui n'est pas établie ou n'a pas son domicile ou sa résidence habituelle à Monaco.

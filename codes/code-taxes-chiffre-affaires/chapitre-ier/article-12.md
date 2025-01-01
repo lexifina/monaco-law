@@ -24,7 +24,7 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - 5° Lorsqu'elles sont matériellement exécutées ou ont effectivement lieu à Monaco :
 
-  - a) Les prestations de services fournies à une personne non assujettie ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités ;
+  - a) Les prestations de services fournies à une personne non assujettie ayant pour objet des activités culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions, y compris les prestations de services des organisateurs de telles activités, ainsi que les prestations de services accessoires à ces activités, à la condition que ces activités ne soient pas diffusées ou mises à disposition virtuellement ;
 
   - b) Les ventes à consommer sur place ;
 
@@ -38,7 +38,7 @@ Par dérogation à l'article 11, est situé à Monaco le lieu des prestations de
 
 - Dans le cas d'un transport aller-retour, le trajet de retour est considéré comme un transport distinct ;
 
-- 5° bis Les prestations de services fournies à un assujetti, ainsi que celles qui leur sont accessoires, consistant à donner accès à des manifestations culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions lorsque ces manifestations ont effectivement lieu à Monaco ;
+- 5° bis Les prestations de services fournies à un assujetti, ainsi que celles qui leur sont accessoires, consistant à donner accès, autrement que par une présence virtuelle, à des manifestations culturelles, artistiques, sportives, scientifiques, éducatives, de divertissement ou similaires, telles que les foires et les expositions lorsque ces manifestations ont effectivement lieu à Monaco ;
 
 - 6° Lorsqu'elles sont matériellement exécutées à Monaco ou en France au profit d'une personne non assujettie :
 

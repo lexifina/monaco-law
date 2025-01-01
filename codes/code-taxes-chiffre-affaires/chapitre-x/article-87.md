@@ -1,37 +1,29 @@
 # Article 87
 
-I - Pour leurs livraisons de biens et leurs prestations de services, les assujettis établis à Monaco, à l'exclusion des redevables qui exercent une activité occulte, bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée, lorsqu'ils n'ont pas réalisé :
+I.- Pour leurs livraisons de biens et leurs prestations de services, les assujettis établis à Monaco bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée lorsqu'ils n'ont pas réalisé à Monaco un chiffre d'affaires, évalué dans les conditions prévues à l'article 89, excédant les plafonds suivants :
 
-- 1° Un chiffre d'affaires supérieur à :
+(En euros.)
 
-  - a) 91 900 € l'année civile précédente ;
+Année d'évaluation | Chiffre d'affaires national total | Chiffre d'affaires national afférent aux prestations de services autres que les ventes à consommer sur place et les prestations d'hébergement
 
-  - b) Ou 101 000 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a) ;
+Année civile précédente | 85 000 | 37 500
 
-- 2° Et un chiffre d'affaires afférent à des prestations de services, hors ventes à consommer sur place et prestations d'hébergement, supérieur à :
+Année en cours | 93 500 | 41 250
 
-  - a) 36 800 € l'année civile précédente ;
+II.-A.- Les auteurs d'œuvres de l'esprit et les artistes-interprètes assujettis et établis à Monaco bénéficient d'une franchise qui les dispense du paiement de la taxe sur la valeur ajoutée lorsqu'ils n'ont pas réalisé à Monaco un chiffre d'affaires, évalué dans les conditions prévues à l'article 89, excédant les plafonds suivants :
 
-  - b) Ou 39 100 € l'année civile précédente, lorsque le chiffre d'affaires de la pénultième année n'a pas excédé le montant mentionné au a).
+(En euros.)
 
-II - 1. Le I cesse de s'appliquer :
+Année d'évaluation | Chiffre d'affaires national afférent aux opérations mentionnées au B du présent II | Chiffre d'affaires national afférent aux opérations autres que celles mentionnées au B du présent II
 
-- a) Aux assujettis dont le chiffre d'affaires de l'année en cours dépasse le montant mentionné au b) du 1° du I ;
+Année civile précédente | 50 000 | 35 000
 
-- b) Ou à ceux dont le chiffre d'affaires de l'année en cours afférent à des prestations de services hors ventes à consommer sur place et prestations d'hébergement, dépasse le montant mentionné au b) du 2° du I.
+Année en cours | 55 000 | 38 500
 
-2. Les assujettis visés au 1 deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
+B.- Les opérations prises en compte pour les besoins des plafonds mentionnés à la deuxième colonne du tableau du second alinéa du A du présent II sont les suivantes :
 
-III. - Le chiffre d'affaires limite de la franchise prévue au I est fixé à 47 700 € :
+- 1° Les livraisons par les auteurs d'œuvres de l'esprit, à l'exception des architectes, de leurs œuvres désignées à l'article 2 de l'Ordonnance Souveraine du 27 février 1889 sur la protection des œuvres littéraires et artistiques et la cession des droits patrimoniaux qui leur sont reconnus par la même ordonnance ;
 
-- 1. Pour la livraison de leurs œuvres désignées à l'article 2 de l'ordonnance souveraine du 27 février 1989 sur la propriété littéraire et artistique et la cession des droits patrimoniaux qui leur sont reconnus par la loi par les auteurs d'œuvres de l'esprit, à l'exception des architectes.
+- 2° Les opérations relatives à l'exploitation des droits patrimoniaux qui sont reconnus par la même ordonnance aux artistes-interprètes définis comme étant des personnes qui représentent, chantent, récitent, déclament, jouent ou exécutent de toute autre manière une œuvre littéraire ou artistique, un numéro de variété, de cirque ou de marionnettes.
 
-- 2. Pour l'exploitation des droits patrimoniaux qui sont reconnus par la loi aux artistes-interprètes définis comme étant des personnes qui représentent, chantent, récitent, déclament, jouent ou exécutent de tout autre manière une œuvre littéraire ou artistique, un numéro de variété, de cirque ou de marionnettes.
-
-IV. - Pour leurs livraisons de biens et leurs prestations de services qui n'ont pas bénéficié de l'application de la franchise prévue au III, ces assujettis bénéficient également d'une franchise lorsque le chiffre d'affaires correspondant réalisé au cours de l'année civile précédente n'excède pas 19 600 € .
-
-Cette disposition ne peut pas avoir pour effet d'augmenter le chiffre d'affaires limite de la franchise afférente aux opérations mentionnées au 1 ou au 2 du III.
-
-V. - Les dispositions du III et du IV cessent de s'appliquer aux assujettis dont le chiffre d'affaires de l'année en cours dépasse respectivement 58 600 € et 23 700 € . Ils deviennent redevables de la taxe sur la valeur ajoutée pour les prestations de services et pour les livraisons de biens effectuées à compter du premier jour du mois au cours duquel ces chiffres d'affaires sont dépassés.
-
-VI - Les seuils mentionnés aux I à V sont actualisés tous les trois ans par arrêté ministériel. La première révision triennale prend effet à compter du 1er janvier 2017.
+III.- Lorsque l'un des plafonds de chiffre d'affaires prévus aux I ou II du présent article pour les opérations de l'année en cours est dépassé, la franchise cesse de s'appliquer pour les opérations intervenant à compter de la date de dépassement.

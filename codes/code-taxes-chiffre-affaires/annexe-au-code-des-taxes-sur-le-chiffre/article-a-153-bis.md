@@ -38,7 +38,7 @@ I. - Les mentions obligatoires qui doivent figurer sur les factures en applicati
 
 - 18° de manière distincte, le prix d'adjudication du bien, les droits, prélèvements et taxes ainsi que les frais accessoires tels que les frais de commission, d'emballage, de transport et d'assurance demandés par l'organisateur à l'acheteur du bien, pour les livraisons aux enchères publiques visées au d du 1 du I de l'article 71 du Code des taxes effectuées par un organisateur de ventes aux enchères publiques agissant en son nom propre, soumises au régime de la marge bénéficiaire mentionné à l'article 93 A du même code. Cette facture ne doit pas mentionner de taxe sur la valeur ajoutée.
 
-II. - Les factures dont le montant est inférieur ou égal à 150 € hors taxe ainsi que celles mentionnées au 5 du I de l'article 71 du Code des taxes peuvent ne pas comporter les mentions énoncées aux 2° et 12° du I du présent article.
+II. - Les factures dont le montant est inférieur ou égal à 150 € hors taxe ainsi que celles établies par les assujettis bénéficiant du régime de franchise en base prévu à l'article 87 du Code des taxes et celles mentionnées au 5 du I de l'article 71 du même code peuvent ne pas comporter les mentions énoncées aux 2° et 12° du I du présent article.
 
 Les dispositions du premier alinéa ne s'appliquent pas :
 

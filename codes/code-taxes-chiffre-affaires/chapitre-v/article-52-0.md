@@ -62,19 +62,11 @@ Lorsque ces prestations sont comprises dans une offre, composée ou non de plusi
 
 H. - Les cessions de droits patrimoniaux portant sur des œuvres cinématographiques représentées au cours des séances de spectacles cinématographiques mentionnées à l'article 56 du code des taxes sur le chiffre d'affaires ou dans le cadre de festivals de cinéma.
 
-I- 1° Les importations d'œuvres d'art, d'objets de collection ou d'antiquité, ainsi que sur les acquisitions intracommunautaires, effectuées par un assujetti ou une personne morale non assujettie, d'œuvres d'art, d'objets de collection ou d'antiquité qu'ils ont importés sur le territoire d'un État membre de l'Union européenne autre que la France ;
-
-2° Les acquisitions intracommunautaires d'œuvres d'art qui ont fait l'objet d'une livraison dans un État membre autre que la France par d'autres assujettis que des assujettis revendeurs ;
-
-3° Les livraisons d'œuvres d'art effectuées par leur auteur ou ses ayants droit.
+I.- Les livraisons d'œuvres d'art ou d'objets de collection ou d'antiquité au sens du second alinéa du 1° du I de l'article 93 A, sauf lorsque la base d'imposition est déterminée dans les conditions prévues au même article 93 A.
 
 J. - Les droits d'entrée perçus par les organisateurs de réunions sportives.
 
 K. - (K abrogé).
-
-K bis- Les masques et les tenues de protection adaptés à la lutte contre la propagation du virus COVID-19 dont la liste et les caractéristiques sont fixées par arrêté ministériel.
-
-K ter- Les produits destinés à l'hygiène corporelle et adaptés à la lutte contre la propagation du virus COVID-19 dont les caractéristiques sont fixées par arrêté ministériel.
 
 L. - Les droits d'entrée pour la visite des parcs zoologiques.
 

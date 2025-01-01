@@ -16,7 +16,7 @@ IV. - Le numéro individuel d'identification n'est pas attribué ou est invalid�
 
 - 4° Des modifications de données n'ont pas été communiquées ;
 
-- 5° L'obligation de représentation par un assujetti établi à Monaco accrédité auprès de la Direction des Services fiscaux, en application des I. ou II. de l'article 72 du Code des taxes sur le chiffre d'affaires, a cessé d'être respectée.
+- 5° L'obligation de représentation par un assujetti établi à Monaco accrédité auprès de la Direction des Services fiscaux, en application du I de l'article 72 du Code des taxes sur le chiffre d'affaires, a cessé d'être respectée.
 
 V.- Lorsqu'il existe des indices concordants indiquant que ce numéro est utilisé par un opérateur identifié qui savait ou ne pouvait ignorer être impliqué dans une fraude visant à ne pas reverser la taxe due à Monaco ou dans l'Union européenne, il peut être invalidé dans la base de données des assujettis établis dans les États membres par l'administration :
 
