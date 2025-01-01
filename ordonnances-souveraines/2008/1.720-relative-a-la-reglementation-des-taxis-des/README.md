@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise et des motos à la demande
 
-Version en vigueur au 13 avril 2024.
+Version en vigueur au 1er janvier 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/07-04-1.720@2024.04.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/07-04-1.720@2025.01.01/
 
 | | |
 | --- | --- |
