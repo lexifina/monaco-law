@@ -1,0 +1,12 @@
+# Arrêté ministériel n° 2024-735 du 19 décembre 2024 fixant les modalités de calcul de la rente accident du travail allouée aux fonctionnaires et agents de l'État et de la Commune
+
+Version en vigueur au 1er janvier 2025.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2024/12-19-2024-735@2025.01.01/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 19 décembre 2024 |
+| Publication | Journal de Monaco du 27 décembre 2024 |
