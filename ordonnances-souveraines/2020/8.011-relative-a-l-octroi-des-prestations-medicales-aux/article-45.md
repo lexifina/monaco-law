@@ -8,8 +8,8 @@ Le volet n° 2 comporte les préconisations du praticien prescripteur et la pres
 
 Les transmissions prévues aux alinéas précédents sont effectuées :
 
-1°) en cas d'interruption de travail initiale, dans les quarante-huit heures suivant l'interruption effective des fonctions ;
+- 1°) en cas d'interruption de travail initiale, dans les quarante-huit heures suivant l'interruption effective des fonctions ;
 
-2°) en cas de prolongation de l'interruption de travail, au plus tard quarante-huit heures avant le terme de l'arrêt précédent la nouvelle interruption.
+- 2°) en cas de prolongation de l'interruption de travail, au plus tard quarante-huit heures avant le terme de l'arrêt précédent la nouvelle interruption.
 
 En cas de non-respect de ces délais de transmission, le Service des Prestations Médicales de l'État ne prend pas en charge au titre de la maladie la prescription d'interruption de travail initiale ou sa prolongation.
