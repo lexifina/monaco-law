@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.050 du 22 janvier 2025 modifiant l'Ordonnance Souveraine n° 9.640 du 23 décembre 2022 portant dispositions générales de caractère statutaire applicables aux agents contractuels de l'État, modifiée
