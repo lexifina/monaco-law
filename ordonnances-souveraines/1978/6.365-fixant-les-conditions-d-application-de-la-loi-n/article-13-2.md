@@ -1,3 +1,3 @@
 # Article 13-2
 
-Les dispositions de l'article 8 s'appliquent au jury de sélection du concours externe.
+Les articles 6 à 13-2 ne sont pas applicables aux nominations aux emplois supérieurs visés au second alinéa de l'article 4 de la loi n° 975 du 12 juillet 1975, modifiée.
