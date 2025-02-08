@@ -1,27 +1,27 @@
 # Article 43-1
 
-Les montants maximums mensuels de chaque allocation, versés par l'Office de Protection Sociale, sont fixés comme suit, à compter du 1er janvier 2024 :
+Les montants maximums mensuels de chaque allocation, versés par l'Office de Protection Sociale, sont fixés comme suit, à compter du 1er novembre 2024 :
 
-- Allocation aux adultes handicapés pour une personne seule : 1 535,32 € ;
+- allocation aux adultes handicapés pour une personne seule : 1.565,65 euros ;
 
-- Allocation aux adultes handicapés lorsque l'allocataire est marié, titulaire d'un contrat de vie commune ou vit maritalement avec une personne majeure : 3.070,64 € ;
+- allocation aux adultes handicapés lorsque l'allocataire est marié, titulaire d'un contrat de vie commune ou vit maritalement avec une personne majeure : 3.131,30 euros ;
 
-- Complément de première catégorie de l'allocation aux adultes handicapés : 383,85 € ;
+- complément de première catégorie de l'allocation aux adultes handicapés : 391,40 euros ;
 
-- Complément de deuxième catégorie de l'allocation aux adultes handicapés : 767,70 € ;
+- complément de deuxième catégorie de l'allocation aux adultes handicapés : 782,80 euros ;
 
-- Majoration pour enfant à charge :
+- majoration pour enfant à charge :
 
-  - 1. Pour un enfant : 460,60 euros ;
+- 1. pour un enfant : 469,70 euros ;
 
-  - 2. Pour deux enfants : 767,70 euros ;
+- 2. pour deux enfants : 782,80 euros ;
 
-  - 3. Pour trois enfants : 921,20 euros ;
+- 3. pour trois enfants : 939,40 euros ;
 
-  - 4. Par enfant supplémentaire : 76,80 euros ;
+- 4. par enfant supplémentaire : 78,30 euros ;
 
-- Majoration spécifique :
+- majoration spécifique :
 
-  - 1. Du complément de première catégorie de l'allocation d'éducation spéciale : 128,60 euros ;
+- 1. du complément de première catégorie de l'allocation d'éducation spéciale : 131,10 euros ;
 
-  - 2. Du complément de deuxième catégorie de l'allocation d'éducation spéciale : 370,60 euros.
+- 2. du complément de deuxième catégorie de l'allocation d'éducation spéciale : 377,90 euros
