@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2024‑711 du 16 décembre 2024 fixant les tarifs des parkings publics pour l'année 2025 ainsi que les tarifs autocars pour l'année 2026
 
-Version en vigueur au 1er janvier 2025.
+Version en vigueur au 28 février 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2024/12-16-2024-711@2025.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2024/12-16-2024-711@2025.02.28/
 
 | | |
 | --- | --- |
