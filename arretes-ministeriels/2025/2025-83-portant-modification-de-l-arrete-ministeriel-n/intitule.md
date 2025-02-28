@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-83 du 20 février 2025 portant modification de l'arrêté ministériel n° 2024-711 du 16 décembre 2024 fixant les tarifs des parkings publics pour l'année 2025 ainsi que les tarifs autocars pour l'année 2026
