@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2024-704 du 5 décembre 2024 fixant les règles de prescription des médicaments à base de codéine et de dihydrocodéine
 
-Version en vigueur au 21 décembre 2024.
+Version en vigueur au 1er mars 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2024/12-05-2024-704@2024.12.21/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2024/12-05-2024-704@2025.03.01/
 
 | | |
 | --- | --- |
