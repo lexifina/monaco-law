@@ -1,9 +1,7 @@
 # Article 1er
 
-Les plafonds de cotisations sont fixés comme suit :
+Les plafonds de cotisations sont déterminés comme suit :
 
-- Tranche A : jusqu'à une fois le plafond de la Sécurité Sociale française ;
+- • Tranche A : jusqu'à une fois le plafond fixé à 3.947 € à compter du 1er octobre 2024 ;
 
-- Tranche B : entre la tranche A et huit fois le plafond de la Sécurité Sociale française.
-
-Le plafond de la Sécurité Sociale française est fixé à 3.947 euros à compter du 1er octobre 2024.
+- • Tranche B : entre la tranche A et huit fois ce même plafond.
