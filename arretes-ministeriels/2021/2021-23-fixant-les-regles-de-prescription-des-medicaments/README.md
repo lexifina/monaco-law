@@ -1,8 +1,8 @@
-# Arrêté ministériel n° 2021-23 du 7 janvier 2021 fixant la durée de prescription des médicaments à base de tramadol administrés par voie orale
+# Arrêté ministériel n° 2021-23 du 7 janvier 2021 fixant les règles de prescription des médicaments à base de tramadol
 
-Version en vigueur au 16 janvier 2021.
+Version en vigueur au 1er mars 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2021/01-07-2021-23@2021.01.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2021/01-07-2021-23@2025.03.01/
 
 | | |
 | --- | --- |
