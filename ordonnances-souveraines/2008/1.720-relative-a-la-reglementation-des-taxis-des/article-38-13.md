@@ -2,4 +2,12 @@
 
 L'autorisation administrative prévue à l'article 2 ne peut être délivrée qu'à une personne physique.
 
-Cette autorisation permet une exploitation saisonnière du 15 avril au 15 octobre ou du 1er mai au 31 octobre de l'année concernée, à l'exception de l'année 2020 en raison des conséquences liées aux mesures destinées à lutter contre la propagation du virus COVID-19, en particulier en matière de déplacements.
+Cette autorisation permet une exploitation saisonnière du :
+
+- 1er avril au 30 septembre dans la limite de 10 véhicules,
+
+- ou du 15 avril au 15 octobre dans la limite de 10 véhicules,
+
+- ou du 1er mai au 1er novembre dans la limite de 10 véhicules,
+
+de l'année concernée.
