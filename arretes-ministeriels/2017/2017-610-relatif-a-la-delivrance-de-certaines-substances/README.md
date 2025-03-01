@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2017-610 du 26 juillet 2017 relatif à la délivrance de certaines substances vénéneuses
 
-Version en vigueur au 5 août 2017.
+Version en vigueur au 1er mars 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/07-26-2017-610@2017.08.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2017/07-26-2017-610@2025.03.01/
 
 | | |
 | --- | --- |
