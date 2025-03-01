@@ -8,7 +8,13 @@
 
 - b) à l'issue desquels la surface de plancher hors œuvre nette des locaux existants est majorée de plus de 10 %.
 
-2 bis. Par dérogation au 1, le taux prévu à l'article 51 s'applique aux travaux de nettoyage ainsi qu'aux travaux d'aménagement et d'entretien des espaces verts.
+2 bis. Par dérogation au 1 du présent article, le taux prévu à l'article 51 s'applique aux travaux suivants :
+
+- a) Les travaux de nettoyage ;
+
+- b) Les travaux d'aménagement ou d'entretien des espaces verts ;
+
+- c) Les travaux comprenant la fourniture ou l'installation d'une chaudière susceptible d'utiliser des combustibles fossiles.
 
 3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou le cas échéant au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux ans et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
 

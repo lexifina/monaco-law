@@ -22,6 +22,8 @@ III.- Par dérogation au I. du présent article, le taux prévu à l'article 51 
 
 - 2° À l'issue desquelles la surface de plancher des locaux existants est augmentée de plus de 10 %.
 
+III bis.- Par dérogation au I du présent article, le taux prévu à l'article 51 s'applique aux prestations de rénovation énergétique comprenant la fourniture ou l'installation d'une chaudière susceptible d'utiliser des combustibles fossiles.
+
 IV. - Pour l'application du I. du présent article, le preneur de la prestation atteste par écrit que les conditions prévues au même I. sont remplies.
 
 Cette attestation est établie en double exemplaire, dont l'un est remis au redevable, qui le conserve à l'appui de sa comptabilité.
