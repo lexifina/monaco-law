@@ -1,0 +1,1 @@
+Arrêté du Secrétaire d'État à la Justice, Directeur des Services Judiciaires n° 2025-7 du 21 février 2025 fixant le nombre des conférences prévues par l'Ordonnance Souveraine n° 8.089 du 17 septembre 1984 portant application de la loi n° 1.047 du 28 juillet 1982 sur l'exercice des professions d'avocat-défenseur et d'avocat, modifiée
