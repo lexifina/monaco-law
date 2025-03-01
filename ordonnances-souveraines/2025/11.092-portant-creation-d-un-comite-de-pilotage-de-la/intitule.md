@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.092 du 18 février 2025 portant création d'un Comité de pilotage de la stratégie globale de lutte contre la corruption dans le cadre du cinquième cycle d'évaluation du Groupe d'États contre la Corruption (GRECO)
