@@ -1,11 +1,11 @@
 # Code de la mer
 
-Version en vigueur au 21 décembre 2024.
+Version en vigueur au 22 mars 2025.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-mer@2024.12.21/
+Source : Legimonaco, https://legimonaco.mc/code/code-mer@2025.03.22/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de la mer |
-| Dernière modification | 21 décembre 2024 |
+| Dernière modification | 22 mars 2025 |
