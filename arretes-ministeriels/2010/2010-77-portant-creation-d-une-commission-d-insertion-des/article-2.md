@@ -1,17 +1,19 @@
 # Article 2
 
-La Commission d'Insertion des Diplômés, placée sous la présidence de S.E.M. le Ministre d'État, est composée comme suit :
+La Commission d'Insertion des Diplômés est composée comme suit :
 
-- - les Conseillers de Gouvernement ;
+- les Conseillers de Gouvernement-Ministres, ou leurs représentants ;
 
-- - le Directeur du Travail, assisté du Responsable de la Cellule Emploi-Jeunes ;
+- le Directeur du Travail, ou son représentant, assisté du Responsable de la Cellule Emploi-Jeunes ;
 
-- - le Président du Conseil National ;
+- le Président du Conseil National ;
 
-- - un représentant du Conseil Économique et Social ;
+- un représentant du Conseil Économique, Social et Environnemental ;
 
-- - un représentant de la Fédération Patronale ;
+- un représentant de la Fédération des Entreprises de Monaco ;
 
-- - un représentant de l'Association Monégasque des Activités Financières ;
+- un représentant de l'Association Monégasque des Activités Financières ;
 
-- - un représentant de la Jeune Chambre Économique.
+- un représentant de la Jeune Chambre Économique de Monaco.
+
+Le secrétariat de la Commission est assuré par le Département des Affaires Sociales et de la Santé.
