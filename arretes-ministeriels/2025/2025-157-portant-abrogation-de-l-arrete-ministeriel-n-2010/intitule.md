@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-157 du 26 mars 2025 portant abrogation de l'arrêté ministériel n° 2010-211 du 20 avril 2010 portant création d'un système de prêt couvrant les frais d'entrée dans les lieux pour les personnes susceptibles de percevoir l'Allocation Différentielle de Loyer
