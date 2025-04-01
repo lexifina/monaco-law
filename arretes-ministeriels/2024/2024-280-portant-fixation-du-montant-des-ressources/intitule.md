@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2024-280 du 16 mai 2024 portant fixation du montant des ressources personnelles telles que prévues à l'Ordonnance Souveraine n° 10.404 du 12 février 2024 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
