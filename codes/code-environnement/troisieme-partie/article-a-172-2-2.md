@@ -26,6 +26,6 @@ II. - Le requérant doit compléter le formulaire de demande de versement dispon
 
 III. La Direction de l'Environnement peut exiger du requérant, visé au II du présent article, toute pièce complémentaire qu'elle estime nécessaire pour l'instruction de la demande.
 
-IV.- Le requérant peut, préalablement aux travaux d'installation, demander à la Direction de l'Environnement une attestation d'éligibilité lui garantissant qu'il bénéficiera de l'aide à l'issue de la réalisation de ces travaux, sous réserve de la production d'un descriptif technique et d'un plan d'installation. La demande peut être envoyée par courrier ou par courriel à la Direction de l'Environnement.
+IV. Sous réserve qu'il remplisse les conditions mentionnées au I et qu'il fournisse les pièces justificatives définies au II ou qui pourraient lui être demandées en application du III du présent article, le requérant peut, préalablement aux travaux d'installation, demander à la Direction de l'Environnement une attestation d'éligibilité lui garantissant qu'il bénéficiera de l'aide et que son montant sera calculé en application de l'article A.172-2-3 dans sa rédaction en vigueur au jour de délivrance de l'attestation. La demande peut être envoyée par courrier ou par courriel à la Direction de l'Environnement.
 
-L'attestation est valable un an après sa délivrance et peut être reconduite sur demande par la Direction de l'Environnement.
+L'attestation est valable pendant un an à compter de sa délivrance.
