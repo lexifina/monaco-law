@@ -10,7 +10,7 @@
 
 - - du plan de répartition des indices de construction de référence PU-IC-PTE-D2 (annexe n° 3) ;
 
-- - des dispositions particulières RU-CDN-DP-V17D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de la Condamine ;
+- - des dispositions particulières RU-CDN-DP-V18D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de la Condamine ;
 
 - - des dispositions particulières RU-FON-DP-V10D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
 
