@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.181 du 3 avril 2025 prorogeant le privilège concédé à la Société Hôtelière et de Loisirs de Monaco, d'exploiter en Principauté le pari mutuel sur les courses hippiques courues sur les hippodromes français
