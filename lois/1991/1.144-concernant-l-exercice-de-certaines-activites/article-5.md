@@ -6,9 +6,11 @@ L'ouverture ou l'exploitation d'une agence, d'une succursale ou d'un bureau admi
 
 Il est donné notification par le Ministre d'Etat par lettre recommandée avec demande d'avis de réception postal, cinq jours ouvrables à compter du dépôt du dossier tendant à l'obtention de l'autorisation d'exercer une des activités visées à l'article premier, soit de la recevabilité de la demande d'autorisation, soit de l'irrecevabilité de la demande lorsque le dossier est incomplet.
 
-L'autorisation d'exercer doit être délivrée par décision du Ministre d'État, dans un délai de trois mois à compter de la notification de la recevabilité de la demande.
+L'autorisation d'exercer doit être délivrée par décision du Ministre d'État, dans un délai de quarante-cinq jours à compter de la notification de la recevabilité de la demande.
 
-Le délai de trois mois peut être suspendu :
+Par exception aux dispositions de l'alinéa précédent, ce délai peut être prorogé pour une durée maximale de quarante-cinq jours lorsque la demande d'autorisation nécessite des diligences particulières dans le cadre de dossiers complexes. La décision de prorogation est notifiée au demandeur par lettre recommandée avec demande d'avis de réception.
+
+Le délai de quarante-cinq jours peut être suspendu :
 
 - 1° - si l'autorisation est subordonnée, en application d'une convention internationale à une décision préalable d'un organisme étranger ;
 
