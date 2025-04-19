@@ -1,6 +1,6 @@
 # Article 49
 
-L'extrait des actes constitutifs de société en nom collectif, en commandite simple et à responsabilité limitée doit, dans le mois suivant la date à laquelle ils sont devenus définitifs, être remis au greffe général pour être transcrit sur le registre tenu à cet effet et affiché pendant trois mois dans la salle des audiences.
+L'extrait des actes constitutifs de société en nom collectif, en commandite simple et à responsabilité limitée doit, dans le mois suivant la date à laquelle ils sont devenus définitifs, être remis au greffe général pour être transcrit sur le registre tenu à cet effet et affiché publiquement pendant trois mois au sein du Palais de Justice.
 
 Cet extrait doit en outre être inséré dans le Journal de Monaco, dans le mois de cette même date.
 

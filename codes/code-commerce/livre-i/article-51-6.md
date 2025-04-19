@@ -6,6 +6,8 @@ De même, le gérant présente à l'assemblée un rapport sur l'exécution des m
 
 En cas de carence, de démission, de décès ou d'incapacité du gérant, l'assemblée peut être convoquée par le commissaire aux comptes ou par un mandataire désigné à la demande d'un associé par le Président du Tribunal de Première Instance statuant sur requête.
 
-Tout associé peut, par lui-même ou par un mandataire, prendre communication ou copie, au siège social, des comptes annuels et du rapport de gestion.
+Tout associé peut, par lui-même ou par un mandataire, prendre communication ou copie, au siège social, des comptes annuels et du rapport de gestion. À cette occasion, il peut poser par écrit des questions auxquelles le gérant est tenu de répondre au cours de l'assemblée.
+
+À défaut de précision dans les statuts, les délais dans lesquels les questions visées au précédent alinéa doivent être adressées sont ceux précisés par ordonnance souveraine.
 
 Après approbation des comptes annuels et constatation du bénéfice distribuable, l'assemblée générale détermine la part attribuée aux associés sous forme de dividendes.
