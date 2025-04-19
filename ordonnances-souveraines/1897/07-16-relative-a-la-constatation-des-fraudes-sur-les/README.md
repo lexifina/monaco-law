@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 16 juillet 1897 relative à la constatation des fraudes sur les tabacs
 
-Version en vigueur au 25 août 1897.
+Version en vigueur au 19 avril 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1897/07-16-L000667@1897.08.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1897/07-16-L000667@2025.04.19/
 
 | | |
 | --- | --- |
