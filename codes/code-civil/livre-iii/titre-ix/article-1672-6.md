@@ -1,0 +1,13 @@
+# Article 1672-6
+
+Lorsque le fonctionnement normal de la société est, de manière durable, compromis, en raison d'une entrave ou d'un conflit existant soit par le fait des dirigeants ou des personnes qui en assurent l'administration, soit par le fait des associés, et que ces circonstances mettent en péril, de manière imminente, les intérêts de la société ou son existence, tout associé, tout dirigeant, ou toute personne chargée de l'administration, peut solliciter du Tribunal de première instance, y compris en référé, la désignation d'un administrateur provisoire, avec un mandat de gestion et d'administration de la société. La désignation de l'administrateur provisoire entraîne le dessaisissement des organes sociaux dans la limite du mandat donné par la juridiction.
+
+L'administrateur provisoire est désigné en considération de ses compétences professionnelles. La décision qui ordonne cette désignation, énonce les missions de l'administrateur provisoire et en détermine la durée sans qu'elle puisse excéder six mois, précise les conditions de sa rémunération, et fixe enfin les modalités selon lesquelles il établit et remet son rapport de mission à l'autorité judiciaire l'ayant désigné. La rémunération de l'administrateur provisoire est à la charge de la société.
+
+La décision peut aussi autoriser l'administrateur provisoire à se faire assister, dans l'accomplissement de sa mission, par une personne qui intervient sous son contrôle et sa responsabilité, justifiant d'une expérience et d'une qualification particulière au regard de la nature de l'activité de la société, dont il assure alors la rétribution sur la rémunération qu'il perçoit.
+
+En cas de difficulté, tout associé, tout dirigeant ou toute personne chargée de l'administration peut saisir la juridiction qui a désigné l'administrateur provisoire en vue de compléter, proroger pour une durée ne pouvant excéder six mois renouvelables, mettre un terme à sa mission ou de procéder à sa révocation et à son remplacement dans l'intérêt de la société.
+
+Le tribunal statuant au fond, ou son Président statuant sur requête ou en référé, peut également à la demande de tout associé, tout dirigeant ou toute personne chargée de l'administration de la société, désigner un mandataire ad hoc aux fins d'accomplissement d'une mission déterminée et ponctuelle.
+
+À peine d'inopposabilité aux tiers, les décisions rendues en application du présent article doivent faire l'objet d'une publication au Journal de Monaco, et d'une inscription selon le cas, au répertoire du commerce et de l'industrie ou au registre spécial tenu par le répertoire du commerce et de l'industrie, dans le délai de quinze jours à compter de leur prononcé.

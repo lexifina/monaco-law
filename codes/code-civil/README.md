@@ -1,11 +1,11 @@
 # Code civil
 
-Version en vigueur au 12 août 2023.
+Version en vigueur au 19 avril 2025.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-civil@2023.08.12/
+Source : Legimonaco, https://legimonaco.mc/code/code-civil@2025.04.19/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code civil |
-| Dernière modification | 12 août 2023 |
+| Dernière modification | 19 avril 2025 |

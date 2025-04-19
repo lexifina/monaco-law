@@ -1,33 +1,31 @@
 # Article 1672-1
 
-Lorsqu'il est écrit, et sous réserve de dispositions légales particulières applicables à certaines formes de société, le contrat de société indique notamment :
+Les statuts de la société indiquent notamment :
 
-- La forme de la société ;
+- 1°) la forme de la société ;
 
-- Sa dénomination sociale ;
+- 2°) sa dénomination ou raison sociale ;
 
-- L'adresse de son siège social ;
+- 3°) la mention que son siège social est établi à Monaco ;
 
-- La date de constitution de la société ;
+- 4°) la durée pour laquelle elle a été formée ;
 
-- La durée pour laquelle elle a été formée ;
+- 5°) l'identité des associés comprenant, s'agissant des personnes physiques, les noms et prénoms, la date et le lieu de naissance, la nationalité, s'agissant des personnes morales, la dénomination sociale, la forme de société, la juridiction dans laquelle la société est enregistrée, le cas échéant le numéro d'immatriculation au registre des sociétés auquel elle est immatriculée ;
 
-- L'identité des associés comprenant, s'agissant des personnes physiques, les nom et prénoms, la date et le lieu de naissance, la nationalité, l'adresse, la situation familiale et le cas échéant le régime matrimonial adopté, s'agissant des personnes morales, la dénomination sociale, la forme de société, l'adresse du siège social, la juridiction dans laquelle la société est enregistrée, le cas échéant le numéro d'immatriculation au registre des sociétés auquel elle est immatriculée et l'identité de la personne physique habilitée à la représenter ;
+- 6°) le montant du capital social ;
 
-- Le montant du capital social ;
+- 7°) la forme et le montant des apports de chaque associé ;
 
-- La forme et le montant des apports de chaque associé ;
+- 8°) le nombre de parts sociales détenues par chaque associé et les droits qui y sont attachés ;
 
-- Le nombre de parts sociales ou d'actions détenues par chaque associé ou actionnaire et les droits qui y sont attachés ;
+- 9°) les modalités de son fonctionnement ;
 
-- L'identité de la personne habilitée à la représenter ;
+- 10°) son objet social.
 
-- Son objet social.
+À défaut de clause contraire, les statuts ne peuvent être modifiés que par décision des associés représentant plus des deux tiers du capital social. Cet accord est constaté par écrit. Les statuts doivent être mis à jour dès lors que l'une des mentions obligatoires est modifiée.
 
-Le contrat de société doit faire l'objet d'un avenant contractuel et être mis à jour dès lors que l'une des informations ci-dessus est modifiée.
+Lorsque les statuts sont soumis à la formalité de l'enregistrement et que l'une des mentions obligatoires est manquante, l'enregistrement est refusé.
 
-Lorsque le contrat de société est soumis à la formalité de l'enregistrement et que l'une des informations visées à l'alinéa premier est manquante, l'enregistrement est refusé.
+En certifiant conforme la copie des statuts, à la date à laquelle elle appose la certification, la personne habilitée à représenter la société atteste que les informations qu'ils contiennent sont adéquates, exactes et actuelles.
 
-En certifiant conforme la copie du contrat de société, à la date à laquelle il appose la certification, la personne habilitée à représenter la société atteste que les informations qu'il contient sont adéquates, exactes et actuelles.
-
-Si le contrat de société et le cas échéant, ses avenants, ne contiennent pas toutes les informations exigées à l'alinéa premier, toute personne y ayant intérêt est recevable à demander en justice que soit ordonnée, sous astreinte, la régularisation du contrat de société. Le Procureur Général et le Directeur du Développement Économique peuvent agir aux mêmes fins.
+Si les statuts ne contiennent pas toutes les mentions obligatoires, toute personne y ayant intérêt est recevable à demander en justice que soit ordonnée, sous astreinte, la régularisation des statuts. Le Procureur Général peut agir aux mêmes fins.
