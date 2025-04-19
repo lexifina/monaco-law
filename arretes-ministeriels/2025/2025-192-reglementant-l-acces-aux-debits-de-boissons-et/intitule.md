@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-192 du 16 avril 2025 réglementant l'accès aux débits de boissons et aux établissements de restauration et de loisirs situés sur la Darse Sud, les nuits des 2, 3 et 4 mai 2025 et des 22, 23, 24 et 25 mai 2025
