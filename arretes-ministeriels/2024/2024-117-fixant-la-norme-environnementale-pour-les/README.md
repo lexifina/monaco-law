@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2024-117 du 22 février 2024 fixant la norme environnementale pour les véhicules de remise
 
-Version en vigueur au 2 mars 2024.
+Version en vigueur au 26 avril 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2024/02-22-2024-117@2024.03.02/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2024/02-22-2024-117@2025.04.26/
 
 | | |
 | --- | --- |
