@@ -2,52 +2,52 @@
 
 La liste des spécialités relevant du Département de l'Équipement, de l'Environnement et de l'Urbanisme est fixée comme suit :
 
-1°) Service de Maintenance des Bâtiments Publics
+- 1°) Service de Maintenance des Bâtiments Publics
 
-- Dessinateur projeteur
+  - Dessinateur projeteur
 
-- Métreur vérificateur
+  - Métreur vérificateur
 
-- Ébéniste
+  - Ébéniste
 
-- Gestionnaire du patrimoine
+  - Gestionnaire du patrimoine
 
-- Gestionnaire des flux
+  - Gestionnaire des flux
 
-2°) Service des Titres de Circulation
+- 2°) Service des Titres de Circulation
 
-- Contrôleur au Centre de Contrôle Technique des Véhicules
+  - Contrôleur au Centre de Contrôle Technique des Véhicules
 
-- Inspecteur-adjoint des permis de conduire et de la sécurité routière
+  - - Inspecteur-adjoint des permis de conduire et de la sécurité routière
 
-- Inspecteur des permis de conduire et de la sécurité routière
+  - Inspecteur des permis de conduire et de la sécurité routière
 
-3°) Direction de l'Aménagement Urbain
+- 3°) Direction de l'Aménagement Urbain
 
-- Dessinateur projeteur
+  - Dessinateur projeteur
 
-4°) Direction de la Prospective, de l'Urbanisme et de la Mobilité
+- 4°) Direction de la Prospective, de l'Urbanisme et de la Mobilité
 
-- Dessinateur projeteur
+  - Dessinateur projeteur
 
-- Géomètre
+  - Géomètre
 
-5°) Direction des Affaires Maritimes
+- 5°) Direction des Affaires Maritimes
 
-- Marin agent technique
+  - Marin agent technique
 
-- Marin responsable technique
+  - Marin responsable technique
 
-- Pilote maritime
+  - Pilote maritime
 
-6°) Direction de l'Aviation Civile
+- 6°) Direction de l'Aviation Civile
 
-- Technicien de sécurité aéroportuaire
+  - Technicien de sécurité aéroportuaire
 
-- Contrôleur du trafic aérien
+  - Contrôleur du trafic aérien
 
-7°) Direction des Travaux Publics
+- 7°) Direction des Travaux Publics
 
-- Dessinateur projeteur
+  - Dessinateur projeteur
 
-- Métreur vérificateur
+  - Métreur vérificateur

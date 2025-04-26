@@ -2,14 +2,14 @@
 
 La liste des spécialités relevant du Département des Finances et de l'Économie est fixée comme suit :
 
-1°) Direction des Services Fiscaux
+- 1°) Direction des Services Fiscaux
 
-- Inspecteur
+  - Inspecteur
 
-2°) Service de Contrôle des Jeux
+- 2°) Service de Contrôle des Jeux
 
-- Inspecteur
+  - Inspecteur
 
-3°) Administration des Domaines
+- 3°) Administration des Domaines
 
-- Métreur vérificateur
+  - Métreur vérificateur

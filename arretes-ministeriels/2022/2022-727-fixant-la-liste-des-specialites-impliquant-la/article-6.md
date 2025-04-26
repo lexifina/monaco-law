@@ -2,22 +2,22 @@
 
 La liste des spécialités relevant du Secrétariat Général du Gouvernement est fixée comme suit :
 
-1°) Direction de la Communication
+- 1°) Direction de la Communication
 
-- Photographe/infographiste
+  - Photographe/infographiste
 
-2°) Direction des Plateformes et des Ressources Numériques
+- 2°) Direction des Plateformes et des Ressources Numériques
 
-- Gestionnaire réseau télécommunication
+  - Gestionnaire réseau télécommunication
 
-3°) Direction des Systèmes d'Information
+- 3°) Direction des Systèmes d'Information
 
-- Administrateur Linux
+  - Administrateur Linux
 
-- Administrateur Système et Réseau
+  - Administrateur Système et Réseau
 
-- Administrateur Windows
+  - Administrateur Windows
 
-- Référent Applicatif
+  - Référent Applicatif
 
-- Incident Manager
+  - Incident Manager

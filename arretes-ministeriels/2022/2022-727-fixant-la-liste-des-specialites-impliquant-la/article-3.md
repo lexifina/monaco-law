@@ -2,32 +2,34 @@
 
 La liste des spécialités relevant du Département de l'Intérieur est fixée comme suit :
 
-1°) Direction de l'Éducation Nationale, de la Jeunesse et des Sports
+- 1°) Direction de l'Éducation Nationale, de la Jeunesse et des Sports
 
-- Éducateur spécialisé
+  - Éducateur spécialisé
 
-- Assistant social
+  - Assistant social
 
-- Psychologue
+  - Psychologue
 
-2°) Direction des Affaires Culturelles
+  - Infirmier
 
-- Technicien de scène
+- 2°) Direction des Affaires Culturelles
 
-- Technicien de maintenance
+  - Technicien de scène
 
-- Chef de régie technique
+  - Technicien de maintenance
 
-3°) Musée d'Anthropologie Préhistorique
+  - Chef de régie technique
 
-- Chargé de recherches
+- 3°) Musée d'Anthropologie Préhistorique
 
-4°) Direction de la Sûreté Publique
+  - Chargé de recherches
 
-- Technicien en télécommunication
+- 4°) Direction de la Sûreté Publique
 
-- Gestionnaire vidéo protection
+  - Technicien en télécommunication
 
-5°) Compagnie des Sapeurs-Pompiers de Monaco
+  - Gestionnaire vidéo protection
 
-- Dessinateur projeteur
+- 5°) Compagnie des Sapeurs-Pompiers de Monaco
+
+  - Dessinateur projeteur

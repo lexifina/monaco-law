@@ -2,28 +2,30 @@
 
 La liste des spécialités relevant du Département des Affaires Sociales et de la Santé est fixée comme suit :
 
-1°) Direction de l'Action Sanitaire
+- 1°) Direction de l'Action Sanitaire
 
-- Contrôleur de sécurité sanitaire et alimentaire
+  - Contrôleur de sécurité sanitaire et alimentaire
 
-2°) Direction de l'Action et de l'Aide Sociales
+  - Infirmier
 
-- Moniteur éducateur
+- 2°) Direction de l'Action et de l'Aide Sociales
 
-- Éducateur spécialisé
+  - Moniteur éducateur
 
-- Assistant social
+  - Éducateur spécialisé
 
-- Conseiller en économie sociale et familiale
+  - Assistant social
 
-- Médiateur familial
+  - Conseiller en économie sociale et familiale
 
-- Psychologue
+  - Médiateur familial
 
-3°) Direction du Travail
+  - Psychologue
 
-- Inspecteur du travail
+- 3°) Direction du Travail
 
-4°) Service des Prestations Médicales de l'État
+  - Inspecteur du travail
 
-- Assistant social
+- 4°) Service des Prestations Médicales de l'État
+
+  - Assistant social
