@@ -1,6 +1,6 @@
 # Article 126
 
-Lorsque le titulaire d'un permis de conduire a fait l'objet d'une condamnation définitive, à l'occasion de la conduite de son véhicule, par application des articles 314 et 315 du Code pénal et qu'il résulte des éléments ayant motivé la condamnation qu'il ne possède plus les aptitudes ou connaissances exigées pour l'obtention du permis dont il est titulaire, le Ministre d'État doit annuler son permis.
+Lorsque le titulaire d'un permis de conduire a fait l'objet d'une condamnation définitive, à l'occasion de la conduite de son véhicule, par application des articles 250 et 251 du Code pénal et qu'il résulte des éléments ayant motivé la condamnation qu'il ne possède plus les aptitudes ou connaissances exigées pour l'obtention du permis dont il est titulaire, le Ministre d'État doit annuler son permis.
 
 Le Ministre d'État devra dans son arrêté d'annulation, fixer un délai de six mois au moins et de quatre ans au plus avant l'expiration duquel l'intéressé ne pourra solliciter un nouveau permis.
 
