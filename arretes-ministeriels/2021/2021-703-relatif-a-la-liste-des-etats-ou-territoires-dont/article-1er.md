@@ -1,75 +1,79 @@
 # Article 1er
 
-En application de l'article 14‑1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, la liste des États ou territoires dont les dispositifs de lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption présentent des carences stratégiques, est la suivante :
+En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée, susvisée, la liste des États ou territoires dont les dispositifs de lutte contre le blanchiment de capitaux, le financement du terrorisme ou la corruption présentent des carences stratégiques, est la suivante :
 
-- • Afghanistan
+- Afghanistan
 
-- • Afrique du Sud
+- Afrique du Sud ;
 
-- • Algérie
+- Algérie
 
-- • Angola
+- Angola
 
-- • Barbade
+- Barbade
 
-- • Bulgarie
+- Bulgarie
 
-- • Burkina Faso
+- Burkina Faso
 
-- • Cameroun
+- Cameroun
 
-- • République démocratique du Congo
+- République démocratique du Congo
 
-- • République populaire démocratique de Corée
+- République populaire démocratique de Corée
 
-- • Côte d'Ivoire
+- Côte d'Ivoire
 
-- • Croatie
+- Croatie
 
-- • Émirats arabes Unis
+- Émirats arabes Unis
 
-- • Gibraltar
+- Gibraltar
 
-- • Haïti
+- Haïti
 
-- • République Islamique d'Iran
+- République Islamique d'Iran
 
-- • Jamaïque
+- Jamaïque
 
-- • Kenya
+- Kenya
 
-- • Liban
+- République démocratique populaire lao
 
-- • Mali
+- Liban
 
-- • Mozambique
+- Mali
 
-- • Myanmar/Birmanie
+- Mozambique
 
-- • Namibie
+- Myanmar/Birmanie
 
-- • Nigéria
+- Namibie
 
-- • Ouganda
+- Népal
 
-- • Panama
+- Nigéria
 
-- • Philippines
+- Ouganda
 
-- • Sénégal
+- Panama
 
-- • Soudan du Sud
+- Philippines
 
-- • Syrie
+- Sénégal
 
-- • Tanzanie
+- Soudan du Sud
 
-- • Trinité-et-Tobago
+- Syrie
 
-- • Vanuatu
+- Tanzanie
 
-- • Venezuela
+- Trinité-et-Tobago
 
-- • Vietnam
+- Vanuatu
 
-- • Yémen
+- Venezuela
+
+- Vietnam
+
+- Yémen
