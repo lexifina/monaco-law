@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 96-209 du 2 mai 1996 relatif à la nomenclature générale des analyses et examens de laboratoire
 
-Version en vigueur au 28 septembre 2024.
+Version en vigueur au 10 mai 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1996/05-02-96-209@2024.09.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1996/05-02-96-209@2025.05.10/
 
 | | |
 | --- | --- |
