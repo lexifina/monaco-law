@@ -324,19 +324,21 @@ Pour ces catégories, et lorsqu'un accord exceptionnel a été délivré, la val
 
 Des indemnités de délivrance sont facturables aux patients lorsque la dispensation de produits pharmaceutiques intervient à volets fermés. Elles sont prises en charge intégralement au vu de leur facturation par le pharmacien de garde et dans la limite des tarifs suivants, par ordonnance :
 
-- indemnité de nuit : | 8,00 € ;
+indemnité de nuit, de 20 h à minuit et de 6 h à 8 h | 10,00 €
 
-- indemnité de samedi, dimanche ou jour férié | 5,00 € ;
+indemnité de « nuit profonde », de minuit à 6 h | 20,00 €
 
-- indemnité jours ouvrables | 2,00 €.
+indemnité de samedi, dimanche ou jour férié | 6,00 €
 
-Des indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, à compter du 1er janvier 2019 et pour chaque tour de garde complet assuré :
+indemnité jours ouvrables | 2,00 €
 
-- la nuit : | à 190 € ;
+Les indemnités forfaitaires sont versées aux pharmaciens par les régimes d'assurance maladie de la Principauté. Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent, à compter du 1er janvier 2025 et pour chaque tour de garde complet assuré :
 
-- la journée du samedi, du dimanche ou d'un jour férié | à 190 € ;
+la nuit | à 200 €
 
-Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le Directeur de la Caisse de Compensation des Services Sociaux, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
+la journée du samedi, du dimanche ou d'un jour férié | à 200 €
+
+Le règlement des indemnités forfaitaires intervient dans des conditions définies conjointement par le président de la section A (Officines) de l'Ordre des Pharmaciens et le Directeur de la Caisse de Compensation des Services Sociaux, cette dernière assurant le versement des indemnités forfaitaires dues aux pharmaciens ayant participé au service des gardes et la récupération de la contribution due par les autres organismes sociaux selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003 fixant la répartition de la contribution due par les organismes de services sociaux en application de l'article 2 de la loi n° 967 du 21 mars 1975.
 
 5. Honoraires de dispensation
 
@@ -376,33 +378,23 @@ Lorsque sa facturation est autorisée, l'honoraire de dispensation médicament s
 
 La tarification des différents honoraires facturés par les pharmaciens d'officine ne peut faire l'objet de dépassements d'aucune sorte. Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance prévues au titre des services de garde.
 
-- Honoraires de dispensation simple : 1,02 euros
+- Honoraires de dispensation simple : 1,02 €
 
-- Honoraires de dispensation simple grand conditionnement : 2,76 euros
+- Honoraires de dispensation simple grand conditionnement : 2,76 €
 
-- Honoraires de dispensation complexe : 0,31 euros
+- Honoraires de dispensation complexe : 0,31 €
 
-- Honoraires de dispensation spécialité remboursable : 0,51 euros
+- Honoraires de dispensation spécialité remboursable : 0,61 €
 
-- Honoraires de dispensation jeunes enfants et patients âgés : 1,58 euros
+- Honoraires de dispensation jeunes enfants et patients âgés : 1,58 €
 
-- Honoraires de dispensation médicament spécifique : 3,57 euros
+- Honoraires de dispensation médicament spécifique : 3,57 €
 
-Ces tarifs entrent en vigueur à compter du 1er janvier 2020.
+6. Test rapide d'orientation diagnostique (TROD)
 
-6. Test rapide oro-pharyngé d'orientation diagnostique (TROD)
+Le test rapide d'orientation diagnostique, réalisé en officine par un pharmacien dans les conditions prévues par la réglementation, peut donner lieu à la facturation d'un honoraire fixé selon les circonstances de cette réalisation.
 
-Le test rapide oro-pharyngé d'orientation diagnostique des angines à streptocoque du groupe A, réalisé en officine par un pharmacien dans les conditions prévues par la réglementation, peut donner lieu à la facturation d'un honoraire fixé selon les circonstances de cette réalisation.
-
-6.1. Patient se présentant spontanément à l'officine avec un mal de gorge, sans consultation médicale préalable.
-
-Le tarif est fixé à 6 € quel que soit le résultat du test.
-
-6.2. Patient orienté par son médecin avec une ordonnance conditionnelle d'antibiotiques.
-
-En cas de résultat positif, le tarif est fixé à 6 €.
-
-En cas de résultat négatif, le tarif est fixé à 7 €.
+Le tarif est fixé à 10 € quel que soit le résultat du test.
 
 D - Frais d'orthopédie, aliments, matériels et autres dispositifs médicaux
 
