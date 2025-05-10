@@ -1,0 +1,1 @@
+Décision ministérielle en date du 24 avril 2025 portant interdiction de fumer sur les plages, prise en application de l'article premier de la loi n° 1.430 du 13 juillet 2016 portant diverses mesures relatives à la préservation de la sécurité nationale
