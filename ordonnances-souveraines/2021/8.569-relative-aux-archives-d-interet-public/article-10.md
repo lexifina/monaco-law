@@ -4,4 +4,4 @@ Les services détenteurs mettent en œuvre des référentiels d'archivage de leu
 
 La durée d'utilité administrative correspond au délai minimal pendant lequel un document doit être conservé pour les besoins du service qui l'a produit ainsi que pour satisfaire à ses obligations légales. Elle varie en fonction du contexte de production des documents et des informations qu'ils contiennent.
 
-Les référentiels d'archivage sont élaborés par le Service Central des Archives et de la Documentation Administrative en lien avec les services détenteurs après avis favorable de la Mission de préfiguration des Archives nationales.
+Les référentiels d'archivage sont élaborés par les services détenteurs en lien avec le Service des archives du Gouvernement, puis soumis pour validation au Directeur des Archives nationales.

@@ -22,11 +22,11 @@ La Commission, présidée par une personnalité de nationalité monégasque dés
 
 - - Le Président du Conseil du Patrimoine ou son représentant ;
 
-- - Le Directeur de la Mission de préfiguration des Archives nationales, assurant la vice-présidence, ou son représentant ;
+- - Le Directeur des Archives nationales, assurant la vice-présidence, ou son représentant ;
 
 - - Le Directeur des Affaires Culturelles ou son représentant ;
 
-- - Le Chef du Service Central des Archives et de la Documentation Administrative ou son représentant ;
+- - Le Chef du Service des archives du Gouvernement ou son représentant ;
 
 - - Un ou plusieurs collèges de personnalités qualifiées représentant les producteurs visés à l'article premier ;
 

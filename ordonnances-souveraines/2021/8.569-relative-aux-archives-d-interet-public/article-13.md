@@ -1,6 +1,6 @@
 # Article 13
 
-La Mission de préfiguration des Archives nationales peut être consultée par les producteurs d'archives publiques visés à l'article premier b) à f) sur toute question ayant trait à la gestion, à la conservation, à l'inventaire, à la diffusion et à la communication ainsi qu'à la valorisation de leurs archives.
+La Direction des Archives nationales peut être consultée par les producteurs d'archives publiques visés à l'article premier b) à f) sur toute question ayant trait à la gestion, à la conservation, à l'inventaire, à la diffusion et à la communication ainsi qu'à la valorisation de leurs archives.
 
 Ces questions peuvent porter, notamment, sur :
 
