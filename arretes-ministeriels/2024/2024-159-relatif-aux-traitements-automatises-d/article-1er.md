@@ -908,7 +908,7 @@ Direction des Affaires Juridiques
 
 - Gestion du site Internet Legimonaco (traitement mis en œuvre le 07/07/2023).
 
-Mission de Préfiguration des Archives Nationales
+Direction des Archives nationales
 
 - Gestion du flux de production des archives d'intérêt public et de leur consultation (traitement mis en œuvre le 06/01/2023).
 
