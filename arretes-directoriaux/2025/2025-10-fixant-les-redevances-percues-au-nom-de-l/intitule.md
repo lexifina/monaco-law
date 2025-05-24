@@ -1,0 +1,1 @@
+Arrêté du Secrétaire d'État à la Justice, Directeur des Services Judiciaires n° 2025-10 du 15 mai 2025 fixant les redevances perçues au nom de l'Institut Monégasque de Formation aux Professions Judiciaires.
