@@ -12,7 +12,7 @@ Les personnes physiques de nationalité monégasque qui effectuent une déclarat
 
 - 5°) un extrait de casier judiciaire, de moins de trois mois, délivré par les autorités monégasques ;
 
-- 6°) deux exemplaires originaux des statuts dûment enregistrés auprès de la Direction des Services Fiscaux si l'activité est exercée en société ;
+- 6°) deux exemplaires originaux des statuts si l'activité est exercée en société ;
 
 - 7°) une note de renseignements relative au local, disponible auprès de la Direction du Développement Économique ou accessible en ligne sur le site Internet du Gouvernement Princier, et le titre d'occupation ;
 

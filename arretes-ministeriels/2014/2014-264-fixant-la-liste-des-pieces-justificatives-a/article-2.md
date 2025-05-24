@@ -10,7 +10,7 @@ Les personnes physiques de nationalité étrangère qui présentent une demande 
 
 - 4°) un extrait du casier judiciaire, de moins de trois mois, délivré par les autorités judiciaires ou administratives du pays où le demandeur a établi son domicile ;
 
-- 5°) deux exemplaires originaux des statuts dûment enregistrés auprès de la Direction des Services Fiscaux si l'activité est exercée en société ;
+- 5°) deux exemplaires originaux des statuts si l'activité est exercée en société ;
 
 - 6°) en cas de location gérance, le contrat ou la promesse de contrat en original ;
 

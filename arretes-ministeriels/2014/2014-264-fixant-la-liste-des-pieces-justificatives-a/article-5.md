@@ -12,7 +12,7 @@ Les personnes physiques de nationalité monégasque qui présentent une demande 
 
 - 5°) un extrait du casier judiciaire, de moins de trois mois, délivré par les autorités judiciaires ou administratives du pays où le demandeur a établi son domicile ;
 
-- 6°) deux exemplaires originaux des statuts dûment enregistrés auprès de la Direction des Services Fiscaux si l'activité est exercée en société ;
+- 6°) deux exemplaires originaux des statuts si l'activité est exercée en société ;
 
 - 7°) en cas de location gérance, le contrat ou la promesse de contrat en original ;
 
