@@ -1,0 +1,1 @@
+Arrêté du Secrétaire d'État à la Justice, Directeur des Services Judiciaires n° 2025-11 du 15 mai 2025 fixant les indemnités versées au nom de l'Institut Monégasque de Formation aux Professions Judiciaires
