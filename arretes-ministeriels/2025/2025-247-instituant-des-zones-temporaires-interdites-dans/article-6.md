@@ -1,0 +1,3 @@
+# Article 6
+
+La Direction des Affaires Maritimes et la Direction de la Sûreté Publique - Division de Police Maritime et Aéroportuaire peuvent, à titre exceptionnel, accorder des dérogations aux interdictions édictées aux Articles Premier, 2, 3 et 4.
