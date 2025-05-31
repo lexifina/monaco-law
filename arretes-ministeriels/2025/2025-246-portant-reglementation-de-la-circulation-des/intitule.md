@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-246 du 21 mai 2025 portant réglementation de la circulation des piétons et le stationnement des véhicules à l'occasion du Blue Economy and Finance Forum et de la visite d'État du Président de la République Française en Principauté
