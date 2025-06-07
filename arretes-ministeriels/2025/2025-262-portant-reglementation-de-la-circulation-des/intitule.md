@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-262 du 4 juin 2025 portant réglementation de la circulation des piétons, le stationnement et la circulation des véhicules à l'occasion du Jumping International de Monte‑Carlo 2025
