@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-300 du 4 juin 2025 fixant les modalités d'élection des membres du comité technique d'établissement du Centre Hospitalier Princesse Grace et les modalités de fonctionnement de ce comité
