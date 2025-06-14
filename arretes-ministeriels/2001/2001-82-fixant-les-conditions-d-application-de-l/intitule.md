@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2001-82 du 20 février 2001 fixant les conditions d'application de l'ordonnance n° 14.749 du 15 février 2001 portant création d'un Comité technique d'établissement au Centre hospitalier Princesse Grace
