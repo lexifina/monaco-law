@@ -50,7 +50,7 @@ BURUNDI
 
 BURUNDI
 
-CANADA* Île du Prince Édouard* Nouveau-Brunswick* Terre-Neuve et Labrador* Québec* Manitoba* Ontario* Alberta* Colombie-Britannique
+CANADA
 
 CAP VERT
 
@@ -72,7 +72,7 @@ LA DOMINIQUE
 
 ÉMIRATS ARABES UNIS
 
-ÉTATS-UNIS D'AMÉRIQUE* Delaware* Maryland* Ohio* Pennsylvanie* Virginie* Caroline du Sud* Massachussetts* New Hampshire* Illinois* Iowa* Michigan* Wisconsin* Arkansas* Oklahoma* Texas* Colorado* Floride* Connecticut
+ÉTATS-UNIS D'AMÉRIQUE
 
 ÉTHIOPIE
 
