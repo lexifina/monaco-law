@@ -1,3 +1,3 @@
 # Article 10
 
-La date des élections est fixée par le directeur de l'action sanitaire et sociale au moins deux mois avant l'expiration du mandat des membres en fonction.
+Les modalités d'élection des membres du comité et les modalités de fonctionnement du comité sont fixées par arrêté ministériel.

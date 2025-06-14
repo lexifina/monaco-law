@@ -1,13 +1,7 @@
 # Article 4
 
-Les élections donnent lieu à la désignation de :
+Pour chaque élection au comité, la répartition, entre les catégories hiérarchiques A, B et C, des seize sièges à pourvoir de membre titulaire représentant ces catégories s'effectue au prorata des effectifs de chacune d'entre elles.
 
-- a) deux membres titulaires et deux membres suppléants représentant les personnels composant le collège des agents de la catégorie A ;
+L'effectif du personnel de chaque catégorie pris en considération pour déterminer le nombre des membres titulaires les représentant est apprécié au 31 décembre de l'année qui précède celle au cours de laquelle a lieu l'élection.
 
-- b) six membres titulaires et six membres suppléants représentant les personnels composant le collège des agents de la catégorie B ;
-
-- c) huit membres titulaires et huit membres suppléants représentant les personnels composant le collège des agents de la catégorie C.
-
-Sont éligibles au titre de leur collège, les agents stagiaires et les agents titularisés dans l'un des emplois permanents figurant au tableau des effectifs du Centre hospitalier Princesse Grace, inscrits sur la liste électorale de ce collège.
-
-Ne peuvent être élus les personnels en congé de longue durée, ni ceux qui ont été frappés d'une rétrogradation ou d'une exclusion temporaire de fonctions à moins qu'ils n'aient été amnistiés ou n'aient été relevés de leur peine.
+Pour les seize sièges à pourvoir de membre suppléant, leur répartition entre les catégories s'effectue dans les mêmes conditions que pour la répartition des sièges de membre titulaire.

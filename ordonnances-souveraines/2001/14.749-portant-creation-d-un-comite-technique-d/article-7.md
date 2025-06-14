@@ -1,9 +1,5 @@
 # Article 7
 
-Lorsqu'un représentant titulaire du personnel cesse en cours de mandat d'exercer ses fonctions pour cause de décès, de démission, ou est frappé d'une des causes d'inéligibilité énoncée à l'article 4, il est remplacé par un suppléant pris dans l'ordre de la liste au titre de laquelle il a été élu.
+Lorsqu'un membre titulaire du comité, autre que le président, cesse définitivement en cours de mandat d'exercer, pour quelque cause que ce soit, ses fonctions d'agent ou bien démissionne de son mandat ou est frappé d'une des causes d'inéligibilité énoncée à l'article 4-1, il est remplacé, pour la durée du mandat restant à courir, par un membre suppléant pris dans l'ordre de la liste de candidats au titre de laquelle il a été élu. Ce membre suppléant devient membre titulaire.
 
-Le suppléant est lui-même remplacé par le candidat suivant figurant sur la même liste. Lorsque, faute d'un nombre suffisant de candidats, le syndicat se trouve dans l'impossibilité de pourvoir à ce remplacement, il désigne le représentant parmi les agents éligibles composant le collège visé aux deux derniers alinéas de l'article 4.
-
-Lorsqu'un représentant suppléant du personnel cesse en cours de mandat d'exercer ses fonctions pour l'une des causes énumérées au premier alinéa du présente article, il est remplacé dans les conditions prévues à l'alinéa ci-dessus.
-
-Le mandat des représentants titulaires ou suppléants désignés dans les conditions prévues par le présent article prend fin à la date à laquelle aurait normalement pris fin le mandat des titulaires ou des suppléants qu'ils remplacent.
+Lorsque, faute d'un nombre suffisant de membres suppléants figurant sur la liste de candidats au titre de laquelle le membre titulaire à remplacer a été élu ou désigné, l'organisation syndicale ayant présenté cette liste se trouve dans l'impossibilité de pourvoir à ce remplacement, elle désigne, pour la durée du mandat restant à courir, un remplaçant, avec son accord, parmi les candidats non élus figurant sur cette liste même s'ils ont changé de catégorie hiérarchique ou, à défaut, parmi les agents éligibles relevant de la catégorie hiérarchique concernée. Ce remplaçant devient membre titulaire.

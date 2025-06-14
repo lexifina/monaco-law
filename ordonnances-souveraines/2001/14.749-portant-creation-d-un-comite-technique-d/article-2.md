@@ -1,13 +1,13 @@
 # Article 2
 
-Ce comité est composé de dix-sept membres, dont le Président.
+Le comité est composé de dix-sept membres titulaires, savoir :
 
-Il comprend :
+- 1) le directeur, qui le préside, ou son représentant ;
 
-- le Directeur de l'établissement, président, ou son représentant membre du corps des personnels de direction du Centre hospitalier Princesse Grace ;
+- 2) seize agents représentant les catégories hiérarchiques de l'établissement et élus au scrutin de listes.
 
-- 16 représentants du personnel de service élus par collège représentant les catégories hiérarchiques de l'établissement au scrutin de listes.
+Chaque organisation syndicale ayant pour objet social la défense des agents peut présenter, pour chaque catégorie hiérarchique, une liste de candidats. Lorsqu'aucune organisation syndicale ne présente de liste pour une catégorie hiérarchique, les listes peuvent être librement établies en vue des élections reportées conformément aux dispositions de l'article 5-1.
 
-Lesdites listes sont présentées par les syndicats regroupant le personnel de service du Centre hospitalier Princesse Grace autorisés en application de l'ordonnance-loi n° 399 du 6 octobre 1944 autorisant la création des syndicats professionnels, modifiée. Lorsqu'aucune organisation syndicale ne présente de liste ou lorsque la participation est inférieure à 30 % des électeurs inscrits, les listes peuvent être librement établies.
+Les membres titulaires du comité ont voix délibérative à l'exception du président qui ne prend pas part au vote.
 
-Les membres du Comité technique d'établissement ont voix délibérative à l'exception du Président qui ne prend pas part au vote.
+Le comité comprend également seize membres suppléants représentant les catégories hiérarchiques de l'établissement et élus dans les mêmes conditions que les membres titulaires mentionnés au chiffre 2.

@@ -1,8 +1,8 @@
-# Ordonnance Souveraine n° 14.749 du 15 février 2001 portant création d'un Comité technique d'établissement au Centre hospitalier Princesse Grace
+# Ordonnance Souveraine n° 14.749 du 15 février 2001 portant création d'un comité technique d'établissement au Centre hospitalier Princesse Grace
 
-Version en vigueur au 24 février 2001.
+Version en vigueur au 14 juin 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2001/02-15-14.749@2001.02.24/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2001/02-15-14.749@2025.06.14/
 
 | | |
 | --- | --- |
