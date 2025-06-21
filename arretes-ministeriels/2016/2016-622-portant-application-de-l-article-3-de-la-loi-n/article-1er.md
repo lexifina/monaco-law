@@ -22,4 +22,6 @@ Les catégories d'actes et de décisions administratives donnant lieu à des enq
 
 - 10. refoulement ou expulsion du territoire de la Principauté ;
 
-- 11. application de la réglementation relative aux jeux de hasard, en matière de contrôle des accès aux salles de jeux.
+- 11. application de la réglementation relative aux jeux de hasard, en matière de contrôle des accès aux salles de jeux ;
+
+- 12. décisions préalables à la conclusion de la vente d'un bien saisi ou confisqué, dans le cadre de l'application de l'article 8 de l'Ordonnance Souveraine n° 10.245 du 7 décembre 2023 portant application du Chapitre II de la loi n° 1.535 du 9 décembre 2022 relative à la saisie et à la confiscation des produits du crime.
