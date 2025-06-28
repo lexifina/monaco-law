@@ -15,3 +15,5 @@ Sans préjudice des dispositions qui précèdent, la personne qui met en œuvre 
 - - la loi n° 1.235 du 28 décembre 2000 relative aux conditions de location de certains locaux à usage d'habitation construits ou achevés avant le 1er septembre 1947, modifiée.
 
 Lorsque le local à usage d'habitation relève du secteur libre d'habitation, elle peut également y domicilier son activité, sous réserve de l'autorisation du propriétaire et de l'absence d'interdiction dans le règlement de copropriété.
+
+Toutefois, pour l'autorisation délivrée par le directeur de l'action sanitaire, la pratique ne peut être exercée que dans les lieux prévus par l'autorisation.

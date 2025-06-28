@@ -1,8 +1,8 @@
 # Loi n° 1.516 du 23 décembre 2021 relative aux pratiques non conventionnelles participant au mieux-être
 
-Version en vigueur au 25 mars 2023.
+Version en vigueur au 28 juin 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2021/12-23-1.516@2023.03.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2021/12-23-1.516@2025.06.28/
 
 | | |
 | --- | --- |
