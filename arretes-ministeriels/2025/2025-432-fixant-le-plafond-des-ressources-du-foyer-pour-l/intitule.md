@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-432 du 31 juillet 2025 fixant le plafond des ressources du foyer pour l'octroi de l'allocation de crèche, de l'allocation de vacances et de l'allocation exceptionnelle de rentrée scolaire aux fonctionnaires et agents de l'État et de la Commune à compter du 1er juillet 2025
