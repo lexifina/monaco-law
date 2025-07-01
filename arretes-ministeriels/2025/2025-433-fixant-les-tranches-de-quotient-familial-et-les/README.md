@@ -1,0 +1,12 @@
+# Arrêté ministériel n° 2025-433 du 31 juillet 2025 fixant les tranches de quotient familial et les montants de référence annuels de l'allocation de fin d'année versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er juillet 2025
+
+Version en vigueur au 1er juillet 2025.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/07-31-2025-433@2025.07.01/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Arrêté ministériel |
+| Date du texte | 31 juillet 2025 |
+| Publication | Journal de Monaco du 8 août 2025 |
