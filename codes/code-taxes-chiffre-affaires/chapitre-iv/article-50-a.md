@@ -2,7 +2,9 @@
 
 I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajoutée les opérations ci-après :
 
-- 1° Les livraisons de biens destinés à être placés sous l'un des régimes suivants prévus par les règlements communautaires en vigueur : conduite en douane, magasins et aires de dépôt temporaire, entrepôts d'importation ou d'exportation, perfectionnement actif.
+- 1° Les livraisons de biens destinés à être placés sous l'un des régimes suivants prévus par les règlements communautaires en vigueur : conduite en douane, magasins et aires de dépôt temporaire, entrepôts d'importation ou d'exportation, perfectionnement actif, apurement simplifié de biens du secteur aéronautique. L'apurement simplifié de biens du secteur aéronautique s'entend, pour des marchandises relevant du secteur aéronautique qui sont placées sous le régime du perfectionnement actif IM/ EX ou qui sont affectées à la fabrication, à la réparation, à la modification ou à la transformation de marchandises placées sous ce régime de perfectionnement actif, de la situation comprise entre, d'une part, la date de l'apurement de ce régime et, d'autre part, celle de la livraison d'aéronefs, d'engins spatiaux et des équipements qui s'y rapportent mentionnés, respectivement, aux 3, 4 ou 5 et aux c, d ou e du 1 de l'article 324 du règlement d'exécution (UE) 2015/2447 de la Commission du 24 novembre 2015 établissant les modalités d'application de certaines dispositions du règlement (UE) n° 952/2013 du Parlement européen et du Conseil établissant le Code des douanes de l'Union ;
+
+- 1° bis Les importations d'aéronefs, de parties d'aéronefs, d'engins spatiaux et d'équipements qui s'y rapportent destinés à être placés sous le régime de l'apurement simplifié du secteur aéronautique mentionné au 1° ;
 
 - 2° Les livraisons de biens destinés à être placés sous l'un des régimes suivants :
 
@@ -22,7 +24,7 @@ I. - Sont effectuées en suspension du paiement de la taxe sur la valeur ajouté
 
 - 4° Les acquisitions intracommunautaires de biens destinés à être placés sous l'un des régimes mentionnés aux 1° et 2°.
 
-- 5° Les prestations de services afférentes aux opérations mentionnées aux 1°, 2°, 3° et 4°.
+- 5° Les prestations de services afférentes aux opérations mentionnées aux 1°, 1° bis, 2°, 3° et 4°.
 
 - 6° Les livraisons de biens et les prestations de services effectuées sous les régimes énumérés aux 1° et 2°, avec maintien, selon le cas, d'une des situations mentionnées auxdits 1° et 2°.
 
@@ -42,7 +44,7 @@ Le retrait de l'autorisation mentionnée au 2° du I met également fin à la su
 
 - 1° pour les livraisons visées aux 1° et 2° du I, le destinataire ;
 
-- 2° pour l'importation visée au 3° du I, la personne désignée au 2 de l'article 85 ;
+- 2° pour les importations mentionnées aux 1° bis et 3° du I, la personne désignée au 2 de l'article 85 ;
 
 - 3° pour l'acquisition intracommunautaire visée au 4° du I, la personne désignée au 3 de l'article 62 ;
 
@@ -54,7 +56,7 @@ c) Dans les cas visés au a et b du présent 2, la personne qui a obtenu l'autor
 
 3. La taxe due est, selon le cas :
 
-- 1° Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement sous le régime, la taxe afférente à l'opération mentionnée aux 1°, 2°, 3° ou 4° du I, et, le cas échéant, la taxe afférente aux prestations de services mentionnées aux 5° et 6° du I.
+- 1° Lorsque le bien n'a fait l'objet d'aucune livraison pendant son placement sous le régime, la taxe afférente à l'opération mentionnée aux 1°, 1° bis, 2°, 3° ou 4° du I, et, le cas échéant, la taxe afférente aux prestations de services mentionnées aux 5° et 6° du I.
 
 - 2° Lorsque le bien a fait l'objet d'une ou plusieurs livraisons mentionnées aux 6° et 7° du I pendant son placement sous le régime, la taxe afférente à la dernière de ces livraisons, augmentée, le cas échéant, de la taxe afférente aux prestations de services mentionnées aux 5°, 6° et 7° du I, effectuées soit après cette dernière livraison soit avant cette dernière livraison si le preneur est la personne mentionnée au b du 2.
 
