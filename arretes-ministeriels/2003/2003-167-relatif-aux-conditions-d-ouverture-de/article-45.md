@@ -8,4 +8,4 @@ Ils doivent notamment posséder :
 
 - b) les moyens en personnels et matériels nécessaires à l'exercice de leurs activités.
 
-Le pharmacien responsable adresse chaque année au directeur de l'action sanitaire et sociale un état des établissements de l'entreprise dans laquelle il exerce.
+Le pharmacien responsable adresse chaque année au directeur de l'action sanitaire un état des établissements de l'entreprise dans laquelle il exerce.

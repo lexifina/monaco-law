@@ -1,6 +1,6 @@
 # Article 49
 
-Les fabricants de médicaments mentionnés au 1° de l'article 3 de la loi n° 1.029 du 16 juillet 1980 susvisée, les fabricants de générateurs, trousses ou précurseurs ainsi que les fabricants de produits mentionnés à l'article 80 de la même loi doivent pouvoir justifier, à tout moment, que tous les produits qu'ils utilisent, fabriquent et livrent sont conformes aux caractéristiques auxquelles ils doivent répondre et qu'il a été procédé aux contrôles nécessaires.
+Les fabricants de médicaments à usage humain et les fabricants de générateurs, de trousses ou de précurseurs mentionnés au chiffre 3 de l'article 5 de la loi n° 1.518 du 23 décembre 2021, susmentionnée, doivent pouvoir justifier, à tout moment, que tous les produits qu'ils utilisent, fabriquent et livrent sont conformes aux caractéristiques auxquelles ils doivent répondre et qu'il a été procédé aux contrôles nécessaires.
 
 Les fabricants de médicaments ou produits faisant l'objet d'une autorisation de mise sur le marché, d'une autorisation temporaire d'utilisation ou d'un enregistrement, veillent à ce que toutes les opérations de fabrication soient conduites dans le respect des données du dossier de cette autorisation ou de cet enregistrement. Ils sont tenus de réévaluer et, si nécessaire, de modifier leurs méthodes de fabrication et de contrôle en fonction des progrès scientifiques et techniques.
 
