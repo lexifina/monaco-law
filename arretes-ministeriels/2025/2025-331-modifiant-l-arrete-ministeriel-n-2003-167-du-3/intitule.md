@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-331 du 30 juin 2025 modifiant l'arrêté ministériel n° 2003-167 du 3 mars 2003 relatif aux conditions d'ouverture, de modification et de fonctionnement des établissements pharmaceutiques, modifié
