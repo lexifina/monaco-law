@@ -1,3 +1,5 @@
 # Article 28-5
 
-Toute information enregistrée dans une technologie de registres distribués vaut présomption simple de son existence, de son contenu et de sa date, jusqu'à preuve contraire sous réserve du respect des exigences fixées par ordonnance souveraine.
+Un registre électronique ne peut être privé d'effet juridique et la recevabilité de ce registre en tant que preuve en justice ne peut être écartée au seul motif qu'il se présente sous une forme électronique ou qu'il ne satisfait pas aux exigences applicables aux registres électroniques qualifiés.
+
+Les enregistrements de données contenus dans un registre électronique qualifié bénéficient d'une présomption simple quant à leur classement chronologique séquentiel unique et précis et à leur intégrité.
