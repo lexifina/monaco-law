@@ -1,0 +1,1 @@
+Arrêté municipal n° 2025‑3577 du 7 juillet 2025 réglementant la circulation et le stationnement des véhicules à Monaco-Ville ainsi que la circulation des piétons à l'occasion des célébrations des 20 ans de règne de S.A.S. le Prince Souverain
