@@ -24,7 +24,9 @@ L'Agence Monégasque de Sécurité Numérique est dirigée par un directeur, aya
 
 - k) la qualification des Prestataires d'Administration et de Maintenance Sécurisées (PAMS) ;
 
-- l) la qualification des Prestataires d'Accompagnement et de Conseil en Sécurité des systèmes d'information (PACS).
+- l) la qualification des Prestataires d'Accompagnement et de Conseil en Sécurité des systèmes d'information (PACS) ;
+
+- m) la labélisation des prestataires « ExpertCyber Monaco ».
 
 Les modalités d'évaluation, de certification et de qualification des produits de sécurité ainsi que les conditions de délivrance de la qualification des divers prestataires sont déterminées par arrêté ministériel.
 
