@@ -1,1 +1,0 @@
-Ordonnance Souveraine n° 2.230 du 19 juin 2009 fixant les modalités d'application de la loi n° 1.165 du 23 décembre 1993 réglementant les traitements d'informations nominatives, modifiée par la loi n° 1.353 du 4 décembre 2008 relative à la protection des informations nominatives
