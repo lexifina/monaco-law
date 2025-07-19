@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 1.972 du 24 mars 1959 instituant un service du Contrôle général des dépenses
 
-Version en vigueur au 1er janvier 2007.
+Version en vigueur au 19 juillet 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1959/03-24-1.972@2007.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1959/03-24-1.972@2025.07.19/
 
 | | |
 | --- | --- |
