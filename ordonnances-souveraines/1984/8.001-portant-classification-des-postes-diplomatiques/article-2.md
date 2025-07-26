@@ -96,6 +96,8 @@ Les postes consulaires sont les suivants :
 
 - Japon : Tokyo ;
 
+- Jordanie : Amman ;
+
 - Kenya : Nairobi ;
 
 - Lettonie : Riga ;
