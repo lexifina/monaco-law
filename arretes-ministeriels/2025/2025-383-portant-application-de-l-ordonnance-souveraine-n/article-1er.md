@@ -1,0 +1,5 @@
+# Article 1er
+
+Dans le cadre de leurs missions, les militaires du Corps des Carabiniers du Prince, les agents de la Sûreté Publique, les ambulanciers titulaires d'un diplôme d'ambulancier dûment autorisés à exercer au sein d'une société de transports sanitaires agréée, les bénévoles et salariés de la Croix-Rouge monégasque, les bénévoles et salariés des personnes morales placés sous l'autorité de la Croix-Rouge monégasque conformément aux dispositions de l'article 7 de l'Ordonnance Souveraine n° 11.368 du 17 juillet 2025, susvisée, ainsi que les personnes qui, dans le cadre de leurs fonctions professionnelles, ont pour mission de porter secours à autrui, sont habilités à pratiquer les actes de secourisme et de soins d'urgence figurant en annexe I, en fonction de leur niveau de formation dont le contenu est fixé en annexe II et sous réserve d'être à jour de formation continue.
+
+Toutefois, l'administration des médicaments figurant en annexe I, à l'exception de l'oxygène, n'est permise que si elle fait l'objet d'un protocole prévu, selon le cas, à l'article 3, 5 ou 6.
