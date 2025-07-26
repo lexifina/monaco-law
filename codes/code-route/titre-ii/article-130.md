@@ -4,11 +4,13 @@ Le conducteur de tout véhicule ou ensemble de véhicules est tenu de présenter
 
 - 1° son permis de conduire ;
 
-- 2° le certificat d'immatriculation du véhicule automobile et le cas échéant, celui de la remorque si la masse totale autorisée de cette dernière excède 750 kilogrammes ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les certificats d'immatriculation provisoires ;
+- 2° le certificat d'immatriculation du véhicule automobile et le cas échéant, celui de la remorque si la masse totale autorisée de cette dernière excède 750 kilogrammes ou de la semi-remorque s'il s'agit d'un véhicule articulé, ou les certificats d'immatriculation provisoires, ainsi que le certificat de paiement de l'estampille.
 
 - 3° le contrat de location du véhicule ;
 
-- 4° L'attestation d'assurance du véhicule en cours de validité.
+- 4° l'attestation d'assurance du véhicule en cours de validité ;
+
+- 5° un contrôle technique en cours de validité pour les véhicules soumis à une visite technique périodique.
 
 Sans préjudice des dispositions prévues à l'alinéa précédent, le conducteur d'un véhicule taxi ou d'un véhicule de location avec chauffeur immatriculé à l'étranger, qui stationne ou circule sur la voie publique, est tenu, sur réquisition des agents de l'autorité publique, de :
 
