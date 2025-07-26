@@ -52,8 +52,6 @@ Estampille d'un véhicule immatriculé en « Z » ou en série TT (Transit Tempo
 
 Duplicata d'estampille | 12,00 €
 
-Frais de retard de paiement de l'estampille pour un véhicule | 41,00 €
-
 VISITE TECHNIQUE
 
 Visite technique d'un véhicule d'un Poids Total Autorisé en Charge (P.T.A.C.) inférieur ou égal à 3,5 tonnes | 62,00 €
@@ -169,8 +167,6 @@ Estampille d'un poids lourd ou autre véhicule léger | 52,00 €
 Estampille d'une remorque de plus de 750 kg | 52,00 €
 
 Duplicata d'estampille | 12,00 €
-
-Frais de retard de paiement de l'estampille pour un véhicule | 41,00 €
 
 VISITE TECHNIQUE
 
