@@ -6,12 +6,10 @@ L'occupation temporaire de la voie publique et de ses dépendances dans le cadre
 
 • Toutes les demandes devront être assujetties à l'approbation de l'organisateur
 
-L'occupation temporaire dans le cadre du Formula One Grand Prix de Monaco, d'une surface minimum de 250 m² des plages du Stade Nautique Rainier III pour le montage de structures (tribunes, estrades…) durant l'année 2025 donne lieu à la perception d'un droit fixé d'après les tarifs suivants :
+L'occupation temporaire dans le cadre des Grands Prix, ou lors d'autres manifestations d'envergure, des plages du Stade Nautique Rainier III pour le montage de structures (tribunes, estrades…) durant l'année 2025 donne lieu à la perception d'un droit fixé d'après les tarifs suivants :
 
-- Par jour de montage 500 €
+- Par jour de montage : 500,00 €
 
-- Par jour de démontage 500 €
+- Par jour de démontage : 500,00 €
 
-- Exploitation durant le Formula One Grand Prix de Monaco :
-
-Tarif Forfaitaire pour les 4 jours d'exploitation 35 000 €
+- Tarif Forfaitaire par jour d'exploitation : 8.750,00 €
