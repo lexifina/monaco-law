@@ -218,13 +218,21 @@ de 20 h à 8 h | 25,15
 
 IFD | Indemnité forfaitaire de déplacement | 3,81
 
-Des indemnités forfaitaires sont versées aux Médecins Généralistes de la Principauté par les Régimes obligatoires d'Assurance Maladie, pour chaque garde effectuée, soit du lundi au vendredi de 19 heures à 22 heures, soit le samedi, le dimanche et les jours fériés de 7 heures à 22 heures.
+Garde médicale de jour - Des indemnités forfaitaires sont versées par les Régimes obligatoires d'Assurance Maladie aux Médecins de la Principauté qui assurent les gardes le samedi, le dimanche et les jours fériés, de 7 heures à 19 heures.
 
-Elles sont exigibles postérieurement à la tenue des services de garde et s'élèvent à 75 € pour chaque tour de garde complet assuré.
+Le règlement des indemnités forfaitaires intervient trimestriellement dans les 30 jours de la communication, par l'Ordre des Médecins de la Principauté de Monaco, à la Caisse de Compensation des Services Sociaux, d'un relevé nominatif des tours de garde assurés au cours du trimestre civil qui précède.
 
-Le règlement des indemnités forfaitaires intervient trimestriellement, à compter du mois de janvier de chaque année, dans les 30 jours de la communication, par l'Ordre des Médecins de la Principauté de Monaco, à la Caisse de Compensation des Services Sociaux, d'un relevé nominatif des tours de garde assurés.
+Cette dernière procède au versement individuel des indemnités forfaitaires qui s'élèvent à 75 € pour chaque tour de garde complet et à la récupération de la contribution due par les autres Organismes sociaux, selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003, susvisé.
 
-Cette dernière procède au versement des indemnités forfaitaires et à la récupération de la contribution due par les autres Organismes sociaux, selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003.
+Il ne peut être servi plus d'une indemnité de garde de jour par 24 heures, celle-ci est indivisible.
+
+Garde médicale de nuit - Des indemnités forfaitaires sont également versées par les Régimes obligatoires d'Assurance Maladie aux Médecins qui assurent les gardes durant la nuit de 19 heures à 7 heures dans le cadre exclusif du Service de permanence de soins et d'urgence organisé par « Médecins de garde - Monaco » créé par l'Ordonnance Souveraine n° 11.328 du 10 juillet 2025.
+
+Le règlement des indemnités forfaitaires intervient trimestriellement dans les 30 jours de la communication, par « Médecins de garde - Monaco », à la Caisse de Compensation des Services Sociaux, d'un relevé nominatif des tours de garde assurés au cours du trimestre civil qui précède.
+
+Cette dernière procède au versement individuel des indemnités forfaitaires qui s'élèvent à 250 € pour chaque tour de garde complet et à la récupération de la contribution due par les autres Organismes sociaux, selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003, susvisé.
+
+Il ne peut être servi plus d'une indemnité de garde de nuit par 24 heures, celle-ci est indivisible.
 
 B - Soins externes hospitaliers - établissements publics
 
