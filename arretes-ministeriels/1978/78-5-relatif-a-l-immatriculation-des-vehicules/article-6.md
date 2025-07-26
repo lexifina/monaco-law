@@ -10,7 +10,7 @@ Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatricul
 
 - - couleur des caractères : bleue
 
-- - à l'avant et à l'arrière, les armoiries princières remplacent l'écusson rouge et blanc et l'estampille annuelle.
+- - à l'avant et à l'arrière, les armoiries princières remplacent l'écusson rouge et blanc et l'estampille.
 
 Véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée :
 
@@ -108,7 +108,7 @@ Les intéressés devront justifier que le nombre de cartes qu'ils demandent est 
 
 Les véhicules mis en circulation sous le couvert de cartes " W " devront, dans tous les cas, être accompagnés de l'attributaire ou de l'un de ses employés, qui devra présenter à toute réquisition la carte qui lui a été affectée.
 
-Les cartes " W " sont valables pour une durée d'un an, jusqu'au 31 décembre de l'année en cours. Leur reconduction s'effectue dans le cadre de la campagne de renouvellement annuelle des immatriculations dont les modalités sont fixées par l'article 5 du présent arrêté.
+Les cartes " W " sont valables pour une durée d'un an, jusqu'au 31 décembre de l'année en cours. Leur reconduction s'effectue dans le cadre de la campagne de renouvellement des immatriculations dont les modalités sont fixées par l'article 5 du présent arrêté.
 
 Il pourra être procédé, en cours d'année, au retrait de tout ou partie des cartes délivrées, en cas de cessation de commerce, ou s'il est établi qu'elles ont cessé de répondre à un besoin réel de celui qui les utilise.
 
@@ -126,7 +126,7 @@ Toute mise en circulation de véhicules sous le couvert de cartes " W " en dehor
 
 N° W100 à W999, 100W à 999W et WA01 à WZ99.
 
-Ces numéros ne pourront être utilisés qu'accompagnés d'un certificat d'immatriculation provisoire, délivré par le Service des Titres de Circulation valable pour la durée de validité de l'estampille annuelle correspondante, éventuellement renouvelable, et affecté à un seul véhicule entrant dans l'une des catégories ci-après :
+Ces numéros ne pourront être utilisés qu'accompagnés d'un certificat d'immatriculation provisoire, délivré par le Service des Titres de Circulation valable pour la durée de validité de l'estampille correspondante, éventuellement renouvelable, et affecté à un seul véhicule entrant dans l'une des catégories ci-après :
 
 - a) prototype en cours d'étude ou d'essais techniques, carrossé ou non, à vide ou lesté, mais non chargé, à l'exception des personnes et du matériel nécessaires aux essais ;
 
