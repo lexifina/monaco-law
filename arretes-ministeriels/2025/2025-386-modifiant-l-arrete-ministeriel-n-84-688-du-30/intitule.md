@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-386 du 18 juillet 2025 modifiant l'arrêté ministériel n° 84-688 du 30 novembre 1984 relatif à la nomenclature générale des actes professionnels des médecins, des chirurgiens-dentistes, des sage-femmes et des auxiliaires médicaux, modifié
