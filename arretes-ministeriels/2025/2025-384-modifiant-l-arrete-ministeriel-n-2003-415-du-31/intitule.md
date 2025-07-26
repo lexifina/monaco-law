@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-384 du 18 juillet 2025 modifiant l'arrêté ministériel n° 2003-415 du 31 juillet 2003 fixant le montant des prestations en nature dues par la Caisse de Compensation des Services Sociaux, modifié
