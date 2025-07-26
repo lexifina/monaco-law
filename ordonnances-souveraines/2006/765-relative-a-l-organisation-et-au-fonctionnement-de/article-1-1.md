@@ -9,3 +9,5 @@ La mission de préservation de la sécurité et de la tranquillité publiques a 
 - le contrôle de la situation, au plan du séjour, des personnes présentes sur le territoire de la Principauté et des personnes souhaitant y séjourner ou y travailler ;
 
 - la prévention générale de la délinquance.
+
+Dans le cadre de la mission mentionnée au premier alinéa, les agents de la Direction de la Sûreté Publique peuvent réaliser les actes de secourisme et de soins d'urgence déterminés par arrêté ministériel. Cet arrêté définit également leurs modalités de mise en œuvre ainsi que, le cas échéant, le niveau de formation requis pour réaliser ces actes. Le Directeur de la Sûreté Publique désigne un médecin référent chargé de contribuer à la mise en œuvre des secours et des soins d'urgence et communique au Directeur de l'Action Sanitaire l'identité de ce médecin, lequel ne peut être désigné que parmi les médecins autorisés à exercer la médecine à Monaco.
