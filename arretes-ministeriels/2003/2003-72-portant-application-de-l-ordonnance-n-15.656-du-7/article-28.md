@@ -6,9 +6,9 @@ Cette notification inclut les éléments obligatoires suivantes :
 
 - a) l'énoncé de la/des disposition(s) des règles antidopage dont la violation par le sportif ou l'autre personne est/sont alléguée(s) ;
 
-- b) un résumé détaillé des faits pertinents sur lesquels repose l'allégation, en joignant toute preuve qui n'aurait pas déjà été produite dans la notification visée à l'article 19 ;
+- b) un résumé détaillé des faits pertinents sur lesquels repose l'allégation, en joignant toute preuve qui n'aurait pas déjà été produite dans la notification visée aux articles 11 et/ou 19 ;
 
-- c) la mention des conséquences de la/des violation(s) alléguée(s) ;
+- c) la mention des conséquences de la/des violation(s) alléguée(s) et la mention que ces conséquences sont appelées à avoir un effet contraignant sur tous les signataires du Code Mondial Antidopage dans tous les sports et pays conformément à l'article 15 du Code Mondial Antidopage ;
 
 - d) la mention du délai fixé, sauf cas exceptionnel, à vingt jours dont dispose le sportif ou l'autre personne à compter de la réception de la lettre de notification des charges soit pour avouer la violation des règles anti-dopage alléguée et accepter les conséquences proposées, en signant, datant et renvoyant un formulaire d'acceptation des conséquences joint à cette lettre, soit pour contester par écrit la violation alléguée des règles antidopage et/ou les conséquences proposées par le Comité monégasque antidopage, et/ou déposer une demande écrite d'audition devant l'instance d'audition compétente ;
 

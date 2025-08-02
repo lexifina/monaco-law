@@ -42,4 +42,4 @@ Si les résultats de l'analyse de l'échantillon « B » confirment ceux de l'é
 
 Si les résultats de l'analyse de l'échantillon B ne confirment pas les résultats de l'analyse de l'échantillon A, le sportif ne pourra faire l'objet d'aucune mesure de suspension provisoire ou de sanction disciplinaire au titre du chiffre 1° de l'article 6 de l'Ordonnance Souveraine n° 15.656 du 7 févier 2003, modifiée.
 
-Le sportif, sa fédération nationale et l'Agence Mondiale Antidopage en seront informés, à moins que le Comité Monégasque Antidopage ne continue la procédure en tant que violation des règles antidopage aux termes du chiffre 2° de l'article 6 de l'ordonnance souveraine mentionnée à l'alinéa précédent.
+Le sportif, et les organisations antidopage ayant le droit de faire appel en vertu de l'article 13.2.3 du Code Mondial Antidopage en seront informés, à moins que le Comité Monégasque Antidopage ne continue la procédure en tant que violation des règles antidopage aux termes du chiffre 2° de l'article 6 de l'ordonnance souveraine mentionnée à l'alinéa précédent.
