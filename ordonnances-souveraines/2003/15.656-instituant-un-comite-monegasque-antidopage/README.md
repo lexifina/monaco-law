@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 15.656 du 7 février 2003 instituant un Comité monégasque antidopage
 
-Version en vigueur au 30 janvier 2021.
+Version en vigueur au 2 août 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2003/02-07-15.656@2021.01.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2003/02-07-15.656@2025.08.02/
 
 | | |
 | --- | --- |

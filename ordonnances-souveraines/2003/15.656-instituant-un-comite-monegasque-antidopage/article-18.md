@@ -1,6 +1,6 @@
 # Article 18
 
-Toutes les décisions mentionnées à l'article 13.2 du Code mondial antidopage peuvent faire l'objet d'un appel exclusivement selon les modalités suivantes :
+I. - Toutes les décisions mentionnées à l'article 13.2 du Code mondial antidopage peuvent faire l'objet d'un appel exclusivement selon les modalités suivantes :
 
 1°) Dans les cas mettant en cause une participation à une manifestation internationale ou impliquant des sportifs de niveau international, la décision de la Chambre Disciplinaire peut uniquement faire l'objet d'un appel devant le Tribunal Arbitral du Sport. La procédure devant le TAS est régie par le Code d'arbitrage en matière de sport.
 
@@ -14,13 +14,11 @@ b) vingt-et-un (21) jours après la date de réception, par l'Agence Mondiale An
 
 2°) Dans les cas où le chiffre 1° ci-dessus n'est pas applicable, la décision de la Chambre Disciplinaire peut, à peine de forclusion, faire l'objet d'un appel devant le Tribunal de Première Instance dans un délai de deux (2) mois, à compter de la date de notification de la décision contestée. La procédure devant le Tribunal de Première Instance est régie par le Code de Procédure Civile.
 
-Les voies d'appel mentionnées aux chiffres 1° et 2° ci-dessus sont ouvertes :
+II. - Les voies d'appel mentionnées aux chiffres 1° et 2° ci-dessus sont ouvertes :
 
 - au sportif ou l'autre personne faisant l'objet de la décision portée en appel ;
 
 - à l'autre partie impliquée dans l'affaire dans laquelle la décision a été rendue ;
-
-- au groupement sportif national dont relève le sportif ou l'autre personne quand la décision lèse les intérêts de ce groupement ;
 
 - à la fédération internationale compétente ;
 
@@ -38,4 +36,4 @@ b) vingt-et-un (21) jours après la date de réception, par l'Agence Mondiale An
 
 Dans les cas prévus au chiffre 2° ci-dessus, l'Agence Mondiale Antidopage, le Comité International Olympique, le Comité International Paralympique et la fédération internationale compétente pourront aussi faire appel devant le Tribunal Arbitral du Sport d'une décision rendue par le Tribunal de Première Instance. La partie faisant appel aura droit à l'aide du Tribunal Arbitral du Sport pour obtenir toute information pertinente auprès de l'organisation antidopage dont la décision est portée en appel, et l'information devra être fournie si le tribunal arbitral du sport l'ordonne.
 
-Pour les personnes qui n'ont pas été parties à la procédure devant la Chambre Disciplinaire, le délai de recours est de vingt-et-un (21) jours à compter de la réception du dossier dont la communication aura été préalablement sollicitée auprès du Comité Monégasque Antidopage dans les dix jours suivant la notification de la décision objet du recours.
+Sauf les délais applicables à l'Agence Mondiale Antidopage, pour les personnes qui n'ont pas été parties à la procédure devant la Chambre Disciplinaire, le délai de recours est de deux (2) mois à compter de la date de notification de la décision contestée.

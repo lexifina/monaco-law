@@ -22,6 +22,6 @@ Elle est notifiée aux parties par son Président dans un délai de vingt jours 
 
 À réception de cette notification, le Comité Monégasque Antidopage notifie la décision à l'AMA et aux autres parties autorisées par l'article 13.2.3 du Code Mondial Antidopage à faire appel.
 
-Lorsque la Chambre Disciplinaire du Comité Monégasque Antidopage ne rend pas de décision dans le délai de quatre mois mentionné au septième alinéa du présent article, l'Agence Mondiale Antidopage peut décider d'en saisir directement le tribunal arbitral du sport, comme si la Chambre Disciplinaire du Comité Monégasque Antidopage avait rendu une décision d'absence de violation des règles antidopage.
+Lorsque la Chambre Disciplinaire du Comité Monégasque Antidopage ne rend pas de décision dans un délai raisonnable fixé par l'Agence Mondiale Antidopage, l'Agence Mondiale Antidopage peut décider d'en saisir directement le tribunal arbitral du sport, comme si la Chambre Disciplinaire du Comité Monégasque Antidopage avait rendu une décision d'absence de violation des règles antidopage.
 
 Si le tribunal arbitral du sport établit la violation des règles antidopage et constate que l'Agence Mondiale Antidopage a agi en respectant le délai prévu à l'alinéa précédent les frais et les honoraires d'avocats qu'a exposés l'Agence Mondiale Antidopage seront pris en charge par le Comité Monégasque Antidopage.

@@ -2,7 +2,7 @@
 
 Le Comité Monégasque Antidopage participe à la veille juridique et sanitaire sur le dopage. À ce titre, il transmet aux groupements sportifs et organismes concernés les informations qu'il reçoit sur le dernier état de la recherche et du droit applicable en matière de lutte contre le dopage.
 
-Dans des conditions déterminées par arrêté ministériel, il délivre les autorisations d'usage à des fins thérapeutiques et se prononce sur la reconnaissance de validité des autorisations d'usage à des fins thérapeutiques délivrées par une organisation nationale antidopage étrangère, une organisation responsable d'une grande manifestation sportive internationale ou une fédération internationale.
+Dans des conditions déterminées par arrêté ministériel, il délivre les autorisations d'usage à des fins thérapeutiques.
 
 Il est consulté sur tout projet de texte relatif à la protection de la santé des sportifs et à la lutte contre le dopage.
 

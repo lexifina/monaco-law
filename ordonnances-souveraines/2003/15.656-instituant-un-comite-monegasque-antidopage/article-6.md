@@ -22,11 +22,13 @@ Cette violation est considérée comme non établie dans les cas :
 
 - où des critères particuliers pour rapporter ou pour évaluer certaines substances interdites sont prévus par la Liste des Interdictions visée au premier alinéa, les standards internationaux et les documents techniques ;
 
-2°) L'usage ou la tentative d'usage par un sportif d'une substance ou d'une méthode interdite, sans que le succès ou l'échec de cet usage ou de cette tentative d'usage d'une substance interdite ou d'une méthode interdite, ne soit déterminant. L'usage ou la tentative d'usage de la substance interdite ou de la méthode interdite suffit pour qu'il y ait violation des règles antidopage.
+2°) L'usage ou la tentative d'usage par un sportif d'une substance ou d'une méthode interdite.
 
-Il incombe personnellement aux sportifs de s'assurer qu'aucune substance interdite ne pénètre dans leur organisme et qu'aucune méthode interdite ne soit utilisée.
+Il incombe personnellement aux sportifs de faire en sorte qu'aucune substance interdite ne pénètre dans leur organisme et qu'aucune méthode interdite ne soit utilisée.
 
-Lorsque la violation des règles antidopage prévues au présent chiffre est constituée, elle est établie dans les mêmes conditions que celles mentionnées au premier alinéa du chiffre 1° ;
+Par conséquent, il n'est pas nécessaire de démontrer l'intention, la faute, la négligence ou l'usage conscient de la part du sportif pour établir la violation des règles antidopage pour cause d'usage d'une substance interdite ou d'une méthode interdite.
+
+Le succès ou l'échec de l'usage ou de la tentative d'usage d'une substance interdite ou d'une méthode interdite n'est pas déterminant. L'usage ou la tentative d'usage de la substance interdite ou de la méthode interdite suffit pour qu'il y ait violation des règles antidopage. Toutefois, la démonstration de la tentative d'usage d'une substance interdite ou d'une méthode interdite nécessite la preuve d'une intention en ce sens de la part du sportif ;
 
 3°) Le refus ou le fait de se soustraire sans justification valable à un prélèvement d'échantillons après notification, en conformité avec les règlements antidopage en vigueur, ou encore le fait d'éviter un prélèvement d'échantillons ;
 
@@ -34,13 +36,15 @@ Lorsque la violation des règles antidopage prévues au présent chiffre est con
 
 5°) La falsification ou la tentative de falsification de tout élément du contrôle du dopage de la part d'un sportif ou d'une autre personne ;
 
-6°) La possession en compétition, par un sportif ou par un membre du personnel d'encadrement du sportif, de toute substance interdite ou méthode interdite, ou la possession hors compétition, par un sportif ou par un membre du personnel d'encadrement du sportif, d'une méthode interdite ou d'une substance interdite hors compétition, à moins que le sportif n'établisse que cette possession est conforme à une autorisation d'usage à des fins thérapeutiques (AUT) accordée en application de l'article 7 ou ne fournisse une autre justification acceptable ;
+6°) La possession en compétition par un sportif de toute substance interdite ou méthode interdite, ou la possession hors compétition par un sportif de toute substance interdite ou méthode interdite qui est interdite hors compétition, à moins que le sportif n'établisse que cette possession est conforme à une autorisation d'usage à des fins thérapeutiques (AUT) accordée en application de l'article 7 ou ne fournisse une autre justification acceptable.
 
-7°) Le trafic ou la tentative de trafic d'une substance interdite ou d'une méthode interdite, de même que le fait de produire, fabriquer, importer, exporter, détenir ou acquérir, aux fins d'usage par un sportif sans raison médicale dûment justifiée, une ou des substances ou méthodes figurant sur la Liste des Interdictions mentionnée au premier alinéa ;
+La possession en compétition par un membre du personnel d'encadrement du sportif de toute substance interdite ou méthode interdite, ou la possession hors compétition par un membre du personnel d'encadrement du sportif de toute substance interdite ou méthode interdite qui est interdite hors compétition en lien avec un sportif, une compétition ou un entraînement, à moins que la personne en question ne puisse établir que cette possession est conforme à une AUT accordée à un sportif en application de l'article 7 ou ne fournisse une autre justification acceptable ;
 
-8°) Le fait ou la tentative de prescrire, administrer, appliquer, céder ou offrir à un sportif en ou hors compétition, sans raison médicale dûment justifiée, une ou plusieurs substances ou méthodes figurant sur la Liste des Interdictions mentionnée au premier alinéa ;
+7°) Le trafic ou la tentative de trafic d'une substance interdite ou d'une méthode interdite par un sportif ou une autre personne ;
 
-9°) Le fait ou la tentative d'assister, inciter, contribuer, conspirer, dissimuler ou toute autre forme de complicité ou de tentative de complicité impliquant une violation des règles antidopage, une tentative de violation des règles antidopage ou une participation à quelque titre que ce soit à une activité sportive pendant une période de suspension ou de suspension provisoire par une autre personne ;
+8°) L'administration ou la tentative d'administration par un sportif ou une autre personne à un sportif en compétition d'une substance interdite ou d'une méthode interdite, ou l'administration ou la tentative d'administration à un sportif hors compétition d'une substance interdite ou d'une méthode interdite qui est interdite hors compétition ;
+
+9°) L'assistance, l'incitation, la contribution, la conspiration, la dissimulation ou toute autre forme de complicité ou de tentative de complicité impliquant une violation des règles antidopage, une tentative de violation des règles antidopage ou une violation de l'article 10.14.1 du Code Mondial Antidopage par une autre personne ;
 
 10°) L'association, à titre professionnel ou sportif, entre un sportif, ou une autre personne soumise à l'autorité d'une organisation antidopage, et un membre du personnel d'encadrement du sportif qui :
 
@@ -52,4 +56,10 @@ Lorsque la violation des règles antidopage prévues au présent chiffre est con
 
 Pour établir une violation du présent chiffre, une organisation antidopage doit établir que le sportif ou l'autre personne connaissait le statut disqualifiant du membre d'encadrement du sportif. Il incombe au sportif et à l'autre personne d'établir que l'association avec le membre de l'encadrement du sportif décrite aux alinéas précédents ne revêt pas un caractère professionnel ou sportif et/ou que cette association ne pouvait raisonnablement pas être évitée ;
 
-11°) Tout acte commis par un sportif ou une autre personne pour dissuader les signalements de bonne foi aux autorités ou tout acte de représailles à l'encontre de tels signalements. Sont ainsi concernés, lorsqu'un tel comportement ne constitue pas par ailleurs une violation du chiffre 5°, tout acte de menace ou toute intimidation ou tentative d'intimidation visant à décourager une personne de signaler de bonne foi des informations ayant trait à une violation des règles antidopage ou à une non-conformité avec le Code Mondial Antidopage, à une organisation antidopage, à des organes chargés de l'application de la loi, à des organes disciplinaires de nature réglementaire ou professionnelle, à une instance d'audition ou à une personne chargée de mener une enquête pour l'Agence mondiale antidopage ou une organisation antidopage, ainsi que tout acte de représailles à l'encontre d'une personne qui a fourni des preuves ou des informations se rapportant aux objets précités.
+11°) Tout acte commis par un sportif ou une autre personne pour décourager les signalements de bonne foi aux autorités ou tout acte de représailles à l'encontre de tels signalements. Sont ainsi concernés, lorsqu'un tel comportement ne constitue pas par ailleurs une violation du chiffre 5°) :
+
+- tout acte de menace ou toute intimidation ou tentative d'intimidation visant à décourager une personne de signaler de bonne foi des informations se rapportant à une allégation de violation des règles antidopage ou de non-conformité avec le Code Mondial Antidopage, à l'AMA, à une organisation antidopage, à des organes chargés de l'application de la loi, à des organes disciplinaires de nature réglementaire ou professionnelle, à une instance d'audition ou à une personne chargée de mener une enquête pour l'Agence Mondiale Antidopage ou une organisation antidopage ;
+
+- ainsi que tout acte de représailles à l'encontre d'une personne qui, de bonne foi, a fourni des preuves ou des informations se rapportant aux objets précités à l'alinéa précédent.
+
+Au sens du chiffre 11°) du présent article, les représailles, menaces et intimidations incluent tout acte entrepris contre une telle personne qui n'est pas entrepris de bonne foi ou qui constitue une réponse disproportionnée.
