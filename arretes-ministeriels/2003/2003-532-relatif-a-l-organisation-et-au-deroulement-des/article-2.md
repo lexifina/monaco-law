@@ -4,7 +4,7 @@ Dans le cadre de l'évaluation des risques et de la détermination des priorité
 
 I. - Le groupe cible comprend :
 
-1°) les sportifs inscrits sur la liste nationale des sportifs de haut niveau établie par le Ministre d'État et les sportifs désignés par délibération du Collège du Comité Monégasque Antidopage à partir d'une liste de sportifs de niveau national au sens du b) de l'article 4.3.2 du Standard international mentionné au troisième alinéa de l'article premier du présent arrêté, établie par ses soins en conformité avec ce même Standard ;
+1°) À l'exception de ceux qui ont pris leur retraite sportive et sans préjudice des dispositions de l'article 7.7 du Code Mondial Antidopage, les sportifs inscrits sur la liste nationale des sportifs de haut niveau établie par le Ministre d'État et les sportifs désignés par délibération du Collège du Comité Monégasque Antidopage à partir d'une liste de sportifs de niveau national au sens du b) de l'article 4.3.2 du Standard international mentionné au troisième alinéa de l'article premier du présent arrêté, établie par ses soins en conformité avec ce même Standard ;
 
 2°) les sportifs professionnels licenciés d'une fédération nationale ;
 
