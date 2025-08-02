@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.411 du 24 juillet 2025 relative aux actes d'épilation à visée non thérapeutique au moyen d'appareils d'épilation à la lumière pulsée intense ou d'appareils laser à visée non thérapeutique
