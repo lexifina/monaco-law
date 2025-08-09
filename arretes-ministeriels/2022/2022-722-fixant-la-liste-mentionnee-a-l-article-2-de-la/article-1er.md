@@ -8,11 +8,17 @@ La liste des pratiques non conventionnelles participant au mieux-être mentionn�
 
 - coupeur de feu ;
 
+- diététique chinoise ;
+
+- kinésiologie ;
+
 - médiation animale ;
 
 - méditation pleine conscience ;
 
 - modelage Tui Na ;
+
+- Qi Gong ;
 
 - réflexologie manuelle ;
 
