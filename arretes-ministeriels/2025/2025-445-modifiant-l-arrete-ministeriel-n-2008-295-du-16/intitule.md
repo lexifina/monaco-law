@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-445 du 8 août 2025 modifiant l'arrêté ministériel n° 2008-295 du 16 juin 2008, modifié, portant application de la loi n° 1.346 du 9 mai 2008 relative à la protection contre le tabagisme, modifiée
