@@ -9,3 +9,5 @@ Ils doivent être maintenus en dépression continue d'au moins 5 pascals par rap
 Leur superficie ne peut représenter plus de vingt pour cent de la superficie totale de l'établissement au sein duquel les emplacements sont aménagés, sans dépasser 35 mètres carrés.
 
 Les dispositions de l'alinéa précèdent ne sont pas applicables aux établissements ayant l'autorisation de débit de tabac.
+
+La superficie des zones réservées visées à l'article 2 de ladite loi ne peut représenter plus de vingt pour cent de la superficie totale de la plage sur lesquelles elles sont aménagées, sans dépasser trente-cinq mètres carrés. Aucune de ces zones ne peut être aménagée sur la plage dite « des pêcheurs », dont les délimitations sont celles fixées par les dispositions de l'article O. 751-3 du Code de la mer.
