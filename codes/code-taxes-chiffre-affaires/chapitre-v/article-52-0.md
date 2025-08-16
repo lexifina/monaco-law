@@ -38,9 +38,7 @@ A. - Les livraisons portant sur :
 
 - 6° Les livres, y compris leur location. Le présent 6° s'applique aux livres sur tout type de support physique et à ceux qui sont fournis par téléchargement, y compris les livres audio.
 
-B. - Les abonnements relatifs aux livraisons d'électricité d'une puissance maximale inférieure ou égale à 36 kilovoltampères, d'énergie calorifique et de gaz naturel combustible, distribués par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir d'énergie renouvelable ou d'un processus dont l'objet n'est pas la production de chaleur.
-
-L'énergie renouvelable est une énergie produite à partir de sources non fossiles renouvelables, à savoir l'énergie éolienne, l'énergie solaire thermique ou photovoltaïque, l'énergie géothermique, l'énergie ambiante, l'énergie marémotrice, houlomotrice ou osmotique et les autres énergies marines, l'énergie hydroélectrique, la biomasse, les gaz de décharge, les gaz des stations d'épuration d'eaux usées et le biogaz.
+B. - Les abonnements relatifs aux livraisons d'énergie calorifique distribuée par réseaux, ainsi que la fourniture de chaleur lorsqu'elle est produite au moins à 50 % à partir d'énergie renouvelable ou d'un processus dont l'objet n'est pas la production de chaleur.
 
 La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site.
 

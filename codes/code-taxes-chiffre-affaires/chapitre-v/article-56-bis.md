@@ -16,10 +16,10 @@
 
 - c) Les travaux comprenant la fourniture ou l'installation d'une chaudière susceptible d'utiliser des combustibles fossiles.
 
-3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou le cas échéant au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur atteste que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux ans et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de conserver cette attestation à l'appui de sa comptabilité.
+3. Le taux réduit prévu au 1 est applicable aux travaux facturés au propriétaire ou le cas échéant au syndicat de copropriétaires, au locataire, à l'occupant des locaux ou à leur représentant à condition que le preneur certifie sur le devis ou la facture que ces travaux se rapportent à des locaux d'habitation achevés depuis plus de deux ans et ne répondent pas aux conditions mentionnées au 2. Le prestataire est tenu de conserver ces éléments à l'appui de sa comptabilité.
 
-Le preneur doit conserver copie de cette attestation ainsi que les factures ou notes émises par les entreprises ayant réalisé des travaux jusqu'au 31 décembre de la cinquième année suivant la réalisation de ces travaux.
+Le preneur doit conserver copie de ce devis ainsi que les factures ou notes émises par les entreprises ayant réalisé des travaux jusqu'au 31 décembre de la cinquième année suivant la réalisation de ces travaux.
 
-Le preneur est solidairement tenu au paiement du complément de taxe si les mentions portées sur l'attestation s'avèrent inexactes de son fait.
+Le preneur est solidairement tenu au paiement du complément de taxe si les mentions portées sur le devis, les factures ou les notes s'avèrent inexactes de son fait.
 
 4. Ces dispositions s'appliquent aux opérations pour lesquelles une facture a été émise à compter du 15 septembre 1999.
