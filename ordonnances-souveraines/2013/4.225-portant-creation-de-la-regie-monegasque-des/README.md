@@ -1,8 +1,8 @@
 # Ordonnance souveraine n° 4.225 du 20 mars 2013 portant création de la Régie des Tabacs et Allumettes
 
-Version en vigueur au 5 mars 2022.
+Version en vigueur au 16 août 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2013/03-20-4.225@2022.03.05/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2013/03-20-4.225@2025.08.16/
 
 | | |
 | --- | --- |
