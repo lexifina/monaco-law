@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 92-484 du 7 août 1992 réglementant la prescription et la délivrance de médicaments contenant des substances vénéneuses dans les établissements de soins
 
-Version en vigueur au 15 août 1992.
+Version en vigueur au 23 août 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1992/08-07-92-484@1992.08.15/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1992/08-07-92-484@2025.08.23/
 
 | | |
 | --- | --- |
