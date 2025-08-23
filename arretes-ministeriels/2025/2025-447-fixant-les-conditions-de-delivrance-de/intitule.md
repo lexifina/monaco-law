@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-447 du 13 août 2025 fixant les conditions de délivrance, de renouvellement, de suspension ou d'abrogation de l'autorisation pour la préparation et la délivrance d'allergènes
