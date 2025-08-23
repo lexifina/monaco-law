@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-446 du 13 août 2025 modifiant l'arrêté ministériel n° 92-484 du 7 août 1992 réglementant la prescription et la délivrance de médicaments contenant des substances vénéneuses dans les établissements de soins
