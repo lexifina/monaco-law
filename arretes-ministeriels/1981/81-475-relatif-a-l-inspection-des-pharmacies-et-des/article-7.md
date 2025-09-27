@@ -1,3 +1,0 @@
-# Article 7
-
-Les inspecteurs témoins d'un flagrant délit de falsification, de fraude ou de la mise en vente de produits corrompus, sont tenus d'en faire la constatation immédiate. Un procès-verbal est dressé à cet effet et l'inspecteur verbalisateur y consigne, avec les mentions prévues à l'article 10 du présent arrêté, toutes les circonstances de nature à établir devant l'autorité judiciaire la valeur des constatations faites. Ce procès-verbal est adressé par l'inspecteur, dans les vingt-quatre heures, au directeur de l'action sanitaire et sociale, en vue de sa transmission immédiate, par intermédiaire du Ministre d'État, au Procureur général.

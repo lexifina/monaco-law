@@ -1,3 +1,0 @@
-# Article 1er
-
-L'inspecteur des pharmacies et les inspecteurs des industries pharmaceutiques procèdent au moins une fois l'an, chacun en ce qui le concerne, à l'inspection des officines et pharmacies visées aux articles 27 et 31 et des établissements visés aux articles 40, 48 et 76, de la loi n° 1.029 du 16 juillet 1980, susvisée. Lorsque l'inspection concerne un établissement pharmaceutique mentionné à l'article 40 de la loi n° 1029 du 16 juillet 1980, les inspecteurs s'assurent notamment que cet établissement respecte les bonnes pratiques prévues à l'article 62 de ladite loi qui le concernent. Chaque inspection donne lieu à un rapport écrit qui doit être communiqué au pharmacien responsable de l'entreprise.
