@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-509 du 18 septembre 2025 fixant les conditions d'inspection des officines et des pharmacies à usage intérieur prévues par la loi n° 1.518 du 23 décembre 2021 relative à l'exercice de la pharmacie
