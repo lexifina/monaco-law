@@ -1,6 +1,6 @@
 # Article 1er
 
-Sans préjudice des dispositions légales en vigueur, les autorisations de constitution des sociétés anonymes et en commandite par actions, accordées en vertu de l'ordonnance du 5 mars 1895, peuvent être révoquées par arrêté ministériel, lorsque :
+Sans préjudice des dispositions légales en vigueur, les autorisations de constitution des sociétés anonymes et en commandite par actions, accordées en vertu de l'ordonnance du 5 mars 1895 , peuvent être révoquées par arrêté ministériel, lorsque :
 
 - 1° La société ne s'est pas livrée sans motif légitime à une activité notable, conforme à ses statuts, depuis plus de deux ans, même antérieurement à la date de publication de la présente loi ;
 
