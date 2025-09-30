@@ -1,6 +1,6 @@
 # Article 8
 
-Les experts-comptables régulièrement autorisés conformément à l'article premier, peuvent constituer une société anonyme conformément aux dispositions de l'ordonnance du 5 mars 1895 sur les sociétés anonymes et en commandite par actions. En outre, la société doit satisfaire aux conditions suivantes :
+Les experts-comptables régulièrement autorisés conformément à l'article premier, peuvent constituer une société anonyme conformément aux dispositions de la loi n° 1.573 du 8 avril 2025 relative à la modernisation du droit des sociétés. En outre, la société doit satisfaire aux conditions suivantes :
 
 - 1° - les experts-comptables, dûment autorisés conformément à l'article premier, doivent directement détenir les trois quarts du capital social et des droits de vote ;
 
