@@ -1,23 +1,13 @@
 # Article A-130 ter
 
-Les masques de protection mentionnés au K bis de l'article 52-0 du Code des taxes sur le chiffre d'affaires répondent aux caractéristiques techniques suivantes :
+Les équipements de production d'électricité utilisant l'énergie radiative du soleil d'une puissance inférieure ou égale à 9 kilowatts-crête (kWc) dont la livraison et l'installation bénéficient du taux réduit de taxe sur la valeur ajoutée mentionné au P de l'article 52-0 du Code des taxes sur le chiffre d'affaires sont ceux dont les caractéristiques respectent les critères cumulatifs suivants :
 
-- 1° Pour les masques à usage sanitaire :
+- a) Le bilan carbone des modules est inférieur à 530 kgCO2eq/kWc ;
 
-  - a) S'agissant de ceux destinés à la protection du porteur contre l'inhalation de gouttelettes : celles définies par la norme EN 149 + A1 : 2009 pour les classes d'efficacité FFP1, FFP2 ou FFP3 ou par une norme étrangère reconnue comme équivalente pour ces classes, sous réserve qu'ils ne comportent pas de valve expiratoire ;
+- b) La quantité d'argent des cellules est inférieure à 14 mg/W ;
 
-  - b) S'agissant de ceux destinés à la protection de l'environnement du porteur en évitant la projection de gouttelettes émises par ce dernier : celles définies par la norme EN 14683 + AC : 2019 ou par une norme étrangère reconnue comme équivalente ;
+- c) La teneur de plomb des modules est inférieure à 0,1 % ;
 
-- 2° Pour les masques réservés à des usages non sanitaires :
+- d) La teneur de cadmium des modules est inférieure à 0,01 % ;
 
-  - a) Les niveaux de performances suivants :
-
-    - (i) L'efficacité de filtration des particules de 3 micromètres est supérieure à 70 % ;
-
-    - (ii) La respirabilité permet un port pendant un temps de quatre heures ;
-
-    - (iii) La perméabilité à l'air est supérieure à 96 litres par mètre carré et par seconde, pour une dépression de 100 pascal ;
-
-  - b) La forme permet un ajustement sur le visage avec une couverture du nez et du menton et ne comprend pas de couture sagittale ;
-
-  - c) Lorsqu'ils sont réutilisables, les niveaux de performances mentionnés au a) sont maintenus après au moins cinq lavages.
+- e) Aux équipements du présent 1 est associé un système gestionnaire d'énergie permettant de collecter en temps réel les données de production et de consommation et de piloter le comportement de consommation des équipements électriques pour maximiser la consommation électrique sur le lieu de production.

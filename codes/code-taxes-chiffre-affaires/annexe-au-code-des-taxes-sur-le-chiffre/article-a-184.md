@@ -34,4 +34,4 @@ Les factures délivrées par les assujettis désignés au II de l'article 94 du 
 
 - 6° Le prix de vente hors taxe sur la valeur ajoutée ;
 
-- 7° La mention : « exonération de la taxe sur la valeur ajoutée, article 94 du Code des taxes sur le chiffre d'affaires ».
+- 7° La mention : " exonération de la taxe sur la valeur ajoutée, article 94 du Code des taxes sur le chiffre d'affaires ".

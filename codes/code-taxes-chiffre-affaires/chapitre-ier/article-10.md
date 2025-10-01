@@ -14,7 +14,7 @@ I. - Les acquisitions intracommunautaires de biens meubles corporels situés à 
 
   - b) le numéro d'identification à la taxe sur la valeur ajoutée à Monaco du destinataire de la livraison ;
 
-  - c) la mention : « Application de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ».
+  - c) la mention : " Application de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ".
 
 II. - Pour l'application du II de l'article 9, sont considérées comme soumises à la taxe sur la valeur ajoutée dans l'État membre, autre que la France, de destination des biens, les acquisitions qui y sont réalisées dans les conditions de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006, et sous réserve que l'acquéreur :
 
@@ -24,7 +24,7 @@ II. - Pour l'application du II de l'article 9, sont considérées comme soumises
 
   - b) le numéro d'identification à la taxe sur la valeur ajoutée du destinataire de la livraison consécutive dans l'État membre autre que la France où les biens ont été expédiés ou transportés ;
 
-  - c) la mention : « Application de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ».
+  - c) la mention : " Application de l'article 141 de la directive 2006/112/CE du Conseil du 28 novembre 2006 ".
 
 - 2° Dépose l'état récapitulatif mentionné à l'article 73 dans lequel doivent figurer distinctement :
 

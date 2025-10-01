@@ -81,3 +81,11 @@ N - Les prestations de pose, d'installation et d'entretien d'infrastructures de 
 - 3° Les prestations sont réalisées par une personne répondant à des critères de qualification définis par l'arrêté mentionné au 2° du présent N - .
 
 O.- L'enseignement et la pratique de l'équitation, les animations et les activités de démonstration aux fins de découverte de l'environnement équestre et de familiarisation avec celui‑ci ainsi que l'accès aux installations sportives destinées à l'utilisation des équidés.
+
+P.- La livraison et l'installation, dans les logements, d'équipements de production d'électricité utilisant l'énergie radiative du soleil d'une puissance inférieure ou égale à 9 kilowatts-crête dont la conception et les caractéristiques répondent aux critères définis par arrêté ministériel permettant d'atteindre tout ou partie des objectifs suivants :
+
+- 1° La consommation d'électricité sur le lieu de production ;
+
+- 2° L'efficacité énergétique ;
+
+- 3° La durabilité ou la performance environnementale.

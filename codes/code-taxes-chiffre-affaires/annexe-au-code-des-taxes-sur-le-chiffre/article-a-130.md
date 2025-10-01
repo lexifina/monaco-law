@@ -22,7 +22,7 @@ A. Appareillages :
 
 - - chambre à cathéter implantable, monochambre, pour abord veineux ;
 
-- - défibrillateurs cardiaques implantables avec stimulation atrio-bi-ventriculaire pour resynchronisation dits « triple chambre » ;
+- - défibrillateurs cardiaques implantables avec stimulation atrio-bi-ventriculaire pour resynchronisation dits " triple chambre " ;
 
 - - défibrillateurs cardiaques implantables simple et double chambre ;
 
@@ -168,7 +168,7 @@ A. Appareillages :
 
 - - produits visco-élastiques utilisés en ophtalmologie pour la pose d'implants cristalliniens issus de dérivés de tissus d'origine animale non viables ou en comportant ;
 
-- - sources radioactives implantables dites « Grains d'iode 125 » ; - valves cardiaques à bille, à disque ou à double ailette ;
+- - sources radioactives implantables dites " Grains d'iode 125 " ; - valves cardiaques à bille, à disque ou à double ailette ;
 
 - - valves fabriquées à partir de tissu d'origine animale autre que valvulaire cardiaque montées ou non sur armature ;
 
