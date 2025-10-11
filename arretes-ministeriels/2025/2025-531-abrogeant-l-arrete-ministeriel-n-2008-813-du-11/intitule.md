@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-531 du 3 octobre 2025 abrogeant l'arrêté ministériel n° 2008-813 du 11 décembre 2008 fixant les conditions d'accueil des enfants n'ayant pas atteint l'âge de la scolarité obligatoire
