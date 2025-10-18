@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 841 du 18 décembre 2006 portant création du Centre de Coordination Gérontologique de Monaco
+# Ordonnance Souveraine n° 841 du 18 décembre 2006 portant création du Centre de Coordination Gérontologique de Monaco
 
-Version en vigueur au 23 décembre 2006.
+Version en vigueur au 18 octobre 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2006/12-18-841@2006.12.23/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2006/12-18-841@2025.10.18/
 
 | | |
 | --- | --- |

@@ -2,16 +2,18 @@
 
 Le Centre de Coordination Gérontologique de Monaco est chargé :
 
-- d'administrer le réseau de santé gérontologique ;
+- 1) au bénéfice de toute personne âgée résidant à Monaco :
 
-- d'accueillir, d'écouter et d'informer les personnes âgées et leur famille ;
+  - a) de l'accueillir, de l'écouter et de l'informer, ainsi que sa famille ;
 
-- d'effectuer l'évaluation gérontologique des personnes âgées ;
+  - b) de promouvoir les actions d'éducation de la personne et de sa famille ;
 
-- de promouvoir les actions d'éducation du patient âgé et de sa famille ;
+  - c) de mettre en place les actions de santé publique qui lui sont destinées ;
 
-- de mettre en place les actions de santé publique destinées aux personnes âgées ;
+- 2) au bénéfice de toute personne âgée en perte d'autonomie définitive liée ou assimilable à un vieillissement pathologique et résidant à Monaco :
 
-- d'organiser la formation des professionnels du réseau.
+  - a) d'effectuer son évaluation gérontologique ;
 
-- d'évaluer les besoins médico-sociaux nécessaires pour répondre à la demande de prestations des personnes âgées.
+  - b) d'évaluer les besoins médico-sociaux nécessaires pour répondre à sa demande de prestations ;
+
+- 3) d'administrer le réseau de santé gérontologique et d'organiser la formation des professionnels de ce réseau.
