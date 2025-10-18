@@ -20,6 +20,6 @@ Il est précisé que pour un foyer composé d'un couple où l'un des conjoints e
 
 L'Allocation Différentielle de Loyer est égale à la différence qui existe entre d'une part le loyer retenu et d'autre part la quote-part de revenu retenue.
 
-L'allocation est plafonnée à 60 % du loyer retenu, sauf si l'allocataire ou son conjoint a plus de 65 ans.
+Dans le cas où le loyer effectif de l'appartement excède le loyer de référence, ou lorsque la typologie du logement occupé dépasse le besoin normal du foyer, l'allocation est plafonnée à 60 % du loyer retenu - sauf si l'allocataire ou son conjoint a plus de 65 ans.
 
 L'allocation n'est pas servie si son montant mensuel est strictement inférieur à 35,00 euros.
