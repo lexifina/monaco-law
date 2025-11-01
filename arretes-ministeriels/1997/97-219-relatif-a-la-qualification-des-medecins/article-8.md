@@ -4,7 +4,7 @@ Dans le délai d'un mois suivant cette notification, les médecins intéressés 
 
 - un Conseiller d'État désigné par le Président de cette assemblée, Président ;
 
-- deux professeurs de faculté de médecine, enseignant la spécialité concernée, désignés par le Ministre d'État sur la proposition du Président du Conseil Supérieur Médical, à l'occasion de chaque appel.
+- deux professeurs de faculté de médecine, enseignant la spécialité concernée, désignés par le Ministre d'État, à l'occasion de chaque appel.
 
 Le Ministre d'État constitue la commission puis la saisit sans délai.
 
