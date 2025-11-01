@@ -6,7 +6,7 @@ Nul ne peut être admis à exercer l'une des fonctions visées à l'article 2 :
 
 - 2° s'il n'est pas de bonne moralité ;
 
-- 3° a) s'il ne possède pas, pour les fonctions prévues au 1° dudit article, un titre hospitalier dont la nature est déterminée par arrêté ministériel après avis du conseil supérieur médical ;
+- 3° a) s'il ne possède pas, pour les fonctions prévues au 1° dudit article, un titre hospitalier dont la nature est déterminée par arrêté ministériel ;
 
 - b) pour les fonctions prévues au 2° dudit article de diplôme d'État de docteur en chirurgie-dentaire ;
 
