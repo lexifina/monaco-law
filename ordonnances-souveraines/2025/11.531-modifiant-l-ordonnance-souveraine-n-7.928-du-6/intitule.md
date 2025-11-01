@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.531 du 21 octobre 2025 modifiant l'Ordonnance Souveraine n° 7.928 du 6 mars 1984 portant statut du personnel médical et assimilé du Centre Hospitalier Princesse Grace, modifiée
