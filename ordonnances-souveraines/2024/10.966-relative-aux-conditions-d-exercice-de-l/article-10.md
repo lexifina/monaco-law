@@ -6,4 +6,4 @@ L'ostéopathe associé exerce sous sa responsabilité propre.
 
 Il exerce sa profession en toute indépendance et perçoit ses honoraires.
 
-Le contrat d'association ne peut prévoir à la charge de l'ostéopathe associé aucune contrepartie financière autre que celle correspondant à une participation aux dépenses de fonctionnement du lieu d'exercice professionnel ou liées à l'exercice au domicile des patients.
+En l'absence de clause dans le contrat d'association fixant une redevance due par l'ostéopathe associé à l'ostéopathe titulaire ainsi que ses modalités de calcul, aucune contrepartie financière n'est due à ce dernier par l'ostéopathe associé.
