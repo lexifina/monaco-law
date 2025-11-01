@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-565 du 23 octobre 2025 modifiant l'arrêté ministériel n° 2012-197 du 5 avril 2012 relatif à la pratique du tatouage avec effraction cutanée, du maquillage permanent et du perçage, modifié
