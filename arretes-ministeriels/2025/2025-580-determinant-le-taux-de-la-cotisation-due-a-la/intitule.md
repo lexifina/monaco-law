@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-580 du 30 octobre 2025 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2025-2026
