@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-597 du 6 novembre 2025 fixant les modalités d'application des dispositions relatives à la pharmacie à usage intérieur prévues par la loi n° 1.518 du 23 décembre 2021 relative à l'exercice de la pharmacie
