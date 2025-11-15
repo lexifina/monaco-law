@@ -4,13 +4,13 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Afghanistan
 
-- Afrique du Sud ;
+- Afrique du Sud
 
 - Algérie
 
 - Angola
 
-- Barbade
+- Bolivie
 
 - Bulgarie
 
@@ -24,17 +24,11 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Côte d'Ivoire
 
-- Croatie
-
-- Émirats arabes Unis
-
-- Gibraltar
-
 - Haïti
 
-- République Islamique d'Iran
+- Îles Vierges (Royaume-Uni)
 
-- Jamaïque
+- République islamique d'Iran
 
 - Kenya
 
@@ -53,14 +47,6 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 - Népal
 
 - Nigéria
-
-- Ouganda
-
-- Panama
-
-- Philippines
-
-- Sénégal
 
 - Soudan du Sud
 
