@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 9.689 du 20 janvier 2023 relative aux conditions d'exercice des auxiliaires médicaux
 
-Version en vigueur au 28 janvier 2023.
+Version en vigueur au 22 novembre 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2023/01-20-9.689@2023.01.28/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2023/01-20-9.689@2025.11.22/
 
 | | |
 | --- | --- |

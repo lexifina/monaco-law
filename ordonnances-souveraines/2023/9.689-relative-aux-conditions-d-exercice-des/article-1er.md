@@ -4,7 +4,7 @@ Toute profession d'auxiliaire médical ne peut être exercée, à titre libéral
 
 - 1) être titulaire des diplômes, certificats ou titres permettant l'exercice de la profession d'auxiliaire médical concernée sur le territoire français ou délivrés conformément aux obligations communautaires par un État membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen ou reconnus équivalents par le Directeur de l'Action Sanitaire ;
 
-- 2) jouir de ses droits civils et politiques ;
+- 2) ne pas avoir été condamnée à une peine privative de liberté ;
 
 - 3) présenter toutes les garanties d'honorabilité et de moralité ;
 
