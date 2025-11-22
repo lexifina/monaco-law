@@ -1,8 +1,8 @@
 # Article 2
 
-Cette résidence, composée exclusivement de chambres individuelles, a pour mission d'accueillir, suivant des critères d'admission précis, des personnes âgées, résidant en Principauté, présentant une perte d'autonomie modérée à moyenne, dont l'état de santé ne justifie pas une prise en charge dans une structure hospitalière ou une résidence très médicalisée.
+L'unité d'hébergement pour personnes âgées dépendantes a pour mission d'accueillir, suivant des critères d'admission précis, des personnes âgées présentant une perte d'autonomie modérée à moyenne, dont l'état de santé ne justifie pas une prise en charge dans une structure hospitalière ou une résidence médicalisée.
 
-Peuvent être admis dans cet établissement, par ordre de priorité :
+Peuvent être admis dans cette unité, par ordre de priorité :
 
 - 1° les personnes de nationalité monégasque ;
 
