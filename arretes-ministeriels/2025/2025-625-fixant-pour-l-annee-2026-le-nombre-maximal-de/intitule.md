@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-625 du 13 novembre 2025 fixant, pour l'année 2026, le nombre maximal de vignettes accordées aux exploitants de véhicules de location avec chauffeurs étrangers, en application de l'article 45 de l'Ordonnance Souveraine n° 1.720 du 4 juillet 2008 relative à la réglementation des taxis, des véhicules de remise et des motos à la demande, modifiée
