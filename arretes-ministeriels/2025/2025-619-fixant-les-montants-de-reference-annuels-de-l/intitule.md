@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-619 du 13 novembre 2025 fixant les montants de référence annuels de l'allocation de vacances versée aux fonctionnaires et agents de l'État et de la Commune pour l'année 2026
