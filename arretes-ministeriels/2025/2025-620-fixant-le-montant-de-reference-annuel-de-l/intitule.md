@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-620 du 13 novembre 2025 fixant le montant de référence annuel de l'allocation exceptionnelle de rentrée scolaire versée aux fonctionnaires et agents de l'État et de la Commune pour l'année 2026
