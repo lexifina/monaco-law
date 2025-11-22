@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2024-663 du 25 novembre 2024 fixant le montant de référence annuel de l'allocation exceptionnelle de rentrée scolaire versée aux fonctionnaires et agents de l'État et de la Commune pour l'année 2025
