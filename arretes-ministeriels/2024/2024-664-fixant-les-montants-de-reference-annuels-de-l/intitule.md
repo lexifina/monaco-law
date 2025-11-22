@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2024-664 du 25 novembre 2024 fixant les montants de référence annuels de l'allocation de scolarité versée aux fonctionnaires et agents de l'État et de la Commune pour l'année scolaire 2024-2025
