@@ -1,0 +1,12 @@
+# Ordonnance Souveraine n° 11.575 du 11 novembre 2025 modifiant les Ordonnances Souveraines n° 2.442 du 6 novembre 2009 portant création d'un établissement d'hébergement pour personnes âgées dit « A Qietüdine » et n° 5.095 du 14 février 1973 sur l'organisation et le fonctionnement du Centre Hospitalier Princesse Grace, modifiées
+
+Version en vigueur au 22 novembre 2025.
+
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2025/11-11-11.575@2025.11.22/
+
+| | |
+| --- | --- |
+| Type | Texte réglementaire |
+| Nature | Ordonnance Souveraine |
+| Date du texte | 11 novembre 2025 |
+| Publication | Journal de Monaco du 21 novembre 2025 |
