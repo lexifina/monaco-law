@@ -1,6 +1,6 @@
 # Article 391-16
 
-Les coupables des infractions prévues aux articles 391-13 à 391-15 encourent également les peines complémentaires suivantes :
+Les coupables des infractions prévues aux articles 391-13 à 391-15-1 encourent également les peines complémentaires suivantes :
 
 - 1° la suspension du permis de conduire pour une durée de deux ans au plus ;
 
@@ -10,8 +10,14 @@ Les coupables des infractions prévues aux articles 391-13 à 391-15 encourent �
 
 - 4° l'interdiction de conduire dans la Principauté pour les titulaires d'un permis de conduire délivré par une autorité étrangère pendant une durée de cinq ans au plus ;
 
-- 5° l'immobilisation, pour une durée de six mois au plus, du véhicule appartenant au condamné ;
+- 5° l'immobilisation, pour une durée de six mois au plus, du véhicule terrestre dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ou le locataire ;
 
-- 6° si le coupable est titulaire d'un permis de conduire qui a été suspendu, la prolongation du délai de suspension pour une durée de cinq ans au plus.
+- 6° si le coupable est titulaire d'un permis de conduire qui a été suspendu, la prolongation du délai de suspension pour une durée de cinq ans au plus ;
 
-Les peines complémentaires de suspension, d'annulation ou d'interdiction de délivrance du permis de conduire et d'immobilisation du véhicule peuvent être déclarées exécutoires par provision, à titre de mesure de protection.
+- 7° l'accomplissement, à leurs frais, d'un stage de sensibilisation à la sécurité routière.
+
+Les peines complémentaires de suspension, d'annulation ou d'interdiction de délivrance du permis de conduire et d'immobilisation du véhicule terrestre peuvent être déclarées exécutoires par provision, à titre de mesure de protection.
+
+Lorsque l'infraction est commise en état de récidive, ayant fait l'objet d'une condamnation dans les cinq années précédentes, la juridiction saisie prononce la confiscation du véhicule terrestre dont le condamné s'est servi pour commettre l'infraction s'il en est le propriétaire, sauf motivation contraire.
+
+Toutefois, lorsque le véhicule terrestre était loué à titre onéreux à un tiers, l'immobilisation visée au chiffre 5 du premier alinéa et celle prévue au sein du paragraphe I de la section III du chapitre Ier du titre II du livre III, est levée dès qu'un conducteur qualifié proposé par le titulaire du certificat d'immatriculation du véhicule peut en assurer la conduite.
