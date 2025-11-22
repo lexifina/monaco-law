@@ -34,7 +34,9 @@ Le rang individuel des magistrats entre eux est le suivant :
 
 - 16° les substituts du Procureur Général ;
 
-- 17° les magistrats référendaires.
+- 17° les magistrats référendaires ;
+
+- 18° les magistrats réservistes.
 
 Les membres des juridictions prennent rang dans l'ordre de leur réception.
 
