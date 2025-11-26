@@ -1,0 +1,1 @@
+Arrêté du Secrétaire d'État à la Justice, Directeur des Services Judiciaires n° 2025-27 du 26 novembre 2025 portant approbation de la charte générale de la plateforme d'échange sécurisée et abrogation de la charte du cartonnier numérique
