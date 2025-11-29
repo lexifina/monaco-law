@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2020-509 du 24 juillet 2020 relatif aux visites techniques de véhicules
 
-Version en vigueur au 6 avril 2024.
+Version en vigueur au 29 novembre 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/07-24-2020-509@2024.04.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2020/07-24-2020-509@2025.11.29/
 
 | | |
 | --- | --- |
