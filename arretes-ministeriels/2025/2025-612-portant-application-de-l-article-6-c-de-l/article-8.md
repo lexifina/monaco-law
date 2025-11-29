@@ -1,0 +1,3 @@
+# Article 8
+
+Dans les ordonnances souveraines, les arrêtés ministériels et règlements actuellement en vigueur, les termes : « arrêté ministériel n° 2017-625 du 16 août 2017 portant application de l'article 3 de l'Ordonnance Souveraine n° 5.664 du 23 décembre 2015 créant l'Agence Monégasque de Sécurité Numérique, modifiée » sont remplacés par les termes : « arrêté ministériel n° 2025-612 du 12 novembre 2025 portant application de de l'article 6, c) de l'Ordonnance Souveraine n° 8.504 du 18 février 2021 portant application de l'article 24 de la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique, modifiée, définissant le référentiel d'exigences pour la qualification des prestataires d'audit de la sécurité des systèmes d'information ».
