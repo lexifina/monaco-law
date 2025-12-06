@@ -12,7 +12,7 @@
 
 - - des dispositions particulières RU-CND-DP-V20D (annexe n° 4) et des plans de coordination correspondants applicables au quartier de La Condamine ;
 
-- - des dispositions particulières RU-FON-DP-V10D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
+- - des dispositions particulières RU-FON-DP-V11D (annexe n° 5) et des plans de coordination correspondants applicables au quartier de Fontvieille ;
 
 - - des dispositions particulières RU-EXO-DP-V13D (annexe n° 6) et des plans de coordination correspondants applicables au quartier du Jardin Exotique ;
 
