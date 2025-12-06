@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.639 du 27 novembre 2025 rendant exécutoire l'Addendum à l'Accord multilatéral entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers
