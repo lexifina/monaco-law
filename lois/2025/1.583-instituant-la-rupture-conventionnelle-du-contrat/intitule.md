@@ -1,0 +1,1 @@
+Loi n° 1.583 du 2 décembre 2025 instituant la rupture conventionnelle du contrat de travail et portant modification de certaines dispositions de la loi n° 729 du 16 mars 1963 concernant le contrat de travail, modifiée et de l'Ordonnance-loi n° 677 du 2 décembre 1959 sur la durée du travail, modifiée

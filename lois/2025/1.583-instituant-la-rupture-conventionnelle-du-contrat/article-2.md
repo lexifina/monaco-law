@@ -1,0 +1,7 @@
+# Article 2
+
+Les parties au contrat de travail conviennent du principe d'une rupture conventionnelle à l'issue d'un ou plusieurs entretiens préalables. Le défaut d'entretien préalable entraîne la nullité de la convention de rupture.
+
+Au cours de cet ou ces entretiens, le salarié peut se faire assister par un délégué du personnel ou par tout autre salarié de l'entreprise. Lorsque le salarié sollicite l'assistance de l'une des personnes précitées, l'employeur peut également se faire assister par une personne de son choix, choisie parmi les autres salariés que celui concerné par la procédure de rupture conventionnelle, les associés ou dirigeants de l'entreprise ou, dans les entreprises de moins de cinquante salariés, par une personne appartenant à son organisation syndicale d'employeurs ou par un autre employeur relevant de la même branche.
+
+Au plus tard deux jours ouvrés avant la tenue de l'entretien, le salarié informe l'employeur, par écrit, y compris par écrit électronique, de son intention d'être assisté et de l'identité de la personne choisie. L'employeur qui fait également le choix d'être assisté en informe à son tour le salarié par écrit, y compris par écrit électronique, en mentionnant l'identité de la personne choisie, au plus tard un jour ouvré avant l'entretien. Le défaut d'information de l'une ou l'autre des parties dans les délais précités entraîne le report de l'entretien à une date et une heure convenues par les parties.
