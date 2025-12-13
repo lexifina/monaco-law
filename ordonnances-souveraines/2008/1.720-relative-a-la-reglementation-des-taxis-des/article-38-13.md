@@ -11,3 +11,5 @@ Cette autorisation permet une exploitation saisonnière du :
 - ou du 1er mai au 1er novembre dans la limite de 10 véhicules,
 
 de l'année concernée.
+
+Une autorisation exceptionnelle peut être délivrée pour une exploitation exclusivement nocturne à partir du 26 décembre 19 heures jusqu'au lundi 7 heures après le jour du Nouvel An.
