@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 4.801 du 28 avril 2014 portant création d'une Direction de l'Habitat
 
-Version en vigueur au 10 mai 2014.
+Version en vigueur au 13 décembre 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2014/04-28-4.801@2014.05.10/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2014/04-28-4.801@2025.12.13/
 
 | | |
 | --- | --- |
