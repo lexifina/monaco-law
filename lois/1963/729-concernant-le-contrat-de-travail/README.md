@@ -1,8 +1,8 @@
 # Loi n° 729 du 16 mars 1963 concernant le contrat de travail
 
-Version en vigueur au 4 janvier 2003.
+Version en vigueur au 13 décembre 2025.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/1963/03-16-729@2003.01.04/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/1963/03-16-729@2025.12.13/
 
 | | |
 | --- | --- |
