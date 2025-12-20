@@ -1,15 +1,5 @@
 # Article 16
 
-Une ordonnance souveraine prise sur l'avis du comité supérieur de la santé publique et après consultation du Conseil d'État déterminera les modalités d'application de la présente loi.
+Les modalités d'application de la présente loi sont fixées par Ordonnance Souveraine, après avis du Comité de la santé publique, notamment la nomenclature des activités professionnelles mentionnées à l'article 10.
 
-Elle précisera notamment :
-
-- les conditions dans lesquelles les vaccinations imposées par la présente loi seront pratiquées ;
-
-- les vaccinations qui doivent comporter des rappels et les conditions dans lesquelles seront pratiqués ces rappels ;
-
-- les conditions dans lesquelles pourront être rendues obligatoires des vaccinations ou revaccinations en cas d'épidémie ou de menace d'épidémie ;
-
-- la nomenclature des activités professionnelles visées à l'article 10 ;
-
-- les conditions dans lesquelles seront pratiquées les vaccinations spéciales imposées par l'article 10.
+Toute obligation vaccinale prévue par les articles premier et 10 peut, compte tenu de l'évolution de la situation épidémiologique et des connaissances médicales et scientifiques, être suspendue par Ordonnance Souveraine pour tout ou partie de la population et pour une durée ne pouvant excéder dix‑huit mois.

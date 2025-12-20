@@ -1,3 +1,3 @@
 # Article 2
 
-La vaccination antidiphtérique est obligatoire ; elle doit être pratiquée avant l'âge de dix-huit mois.
+Les dispositions de l'article premier sont applicables, en ce qui concerne les vaccinations mentionnées aux chiffres 4) à 11), aux personnes nées à compter du 1er janvier 2026.

@@ -1,5 +1,25 @@
 # Article 1er
 
-La vaccination antivariolique est obligatoire ; elle doit être pratiquée avant l'âge de douze mois ; en cas d'insuccès, elle doit être renouvelée dans les dix jours qui suivent l'opération initiale et, en cas de nouvel insuccès, les années suivantes jusqu'à succès obtenu.
+Sauf contre-indication médicale reconnue, les vaccinations suivantes sont obligatoires dans des conditions déterminées par Ordonnance Souveraine :
 
-Des revaccinations doivent être pratiquées au cours de la onzième et de la vingt et unième année.
+- 1) antidiphtérique ;
+
+- 2) antitétanique ;
+
+- 3) antipoliomyélitique ;
+
+- 4) contre la coqueluche ;
+
+- 5) contre les infections invasives à Haemophilus influenzae de type b ;
+
+- 6) contre le virus de l'hépatite B ;
+
+- 7) contre les infections invasives à pneumocoque ;
+
+- 8) contre les méningocoques des sérogroupes dont la liste est fixée par Ordonnance Souveraine ;
+
+- 9) contre la rougeole ;
+
+- 10) contre les oreillons ;
+
+- 11) contre la rubéole.
