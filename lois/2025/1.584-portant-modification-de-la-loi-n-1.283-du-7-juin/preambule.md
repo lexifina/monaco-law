@@ -1,0 +1,1 @@
+La présente loi, publiée au Journal de Monaco du 19 décembre 2025, entre en vigueur dans un délai de deux mois suivant sa publication. Ses dispositions sont consultables dans la « version à venir » accessible via l'onglet « Historique - voir toutes les versions ».
