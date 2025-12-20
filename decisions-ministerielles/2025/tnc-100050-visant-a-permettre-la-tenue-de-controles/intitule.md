@@ -1,0 +1,1 @@
+Décision ministérielle du 17 décembre 2025 visant à permettre la tenue de contrôles préventifs de police en vertu de la loi n° 1.582 du 14 novembre 2025 portant diverses mesures relatives au renforcement de la sécurité routière
