@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-693 du 18 décembre 2025 portant réglementation de la circulation des piétons, le stationnement et la circulation des véhicules à l'occasion du 94ème Rallye Automobile Monte‑Carlo et du 28ème Rallye Monte‑Carlo Historique
