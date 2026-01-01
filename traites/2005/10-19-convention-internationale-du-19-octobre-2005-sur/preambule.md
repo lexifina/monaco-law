@@ -1,4 +1,4 @@
-La Conférence générale de l'Organisation des Nations Unies pour l'éducation, la science et la culture ci-après dénommée « l'UNESCO », réunie à Paris du 3 au 21 octobre 2005 en sa 33e session,
+La Conférence générale de l'Organisation des Nations Unies pour l'éducation, la science et la culture ci-après dénommée " l'UNESCO ", réunie à Paris du 3 au 21 octobre 2005 en sa 33e session,
 
 Considérant que le but de l'UNESCO est de contribuer à la paix et à la sécurité en favorisant la collaboration entre les nations par l'éducation, la science et la culture,
 
