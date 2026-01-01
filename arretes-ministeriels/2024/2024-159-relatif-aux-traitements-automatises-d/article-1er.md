@@ -560,7 +560,7 @@ Centre Intégré de Gestion de la Mobilité (CIGM)
 
 - Enregistrement des équipements de surveillance vidéo et audio liés à la mise en sécurité des tunnels et de la voie publique (traitement mis en œuvre le 04/08/2023).
 
-Service des Parkings Publics
+Direction des Parkings Publics
 
 - Gestion de la vidéosurveillance (traitement mis en œuvre le 21/11/2001, modifié le 30/06/2004),
 
@@ -656,7 +656,7 @@ Direction des Travaux Publics
 
 - Mise à disposition de la Direction des Travaux Publics d'une solution de Gestion Électronique Documentaire (traitement mis en œuvre le 08/01/2021, modifié le 08/04/2022).
 
-Service de Maintenance des Bâtiments Publics
+Direction des Bâtiments Publics
 
 - Gestion technique des bâtiments publics (traitement mis en œuvre le 05/08/2022),
 
