@@ -6,4 +6,4 @@ Toutefois, l'abonnement peut être résilié par l'une ou l'autre des parties, p
 
 À l'exception des droits de stationnement « avec place réservée », il est possible de suspendre son abonnement pour une durée de quatre mois maximum par année civile.
 
-Cette suspension, pour être prise en compte, doit commencer et se terminer le 1er ou le 16 de chaque mois, être supérieure à un mois, et être signalée moyennant un préavis de 15 jours, par écrit, au Chef du Service des Parkings Publics. Il est précisé qu'au terme de la suspension l'abonnement sera, sauf avis contraire, revalidé.
+Cette suspension, pour être prise en compte, doit commencer et se terminer le 1er ou le 16 de chaque mois, être supérieure à un mois, et être signalée moyennant un préavis de 15 jours, par écrit, au Directeur des Parkings Publics. Il est précisé qu'au terme de la suspension l'abonnement sera, sauf avis contraire, revalidé.
