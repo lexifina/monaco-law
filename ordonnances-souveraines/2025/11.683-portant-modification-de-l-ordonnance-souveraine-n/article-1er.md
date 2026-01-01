@@ -1,0 +1,5 @@
+# Article 1er
+
+Le titre de Notre Ordonnance n° 6.208 du 20 décembre 2016, modifiée, susvisée, est modifié comme suit :
+
+« Ordonnance Souveraine n° 6.208 du 20 décembre 2016 portant application de la Convention concernant l'assistance administrative mutuelle en matière fiscale, de l'Accord multilatéral entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers et de l'Accord entre l'Union européenne et la Principauté de Monaco sur l'échange d'informations relatives aux comptes financiers en vue d'améliorer le respect des obligations fiscales à l'échelle internationale, en conformité avec la norme d'échange automatique de renseignements relatifs aux comptes financiers établie par l'Organisation de Coopération et de Développement Économiques (OCDE). ».
