@@ -1,11 +1,11 @@
 # Code de la route
 
-Version en vigueur au 2 août 2025.
+Version en vigueur au 1er janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-route@2025.08.02/
+Source : Legimonaco, https://legimonaco.mc/code/code-route@2026.01.01/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de la route |
-| Dernière modification | 2 août 2025 |
+| Dernière modification | 1 janvier 2026 |
