@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 11.484 du 17 septembre 2025 portant création d'une Direction des Bâtiments Publics
 
-Version en vigueur au 20 décembre 2025.
+Version en vigueur au 1er janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2025/09-17-11.484@2025.12.20/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2025/09-17-11.484@2026.01.01/
 
 | | |
 | --- | --- |
