@@ -1,3 +1,3 @@
 # Article 10
 
-Les transferts d'informations nominatives vers des Juridictions soumises à déclaration se font conformément aux dispositions spécifiques concernant le transfert des informations nominatives prévues aux articles 20 et 20-1 de la loi n° 1.165 du 23 décembre 1993, modifiée, susvisée.
+Les transferts de données à caractère personnel vers des Juridictions soumises à déclaration se font conformément aux dispositions spécifiques prévues aux articles 96 à 101 de la loi n° 1.565 du 3 décembre 2024 relative à la protection des données personnelles, susvisée.
