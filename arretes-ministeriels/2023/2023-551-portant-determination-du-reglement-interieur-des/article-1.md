@@ -1,6 +1,6 @@
 # Article 1
 
-La Service des Parkings Publics, est désignée dans le présent Règlement par le vocable « Monaco Parkings ».
+La Direction des Parkings Publics, est désignée dans le présent Règlement par le vocable « Monaco Parkings ».
 
 Le terme « de client » désigne le titulaire d'un droit d'occupation de stationnement dans le parc à accès contrôlé ou évoluant en fonction d'une opération de stationnement, ainsi qu'à ses passagers, qu'ils se déplacent en véhicule ou à pied.
 

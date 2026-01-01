@@ -2,7 +2,7 @@
 
 L'ensemble de l'ouvrage constitue un parc de stationnement ouvert au public exclusivement pour voitures automobiles de tourisme, autocars de tourisme, camping-car, poids lourds et pour deux roues aux jours et heures affichés dans le parc.
 
-Les remorques sont, sauf dérogation du Chef du Service des Parkings Publics, interdites.
+Les remorques sont, sauf dérogation du Directeur des Parkings Publics, interdites.
 
 Les places de stationnement sont attribuées aux clients et abonnés (sans places réservées) dans l'ordre de leur arrivée.
 
