@@ -24,7 +24,9 @@ j) « Compte déclarable de Monaco », un Compte financier auprès d'une Institu
 
 k) « Personne d'un État membre », une personne physique ou une Entité qui est identifiée par une Institution financière déclarante de Monaco en tant que résidente d'un État membre en application des procédures de diligence raisonnable conformes aux Annexes I et II, ou la succession d'un défunt qui était résident d'un État membre ;
 
-l) « Personne de Monaco », une personne physique ou une Entité qui est identifiée par une Institution financière déclarante d'un État membre en tant que résident de Monaco en application des procédures de diligence raisonnable conformes aux Annexes I et II, ou la succession d'un défunt qui était résident de Monaco.
+l) « Personne de Monaco », une personne physique ou une Entité qui est identifiée par une Institution financière déclarante d'un État membre en tant que résident de Monaco en application des procédures de diligence raisonnable conformes aux Annexes I et II, ou la succession d'un défunt qui était résident de Monaco ;
+
+m) « Cadre de déclaration des Crypto-actifs », le cadre international pour l'échange automatique d'informations relatives aux Crypto-actifs (comprenant les Commentaires) élaboré par l'OCDE avec les pays du G20 et approuvé par l'OCDE le 26 août 2022.
 
 2. Toute expression commençant par une majuscule qui n'est pas définie autrement dans le présent Accord a le sens qui lui est attribué au moment considéré, i) pour les États membres, en vertu de la directive 2011/16/UE du Conseil relative à la coopération administrative dans le domaine fiscal5 ou, le cas échéant, du droit national de l'État membre appliquant le présent Accord, et ii) pour Monaco, en vertu de son droit interne, une telle signification devant être compatible avec le sens énoncé aux Annexes I et II.
 

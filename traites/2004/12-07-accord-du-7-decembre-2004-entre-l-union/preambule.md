@@ -1,7 +1,9 @@
-LA PRINCIPAUTÉ DE MONACO
+L'UNION EUROPÉENNE
 
 et
 
-LA COMMUNAUTÉ EUROPÉENNE
+LA PRINCIPAUTÉ DE MONACO,
 
-ci-après dénommées une «partie contractante' ou les »parties contractantes ' selon le contexte, ayant l'intention de prévoir des mesures équivalentes à celles que porte la directive du Conseil 2003/48/ CE du 3 juin 2003 en matière de fiscalité des revenus de l'épargne sous forme de paiements d'intérêts, ci-après désignée par «la directive »,
+ci-après dénommées, individuellement, « Partie contractante » ou, conjointement, « Parties contractantes »,
+
+SONT CONVENUES DE CONCLURE L'ACCORD SUIVANT :
