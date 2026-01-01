@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 98-632 du 31 décembre 1998 relatif à l'introduction de l'euro
 
-Version en vigueur au 1er janvier 2023.
+Version en vigueur au 1er janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1998/12-31-98-632@2023.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1998/12-31-98-632@2026.01.01/
 
 | | |
 | --- | --- |
