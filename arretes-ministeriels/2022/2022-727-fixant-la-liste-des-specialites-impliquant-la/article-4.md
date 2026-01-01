@@ -2,7 +2,7 @@
 
 La liste des spécialités relevant du Département de l'Équipement, de l'Environnement et de l'Urbanisme est fixée comme suit :
 
-- 1°) Service de Maintenance des Bâtiments Publics
+- 1°) Direction des Bâtiments Publics
 
   - Dessinateur projeteur
 
