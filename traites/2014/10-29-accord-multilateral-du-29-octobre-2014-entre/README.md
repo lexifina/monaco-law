@@ -1,8 +1,8 @@
 # Accord multilatéral du 29 octobre 2014 entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers
 
-Version en vigueur au 24 décembre 2016.
+Version en vigueur au 1er janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tai/accord/2014/10-29-tai1l017836@2016.12.24/
+Source : Legimonaco, https://legimonaco.mc/tai/accord/2014/10-29-tai1l017836@2026.01.01/
 
 | | |
 | --- | --- |
