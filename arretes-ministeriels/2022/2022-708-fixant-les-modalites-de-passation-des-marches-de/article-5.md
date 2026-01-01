@@ -6,7 +6,7 @@ La Commission de Classement est composée comme suit :
 
 - le Directeur des Travaux Publics ou son représentant,
 
-- le Chef du Service de la Maintenance des Bâtiments Publics ou son représentant,
+- le Directeur des Bâtiments Publics ou son représentant,
 
 - le Contrôleur Général des Dépenses ou son représentant,
 
