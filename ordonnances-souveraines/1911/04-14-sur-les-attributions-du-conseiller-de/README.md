@@ -1,8 +1,8 @@
 # Ordonnance Souveraine du 14 avril 1911 sur les attributions du conseiller de gouvernement pour les travaux publics et affaires diverses
 
-Version en vigueur au 25 janvier 2014.
+Version en vigueur au 1er janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1911/04-14-L002474@2014.01.25/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1911/04-14-L002474@2026.01.01/
 
 | | |
 | --- | --- |
