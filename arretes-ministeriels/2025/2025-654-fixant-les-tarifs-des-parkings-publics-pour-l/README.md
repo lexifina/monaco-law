@@ -1,8 +1,8 @@
-# Arrêté ministériel n° 2025-654 du 1er décembre 2025 fixant les tarifs des parkings publics pour l'année 2026 ainsi que les tarifs autocars pour l'année 2027
+# Arrêté ministériel n° 2025-654 du 1er décembre 2025 fixant les tarifs des parkings publics pour l'année 2026 ainsi que les tarifs autocars pour l'année 2027.
 
-Version en vigueur au 6 décembre 2025.
+Version en vigueur au 1er janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/12-01-2025-654@2025.12.06/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/12-01-2025-654@2026.01.01/
 
 | | |
 | --- | --- |
