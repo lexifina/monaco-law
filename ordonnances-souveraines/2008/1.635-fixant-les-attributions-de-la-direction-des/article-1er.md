@@ -26,4 +26,6 @@ Placée sous l'autorité du Ministre d'État, la Direction des Ressources Humain
 
 - 12°) de constituer une documentation et des statistiques d'ensemble concernant la Fonction Publique et de développer la communication en son sein. ;
 
-- 13°) de la délivrance des certificats qualifiés de signature et de cachet électroniques des personnes dûment habilitées des organismes du secteur public dont la liste est déterminée par arrêté ministériel, en tant que prestataire de services de confiance au sens de la réglementation monégasque en vigueur en la matière.
+- 13°) de la délivrance des certificats qualifiés de signature et de cachet électroniques des personnes dûment habilitées des organismes du secteur public dont la liste est déterminée par arrêté ministériel, en tant que prestataire de services de confiance au sens de la réglementation monégasque en vigueur en la matière ;
+
+- 14°) d'assurer l'application de l'arrêté ministériel n° 2025‑712 du 18 décembre 2025 relatif aux stages études au sein des services administratifs de l'État .
