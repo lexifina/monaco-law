@@ -4,4 +4,4 @@ Les activités professionnelles qui, au sens des dispositions de l'article 10 de
 
 Les liste de ces professions sera déterminée par arrêté ministériel.
 
-Les dispositions des articles 5, 6 et 7 ci-dessus sont applicables aux vaccinations spéciales imposées par l'article 10 de la loi n° 882 du 29 mai 1970, susvisée.
+Les dispositions des articles 6 et 7 ci-dessus sont applicables aux vaccinations spéciales imposées par l'article 10 de la loi n° 882 du 29 mai 1970, susvisée. Les autres modalités d'application de ce même article 10 sont fixées par arrêté ministériel.

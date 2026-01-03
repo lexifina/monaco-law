@@ -1,5 +1,3 @@
 # Article 5
 
-Les vaccinations, revaccinations et rappels de vaccinations doivent être exclusivement effectués par un médecin.
-
-Les règles techniques selon lesquelles doivent être effectués les vaccinations, revaccinations et rappels de vaccinations seront déterminées par arrêté ministériel pris après avis du comité supérieur de la santé publique.
+Les vaccinations mentionnées à l'article premier sont réalisées par les professionnels de santé autorisés à cet effet par la législation et la réglementation qui leur sont applicables.
