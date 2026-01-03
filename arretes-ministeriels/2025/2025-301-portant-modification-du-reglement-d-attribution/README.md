@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2025-301 du 10 juin 2025 portant modification du règlement d'attribution des bourses de stage
 
-Version en vigueur au 14 juin 2025.
+Version en vigueur au 3 janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/06-10-2025-301@2025.06.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/06-10-2025-301@2026.01.03/
 
 | | |
 | --- | --- |

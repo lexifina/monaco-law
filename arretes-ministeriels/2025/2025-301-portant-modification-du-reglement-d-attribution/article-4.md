@@ -64,6 +64,6 @@
 
 La couverture des risques (accidents, dommages à un tiers, etc.) est à la charge du stagiaire. À ce titre, il lui appartiendra de contracter une assurance civile personnelle si aucune mesure n'est prévue par l'entreprise ou l'organisme d'accueil.
 
-Aucune bourse de stage ne sera attribuée si une rémunération, d'un montant égal ou supérieur à celui de l'aide à laquelle aurait droit le stagiaire, lui est versée par l'organisme concerné.
+Aucune bourse de stage ne sera attribuée si une rémunération ou une gratification, d'un montant égal ou supérieur à celui de l'aide à laquelle aurait droit le stagiaire, lui est versée par l'organisme concerné.
 
-Lorsque le stagiaire perçoit une rémunération, d'un montant inférieur à celui de l'aide à laquelle il aurait droit, la différence entre les deux montants lui est versée.
+Lorsque le stagiaire perçoit une rémunération ou une gratification, d'un montant inférieur à celui de l'aide à laquelle il aurait droit, la différence entre les deux montants lui est versée.
