@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2025-716 du 24 décembre 2025 définissant les emplois à horaires variables en application de l'article 1-1 de l'Ordonnance-loi n° 677 du 2 décembre 1959 sur la durée du travail, modifiée
