@@ -1,5 +1,5 @@
 # Article 3
 
-À compter du 1er novembre 2024, le montant de l'allocation de soutien à l'emploi est fixé à 5,94 euros, quel que soit le nombre de salariés de l'entreprise à la date du dépôt de la demande de ladite allocation.
+À compter du 1er janvier 2026, le montant de l'allocation de soutien à l'emploi est fixé à 6,01 euros, quel que soit le nombre de salariés de l'entreprise à la date du dépôt de la demande de ladite allocation.
 
-Elle est accordée pour chaque heure de travail non effectuée payée par l'employeur à son salarié à au moins 60 % du salaire habituel, sans que ce montant horaire puisse être inférieur à 10,69 euros.
+Elle est accordée pour chaque heure de travail non effectuée payée par l'employeur à son salarié à au moins 60 % du salaire habituel, sans que ce montant horaire puisse être inférieur à 10,82 euros.
