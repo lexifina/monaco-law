@@ -4,7 +4,7 @@ Les professionnels mentionnés aux chiffres 2 et 3 de l'article premier doivent 
 
 Cette formation est complétée tous les cinq ans par une formation de remise à niveau.
 
-Seules sont admises les formations socles et les formations de remise à niveau dispensées par les organismes de formation du secteur de l'esthétique agréés à cet effet par l'une des agences régionales de santé françaises.
+Seules sont admises les formations socles et les formations de remise à niveau dispensées par les organismes de formation du secteur de l'esthétique dûment enregistrés à cet effet sur le territoire français.
 
 Les professionnels mentionnés au chiffre 3 de l'article premier doivent également avoir suivi une formation premiers secours citoyen, dite formation PSC, validée par une attestation de formation. Seules sont admises les formations premiers secours citoyen dispensées par les organismes habilités ou autorisés à cet effet sur le territoire français ou monégasque.
 
