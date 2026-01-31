@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2019-288 du 26 mars 2019 relatif au tarif de cession des produits sanguins labiles
 
-Version en vigueur au 27 juillet 2024.
+Version en vigueur au 31 janvier 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/03-26-2019-288@2024.07.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2019/03-26-2019-288@2026.01.31/
 
 | | |
 | --- | --- |
