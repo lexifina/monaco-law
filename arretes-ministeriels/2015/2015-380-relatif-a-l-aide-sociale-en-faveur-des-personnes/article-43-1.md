@@ -1,27 +1,27 @@
 # Article 43-1
 
-Les montants maximums mensuels de chaque allocation, versés par l'Office de Protection Sociale, sont fixés comme suit, à compter du 1er novembre 2024 :
+Les montants maximums mensuels de chaque allocation, versés par l'Office de Protection Sociale, sont fixés comme suit, à compter du 1er janvier 2026 :
 
-- allocation aux adultes handicapés pour une personne seule : 1.565,65 euros ;
+- allocation aux adultes handicapés pour une personne seule : 1.584,10 euros ;
 
-- allocation aux adultes handicapés lorsque l'allocataire est marié, titulaire d'un contrat de vie commune ou vit maritalement avec une personne majeure : 3.131,30 euros ;
+- allocation aux adultes handicapés lorsque l'allocataire est marié, titulaire d'un contrat de vie commune ou vit maritalement avec une personne majeure : 3.168,20 euros ;
 
-- complément de première catégorie de l'allocation aux adultes handicapés : 391,40 euros ;
+- complément de première catégorie de l'allocation aux adultes handicapés : 396 euros ;
 
-- complément de deuxième catégorie de l'allocation aux adultes handicapés : 782,80 euros ;
+- complément de deuxième catégorie de l'allocation aux adultes handicapés : 792,05 euros ;
 
 - majoration pour enfant à charge :
 
-- 1. pour un enfant : 469,70 euros ;
+  - pour un enfant : 475,25 euros ;
 
-- 2. pour deux enfants : 782,80 euros ;
+  - pour deux enfants : 792,05 euros ;
 
-- 3. pour trois enfants : 939,40 euros ;
+  - pour trois enfants : 950,45 euros ;
 
-- 4. par enfant supplémentaire : 78,30 euros ;
+  - par enfant supplémentaire : 79,20 euros ;
 
 - majoration spécifique :
 
-- 1. du complément de première catégorie de l'allocation d'éducation spéciale : 131,10 euros ;
+  - du complément de première catégorie de l'allocation d'éducation spéciale : 132,65 euros ;
 
-- 2. du complément de deuxième catégorie de l'allocation d'éducation spéciale : 377,90 euros
+  - du complément de deuxième catégorie de l'allocation d'éducation spéciale : 382,35 euros
