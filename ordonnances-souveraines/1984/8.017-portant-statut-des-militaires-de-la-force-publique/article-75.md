@@ -4,7 +4,7 @@ Le militaire désireux d'obtenir le renouvellement de son contrat, doit le deman
 
 La demande de renouvellement peut être refusée :
 
-- 1° si le militaire ne remplit pas les conditions d'aptitude physique et médicale exigées pour l'exercice de sa fonction ;
+- 1° si le militaire ne remplit pas les conditions d'aptitude physique médicale et psychologique exigées pour l'exercice de sa fonction ;
 
 - 2° si, lors du contrôle annuel des connaissances techniques et des aptitudes physiques, il n'a pas atteint le niveau minimum fixé par l'autorité militaire ;
 
