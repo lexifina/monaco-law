@@ -1,0 +1,3 @@
+# Article 23
+
+Lorsque les examens médicaux prévus à l'article précédent ne permettent pas de déterminer avec certitude si le candidat à l'engagement en qualité d'officier ou de sous-officier satisfait aux critères médicaux mentionnés à l'article 2, le médecin du travail peut prescrire des examens médicaux complémentaires, y compris des examens biologiques sanguins, une consultation avec un médecin psychiatre dans les conditions fixées à l'article 24, un test ou un entretien avec un psychologue dans les conditions fixées à l'article 25 ou une demande d'avis sapiteur dans les conditions fixées à l'article 26.

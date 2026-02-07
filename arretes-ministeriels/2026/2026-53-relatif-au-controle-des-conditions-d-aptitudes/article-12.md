@@ -1,0 +1,3 @@
+# Article 12
+
+Lorsque les examens médicaux prévus à l'article précédent ne permettent pas de déterminer avec certitude si le candidat satisfait aux critères médicaux mentionnés à l'article 2, le médecin du travail, membre de la commission médicale de recrutement, peut prescrire des examens médicaux complémentaires, y compris une demande d'avis sapiteur dans la spécialité de l'éventuelle pathologie dépistée dans le cadre du bilan médical préalable à l'engagement. Ce médecin spécialiste, librement choisi par le candidat, rend compte au médecin du travail prescripteur afin de lui permettre de se prononcer sur l'aptitude médicale du candidat à servir en qualité de militaire du rang au sein du Corps concerné.
