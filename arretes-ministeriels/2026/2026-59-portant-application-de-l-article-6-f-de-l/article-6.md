@@ -1,0 +1,3 @@
+# Article 6
+
+Dans les ordonnances souveraines, les arrêtés ministériels et règlements actuellement en vigueur, les termes : « Arrêté Ministériel n° 2018-1108 du 26 novembre 2018 portant application de l'article 3 de l'Ordonnance Souveraine n° 5.664 du 23 décembre 2015 créant l'Agence Monégasque de Sécurité Numérique, modifiée » sont remplacés par les termes : « Arrêté Ministériel n° 2026-59 du 5 février 2026 portant application de l'article 6, f) de l'Ordonnance Souveraine n° 8.504 du 18 février 2021 portant application de l'article 24 de la loi n° 1.435 du 8 novembre 2016 relative à la lutte contre la criminalité technologique, modifiée, définissant le référentiel d'exigences pour la qualification des prestataires d'informatique en nuage et d'hébergement ».
