@@ -1,9 +1,3 @@
 # Article 5
 
-Les plans d'urgence comprennent :
-
-- 1° - Les plans particuliers d'intervention liés à certaines activités ou à certains ouvrages ;
-
-- 2° - Les plans destinés à porter secours à de nombreuses victimes ;
-
-- 3° - Les plans de secours spécialisés liés à un risque défini.
+Les organismes de droit privé investis d'une mission d'intérêt général ou concessionnaires d'un service public, visés par arrêté ministériel, devront établir des plans spécifiques et les soumettre à l'approbation du Conseiller de Gouvernement-Ministre de l'Intérieur.
