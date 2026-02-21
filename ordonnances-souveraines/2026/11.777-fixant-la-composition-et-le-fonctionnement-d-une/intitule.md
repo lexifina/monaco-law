@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.777 du 13 février 2026 fixant la composition et le fonctionnement d'une commission du droit à l'oubli et de la médiation, instituée par l'article 12 de la loi n° 1.561 du 2 juillet 2024 relative au droit à l'oubli et à d'autres mesures facilitant l'accès au crédit
