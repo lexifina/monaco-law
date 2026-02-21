@@ -1,0 +1,1 @@
+La présente ordonnance, publiée au Journal de Monaco du 20 février 2026, entre en vigueur le 1er avril 2026. Ses dispositions sont consultables dans la « version à venir » accessible via l'onglet « Historique – voir toutes les versions ».
