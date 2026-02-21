@@ -4,8 +4,6 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Afghanistan
 
-- Afrique du Sud
-
 - Algérie
 
 - Angola
@@ -13,8 +11,6 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 - Bolivie
 
 - Bulgarie
-
-- Burkina Faso
 
 - Cameroun
 
@@ -36,23 +32,17 @@ En application de l'article 14-1 de la loi n° 1.362 du 3 août 2009, modifiée,
 
 - Liban
 
-- Mali
-
-- Mozambique
-
 - Myanmar/Birmanie
 
 - Namibie
 
 - Népal
 
-- Nigéria
+- Fédération de Russie
 
 - Soudan du Sud
 
 - Syrie
-
-- Tanzanie
 
 - Trinité-et-Tobago
 
