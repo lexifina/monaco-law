@@ -2,12 +2,6 @@
 
 Les infractions aux dispositions de la présente ordonnance et des arrêtés pris pour son application sont constatées par des procès-verbaux et réprimées conformément à la loi.
 
-Les infractions aux dispositions des deuxième et troisième alinéas de l'article 10 et de l'article 46 seront punies d'une amende de 90 à 900 euros et d'un emprisonnement de six jours à un mois ou de l'une de ces deux peines seulement.
-
-Les peines édictées pour contravention aux prescriptions des deuxième et troisième alinéas de l'article 10 ne se confondront pas avec celles qui seront prononcées en vertu des autres dispositions ci-après.
-
-Il en sera de même dans le cas où l'infraction aura été la cause de blessures ou d'homicide involontaire par application des articles 250 et 251 du Code pénal.
-
 Les infractions aux dispositions de l'article 11 seront punies :
 
 - pour un dépassement de vitesse inférieur à 30 kilomètres à l'heure, de l'amende prévue au chiffre 2 de l'article 29 du Code pénal ;
