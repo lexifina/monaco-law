@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-79 du 18 février 2026 fixant la liste des enquêtes statistiques réalisées par l'Institut Monégasque de la Statistique et des Études Économiques et abrogeant l'arrêté ministériel n° 2023-211 du 11 avril 2023
