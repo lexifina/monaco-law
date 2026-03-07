@@ -18,6 +18,8 @@ En application de l'article 6 de l'arrêté ministériel n° 2021-532 du 2 août
 
 - du 21 mars 2026 à 18 heures au 22 mars 2026 à 1 heure, à l'occasion du Bal de la Rose ;
 
+- le 28 mars 2026, à l'occasion de la visite apostolique de Sa Sainteté le Pape Léon XIV en Principauté de Monaco ;
+
 - du 24 au 26 avril 2026, à l'occasion du Grand Prix de Monaco Historique ;
 
 - du 6 au 10 mai 2026, à l'occasion du Salon Top Marques Monaco ;

@@ -1,8 +1,8 @@
 # Arrêté ministériel 2025-655 du 3 décembre 2025 portant réglementation du survol de l'espace aérien monégasque par des engins volants télépilotés
 
-Version en vigueur au 13 décembre 2025.
+Version en vigueur au 7 mars 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/12-03-2025-655@2025.12.13/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/12-03-2025-655@2026.03.07/
 
 | | |
 | --- | --- |
