@@ -1,0 +1,3 @@
+# Article 1-1
+
+Les résultats des tests mentionnés à l'article premier constituent des éléments d'orientation diagnostique sans se substituer au diagnostic réalisé au moyen d'un examen de biologie médicale. Le patient en est explicitement informé par le pharmacien qui le réalise. Le patient est également informé des moyens de confirmation par un examen de biologie médicale si la démarche diagnostique ou thérapeutique le justifie. Le pharmacien, qui réalise le test, en adresse, avec le consentement du patient, le résultat à son médecin traitant ou au médecin désigné par le patient. Le médecin traitant ou le médecin désigné propose au patient la confirmation du résultat de ce test par un examen de biologie médicale si la démarche diagnostique ou thérapeutique le justifie.
