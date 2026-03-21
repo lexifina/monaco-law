@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.820 du 12 mars 2026 modifiant l'Ordonnance Souveraine n° 10.304 du 22 décembre 2023 relative à la réalisation des tests rapides oro-pharyngés d'orientation diagnostique des angines à streptocoque du groupe A et des tests rapides nasopharyngés d'orientation diagnostique grippe par les pharmaciens d'officine
