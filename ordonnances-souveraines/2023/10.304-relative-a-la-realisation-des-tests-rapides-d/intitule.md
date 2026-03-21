@@ -1,1 +1,1 @@
-Ordonnance Souveraine n° 10.304 du 22 décembre 2023 relative à la réalisation des tests rapides oro-pharyngés d'orientation diagnostique des angines à streptocoque du groupe A et des tests rapides nasopharyngé d'orientation diagnostique grippe par les pharmaciens d'officine
+Ordonnance Souveraine n° 10.304 du 22 décembre 2023 relative à la réalisation des tests rapides d'orientation diagnostique par les pharmaciens d'officine
