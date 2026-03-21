@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 98-630 du 29 décembre 1998 relatif à l'organisation et à l'indemnisation des gardes et astreintes au Centre hospitalier Princesse Grace
 
-Version en vigueur au 1er janvier 2023.
+Version en vigueur au 21 mars 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1998/12-29-98-630@2023.01.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/1998/12-29-98-630@2026.03.21/
 
 | | |
 | --- | --- |

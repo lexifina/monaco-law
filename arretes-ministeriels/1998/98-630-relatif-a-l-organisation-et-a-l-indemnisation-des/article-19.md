@@ -4,14 +4,14 @@ La participation des praticiens au service de garde est indemnisée sur la base 
 
 Ce taux est fixé ainsi qu'il suit :
 
-| TARIF DE LA GARDE À COMPTER DU 1ER JANVIER 2023
+| TARIF DE LA GARDE
 
-Praticien du Centre Hospitalier Princesse Grace | 461,36 €
+Praticien du Centre Hospitalier Princesse Grace | 461,36 euros
 
-Praticien Extérieur au Centre Hospitalier Princesse Grace | 461,36 €
+Praticien extérieur au Centre Hospitalier Princesse Grace | 461,36 euros
 
-| TARIF DE LA DEMI-GARDE À COMPTER DU 1ER JANVIER 2023
+| TARIF DE LA DEMI-GARDE
 
-Praticien du Centre Hospitalier Princesse Grace | 230,68 €
+Praticien du Centre Hospitalier Princesse Grace | 230,68 euros
 
-Praticien Extérieur au Centre Hospitalier Princesse Grace | 230,68 €
+Praticien extérieur au Centre Hospitalier Princesse Grace | 230,68 euros
