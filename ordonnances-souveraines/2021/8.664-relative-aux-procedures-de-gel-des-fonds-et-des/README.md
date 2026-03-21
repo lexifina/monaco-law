@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.664 du 26 mai 2021 relative aux procédures de gel des fonds et des ressources économiques en application de sanctions économiques internationales
 
-Version en vigueur au 2 mars 2024.
+Version en vigueur au 21 mars 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/05-26-8.664@2024.03.02/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/05-26-8.664@2026.03.21/
 
 | | |
 | --- | --- |
