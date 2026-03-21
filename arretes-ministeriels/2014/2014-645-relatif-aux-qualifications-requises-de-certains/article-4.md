@@ -2,6 +2,6 @@
 
 La fonction de responsable du prélèvement de l'établissement de transfusion sanguine comprend, sous l'autorité de la personne chargée de la direction dudit établissement, l'organisation, la coordination et l'évaluation de l'activité de prélèvement de sang ainsi que la participation à la promotion du don.
 
-Peuvent seules exercer cette fonction, les personnes qui satisfont aux conditions d'exercice de la médecine et qui possèdent en outre, d'une part, des compétences particulières reconnues par des diplômes ou, le cas échéant, une formation et, d'autre part, justifient d'une expérience, figurant sur une liste disponible à la Direction de l'Action Sanitaire et Sociale.
+Peut seul exercer cette fonction un médecin qui bénéficie de l'habilitation prévue au I de l'article premier.
 
 Le responsable de l'activité de prélèvement veille à ce que la surveillance du déroulement du prélèvement soit assurée dans les conditions mentionnées au II de l'article premier.
