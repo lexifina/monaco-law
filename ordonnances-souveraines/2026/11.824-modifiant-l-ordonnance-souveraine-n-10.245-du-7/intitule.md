@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.824 du 18 mars 2026 modifiant l'Ordonnance Souveraine n° 10.245 du 7 décembre 2023 portant application du Chapitre II de la loi n° 1.535 du 9 décembre 2022 relative à la saisie et à la confiscation des instruments et des produits du crime
