@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-167 du 8 avril 2026 réglementant l'accès aux débits de boissons et aux établissements de restauration et de loisirs situés sur la Darse Sud, les nuits des 4, 5, 6 et 7 juin 2026
