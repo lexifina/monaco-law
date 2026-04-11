@@ -6,4 +6,12 @@ Lors des soins orthophoniques reçus par un patient, l'orthophoniste est autoris
 
 - accessoires pour valve automatique « mains libres » : adaptateur, kit de réglage, kit de nettoyage ;
 
-- accessoires pour implants cochléaires.
+- accessoires pour implants cochléaires ;
+
+- valve pour phonation « mains libres » pour prothèse respiratoire ;
+
+- dispositif pour prothèse respiratoire : boitier standard, boitier obturateur, embase, piège à secrétions, filtres et adhésifs ;
+
+- dispositif à usage unique pour prothèse respiratoire : cassettes, supports de cassettes autoadhésifs ;
+
+- laryngophone.
