@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-166 du 7 avril 2026 portant application de l'Ordonnance Souveraine n° 11.848 du 2 avril 2026 relative à la réglementation des stages en milieu professionnel des élèves des voies générale, professionnelle et technologique
