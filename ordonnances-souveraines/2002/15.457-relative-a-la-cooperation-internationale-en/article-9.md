@@ -1,6 +1,6 @@
 # Article 9
 
-Le Procureur général ou le Juge d'instruction sont compétents pour ordonner, dans les conditions prévues par le Code de procédure pénale, l'exécution sur le territoire de la Principauté de mesures conservatoires sollicitées par une autorité judiciaire étrangère, en application de l'une des conventions internationales mentionnées aux articles 1 à 2-1.
+Le Procureur général ou le Juge d'instruction sont compétents pour ordonner, dans les conditions prévues par le Code de procédure pénale, l'exécution sur le territoire de la Principauté de mesures conservatoires sollicitées par une autorité judiciaire étrangère, en application de l'une des conventions internationales mentionnées aux articles premier à 2-2 .
 
 Lorsque l'identité des propriétaires ou des tiers ayant ou revendiquant des droits sur le bien est connue, les mesures conservatoires leur sont signifiées par le Parquet général, le cas échéant à la requête du Juge d'instruction.
 

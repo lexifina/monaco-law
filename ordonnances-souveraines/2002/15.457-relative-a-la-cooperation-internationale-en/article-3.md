@@ -1,6 +1,6 @@
 # Article 3
 
-La demande présentée par une autorité judiciaire étrangère, en application de l'une des conventions internationales mentionnées aux articles 1 à 2-1 est rejetée si :
+La demande présentée par une autorité judiciaire étrangère, en application de l'une des conventions internationales mentionnées aux articles premier à 2-2 est rejetée si :
 
 - 1 - son exécution est de nature à porter atteinte à l'ordre public ou aux intérêts essentiels de la Principauté ;
 
