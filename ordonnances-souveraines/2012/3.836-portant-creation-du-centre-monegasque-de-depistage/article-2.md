@@ -22,4 +22,6 @@ Le Centre Monégasque de Dépistage a pour mission :
 
 - 6) d'organiser des actions de sensibilisation ou de prévention pour les infections sexuellement transmissibles et la vaccination, en lien, le cas échéant, avec le Centre de Coordination Prénatale et de Soutien Familial ;
 
-- 7) de prescrire les traitements indispensables à la prise en charge des infections sexuellement transmissibles.
+- 7) de prescrire les traitements indispensables à la prise en charge des infections sexuellement transmissibles ;
+
+- 8) de réaliser des consultations gynécologiques anonymes et gratuites en faveur des personnes mineures ou âgées de moins de vingt-et-un ans scolarisées ou résidentes en Principauté, en lien avec le Centre de Coordination Prénatale et de Soutien Familial.
