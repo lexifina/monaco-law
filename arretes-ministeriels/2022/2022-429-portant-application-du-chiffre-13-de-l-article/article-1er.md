@@ -8,6 +8,10 @@ Les organismes du secteur public visés au chiffre 13 de l'article premier de l'
 
 - La Commune ;
 
-- La Commission de Contrôle des Informations Nominatives ;
+- L'Autorité de Protection des Données Personnelles ;
 
-- La Commission de Contrôle des Activités Financières.
+- La Commission de Contrôle des Activités Financières ;
+
+- L'Autorité Monégasque de Sécurité Financière ;
+
+- Le Centre Hospitalier Princesse Grace.
