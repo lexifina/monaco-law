@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.839 du 2 avril 2026 rendant exécutoire la Convention sur les accords d'élection de for de la Conférence de La Haye de droit international privé (HCCH), conclue le 30 juin 2005 et entrée en vigueur le 1er octobre 2015
