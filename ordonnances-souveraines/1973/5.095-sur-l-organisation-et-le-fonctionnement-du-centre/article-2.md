@@ -14,7 +14,7 @@ Le Centre Hospitalier Princesse Grace est administré par un Conseil d'administr
 
 - Le Président du Conseil Économique, Social et Environnemental ou son représentant désigné au sein du Conseil ;
 
-- Deux représentants élus par les personnels titulaires selon les modalités fixées par arrêté ministériel ;
+- Deux représentants élus par les agents titularisés du personnel de service du Centre Hospitalier Princesse Grace selon les modalités fixées par arrêté ministériel ;
 
 - Le Secrétaire du Comité technique d'établissement ;
 
@@ -23,5 +23,7 @@ Le Centre Hospitalier Princesse Grace est administré par un Conseil d'administr
 La durée du mandat des membres du Conseil d'administration est fixée à trois ans.
 
 L'ordonnance souveraine portant nomination des membres du Conseil d'administration nommera également le Président et le Vice-Président de l'assemblée, choisis au sein de cette dernière.
+
+Les contestations sur la validité des élections des représentants mentionnés aux quatrième et septième tirets sont portées, dans un délai de cinq jours calendaires à compter de la proclamation des résultats, devant la juridiction compétente.
 
 Dans les conditions et en la forme prévues par l'article premier de l'Ordonnance Souveraine n° 5.055 du 8 décembre 1972, modifiée, susvisée, un Commissaire du Gouvernement ainsi qu'un Commissaire du Gouvernement suppléant seront délégués auprès du Conseil d'administration du Centre Hospitalier Princesse Grace.
