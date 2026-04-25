@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-189 du 16 avril 2026 portant fixation du montant des ressources personnelles telles que prévues à l'Ordonnance Souveraine n° 11.114 du 18 février 2025 fixant les portions saisissables ou cessibles des rémunérations, traitements et arrérages annuels
