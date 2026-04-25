@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-181 du 9 avril 2026 fixant les modalités d'élection des deux membres du Conseil d'administration du Centre Hospitalier Princesse Grace représentant le personnel de service dudit Centre
