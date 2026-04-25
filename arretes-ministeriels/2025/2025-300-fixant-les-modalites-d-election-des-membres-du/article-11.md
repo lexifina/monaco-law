@@ -1,6 +1,6 @@
 # Article 11
 
-Dès la clôture du scrutin, sous le contrôle du bureau de vote, le dépouillement du scrutin pour les électeurs inscrits est effectué par :
+Dès la clôture du dernier jour du scrutin, sous le contrôle du bureau de vote, le dépouillement du scrutin pour les électeurs inscrits est effectué par :
 
 - 1) quatre personnes désignées par le directeur, dont deux parmi le personnel de la direction des ressources humaines et de la formation et deux parmi l'équipe de direction de l'établissement, à l'exception de celles qui ont un mandat de représentant du personnel ;
 

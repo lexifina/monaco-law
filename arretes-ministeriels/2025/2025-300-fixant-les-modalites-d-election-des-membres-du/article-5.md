@@ -8,4 +8,4 @@ Aucune liste ne peut être modifiée après l'expiration du délai de huit jours
 
 Sous réserve des dispositions de l'alinéa précédent, aucun retrait de candidature ne peut être opéré et aucune candidature ne peut être présentée après le dépôt des listes de candidats.
 
-Après l'expiration du délai de huit jours ou, le cas échéant, du délai de cinq jours prévus au premier alinéa, les listes sont aussitôt affichées dans les locaux du site principal de l'établissement et, s'il y a lieu, dans ceux de ses sites annexes et publiées sur son site Intranet.
+Après l'expiration du délai de huit jours ou, le cas échéant, du délai de cinq jours prévus au premier alinéa, les listes sont aussitôt affichées sur les sites de l'établissement et, s'il y a lieu, sur les sites où des agents sont affectés à la participation prévue par l'article 1-1 de l'Ordonnance Souveraine n° 5.095 du 14 février 1973, modifiée, susmentionnée, et publiées sur le site intranet de l'établissement.

@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2025-300 du 4 juin 2025 fixant les modalités d'élection des membres du comité technique d'établissement du Centre Hospitalier Princesse Grace et les modalités de fonctionnement de ce comité
 
-Version en vigueur au 14 juin 2025.
+Version en vigueur au 25 avril 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/06-04-2025-300@2025.06.14/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/06-04-2025-300@2026.04.25/
 
 | | |
 | --- | --- |
