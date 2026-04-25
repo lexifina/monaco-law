@@ -6,7 +6,7 @@ Sont mises à part sans donner lieu à émargement :
 
 - 1) les enveloppes extérieures non acheminées par la poste ;
 
-- 2) les enveloppes parvenues au bureau de vote après la clôture du bureau du vote ;
+- 2) les enveloppes parvenues au bureau de vote après la clôture du dernier jour du scrutin ;
 
 - 3) les enveloppes qui ne comportent pas la signature de l'électeur ;
 
