@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2025-618 du 13 novembre 2025 fixant les tranches de rémunération et les montants mensuels de l'allocation de rémunération unique versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er octobre 2025
