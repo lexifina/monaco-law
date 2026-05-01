@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2025-622 du 13 novembre 2025 fixant les tranches de quotient familial et les montants de référence annuels de l'allocation de fin d'année versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er octobre 2025
