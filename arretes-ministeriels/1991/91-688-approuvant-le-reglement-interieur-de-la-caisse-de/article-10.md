@@ -8,10 +8,10 @@ Les employeurs sont tenus d'adresser à la Caisse de Compensation des Services S
 
 - - des modifications intervenues dans la composition et la situation du personnel telles que :
 
-  - ● les embauches,
+  - ●les embauches,
 
-  - ● les cessations d'activité,
+  - ●les cessations d'activité,
 
-  - ● les périodes de congés sans solde, de congés payés, de préavis et d'interruption de travail pour maladie, maternité, paternité, accident du travail ou maladie professionnelle.
+  - ●les périodes de congés sans solde, de congés payés, de préavis et d'interruption de travail pour maladie, maternité, paternité, accident du travail ou maladie professionnelle.
 
 Pour signaler ces modifications, les employeurs devront obligatoirement porter dans les colonnes de la déclaration prévues à cet effet, en plus du code correspondant à la nature de l'événement, la ou les dates qui y sont associées.
