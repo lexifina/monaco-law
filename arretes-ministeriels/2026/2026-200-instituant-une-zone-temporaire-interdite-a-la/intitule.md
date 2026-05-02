@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-200 du 22 avril 2026 instituant une zone temporaire interdite à la baignade dans l'espace maritime de la Réserve du Larvotto, à l'occasion des travaux d'enlèvement des géotubes et de la création d'un îlot rocheux
