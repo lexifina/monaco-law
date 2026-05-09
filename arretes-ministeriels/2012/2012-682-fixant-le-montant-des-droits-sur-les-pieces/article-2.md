@@ -211,3 +211,5 @@ Attestation | 18,00 €
 Copie d'un document constituant un dossier | 7,00 €
 
 Duplicata de facture, récépissé de versement et attestation de paiement | 7,00 €
+
+Transfert de numéro minéralogique | 140,00 €
