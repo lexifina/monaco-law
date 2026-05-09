@@ -1,0 +1,1 @@
+Arrêté du Secrétaire d'État à la Justice, Directeur des Services Judiciaires n° 2026-20 du 4 mai 2026 fixant les modalités d'indemnisation des magistrats réservistes en fonction des missions effectuées
