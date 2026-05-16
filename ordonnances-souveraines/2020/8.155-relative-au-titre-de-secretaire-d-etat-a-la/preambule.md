@@ -14,8 +14,8 @@ Considérant que, dans ce cadre, les membres de Mon Gouvernement ont, en 2016, r
 
 Considérant que la nécessité d'une meilleure visibilité au sein des institutions de la Principauté et à l'extérieur de Celle-ci, notamment auprès des organisations internationales, se pose dans les mêmes termes s'agissant des fonctions de Directeur des Services Judiciaires, Président du Conseil d'État ; qu'au surplus, les spécificités du rôle et du statut du Directeur des Services Judiciaires, organe indépendant de Mon Gouvernement, chargé, dans l'exercice des missions qui lui sont légalement confiées, de s'assurer, avec le Haut conseil de la magistrature, du respect du principe de l'indépendance des juges garanti par l'article 88 de la Constitution, et de garantir l'impartialité de la conduite de l'action publique, justifient que lui soit donnée une appellation différente de celle d'un directeur d'administration centrale ;
 
-Avons Ordonné et Ordonnons :
+(Alinéa remplacé par l'Ordonnance Souveraine n° 11.918 du 11 mai 2026)
 
-La personne exerçant les fonctions de Directeur des Services Judiciaires, Président du Conseil d'État, porte le titre de Secrétaire d'État à la Justice, Directeur des Services Judiciaires, Président du Conseil d'État, à compter de la publication de la présente ordonnance.
+La personne exerçant les fonctions de Directeur des Services Judiciaires porte le titre de Secrétaire d'État à la Justice, à compter de la publication de la présente ordonnance.
 
 Notre Secrétaire d'État, Notre Directeur des Services Judiciaires et Notre Ministre d'État sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance.
