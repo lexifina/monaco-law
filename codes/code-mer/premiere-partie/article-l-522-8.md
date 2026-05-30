@@ -28,6 +28,6 @@ Le connaissement doit mentionner :
 
 - la date ou le délai de livraison des marchandises au port de déchargement, si cette date ou ce délai a fait l'objet d'un accord entre les parties.
 
-La mention « embarqué » apposée sur le connaissement fait foi du chargement de la marchandise à bord du navire.
+La mention " embarqué " apposée sur le connaissement fait foi du chargement de la marchandise à bord du navire.
 
 Le connaissement vaut présomption, sauf preuve contraire, de la réception par le transporteur des marchandises telles qu'elles y sont décrites. Toutefois, la preuve contraire n'est pas admise lorsque le connaissement a été transféré à un tiers porteur de bonne foi.

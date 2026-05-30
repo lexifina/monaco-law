@@ -1,6 +1,6 @@
 # Article L. 632-2
 
-Un livre spécial dit « livre de discipline » est tenu à bord de tout navire pratiquant la navigation au long cours ou le cabotage.
+Un livre spécial dit " livre de discipline " est tenu à bord de tout navire pratiquant la navigation au long cours ou le cabotage.
 
 Le capitaine mentionne immédiatement au livre de discipline la nature des fautes contre la discipline commises à bord, les circonstances qui les ont motivées, les résultats des enquêtes effectuées, les noms et déclarations des témoins, les explications du marin coupable, les sanctions infligées et les mesures prises.
 

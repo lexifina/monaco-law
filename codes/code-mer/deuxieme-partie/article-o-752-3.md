@@ -1,6 +1,6 @@
 # Article O. 752-3
 
-La conduite des engins nautiques à moteur d'une puissance égale ou supérieure à cinq chevaux est subordonnée à la possession d'un permis de conduire en mer des navires de plaisance à moteur catégorie « A » ou d'un permis de navigation étranger.
+La conduite des engins nautiques à moteur d'une puissance égale ou supérieure à cinq chevaux est subordonnée à la possession d'un permis de conduire en mer des navires de plaisance à moteur catégorie " A " ou d'un permis de navigation étranger.
 
 Les engins nautiques à moteur ne peuvent pas être pilotés par des mineurs de moins de seize ans.
 

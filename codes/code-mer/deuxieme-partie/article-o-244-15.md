@@ -1,6 +1,6 @@
 # Article O. 244-15
 
-La pêche au feu, notamment celle dite « au lamparo » est seulement permise aux marins pêcheurs professionnels pourvus d'une autorisation délivrée par le Directeur des Affaires Maritimes.
+La pêche au feu, notamment celle dite " au lamparo " est seulement permise aux marins pêcheurs professionnels pourvus d'une autorisation délivrée par le Directeur des Affaires Maritimes.
 
 Les filets employés à l'occasion de ce type de pêche doivent répondre aux caractéristiques suivantes :
 

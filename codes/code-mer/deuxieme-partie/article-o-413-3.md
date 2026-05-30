@@ -1,6 +1,6 @@
 # Article O. 413-3
 
-Outre les inscriptions prescrites par l'article L.413-4, les navires dont la longueur est inférieure à 12 mètres doivent porter, de manière apparente, de chaque côté de la coque, dans la partie la plus verticale du bordé, une plaque en tôle d'aluminium dite « plaque d'immatriculation » sur laquelle figure, en caractères rouges sur fond blanc, le numéro d'immatriculation du navire précédé des lettres MO.
+Outre les inscriptions prescrites par l'article L.413-4, les navires dont la longueur est inférieure à 12 mètres doivent porter, de manière apparente, de chaque côté de la coque, dans la partie la plus verticale du bordé, une plaque en tôle d'aluminium dite " plaque d'immatriculation " sur laquelle figure, en caractères rouges sur fond blanc, le numéro d'immatriculation du navire précédé des lettres MO.
 
 Sur chaque plaque d'immatriculation doit être apposée, sur l'emplacement prévu à cet effet, une estampille autocollante millésimée dont la validité est limitée à l'année du millésime inscrit sur l'estampille.
 

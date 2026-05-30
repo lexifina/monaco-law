@@ -8,6 +8,8 @@ Toute pêche, quel qu'en soit le genre, est interdite :
 
 - 3° dans la zone du solarium, telle que cette zone est balisée par des bouées cylindriques de couleur jaune, du 1er mai au 31 octobre, sauf de 21h à 6h ;
 
-- 4° de l'enracinement Ouest du terre-plein du Portier jusqu'à la limite Ouest de la réserve marine du Larvotto, telle que cette zone est balisée par des bouées de couleur jaune.
+- 4° de l'enracinement Ouest du terre-plein du Portier jusqu'à la limite Ouest de la réserve marine du Larvotto, telle que cette zone est balisée par des bouées de couleur jaune ;
+
+- 5° depuis la digue Est de Fontvieille.
 
 La pêche récréative à la ligne armée de deux hameçons au plus et pratiquée à pied depuis le rivage est libre à toute époque de l'année, sauf dispositions contraires la limitant prises par arrêté ministériel.

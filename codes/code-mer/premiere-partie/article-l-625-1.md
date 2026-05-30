@@ -1,6 +1,6 @@
 # Article L. 625-1
 
-Est qualifiée « d'autorité maritime » au sens du présent chapitre :
+Est qualifiée " d'autorité maritime " au sens du présent chapitre :
 
 - 1° à Monaco, le Directeur des affaires maritimes ;
 

@@ -6,11 +6,11 @@ Les plages et lieux où la baignade fait l'objet d'une surveillance sont indiqu�
 
 - * des signaux à hisser sur ce mât, à savoir :
 
-  - un drapeau rouge vif en forme de triangle isocèle, ce signal hissé en haut de mât signifiant « interdiction de se baigner » ;
+  - un drapeau rouge vif en forme de triangle isocèle, ce signal hissé en haut de mât signifiant " interdiction de se baigner " ;
 
-  - un drapeau jaune orangé, de même forme, ce signal hissé en haut de mât signifiant « baignade dangereuse » ;
+  - un drapeau jaune orangé, de même forme, ce signal hissé en haut de mât signifiant " baignade dangereuse " ;
 
-  - un drapeau vert, de même forme, ce signal hissé en haut de mât signifiant « absence de danger particulier ».
+  - un drapeau vert, de même forme, ce signal hissé en haut de mât signifiant " absence de danger particulier ".
 
 - Ces drapeaux ne portent aucun symbole ou inscription. L'absence de drapeau indique que la surveillance a cessé. Le mât à signaux ne peut porter aucun autre emblème que les drapeaux indiqués ci-dessus.
 
