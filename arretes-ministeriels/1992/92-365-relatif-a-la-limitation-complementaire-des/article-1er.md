@@ -12,8 +12,6 @@ Sont soumises à des limitations particulières les émissions des installations
 
 - installations pour l'application de revêtements et pour l'impression à base de matières organiques ;
 
-- installations pour l'incinération de déchets urbains et de déchets spéciaux ;
-
 - moteurs à combustion incorporés dans des installations stationnaires ;
 
 - installations pour le nettoyage chimique des vêtements.
