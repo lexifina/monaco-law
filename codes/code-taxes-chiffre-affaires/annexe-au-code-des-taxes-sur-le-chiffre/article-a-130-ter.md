@@ -10,4 +10,4 @@ Les équipements de production d'électricité utilisant l'énergie radiative du
 
 - d) La teneur de cadmium des modules est inférieure à 0,01 % ;
 
-- e) Aux équipements du présent 1 est associé un système gestionnaire d'énergie permettant de collecter en temps réel les données de production et de consommation et de piloter le comportement de consommation des équipements électriques pour maximiser la consommation électrique sur le lieu de production.
+- e) Aux équipements du présent 1 est associé un système gestionnaire d'énergie permettant de collecter en temps réel les données de production et de consommation et de piloter le comportement de consommation des équipements électriques pour maximiser la consommation électrique sur le lieu de production. ".

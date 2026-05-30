@@ -208,6 +208,8 @@ B. Équipements spéciaux :
 
 - - cartes électroniques et logiciels spécialisés ;
 
+- - cannes de couleur (type " canne blanche ") ainsi que les dispositifs d'assistance électronique ou optronique spécialement conçus pour y être associés, qui sont destinés à faciliter la locomotion, le repérage spatial, la signalisation ou l'insertion dans l'environnement social de la personne déficiente visuelle ;
+
 3. Pour sourds et malentendants :
 
 - - vibrateurs tactiles ;
