@@ -10,7 +10,7 @@ L'autorité compétente de la Principauté est la Direction de l'Aménagement Ur
 
 IV. - Les dispositions du III du présent article ne sont pas applicables aux mouvements de :
 
-- - déchets visés à l'annexe V-A du présent article intitulée « Liste verte » destinés à être valorisés, dans une quantité inférieure à 20 kilogrammes ;
+- - déchets visés à l'annexe V-A du présent article intitulée " Liste verte " destinés à être valorisés, dans une quantité inférieure à 20 kilogrammes ;
 
 - - déchets destinés à l'analyse en laboratoire en vue d'évaluer leurs caractéristiques physiques ou chimiques, dans une quantité inférieure à 25 kilogrammes.
 

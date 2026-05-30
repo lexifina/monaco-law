@@ -1,11 +1,11 @@
 # Code de l'environnement
 
-Version en vigueur au 21 mars 2026.
+Version en vigueur au 30 mai 2026.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-environnement@2026.03.21/
+Source : Legimonaco, https://legimonaco.mc/code/code-environnement@2026.05.30/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de l'environnement |
-| Dernière modification | 21 mars 2026 |
+| Dernière modification | 30 mai 2026 |

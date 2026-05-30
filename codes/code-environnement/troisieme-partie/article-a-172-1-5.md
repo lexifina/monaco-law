@@ -20,8 +20,8 @@
 
 - b) Mentions à rajouter sur la facture pour un véhicule précédemment immatriculé :
 
-  - • « Véhicule de démonstration » pour un véhicule précédemment immatriculé en série « Démonstration » visé à l'article A. 172-1-2 ;
+  - • " Véhicule de démonstration " pour un véhicule précédemment immatriculé en série " Démonstration " visé à l'article A. 172-1-2 ;
 
-  - • « Le kilométrage du véhicule » pour un véhicule de moins de 6.000 km et une première mise en circulation de 6 mois et plus visé au c) de l'article A. 172-1-1, si le véhicule n'est pas précédemment immatriculé en série « Démonstration ».
+  - • " Le kilométrage du véhicule " pour un véhicule de moins de 6.000 km et une première mise en circulation de 6 mois et plus visé au c) de l'article A. 172-1-1, si le véhicule n'est pas précédemment immatriculé en série " Démonstration ".
 
 - c) Les factures doivent être libellées en français, le cas échéant elles doivent être accompagnées d'une traduction effectuée par un traducteur officiel. Elles doivent être établies sur le papier en-tête du professionnel habilité à faire du commerce de véhicules. Elles doivent comporter la date, l'identification du vendeur, le nom et l'adresse à Monaco de l'acquéreur, la désignation du produit, le prix de base en hors taxe du véhicule, le montant en hors taxe et en euros de chaque option et de chaque remise et le prix total TTC.

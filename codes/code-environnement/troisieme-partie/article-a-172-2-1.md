@@ -2,11 +2,11 @@
 
 Au sens de la présente Section, les expressions suivantes désignent :
 
-- « Installation photovoltaïque » : Ensemble des panneaux photovoltaïques, leurs supports, les équipements électriques jusqu'aux bornes du disjoncteur de branchement situées du côté de l'installation photovoltaïque, les équipements du système de télégestion installés sur site, ainsi que les éventuels équipements fixes mis en place pour le nettoyage des équipements photovoltaïques.
+- " Installation photovoltaïque " : Ensemble des panneaux photovoltaïques, leurs supports, les équipements électriques jusqu'aux bornes du disjoncteur de branchement situées du côté de l'installation photovoltaïque, les équipements du système de télégestion installés sur site, ainsi que les éventuels équipements fixes mis en place pour le nettoyage des équipements photovoltaïques.
 
-- « Mesures d'insertion architecturale et paysagère » : Ensemble des solutions techniques ou de végétalisation visant à une insertion de l'installation dans son environnement afin de limiter au mieux ou de compenser les impacts sur l'architecture, les ensembles bâtis, le paysage et la biodiversité.
+- " Mesures d'insertion architecturale et paysagère " : Ensemble des solutions techniques ou de végétalisation visant à une insertion de l'installation dans son environnement afin de limiter au mieux ou de compenser les impacts sur l'architecture, les ensembles bâtis, le paysage et la biodiversité.
 
-- « Producteur d'électricité photovoltaïque » : Exploitant de l'installation photovoltaïque. Il peut s'agir :
+- " Producteur d'électricité photovoltaïque " : Exploitant de l'installation photovoltaïque. Il peut s'agir :
 
   - a) du propriétaire de l'immeuble sur lequel est implantée l'installation de production d'électricité ;
 
@@ -18,4 +18,4 @@ Au sens de la présente Section, les expressions suivantes désignent :
 
   - e) du tiers-investisseur ayant conclu un contrat de mise en place et d'exploitation d'une installation photovoltaïque.
 
-- « Puissance installée » : Puissance crête unitaire de chaque installation photovoltaïque.
+- " Puissance installée " : Puissance crête unitaire de chaque installation photovoltaïque.

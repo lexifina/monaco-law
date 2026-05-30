@@ -10,7 +10,7 @@ Le coefficient L est défini comme suit :
 
 Avec :
 
-- • L'Indice ICHTrev-TS, Indice du coût horaire du travail révisé pour le secteur d'activité « Industries Mécaniques et Électriques » (IME) - Base 100 en décembre 2008 ;
+- • L'Indice ICHTrev-TS, Indice du coût horaire du travail révisé pour le secteur d'activité " Industries Mécaniques et Électriques " (IME) - Base 100 en décembre 2008 ;
 
 - • FM0ABE0000 référence 010764313 indice de prix de production de l'industrie française pour le marché français - Prix de marché - A10 BE - Ensemble de l'industrie - Base en 2021 ;
 
