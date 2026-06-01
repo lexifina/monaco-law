@@ -1,28 +1,28 @@
 # Article 1er
 
-Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er janvier 2026 :
+Les avantages en nature à prendre en considération pour la détermination des prestations, cotisations et indemnités prévues par la législation sociale sont fixés comme suit à compter du 1er juin 2026 :
 
 Nourriture :
 
-- • Un repas au cours d'une journée : 4,25 €
+- Un repas au cours d'une journée : 4,35 €
 
-- • Deux repas au cours d'une journée : 8,50 €
+- Deux repas au cours d'une journée : 8,70 €
 
 Logement pour les salariés des catégories suivantes :
 
-- • Gens de maison,
+- Gens de maison,
 
-- • Concierges,
+- Concierges,
 
-- • Gardiens d'immeubles et de locaux professionnels,
+- Gardiens d'immeubles et de locaux professionnels,
 
-- • Employés de l'hôtellerie logés dans les locaux de l'hôtel ou ses dépendances,
+- Employés de l'hôtellerie logés dans les locaux de l'hôtel ou ses dépendances,
 
-- • Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
+- Salariés pour lesquels la mise à disposition d'un logement par leur employeur constitue un impératif pour l'accomplissement de leur activité professionnelle,
 
-- Par semaine : 21,25 €
+Par semaine : 21,75 €
 
-- Par mois : 85 €
+Par mois : 87 €
 
 Ces valeurs sont majorées de l'indemnité de 5 % prévue par l'arrêté ministériel n° 63-131 du 21 mai 1963, modifié, susvisé.
 
