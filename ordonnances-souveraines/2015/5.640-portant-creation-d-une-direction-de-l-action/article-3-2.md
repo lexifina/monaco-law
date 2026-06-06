@@ -1,0 +1,3 @@
+# Article 3-2
+
+Les professionnels de santé du Centre médico-sportif mentionné à l'article 3 titulaires d'un certificat d'examinateur aéromédical au sens du droit de l'Union européenne peuvent pratiquer ou prescrire les examens médicaux requis par le droit de l'Union européenne en vue de délivrer, dans le cadre d'une licence de pilote privé, un certificat médical de classe 2 au bénéfice de toute personne de nationalité monégasque ou résidant à Monaco ou bien au bénéfice de toute personne scolarisée à Monaco et effectuant son brevet d'initiation aéronautique dans un établissement scolaire monégasque.

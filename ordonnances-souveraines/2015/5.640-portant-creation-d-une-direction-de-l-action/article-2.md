@@ -20,6 +20,6 @@ Outre les compétences qui lui sont attribuées par des dispositions législativ
 
 - - émettre un avis sur toute question relevant de sa compétence en application des dispositions réglementaires relatives au Centre Hospitalier Princesse Grace ;
 
-- - assurer le contrôle administratif, technique et financier du Centre Plati « Pôle médico-psychologique pour enfants et adolescents », du Centre de soins, d'accompagnement et de prévention en addictologie de Monaco, de l'Unité de Psychiatrie et de Psychologie Médicale, du Centre de Coordination Gérontologique de Monaco, du Centre « Speranza-Albert II » du Centre Monégasque de Dépistage et du Centre de coordination prénatale et de soutien familial, ainsi qu'assurer la coordination médicale de ces structures notamment par l'intervention d'un médecin coordonnateur ;
+- - assurer le contrôle administratif, technique et financier du Centre Plati " Pôle médico-psychologique pour enfants et adolescents ", du Centre de soins, d'accompagnement et de prévention en addictologie de Monaco, de l'Unité de Psychiatrie et de Psychologie Médicale, du Centre de Coordination Gérontologique de Monaco, du Centre " Speranza-Albert II " du Centre Monégasque de Dépistage et du Centre de coordination prénatale et de soutien familial, ainsi qu'assurer la coordination médicale de ces structures notamment par l'intervention d'un médecin coordonnateur ;
 
 - - accomplir toutes autres actions nécessaires en matière d'hygiène publique et de prévention sanitaire.

@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 5.640 du 14 décembre 2015 portant création d'une Direction de l'Action Sanitaire
 
-Version en vigueur au 18 octobre 2025.
+Version en vigueur au 6 juin 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2015/12-14-5.640@2025.10.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2015/12-14-5.640@2026.06.06/
 
 | | |
 | --- | --- |

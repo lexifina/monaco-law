@@ -12,4 +12,4 @@ La Direction de l'Action Sanitaire comprend les divisions suivantes :
 
 - 5) l'inspection médicale des scolaires ;
 
-- 6) l'inspection médicale des sportifs dite « Centre médico-sportif ».
+- 6) l'inspection médicale des sportifs dite " Centre médico-sportif ".

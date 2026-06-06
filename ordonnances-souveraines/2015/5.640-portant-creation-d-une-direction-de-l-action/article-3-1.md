@@ -2,7 +2,7 @@
 
 Les missions des structures mentionnées à l'avant-dernier tiret de l'article 2 sont :
 
-- 1) pour le Centre Plati « Pôle médico-psychologique pour enfants et adolescents » :
+- 1) pour le Centre Plati " Pôle médico-psychologique pour enfants et adolescents " :
 
   - a) d'accompagner tout mineur résidant ou scolarisé à Monaco présentant des difficultés psychologiques ou des troubles des apprentissages, orienté vers le Centre par un professionnel de santé ;
 
@@ -30,7 +30,7 @@ Les missions des structures mentionnées à l'avant-dernier tiret de l'article 2
 
 - 4) pour le Centre de Coordination Gérontologique de Monaco, celles définies par Notre Ordonnance n° 841 du 18 décembre 2006, susvisée ;
 
-- 5) pour le Centre « Speranza-Albert II », de proposer, à travers l'élaboration d'un programme à visée thérapeutique et sociale, un accueil de jour à toute personne majeure résidant à Monaco et souffrant de la maladie d'Alzheimer ou de troubles cognitifs ;
+- 5) pour le Centre " Speranza-Albert II ", de proposer, à travers l'élaboration d'un programme à visée thérapeutique et sociale, un accueil de jour à toute personne majeure résidant à Monaco et souffrant de la maladie d'Alzheimer ou de troubles cognitifs ;
 
 - 6) pour le Centre Monégasque de Dépistage, celles définies par Notre Ordonnance n° 3.836 du 5 juillet 2012, modifiée, susvisée ;
 
