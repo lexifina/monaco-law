@@ -1,0 +1,17 @@
+# Article 24
+
+(1) Les autorités compétentes des États contractants échangent les renseignements vraisemblablement pertinents pour appliquer les dispositions de la présente Convention ou pour l'administration ou l'application de la législation interne relative aux impôts de toute nature ou dénomination perçus pour le compte des États contractants, de leurs subdivisions politiques ou de leurs collectivités locales, dans la mesure où l'imposition qu'elle prévoit n'est pas contraire à la Convention. L'échange de renseignements n'est pas limité par les articles 1 et 2.
+
+(2) Les renseignements reçus en vertu du paragraphe 1 du présent article par un État contractant sont tenus secrets de la même manière que les renseignements obtenus en application de la législation interne de cet État contractant et ne sont communiqués qu'aux personnes ou autorités (y compris les tribunaux et organes administratifs) concernées par l'établissement ou le recouvrement des impôts visés au paragraphe 1 du présent article, par les procédures ou poursuites concernant ces impôts, par les décisions sur les recours relatifs à ces impôts, ou par le contrôle de ce qui précède. Ces personnes ou autorités n'utilisent ces renseignements qu'à ces fins. Elles peuvent révéler ces renseignements au cours d'audiences publiques ou dans des décisions judiciaires. Nonobstant ce qui précède, les renseignements reçus par un État contractant ne peuvent pas être utilisés à d'autres fins lorsque ces renseignements peuvent être utilisés à ces autres fins en vertu des lois des deux États contractants et de l'autorité compétente de l'État contractant qui les fournit, à moins que l'État contractant qui fournit les renseignements n'autorise cette utilisation.
+
+(3) En aucun cas, les dispositions des paragraphes 1 et 2 du présent article ne peuvent être interprétées comme imposant à un État contractant l'obligation :
+
+- a) de prendre des mesures administratives dérogeant à sa législation et à sa pratique administrative ou à celles de l'autre État contractant ;
+
+- b) de fournir des renseignements qui ne pourraient être obtenus sur la base de sa législation ou dans le cadre de sa pratique administrative normale ou de celles de l'autre État contractant ;
+
+- c) de fournir des renseignements qui révéleraient un secret commercial, industriel, professionnel ou un procédé commercial, ou des renseignements dont la communication serait contraire à l'ordre public.
+
+(4) Si des renseignements sont demandés par un État contractant conformément au présent article, l'autre État contractant utilise les pouvoirs dont il dispose pour obtenir les renseignements demandés, même si cet autre État contractant n'en a pas besoin à ses propres fins fiscales. L'obligation contenue dans la phrase précédente est soumise aux limitations du paragraphe 3 du présent article, mais ces limitations ne peuvent en aucun cas être interprétées comme permettant à un État contractant de refuser de fournir des renseignements uniquement parce que ces renseignements ne présentent pas d'intérêt pour lui dans le cadre national.
+
+(5) En aucun cas, les dispositions du paragraphe 3 du présent article ne peuvent être interprétées comme permettant à un État contractant de refuser de fournir des renseignements uniquement parce que ceux‑ci sont détenus par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou de fiduciaire ou parce que ces renseignements se rattachent aux droits de propriété d'une personne.

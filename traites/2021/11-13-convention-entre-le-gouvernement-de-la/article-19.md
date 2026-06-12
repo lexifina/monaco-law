@@ -1,0 +1,3 @@
+# Article 19
+
+Les sommes qu'un étudiant ou un stagiaire qui est ou était immédiatement avant de se rendre dans un État contractant un résident de l'autre État contractant et qui séjourne dans le premier État contractant à seule fin de poursuivre ses études ou sa formation, reçoit pour couvrir ses frais d'entretien, d'études ou de formation ne sont pas imposables dans cet État contractant, à condition qu'elles proviennent de sources situées en dehors de cet État contractant.
