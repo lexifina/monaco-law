@@ -1,0 +1,3 @@
+# Article 5
+
+La zone d'exclusion définie à l'article premier est consultable sur une carte marine auprès de la Direction des Affaires Maritimes.
