@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026‑333 du 18 juin 2026 portant application de l'article 58 de l'Ordonnance Souveraine n° 3.413 du 29 août 2011 portant diverses mesures relatives à la relation entre l'Administration et l'administré, modifiée
