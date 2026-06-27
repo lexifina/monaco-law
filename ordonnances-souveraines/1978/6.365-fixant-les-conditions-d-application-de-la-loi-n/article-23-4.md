@@ -1,6 +1,6 @@
 # Article 23-4
 
-Le fonctionnaire qui souhaite bénéficier d'un congé en application de l'article 49-2 de la loi n° 975 du 12 juillet 1975, modifiée, susvisée, ci-après dénommé « bénéficiaire d'un don de congé » adresse sa demande par écrit au Directeur des Ressources Humaines et de la Formation de la Fonction Publique, par la voie hiérarchique.
+Le fonctionnaire qui souhaite bénéficier d'un congé en application de l'article 49-2 de la loi n° 975 du 12 juillet 1975, modifiée, susvisée, ci-après dénommé " bénéficiaire d'un don de congé " adresse sa demande par écrit au Directeur des Ressources Humaines et de la Formation de la Fonction Publique, par la voie hiérarchique.
 
 La demande présentée par un fonctionnaire en application des premier et troisième tirets du premier alinéa de l'article 49-2 précité est accompagnée d'un certificat médical détaillé, datant de moins de trois mois, remis sous pli confidentiel établi, par le médecin qui suit l'enfant concerné ou le proche défini à l'article 23-1.
 
