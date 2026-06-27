@@ -1,6 +1,6 @@
 # Article 3
 
-Afin de solliciter une inscription au registre des opérateurs économiques candidats aux marchés publics de travaux, dans le cadre de l'article 23 de l'Ordonnance Souveraine n° 7.264 du 20 décembre 2018, susvisée, un dossier est retiré, complété puis déposé par l'opérateur économique, ci-après désigné par le terme « opérateur économique », auprès de la Direction des Travaux Publics contre récépissé. Ce dossier permet à l'État :
+Afin de solliciter une inscription au registre des opérateurs économiques candidats aux marchés publics de travaux, dans le cadre de l'article 23 de l'Ordonnance Souveraine n° 7.264 du 20 décembre 2018, susvisée, un dossier est retiré, complété puis déposé par l'opérateur économique, ci-après désigné par le terme " opérateur économique ", auprès de la Direction des Travaux Publics contre récépissé. Ce dossier permet à l'État :
 
 - de connaître les caractéristiques de l'opérateur économique eu égard à sa localisation, son administration, sa forme juridique, son ancienneté, ses capacités financières, ses moyens techniques, ses références et son personnel ;
 

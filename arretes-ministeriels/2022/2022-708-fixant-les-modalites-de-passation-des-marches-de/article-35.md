@@ -1,6 +1,6 @@
 # Article 35
 
-La Direction des Bâtiments Publics limite le principe d'équilibrage aux opérateurs économiques classés en catégorie « A » dans le registre des opérateurs économiques candidats aux marchés publics de travaux et ayant signé une « Charte de l'Équilibrage » auprès de lui.
+La Direction des Bâtiments Publics limite le principe d'équilibrage aux opérateurs économiques classés en catégorie " A " dans le registre des opérateurs économiques candidats aux marchés publics de travaux et ayant signé une " Charte de l'Équilibrage " auprès de lui.
 
 Les travaux sont répartis par la Direction des Bâtiments Publics pour tendre vers l'équilibre entre les opérateurs économiques, sur une période déterminée de deux années civiles, en fonction de la masse financière allouée à chaque opérateur économique et ce, dans le respect des stipulations prévues au titre de la Charte de l'Équilibrage signée par chaque entreprise.
 
