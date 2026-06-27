@@ -1,6 +1,6 @@
 # Article 23
 
-La réception de tout cadeau ou avantage relevant des dispositions de la présente section est enregistrée dans un livre d'inventaire coté et tenu, selon le cas, par le Secrétariat Général du Gouvernement ou le Secrétariat Général du Département ministériel, lequel fait apparaître les renseignements suivants :
+Le livre d'inventaire visé à l'article 22‑1 fait apparaître les renseignements suivants :
 
 - la date de réception ;
 
@@ -15,5 +15,3 @@ La réception de tout cadeau ou avantage relevant des dispositions de la présen
 - la valeur estimative ;
 
 - la signature du bénéficiaire.
-
-Une revue de ce livre d'inventaire est effectuée annuellement par l'Inspection Générale de l'Administration.

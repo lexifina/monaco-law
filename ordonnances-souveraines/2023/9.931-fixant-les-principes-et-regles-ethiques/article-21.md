@@ -2,7 +2,7 @@
 
 Peuvent être acceptés, sans pouvoir être sollicités :
 
-- 1°) les cadeaux reçus en vertu des usages diplomatiques et des règles de courtoisie en usage dont la valeur estimative figure ne dépasse pas la somme de deux cents euros ;
+- 1°) les cadeaux reçus en vertu des usages diplomatiques et des règles de courtoisie en usage dont la valeur estimative ne dépasse pas la somme de deux cents euros ;
 
 - 2°) les invitations à un évènement, une manifestation ou une cérémonie, notamment sportifs ou culturels auxquels les membres assistent ou participent en qualité de représentant du Gouvernement Princier.
 

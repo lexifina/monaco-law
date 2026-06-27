@@ -1,6 +1,6 @@
 # Article 26
 
-Les missions du référent déontologue sont assurées par une personne extérieure à l'Administration choisie à raison de sa compétence dans le domaine de la déontologie, de l'éthique et de la conformité et désignée par le Ministre d'État pour une durée de cinq ans, non renouvelable.
+Les missions du référent déontologue sont assurées par une personne extérieure aux services exécutifs de l'État, aux services judiciaires et à la Maison Souveraine choisie à raison de sa compétence dans le domaine de la déontologie, de l'éthique et de la conformité et désignée par le Ministre d'État pour une durée de cinq ans, non renouvelable.
 
 Les consultations rendues par le référent déontologue sont confidentielles.
 

@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 9.931 du 15 juin 2023 fixant les principes et règles éthiques, déontologiques et de conformité des membres du Gouvernement
 
-Version en vigueur au 22 juillet 2023.
+Version en vigueur au 27 juin 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2023/06-15-9.931@2023.07.22/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2023/06-15-9.931@2026.06.27/
 
 | | |
 | --- | --- |

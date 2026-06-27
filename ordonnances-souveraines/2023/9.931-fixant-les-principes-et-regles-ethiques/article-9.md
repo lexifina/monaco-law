@@ -18,6 +18,8 @@ La déclaration d'intérêts porte sur les éléments suivants :
 
 - 8°) les fonctions bénévoles exercées à la date de la nomination par le conjoint, le partenaire lié par un contrat civil de solidarité ou par un autre contrat relatif à l'organisation de la vie commune ou de la cohabitation valablement conclu à l'étranger en application de la loi étrangère ;
 
-- 9°) les fonctions et mandats électifs au sein d'entités privées exercés à la date de la nomination et au cours des cinq années précédant celle-ci.
+- 9°) les fonctions et mandats électifs au sein d'entités privées exercés à la date de la nomination et au cours des cinq années précédant celle-ci ;
+
+- 10°) le passif dont le montant excède le seuil de 100.000 euros.
 
 La déclaration précise le montant des rémunérations, indemnités ou gratifications perçues par le membre du Gouvernement au titre des éléments mentionnés aux chiffres 1°) à 5°) et 9°) du présent article.
