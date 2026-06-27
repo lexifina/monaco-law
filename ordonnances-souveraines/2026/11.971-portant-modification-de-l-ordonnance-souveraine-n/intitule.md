@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 11.971 du 18 juin 2026 portant modification de l'Ordonnance Souveraine n° 9.931 du 15 juin 2023 fixant les principes et règles éthiques, déontologiques et de conformité des membres du Gouvernement
