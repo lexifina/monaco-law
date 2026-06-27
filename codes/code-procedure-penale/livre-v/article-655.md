@@ -16,4 +16,4 @@ Il est délivré aux administrations publiques, pour les besoins de la constitut
 
 - 7° des condamnations dont la mention au bulletin n° 2 a été expressément exclue en application de l'article 655-1.
 
-Lorsqu'il n'existe pas, au casier judiciaire, de bulletin concernant des décisions à inscrire sur le bulletin n° 2, celui-ci porte la mention « néant ».
+Lorsqu'il n'existe pas, au casier judiciaire, de bulletin concernant des décisions à inscrire sur le bulletin n° 2, celui-ci porte la mention " néant ".

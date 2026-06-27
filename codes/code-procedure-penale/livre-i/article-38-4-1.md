@@ -1,0 +1,5 @@
+# Article 38‑4‑1
+
+Le juge d'instruction peut, selon les modalités prévues par l'article 224‑2, prononcer, par ordonnance, la transmission de la procédure au procureur général aux fins de mise en œuvre de la procédure prévue à la présente section.
+
+Une personne morale ou une personne physique habilitée à représenter une personne morale, mise en cause en tant qu'auteur ou complice, pour une des infractions énumérées au premier alinéa de l'article 38‑4, peut, directement ou par l'intermédiaire de son avocat, demander au procureur général de recourir à la procédure de convention pénale. Le procureur général dispose d'un délai de trois mois à compter de la réception de la demande, pour informer l'intéressé ou son avocat par écrit, soit qu'il n'entend pas faire application de cette possibilité et que l'enquête se poursuit dans les formes habituelles, soit de son accord pour engager une procédure de convention pénale. À défaut de réponse dans ce délai, la demande est considérée comme rejetée. Cette décision est insusceptible de recours.
