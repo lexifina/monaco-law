@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 1.635 du 30 avril 2008 fixant les attributions de la Direction des Ressources Humaines et de la Formation de la Fonction Publique
 
-Version en vigueur au 3 janvier 2026.
+Version en vigueur au 27 juin 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/04-30-1.635@2026.01.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2008/04-30-1.635@2026.06.27/
 
 | | |
 | --- | --- |
