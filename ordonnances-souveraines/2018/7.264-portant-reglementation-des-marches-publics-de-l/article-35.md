@@ -1,7 +1,9 @@
 # Article 35
 
-Les projets de marchés sont communiqués pour avis au Contrôleur Général des Dépenses préalablement à leur signature par l'autorité compétente.
+Dans les trente jours à compter de la date de signature du marché par l'État, l'État notifie, par tout support aux soumissionnaires autres que celui retenu, le rejet de leur candidature ou de leur offre.
 
-Ils sont signés par le Ministre d'État, qui peut déléguer sa signature dans les conditions prévues par l'Ordonnance Souveraine n° 621 du 4 août 2006 relative à la délégation de signature du Ministre d'État, modifiée.
+La notification mentionne :
 
-Les chefs de service peuvent signer les marchés dont le montant évalué est inférieur à 100.000 euros H.T.
+- les motifs du rejet de la candidature ou de l'offre, notamment eu égard à la notation obtenue ;
+
+- le nom de l'attributaire.

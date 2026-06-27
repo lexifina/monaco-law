@@ -1,3 +1,7 @@
 # Article 34
 
-Dès qu'il a fait son choix pour une candidature ou une offre, l'État notifie par tout support à tous les autres soumissionnaires le rejet de leur candidature ou de leur offre.
+Les projets de marchés sont communiqués pour avis au Contrôleur Général des Dépenses préalablement à leur signature par l'autorité compétente.
+
+Ils sont signés par le Ministre d'État, qui peut déléguer sa signature dans les conditions prévues par Notre Ordonnance n° 621 du 4 août 2006 relative à la délégation de signature du Ministre d'État, modifiée.
+
+Les chefs de service peuvent signer les marchés dont le montant évalué est inférieur à 100.000 euros H.T.
