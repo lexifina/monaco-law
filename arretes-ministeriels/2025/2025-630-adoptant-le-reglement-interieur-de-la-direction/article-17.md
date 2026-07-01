@@ -1,6 +1,6 @@
 # Article 17
 
-Les bases de remboursement des frais de transport effectués en taxi, visées au chiffre 2°) de l'article 42 de l'Ordonnance Souveraine n° 8.011 du 12 mars 2020, modifiée, précitée, ne sont pas publiées car elles dépendent de plusieurs paramètres. Elles doivent donc être demandées au Service des Prestations Médicales de l'État.
+Les bases de remboursement des frais de transport effectués en taxi, visées au chiffre 2°) de l'article 42 de l'Ordonnance Souveraine n° 8.011 du 12 mars 2020, modifiée, précitée, ne sont pas publiées car elles dépendent de plusieurs paramètres. Elles doivent donc être demandées à la Direction des Prestations Médicales et Familiales de l'État.
 
 Ces bases de remboursement sont différentes selon que le chauffeur de taxi soit autorisé à exercer son activité professionnelle à Monaco ou en France.
 

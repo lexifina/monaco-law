@@ -1,6 +1,6 @@
 # Article 9
 
-Les prestations en nature soumises à l'accord préalable du Médecin Conseil ou du Dentiste Conseil du Service des Prestations Médicales de l'État, visées à l'alinéa premier de l'article 19 de l'Ordonnance Souveraine n° 8.011 du 12 mars 2020, modifiée, précitée, sont les suivantes :
+Les prestations en nature soumises à l'accord préalable du Médecin Conseil ou du Dentiste Conseil de la Direction des Prestations Médicales et Familiales de l'État, visées à l'alinéa premier de l'article 19 de l'Ordonnance Souveraine n° 8.011 du 12 mars 2020, modifiée, précitée, sont les suivantes :
 
 - 1°) les hospitalisations et les actes médicaux programmés, à savoir non urgents, en dehors de la Principauté et du Département des Alpes-Maritimes ;
 
