@@ -2,7 +2,7 @@
 
 Font l'objet de la reconstitution de rémunérations visée aux articles 9 et 13 de la loi n° 455 du 27 juin 1947, modifiée, susvisée, les interruptions de travail rattachées à un employeur visé à l'article 8 bis de ladite loi et intervenues avant l'âge de 65 ans pour les motifs suivants :
 
-- 1) maladie, accident, maternité, paternité, adoption ou invalidité indemnisés par la Caisse de Compensation des Services Sociaux, un régime particulier agréé monégasque de prestations sociales, au sens de l'article 8 de l'Ordonnance-loi n° 397 du 27 septembre 1944, modifiée, susvisée, ou le Service des Prestations Médicales de l'État pour le personnel relevant de ce Service et affilié auprès de la Caisse Autonome des Retraites ;
+- 1) maladie, accident, maternité, paternité, adoption ou invalidité indemnisés par la Caisse de Compensation des Services Sociaux, un régime particulier agréé monégasque de prestations sociales, au sens de l'article 8 de l'Ordonnance-loi n° 397 du 27 septembre 1944, modifiée, susvisée, ou la Direction des Prestations Médicales et Familiales de l'État pour le personnel relevant de cette Direction et affilié auprès de la Caisse Autonome des Retraites ;
 
 - 2) privation momentanée et involontaire d'emploi en Principauté indemnisée par :
 
