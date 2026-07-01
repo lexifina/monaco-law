@@ -8,11 +8,11 @@
 
 Les frais de transport des patients concernés sont également pris en charge, le cas échéant et sans préjudice des actions récursoires, par l'autorité monégasque compétente, à savoir :
 
-- les frais de transport depuis Monaco jusqu'au lieu d'hospitalisation en France ;
+- - les frais de transport depuis Monaco jusqu'au lieu d'hospitalisation en France ;
 
-- les frais de transfert d'un établissement de santé vers un autre, si besoin, au cours de la période d'hospitalisation en France ;
+- - les frais de transfert d'un établissement de santé vers un autre, si besoin, au cours de la période d'hospitalisation en France ;
 
-- les frais de transport de retour à l'issue de l'hospitalisation en France.
+- - les frais de transport de retour à l'issue de l'hospitalisation en France.
 
 4. Dans le cas du déroutage d'un navire vers un point d'entrée sur le territoire français selon les conditions définies à l'article 8 du présent accord, l'ensemble des coûts liés à la prise en charge technique, à l'acheminement du navire, à l'intervention de personnels français ainsi que tout autre coût pour la France découlant du déroutage du navire est intégralement pris en charge par les autorités monégasques compétentes ainsi que l'ensemble des coûts liés à l'hospitalisation en France des passagers du navire et ce, sans préjudice des actions récursoires.
 

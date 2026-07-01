@@ -2,13 +2,13 @@ Accord-cadre
 
 Entre
 
-La Principauté de Monaco (ci-après dénommée « Monaco ») d'une part,
+La Principauté de Monaco (ci-après dénommée " Monaco ") d'une part,
 
 Et
 
-Le Gouvernement de la République Française (ci-après dénommé la « France ») d'autre part,
+Le Gouvernement de la République Française (ci-après dénommé la " France ") d'autre part,
 
-Monaco et la France ci-après dénommées les « Parties »,
+Monaco et la France ci-après dénommées les " Parties ",
 
 Vu le Règlement Sanitaire International (RSI), adopté par la résolution WHA58.3 de la cinquante huitième Assemblée Mondiale de la Santé, le 23 mai 2005 ;
 
