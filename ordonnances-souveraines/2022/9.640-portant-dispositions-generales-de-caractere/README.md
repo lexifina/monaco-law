@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 9.640 du 23 décembre 2022 portant dispositions générales de caractère statutaire applicables aux agents contractuels de l'État
 
-Version en vigueur au 3 janvier 2026.
+Version en vigueur au 1er juillet 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2022/12-23-9.640@2026.01.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2022/12-23-9.640@2026.07.01/
 
 | | |
 | --- | --- |

@@ -20,4 +20,4 @@ Le droit à ces prestations est maintenu aux agents contractuels qui bénéficie
 
 - 3°) d'un congé accordé en application des articles 81 à 83.
 
-Ce droit est également maintenu aux agents contractuels ayant fait valoir leurs droits à la retraite et domiciliés à Monaco à la condition qu'ils n'exercent aucune activité lucrative et qu'ils n'aient ni ouvrent droit, en dehors du Service des Prestations Médicales de l'État, à aucun autre régime d'assurance maladie en application de l'Ordonnance Souveraine n° 5.251 du 19 mars 2015, modifiée, susvisée.
+Ce droit est également maintenu aux agents contractuels ayant fait valoir leurs droits à la retraite et domiciliés à Monaco à la condition qu'ils n'exercent aucune activité lucrative et qu'ils n'aient ni ouvrent droit, en dehors de la Direction des Prestations Médicales et Familiales de l'État, à aucun autre régime d'assurance maladie en application de l'Ordonnance Souveraine n° 5.251 du 19 mars 2015, modifiée, susvisée.
