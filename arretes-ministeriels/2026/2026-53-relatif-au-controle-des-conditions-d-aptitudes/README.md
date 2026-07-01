@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2026-53 du 29 janvier 2026 relatif au contrôle des conditions d'aptitudes physique, médicale et psychologique pour servir en qualité de militaire au sein de la Force Publique
 
-Version en vigueur au 7 février 2026.
+Version en vigueur au 1er juillet 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2026/01-29-2026-53@2026.02.07/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2026/01-29-2026-53@2026.07.01/
 
 | | |
 | --- | --- |

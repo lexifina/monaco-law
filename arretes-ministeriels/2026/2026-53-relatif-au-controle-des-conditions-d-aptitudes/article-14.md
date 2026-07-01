@@ -1,6 +1,6 @@
 # Article 14
 
-Un test collectif et des entretiens individuels, réalisés auprès des candidats, sont conduits et interprétés par un psychologue, missionné par le Chef du Service des prestations médicales de l'État, en vue d'évaluer la compatibilité de leurs profils psychologiques ou psychopathologiques avec l'exercice des fonctions de militaire du rang au sein du Corps concerné.
+Un test collectif et des entretiens individuels, réalisés auprès des candidats, sont conduits et interprétés par un psychologue, missionné par le Directeur des Prestations Médicales et Familiales de l'État, en vue d'évaluer la compatibilité de leurs profils psychologiques ou psychopathologiques avec l'exercice des fonctions de militaire du rang au sein du Corps concerné.
 
 Avant la tenue de la réunion de la commission médicale de recrutement, le psychologue :
 
