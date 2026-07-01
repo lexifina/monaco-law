@@ -2,9 +2,9 @@
 
 Les bénéficiaires des prestations prévues en cas de maternité sont :
 
-1°) la femme fonctionnaire ou agent de l'État ou de la Commune ;
+- 1°) la femme fonctionnaire ou agent de l'État ou de la Commune ;
 
-2°) l'épouse ou la partenaire d'un contrat de vie commune, ayant droit du fonctionnaire ou de l'agent de l'État ou de la Commune.
+- 2°) l'épouse ou la partenaire d'un contrat de vie commune, ayant droit du fonctionnaire ou de l'agent de l'État ou de la Commune.
 
 En cas de mariage postérieur à la conception ou à la naissance de l'enfant, le droit à ces prestations peut s'ouvrir du chef de l'assuré à compter de la date de célébration du mariage.
 

@@ -6,8 +6,8 @@ Pour l'application de l'article 50, seuls sont comptabilisés les jours de cong�
 
 Les dispositions des articles suivants s'appliquent aux affections déclarées postérieurement à la date précitée :
 
-- l'article 30 chiffre 4°) premier tiret ;
+- - l'article 30 chiffre 4°) premier tiret ;
 
-- l'article 51 ;
+- - l'article 51 ;
 
-- les articles 54 à 56.
+- - les articles 54 à 56.

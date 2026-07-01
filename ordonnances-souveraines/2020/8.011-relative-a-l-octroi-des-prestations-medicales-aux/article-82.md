@@ -4,4 +4,4 @@ Toute réclamation éventuelle concernant la décision de mise en invalidité no
 
 Cette réclamation est adressée par l'intéressé, selon le cas, à la Direction des Ressources Humaines et de la Formation de la Fonction Publique ou au Service de Gestion des Personnels de la Commune. Elle est accompagnée, sous pli cacheté à l'attention de la Commission Médicale Supérieure, d'une lettre mentionnant les motifs sur lesquels elle s'appuie.
 
-La Direction des Ressources Humaines et de la Formation de la Fonction Publique ou le Service de Gestion des Personnels de la Commune en saisit le Chef du Service des Prestations Médicales de l'État. Dans les quinze jours au plus tard suivant la réception de cette réclamation, le Médecin Conseil de cette entité doit convoquer la Commission Médicale Supérieure.
+La Direction des Ressources Humaines et de la Formation de la Fonction Publique ou le Service de Gestion des Personnels de la Commune en saisit le Directeur des Prestations Médicales et Familiales de l'État. Dans les quinze jours au plus tard suivant la réception de cette réclamation, le Médecin Conseil de cette entité doit convoquer la Commission Médicale Supérieure.

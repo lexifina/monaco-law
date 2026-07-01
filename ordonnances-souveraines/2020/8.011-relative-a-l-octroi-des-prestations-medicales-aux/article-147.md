@@ -2,13 +2,13 @@
 
 La Commission Médicale Supérieure est composée :
 
-1°) d'un Médecin Inspecteur de la Direction de l'Action Sanitaire, qui la préside, avec voix prépondérante en cas de partage des voix ;
+- 1°) d'un Médecin Inspecteur de la Direction de l'Action Sanitaire, qui la préside, avec voix prépondérante en cas de partage des voix ;
 
-2°) du Médecin Conseil du Service des Prestations Médicales de l'État, avec voix consultative ;
+- 2°) du Médecin Conseil de la Direction des Prestations Médicales et Familiales de l'État, avec voix consultative ;
 
-3°) de deux praticiens de médecine générale ou, si besoin, d'un praticien de médecine générale et d'un praticien spécialiste de l'affection ou de l'infirmité dont est atteint le fonctionnaire ou l'agent de l'État ou de la Commune ;
+- 3°) de deux praticiens de médecine générale ou, si besoin, d'un praticien de médecine générale et d'un praticien spécialiste de l'affection ou de l'infirmité dont est atteint le fonctionnaire ou l'agent de l'État ou de la Commune ;
 
-4°) d'un Praticien de la Médecine préventive du travail relevant de l'Office de la Médecine du Travail.
+- 4°) d'un Praticien de la Médecine préventive du travail relevant de l'Office de la Médecine du Travail.
 
 Les praticiens de médecine générale et de la médecine préventive du travail susvisés ne peuvent être désignés parmi ceux ayant siégé dans la commission dont l'avis est contesté.
 

@@ -4,8 +4,8 @@ Le montant des indemnités journalières, qui sont versées aux bénéficiaires 
 
 Les indemnités journalières sont servies dans la limite de :
 
-1°) trois cent soixante-cinq jours calendaires à la date à laquelle l'ancien agent a bénéficié d'une mise en congé de maladie ordinaire ;
+- 1°) trois cent soixante-cinq jours calendaires à la date à laquelle l'ancien agent a bénéficié d'une mise en congé de maladie ordinaire ;
 
-2°) mille quatre-vingt-quinze jours calendaires à compter de la date à laquelle l'ancien agent a bénéficié d'une mise en congé de maladie de longue durée ;
+- 2°) mille quatre-vingt-quinze jours calendaires à compter de la date à laquelle l'ancien agent a bénéficié d'une mise en congé de maladie de longue durée ;
 
-3°) trois cent soixante-cinq jours calendaires à compter de la date à laquelle l'ancien agent a bénéficié d'une mise en congé de longue maladie.
+- 3°) trois cent soixante-cinq jours calendaires à compter de la date à laquelle l'ancien agent a bénéficié d'une mise en congé de longue maladie.

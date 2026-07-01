@@ -1,3 +1,3 @@
 # Article 26
 
-Les assurés du Service des Prestations Médicales de l'État bénéficient d'un remboursement correspondant à 80 % de la base de remboursement.
+Les assurés de la Direction des Prestations Médicales et Familiales de l'État bénéficient d'un remboursement correspondant à 80 % de la base de remboursement.
