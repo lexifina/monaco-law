@@ -26,6 +26,6 @@ La liste des spécialités relevant du Département des Affaires Sociales et de 
 
   - Inspecteur du travail
 
-- 4°) Service des Prestations Médicales de l'État
+- 4°) Direction des Prestations Médicales et Familiales de l'État
 
   - Assistant social
