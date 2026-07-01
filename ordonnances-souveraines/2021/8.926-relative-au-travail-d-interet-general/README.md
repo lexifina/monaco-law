@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.926 du 23 novembre 2021 relative au travail d'intérêt général
 
-Version en vigueur au 27 novembre 2021.
+Version en vigueur au 1er juillet 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/11-23-8.926@2021.11.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2021/11-23-8.926@2026.07.01/
 
 | | |
 | --- | --- |
