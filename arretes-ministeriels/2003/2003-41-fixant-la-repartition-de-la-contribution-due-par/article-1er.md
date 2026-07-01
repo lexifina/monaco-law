@@ -6,4 +6,4 @@ La contribution due par les organismes de services sociaux en application du 2e 
 
 - Caisse d'Assurance Maladie et Maternité des Travailleurs Indépendants : ............ | 5,00 %
 
-- Service des Prestations Médicales de l'État : ............ | 12,5 %
+- Direction des Prestations Médicales et Familiales de l'État : ............ | 12,5 %
