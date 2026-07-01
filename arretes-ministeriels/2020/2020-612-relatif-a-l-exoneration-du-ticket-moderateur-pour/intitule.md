@@ -1,1 +1,1 @@
-Arrêté ministériel n° 2020-612 du 14 septembre 2020 relatif à l'exonération du ticket modérateur pour les prestations en nature des assurances maladie et maternité des assurés relevant du Service des Prestations Médicales de l'État et de leurs ayants droit
+Arrêté ministériel n° 2020-612 du 14 septembre 2020 relatif à l'exonération du ticket modérateur pour les prestations en nature des assurances maladie et maternité des assurés relevant de la Direction des Prestations Médicales et Familiales de l'État et de leurs ayants droit

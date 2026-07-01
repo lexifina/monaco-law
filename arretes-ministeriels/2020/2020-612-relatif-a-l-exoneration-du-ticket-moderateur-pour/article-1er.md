@@ -1,6 +1,6 @@
 # Article 1er
 
-La limitation ou la suppression de la participation de l'assuré, dite « ticket modérateur », aux frais de traitement et d'examens médicaux, visées à l'article 30 de l'Ordonnance Souveraine n° 8.011 du 12 mars 2020, susvisée, peut être accordée :
+La limitation ou la suppression de la participation de l'assuré, dite " ticket modérateur ", aux frais de traitement et d'examens médicaux, visées à l'article 30 de l'Ordonnance Souveraine n° 8.011 du 12 mars 2020, susvisée, peut être accordée :
 
 1°) pour les actes techniques inscrits à la Nomenclature Générale des Actes Professionnels (N.G.A.P.), prévue par l'arrêté ministériel n° 84-688 du 30 novembre 1984, modifié, susvisé, quand ceux-ci sont affectés d'un coefficient égal ou supérieur à 50.
 
