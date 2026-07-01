@@ -6,6 +6,6 @@ La contribution pour constitution au bénéfice des médecins intéressés. de l
 
 - Caisse sociale de la Société des bains de mer ;
 
-- Service des prestations médicales de l'État et de la Commune ;
+- Direction des Prestations Médicales et Familiales de l'État et de la Commune ;
 
 - Caisse d'assurance maladie, maternité des travailleurs indépendants.
