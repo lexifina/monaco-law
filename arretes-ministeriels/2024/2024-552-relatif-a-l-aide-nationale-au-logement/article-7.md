@@ -16,7 +16,7 @@ d'autre part,
 
 Il est précisé que le pourcentage de 10 % est étendu aux ressources du conjoint âgé de moins de 65 ans uniquement si ce dernier est retraité.
 
-Dans le cas contraire, un revenu dit « mixte » est appliqué, à savoir une prise en compte de 10 % des revenus de l'allocataire ou de son conjoint âgé de plus de 65 ans, et de 20 % pour toute autre personne vivant au foyer, sur le loyer non majoré des charges locatives.
+Dans le cas contraire, un revenu dit " mixte " est appliqué, à savoir une prise en compte de 10 % des revenus de l'allocataire ou de son conjoint âgé de plus de 65 ans, et de 20 % pour toute autre personne vivant au foyer, sur le loyer non majoré des charges locatives.
 
 L'allocation n'est pas servie si son montant mensuel est strictement inférieur à 35,00 €uros.
 
