@@ -6,7 +6,9 @@ La circulation des véhicules est interdite, rue des Princes, de 18 heures à 23
 
 - mercredi 22 juillet 2026 ;
 
-- mercredi 5 août 2026.
+- mercredi 5 août 2026 ;
+
+- mercredi 19 août 2026.
 
 Cette disposition ne s'applique pas aux véhicules désirant se rendre au parking dans la partie comprise entre la rue Princesse Florestine et le Square Gastaud.
 
