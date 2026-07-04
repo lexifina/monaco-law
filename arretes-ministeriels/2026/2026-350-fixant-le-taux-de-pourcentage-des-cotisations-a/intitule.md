@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-350 du 25 juin 2026 fixant le taux de pourcentage des cotisations à affecter au fonds de réserve de la Caisse Autonome des Retraites des Travailleurs Indépendants pour l'exercice 2024-2025
