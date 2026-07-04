@@ -22,4 +22,4 @@ L'échange d'appartements est autorisé sous réserve que :
 
 étant précisé que dans l'hypothèse où un co-échangeur est logé dans un appartement excédant son besoin normal, le montant de l'Aide Nationale au Logement retenu pour l'établissement de l'incidence financière est arrêté sans application du coefficient de pondération proportionnel au nombre de pièces qui satisfait le besoin normal de son foyer.
 
-Il est précisé que le calcul de l'incidence de l'Aide Nationale au Logement évoqué ci-dessus s'effectue également en cas de contrat « habitation-capitalisation », sur la base du loyer qui serait facturé en l'absence dudit contrat.
+Il est précisé que le calcul de l'incidence de l'Aide Nationale au Logement évoqué ci-dessus s'effectue également en cas de contrat " habitation-capitalisation ", sur la base du loyer qui serait facturé en l'absence dudit contrat.

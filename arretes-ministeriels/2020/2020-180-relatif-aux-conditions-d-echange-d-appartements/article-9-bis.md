@@ -1,10 +1,14 @@
 # Article 9 bis
 
-Les mesures incitatives suivantes sont appliquées à toute demande d'échange validée pour les foyers occupant un appartement de 4 ou 5 pièces, sans enfant à charge, ni en visite, qui intègrent un 2 ou 3 pièces.
+Les mesures incitatives suivantes sont appliquées à toute demande d'échange validée pour les foyers, sans enfant à charge, ni en visite :
 
-Dans ce cas uniquement, le loyer de l'appartement sera, à titre de mesure bienveillante et personnelle, maintenu dans le cas où le loyer de l'appartement de typologie inférieure s'avérait être supérieur.
+- occupant un appartement de 4 ou 5 pièces et intégrant un 2 ou 3 pièces ;
 
-Il en est de même pour le montant du contrat « habitation-capitalisation » à condition qu'un tel contrat ait été souscrit sur le bien précédemment occupé, antérieurement à la demande d'échange.
+- occupant un appartement de 3 pièces et intégrant un 2 pièces.
+
+Dans ces cas uniquement, le loyer de l'appartement sera, à titre de mesure bienveillante et personnelle, maintenu dans le cas où le loyer de l'appartement de typologie inférieure s'avérait être supérieur.
+
+Il en est de même pour le montant du contrat " habitation-capitalisation " à condition qu'un tel contrat ait été souscrit sur le bien précédemment occupé, antérieurement à la demande d'échange.
 
 Ces mesures ne sont toutefois pas reconduites en cas de nouvel échange pour les foyers en ayant bénéficié, de même que pour un futur foyer co-échangeur qui intégrerait ultérieurement cet appartement.
 

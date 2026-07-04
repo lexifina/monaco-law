@@ -2,7 +2,7 @@ Vu la loi n° 1.235 du 28 décembre 2000 relative aux conditions de location de 
 
 Vu la loi n° 1.312 du 29 juin 2006 relative à la motivation des actes administratifs ;
 
-Vu l'Ordonnance Souveraine n° 2.249 du 1er juillet 2009 fixant les modalités d'application de la loi n° 1.357 du 19 février 2009 définissant le contrat « habitation-capitalisation » dans le secteur domanial ;
+Vu l'Ordonnance Souveraine n° 2.249 du 1er juillet 2009 fixant les modalités d'application de la loi n° 1.357 du 19 février 2009 définissant le contrat " habitation-capitalisation " dans le secteur domanial ;
 
 Vu l'Ordonnance Souveraine n° 4.801 du 28 avril 2014 portant création d'une Direction de l'Habitat ;
 
