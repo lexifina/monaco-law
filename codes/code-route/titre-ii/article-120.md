@@ -1,11 +1,7 @@
 # Article 120
 
-Les permis de conduire des sous-catégories et catégories suivantes :
+La durée de validité du permis peut être limitée, pour toutes les catégories ou pour certaines d'entre elles, si lors de sa délivrance il est constaté que le candidat est atteint d'une affection compatible avec l'obtention du permis, mais susceptible de s'aggraver.
 
-- BE, C1, C, CE, C1E, D1, D1E, D, DE
+Si, postérieurement à la délivrance du permis, il est constaté que le titulaire est frappé d'une affection temporaire ou permanente incompatible avec l'obtention du permis, le Ministre d'État prononce, par arrêté et sur le vu d'un certificat médical établi par un médecin désigné à cet effet, la restriction de validité, la suspension ou l'annulation du permis.
 
-- ainsi que les permis délivrés aux personnes handicapées nécessitant un aménagement du poste de conduite ne sont délivrés que pour une durée maximum de cinq ans aux conducteurs âgés de moins de quarante-cinq ans, de trois ans aux conducteurs dont l'âge est compris entre quarante-cinq ans et cinquante-cinq ans, de deux ans aux conducteurs dont l'âge est compris entre cinquante-cinq et soixante ans et d'un an aux conducteurs ayant dépassé soixante ans, sur le vu d'un certificat médical établi par un médecin installé en Principauté.
-
-Les permis de conduire les véhicules des sous-catégories et catégories C, C1, D1 ou D ne peuvent être délivrés qu'aux conducteurs titulaires du permis B.
-
-Les permis de conduire pour les sous-catégories et catégories BE, C1E, CE, D1E, DE ne peuvent être délivrés qu'aux conducteurs titulaires du permis correspondant aux sous-catégories et catégories de base, B, C1, C, D1 ou D.
+Sauf motif légitime, la non-présentation ou le défaut de réponse réitéré à la convocation à la visite médicale, ou le refus d'examens complémentaires, entraîne l'annulation du permis. L'annulation est prononcée par arrêté au vu du certificat médical portant avis technique impossible établi par le médecin désigné.

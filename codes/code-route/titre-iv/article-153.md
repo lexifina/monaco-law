@@ -10,7 +10,7 @@ Pour l'application des dispositions du présent titre, les définitions suivante
 
 - Motocyclettes dont la cylindrée n'excède pas 125 cm3 et dont la puissance n'excède pas 11 kilowatts, à l'exception des cyclomoteurs.
 
-- Les véhicules mis en circulation sous le genre « vélomoteur » sont considérés comme des motocyclettes légères.
+- Les véhicules mis en circulation sous le genre " vélomoteur " sont considérés comme des motocyclettes légères.
 
 - Tricycles à moteurs :
 

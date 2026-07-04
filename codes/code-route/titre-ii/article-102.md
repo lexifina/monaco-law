@@ -18,17 +18,17 @@ Le certificat d'immatriculation dont bénéficient les personnes morales visées
 
 Le certificat d'immatriculation dont bénéficient les personnes morales visées au chiffre 4°) mentionne la raison sociale et l'adresse de ces dernières.
 
-Les mentions « location de longue durée », « location avec option d'achat » et « location courte durée » sont inscrites sur les certificats d'immatriculation des véhicules correspondants.
+Les mentions " location de longue durée ", " location avec option d'achat " et " location courte durée " sont inscrites sur les certificats d'immatriculation des véhicules correspondants.
 
-La mention « véhicules de service » sera inscrite sur le certificat d'immatriculation des véhicules visés au chiffre 2°).
+La mention " véhicules de service " sera inscrite sur le certificat d'immatriculation des véhicules visés au chiffre 2°).
 
-Pour l'application du présent article, est qualifié de « location longue durée (LLD) » la mise à disposition d'un véhicule pour une durée supérieure à un an avec un kilométrage convenu, en contrepartie du versement mensuel, à titre de loyer, d'une somme d'argent.
+Pour l'application du présent article, est qualifié de " location longue durée (LLD) " la mise à disposition d'un véhicule pour une durée supérieure à un an avec un kilométrage convenu, en contrepartie du versement mensuel, à titre de loyer, d'une somme d'argent.
 
 La durée ne peut excéder soixante mois. À cette durée correspondent des plafonds de kilométrages qui ne peuvent être dépassés sans pénalité. Les mensualités comprennent certaines prestations annexes telles que l'entretien et les réparations du véhicule en cas de panne, ainsi que l'assistance de la voiture.
 
 À l'échéance du contrat, le locataire du véhicule est tenu de restituer ce dernier au loueur qui reste propriétaire du véhicule tout au long de la location.
 
-Pour l'application du présent article, est qualifié de « location avec option d'achat (LOA) » la mise à disposition d'un véhicule pour une durée définie par le contrat de location supérieure à un an en contrepartie du versement d'un loyer mensuel par le locataire. Les frais d'entretien du véhicule restent à la charge du locataire.
+Pour l'application du présent article, est qualifié de " location avec option d'achat (LOA) " la mise à disposition d'un véhicule pour une durée définie par le contrat de location supérieure à un an en contrepartie du versement d'un loyer mensuel par le locataire. Les frais d'entretien du véhicule restent à la charge du locataire.
 
 À l'échéance du contrat le locataire peut poursuivre la location, restituer le véhicule au loueur ou s'acquitter de la valeur résiduelle du véhicule en levant l'option d'achat et en devenir propriétaire.
 
