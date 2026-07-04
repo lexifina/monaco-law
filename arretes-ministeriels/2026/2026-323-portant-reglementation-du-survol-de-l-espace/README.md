@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2026‑323 du 17 juin 2026 portant réglementation du survol de l'espace aérien monégasque par des engins volants télépilotés
 
-Version en vigueur au 27 juin 2026.
+Version en vigueur au 4 juillet 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2026/06-17-2026-323@2026.06.27/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2026/06-17-2026-323@2026.07.04/
 
 | | |
 | --- | --- |

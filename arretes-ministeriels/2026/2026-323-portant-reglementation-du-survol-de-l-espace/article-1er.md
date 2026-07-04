@@ -12,6 +12,8 @@ En application de l'article 6 de l'arrêté ministériel n° 2021‑532 du 2 ao�
 
 - du 22 au 23 août 2026, à l'occasion du Grand Départ de la Vuelta 2026 ;
 
+- du 24 au 28 août 2026, à l'occasion du tournage d'une superproduction ;
+
 - du 20 septembre 2026 à 8 heures au 27 septembre 2026 à 18 heures, à l'occasion du Monaco Yacht Show ;
 
 - le 1er novembre 2026 de 6 heures à 14 heures, à l'occasion du Cross du Larvotto ;
