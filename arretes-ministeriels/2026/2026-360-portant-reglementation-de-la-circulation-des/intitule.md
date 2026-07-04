@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-360 du 1er juillet 2026 portant réglementation de la circulation des piétons, le stationnement et la circulation des véhicules à l'occasion du Global Champions Arabians Tour 2026
