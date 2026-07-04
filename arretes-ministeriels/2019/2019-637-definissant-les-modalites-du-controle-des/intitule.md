@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2019-637 du 31 juillet 2019 définissant les modalités du contrôle des aptitudes à la conduite d'un véhicule pour l'obtention d'un permis de conduire monégasque par échange d'un permis de conduire étranger
