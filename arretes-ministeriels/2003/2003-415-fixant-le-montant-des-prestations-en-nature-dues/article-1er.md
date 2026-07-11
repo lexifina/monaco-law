@@ -230,9 +230,9 @@ Cette dernière procède au versement individuel des indemnités forfaitaires qu
 
 Il ne peut être servi plus d'une indemnité de garde de jour par 24 heures, celle-ci est indivisible.
 
-Garde médicale de nuit - Des indemnités forfaitaires sont également versées par les Régimes obligatoires d'Assurance Maladie aux Médecins qui assurent les gardes durant la nuit, de 19 heures à 7 heures, dans le cadre exclusif du Service de permanence de soins et d'urgence organisé par « Médecins de garde - Monaco » créé par l'Ordonnance Souveraine n° 11.328 du 10 juillet 2025.
+Garde médicale de nuit - Des indemnités forfaitaires sont également versées par les Régimes obligatoires d'Assurance Maladie aux Médecins qui assurent les gardes durant la nuit, de 19 heures à 7 heures, dans le cadre exclusif du Service de permanence de soins et d'urgence organisé par " Médecins de garde - Monaco " créé par l'Ordonnance Souveraine n° 11.328 du 10 juillet 2025.
 
-Le règlement des indemnités forfaitaires intervient trimestriellement dans les 30 jours de la communication, par « Médecins de garde - Monaco », à la Caisse de Compensation des Services Sociaux, d'un relevé nominatif des tours de garde assurés au cours du trimestre civil qui précède.
+Le règlement des indemnités forfaitaires intervient trimestriellement dans les 30 jours de la communication, par " Médecins de garde - Monaco ", à la Caisse de Compensation des Services Sociaux, d'un relevé nominatif des tours de garde assurés au cours du trimestre civil qui précède.
 
 Cette dernière procède au versement individuel des indemnités forfaitaires qui s'élèvent à 250 € pour chaque tour de garde complet et à la récupération de la contribution due par les autres Organismes sociaux, selon la même répartition que celle fixée par l'arrêté ministériel n° 2003-41 du 23 janvier 2003, susvisé.
 
@@ -340,7 +340,7 @@ Des indemnités de délivrance sont facturables aux patients lorsque la dispensa
 
 indemnité de nuit, de 20 h à minuit et de 6 h à 8 h | 10,00 €
 
-indemnité de « nuit profonde », de minuit à 6 h | 20,00 €
+indemnité de " nuit profonde ", de minuit à 6 h | 20,00 €
 
 indemnité de samedi, dimanche ou jour férié | 6,00 €
 
@@ -358,51 +358,41 @@ Le règlement des indemnités forfaitaires intervient dans des conditions défin
 
 L'exécution d'une prescription de médicaments inscrits sur la liste des spécialités remboursables par les régimes obligatoires d'assurance maladie ouvre droit à la facturation d'honoraires de dispensation dans les conditions suivantes.
 
-5.1 Honoraires de dispensation simple
+5.1. Honoraire par conditionnement
 
-Pour chaque conditionnement de médicament remboursable facturé, un honoraire de dispensation simple peut être facturé par le pharmacien d'officine, sous réserve que le médicament délivré comporte un code CIP.
+Pour chaque conditionnement de médicament remboursable facturé, un honoraire par conditionnement mensuel (HD) peut être facturé par le pharmacien d'officine, sous réserve que le médicament délivré comporte un code CIP.
 
-Le montant de l'honoraire des grands conditionnements, qui correspondent à trois mois de traitement, est distinct de l'honoraire de base et ne se cumule pas avec ce dernier.
+Le montant de l'honoraire par conditionnement trimestriel (HGC) qui correspond à trois mois de traitement, est distinct de l'honoraire par conditionnement mensuel et ne se cumule pas avec ce dernier.
 
-5.2. Honoraires de dispensation complexe
+5.2. Honoraire pour ordonnance dite complexe
 
-Lorsqu'une même prescription comporte au moins cinq lignes différentes de spécialités pharmaceutiques remboursables, et que son exécution fait l'objet d'une seule délivrance, un honoraire de dispensation complexe peut être facturé par le pharmacien d'officine.
+Lorsqu'une même prescription comporte au moins cinq lignes différentes de spécialités pharmaceutiques remboursables, et que son exécution fait l'objet d'une seule délivrance, un honoraire pour ordonnance dite complexe peut être facturé par le pharmacien d'officine.
 
-Cet honoraire est cumulable avec les honoraires de dispensation simple facturés pour l'exécution de cette même prescription.
+Cet honoraire (HC) est cumulable avec les honoraires par conditionnement facturés pour l'exécution de cette même prescription.
 
-5.3. Honoraires de dispensation pour médicament remboursable
+5.3. Honoraire à l'ordonnance
 
-Lors de l'exécution de toute ordonnance contenant au moins un médicament remboursable, un honoraire de dispensation pour médicament remboursable peut être facturé par le pharmacien d'officine.
+Lors de l'exécution de toute ordonnance contenant au moins un médicament remboursable, un honoraire à l'ordonnance peut être facturé par le pharmacien d'officine.
 
-Cet honoraire se cumule avec les honoraires de dispensation simple, et, le cas échéant, avec l'honoraire de dispensation complexe, pour l'exécution d'une même prescription.
+Cet honoraire (HDR) se cumule avec l'honoraire par conditionnement, et, le cas échéant, avec l'honoraire pour ordonnance dite complexe, pour l'exécution d'une même prescription.
 
-5.4. Honoraires de dispensation jeunes enfants et patients âgés
+5.4. Honoraire à l'ordonnance pour des enfants de moins de 3 ans et des patients âgés de plus de 70 ans
 
-L'honoraire de dispensation jeunes enfants et patients âgés peut être facturé par le pharmacien d'officine pour toute exécution d'ordonnance dont le bénéficiaire est âgé soit de moins de 3 ans, soit d'au moins 70 ans.
+L'honoraire à l'ordonnance pour des enfants de moins de 3 ans et des patients âgés de plus de 70 ans peut être facturé par le pharmacien d'officine pour toute exécution d'ordonnance dont le bénéficiaire est âgé soit de moins de 3 ans, soit d'au moins 70 ans.
 
-Lorsque sa facturation est autorisée, l'honoraire de dispensation jeunes enfants et patients âgés est cumulable avec les autres honoraires de dispensation.
+Lorsque sa facturation est autorisée, cet honoraire (HDA) est cumulable avec les autres honoraires de dispensation.
 
-5.5. Honoraires de dispensation médicament spécifique
+5.5. Honoraire à l'ordonnance comportant un ou plusieurs médicaments dits spécifiques
 
-Le pharmacien d'officine peut facturer l'honoraire de dispensation médicament spécifique lorsqu'il exécute une ordonnance comportant un ou plusieurs médicaments dits spécifiques, et désignés comme tels dans la liste de référence retenue par l'assurance maladie française.
+Le pharmacien d'officine peut facturer l'honoraire à l'ordonnance comportant un ou plusieurs médicaments dits spécifiques lorsqu'il exécute une telle ordonnance, ces médicaments étant désignés comme spécifiques dans la liste de référence retenue par l'assurance maladie française.
 
-Lorsque sa facturation est autorisée, l'honoraire de dispensation médicament spécifique est cumulable avec les autres honoraires de dispensation.
+Lorsque sa facturation est autorisée, cet honoraire (HDE) est cumulable avec les autres honoraires de dispensation.
 
 5.6. Tarifs de facturation et de remboursement des honoraires de dispensation
 
 La tarification des différents honoraires facturés par les pharmaciens d'officine ne peut faire l'objet de dépassements d'aucune sorte. Ces honoraires peuvent être complétés uniquement par les indemnités de délivrance prévues au titre des services de garde.
 
-- Honoraires de dispensation simple : 1,02 €
-
-- Honoraires de dispensation simple grand conditionnement : 2,76 €
-
-- Honoraires de dispensation complexe : 0,31 €
-
-- Honoraires de dispensation spécialité remboursable : 0,61 €
-
-- Honoraires de dispensation jeunes enfants et patients âgés : 1,58 €
-
-- Honoraires de dispensation médicament spécifique : 3,57 €
+Les montants de ces honoraires sont identiques à ceux applicables en France métropolitaine, à la date de la délivrance, en application de la réglementation française.
 
 6. Test rapide d'orientation diagnostique (TROD)
 
@@ -412,4 +402,4 @@ Le tarif est fixé à 10 € quel que soit le résultat du test.
 
 D - Frais d'orthopédie, aliments, matériels et autres dispositifs médicaux
 
-La prise en charge des dispositifs médicaux pour traitements et matériels d'aide à la vie, aliments diététiques et articles pour pansements, des orthèses et prothèses externes, des dispositifs médicaux implantables et des véhicules pour handicapés physiques, et plus généralement tous les dispositifs qui y figurent, hormis l'optique médicale, médicalement prescrits, est assurée conformément aux conditions et tarifs fixés par la Liste des Produits et Prestations remboursables par l'Assurance Maladie (LPP) publiée en France.
+La prise en charge des dispositifs médicaux pour traitements et matériels d'aide à la vie, aliments diététiques et articles pour pansements, des orthèses et prothèses externes, des dispositifs médicaux implantables et des véhicules pour handicapés physiques, et plus généralement tous les dispositifs qui y figurent, médicalement prescrits, est assurée conformément aux conditions et tarifs fixés par la Liste des Produits et Prestations remboursables par l'Assurance Maladie (LPP) publiée en France.
