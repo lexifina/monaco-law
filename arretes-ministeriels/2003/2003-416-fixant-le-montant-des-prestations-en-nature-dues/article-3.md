@@ -8,4 +8,4 @@ Cette participation est également supprimée pour les éléments suivants prév
 
 - Honoraires de dispensation complexe ;
 
-- Lors de la dispensation d'un médicament exonéré de ticket modérateur, pour l'honoraire de dispensation simple qui s'y rapporte ainsi que pour les honoraires de dispensation « spécialité remboursable », « jeunes enfants et patients âgés » et « médicament spécifique » éventuellement facturés en sus lors de l'exécution de cette même ordonnance.
+- Lors de la dispensation d'un médicament exonéré de ticket modérateur, pour l'honoraire de dispensation simple qui s'y rapporte ainsi que pour les honoraires de dispensation " spécialité remboursable ", " jeunes enfants et patients âgés " et " médicament spécifique " éventuellement facturés en sus lors de l'exécution de cette même ordonnance.
