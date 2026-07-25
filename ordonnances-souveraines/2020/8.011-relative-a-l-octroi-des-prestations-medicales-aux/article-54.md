@@ -10,4 +10,8 @@ Les groupes d'affections ouvrant droit au fonctionnaire ou à l'agent de l'État
 
 - 4°) les poliomyélites ;
 
-- 5°) les déficits immunitaires graves et acquis.
+- 5°) les déficits immunitaires graves et acquis ;
+
+- 6°) les affections neurologiques graves et invalidantes ;
+
+- 7°) les affections cardiovasculaires sévères et chroniques.
