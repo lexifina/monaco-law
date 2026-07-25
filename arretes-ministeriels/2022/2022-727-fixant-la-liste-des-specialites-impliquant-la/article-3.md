@@ -18,7 +18,7 @@ La liste des spécialités relevant du Département de l'Intérieur est fixée c
 
   - Technicien de maintenance
 
-  - Chef de régie technique
+  - Régisseur général
 
 - 3°) Musée d'Anthropologie Préhistorique
 
