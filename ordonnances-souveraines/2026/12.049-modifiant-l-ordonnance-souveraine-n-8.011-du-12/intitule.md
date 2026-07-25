@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 12.049 du 13 juillet 2026 modifiant l'Ordonnance Souveraine n° 8.011 du 12 mars 2020 relative à l'octroi des prestations médicales aux fonctionnaires et agents de l'État et de la Commune, modifiée
