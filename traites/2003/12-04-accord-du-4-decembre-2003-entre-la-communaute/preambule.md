@@ -1,8 +1,8 @@
-La Communauté européenne, ci-après dénommée « Communauté »,
+La Communauté européenne, ci-après dénommée " Communauté ",
 
 et
 
-La Principauté de Monaco, ci-après dénommée « Monaco »,
+La Principauté de Monaco, ci-après dénommée " Monaco ",
 
 Considérant les relations étroites qui existent entre la Communauté et Monaco,
 

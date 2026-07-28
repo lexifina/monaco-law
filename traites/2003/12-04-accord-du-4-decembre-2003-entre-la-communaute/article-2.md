@@ -1,6 +1,6 @@
 # Article 2
 
-Mise en œuvre . - 1. Monaco prend toutes mesures propres à assurer la mise en œuvre des actes et décisions visées à l'article 1.
+Mise en œuvre. - 1. Monaco prend toutes mesures propres à assurer la mise en œuvre des actes et décisions visées à l'article 1.
 
 2. Afin d'assurer une application et une interprétation uniformes des dispositions visées à l'article 1, tenant compte notamment de la jurisprudence applicable de la Cour de justice, les autorités monégasques peuvent avoir recours aux relations administratives particulières qu'elles entretiennent avec la République française.
 
