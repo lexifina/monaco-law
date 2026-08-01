@@ -8,4 +8,4 @@ Les dispositions de la présente loi sont applicables :
 
 - 3° aux militaires de la Force publique ;
 
-- 4° aux fonctionnaires détachés d'une administration étrangère. Les intéressés sont désignés, ci-après, par le terme d' « agent ».
+- 4° aux fonctionnaires détachés d'une administration étrangère. Les intéressés sont désignés, ci-après, par le terme d' " agent ".
