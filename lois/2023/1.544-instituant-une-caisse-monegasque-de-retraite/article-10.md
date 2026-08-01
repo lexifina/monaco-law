@@ -2,11 +2,7 @@
 
 Le conjoint survivant du salarié visé à l'article premier bénéficie d'une pension de réversion égale à soixante pour cent de celle qui était acquise à ce dernier au jour de son décès, à la condition qu'un enfant soit issu de cette union ou que le mariage ait été contracté au moins deux ans avant la date de jouissance effective de sa pension par l'auteur du droit ou, à défaut, qu'il ait eu une durée d'au moins quatre ans au jour du décès.
 
-Ce droit s'ouvre :
-
-- 1°) pour le veuf, soit à l'âge de soixante-cinq ans ou à celui de soixante ans s'il est atteint d'un handicap ou d'une maladie le rendant définitivement inapte à tout travail ; soit du jour du décès du conjoint s'il a un enfant à charge ;
-
-- 2°) pour la veuve, soit à l'âge de cinquante ans, soit du jour du décès du conjoint si elle a au moins un enfant à charge.
+Ce droit s'ouvre, soit à l'âge de cinquante ans, soit du jour du décès du conjoint si le conjoint survivant a au moins un enfant à charge.
 
 Ce droit s'éteint en cas de remariage ou lorsque le conjoint survivant vit en état de concubinage notoire.
 
