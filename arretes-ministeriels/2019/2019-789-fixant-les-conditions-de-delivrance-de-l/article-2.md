@@ -14,7 +14,7 @@
 
 - 6. un document attestant de la souscription, par le pétitionnaire, d'une assurance professionnelle spécifique couvrant les personnes transportées en cours de validité ;
 
-- 7. les documents attestant de la pleine propriété, par le pétitionnaire, pour au moins 50 % de la flotte à condition que le véhicule dévolu à l'activité de transport de personnes sur le territoire de la Principauté de Monaco soit en pleine propriété, précision faite que les véhicules financés au moyen d'un leasing pourront être considérés comme des véhicules en « pleine propriété » ;
+- 7. les documents attestant de la pleine propriété, par le pétitionnaire, pour au moins 50 % de la flotte à condition que le véhicule dévolu à l'activité de transport de personnes sur le territoire de la Principauté de Monaco soit en pleine propriété, précision faite que les véhicules financés au moyen d'un leasing pourront être considérés comme des véhicules en " pleine propriété " ;
 
 - 8. un extrait du casier judiciaire du pétitionnaire, de moins de trois mois, délivré par les autorités judiciaires ou administratives du pays de son domicile.
 
