@@ -24,4 +24,6 @@ Le Centre Monégasque de Dépistage a pour mission :
 
 - 7) de prescrire les traitements indispensables à la prise en charge des infections sexuellement transmissibles ;
 
-- 8) de réaliser des consultations gynécologiques anonymes et gratuites en faveur des personnes mineures ou âgées de moins de vingt-et-un ans scolarisées ou résidentes en Principauté, en lien avec le Centre de Coordination Prénatale et de Soutien Familial.
+- 8) de réaliser des consultations gynécologiques anonymes et gratuites en faveur des personnes mineures ou âgées de moins de vingt-et-un ans scolarisées ou résidentes en Principauté, en lien avec le Centre de Coordination Prénatale et de Soutien Familial, et, le cas échéant, de faire les prescriptions y afférentes ;
+
+- 9) de s'approvisionner, de détenir, de contrôler, de gérer, de dispenser et d'administrer les médicaments nécessaires pour la prévention et le traitement des infections sexuellement transmissibles et pour la contraception d'urgence ainsi que pour le traitement des éventuelles réactions indésirables graves relatifs à l'administration des médicaments susmentionnés, sous la responsabilité d'un médecin du Centre.
