@@ -1,11 +1,11 @@
 # Code des taxes sur le chiffre d'affaires
 
-Version en vigueur au 30 mai 2026.
+Version en vigueur au 1er août 2026.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2026.05.30/
+Source : Legimonaco, https://legimonaco.mc/code/code-taxes-chiffre-affaires@2026.08.01/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code des taxes sur le chiffre d'affaires |
-| Dernière modification | 30 mai 2026 |
+| Dernière modification | 1 août 2026 |

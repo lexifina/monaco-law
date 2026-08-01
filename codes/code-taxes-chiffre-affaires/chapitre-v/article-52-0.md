@@ -42,6 +42,8 @@ B. - Les abonnements relatifs aux livraisons d'énergie calorifique distribuée 
 
 La puissance maximale prise en compte correspond à la totalité des puissances maximales souscrites par un même abonné sur un même site.
 
+B bis. - La livraison d'énergie frigorifique distribuée par réseaux.
+
 C. - La fourniture de logement et de nourriture dans les maisons de retraite, les établissements accueillant des personnes handicapées et les logements-foyers. Ce taux s'applique également aux prestations exclusivement liées, d'une part, à l'état de dépendance des personnes âgées et, d'autre part, aux besoins d'aide des personnes handicapées, hébergées dans ces établissements et qui sont dans l'incapacité d'accomplir les gestes essentiels de la vie quotidienne.
 
 D. - Les prestations de services exclusivement liées aux gestes essentiels de la vie quotidienne des personnes handicapées et des personnes âgées dépendantes, qui sont dans l'incapacité de les accomplir, fournies par des personnes morales ou physiques agréées.
@@ -70,7 +72,7 @@ K. - (K abrogé).
 
 L. - Les droits d'entrée pour la visite des parcs zoologiques.
 
-M. - Les prestations de collecte séparée, de collecte en déchetterie, de tri et de valorisation matière des déchets des ménages et des autres déchets qui, eu égard à leurs caractéristiques et aux quantités produites, peuvent être collectés et traités sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations.
+M. - Les prestations de collecte et de traitement des déchets des ménages et des autres déchets qui, eu égard à leurs caractéristiques et aux quantités produites, peuvent être collectés et traités sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations.
 
 N - Les prestations de pose, d'installation et d'entretien d'infrastructures de recharge pour véhicules électriques qui répondent aux conditions suivantes :
 
@@ -89,3 +91,5 @@ P.- La livraison et l'installation, dans les logements, d'équipements de produc
 - 2° L'efficacité énergétique ;
 
 - 3° La durabilité ou la performance environnementale.
+
+Les prestations de pose, d'installation et d'entretien des équipements de production d'électricité utilisant l'énergie radiative du soleil sont réalisées par une personne disposant, au cours de la réalisation de la prestation, d'une certification ou d'une qualification professionnelle en cours de validité correspondant au type d'installation réalisée et à la taille du chantier et répondant aux exigences techniques fixées par arrêté ministériel.

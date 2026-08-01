@@ -14,6 +14,8 @@ I.- Relèvent du taux réduit mentionné au premier alinéa de l'article 52-0 le
 
   - c) De la production d'eau chaude sanitaire.
 
+- Sont comprises dans les équipements, appareils et systèmes mentionnés au premier alinéa du présent 3° les pompes à chaleur air/air qui répondent à des critères de performance environnementale et de durabilité appréciés sur leur cycle de vie.
+
 II.- Un arrêté ministériel précise la nature et le contenu des prestations mentionnées au 3° du I. ainsi que les caractéristiques et les niveaux de performance des matériaux, équipements, appareils et systèmes concernés mentionnés au même 3°.
 
 III.- Par dérogation au I. du présent article, le taux prévu à l'article 51 s'applique aux prestations, réalisées sur une période de deux ans au plus :

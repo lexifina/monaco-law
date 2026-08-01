@@ -44,7 +44,7 @@ La taxe sur la valeur ajoutée est perçue au taux réduit de 10 % en ce qui con
 
 - j) (j abrogé) ;
 
-- k) Lorsqu'elles ne relèvent pas du taux réduit prévu au M. de l'article 52-0, les prestations de collecte et de traitement des déchets des ménages et des autres déchets, qui, eu égard à leurs caractéristiques et aux quantités produites, peuvent être collectés et traités sans sujétions techniques particulières, ainsi que les prestations de services qui concourent au bon déroulement de ces opérations ;
+- k) (k abrogé) ;
 
 - l) Les prestations de services d'aide à domicile fournies par les entreprises agréées ;
 
