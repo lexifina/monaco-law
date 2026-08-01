@@ -1,1 +1,1 @@
-La présente loi, publiée au Journal de Monaco du 10 juillet 2026, entre en vigueur le 1er août 2026. Ses dispositions sont consultables dans la " version à venir " accessible via l'onglet " Historique – voir toutes les versions ".
+La présente loi est promulguée et sera exécutée comme loi de l'État.
