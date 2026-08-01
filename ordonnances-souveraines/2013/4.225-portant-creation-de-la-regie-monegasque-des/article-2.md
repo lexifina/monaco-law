@@ -1,6 +1,6 @@
 # Article 2
 
-La Régie des Tabacs et Allumettes est organisée de la façon suivante :
+La Régie Monégasque des Tabacs et Monopoles Associés est organisée de la façon suivante :
 
 - une direction
 

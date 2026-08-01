@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 4.225 du 20 mars 2013 portant création de la Régie des Tabacs et Allumettes
+# Ordonnance Souveraine n° 4.225 du 20 mars 2013 portant création de la Régie Monégasque des Tabacs et Monopoles Associés
 
-Version en vigueur au 16 août 2025.
+Version en vigueur au 1er août 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2013/03-20-4.225@2025.08.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2013/03-20-4.225@2026.08.01/
 
 | | |
 | --- | --- |
