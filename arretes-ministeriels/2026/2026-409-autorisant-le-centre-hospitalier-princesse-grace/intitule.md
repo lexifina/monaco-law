@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-409 du 23 juillet 2026 autorisant le Centre Hospitalier Princesse Grace à avoir des activités comportant des risques particuliers dans le cadre de sa pharmacie à usage intérieur
