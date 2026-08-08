@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-438 du 30 juillet 2026 fixant le barème minimum d'invalidité permettant de déterminer le taux d'incapacité des fonctionnaires et agents de l'État et de la Commune victimes d'accidents du travail
