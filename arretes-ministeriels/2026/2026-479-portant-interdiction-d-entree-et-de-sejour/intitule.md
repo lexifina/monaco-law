@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-479 du 17 août 2026 portant interdiction d'entrée et de séjour individuel ou collectif sur le territoire de la Principauté des supporters de l'équipe de l'Olympique de Marseille
