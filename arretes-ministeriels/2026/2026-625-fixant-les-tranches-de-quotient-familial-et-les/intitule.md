@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-625 du 6 novembre 2026 fixant les tranches de quotient familial et les montants de référence annuels de l'allocation de fin d'année versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er septembre 2026
