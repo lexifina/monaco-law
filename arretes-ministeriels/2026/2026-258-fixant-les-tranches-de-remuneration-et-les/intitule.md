@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2026-258 du 28 mai 2026 fixant les tranches de rémunération et les montants mensuels de l'allocation de soutien de famille versée aux fonctionnaires et agents de l'État et de la Commune à compter du 1er mai 2026
