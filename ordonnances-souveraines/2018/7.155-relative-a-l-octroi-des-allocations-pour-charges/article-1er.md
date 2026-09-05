@@ -4,14 +4,14 @@ Le droit des fonctionnaires et agents de l'État et de la Commune au bénéfice 
 
 Les prestations familiales comprennent :
 
-1°) les allocations prénatales ;
+- 1°) les allocations prénatales ;
 
-2°) les allocations familiales ;
+- 2°) les allocations familiales ;
 
-3°) l'allocation de pré-adoption.
+- 3°) l'allocation de pré-adoption.
 
 Les avantages sociaux comprennent :
 
-1°) les allocations complémentaires ;
+- 1°) les allocations complémentaires ;
 
-2°) les allocations annuelles.
+- 2°) les allocations annuelles.

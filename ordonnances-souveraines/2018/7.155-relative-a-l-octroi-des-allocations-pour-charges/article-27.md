@@ -2,11 +2,11 @@
 
 Les allocations complémentaires comprennent :
 
-1°) l'allocation de soutien de famille ;
+- 1°) l'allocation de soutien de famille ;
 
-2°) l'allocation de crèche ;
+- 2°) l'allocation de crèche ;
 
-3°) l'allocation d'orphelin.
+- 3°) l'allocation d'orphelin.
 
 Toute demande d'allocations complémentaires est adressée au Service compétent, accompagnée de l'ensemble des pièces justifiant que le demandeur satisfait, conformément à l'article 2, aux conditions requises pour leur obtention. La liste de ces pièces est fixée par arrêté ministériel.
 
