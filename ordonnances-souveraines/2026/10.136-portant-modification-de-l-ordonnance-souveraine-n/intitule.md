@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 10.136 du 17 septembre 2026 portant modification de l'Ordonnance Souveraine n° 10.511 du 11 avril 2024 portant création d'une gratification de stage pour les formations relevant de l'enseignement professionnel
