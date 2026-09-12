@@ -6,4 +6,4 @@ Les gestionnaires des établissements ou services d'accueil garantissent contre 
 
 - 2º Les bénévoles et intervenants extérieurs non salariés, qui participent à l'accueil des enfants, sont présents dans l'établissement ou le service ou participent avec les enfants à des activités qu'il organise.
 
-Ils sont tenus de déclarer sans délai au Directeur de l'Action Sanitaire et Sociale tout décès ou tout accident ayant entraîné une hospitalisation survenue à un enfant qui leur était confié.
+Ils sont tenus de déclarer sans délai au Directeur de l'Action Sanitaire tout décès ou tout accident ayant entraîné une hospitalisation survenue à un enfant qui leur était confié.

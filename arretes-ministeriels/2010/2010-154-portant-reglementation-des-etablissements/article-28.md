@@ -1,6 +1,6 @@
 # Article 28
 
-Des réalisations de type expérimental, dérogeant aux dispositions de l'article Premier, et à celles des articles 2 à 4 et 10 à 23 peuvent être autorisées par décision du Directeur de l'Action Sanitaire et Sociale après avis du médecin-inspecteur de l'Action Sanitaire et Sociale.
+Des réalisations de type expérimental, dérogeant aux dispositions de l'article Premier, et à celles des articles 2 à 4 et 10 à 23 peuvent être autorisées par décision du Directeur de l'Action Sanitaire après avis d'un médecin-inspecteur de santé publique.
 
 En outre, à titre expérimental, il peut être créé, dans les conditions énoncées à l'article 27, un établissement accueillant simultanément neuf enfants au maximum, dérogeant aux dispositions des 1º et 2º de l'article 7, des articles 16 à 20, de l'article 22, ainsi qu'à l'obligation de désignation d'un directeur et aux exigences relatives à la qualification des personnes chargées de l'encadrement des enfants. Le gestionnaire de l'établissement désigne une personne physique, distincte de celle accueillant les enfants, qui assure le suivi technique de l'établissement et l'élaboration et le suivi de la mise en œuvre du projet d'accueil. Si cette personne n'est pas titulaire d'une qualification mentionnée aux articles 10, 11 ou 26, le gestionnaire s'assure du concours d'une personne répondant à l'une de ces qualifications. Les personnes accueillant les enfants dans ces établissements justifient d'une certification au moins de niveau V attestant de compétences dans le champ de l'accueil des jeunes enfants et de deux années d'expérience professionnelle, ou d'une expérience professionnelle de cinq ans comme assistant maternel agréé. Deux personnes répondant à ces exigences sont présentes à tout moment lorsque le nombre d'enfants présents est supérieur à trois.
 
@@ -8,4 +8,4 @@ Une personne gestionnaire de plusieurs établissements mentionnés au deuxième 
 
 Les réalisations mentionnées aux deux premiers alinéas font l'objet d'une convention avec les principaux partenaires associés à l'expérimentation, qui en définit la durée, les modalités de fonctionnement, d'évaluation et de validation.
 
-Afin d'assurer le suivi, l'évaluation et la diffusion des réalisations de type expérimental, la copie des conventions est transmise au Directeur de l'Action Sanitaire et Sociale.
+Afin d'assurer le suivi, l'évaluation et la diffusion des réalisations de type expérimental, la copie des conventions est transmise au Directeur de l'Action Sanitaire.
