@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-514 du 10 septembre 2026 portant modification de l'arrêté ministériel n° 2021-361 du 6 mai 2021 fixant les conditions de délivrance de l'autorisation accordée aux exploitants de taxis étrangers, modifié
