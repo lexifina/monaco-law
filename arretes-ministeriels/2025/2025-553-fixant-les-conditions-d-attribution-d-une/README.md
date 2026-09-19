@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2025-553 du 15 octobre 2025 fixant les conditions d'attribution d'une autorisation administrative de mise en exploitation de taxi
 
-Version en vigueur au 18 octobre 2025.
+Version en vigueur au 19 septembre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/10-15-2025-553@2025.10.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2025/10-15-2025-553@2026.09.19/
 
 | | |
 | --- | --- |
