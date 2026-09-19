@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-536 du 17 septembre 2026 modifiant l'arrêté ministériel n° 2025-553 du 15 octobre 2025 fixant les conditions d'attribution d'une autorisation administrative de mise en exploitation de taxi
