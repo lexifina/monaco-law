@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2021-361 du 6 mai 2021 fixant les conditions de délivrance de l'autorisation accordée aux exploitants de taxis étrangers
 
-Version en vigueur au 1er avril 2023.
+Version en vigueur au 19 septembre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2021/05-06-2021-361@2023.04.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2021/05-06-2021-361@2026.09.19/
 
 | | |
 | --- | --- |

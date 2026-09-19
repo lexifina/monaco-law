@@ -1,6 +1,6 @@
 # Article 4
 
-Au terme de l'instruction de la demande, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique pour une durée d'une année civile. Par exception, pour l'année 2023, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique pour la période du 1er avril au 31 décembre.
+Au terme de l'instruction de la demande, l'autorisation est accordée à l'exploitant par le Directeur de la Sûreté Publique pour la durée de l'année civile suivante.
 
 L'autorisation est personnelle et incessible.
 
