@@ -16,4 +16,4 @@ La note doit comporter, d'une manière très lisible, les indications suivantes 
 
 - - le montant des suppléments éventuellement applicables.
 
-L'original de la note est remis au client ; le double sera conservé par l'exploitant pendant deux ans et devra être présenté à la demande des agents habilités.
+L'original de la note est remis au client ; le double sera conservé par l'exploitant pendant deux ans et devra être présenté à la demande des agents de la Direction du Développement Économique.

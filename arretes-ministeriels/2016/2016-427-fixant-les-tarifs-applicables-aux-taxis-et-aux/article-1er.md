@@ -1,71 +1,73 @@
 # Article 1er
 
-Les tarifs forfaitaires T.T.C., non négociables, de véhicules à taximètre, sont fixés selon le taux de T.V.A. en vigueur, comme suit (de 1 à 4 personnes, bagages et droits de péage compris) :
+Les tarifs forfaitaires T.T.C., non négociables, de véhicules à taximètre, sont fixés selon le taux de T.V.A. en vigueur, comme suit (de 1 à 4 personnes, bagages compris) :
 
-- A - Courses à l'intérieur de la zone urbaine (jour et nuit) - Forfait intra-muros (sans attente, avec trafic normal) :
+- 1) Forfait intra-muros jour et nuit (sans attente, avec trafic normal) :
 
-  - 1°) Zone 1 - Monaco :
+  - • Zone A (non éligible à la réservation) - Monaco : 18 euros
 
-    - Sans réservation : 18 euros
+- 2) Forfaits extra-muros jour et nuit (sans attente, avec trafic normal) :
 
-    - Avec réservation : 28 euros
+  - • Zone B (non éligible à la réservation) :
 
-- B - Courses hors de la zone urbaine (jour et nuit) - Forfaits extra-muros (sans attente, avec trafic normal) :
+    - Cap d'Ail (centre) / Beausoleil (centre) / Roquebrune (hors Cap-Martin et Village) : 25 euros
 
-  - 2°) Zone 2 - Commune de Cap d'Ail / Beausoleil / Roquebrune (hors Cap-Martin et Roquebrune village) :
+    - Beausoleil (moyenne corniche/supérieur) / Cap d'Ail (secteur ouest) : 30 euros
 
-    - Sans réservation : 25 euros
+  - • Zone C (non éligible à la réservation, péages compris) :
 
-    - Avec réservation : 38 euros
+    - Saint-Laurent d'Èze : 40 euros
 
-  - 3°) Zone 3 (non éligible à la réservation) :
+    - Èze : 55 euros
 
-    - Saint-Laurent d'Èze : 35 euros
+    - La Turbie : 55 euros
 
-    - Commune d'Èze : 50 euros
+    - Roquebrune-Cap-Martin / Village : 55 euros
 
-    - Commune de La Turbie : 50 euros
+    - Beaulieu : 65 euros
 
-    - Roquebrune-Cap-Martin : 50 euros
+    - Menton Centre : 65 euros
 
-    - Roquebrune Village : 50 euros
+    - Menton Garavan : 75 euros
 
-    - Commune de Beaulieu : 60 euros
+    - Saint-Jean-Cap-Ferrat : 80 euros
 
-    - Commune de Menton Centre : 60 euros
+    - Villefranche-sur-Mer : 85 euros
 
-    - Commune de Menton Garavan : 70 euros
+    - Nice (secteur est) : 100 euros
 
-    - Commune de Saint-Jean-Cap-Ferrat : 75 euros
+    - Nice (secteur ouest) : 110 euros
 
-    - Commune de Villefranche-sur-Mer : 75 euros
+  - • Zone D (réservation possible et gratuite, péages compris) :
 
-  - 4°) Zone 4 (réservation possible et gratuite) :
+    - Vintimille : 105 euros
 
-    - Commune de Nice (hors aéroport) : 90 euros
+    - Aéroport de Nice (par autoroute) : 110 euros
 
-    - Commune de Vintimille : 95 euros
+    - San Remo : 175 euros
 
-    - Aéroport de Nice (par autoroute) : 100 euros
+    - Antibes : 190 euros
 
-    - Commune de San Remo : 165 euros
+    - Cannes : 200 euros
 
-    - Commune de Antibes : 190 euros
+    - Autres destinations (péages non compris) : Forfait proposé par le taxi de manière ferme et définitive au préalable de la course, selon la grille disponible auprès de l'Association des Exploitants Taxis Indépendants de Monaco.
 
-    - Commune de Cannes : 190 euros
+- 3) Suppléments :
 
-    - Autres destinations : Forfait proposé par le taxi de manière ferme et définitive au préalable de la course
+  - • Transport de 5 à 8 personnes par taxi van : supplément de 50 % du tarif forfaitaire
 
-- C - Suppléments :
+  - • Attente et Marche lente, jour et nuit : 90 euros de l'heure (franchise de 3 minutes), si la vitesse est inférieure à :
 
-  - Transport de 5 à 8 personnes par taxi van supplément de 50 % du tarif forfaitaire
+    - 8 km/heure pour les zones A et B
 
-  - Attente et Marche lente/Heure (dont 3 minutes gratuites jour et nuit / si la vitesse est inférieure à 8 km/heure) : 80 €
+    - 10 km/heure pour la zone C
 
-  - Colis moyen, type valise : gratuit
+    - 15 km/heure pour la zone D
 
-  - Gros colis (malle/voiture d'enfant) : gratuit
+  - • Colis moyen, type valise : gratuit
 
-  - Animaux : gratuit
+  - • Gros colis (malle/voiture d'enfant) : gratuit
 
-  - Frais de nettoyage de l'intérieur du véhicule (état d'ivresse, incivisme, etc.) : 200 €
+  - • Animaux : gratuit
+
+  - • Frais de nettoyage de l'intérieur du véhicule (état d'ivresse, incivisme, etc.) : 200 euros.
