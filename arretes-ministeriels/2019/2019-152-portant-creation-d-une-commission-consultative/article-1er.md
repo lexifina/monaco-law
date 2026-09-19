@@ -18,4 +18,4 @@ Les membres de la Commission consultative pour l'attribution d'une autorisation 
 
 - - le Président de la Commission des Finances et de l'Économie Nationale au Conseil National ou son représentant,
 
-- - le Président de l'Association d'Exploitation des Taxis Indépendants de Monaco ou son représentant.
+- - deux représentants au plus de la profession concernée, désignés par le Ministre d'État.
