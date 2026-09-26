@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-523 du 17 septembre 2026 modifiant l'arrêté ministériel n° 2011-73 du 16 février 2011 déterminant les actes professionnels pouvant être pratiqués par les auxiliaires médicaux, modifié
