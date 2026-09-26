@@ -16,6 +16,8 @@ En application de l'article 6 de l'arrêté ministériel n° 2021‑532 du 2 ao�
 
 - du 20 septembre 2026 à 8 heures au 27 septembre 2026 à 18 heures, à l'occasion du Monaco Yacht Show ;
 
+- du 2 au 3 octobre 2026, à l'occasion de la Visite d'État du Président de la République italienne en Principauté de Monaco ;
+
 - le 1er novembre 2026 de 6 heures à 14 heures, à l'occasion du Cross du Larvotto ;
 
 - du 18 au 19 novembre 2026, à l'occasion des Cérémonies de la Fête Nationale ;
