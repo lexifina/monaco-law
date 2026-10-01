@@ -2,7 +2,7 @@
 
 Après analyse des offres, l'opérateur économique le mieux-disant est attributaire du marché conformément à l'article 32 de l'Ordonnance Souveraine n° 7.264 du 20 décembre 2018, susvisée, notamment au regard de la composition de l'équipe mobilisée, de son organisation, des moyens affectés au lot et de la qualité du mémoire technique, sous réserve que son dossier d'offre soit complet, qu'il réponde fidèlement au dossier de consultation et que sa proposition soit cohérente avec ce dernier.
 
-L'État se réserve néanmoins la possibilité de privilégier une offre proposant des engagements complémentaires au regard de critères objectifs, précis et liés à l'objet du marché ou à ses conditions d'exécution pouvant, notamment porter sur :
+Parmi les critères objectifs, précis et liés à l'objet du marché ou à ses conditions d'exécution, peuvent être appliqués, notamment :
 
 - les moyens techniques affectés au lot et la logistique associée, la méthodologie employée, les procédés d'exécution, le phasage et le planning afférents, le coût global d'investissement et d'exploitation ;
 
