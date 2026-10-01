@@ -1,1 +1,0 @@
-Arrêté ministériel n° 2025-582 du 30 octobre 2025 fixant le montant maximum annuel de l'allocation pour conjoint servie par le fonds d'action sociale de la Caisse Autonome des Retraites au titre de l'exercice 2024-2025
