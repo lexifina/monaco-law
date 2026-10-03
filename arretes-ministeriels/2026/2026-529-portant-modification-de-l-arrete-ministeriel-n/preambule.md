@@ -1,0 +1,1 @@
+Le présent arrêté, publié au Journal de Monaco du 2 octobre 2026, entre en vigueur le 5 octobre 2026. Ses dispositions sont consultables dans la " version à venir " accessible via l'onglet " Historique – voir toutes les versions ".
