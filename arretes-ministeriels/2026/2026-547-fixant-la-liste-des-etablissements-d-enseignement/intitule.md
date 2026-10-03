@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-547 du 28 septembre 2026 fixant la liste des Établissements d'Enseignement Supérieur de très haut niveau permettant l'attribution d'une aide spécifique aux Très Grandes Écoles (TGE)
