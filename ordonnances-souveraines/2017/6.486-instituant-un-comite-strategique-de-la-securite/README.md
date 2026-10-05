@@ -1,8 +1,8 @@
-# Ordonnance souveraine n° 6.486 du 25 juillet 2017 instituant un Comité stratégique de la sécurité numérique
+# Ordonnance Souveraine n° 6.486 du 25 juillet 2017 instituant un Comité stratégique de la sécurité numérique
 
-Version en vigueur au 19 juillet 2025.
+Version en vigueur au 5 octobre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/07-25-6.486@2025.07.19/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2017/07-25-6.486@2026.10.05/
 
 | | |
 | --- | --- |

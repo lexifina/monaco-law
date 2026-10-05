@@ -1,6 +1,6 @@
 # Article 4 bis
 
-Il est créé un sous-comité « Cybermalveillance » qui a pour missions :
+Il est créé un sous-comité " Cybermalveillance " qui a pour missions :
 
 - la prévention, l'accompagnement et l'assistance aux particuliers, aux entreprises et aux associations victimes d'actes de cybermalveillance ;
 

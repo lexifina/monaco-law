@@ -26,10 +26,10 @@ Le Comité stratégique de la sécurité numérique est composé de seize membre
 
 - le Directeur de l'Agence Monégasque de Sécurité Numérique, ou son représentant ;
 
-- le Directeur de la Direction des Systèmes d'Information, ou son représentant ;
+- le Directeur de la Direction des Infrastructures et des Systèmes d'Information, ou son représentant ;
 
 - le Directeur de la Direction des Plateformes et Ressources Numériques, ou son représentant ;
 
-- le Directeur de la Direction des Services Numériques, ou son représentant ;
+- le Directeur de la Direction du Développement des Services Numériques, ou son représentant ;
 
 - le Responsable Sécurité des Systèmes d'Information du Gouvernement.

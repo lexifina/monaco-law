@@ -1,12 +1,12 @@
 # Article 4 ter
 
-Le sous-comité « Cybermalveillance » est composé de six membres. Il comprend :
+Le sous-comité " Cybermalveillance " est composé de six membres. Il comprend :
 
 - le Directeur de l'Agence Monégasque de Sécurité Numérique, président ;
 
 - le Directeur de la Direction de la Sûreté Publique, ou son représentant ;
 
-- le Directeur de la Direction des Services Numériques, ou son représentant ;
+- le Directeur de la Direction du Développement des Services Numériques, ou son représentant ;
 
 - le Secrétaire Général de l'Autorité de Protection des Données Personnelles, ou son représentant ;
 
