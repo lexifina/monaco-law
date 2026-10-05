@@ -1,8 +1,8 @@
 # Arrêté ministériel n° 2026-529 du 17 septembre 2026 portant modification de l'arrêté ministériel n° 2022-727 du 16 décembre 2022 fixant la liste des spécialités impliquant la maîtrise d'une expertise technique par les fonctionnaires et agents contractuels de l'État, modifié
 
-Version en vigueur au 3 octobre 2026.
+Version en vigueur au 5 octobre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2026/09-17-2026-529@2026.10.03/
+Source : Legimonaco, https://legimonaco.mc/tnc/arrete-ministeriel/2026/09-17-2026-529@2026.10.05/
 
 | | |
 | --- | --- |
