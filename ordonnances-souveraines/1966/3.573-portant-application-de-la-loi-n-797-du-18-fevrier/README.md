@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 3.573 du 11 mai 1966 portant application de la loi n° 797 du 18 février 1966 relative aux sociétés civiles
 
-Version en vigueur au 16 mars 2024.
+Version en vigueur au 5 octobre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1966/05-11-3.573@2024.03.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1966/05-11-3.573@2026.10.05/
 
 | | |
 | --- | --- |
