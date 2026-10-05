@@ -6,4 +6,4 @@ Les informations contenues dans le répertoire sont accessibles dans les conditi
 
 Les droits d'accès desdites personnes sont créés par la Direction du Développement Économique en considération de la liste des personnes désignées.
 
-La gestion des accès au registre est réalisée conformément aux procédures de la Direction des systèmes d'information.
+La gestion des accès au registre est réalisée conformément aux procédures de la Direction des Infrastructures et des Systèmes d'Information.

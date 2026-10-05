@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 2.853 du 22 juin 1962 portant application de la loi n° 721 du 27 décembre 1961 instituant un Répertoire du commerce et de l'industrie
 
-Version en vigueur au 16 mars 2024.
+Version en vigueur au 5 octobre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1962/06-22-2.853@2024.03.16/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/1962/06-22-2.853@2026.10.05/
 
 | | |
 | --- | --- |
