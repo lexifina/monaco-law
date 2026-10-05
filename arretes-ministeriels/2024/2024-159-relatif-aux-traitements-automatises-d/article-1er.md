@@ -716,7 +716,7 @@ Direction des Ressources Humaines et de la Formation de la Fonction Publique
 
 - Déposer sa candidature aux emplois de la fonction publique par voie dématérialisée (traitement mis en œuvre le 01/12/2023).
 
-Direction des Services Numériques
+Direction du Développement des Services Numériques
 
 - Gestion des attributions et composition des services administratifs, municipaux, publics et corps constitués (traitement mis en œuvre le 28/12/2000),
 
@@ -764,7 +764,7 @@ Direction des Services Numériques
 
 - Permettre au personnel de l'Administration la gestion des remontées usagers effectuées depuis l'Application Your Monaco dénommé " Urban Report " (traitement mis en œuvre le 04/08/2023).
 
-Direction des Systèmes d'Information
+Direction des Infrastructures et des Systèmes d'Information
 
 - Gestion des techniques automatisées de communication (traitement mis en œuvre le 10/10/2005, modifié le 03/08/2012),
 
