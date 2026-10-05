@@ -18,4 +18,4 @@ Les membres de la Commission sont tenus au secret professionnel dans les conditi
 
 L'État met à la disposition de la Commission les moyens matériels et humains nécessaires à l'accomplissement de ses missions.
 
-Le Secrétariat de la Commission est assuré par le Département des Finances et de l'Économie et la Direction des Services Numériques. Il est notamment en charge de veiller à la constitution d'un dossier complet en vue de sa présentation à la Commission.
+Le Secrétariat de la Commission est assuré par le Département des Finances et de l'Économie et la Direction du Développement des Services Numériques. Il est notamment en charge de veiller à la constitution d'un dossier complet en vue de sa présentation à la Commission.

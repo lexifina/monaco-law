@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 8.258 du 18 septembre 2020 portant application de la loi n° 1.491 du 23 juin 2020 relative aux offres de jetons
 
-Version en vigueur au 30 avril 2022.
+Version en vigueur au 5 octobre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2020/09-18-8.258@2022.04.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2020/09-18-8.258@2026.10.05/
 
 | | |
 | --- | --- |

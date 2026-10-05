@@ -1,6 +1,6 @@
 # Article 10
 
-Le document d'information des investisseurs couramment désigné sous le vocable de « White Paper » et établi selon le modèle en annexe, est joint à la demande d'autorisation de procéder à une offre de jetons. Ce document comprend les informations suivantes :
+Le document d'information des investisseurs couramment désigné sous le vocable de " White Paper " et établi selon le modèle en annexe, est joint à la demande d'autorisation de procéder à une offre de jetons. Ce document comprend les informations suivantes :
 
 - 1°) la présentation détaillée et complète du projet dont l'offre de jetons a pour objet d'assurer le financement ;
 
