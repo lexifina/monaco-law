@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 12.167 du 2 octobre 2026 relative à la procédure d'autorisation d'exploitation de services aériens réguliers entre Monaco et l'Aéroport de Nice Côte d'Azur par des transporteurs aériens monégasque
