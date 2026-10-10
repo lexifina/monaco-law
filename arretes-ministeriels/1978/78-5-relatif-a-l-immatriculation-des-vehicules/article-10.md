@@ -26,4 +26,6 @@ Les dispositions du présent article ne sont toutefois pas applicables aux véhi
 
 La demande est effectuée auprès du Service des Titres de Circulation au moyen du support de demande approprié, ou par tout système d'information mis à disposition à cet effet par le Service des Titres de Circulation. La demande est accompagnée des pièces justificatives établissant le lien invoqué, rédigées en français ou accompagnées d'une traduction officielle.
 
-Le transfert est assimilé à une nouvelle immatriculation. Il donne lieu à la délivrance d'un nouveau certificat, de nouvelles plaques d'immatriculation et d'une attestation de transfert, contre restitution des certificats et plaques précédemment utilisés, et moyennant le paiement des droits applicables fixés par arrêté ministériel.
+Le transfert est assimilé à une nouvelle immatriculation. Il donne lieu à la délivrance d'un nouveau certificat, de nouvelles plaques d'immatriculation et d'une attestation de transfert le cas échéant, contre restitution des certificats et plaques précédemment utilisés.
+
+Hormis lorsque le numéro est réattribué au même titulaire à la suite de la cession du véhicule auquel il était précédemment attribué, dans les conditions prévues au chiffre 3°) du deuxième alinéa, le transfert du numéro d'immatriculation donne lieu au paiement des droits applicables fixés par arrêté ministériel.
