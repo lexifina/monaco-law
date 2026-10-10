@@ -1,6 +1,6 @@
 # Article 3
 
-Préalablement au premier acte d'épilation à la lumière pulsée intense ou au laser à visée non thérapeutique, le professionnel remet à la personne sur laquelle la technique va être mise en œuvre, ci-après désignée « consommateur », une fiche d'information rédigée dans des termes compréhensibles du public et comportant notamment :
+Préalablement au premier acte d'épilation à la lumière pulsée intense ou au laser à visée non thérapeutique, le professionnel remet à la personne sur laquelle la technique va être mise en œuvre, ci-après désignée " consommateur ", une fiche d'information rédigée dans des termes compréhensibles du public et comportant notamment :
 
 - 1) les informations relatives aux catégories de consommateurs devant être exclus de l'utilisation de l'appareil ou pour lesquelles des conditions particulières d'utilisation doivent s'appliquer ;
 
@@ -8,7 +8,7 @@ Préalablement au premier acte d'épilation à la lumière pulsée intense ou au
 
 - 3) une description des risques résiduels de l'appareil, y compris les mesures de maîtrise associées, présentée d'une manière claire et compréhensible, afin que le consommateur puisse décider en toute connaissance de cause s'il souhaite réaliser l'épilation avec cet appareil ;
 
-- 4) la mention : « les professionnels ont reçu une formation appropriée sur les conditions d'utilisation en toute sécurité de l'appareil » ;
+- 4) la mention : " les professionnels ont reçu une formation appropriée sur les conditions d'utilisation en toute sécurité de l'appareil " ;
 
 - 5) la recommandation de se soumettre à une consultation médicale comprenant un examen diagnostique des zones de peau à traiter avant toute première prestation d'épilation à la lumière pulsée intense ou au laser à visée non thérapeutique ;
 
