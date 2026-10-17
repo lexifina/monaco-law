@@ -1,5 +1,5 @@
 # Article 18
 
-Les commissaires assistent aux assemblées générales des actionnaires quelle qu'en soit la nature ou l'objet, mais sans voix délibérative en cette qualité.
+Les commissaires aux comptes sont convoqués à toutes les assemblées générales quelle qu'en soit la nature ou l'objet, mais sans voix délibérative en cette qualité.
 
-Ils veillent à la régularité des assemblées et contrôlent l'exécution des résolutions approuvées par les actionnaires.
+Sans préjudice de l'obligation de révélation des faits susceptibles de constituer une infraction pénale, ils signalent à cette occasion les irrégularités et inexactitudes relevées par eux au cours de l'accomplissement de leurs missions.

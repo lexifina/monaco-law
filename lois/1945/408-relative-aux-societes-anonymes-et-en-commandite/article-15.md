@@ -1,5 +1,7 @@
 # Article 15
 
-Le commissaire dont le mandat est venu à expiration, s'il était seul en fonctions, ne peut être réélu pendant une période de trois ans à compter de la cessation de son mandat ; si deux commissaires étaient en fonctions, l'un d'eux seulement, au choix de l'assemblée, est rééligible pendant la même période.
+Le commissaire aux comptes dont le mandat est venu à expiration, s'il était seul en fonctions, peut être renouvelé.
 
-Les interdictions visées par le présent article, ne s'opposent pas à la désignation du commissaire ainsi écarté pour la vérification d'apports ou d'avantages particuliers dans les conditions prévues à l'article premier de la présente loi.
+Lorsque deux commissaires aux comptes sont en fonctions, l'assemblée générale ordinaire procède au remplacement de l'un d'eux au plus tard à l'issue de trois mandats consécutifs.
+
+Les commissaires aux comptes nommés dans les cas prévus au chiffre 2°) du premier alinéa de l'article 13 doivent être remplacés au plus tard au terme de quatre mandats consécutifs. Ils peuvent à nouveau être nommés en cette qualité à l'expiration d'un délai de trois ans à compter du terme du quatrième mandat consécutif.

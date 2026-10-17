@@ -1,21 +1,25 @@
 # Article 3
 
-Ne peuvent être chargés à titre de commissaire d'apprécier la valeur de l'apport ou la cause des avantages particuliers :
+Ne peuvent être désignés commissaires aux apports ou en qualité d'expert par le commissaire aux apports :
 
-- 1° Les parents ou alliés jusqu'au quatrième degré inclusivement ou le conjoint, le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation :
+- 1°) les parents ou alliés jusqu'au quatrième degré inclusivement ou le conjoint, le partenaire d'un contrat de vie commune, la personne avec laquelle il vit maritalement ou le cohabitant d'un contrat de cohabitation :
 
-  - a) Des apporteurs ;
+  - a) des apporteurs ou des bénéficiaires d'avantages particuliers ;
 
-  - b) Ou, lors de la constitution de la société, des fondateurs ;
+  - b) ou, lors de la constitution de la société, des fondateurs ou des premiers administrateurs ;
 
-  - c) Ou, lors des augmentations de capital, des administrateurs, si la société est constituée sous la forme anonyme, ou des gérants, si la société est en commandite ;
+  - c) ou, lors des augmentations de capital, des administrateurs ou des dirigeants ;
 
-- 2° Les personnes recevant, ou ayant reçu depuis moins de trois ans, sous une forme quelconque, à raison de fonctions autres que celles de commissaire, un salaire ou une rémunération :
+- 2°) les personnes recevant, ou ayant reçu depuis moins de trois ans, sous une forme quelconque, à raison de fonctions autres que celles de commissaire, un salaire ou une rémunération :
 
-  - a) Des apporteurs :
+  - a) des apporteurs ou des bénéficiaires d'avantages particuliers ;
 
-  - b) Ou, lors de la constitution de la société, des fondateurs ;
+  - b) ou, lors de la constitution de la société, des fondateurs ou des premiers administrateurs ;
 
-  - c) Ou, lors des augmentations de capital, des administrateurs ou des gérants ou de la société elle-même ou de toute entreprise dont un associé en nom, ou un administrateur ou un gérant, serait investi des fonctions d'administrateur ou de gérant dans la société ;
+  - c) ou, lors des augmentations de capital, des administrateurs ou des dirigeants ou de la société elle-même ou de toute entreprise dont un associé, un actionnaire, un administrateur ou un dirigeant, serait investi des fonctions d'administrateur ou de dirigeant dans la société ;
 
-- 3° Le conjoint et le partenaire d'un contrat de vie commune ou le cohabitant d'un contrat de cohabitation des personnes susvisées.
+- 3°) le conjoint, le partenaire d'un contrat de vie commune, la personne avec laquelle il vit maritalement ou le cohabitant d'un contrat de cohabitation des personnes susvisées ;
+
+- 4°) le commissaire aux comptes de la société qu'il contrôle ;
+
+- 5°) la personne exerçant ses fonctions dans la même structure d'exercice professionnel que le commissaire aux comptes ou l'expert-comptable de la société concernée.

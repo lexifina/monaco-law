@@ -1,0 +1,3 @@
+# Article 1er
+
+Dans toute société anonyme ou en commandite par actions, lorsqu'un associé fait un apport qui ne consiste pas en numéraire ou stipule à son profit des avantages particuliers, ou lorsque les statuts ou une décision de l'assemblée créent des parts de fondateurs, la première assemblée générale prévue par l'article 17 de la loi n° 1.573 du 8 avril 2025 relative à la modernisation du droit des sociétés, désigne un commissaire aux apports qui doit obligatoirement être choisi parmi les experts-comptables inscrits au tableau des membres de l'Ordre prévu par la loi n° 1.231 du 12 juillet 2000 relative à la profession d'expert-comptable, modifiée, à l'effet d'apprécier la valeur de l'apport ou la cause des avantages particuliers.

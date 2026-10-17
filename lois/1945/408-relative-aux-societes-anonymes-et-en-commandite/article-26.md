@@ -1,3 +1,3 @@
 # Article 26
 
-La délibération de l'assemblée contenant approbation des comptes est nulle si elle n'a pas été précédée des rapports du ou des commissaires, conformes aux dispositions des deux articles précédents.
+Lorsqu'il y a lieu, en application du second alinéa de l'article 34, les commissaires aux comptes établissent un rapport sur les comptes consolidés lequel comprend les informations relatives à l'ensemble constitué par les entreprises comprises dans la consolidation pendant l'exercice écoulé. Le contenu du rapport sur les comptes consolidés est défini par ordonnance souveraine.
