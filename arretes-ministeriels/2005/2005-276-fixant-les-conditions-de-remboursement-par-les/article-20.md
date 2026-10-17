@@ -4,21 +4,19 @@ A) Quand des actes techniques sont effectués dans le même temps qu'une consult
 
 Par dérogation à cette disposition, sont autorisés :
 
-1. Le cumul des honoraires de la radiographie pulmonaire avec ceux de la consultation, pour les pneumologues ;
+- 1. Le cumul des honoraires de la radiographie pulmonaire avec ceux de la consultation, pour les pneumologues ;
 
-2. Le cumul des honoraires de la consultation donnée par un médecin qui examine un patient pour la première fois dans un établissement de soins, avec ceux de l'intervention qu'il réalise et qui lui fait immédiatement suite, lorsque cette intervention est pratiquée en urgence et entraîne l'hospitalisation du patient ;
+- 2. Le cumul des honoraires de la consultation donnée par un médecin qui examine un patient pour la première fois dans un établissement de soins, avec ceux de l'intervention qu'il réalise et qui lui fait immédiatement suite, lorsque cette intervention est pratiquée en urgence et entraîne l'hospitalisation du patient ;
 
-3. Le cumul des honoraires de l'électrocardiogramme avec ceux de la consultation ou de la visite : C ou CS, V ou VS ou, pour les patients hospitalisés, C × 0,80 ou CS × 0,80.
+- 3. Le cumul des honoraires de l'électrocardiogramme avec ceux de la consultation ou de la visite : C ou CS, V ou VS ou, pour les patients hospitalisés, C × 0,80 ou CS × 0,80.
 
-Cependant, en cas d'actes multiples dans le même temps, les règles de cumul telles que prévues au paragraphe B ci-dessous s'appliquent sans cumul possible avec les honoraires de la consultation ou de la visite ;
+- Cependant, en cas d'actes multiples dans le même temps, les règles de cumul telles que prévues au paragraphe B ci-dessous s'appliquent sans cumul possible avec les honoraires de la consultation ou de la visite ;
 
-4. Le cumul des honoraires de l'ostéodensitométrie [Absorptiométrie osseuse] sur deux sites par méthode biphotonique avec ceux de la consultation, pour les rhumatologues et les médecins de médecine physique et de réadaptation ;
+- 4. Le cumul des honoraires de l'ostéodensitométrie [Absorptiométrie osseuse] sur deux sites par méthode biphotonique avec ceux de la consultation, pour les rhumatologues et les médecins de médecine physique et de réadaptation ;
 
-5. Le cumul des honoraires de l'acte de prélèvement cervico-vaginal (JKHD001) avec ceux de la consultation.
+- 5. Le cumul des honoraires de l'acte de prélèvement cervico-vaginal (JKHD001) avec ceux de la consultation dans le cadre du dépistage du cancer du col utérin, selon les recommandations de la Haute Autorité de Santé (HAS) en vigueur.
 
-Ce prélèvement n'est pris en charge qu'une fois tous les trois ans, dans le cadre du dépistage du cancer du col utérin, après la réalisation de 2 frottis cervico-utérins annuels normaux chez les femmes de 25 à 65 ans.
-
-6. Le cumul des honoraires de la consultation avec ceux des actes de biopsie suivants :
+- 6. Le cumul des honoraires de la consultation avec ceux des actes de biopsie suivants :
 
 QZHA001 : Biopsie dermoépidermique, par abord direct
 
@@ -42,59 +40,99 @@ JMHA001 : Biopsie de la vulve
 
 Dans ce cas, l'acte de consultation est tarifé à taux plein et l'acte technique est tarifé à 50 %.
 
+- 7. le cumul des honoraires de surveillance définis à l'article 20 de la NGAP avec ceux des actes d'échographie ;
+
+- 8. pour les médecins endocrinologues : le cumul des honoraires de l'acte d'échographie transcutanée de la glande thyroïde (KCQM001) avec ceux de la consultation ;
+
+- 9. pour les médecins rhumatologues, les médecins généralistes et les médecins spécialistes en médecine physique et de réadaptation, le cumul des honoraires des actes suivants avec ceux de la consultation :
+
+- LHLB001 : Infiltration thérapeutique d'articulation vertébrale postérieure, par voie transcutanée sans guidage ;
+
+- MZJB001 : Évacuation de collection articulaire du membre supérieur, par voie transcutanée sans guidage ;
+
+- MZHB002 : Ponction ou cytoponction d'une articulation du membre supérieur, par voie transcutanée sans guidage ;
+
+- MZLB001 : Injection thérapeutique d'agent pharmacologique dans une articulation ou une bourse séreuse du membre supérieur, par voie transcutanée sans guidage ;
+
+- NZJB001 : Évacuation de collection articulaire du membre inférieur, par voie transcutanée sans guidage ;
+
+- NZHB002 : Ponction ou cytoponction d'une articulation du membre inférieur, par voie transcutanée sans guidage ;
+
+- NZLB001 : Injection thérapeutique d'agent pharmacologique dans une articulation ou une bourse séreuse du membre inférieur, par voie transcutanée sans guidage ;
+
+- 10. pour les médecins gynécologues médicaux et obstétricaux et les médecins généralistes, le cumul des honoraires des actes suivants avec ceux de la consultation :
+
+- JKLD001 : Pose d'un dispositif intra-utérin ;
+
+- JKKD001 : Changement d'un dispositif intra-utérin ;
+
+- JKGD001 : Ablation d'un dispositif intra-utérin par un matériel intra-utérin de préhension, par voie vaginale ;
+
+- 11. le cumul des honoraires de l'acte de mesure de la capacité vitale lente et de l'expiration forcée, avec enregistrement [Spirométrie standard] (GLQP012) avec ceux de la consultation pour les pneumologues et les médecins généralistes, dans le cadre du dépistage de la BPCO pour des patients à risque ;
+
+- Le patient doit avoir plus de 40 ans, consommer plus de 20 paquets de cigarettes par an et avoir été détecté à risque dans le questionnaire de dépistage BPCO de la Haute Autorité de Santé (HAS). Le médecin doit avoir suivi une formation spécifique à la spirométrie. Un seul cumul avec une consultation est facturable par an et par patient ;
+
+- 12. le cumul des honoraires de l'acte de colposcopie (JLQE002) avec ceux de la consultation, pour les gynécologues médicaux et obstétricaux et les médecins généralistes ;
+
+- 13. le cumul des honoraires de l'acte d'échographie transthoracique du médiastin, du poumon et/ou de la cavité pleurale (GFQM001) avec ceux de la consultation, dans le cas d'une recherche d'un épanchement pleural ou d'un pneumothorax, pour les pneumologues.
+
+La pratique de l'échoscopie ne peut donner lieu à une prise en charge par l'Assurance Maladie, en l'absence d'une validation par la Haute Autorité de Santé (HAS). Elle n'entre donc pas dans ces autorisations dérogatoires de cumul d'honoraires.
+
 B) Pour l'association d'actes techniques, le médecin ou la sage-femme code les actes réalisés et indique, pour chacun d'entre eux, le code correspondant à la règle d'association devant être appliquée. Ces règles sont précisées ci-dessous et leurs modalités de codage sont décrites à l'annexe 2.
 
-1. Règle Générale
+- 1. Règle Générale
 
-L'association de deux actes au plus, y compris les gestes complémentaires, peut être tarifée.
+- L'association de deux actes au plus, y compris les gestes complémentaires, peut être tarifée.
 
-L'acte dont le tarif, hors modificateurs, est le plus élevé est tarifé à taux plein, le second est tarifé à 50 % de sa valeur. Les gestes complémentaires sont tarifés à taux plein. Les suppléments peuvent être codés et tarifés en sus et à taux plein.
+- L'acte dont le tarif, hors modificateurs, est le plus élevé est tarifé à taux plein, le second est tarifé à 50 % de sa valeur. Les gestes complémentaires sont tarifés à taux plein. Les suppléments peuvent être codés et tarifés en sus et à taux plein.
 
-2. Dérogations
+- 2. Dérogations
 
-a. Pour les actes de chirurgie portant sur des membres différents, sur le tronc et un membre, sur la tête et un membre, l'acte dont le tarif hors modificateurs est le moins élevé, est tarifé à 75 % de sa valeur.
+- a. Pour les actes de chirurgie portant sur des membres différents, sur le tronc et un membre, sur la tête et un membre, l'acte dont le tarif hors modificateurs est le moins élevé, est tarifé à 75 % de sa valeur.
 
-b. Pour les actes de chirurgie pour lésions traumatiques multiples et récentes, l'association de trois actes au plus, y compris les gestes complémentaires, peut être tarifée. L'acte dont le tarif, hors modificateurs, est le plus élevé est tarifé à taux plein, le deuxième est tarifé à 75 % de sa valeur et le troisième à 50 % de sa valeur.
+- b. Pour les actes de chirurgie pour lésions traumatiques multiples et récentes, l'association de trois actes au plus, y compris les gestes complémentaires, peut être tarifée. L'acte dont le tarif, hors modificateurs, est le plus élevé est tarifé à taux plein, le deuxième est tarifé à 75 % de sa valeur et le troisième à 50 % de sa valeur.
 
-c. Pour les actes de chirurgie carcinologique en ORL associant une exérèse, un curage et une reconstruction, l'acte dont le tarif hors modificateurs est le plus élevé, est tarifé à taux plein, le deuxième et le troisième actes sont tarifés à 50 % de leur valeur.
+- c. Pour les actes de chirurgie carcinologique en ORL associant une exérèse, un curage et une reconstruction, l'acte dont le tarif hors modificateurs est le plus élevé, est tarifé à taux plein, le deuxième et le troisième actes sont tarifés à 50 % de leur valeur.
 
-d. Pour les actes d'échographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé, sauf dans le cas de l'examen d'organes intra-abdominaux et/ou pelviens et d'un ou plusieurs des organes suivants : sein, thyroïde, testicules. L'acte de guidage échographique YYYY028 ne peut être tarifé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage échographique. Dans les cas où l'association est autorisée, la règle générale s'applique.
+- d. Pour les actes d'échographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé, sauf dans le cas de l'examen d'organes intra-abdominaux et/ou pelviens et d'un ou plusieurs des organes suivants : sein, thyroïde, testicules. L'acte de guidage échographique YYYY028 ne peut être tarifé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage échographique. Dans les cas où l'association est autorisée, la règle générale s'applique.
 
-e. Pour les actes de scanographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé, sauf dans le cas où est effectué l'examen conjoint des régions anatomiques suivantes : membres et tête, membres et thorax, membres et abdomen, tête et abdomen, thorax et abdomen complet, tête et thorax, quel que soit le nombre de coupes nécessaires, avec ou sans injection de produit de contraste. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 85 % de son tarif. Quand un libellé décrit l'examen conjoint de plusieurs régions anatomiques, il ne peut être tarifé avec aucun autre acte de scanographie. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 85 % de son tarif. L'acte de guidage scanographique ne peut être facturé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage scanographique. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein.
+- e. Pour les actes de scanographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé, sauf dans le cas où est effectué l'examen conjoint des régions anatomiques suivantes : membres et tête, membres et thorax, membres et abdomen, tête et abdomen, thorax et abdomen complet, tête et thorax, quel que soit le nombre de coupes nécessaires, avec ou sans injection de produit de contraste. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 85 % de son tarif. Quand un libellé décrit l'examen conjoint de plusieurs régions anatomiques, il ne peut être tarifé avec aucun autre acte de scanographie. Deux forfaits techniques peuvent alors être facturés, le second avec une minoration de 85 % de son tarif. L'acte de guidage scanographique ne peut être facturé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage scanographique. Dans ce cas, deux actes au plus peuvent être tarifés et à taux plein.
 
-f. Pour les actes de remnographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé. Un acte de remnographie, à l'exception du guidage remnographique, ne peut être associé à aucun autre acte. Le guidage remnographique ne peut être facturé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage remnographique. Dans ce cas, la règle générale s'applique.
+- f. Pour les actes de remnographie, lorsque l'examen porte sur plusieurs régions anatomiques, un seul acte doit être tarifé. Un acte de remnographie, à l'exception du guidage remnographique, ne peut être associé à aucun autre acte. Le guidage remnographique ne peut être facturé qu'avec les actes dont le libellé précise qu'ils nécessitent un guidage remnographique. Dans ce cas, la règle générale s'applique.
 
-g. Dans les cas suivants, les actes associés sont tarifés à taux plein :
+- g. Dans les cas suivants, les actes associés sont tarifés à taux plein :
 
-* les actes du sous paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle - sont associés à taux plein, deux actes au plus peuvent être tarifés ;
+  - * les actes du sous paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle - sont associés à taux plein, deux actes au plus peuvent être tarifés ;
 
-* les actes d'anatomie et de cytologie pathologiques, y compris les suppléments autorisés avec ces actes peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes d'anatomie et de cytologie pathologiques ;
+  - * les actes d'anatomie et de cytologie pathologiques, y compris les suppléments autorisés avec ces actes peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes d'anatomie et de cytologie pathologiques ;
 
-* les actes d'électromyographie, de mesures des vitesses de conduction, d'études des latences et des réflexes figurant aux sous-paragraphes 01. 01. 01. 01 - 01. 01. 01. 02 et 01. 01. 01. 03 de la Classification Commune des Actes Médicaux définie à la Section II peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes ;
+  - * les actes d'électromyographie, de mesures des vitesses de conduction, d'études des latences et des réflexes figurant aux sous-paragraphes 01. 01. 01. 01 - 01. 01. 01. 02 et 01. 01. 01. 03 de la Classification Commune des Actes Médicaux définie à la Section II peuvent être associés à taux plein entre eux ou à un autre acte, quel que soit le nombre d'actes ;
 
-* les actes d'irradiation en radiothérapie ainsi que les suppléments autorisés avec ces actes peuvent être associés à taux plein, quel que soit le nombre d'actes ;
+  - * les actes d'irradiation en radiothérapie ainsi que les suppléments autorisés avec ces actes peuvent être associés à taux plein, quel que soit le nombre d'actes ;
 
-* les actes de médecine nucléaire sont associés à taux plein ; deux actes au plus peuvent être tarifés ;
+  - * les actes de médecine nucléaire sont associés à taux plein ; deux actes au plus peuvent être tarifés ;
 
-* les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note « facturation : éventuellement en supplément. »
+  - * les forfaits de cardiologie, de réanimation, les actes de surveillance post-opératoire d'un patient de chirurgie cardiaque avec circulation extracorporelle figurants au chapitre 19 de la Classification Commune des Actes Médicaux définie à la Section II et les actes d'accouchement peuvent être associés à taux plein à un seul des actes introduits par la note " facturation : éventuellement en supplément. "
 
-h. Si pour des raisons médicales ou dans l'intérêt du patient, un médecin ou une sage-femme réalise des actes à des moments différents et discontinus de la même journée, à l'exclusion de ceux effectués dans une unité de réanimation ou dans une unité de soins intensifs de cardiologie, sur un même patient et qu'il facture ces actes à taux plein, il doit le justifier dans le dossier médical du patient qui est tenu à la disposition du contrôle médical.
+- h. Si pour des raisons médicales ou dans l'intérêt du patient, un médecin ou une sage-femme réalise des actes à des moments différents et discontinus de la même journée, à l'exclusion de ceux effectués dans une unité de réanimation ou dans une unité de soins intensifs de cardiologie, sur un même patient et qu'il facture ces actes à taux plein, il doit le justifier dans le dossier médical du patient qui est tenu à la disposition du contrôle médical.
 
-i. Les actes de radiologie conventionnelle peuvent être associés entre eux, quel que soit leur nombre, et à d'autres actes :
+- i. Les actes de radiologie conventionnelle peuvent être associés entre eux, quel que soit leur nombre, et à d'autres actes :
 
-- quand plusieurs actes de radiologie conventionnelle sont associés, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, les autres sont tarifés à 50 % de leur valeur ;
+  - - quand plusieurs actes de radiologie conventionnelle sont associés, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, les autres sont tarifés à 50 % de leur valeur ;
 
-- quand un ou plusieurs actes de radiologie conventionnelle sont associés à d'autres actes, l'acte dont le tarif hors modificateurs est le plus élevé parmi les actes de radiologie conventionnelle, ainsi que l'acte dont le tarif hors modificateurs est le plus élevé parmi les autres actes sont tarifés à taux plein ; les actes restants sont tarifés selon les règles qui leur sont applicables ;
+  - - quand un ou plusieurs actes de radiologie conventionnelle sont associés à d'autres actes, l'acte dont le tarif hors modificateurs est le plus élevé parmi les actes de radiologie conventionnelle, ainsi que l'acte dont le tarif hors modificateurs est le plus élevé parmi les autres actes sont tarifés à taux plein ; les actes restants sont tarifés selon les règles qui leur sont applicables ;
 
-- quand une mammographie est associée à un acte d'échographie du sein, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, l'autre est tarifé à 50 % de sa valeur.
+  - - quand une mammographie est associée à un acte d'échographie du sein, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, l'autre est tarifé à 50 % de sa valeur.
 
-Le guidage radiologique est considéré comme un acte de radiologie conventionnelle.
+- Le guidage radiologique est considéré comme un acte de radiologie conventionnelle.
 
-Par actes de radiologie conventionnelle, on entend les actes diagnostiques de radiologie, en dehors de ceux portant sur l'appareil circulatoire du paragraphe 04.01.04, des actes par scanographie et des actes du sous-paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle.
+- Par actes de radiologie conventionnelle, on entend les actes diagnostiques de radiologie, en dehors de ceux portant sur l'appareil circulatoire du paragraphe 04.01.04, des actes par scanographie et des actes du sous-paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle.
 
-Les radiographies de l'appareil circulatoire du paragraphe 04.01.04 sont tarifées selon la règle générale.
+- Les radiographies de l'appareil circulatoire du paragraphe 04.01.04 sont tarifées selon la règle générale.
 
-j. Pour les actes d'endoscopie, lorsque l'examen porte sur les régions anatomiques du nez, du cavum, du larynx ou du pharynx, un seul acte doit être tarifé, sauf dans les indications médicales prévues par la note de facturation de la subdivision « 06.01.08. Endoscopie de l'appareil respiratoire ».
+- j. Pour les actes d'endoscopie, lorsque l'examen porte sur les régions anatomiques du nez, du cavum, du larynx ou du pharynx, un seul acte doit être tarifé, sauf dans les indications médicales prévues par la note de facturation de la subdivision " 06.01.08. Endoscopie de l'appareil respiratoire ".
+
+Pour les médecins spécialisés en gynécologie-obstétrique, les honoraires d'une échographie obstétricale JQQM001, JQQM002, JQQM003, JQQM007 ou JQQM008 réalisée en dehors d'une hospitalisation sont cumulables avec ceux d'une consultation.
 
 C) Lorsqu'un gynécologue obstétricien ou un médecin généraliste ou une sage-femme, titulaire d'un diplôme universitaire (DIU ou DU) d'échographie obstétricale assurant le suivi médical de grossesse, réalise un acte d'échographie biométrique et morphologique de la grossesse (JQQM010, JQQM015, JQQM016, JQQM017, JQQM018 ou JQQM019) et une consultation de suivi de la grossesse, il peut facturer les honoraires de ces actes d'échographie (dont les durées respectives établies par les experts lors de la hiérarchisation des actes ont été fixées à respectivement 23-38-33-56-40-60 mn) avec les honoraires correspondant à la consultation de suivi de la grossesse.
 

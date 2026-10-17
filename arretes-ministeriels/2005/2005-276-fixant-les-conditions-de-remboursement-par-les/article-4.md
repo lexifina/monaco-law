@@ -6,7 +6,7 @@ Les médecins et les sages-femmes sont tenus de respecter les conditions particu
 
 Par ailleurs, un acte ou une prestation ne peut être pris en charge que si sa réalisation est conforme aux indications, concernant les dispositifs médicaux, tissus et cellules, produits de santé autres que médicaments et prestations associées, et les médicaments spécialisés.
 
-Pour les actes qualifiés de remboursables sous conditions, le médecin ou la sage-femme porte le code remboursement exceptionnel « X » sur la feuille de soins. Ce code indique que l'acte a été réalisé dans les conditions précisées dans la Section II. Si l'acte n'est pas réalisé dans les conditions exigées, il ne peut pas être présenté au remboursement.
+Pour les actes qualifiés de remboursables sous conditions, le médecin ou la sage-femme porte le code remboursement exceptionnel " X " sur la feuille de soins. Ce code indique que l'acte a été réalisé dans les conditions précisées dans la Section II. Si l'acte n'est pas réalisé dans les conditions exigées, il ne peut pas être présenté au remboursement.
 
 Certains actes font l'objet d'un accord préalable du contrôle médical et ne sont pris en charge qu'à la condition d'avoir reçu l'avis favorable du contrôle médical, sous réserve que l'assuré remplisse les conditions légales d'attribution des prestations.
 
@@ -22,4 +22,4 @@ La réponse de la caisse doit être adressée au malade, ou au praticien le cas 
 
 * 4. Lorsque la demande est incomplète, l'organisme d'assurance maladie indique au demandeur les pièces manquantes indispensables à l'instruction et fixe un délai pour leur réception. Le délai au terme duquel, à défaut de décision expresse, la demande est réputée acceptée ne court qu'à compter de la réception des pièces requises.
 
-Lorsqu'il y a urgence manifeste, le médecin ou la sage-femme dispense l'acte mais remplit néanmoins la demande d'accord préalable en portant la mention : « acte d'urgence ».
+Lorsqu'il y a urgence manifeste, le médecin ou la sage-femme dispense l'acte mais remplit néanmoins la demande d'accord préalable en portant la mention : " acte d'urgence ".

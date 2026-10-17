@@ -8,7 +8,7 @@ Il est impossible de tarifer dans le même temps l'association entre :
 
 - un acte incluant un autre acte, et ce dernier ;
 
-- un acte comportant la mention «avec ou sans» un autre acte, et ce dernier ;
+- un acte comportant la mention "avec ou sans" un autre acte, et ce dernier ;
 
 - un acte dont le libellé précise qu'il est réalisé postérieurement à un autre acte, et ce dernier ;
 

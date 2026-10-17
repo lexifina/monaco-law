@@ -1,30 +1,30 @@
 # Article 13
 
-A) Emploi de l'article partitif «de» :
+A) Emploi de l'article partitif "de" :
 
-L'article partitif «de» a le sens de «quel qu'en soit le nombre» ; un libellé qui ne comporte pas dans son intitulé de précision sur le nombre de lésions examinées ou traitées désigne implicitement un acte effectué sur une ou plusieurs lésions de même nature.
+L'article partitif "de" a le sens de "quel qu'en soit le nombre" ; un libellé qui ne comporte pas dans son intitulé de précision sur le nombre de lésions examinées ou traitées désigne implicitement un acte effectué sur une ou plusieurs lésions de même nature.
 
-B) Emploi de «un» comme adjectif numéral :
+B) Emploi de "un" comme adjectif numéral :
 
-Le terme «un» est employé comme adjectif numéral et non comme article indéfini : il a le sens de un seul.
+Le terme "un" est employé comme adjectif numéral et non comme article indéfini : il a le sens de un seul.
 
 C) Indication numérique :
 
-Quand le libellé d'un acte comporte une indication numérique tel qu'un nombre, une dimension, une surface ou les termes «plusieurs» ou «multiples», le médecin ou la sage-femme doit utiliser le code du libellé décrivant le plus exactement la totalité des gestes effectués au cours de son acte.
+Quand le libellé d'un acte comporte une indication numérique tel qu'un nombre, une dimension, une surface ou les termes "plusieurs" ou "multiples", le médecin ou la sage-femme doit utiliser le code du libellé décrivant le plus exactement la totalité des gestes effectués au cours de son acte.
 
-D) La conjonction «et» :
+D) La conjonction "et" :
 
-Dans certains libellés, la conjonction «et» remplace la préposition «avec». Elle en garde le sens inclusif obligatoire.
+Dans certains libellés, la conjonction "et" remplace la préposition "avec". Elle en garde le sens inclusif obligatoire.
 
-E) La conjonction «ou» :
+E) La conjonction "ou" :
 
-La conjonction «ou» introduit une proposition alternative : elle est employée avec un sens exclusif.
+La conjonction "ou" introduit une proposition alternative : elle est employée avec un sens exclusif.
 
-F) L'expression «et/ou» permet de coder une ou plusieurs actions avec le même libellé.
+F) L'expression "et/ou" permet de coder une ou plusieurs actions avec le même libellé.
 
 G) Ponctuation :
 
-La virgule placée entre les termes d'une énumération remplace «et, ou, et/ou» employé entre les deux derniers termes de cette énumération.
+La virgule placée entre les termes d'une énumération remplace "et, ou, et/ou" employé entre les deux derniers termes de cette énumération.
 
 H) Notes d'utilisation :
 
@@ -40,9 +40,9 @@ Ces notes peuvent être :
 
 Par ailleurs, dans les notes :
 
-- l'expression «coder éventuellement» signale les actes associables, à coder en sus en cas de réalisation simultanée. Seules les associations relativement habituelles sont indiquées à l'aide de cette note ;
+- l'expression "coder éventuellement" signale les actes associables, à coder en sus en cas de réalisation simultanée. Seules les associations relativement habituelles sont indiquées à l'aide de cette note ;
 
-- l'expression «avec ou sans» introduit une liste d'actes dont la réalisation éventuelle au cours de l'acte est incluse dans celui-ci et ne doit donc pas être codée en sus.
+- l'expression "avec ou sans" introduit une liste d'actes dont la réalisation éventuelle au cours de l'acte est incluse dans celui-ci et ne doit donc pas être codée en sus.
 
 Les notes relatives à la prise en charge précisent les conditions de remboursement de l'acte :
 

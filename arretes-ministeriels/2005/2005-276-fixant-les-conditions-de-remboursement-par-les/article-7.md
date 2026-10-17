@@ -2,7 +2,7 @@
 
 L'anesthésie-réanimation générale et/ou locorégionale est prise en charge à condition qu'elle soit administrée par inhalation, injection ou infiltration de racines, plexus ou tronc nerveux ou par une combinaison de ces méthodes, et faite personnellement par un médecin autre que le médecin ou le chirurgien-dentiste qui effectue l'acte qui la nécessite.
 
-Les gestes d'anesthésie-réanimation sont signalés par le code principal de l'acte complété par le code activité « 4 » mentionné à l'article 3 qui décrit l'activité spécifique d'anesthésie-réanimation, auquel correspond le tarif du geste d'anesthésie.
+Les gestes d'anesthésie-réanimation sont signalés par le code principal de l'acte complété par le code activité " 4 " mentionné à l'article 3 qui décrit l'activité spécifique d'anesthésie-réanimation, auquel correspond le tarif du geste d'anesthésie.
 
 Pour les actes dont le code principal n'est pas complété par ce code activité spécifique, il est possible de coder et facturer la réalisation de l'anesthésie complémentaire de l'acte, qui est indiquée en regard de celui-ci, ou, si aucune n'est indiquée, de l'anesthésie générale ou locorégionale complémentaire de niveau 1.
 
@@ -12,7 +12,7 @@ Deux types d'actes d'anesthésie-réanimation sont distingués :
 
 * 1. Ceux pour lesquels la présence permanente du médecin anesthésiste est obligatoire pendant toute la phase préinterventionnelle, c'est-à-dire l'induction, la surveillance, le réveil.
 
-* 2. Ceux pour lesquels le médecin anesthésiste peut prendre en charge l'anesthésie de deux patients simultanément. Si toutefois pour ces actes, le médecin anesthésiste se consacre exclusivement à un seul patient, il peut appliquer une majoration, sous forme de modificateur, appelé « présence permanente de l'anesthésiste » mentionné à l'article 19 de la Section III.
+* 2. Ceux pour lesquels le médecin anesthésiste peut prendre en charge l'anesthésie de deux patients simultanément. Si toutefois pour ces actes, le médecin anesthésiste se consacre exclusivement à un seul patient, il peut appliquer une majoration, sous forme de modificateur, appelé " présence permanente de l'anesthésiste " mentionné à l'article 19 de la Section III.
 
 Celui-ci est indiqué en regard des actes concernés.
 
