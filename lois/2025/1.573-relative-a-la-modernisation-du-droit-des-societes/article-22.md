@@ -6,6 +6,8 @@ Le conseil d'administration est composé de deux administrateurs au moins, rému
 
 Les statuts déterminent la durée des fonctions des administrateurs, sans pouvoir excéder six ans, et peuvent également préciser les conditions de cessation de leurs fonctions. Toutefois, ils peuvent être révoqués à tout moment par l'assemblée générale ordinaire.
 
+Le mandat des administrateurs est renouvelable, sauf stipulation contraire des statuts.
+
 En cas de vacance par décès ou par démission d'un ou plusieurs sièges d'administrateur, ou lorsque le nombre des administrateurs est devenu inférieur au minimum statutaire, le conseil d'administration peut, entre deux assemblées générales, procéder à des nominations à titre provisoire. Ces nominations sont soumises à ratification de la plus prochaine assemblée générale ordinaire.
 
 Lorsque le nombre des administrateurs est devenu inférieur au minimum légal, les administrateurs doivent convoquer, dans le délai d'un mois, l'assemblée générale ordinaire en vue de compléter l'effectif du conseil.
