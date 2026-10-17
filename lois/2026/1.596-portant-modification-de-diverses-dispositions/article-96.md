@@ -1,0 +1,3 @@
+# Article 96
+
+Par dérogation aux dispositions du troisième alinéa de l'article 15 de la loi n° 408 du 20 janvier 1945, modifiée, dans sa nouvelle rédaction issue de l'article 19 de la présente loi, les commissaires aux comptes en fonctions à la date d'entrée en vigueur de la présente loi auprès d'une personne morale ou d'une entité dont les titres financiers sont admis aux négociations sur un marché réglementé ou d'une société qui bénéficie d'un monopole, d'un privilège ou d'une concession de service public peuvent voir leur mandat renouvelé, sans que la durée totale de leurs fonctions ne puisse excéder vingt-quatre exercices.
