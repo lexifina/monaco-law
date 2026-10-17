@@ -1,11 +1,11 @@
 # Code de commerce
 
-Version en vigueur au 30 septembre 2025.
+Version en vigueur au 17 octobre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/code/code-commerce@2025.09.30/
+Source : Legimonaco, https://legimonaco.mc/code/code-commerce@2026.10.17/
 
 | | |
 | --- | --- |
 | Type | Code |
 | Nature | Code de commerce |
-| Dernière modification | 30 septembre 2025 |
+| Dernière modification | 17 octobre 2026 |

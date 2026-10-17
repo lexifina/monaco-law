@@ -4,4 +4,4 @@ La copie doit désigner le détenteur du titre original. Celui-ci est tenu de re
 
 S'il s'y refuse, le porteur ne peut exercer de recours contre les personnes qui ont endosse ou avalisé la copie qu'après avoir fait constater par un protêt que l'original ne lui a pas été remis sur sa demande.
 
-Si le titre original après le dernier endossement survenu avant que la copie ne soit faite, porte la clause : « à partir d'ici l'endossement ne vaut que sur la copie » ou toute autre formule équivalente, un endossement signé ultérieurement sur l'original est nul.
+Si le titre original après le dernier endossement survenu avant que la copie ne soit faite, porte la clause : " à partir d'ici l'endossement ne vaut que sur la copie " ou toute autre formule équivalente, un endossement signé ultérieurement sur l'original est nul.

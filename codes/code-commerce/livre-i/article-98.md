@@ -10,6 +10,6 @@ Quand une lettre de change est tirée à un ou plusieurs mois et demi de date ou
 
 Si l'échéance est fixée au commencement, au milieu (mi-janvier, mi-février, etc.) ou à la fin du mois, on entend par ces termes le premier, le quinze ou le dernier jour du mois.
 
-Les expressions « huit jours » ou « quinze jours » s'entendent, non d'une ou deux semaines, mais d'un délai de huit ou de quinze jours effectifs.
+Les expressions " huit jours " ou " quinze jours " s'entendent, non d'une ou deux semaines, mais d'un délai de huit ou de quinze jours effectifs.
 
-L'expression « demi-mois » indique un délai de quinze jours.
+L'expression " demi-mois " indique un délai de quinze jours.

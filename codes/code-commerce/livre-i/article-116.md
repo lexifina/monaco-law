@@ -1,6 +1,6 @@
 # Article 116
 
-Le tireur, un endosseur ou un avaliseur peut, par la clause « retour sans frais », « sans protêtt »ou toute autre clause équivalente, inscrite sur le titre et signée, dispenser le porteur de faire dresser, pour exercer ses recours, un protêt faute d'acceptation ou faute de paiement.
+Le tireur, un endosseur ou un avaliseur peut, par la clause " retour sans frais ", " sans protêtt "ou toute autre clause équivalente, inscrite sur le titre et signée, dispenser le porteur de faire dresser, pour exercer ses recours, un protêt faute d'acceptation ou faute de paiement.
 
 Cette clause ne dispense pas le porteur de la présentation de la lettre de change dans les délais prescrits ni des avis à donner. La preuve de l'inobservation des délais incombe à celui qui s'en prévaut contre le porteur.
 
