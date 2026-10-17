@@ -1,8 +1,8 @@
-# Loi n° 1.231 du 12 juillet 2000 relative aux professions d'expert-comptable et de comptable agréé
+# Loi n° 1.231 du 12 juillet 2000 relative à la profession d'expert-comptable
 
-Version en vigueur au 30 septembre 2025.
+Version en vigueur au 17 octobre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/loi/2000/07-12-1.231@2025.09.30/
+Source : Legimonaco, https://legimonaco.mc/tnc/loi/2000/07-12-1.231@2026.10.17/
 
 | | |
 | --- | --- |

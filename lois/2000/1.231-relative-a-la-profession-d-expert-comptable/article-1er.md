@@ -1,3 +1,3 @@
 # Article 1er
 
-L'exercice des professions d'expert-comptable et de comptable agréé et l'usage de ces titres sont subordonnés à une autorisation administrative délivrée par arrêté ministériel dans les conditions prévues par la présente loi.
+L'exercice de la profession d'expert-comptable et l'usage de ce titre sont subordonnés à une autorisation administrative délivrée par arrêté ministériel dans les conditions prévues par la présente loi.
