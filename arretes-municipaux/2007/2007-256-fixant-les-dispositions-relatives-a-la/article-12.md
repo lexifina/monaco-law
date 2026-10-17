@@ -2,7 +2,7 @@
 
 1) Annonciade (Avenue de l')
 
-Un sens unique de circulation est instauré avenue de l'Annonciade, dans sa partie comprise entre son n° 17 et «la chapelle de l'Annonciade » et ce, dans ce sens.
+Un sens unique de circulation est instauré avenue de l'Annonciade, dans sa partie comprise entre son n° 17 et "la chapelle de l'Annonciade " et ce, dans ce sens.
 
 2) Beaux-Arts (Avenue des)
 
@@ -48,7 +48,7 @@ a) Un sens unique de circulation est instauré :
 
 - du débouché du passage de la Porte Rouge à l'avenue d'Ostende, et ce, dans ce sens.
 
-- par dérogation au tiret précédent un double sens de circulation est instauré entre son n° 17 et le débouché du passage de la Porte Rouge à la seule intention des véhicules sortant des parkings des résidences «Château Plaisance» et «Villa Bijou».
+- par dérogation au tiret précédent un double sens de circulation est instauré entre son n° 17 et le débouché du passage de la Porte Rouge à la seule intention des véhicules sortant des parkings des résidences "Château Plaisance" et "Villa Bijou".
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 6 tonnes est interdite dans sa section comprise entre le boulevard de Suisse et l'avenue d'Ostende.
 
@@ -66,7 +66,7 @@ Un sens unique de circulation est instauré du boulevard Princesse Charlotte à 
 
 12) Genêts (Rue des)
 
-a) Un sens unique de circulation est instauré de l'entrée du parking de l'immeuble « le Millefiori » à l'avenue Sainte Cécile et ce, dans ce sens.
+a) Un sens unique de circulation est instauré de l'entrée du parking de l'immeuble " le Millefiori " à l'avenue Sainte Cécile et ce, dans ce sens.
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 3,50 tonnes est interdite.
 
@@ -276,7 +276,7 @@ Cette disposition ne s'applique pas aux véhicules d'urgences et de secours.
 
 47) Sardanapale (Bretelle dite du)
 
-a) Un sens unique de circulation est instauré dans sa partie comprise entre l'entrée du garage de l'immeuble « Le Sardanapale » et son intersection avec le boulevard du Larvotto et ce, dans ce sens.
+a) Un sens unique de circulation est instauré dans sa partie comprise entre l'entrée du garage de l'immeuble " Le Sardanapale " et son intersection avec le boulevard du Larvotto et ce, dans ce sens.
 
 b) La circulation des véhicules et ensemble de véhicules d'un poids total autorisé en charge supérieur à 7,50 tonnes est autorisée.
 
@@ -298,7 +298,7 @@ Les dispositions de l'alinéa c) ne s'appliquent pas aux engins de la force publ
 
 50) Suisse (Boulevard de)
 
-Un sens unique de circulation est instauré dans sa partie comprise entre son intersection avec le boulevard Princesse Charlotte et l'entrée du parking de l'immeuble « le Saint André » et ce, dans ce sens.
+Un sens unique de circulation est instauré dans sa partie comprise entre son intersection avec le boulevard Princesse Charlotte et l'entrée du parking de l'immeuble " le Saint André " et ce, dans ce sens.
 
 51) Violettes (Rue des)
 
