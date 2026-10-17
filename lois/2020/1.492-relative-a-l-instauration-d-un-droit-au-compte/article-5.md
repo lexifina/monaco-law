@@ -27,5 +27,3 @@ Les établissements de crédit désignés par la Direction du Budget et du Trés
 - 12°) deux formules de chèques de banque par mois ou moyens de paiement équivalents offrant les mêmes services.
 
 Les tarifs applicables aux services bancaires de base ne peuvent être supérieurs, pour des prestations équivalentes, aux tarifs en vigueur appliqués à ses autres clients par l'établissement de crédit désigné par la Direction du Budget et du Trésor.
-
-Les établissements de crédit procèdent à l'ouverture du compte de dépôt dans les quinze jours ouvrés à compter de la réception de l'ensemble des pièces qui leur sont nécessaires à cet effet.

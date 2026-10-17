@@ -12,4 +12,4 @@ L'établissement de crédit désigné par la Direction du Budget et du Trésor n
 
 - 5°) lorsqu'aucune opération n'est intervenue sur le compte pendant une durée de plus de vingt-quatre mois consécutifs.
 
-La résiliation unilatérale par l'établissement de crédit désigné d'un compte de dépôt ouvert en application de l'article 4 est susceptible de recours devant les juridictions compétentes.
+La résiliation unilatérale par l'établissement de crédit désigné d'un compte de dépôt ouvert en application de l'article 4 est susceptible de recours devant le Président du Tribunal de première instance statuant en la forme des référés saisi par voie d'exploit d'assignation.
