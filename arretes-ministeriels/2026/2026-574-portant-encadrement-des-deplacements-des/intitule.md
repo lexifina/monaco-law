@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-574 du 15 octobre 2026 portant encadrement des déplacements des supporters de Fribourg à l'occasion du match de football organisé le 22 octobre 2026 opposant l'A.S. Monaco au S.C. Fribourg au Stade Louis II à Monaco
