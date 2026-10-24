@@ -8,4 +8,4 @@ La date d'envoi de cette demande est attestée par le cachet de la poste.
 
 L'absence de réponse de l'organisme d'assurance maladie à l'assuré, dans les quinze jours, équivaut à un accord.
 
-Lorsqu'il y a une urgence médicale, précisée par le prescripteur sur la demande d'entente préalable, le directeur de laboratoire effectue l'acte, indique la mention « acte d'urgence » sur le formulaire et l'assuré l'adresse, dans le même temps, au service médical de son organisme.
+Lorsqu'il y a une urgence médicale, précisée par le prescripteur sur la demande d'entente préalable, le directeur de laboratoire effectue l'acte, indique la mention " acte d'urgence " sur le formulaire et l'assuré l'adresse, dans le même temps, au service médical de son organisme.

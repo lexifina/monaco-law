@@ -1,10 +1,10 @@
 # Article 4 quinquies
 
-9006 - Forfait du traitement des données administratives du test COVID-19 dans le téléservice français « Contact covid »
+9006 - Forfait du traitement des données administratives du test COVID-19 dans le téléservice français " Contact covid "
 
 Ce forfait comprend :
 
-- la vérification de l'inscription du patient contact COVID-19 dans le téléservice « Contact covid » ;
+- la vérification de l'inscription du patient contact COVID-19 dans le téléservice " Contact covid " ;
 
 - l'enregistrement de la date de la réalisation du prélèvement dans ce téléservice et le fait que le test ait été réalisé ;
 
