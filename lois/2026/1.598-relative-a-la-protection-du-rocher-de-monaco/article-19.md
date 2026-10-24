@@ -1,0 +1,5 @@
+# Article 19
+
+En cas d'adjudication, volontaire ou forcée, le greffier ou le notaire chargé de la vente en informe le Ministre d'État un mois au moins avant la date fixée. L'État dispose d'un délai de quinze jours à compter de l'adjudication pour se substituer à l'adjudicataire, au prix de la dernière enchère ou de la surenchère. Sa décision est motivée conformément à l'article 8. La cession ne peut être réalisée avant l'expiration de ce délai, sauf renonciation expresse de l'État.
+
+Il en est de même des cessions intervenant dans le cadre d'une procédure collective de règlement du passif, sur autorisation du juge. Le syndic informe le Ministre d'État de la cession envisagée avant que le juge ne statue. L'État peut, dans un délai de quinze jours à compter de la décision du juge, se substituer au cessionnaire retenu, aux prix et conditions fixés par celle-ci. Sa décision est motivée conformément à l'article 8. La cession ne peut être réalisée avant l'expiration de ce délai, sauf renonciation expresse de l'État.

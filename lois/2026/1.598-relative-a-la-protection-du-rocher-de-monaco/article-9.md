@@ -1,0 +1,5 @@
+# Article 9
+
+En cas de renonciation expresse ou tacite de l'État, le propriétaire peut réaliser l'aliénation aux prix et conditions déclarés pendant un délai de six mois, sans préjudice de l'application des dispositions de l'article 38 de la loi n° 1.235 du 28 décembre 2000, modifiée, relatives au droit de préemption du titulaire du bail lorsque le local dont l'aliénation est envisagée est donné à bail dans les conditions prévues par ladite loi.
+
+Passé le délai de six mois visé au premier alinéa ou le délai mentionné à l'avant-dernier alinéa de l'article 38 de la loi n° 1.235 du 28 décembre 2000, modifiée, précitée, en cas de renonciation tacite ou expresse du titulaire du contrat de location, ou si l'aliénation est envisagée à un prix inférieur, à des conditions différentes ou au profit d'un autre acquéreur, y compris par l'effet d'une clause de substitution, d'une cession de la promesse ou du compromis, ou d'une modification des bénéficiaires effectifs de l'acquéreur pressenti, une nouvelle déclaration est requise dans les conditions prévues par la présente loi.
