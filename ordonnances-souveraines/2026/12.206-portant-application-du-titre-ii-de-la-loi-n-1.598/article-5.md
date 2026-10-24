@@ -1,0 +1,3 @@
+# Article 5
+
+Lorsque l'opération nécessite également une autorisation au Titre III de la loi, le demandeur peut solliciter que les deux demandes fassent l'objet d'une instruction et d'une décision uniques, en application du dernier alinéa de l'article 29 de la loi n° 1.598 du 16 octobre 2026, susvisée. Le service instructeur peut également y procéder lorsqu'il constate que les deux demandes portent sur la même opération ; il en informe le demandeur. La décision unique intervient dans les délais applicables à l'autorisation relevant du Titre III. L'instruction unique est alors assurée par la Direction de la Prospective, de l'Urbanisme et de la Mobilité, en liaison avec le service instructeur désigné à l'article 2.
