@@ -22,5 +22,7 @@
       "decided_here": false
     }
   },
-  "tool": "tools/en_vigueur_au.py"
+  "tool": "tools/en_vigueur_au.py",
+  "in_force_trailer": "In-force",
+  "record_to": "2025-11-22"
 }
