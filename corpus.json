@@ -28,5 +28,10 @@
   "citation": {
     "file": "([a-z0-9-]+)/article-0*([0-9]+[a-z0-9-]*)\\.md",
     "cites": "([Aa]rticle|[Aa]rt\\.) ?{n}([^0-9]|$)"
-  }
+  },
+  "label": "Monaco",
+  "language": "fr",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "record_note": "Checked against the official source on 2026-10-28."
 }
