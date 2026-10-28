@@ -24,5 +24,9 @@
   },
   "tool": "tools/en_vigueur_au.py",
   "in_force_trailer": "In-force",
-  "record_to": "2025-11-22"
+  "record_to": "2025-11-22",
+  "citation": {
+    "file": "([a-z0-9-]+)/article-0*([0-9]+[a-z0-9-]*)\\.md",
+    "cites": "([Aa]rticle|[Aa]rt\\.) ?{n}([^0-9]|$)"
+  }
 }
