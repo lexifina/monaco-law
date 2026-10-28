@@ -1,0 +1,21 @@
+The legal texts and the data about them come from Legimonaco:
+
+  Source : Legimonaco, base de données juridique officielle de la Principauté de Monaco (Gouvernement Princier),
+  https://legimonaco.mc
+
+Under the law of Monaco on the protection of literary and artistic works (Loi n° 491 du 24 novembre 1948, article
+38), "Les lois, ordonnances, arrêtés, décisions et publications administratives, judiciaires ou officielles ne
+bénéficient pas de la protection instituée par la présente loi." The Constitution and the
+laws in this repository are texts of that kind. legimonaco.mc publishes no terms of reuse of its own; the terms of
+other government sites (journaldemonaco.gouv.mc, gouv.mc) reserve rights in their site content. Only the words of the
+law are reproduced here; Legimonaco's editorial notes and its "Historique de consolidation" texts are not reproduced,
+except where a version itself prints such a note in the body of an article.
+
+Changes made by Lexifina: each consolidated version's HTML was converted to one Markdown file per article (one line
+per paragraph or list item); histories, editorial notes, division headings and page furniture were left out; spacing
+was collapsed; and the versions were arranged as git commits credited to the acts that made each change. The wording
+of the law was not changed. Legimonaco and the Gouvernement Princier do not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

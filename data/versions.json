@@ -1,0 +1,117 @@
+{
+ "built": "2026-10-28",
+ "acts": [
+  {
+   "slug": "constitution",
+   "legimonaco": "https://legimonaco.mc/constitution",
+   "versions": [
+    {
+     "from": "1962-12-17",
+     "url": "https://legimonaco.mc/constitution@1962.12.17/",
+     "sha256": "194c7a7a4b927fa936ef6a20ba93de8673dde11fbee22e39e9a12c3084aad831"
+    },
+    {
+     "from": "2002-04-06",
+     "url": "https://legimonaco.mc/constitution@2002.04.06/",
+     "sha256": "819e6ed5aae4827c9bb0d4f3e64cd4cffb372cbb896f308197d7dd2179b45fb3"
+    }
+   ]
+  },
+  {
+   "slug": "loi-1362",
+   "legimonaco": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362",
+   "versions": [
+    {
+     "from": "2009-08-08",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2009.08.08/",
+     "sha256": "b9b1e7d5f810b1dcf3ee7fbe3bed7acb2f4de17d9677211e0e9c2ee7de45e0e9"
+    },
+    {
+     "from": "2016-12-10",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2016.12.10/",
+     "sha256": "473780777128153c2de88a6b2d5cc05d5642334cd36847817e634ac1d2b4d23e"
+    },
+    {
+     "from": "2018-07-07",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2018.07.07/",
+     "sha256": "e123d6d837b90770d17d4925548041e4c65c0fee3b2a2b5c104a01d9e8beb2e7"
+    },
+    {
+     "from": "2020-06-27",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2020.06.27/",
+     "sha256": "04ef0e744ec590c60ff517215e7ff84f71f809e6bad63cc5340b869fb769283d"
+    },
+    {
+     "from": "2020-12-31",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2020.12.31/",
+     "sha256": "6caba0df7f0594fc460f85eefe1589bf39c9d66e7ef8356360d4f8a8304c35d5"
+    },
+    {
+     "from": "2021-01-02",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2021.01.02/",
+     "sha256": "9039b272a648b708f34c4dfb7002bd69d9db2e43d8feb8e2d7c3bbd9707ff34a"
+    },
+    {
+     "from": "2021-06-05",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2021.06.05/",
+     "sha256": "04d9347693423c09be590aec677211773e545d39708557a52e67142ca1b33eb9"
+    },
+    {
+     "from": "2021-08-31",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2021.08.31/",
+     "sha256": "5743e43b45bea6b76bc4031ded044e7388221767db8d9bd7d979829b6edcd0a0"
+    },
+    {
+     "from": "2021-12-31",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2021.12.31/",
+     "sha256": "8cb6174de5b0828eef0a1c19fde0014174fa2afd287cd1cf32df68267385341c"
+    },
+    {
+     "from": "2022-02-12",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2022.02.12/",
+     "sha256": "cc654916f30c407d8011fd41dcbe46b2ad86cabf3c657e2196afc4d76a0bc70c"
+    },
+    {
+     "from": "2022-07-23",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2022.07.23/",
+     "sha256": "b5260ee51e453ddc89a00b11c0fe30aa891211c6f2760f4869d6d8db053d54ae"
+    },
+    {
+     "from": "2022-12-17",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2022.12.17/",
+     "sha256": "2dfd66b5b20a1c9473332e7ca267ccabaf365efda2bfc475fa4bfafa4ef8e46c"
+    },
+    {
+     "from": "2023-08-11",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2023.08.11/",
+     "sha256": "29f904218292c123686af0416a642aff7d99e7de41a86749ae9f2e1c68d1908f"
+    },
+    {
+     "from": "2023-08-12",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2023.08.12/",
+     "sha256": "3dccc14b5a58ca791d6ea813ec98bc362e0c9d33aaa0a671f02d790343f66e13"
+    },
+    {
+     "from": "2023-09-30",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2023.09.30/",
+     "sha256": "5e395a93a188590e88957ee1b8a7a309d9fe653f681f52cff8d2e432f1baddb3"
+    },
+    {
+     "from": "2024-03-02",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2024.03.02/",
+     "sha256": "74335308672d5f3d890b62c501cb9b03c332f3ab52d36db3ecd40548c464d9e4"
+    },
+    {
+     "from": "2024-12-14",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2024.12.14/",
+     "sha256": "4aa3ad2ac16b0e579306648740f8ef4f91abc70ee6c766efb5b22a0b03f6150d"
+    },
+    {
+     "from": "2025-11-22",
+     "url": "https://legimonaco.mc/tnc/loi/2009/08-03-1.362@2025.11.22/",
+     "sha256": "c59f63262b08fb7430f7b31c7fe792953a3c29dab2a1f48717955ab1edd24e2d"
+    }
+   ]
+  }
+ ]
+}
