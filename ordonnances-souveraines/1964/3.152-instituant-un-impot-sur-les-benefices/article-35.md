@@ -1,5 +1,9 @@
 # Article 35
 
-En cas de retard dans le paiement à leur échéance soit des acomptes provisionnels, soit du solde de l'impôt liquidé conformément aux dispositions des articles 23 et 31, toutes déclarations et formalités nécessaires pour le calcul tant des acomptes que du solde ayant été souscrites et remplies et les renseignements visés à l'article 23 fournis, le redevable supportera, à titre d'indemnité et en sus du droit simple qui aurait dû être acquitté, une amende fiscale de 3 % du montant de ce droit si le paiement intervient dans le mois qui suit l'échéance. S'il est différé davantage, l'amende est majorée de 1 % par mois ou fraction de mois de retard supplémentaire.
+Le défaut ou l'insuffisance dans le paiement ou le versement tardif soit des acomptes provisionnels, soit du solde de l'impôt liquidé conformément aux dispositions des articles 23 et 31, ainsi que le paiement de l'impôt réclamé en application des articles 25 et 26, donnent lieu au versement d'un intérêt de retard qui est dû indépendamment de toutes sanctions.
 
-Toutes autres contraventions aux dispositions légales, commises de bonne foi, seront punies d'une amende fiscale au plus égale à une fois et demie le montant du droit simple omis ou compromis, notamment par le défaut total ou partiel de déclaration ou d'inobservation d'une formalité ou d'un délai.
+Le taux de l'intérêt de retard est fixé à 0,20 % par mois. Il s'applique sur le montant de l'impôt mis à la charge du redevable ou dont le versement a été différé.
+
+L'intérêt de retard est calculé à compter du premier jour du mois suivant celui au cours duquel l'impôt devait être acquitté jusqu'au dernier jour du mois de paiement.
+
+Lorsqu'il est fait application des articles 25 et 26, le décompte de l'intérêt de retard est arrêté au dernier jour du mois du courrier de rectification. Un nouvel intérêt de retard est calculé, au même taux et sur la même base, à compter du premier jour du mois suivant celui de la mise en recouvrement jusqu'au dernier jour du mois de paiement.

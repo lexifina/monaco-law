@@ -4,7 +4,7 @@
 
 Il entend les intéressés lorsque leur audition lui paraît utile ou lorsqu'ils demandent à fournir des explications orales.
 
-Il peut rectifier les déclarations et la liquidation présentées par les redevables mais il fait alors connaître aux intéressés la rectification qu'il envisage et leur en indique les motifs. Il invite en même temps le redevable à faire parvenir son acceptation ou ses observations dans un délai de vingt jours. À défaut de réponse dans ce délai, l'inspecteur fixe la base de l'imposition sous réserve du droit de réclamation de l'intéressé.
+Il peut rectifier les déclarations et la liquidation présentées par les redevables mais il fait alors connaître aux intéressés la rectification qu'il envisage et leur en indique les motifs. Il invite en même temps le redevable à faire parvenir son acceptation ou ses observations dans un délai de trente jours. À défaut de réponse dans ce délai, l'inspecteur fixe la base de l'imposition sous réserve du droit de réclamation de l'intéressé.
 
 Si, des observations ayant été présentées dans le même délai, le désaccord persiste, il peut être soumis, soit par l'administration, soit par le redevable, à la commission consultative prévue à l'article 27 ci-après.
 

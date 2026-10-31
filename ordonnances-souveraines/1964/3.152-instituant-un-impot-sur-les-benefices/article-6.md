@@ -9,3 +9,5 @@ Si aucun bilan n'est dressé au cours d'une année quelconque l'impôt dû au ti
 Lorsqu'il est dressé des bilans successifs au cours d'une même année, les résultats en sont totalisés pour l'assiette de l'impôt dû au titre de ladite année.
 
 2. - Lorsque le point de départ du premier exercice soumis à l'application de l'impôt est antérieur au 1er janvier 1963, l'impôt ne s'applique qu'aux bénéfices réalisés à compter du 1er janvier 1963.
+
+3. - Au titre de chaque période d'imposition définie au présent article et à l'article 29, l'inspecteur de la Direction des Services Fiscaux peut adresser une demande de renseignements aux entreprises susceptibles d'être redevables de l'impôt sur les bénéfices. Pour les entreprises qui en sont redevables, cette demande vaut mise en demeure de déposer la déclaration prévue à l'article 23.

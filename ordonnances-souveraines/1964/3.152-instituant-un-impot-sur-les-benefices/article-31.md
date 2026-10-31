@@ -12,7 +12,7 @@ Par dérogation aux dispositions du deuxième alinéa, l'acompte dont l'échéan
 
 3. - L'entreprise ou la société qui estime que le montant des acomptes déjà versés au titre d'un exercice est égal ou supérieur aux cotisations dont elle sera finalement redevable pour cet exercice peut se dispenser d'effectuer de nouveaux versements d'acomptes en remettant à la direction des services fiscaux quinze jours avant la date d'exigibilité du prochain versement à effectuer une déclaration datée et signée.
 
-Si, par la suite, cette déclaration est reconnue inexacte de plus du dixième, il sera fait application de l'amende fiscale prévue au premier alinéa de l'article 35.
+Si, par la suite, cette déclaration est reconnue inexacte de plus du dixième, il sera fait application de l'intérêt de retard prévu à l'article 35.
 
 4. - La liquidation de l'impôt est faite par l'entreprise ou la société et le montant, arrondi au franc inférieur, en est versé par elle, sous déduction des acomptes déjà réglés, au plus tard le jour de l'expiration du délai de déclaration des résultats de l'exercice prévu à l'article 23.
 
