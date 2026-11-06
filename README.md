@@ -1,5 +1,7 @@
 # Monaco law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Monaco's national law, which global-law reads at `monaco/national/acts/`.
+
 Two Monegasque texts as a git repository: the **Constitution of 17 December 1962** (with its 2002 revision) and **loi n° 1.362 du 3 août 2009** on money laundering, terrorist financing and corruption (18 consolidated versions, 2009 to 2025). Each amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Monaco. The text is the French text of [Legimonaco](https://legimonaco.mc), the official legal database of the Principality.
 
 *Français : [plus bas](#français).*
