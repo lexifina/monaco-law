@@ -1,6 +1,6 @@
 # Article 6
 
-Le numéro d'immatriculation est constitué par un groupe de chiffres ou de lettres et de chiffres.
+Le numéro d'immatriculation est constitué par un groupe de chiffres, un groupe de lettres, ou une combinaison de lettres et de chiffres.
 
 Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatriculation peut recevoir l'une des formes suivantes :
 
@@ -12,33 +12,49 @@ Selon la catégorie à laquelle appartient le véhicule, le numéro d'immatricul
 
 - - à l'avant et à l'arrière, les armoiries princières remplacent l'écusson rouge et blanc et l'estampille.
 
-Véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée :
+Véhicules dont le déclarant remplit les conditions fixées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée, susvisée, à l'exception de ceux relevant de la série non-résidents :
 
-- - couleur des caractères : bleue
+- couleur des caractères : bleue.
 
-* Pour les motocycles et assimilés y compris les cyclomoteurs :
+- 1°) Pour les motocycles et assimilés y compris les cyclomoteurs :
 
-- - deux lettres et un groupe de deux chiffres, soit du n° AA01 au n° ZZ99 (sauf MC01 à MC99, MP01 à MP99, PM01 à PM99)
+  - deux lettres suivies d'un groupe de deux chiffres, soit du n° AA01 au n° ZY99 (sauf MC01 à MC99, MP01 à MP99, PM01 à PM99).
 
-les lettres étant choisies dans la liste :
+- Les lettres étant choisies dans la liste : A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
 
-A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y, Z.
+- 2°) Pour les véhicules automobiles, remorques et semi-remorques :
 
-* Pour les remorques et les semi-remorques de plus de 750 kg de poids total en charge :
+- un groupe de quatre chiffres soit du n° 0001 au n° 9999 ;
 
-- - une lettre et un groupe de trois chiffres au plus, soit du n° A001 au n° A999.
+- une lettre suivie d'un groupe de trois chiffres, soit n° B001 à n° B999 ; n° C001 à n° C999 ; etc. ; la lettre étant prise dans la liste ci‑après : A, B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y ;
 
-* Pour les véhicules automobiles :
+- ou un groupe de trois chiffres suivi d'une lettre prise dans la liste ci‑après : A, B, C, D, E, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, X, Y.
 
-- - un groupe de quatre chiffres au plus soit du n° 0001 au n° 9999 ;
+Dans les conditions fixées à l'article 12, le numéro d'immatriculation sur mesure d'un véhicule automobile peut également être composé :
 
-- - ou une lettre et un groupe de trois chiffres au plus, soit n° B001 à n° B999 ; n° C001 à n° C999 ;
+- d'un groupe de quatre lettres ;
 
-- les lettres étant prises, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, M, N, P, Q, R, S, T, U, V, X, Y.
+- d'une combinaison comportant trois lettres et un chiffre, quelle que soit leur position respective ;
 
-- - ou un groupe de trois chiffres au plus suivi d'une lettre prise, par ordre alphabétique, dans la liste ci-après : B, C, D, E, F, G, H, J, K, L, N, P, Q, R, S, T, U, V, X, Y
+- ou d'une combinaison comportant deux chiffres et deux lettres, selon l'une des séquences suivantes :
 
-la lettre Z étant réservée aux personnes physiques visées par l'article 102 de l'ordonnance souveraine n° 1.691 du 17 décembre 1957, modifiée, justifiant en nom personnel d'un titre de propriété ou d'un bail à loyer concernant un logement en Principauté.
+  - une lettre suivie de deux chiffres puis d'une lettre ;
+
+  - une lettre suivie d'un chiffre, d'une lettre puis d'un chiffre ;
+
+  - un chiffre suivi d'une lettre, d'un chiffre puis d'une lettre ;
+
+  - deux chiffres suivis de deux lettres.
+
+Les lettres composant un numéro d'immatriculation sur mesure sont prises dans la liste ci‑après : A, B, C, D, E, F, G, H, J, L, M, N, P, Q, R, S, T, U, V, X, Y ; à l'exclusion de toute suite de lettres réservée à une autre série d'immatriculation en application du présent article.
+
+Véhicules appartenant à des personnes physiques justifiant en nom personnel d'un titre de propriété ou d'un bail à loyer concernant un logement en Principauté autorisées à bénéficier d'une immatriculation en application des dispositions de l'article 102 de l'Ordonnance Souveraine n° 1.691 du 17 décembre 1957, modifiée, susvisée.
+
+- couleur des caractères : bleue.
+
+- pour les véhicules automobiles : la lettre Z suivie de trois chiffres soit du n° Z001 au n° Z999 ;
+
+- pour les motocycles et assimilés y compris les cyclomoteurs : deux lettres Z suivies de deux chiffres soit du n° ZZ01 au n° ZZ99.
 
 * Plaques destinées aux collectionneurs :
 

@@ -1,6 +1,6 @@
 # Article 5
 
-L'estampille validant l'immatriculation des véhicules est attribuée dans les conditions suivantes :
+L'estampille valide l'immatriculation du véhicule pour l'année civile, sous réserve du paiement des droits afférents intervenant :
 
 - Pour les véhicules mis ou remis en circulation dans la Principauté, avec les plaques minéralogiques au moment de la délivrance du certificat d'immatriculation ;
 

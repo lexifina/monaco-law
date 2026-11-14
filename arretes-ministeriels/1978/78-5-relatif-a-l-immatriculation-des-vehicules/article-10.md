@@ -8,7 +8,7 @@ Par exception, le titulaire de l'immatriculation peut toutefois solliciter aupr�
 
 - 2°) le transfert du numéro d'immatriculation à un véhicule pour lequel une immatriculation à Monaco est demandée ;
 
-- 3°) la conservation du numéro d'immatriculation pendant un délai maximum de six mois à compter de la cession du véhicule auquel il était attribué, en vue de son transfert à un véhicule devant être immatriculé en Principauté. À l'issue de ce délai, le numéro redevient disponible en vue d'une nouvelle attribution.
+- 3°) la conservation du numéro d'immatriculation pendant un délai maximum de six mois à compter de la cession du véhicule auquel il était attribué, en vue de son transfert à un véhicule devant être immatriculé en Principauté. Par dérogation, ce délai est porté à deux ans lorsqu'il s'agit d'un numéro d'immatriculation sur mesure tel que défini à l'article 6. À l'issue du délai applicable, le numéro redevient disponible en vue d'une nouvelle attribution ;
 
 Sous réserve qu'elles remplissent les conditions fixées par l'article 102 de l'Ordonnance Souveraine n° 1.691 du 17 décembre 1957 portant réglementation de la police de la circulation routière (Code de la route), modifiée, les transferts de numéros d'immatriculation pouvant être autorisés en vertu des dispositions du précédent alinéa ne peuvent bénéficier qu'aux personnes suivantes :
 
