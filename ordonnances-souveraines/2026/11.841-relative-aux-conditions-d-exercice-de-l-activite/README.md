@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 11.841 du 2 avril 2026 relative aux conditions d'exercice de l'activité professionnelle de psychologue
 
-Version en vigueur au 18 avril 2026.
+Version en vigueur au 14 novembre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2026/04-02-11.841@2026.04.18/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2026/04-02-11.841@2026.11.14/
 
 | | |
 | --- | --- |

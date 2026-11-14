@@ -6,7 +6,7 @@ L'autorisation d'exercer la profession de psychologue en qualité de psychologue
 
 - 2) remplir les conditions suivantes :
 
-  - a) être titulaire d'un diplôme délivré par un établissement agréé dont la liste est fixée par arrêté ministériel ou reconnu équivalent par une commission dont la composition et le fonctionnement sont déterminés par arrêté ministériel ou pouvoir user en France du titre de psychologue ;
+  - a) être titulaire d'un diplôme figurant sur la liste fixée par arrêté ministériel ou reconnu équivalent par une commission dont la composition et le fonctionnement sont déterminés par arrêté ministériel ou pouvoir user en France du titre de psychologue ;
 
   - b) ne pas avoir été condamné à une peine privative de liberté ;
 
