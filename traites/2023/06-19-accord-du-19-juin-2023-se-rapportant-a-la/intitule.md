@@ -1,0 +1,1 @@
+Accord du 19 juin 2023 se rapportant à la Convention des Nations Unies sur le Droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale (Accord BBNJ)

@@ -1,0 +1,3 @@
+# Article 71
+
+L'article 70 n'interdit pas à un État ou à une organisation régionale d'intégration économique, au moment de la signature, de la ratification, de l'approbation ou de l'acceptation du présent Accord ou de l'adhésion à celui-ci, de faire des déclarations, quels qu'en soient le libellé ou la dénomination, notamment en vue d'harmoniser ses lois et règlements avec le présent Accord, à condition que ces déclarations ne visent pas à exclure ou à modifier l'effet juridique des dispositions du présent Accord dans leur application à cet État ou à cette organisation régionale d'intégration économique.

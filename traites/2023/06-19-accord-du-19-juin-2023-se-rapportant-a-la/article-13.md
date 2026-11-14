@@ -1,0 +1,3 @@
+# Article 13
+
+Les Parties prennent des mesures législatives, administratives ou de politique générale, le cas échéant et selon qu'il convient, afin de garantir que les connaissances traditionnelles détenues par les peuples autochtones et les communautés locales et associées aux ressources génétiques marines dans les zones ne relevant pas de la juridiction nationale ne soient accessibles qu'avec le consentement préalable, donné librement et en connaissance de cause, desdits peuples autochtones et communautés, ou leur approbation et leur participation. L'accès à ces connaissances traditionnelles peut être facilité par le Centre d'échange. Les conditions de cet accès et de l'utilisation de ces connaissances sont convenues d'un commun accord.

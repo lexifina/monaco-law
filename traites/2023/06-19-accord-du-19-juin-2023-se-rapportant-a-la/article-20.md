@@ -1,0 +1,3 @@
+# Article 20
+
+Dès réception d'une proposition écrite, le secrétariat la rend publique et la transmet à l'Organe scientifique et technique, qui procède à un examen préliminaire. L'objet de cet examen est de vérifier que la proposition comporte les éléments requis à l'article 19, y compris les critères indicatifs énoncés dans la présente partie et à l'annexe I. Les conclusions de l'examen sont rendues publiques et communiquées par le secrétariat à l'auteur de la proposition. Ce dernier, après avoir pris en compte l'examen préliminaire de l'Organe scientifique et technique, renvoie sa proposition au secrétariat. Ce dernier en informe les Parties, rend la nouvelle proposition publique et facilite les consultations visées à l'article 21.

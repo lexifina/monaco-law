@@ -1,0 +1,3 @@
+# Article 18
+
+La création d'outils de gestion par zone, y compris d'aires marines protégées, ne porte sur aucune zone relevant de la juridiction nationale et ne peut être invoquée pour faire valoir ou rejeter une quelconque revendication de souveraineté, de droits souverains ou de juridiction, y compris à l'occasion d'un différend en la matière. La Conférence des Parties n'examine pas les propositions de création de tels outils de gestion par zone, y compris d'aires marines protégées, et de telles propositions ne doivent en aucun cas être interprétées comme valant reconnaissance ou non d'une quelconque revendication de souveraineté, de droits souverains ou de juridiction.
