@@ -1,8 +1,8 @@
 # Ordonnance Souveraine n° 10.966 du 5 décembre 2024 relative aux conditions d'exercice de l'ostéopathie
 
-Version en vigueur au 1er novembre 2025.
+Version en vigueur au 14 novembre 2026.
 
-Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2024/12-05-10.966@2025.11.01/
+Source : Legimonaco, https://legimonaco.mc/tnc/ordonnance/2024/12-05-10.966@2026.11.14/
 
 | | |
 | --- | --- |
