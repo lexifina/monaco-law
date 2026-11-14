@@ -1,63 +1,84 @@
-# Monaco law, change by change
+# Monaco: law history in git
 
-[Français](README.md) · **English**
+**English** · **[Ou lisez-le en français](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Monégasque law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Monaco as a git history: one file per article, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Monaco's national law, which global-law reads at `monaco/national/acts/`.
 
-Two Monegasque texts as a git repository: the **Constitution of 17 December 1962** (with its 2002 revision) and **loi n° 1.362 du 3 août 2009** on money laundering, terrorist financing and corruption (18 consolidated versions, 2009 to 2025). Each amending act is one commit, credited to that act and dated the day its changes took effect, at noon in Monaco. The text is the French text of [Legimonaco](https://legimonaco.mc), the official legal database of the Principality.
+**What is in it now:** two acts from Legimonaco, with 20 versions: the Constitution of 17 December 1962, as written and as revised in 2002 (2 versions, 97 articles), and loi n° 1.362 of 3 August 2009 on money laundering, terrorist financing and corruption (18 versions, 2009 to 2025, 172 articles). [`lois.csv`](lois.csv) lists every act that changed them, with its dates and the articles it changed; each act's `README.md` lists its articles and how often each changed.
 
-## A lawyer's questions as git commands
+Each act is a folder with one file per article: `constitution/article-53.md` is Article 53 of the Constitution and `loi-1362/article-1er.md` Article 1 of loi n° 1.362; `intitule.md` holds an act's title and `constitution/preambule.md` the preamble.
+
+The text is in French, Monaco's only official language, as Legimonaco publishes it. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did Art. 53 of the Constitution say on 1 January 1990? | `python tools/en_vigueur_au.py 1990-01-01 constitution 53` |
-| Art. 22-2 of loi n° 1.362 on 1 January 2022 | `python tools/en_vigueur_au.py 2022-01-01 loi-1362 22-2` |
-| The whole of loi n° 1.362 on 1 March 2019 | `python tools/en_vigueur_au.py 2019-03-01 loi-1362` |
-| Which law wrote each line of an article? | `git blame constitution/article-53.md` |
-| Every change to an article, with the law behind it | `git log -p --follow loi-1362/article-1er.md` |
-| Everything one law changed | `git show --stat loi/1549` |
-| Every law that changed loi n° 1.362, in order | `git log --reverse --format='%(trailers:key=In-force,valueonly,separator=)%x09%an' -- loi-1362` |
-| The state of an act on a day it changed | `git checkout loi-1362/2018-07-07` |
-| What no law explains | `git log --grep='^Kind: ' --format='%h%x09%(trailers:key=In-force,valueonly,separator=)%x09%s'` |
+| Every change to Article 1 of loi n° 1.362 | `git log -p --word-diff -- loi-1362/article-1er.md` |
+| Which act wrote each line of Article 1? | `git blame loi-1362/article-1er.md` |
+| Every version of loi n° 1.362, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- loi-1362` |
+| Article 1 as in force on 1 January 2018 | `python tools/en_vigueur_au.py 2018-01-01 loi-1362 1er` |
 
-The laws with their dates are in [`lois.csv`](lois.csv); each act's articles, with how often each changed, are in its folder's `README.md`. After a rebuild of this repository, refresh old clones with `git fetch --force --tags`.
+**Outside git**, we also host this record publicly, for free:
 
-## The dates, and which one we use
+- **[Ask Claude about Monegasque law](https://global-law.lexifina.com/v1/try_claude?country=monaco)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=monaco)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=blanchiment+de+capitaux&jurisdictions=monaco)**: a search of Monegasque law for "blanchiment de capitaux", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-A Monegasque law is dated the day the Prince signs it (`Enacted:`), published in the Journal de Monaco (`Published:`), and enforceable against third parties from the day after its publication (Constitution, Art. 69), unless it provides a later day. **Commits are dated the day the changed text applies from**: the date Legimonaco gives the consolidated version (`<text>@YYYY.MM.DD`), which decides which text governs a case. Where an article's own history gives its change another day ("modifié à compter du …") than the version that prints it, the commit keeps that day in `Law-in-force:`.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in French or in English.
 
-**Git cannot store dates before 1970.** The Constitution's text of 17 December 1962 is dated 1970-01-01; its real day is in the `In-force:` trailer and the tag `constitution/1962-12-17`. `tools/en_vigueur_au.py` reads `In-force:`, so it gives the right text for any day.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add monaco/national/acts
+python3 tools/law.py show 2026-01-01 monaco/national/acts/loi-1362/article-1er.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, Europe/Monaco, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- the day Legimonaco gives each consolidated version (`<text>@YYYY.MM.DD`), the day its text applies from; a law's own dates are in `Enacted:` (the day the Prince signed it) and `Published:` (the Journal de Monaco, from the day after which it binds third parties, Constitution, Art. 69);
+- where an article's own history gives its change another day than the version that prints it, that day is in `Law-in-force:`;
+- git cannot store dates before 1970, so the Constitution's 1962 text is dated 1970-01-01, with the real day in `In-force:` and the tag `constitution/1962-12-17`. Ask for a date with `tools/en_vigueur_au.py`, not `git log --before`.
+
+Each change is credited to the act that made it, as Legimonaco names it (`Loi n° 1.462 du 28 juin 2018`), from each article's "Historique de consolidation" (`Evidence:` says how). Changes no single act explains are credited to `Legimonaco` and labelled `Kind: typesetting`, `Kind: reverted` or `Kind: unexplained` (45 of 501 article changes).
 
 ## How it is checked
 
-`tools/check_repo.py` reads every one of the 20 versions back from git on the day it applies from and compares each file, byte for byte, with the text rebuilt from that version's Legimonaco page, then compares the whole act word for word with the page read independently of the parser. `tools/test_repo.py` checks blame, the reader before and after known amendments, `git log --follow`, the tags, the trailers, the authors and every command in the table above. The build is deterministic: rebuilt from the same data, it gives the same commit hashes. See [`REPRODUCE.md`](REPRODUCE.md).
-
-## What "author" means
-
-The author of a commit is the act that made the change, named as Legimonaco names it (`Loi n° 1.462 du 28 juin 2018`), at an address that cannot exist (`loi-1462@legimonaco.invalid`). So `git blame` names, for each line, the law that last wrote it. Each article in each Legimonaco version carries a "Historique de consolidation" naming the acts that created, amended or repealed it, often with the day ("remplacé à compter du 30 septembre 2023 par la loi n° 1.549 …"). A change is credited to the one act that history names for that day, or to the one act it names for the first time (`Evidence:` in each commit says which).
-
-The first texts are by the acts themselves. Changes no single act explains are by `Legimonaco` and labelled: `Kind: typesetting` where only spacing changed, `Kind: reverted` where a version prints an earlier text again, `Kind: unexplained` otherwise, including where the history names a law and an ordonnance souveraine jointly for one change. Only the documentation commit is by Lexifina.
+- `tools/check_repo.py` reads each of the 20 versions back from git on the day it applies from and compares every file, byte for byte, with the text rebuilt from that version's Legimonaco page (its sha256 in `data/versions.json`).
+- It then compares the whole act, word for word, with the page read independently of the parser.
+- `tools/test_repo.py` checks blame, the dated tool before and after known amendments, `git log --follow`, the tags and the trailers.
+- Rebuilt from the same pages, the build gives the same commit hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 
 ## What it does not show
 
-- Division headings (Titre, Chapitre, Section; they are in each act's `README.md`), histories and editorial notes.
-- The 1911 Constitution, which Legimonaco has only as a PDF attached to the 1962 text, and any act beyond these two.
-- Text as amended between two of Legimonaco's versions: the record has exactly the versions Legimonaco publishes, including its own corrections and its versions that print a change early or print an earlier text again (see `REPRODUCE.md`).
+- **Any other act.** Only these two are here: no other laws or ordonnances souveraines, no case law, no bills.
+- **The 1911 Constitution**, which Legimonaco has only as a PDF attached to the 1962 text.
+- **Text between Legimonaco's versions.** The record has exactly the versions Legimonaco publishes, including those that print a change early or print an earlier text again (see `REPRODUCE.md`).
+- **Division headings, histories and editorial notes**, left out of the article files (each act's `README.md` lists its headings).
 
-This is a research aid. Only the Journal de Monaco is authoritative; the consolidated texts on Legimonaco, and so this repository, are not.
+## Sources
 
-## How it is built
-
-`tools/build.py` reads Legimonaco's list of versions and each version's page, compares consecutive versions article by article, credits each change, and writes the commits. No AI model takes part in building or checking it. Every step, command and decision is in [`REPRODUCE.md`](REPRODUCE.md). `corpus.json` describes the corpus for Lexifina's global index.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Legimonaco](https://legimonaco.mc) (Gouvernement Princier) | Official legal database: consolidated texts and each article's history | yes, every consolidated version | Only the Journal de Monaco is authoritative |
 
 ## Licence
 
-Source : Legimonaco, base de données juridique officielle de la Principauté de Monaco (Gouvernement Princier), https://legimonaco.mc. Under the Monegasque law on copyright, "Les lois, ordonnances, arrêtés, décisions et publications administratives, judiciaires ou officielles ne bénéficient pas de la protection instituée par la présente loi" (Loi n° 491 du 24 novembre 1948, article 38). The texts were converted to one file per article and arranged as commits; the wording was not changed. Lexifina's own contributions are CC0. See [`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). Under Monaco's copyright law, laws and official publications are not protected (Loi n° 491 du 24 novembre 1948, article 38); only the words of the law are reproduced, unchanged, without Legimonaco's editorial notes. Lexifina's own contributions are CC0 1.0.
+
+No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
