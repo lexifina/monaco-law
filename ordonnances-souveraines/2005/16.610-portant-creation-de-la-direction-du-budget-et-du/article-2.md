@@ -1,11 +1,9 @@
 # Article 2
 
-La Direction du Budget et du Trésor comporte les quatre divisions ci-dessous :
+La Direction du Budget et du Trésor est organisée autour des trois divisions suivantes :
 
-- la division budget ;
+- la division " Budget " ;
 
-- la division paye et retraites ;
+- la division " Payes et Retraites " ;
 
-- la division financière ;
-
-- la division financement de l'économie.
+- la division " Finances - Secteur bancaire - Bureau des sanctions économiques internationales. "
