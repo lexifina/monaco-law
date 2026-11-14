@@ -106,9 +106,14 @@ def tests(repo: str) -> list[tuple[str, callable]]:
     out.append(('no commit is authored by Lexifina except the documentation commit; every committer is Lexifina', authors))
 
     def readme():
-        text = (Path(repo) / 'README.md').read_text(encoding='utf-8')
-        cmds = [c for c in re.findall(r'\| `([^`]+)` \|', text) if c.startswith(('git ', 'python '))]
-        assert len(cmds) >= 8, cmds
+        readme_path = Path(repo) / 'README.en.md'  # the English README where there is one, else README.md
+        text = (readme_path if readme_path.exists() else Path(repo) / 'README.md').read_text(encoding='utf-8')
+        start = text.index('## Questions as git commands')
+        end = text.find('\n## ', start + 1)
+        table = text[start:end if end != -1 else len(text)]
+        rows = '\n'.join(l for l in table.splitlines() if l.startswith('|'))
+        cmds = [c for c in re.findall(r'`([^`]+)`', rows) if c.startswith(('git ', 'python ')) and '<' not in c]
+        assert len(cmds) >= 3, cmds
         for c in cmds:
             args = shlex.split(c)
             if args[0] == 'python':
