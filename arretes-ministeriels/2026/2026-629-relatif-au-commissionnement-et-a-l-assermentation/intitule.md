@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-629 du 10 novembre 2026 relatif au commissionnement et à l'assermentation des agents chargés des contrôles prévus par la loi n° 1.598 du 16 octobre 2026 relative à la protection du Rocher de Monaco
