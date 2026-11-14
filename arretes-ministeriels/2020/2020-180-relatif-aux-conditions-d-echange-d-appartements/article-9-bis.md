@@ -14,6 +14,6 @@ Ces mesures ne sont toutefois pas reconduites en cas de nouvel échange pour les
 
 S'agissant du dépôt de garantie, les personnes n'en ayant pas versé à la signature de leur bail, n'ont pas à s'en acquitter lors de l'échange. En cas de versement, le montant sera maintenu s'il s'avérait être supérieur à celui du logement actuellement occupé.
 
-Le foyer co-échangeur restituant une ou plusieurs pièces par rapport à son besoin normal bénéficie d'une prime globale et forfaitaire, d'un montant de 10.000 euros, afin de couvrir des frais liés à son emménagement dans le nouvel appartement.
+Le foyer co-échangeur qui restitue une pièce, bénéficie d'une prime globale et forfaitaire d'un montant de 10.000 euros, afin de couvrir des frais liés à son emménagement dans le nouvel appartement. Ce montant est augmenté de 5.000 euros par pièce supplémentaire restituée.
 
 Cette prime est versée par la Direction de l'Habitat. Elle doit être sollicitée au plus tard un mois après la signature du nouveau bail par le biais d'un formulaire mis à disposition par cette Direction et accompagné des pièces justificatives nécessaires au paiement de cette prime.
