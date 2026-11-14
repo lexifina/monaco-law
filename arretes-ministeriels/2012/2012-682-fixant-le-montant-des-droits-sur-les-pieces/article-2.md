@@ -8,13 +8,13 @@ Immatriculation d'un cyclomoteur, motocycle, tricycle et quadricycle 100 % élec
 
 Immatriculation d'un cyclomoteur, motocycle, tricycle et quadricycle | 88,00 €
 
-Immatriculation d'un cyclomoteur, motocycle, tricycle et quadricycle immatriculé en « Z » ou en série TT (Transit temporaire) | 594,00 €
+Immatriculation d'un cyclomoteur, motocycle, tricycle et quadricycle immatriculé en " Z " ou en série TT (Transit temporaire) | 594,00 €
 
 Immatriculation d'un véhicule léger ou poids lourd 100% électrique | 69,00 €
 
 Immatriculation d'un véhicule léger ou poids lourd \ Immatriculation d'un poids lourd ou autre véhicule léger | 122,00 €
 
-Immatriculation d'un véhicule léger ou poids lourd immatriculé en « Z » ou en série TT (transit temporaire) | 617,00 €
+Immatriculation d'un véhicule léger ou poids lourd immatriculé en " Z " ou en série TT (transit temporaire) | 617,00 €
 
 Enregistrement d'une remorque de moins de 750 kg | 36,00 €
 
@@ -48,7 +48,7 @@ Estampille d'un véhicule 100 % électrique | 0,00 €
 
 Estampille d'un poids lourd ou autre véhicule léger | 53,00 €
 
-Estampille d'un véhicule immatriculé en « Z » ou en série TT (Transit temporaire) | 548,00 €
+Estampille d'un véhicule immatriculé en " Z " ou en série TT (Transit temporaire) | 548,00 €
 
 Duplicata d'estampille | 13,00 €
 
@@ -88,13 +88,13 @@ Immatriculation d'un cyclomoteur, motocycle, tricycle et quadricycle | 132,00 �
 
 Immatriculation d'un véhicule léger ou poids lourd 100 % électrique | 69,00 €
 
-Immatriculation d'un « véhicule de service » de puissance inférieure ou égale à 8 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 477,00 €
+Immatriculation d'un " véhicule de service " de puissance inférieure ou égale à 8 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 477,00 €
 
-Immatriculation d'un « véhicule de service » de puissance comprise entre 9 et 16 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 1 087,00 €
+Immatriculation d'un " véhicule de service " de puissance comprise entre 9 et 16 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 1 087,00 €
 
-Immatriculation d'un « véhicule de service » de puissance comprise entre 17 et 25 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 1 595,00 €
+Immatriculation d'un " véhicule de service " de puissance comprise entre 17 et 25 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 1 595,00 €
 
-Immatriculation d'un « véhicule de service » de puissance à partir de 26 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 2 103,00 €
+Immatriculation d'un " véhicule de service " de puissance à partir de 26 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 2 103,00 €
 
 Immatriculation d'un véhicule de grande remise | 122,00 €
 
@@ -138,13 +138,13 @@ Immatriculation d'un véhicule léger ou poids lourd immatriculé en série W ga
 
 Immatriculation d'un véhicule léger ou poids lourd immatriculé en série W0 garage | 151,00 €
 
-Carnet à souches « WW » | 193,00 €
+Carnet à souches " WW " | 193,00 €
 
-Registre « WW » | 48,00 €
+Registre " WW " | 48,00 €
 
-Carte « W0 » ou duplicata | 23,00 €
+Carte " W0 " ou duplicata | 23,00 €
 
-Registre « W0 » | 29,00 €
+Registre " W0 " | 29,00 €
 
 Attribution d'une boîte aux lettres à un professionnel de l'automobile | 120,00 €
 
@@ -156,13 +156,13 @@ Estampille d'un cyclomoteur, motocycle, tricycle, quadricycle | 86,00 €
 
 Estampille d'un véhicule 100 % électrique | 0,00 €
 
-Estampille d'un « véhicule de service » de puissance inférieure ou égale à 8 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 408,00 €
+Estampille d'un " véhicule de service " de puissance inférieure ou égale à 8 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 408,00 €
 
-Estampille d'un « véhicule de service » de puissance comprise entre 9 et 16 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 1 018,00 €
+Estampille d'un " véhicule de service " de puissance comprise entre 9 et 16 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 1 018,00 €
 
-Estampille d'un « véhicule de service » de puissance comprise entre 17 et 25 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 1 526,00 €
+Estampille d'un " véhicule de service " de puissance comprise entre 17 et 25 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 1 526,00 €
 
-Estampille d'un « véhicule de service » de puissance à partir de 26 chevaux de genre « Véhicule Particulier » (informations présentes sur le certificat d'immatriculation) | 2 034,00 €
+Estampille d'un " véhicule de service " de puissance à partir de 26 chevaux de genre " Véhicule Particulier " (informations présentes sur le certificat d'immatriculation) | 2 034,00 €
 
 Estampille d'un poids lourd ou autre véhicule léger | 53,00 €
 
@@ -213,3 +213,17 @@ Copie d'un document constituant un dossier | 7,00 €
 Duplicata de facture, récépissé de versement et attestation de paiement | 7,00 €
 
 Transfert de numéro minéralogique | 140,00 €
+
+TARIFS DÉROGATOIRES APPLICABLES AUX NUMÉROS D'IMMATRICULATION SUR MESURE
+
+Attribution d'un numéro d'immatriculation sur mesure comportant deux lettres | 20 000,00 €
+
+Attribution d'un numéro d'immatriculation sur mesure comportant trois lettres | 30 000,00 €
+
+Attribution d'un numéro d'immatriculation sur mesure comportant quatre lettres | 40 000,00 €
+
+Immatriculation d'un véhicule sous un numéro d'immatriculation sur mesure | 2 .500,00 €
+
+Renouvellement annuel du certificat d'immatriculation d'un numéro d'immatriculation sur mesure | 2 500,00 €
+
+Transfert d'un numéro d'immatriculation sur mesure | 2 500,00 €
