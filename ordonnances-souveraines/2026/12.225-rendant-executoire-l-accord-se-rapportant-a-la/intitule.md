@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 12.225 du 3 novembre 2026 rendant exécutoire l'Accord se rapportant à la Convention des Nations Unies sur le Droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, adopté à New York le 19 juin 2023 et entré en vigueur le 17 janvier 2026
