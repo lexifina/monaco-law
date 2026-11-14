@@ -1,0 +1,1 @@
+Ordonnance Souveraine n° 12.228 du 3 novembre 2026 instaurant une obligation de souscription d'un contrat d'assurance responsabilité civile professionnelle pour certains professionnels exerçant à titre libéral
