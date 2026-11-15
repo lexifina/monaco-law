@@ -30,7 +30,8 @@ Le texte est en français, seule langue officielle de Monaco, tel que Legimonaco
 
 - **[Interrogez Claude sur le droit monégasque](https://global-law.lexifina.com/v1/try_claude?country=monaco)** : ouvre Claude avec une première question prête.
 - **[Interrogez ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=monaco)** : la même question dans ChatGPT.
-- **[Appelez l’API dans votre navigateur](https://global-law.lexifina.com/v1/search_law?query=blanchiment+de+capitaux&jurisdictions=monaco)** : une recherche de « blanchiment de capitaux » dans le droit monégasque, renvoyée en JSON. La documentation est [ici](https://lexifina.com/api/global-law).
+- **[Cherchez dans le droit monégasque sur notre site](https://lexifina.com/law?country=monaco&q=blanchiment+de+capitaux)** : une recherche de « blanchiment de capitaux », avec le texte de chaque disposition et ses versions, sans compte.
+- **[API REST pour les développeurs](https://global-law.lexifina.com/v1/search_law?query=blanchiment+de+capitaux&jurisdiction=monaco)** : la même recherche en JSON, sans clé. La documentation est [ici](https://lexifina.com/api/global-law).
 
 Les deux assistants lisent le registre par le connecteur gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`) ; la première fois, la conversation vous donne le lien qui l’ajoute. Posez vos questions en français ou en anglais.
 
