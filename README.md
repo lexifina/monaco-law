@@ -61,6 +61,7 @@ Chaque modification est attribuée à l’acte qui l’a faite, désigné comme 
 - Il compare ensuite l’ensemble du texte, mot pour mot, à la page lue indépendamment de l’analyseur.
 - `tools/test_repo.py` vérifie le blame, l’outil de date avant et après des modifications connues, `git log --follow`, les tags et les trailers.
 - Reconstruite à partir des mêmes pages, la construction donne les mêmes empreintes de commit. Les résultats figurent dans [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): erreurs de rédaction possibles dans ce droit, trouvées par les détecteurs de global-law et vérifiées à la main. Pas encore lancé.
 
 ## Ce qu’il ne montre pas
 
@@ -82,6 +83,10 @@ Voir [`LICENSE`](LICENSE). Aux termes de la loi monégasque sur le droit d’aut
 Aucun modèle d’IA n’a écrit ni modifié de texte juridique ; les scripts ont été écrits par un modèle d’IA (voir [`REPRODUCE.md`](REPRODUCE.md)).
 
 Ceci est une traduction de la version anglaise ([README.en.md](README.en.md)) ; en cas de divergence, la version anglaise fait foi.
+
+## Visualisations
+
+- [visualisations/](visualisations/): graphiques tirés de ce dépôt. Pas encore dessinés.
 
 ## En savoir plus
 

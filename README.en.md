@@ -61,6 +61,7 @@ Each change is credited to the act that made it, as Legimonaco names it (`Loi nÂ
 - It then compares the whole act, word for word, with the page read independently of the parser.
 - `tools/test_repo.py` checks blame, the dated tool before and after known amendments, `git log --follow`, the tags and the trailers.
 - Rebuilt from the same pages, the build gives the same commit hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each change is credited to the act that made it, as Legimonaco names it (`Loi nÂ
 See [`LICENSE`](LICENSE). Under Monaco's copyright law, laws and official publications are not protected (Loi nÂ° 491 du 24 novembre 1948, article 38); only the words of the law are reproduced, unchanged, without Legimonaco's editorial notes. Lexifina's own contributions are CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
