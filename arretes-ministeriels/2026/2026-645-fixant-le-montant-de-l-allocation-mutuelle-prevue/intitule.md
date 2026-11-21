@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-645 du 11 novembre 2026 fixant le montant de l'allocation mutuelle prévue par l'article 33 de la loi n° 1.544 du 20 avril 2023 instituant une Caisse Monégasque de Retraite Complémentaire pour l'exercice 2026-2027
