@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-635 du 11 novembre 2026 fixant le montant du salaire mensuel de référence servant de base pour le calcul de l'indemnité journalière forfaitaire servie dans le cadre du congé de maternité des travailleurs indépendants pour l'exercice 2026-2027
