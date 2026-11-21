@@ -116,19 +116,15 @@ B) Pour l'association d'actes techniques, le médecin ou la sage-femme code les 
 
 - h. Si pour des raisons médicales ou dans l'intérêt du patient, un médecin ou une sage-femme réalise des actes à des moments différents et discontinus de la même journée, à l'exclusion de ceux effectués dans une unité de réanimation ou dans une unité de soins intensifs de cardiologie, sur un même patient et qu'il facture ces actes à taux plein, il doit le justifier dans le dossier médical du patient qui est tenu à la disposition du contrôle médical.
 
-- i. Les actes de radiologie conventionnelle peuvent être associés entre eux, quel que soit leur nombre, et à d'autres actes :
+- i. Les actes de radiologie conventionnelle peuvent être associés à d'autres actes :
 
-  - - quand plusieurs actes de radiologie conventionnelle sont associés, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, les autres sont tarifés à 50 % de leur valeur ;
+  - les actes de radiologie conventionnelle sont associés entre eux selon la règle générale décrite au point 1 du paragraphe B) ;
 
-  - - quand un ou plusieurs actes de radiologie conventionnelle sont associés à d'autres actes, l'acte dont le tarif hors modificateurs est le plus élevé parmi les actes de radiologie conventionnelle, ainsi que l'acte dont le tarif hors modificateurs est le plus élevé parmi les autres actes sont tarifés à taux plein ; les actes restants sont tarifés selon les règles qui leur sont applicables ;
+  - quand un ou deux actes de radiologie conventionnelle sont associés, dans le respect des règles d'incompatibilité, à des actes qui ne relèvent pas du champ de la radiologie conventionnelle, l'acte qui ne relève pas du champ de la radiologie conventionnelle dont le tarif hors modificateurs est le plus élevé parmi ces derniers est tarifé à taux plein ; les autres actes restants sont tarifés selon les règles qui leur sont applicables ;
 
-  - - quand une mammographie est associée à un acte d'échographie du sein, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, l'autre est tarifé à 50 % de sa valeur.
+  - quand une mammographie est associée à un acte d'échographie du sein, l'acte dont le tarif hors modificateurs est le plus élevé est tarifé à taux plein, l'autre est tarifé à 50 % de sa valeur.
 
-- Le guidage radiologique est considéré comme un acte de radiologie conventionnelle.
-
-- Par actes de radiologie conventionnelle, on entend les actes diagnostiques de radiologie, en dehors de ceux portant sur l'appareil circulatoire du paragraphe 04.01.04, des actes par scanographie et des actes du sous-paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle.
-
-- Les radiographies de l'appareil circulatoire du paragraphe 04.01.04 sont tarifées selon la règle générale.
+- Le guidage radiologique est considéré comme un acte de radiologie conventionnelle. Par actes de radiologie conventionnelle, on entend les actes diagnostiques de radiographie, en dehors des actes du sous paragraphe 19.01.09.02 - Radiologie vasculaire et imagerie interventionnelle.
 
 - j. Pour les actes d'endoscopie, lorsque l'examen porte sur les régions anatomiques du nez, du cavum, du larynx ou du pharynx, un seul acte doit être tarifé, sauf dans les indications médicales prévues par la note de facturation de la subdivision " 06.01.08. Endoscopie de l'appareil respiratoire ".
 
