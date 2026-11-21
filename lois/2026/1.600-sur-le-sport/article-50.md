@@ -1,0 +1,3 @@
+# Article 50
+
+Pour bénéficier du congé sportif, les athlètes, juges et arbitres mentionnés à l'article 49 doivent être titulaires, en qualité d'amateurs, d'une licence d'affiliation à une fédération sportive agréée ou, à défaut, conformément à l'article 35, à une fédération sportive ou à une association sportive agréée. Ils doivent être qualifiés en application des règlements du Comité International Olympique, du Comité International Paralympique, de la fédération internationale compétente ou de la fédération nationale étrangère sous l'égide desquelles sont organisées les compétitions mentionnées au premier alinéa de l'article 49.

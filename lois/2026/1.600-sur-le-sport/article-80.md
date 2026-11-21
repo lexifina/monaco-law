@@ -1,0 +1,5 @@
+# Article 80
+
+En sa qualité d'organisation nationale de lutte contre le dopage, le Comité Monégasque Antidopage est investi de toutes les prérogatives nécessaires à l'exercice des missions qui lui sont dévolues par la présente loi, par l'ordonnance souveraine qui l'institue de même que par les arrêtés ministériels pris en application de ces dernières et par le Code Mondial Antidopage ainsi que ses annexes.
+
+Sous réserve des prérogatives de puissance publique de l'État, il est l'interlocuteur unique de l'ensemble des acteurs de la lutte antidopage, lesquels outre les personnes mentionnées aux articles 15 et 73, incluent les acteurs institutionnels suivants : les services concernés des différents départements ministériels de l'État et notamment la Direction de l'Éducation Nationale, de la Jeunesse et des Sports et la Direction de l'Action Sanitaire, le Comité Olympique Monégasque ainsi que les Ordres des professionnels de santé ou, à défaut d'ordre professionnel, leur organisme représentatif.

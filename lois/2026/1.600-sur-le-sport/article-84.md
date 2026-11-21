@@ -1,0 +1,5 @@
+# Article 84
+
+Les sportifs et les groupements sportifs dont ils dépendent ainsi que, le cas échéant, les administrations concernées, communiquent au Comité Monégasque Antidopage toutes les informations relatives à la préparation, à l'organisation et au déroulement des entraînements, compétitions et manifestations sportives afin qu'il lui soit possible de diligenter les contrôles qu'il jugera appropriés.
+
+Sous réserve en ce qui concerne les fonctionnaires de l'État des dispositions de l'article 10 de la loi n° 975 du 12 juillet 1975, modifiée, et en ce qui concerne les fonctionnaires de la Commune des dispositions de l'article 10 de la loi n° 1.096 du 7 août 1986, modifiée, tout acteur de la lutte antidopage tel que défini au présent chapitre qui aurait connaissance de faits relatifs au dopage est tenu d'en informer le Comité Monégasque Antidopage sous peine de sanctions disciplinaires, administratives ou pénales déterminées par l'arrêté ministériel mentionné au deuxième alinéa de l'article 83 du présent chapitre.

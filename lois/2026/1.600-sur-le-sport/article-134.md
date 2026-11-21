@@ -1,0 +1,3 @@
+# Article 134
+
+Indépendamment de toute autorisation nécessaire, en application des lois en vigueur pour constituer une société ou exercer le commerce, l'exercice sur le territoire monégasque, de l'activité consistant à mettre en rapport, contre rémunération, les parties intéressées à la conclusion d'un contrat soit relatif à l'exercice rémunéré d'une activité sportive ou d'entraînement, soit qui prévoit la conclusion d'un contrat de travail ayant pour objet l'exercice rémunéré d'une activité sportive ou d'entraînement est subordonné à l'obtention d'une autorisation administrative préalable délivrée par le Ministre d'État.
