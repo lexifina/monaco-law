@@ -2,9 +2,9 @@
 
 Au sens du présent article et pour l'application des articles 391‑7‑1 à 391‑7‑5 du Code pénal :
 
-- 1°) les termes et expressions « installation gouvernementale ou publique », « produits » ont le sens qui leur est donné par l'article premier de la Convention internationale des Nations Unies pour la répression du financement du terrorisme adoptée à New York le 9 décembre 1999 ;
+- 1°) les termes et expressions " installation gouvernementale ou publique ", " produits " ont le sens qui leur est donné par l'article premier de la Convention internationale des Nations Unies pour la répression du financement du terrorisme adoptée à New York le 9 décembre 1999 ;
 
-- 2°) par « acte de terrorisme » on entend :
+- 2°) par " acte de terrorisme " on entend :
 
   - a) tout acte visé au Titre III du Livre III ;
 
@@ -32,7 +32,7 @@ Au sens du présent article et pour l'application des articles 391‑7‑1 à 39
 
   - d) tout autre acte destiné à tuer ou blesser grièvement un civil, ou toute autre personne qui ne participe pas directement aux hostilités dans une situation de conflit armé, lorsque, par sa nature ou son contexte, cet acte vise à intimider une population ou à contraindre un gouvernement ou une organisation internationale à accomplir ou à s'abstenir d'accomplir un acte quelconque ;
 
-- 3°) l'expression « terroriste » désigne toute personne physique qui :
+- 3°) l'expression " terroriste " désigne toute personne physique qui :
 
   - a) commet ou tente de commettre des actes de terrorisme par tout moyen, directement ou indirectement, illégalement et délibérément ;
 
@@ -42,7 +42,7 @@ Au sens du présent article et pour l'application des articles 391‑7‑1 à 39
 
   - d) contribue à la commission d'actes de terrorisme par un groupe de personnes agissant dans un but commun, lorsque cette contribution est intentionnelle et vise à favoriser la commission de l'acte terroriste ou qu'elle est apportée en ayant connaissance de l'intention du groupe de commettre un acte terroriste ;
 
-- 4°) l'expression « organisation terroriste » désigne tout groupe de personnes qui :
+- 4°) l'expression " organisation terroriste " désigne tout groupe de personnes qui :
 
   - a) commet ou tente de commettre des actes de terrorisme par tout moyen, directement ou indirectement, illégalement et délibérément ;
 
@@ -52,4 +52,4 @@ Au sens du présent article et pour l'application des articles 391‑7‑1 à 39
 
   - d) contribue à la commission d'actes de terrorisme par un groupe de personnes agissant dans un but commun lorsque cette contribution est délibérée et vise à favoriser la commission de l'acte terroriste ou qu'elle est apportée en sachant l'intention du groupe de commettre un tel acte ;
 
-- 5°) l'expression « fonds et autres biens » désigne tout bien, y compris, de manière non limitative, les actifs financiers, les ressources économiques y compris le pétrole et d'autres ressources naturelles, les biens de toute nature, corporels ou incorporels, meubles ou immeubles, quel que soit leur mode d'acquisition, ainsi que les actes juridiques ou instruments sous toute forme, y compris électronique ou numérique, attestant la propriété de ces fonds et autres biens ou les droits y relatifs, y compris, de manière non limitative, les crédits bancaires, les chèques de voyage, les chèques bancaires, les mandats, les actions, les valeurs mobilières, les obligations, les traites ou lettres de crédit et les éventuels intérêts, dividendes et autres revenus ou valeurs tirés de tels fonds et autres biens ou générés par ceux‑ci, et tous autres avoirs qui pourraient servir à obtenir des fonds, des biens ou des services.
+- 5°) l'expression " fonds et autres biens " désigne tout bien, y compris, de manière non limitative, les actifs financiers, les ressources économiques y compris le pétrole et d'autres ressources naturelles, les biens de toute nature, corporels ou incorporels, meubles ou immeubles, quel que soit leur mode d'acquisition, ainsi que les actes juridiques ou instruments sous toute forme, y compris électronique ou numérique, attestant la propriété de ces fonds et autres biens ou les droits y relatifs, y compris, de manière non limitative, les crédits bancaires, les chèques de voyage, les chèques bancaires, les mandats, les actions, les valeurs mobilières, les obligations, les traites ou lettres de crédit et les éventuels intérêts, dividendes et autres revenus ou valeurs tirés de tels fonds et autres biens ou générés par ceux‑ci, et tous autres avoirs qui pourraient servir à obtenir des fonds, des biens ou des services.

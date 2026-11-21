@@ -22,4 +22,4 @@ Lorsque la peine de confiscation porte sur des biens sur lesquels toute personne
 
 La personne dont le titre n'était pas connu ou qui n'a pas réclamé cette qualité au cours de la procédure peut former tierce opposition dans les conditions prévues par l'article 436 du Code de procédure civile.
 
-Au sens du présent article, le terme « biens » désigne tous les types d'avoirs, corporels ou incorporels, meubles ou immeubles, tangibles ou intangibles, ainsi que les actes juridiques ou documents attestant la propriété de ces avoirs ou les droits y relatifs.
+Au sens du présent article, le terme " biens " désigne tous les types d'avoirs, corporels ou incorporels, meubles ou immeubles, tangibles ou intangibles, ainsi que les actes juridiques ou documents attestant la propriété de ces avoirs ou les droits y relatifs.

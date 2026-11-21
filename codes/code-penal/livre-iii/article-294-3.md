@@ -20,6 +20,6 @@ Au sens du présent article, sont considérées comme des images à caractère p
 
 - 3°) l'image réaliste représentant un mineur se livrant à un comportement sexuellement explicite.
 
-L'expression « image réaliste » désigne, notamment, l'image altérée d'une personne physique, en tout ou partie créée par des méthodes numériques.
+L'expression " image réaliste " désigne, notamment, l'image altérée d'une personne physique, en tout ou partie créée par des méthodes numériques.
 
 Les dispositions du présent article ne s'appliquent pas si les images ou représentations d'images ont été collectées pour la constatation, la recherche ou la poursuite des infractions pénales.

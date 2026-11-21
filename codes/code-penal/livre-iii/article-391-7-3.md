@@ -1,6 +1,6 @@
 # Article 391-7-3
 
-Est qualifié « financement du terrorisme » et réprimé comme tel le fait :
+Est qualifié " financement du terrorisme " et réprimé comme tel le fait :
 
 - 1°) par quelque moyen que ce soit, directement ou indirectement, illégalement et délibérément, de fournir, réunir ou gérer des fonds et autres biens, dans l'intention de les voir utilisés ou en sachant qu'ils seront utilisés, en tout ou partie, soit :
 
