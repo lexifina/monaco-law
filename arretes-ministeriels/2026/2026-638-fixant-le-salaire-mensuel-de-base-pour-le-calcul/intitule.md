@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-638 du 11 novembre 2026 fixant le salaire mensuel de base pour le calcul des pensions de retraite des salariés et le montant de la retraite entière annuelle des salariés pour l'exercice 2026-2027
