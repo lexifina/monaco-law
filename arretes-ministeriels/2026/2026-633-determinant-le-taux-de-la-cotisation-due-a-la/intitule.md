@@ -1,0 +1,1 @@
+Arrêté ministériel n° 2026-633 du 11 novembre 2026 déterminant le taux de la cotisation due à la Caisse d'Assurance Maladie, Accident et Maternité des Travailleurs Indépendants pour l'exercice 2026-2027
