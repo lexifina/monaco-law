@@ -1,6 +1,6 @@
 {
   "corpus": "mc/national/acts",
-  "name": "Monaco: Constitution and loi n° 1.362",
+  "name": "Monaco: la Constitution, les codes, les lois, les ordonnances souveraines, les arrêtés et les traités, versions consolidées de Legimonaco",
   "history_from": "1962-12-17",
   "built": "2026-10-28",
   "dates": {
@@ -24,14 +24,17 @@
   },
   "tool": "tools/en_vigueur_au.py",
   "in_force_trailer": "In-force",
-  "record_to": "2025-11-22",
+  "record_to": "2026-11-21",
   "citation": {
-    "file": "([a-z0-9-]+)/article-0*([0-9]+[a-z0-9-]*)\\.md",
+    "file": "(.+)/article-0*([0-9]+[a-z0-9-]*)\\.md",
     "cites": "([Aa]rticle|[Aa]rt\\.) ?{n}([^0-9]|$)"
   },
   "label": "Monaco",
   "language": "fr",
   "checked_on": "2026-10-28",
   "history": "in-force",
-  "record_note": "Checked against the official source on 2026-10-28."
+  "record_note": "Checked against the official source on 2026-10-28.",
+  "sources": [
+    "https://legimonaco.mc"
+  ]
 }
