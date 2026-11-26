@@ -216,3 +216,28 @@ consolidated texts, and so this repository, are not.
 
 Checked 2026-10-28: the legalize-dev organisation (github.com/legalize-dev) has no Monaco repository; none of its code or
 data is used. No other git history of Monaco law was found.
+
+## Extension of 2026-11-26: every text on Legimonaco
+
+The repository was extended from two acts to every consolidated text Legimonaco publishes, by an append-only runner
+(`scripts/monaco-law/runner/` in the Lexifina tooling: `mc_fetch.py`, `mc_build.py`, `mc_docs.py`). Earlier commits
+were not rewritten; `loi-1362/` was moved to its place in the new layout by a pure-rename commit.
+
+- **Catalogue.** The search endpoint Legimonaco's own pages call (`POST https://legimonaco.mc/~~search/depot/_search`)
+  lists every consolidated version as one document with its address `<text>@YYYY.MM.DD` (14,066 versions on
+  2026-11-26: Constitution 2, codes 286, legislation 1,052, regulation 11,959, treaties 767).
+- **Pages.** Each version page `https://legimonaco.mc/<text>@YYYY.MM.DD/`, one request in flight about a second apart,
+  more only after clean stretches, fewer at the first error. No challenge, login or 403 was worked around.
+- **Parsing.** The 2026-10-28 parser (`build.read_version`): one file per article, histories and editorial notes left
+  out; an article number printed twice keeps both, the second with a suffix; a text with no articles keeps its body
+  in `texte.md`. Large codes are split by livre, and by titre inside a livre of more than 900 articles.
+- **Dates.** One commit per version, at noon Europe/Monaco on the day Legimonaco gives that version
+  (`In-force-basis: legimonaco-version-date`); before 1970 the commit is dated 1970-01-01 with the real day in the
+  subject and `In-force:`. Versions applying after the build day are held.
+- **Credit.** A text's first version is credited to the text itself when it is its original wording (within a year of
+  the text's date); otherwise, and for codes, to Legimonaco. A later version is credited to the one act its
+  articles' "Historique de consolidation" names on that day (or, failing that, names for the first time), else to
+  Legimonaco. A version Legimonaco marks "Texte abrogé" removes the folder, credited to the repealing act it names.
+- **Terms.** Legimonaco's CGU allow reuse "à titre gratuit uniquement". Lexifina's decision (2026-11-18) is to take
+  sources whose terms only exclude commercial use: this repository is public and free, with the text unchanged and
+  its source in every commit.
