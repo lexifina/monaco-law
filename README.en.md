@@ -11,7 +11,7 @@ The law of Monaco as a git history: one file per article, one commit per version
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Monaco's national law, which global-law reads at `monaco/national/acts/`.
 
-**What is in it now:** the Constitution and 10 codes (among them the Code civil, the Code pénal, both procedure codes and the Code de commerce), 144 lois and ordonnances-lois, 0 ordonnances souveraines, arrêtés and other regulatory texts, and 0 treaties, from Legimonaco with every consolidated version it publishes (556 dated versions). The layout is in [STRUCTURE.md](STRUCTURE.md).
+**What is in it now:** the Constitution and 10 codes (among them the Code civil, the Code pénal, both procedure codes and the Code de commerce), 673 lois and ordonnances-lois, 6,303 ordonnances souveraines, arrêtés and other regulatory texts, and 497 treaties, from Legimonaco with every consolidated version it publishes (13,289 dated versions). The layout is in [STRUCTURE.md](STRUCTURE.md).
 
 Each act is a folder with one file per article: `constitution/article-53.md` is Article 53 of the Constitution and `codes/code-civil/titre-preliminaire/article-2.md` Article 2 of the Code civil; `intitule.md` holds an act's title and `constitution/preambule.md` the preamble.
 

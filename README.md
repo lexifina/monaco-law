@@ -11,7 +11,7 @@ Le droit monégasque sous forme d’historique git : un fichier par article, un 
 
 Fait partie de [lexifina/global-law](https://github.com/lexifina/global-law), un historique git unique pour le droit de chaque pays : ce dépôt contient le droit national monégasque, que global-law lit dans `monaco/national/acts/`.
 
-**Ce qu’il contient aujourd’hui :** la Constitution et 10 codes (dont le Code civil, le Code pénal, les deux codes de procédure et le Code de commerce), 144 lois et ordonnances-lois, 0 ordonnances souveraines, arrêtés et autres textes réglementaires, et 0 traités, issus de Legimonaco avec toutes les versions consolidées qu’il publie (556 versions datées). La structure est décrite dans [STRUCTURE.md](STRUCTURE.md).
+**Ce qu’il contient aujourd’hui :** la Constitution et 10 codes (dont le Code civil, le Code pénal, les deux codes de procédure et le Code de commerce), 673 lois et ordonnances-lois, 6 303 ordonnances souveraines, arrêtés et autres textes réglementaires, et 497 traités, issus de Legimonaco avec toutes les versions consolidées qu’il publie (13 289 versions datées). La structure est décrite dans [STRUCTURE.md](STRUCTURE.md).
 
 Chaque texte est un dossier, un fichier par article : `constitution/article-53.md` est l’article 53 de la Constitution et `codes/code-civil/titre-preliminaire/article-2.md` l’article 2 du Code civil ; `intitule.md` contient l’intitulé d’un texte et `constitution/preambule.md` le préambule.
 
